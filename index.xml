@@ -55,20 +55,29 @@ This page is still under construction, and may be incomplete.  Economy #  1. Par
     </item>
     
     <item>
-      <title>Gregori-Heitzfeld Syndrome</title>
-      <link>https://wiki.millmint.studio/docs/author/gregori/</link>
+      <title>Intelligence</title>
+      <link>https://wiki.millmint.studio/docs/landscape/intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wiki.millmint.studio/docs/author/gregori/</guid>
-      <description>Gregori-Heitzfeld Syndrome #  </description>
+      <guid>https://wiki.millmint.studio/docs/landscape/intelligence/</guid>
+      <description>National Intelligence in Vekllei #  Americas Bureau #  </description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://wiki.millmint.studio/docs/Studio-MillMint/Intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wiki.millmint.studio/docs/Studio-MillMint/Intro/</guid>
+      <description>Characters in Vekllei.</description>
     </item>
     
     <item>
       <title>Mette Sumoisnesn</title>
-      <link>https://wiki.millmint.studio/docs/characters/mette/</link>
+      <link>https://wiki.millmint.studio/docs/characters/other-characters/mette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wiki.millmint.studio/docs/characters/mette/</guid>
+      <guid>https://wiki.millmint.studio/docs/characters/other-characters/mette/</guid>
       <description>Under Construction
 This page is still under construction, and may be incomplete.  Mette Sumoisnesn #  </description>
     </item>
@@ -97,34 +106,22 @@ This article is complete. It was last updated in July 2020.  Tzipora Desmoisnes 
     </item>
     
     <item>
-      <title>Vekllei</title>
-      <link>https://wiki.millmint.studio/docs/intro/vekllei/</link>
+      <title>Characters</title>
+      <link>https://wiki.millmint.studio/docs/Studio-MillMint/characters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wiki.millmint.studio/docs/intro/vekllei/</guid>
+      <guid>https://wiki.millmint.studio/docs/Studio-MillMint/characters/</guid>
+      <description>Characters in Vekllei.</description>
+    </item>
+    
+    <item>
+      <title>Vekllei</title>
+      <link>https://wiki.millmint.studio/docs/Studio-MillMint/vekllei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wiki.millmint.studio/docs/Studio-MillMint/vekllei/</guid>
       <description>Under Construction
 This page is still under construction, and may be incomplete.  Vekllei #  1. Overview #  1.1 Introduction #   Vekllei (also The Kingdom of Vekllei, The Vekllei Commonwealth, Islanda, Iceland) is a sovereign island country situated in the northern Atlantic, between Greenland and the Faroe Islands. It consists of the Vekllei city-state (referred to as the Home Island or Crown Metropole), two autonomous territories, six crown territories and various possessions including over a hundred satellite islands and islets.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://wiki.millmint.studio/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/posts/creating-a-new-theme/</guid>
-      <description>Introduction #  This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://wiki.millmint.studio/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static #  Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
@@ -408,65 +405,6 @@ Vekllei National Railways, or ‘VK Rail’ was the bastard of six major pre-war
       <description>Vekllei is a country in my alt-world; a utopian fever dream of googie aesthetics, participatory economics and nostalgia.
 Welcome to the ‘Petticoat Project’, a collection of stories about a country and a girl. The concept is broken down into three sections:
  Author: for blog posts and articles on the Petticoat Project, utopian fiction, personal news item, etc. Character: for posts about Tzipora, people in her life, or otherwise events that occur during her time on Earth.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://wiki.millmint.studio/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://wiki.millmint.studio/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wiki.millmint.studio/docs/author/petticoat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/docs/author/petticoat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wiki.millmint.studio/docs/author/utopia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/docs/author/utopia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wiki.millmint.studio/docs/intro/characters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/docs/intro/characters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wiki.millmint.studio/docs/landscape/intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wiki.millmint.studio/docs/landscape/intelligence/</guid>
-      <description>National Intelligence in Vekllei #  Americas Bureau #  </description>
     </item>
     
   </channel>
