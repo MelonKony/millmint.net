@@ -9,12 +9,12 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://wiki.millmint.studio/posts/" />
-<meta property="og:updated_time" content="2014-09-28T00:00:00+00:00" />
+<meta property="og:updated_time" content="2020-08-24T03:27:22+00:00" />
 <title>Blog | ZELDA WIKI</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.49053c564c9e6a34bbaf90c7de71a7d31c2248072ceab278afac0d34f6acddc7.css" integrity="sha256-SQU8VkyeajS7r5DH3nGn0xwiSAcs6rJ4r6wNNPas3cc=">
-<script defer src="/en.search.min.3e7d154c1c5c18dd04105ff6102b06924b649f53767fcf8b3442a78342d184a3.js" integrity="sha256-Pn0VTBxcGN0EEF/2ECsGkktkn1N2f8&#43;LNEKng0LRhKM="></script>
+<link rel="stylesheet" href="/book.min.349842e7358b85fb91d53ec52022abd0ec69d9586fd16bddb64cbc2573dd2a39.css" integrity="sha256-NJhC5zWLhfuR1T7FICKr0Oxp2Vhv0Wvdtky8JXPdKjk=">
+<script defer src="/en.search.min.2cac74b50237bc799287f715441d4e2096892c415ed4c246001436404bc7e2a5.js" integrity="sha256-LKx0tQI3vHmSh/cVRB1OIJaJLEFe1MJGABQ2QEvH4qU="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <link rel="alternate" type="application/rss+xml" href="https://wiki.millmint.studio/posts/index.xml" title="ZELDA WIKI" />
@@ -23,7 +23,17 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
 
-  
+  <script>
+     var html = document.documentElement;
+     
+     if (localStorage.getItem('themeMode') == 'dark') {
+       html.setAttribute("data-theme","dark");
+     }
+     if (localStorage.getItem('themeMode') == 'light') {
+       html.setAttribute("data-theme","light");
+     }
+</script> 
+
 </head>
 
 <body dir=>
@@ -39,10 +49,27 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-size:28px">🌖</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-size:28px">🌗</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -253,10 +280,10 @@ We&rsquo;ll start with creating a new site with a very basic template.
   
   <article class="markdown book-post">
     <h2>
-      <a href="/posts/goisforlovers/">(Hu)go Template Primer</a>
+      <a href="/posts/2020-08-24-missile/">Absolute Quiet</a>
     </h2>
     
-  <h5>Apr 2, 2014</h5>
+  <h5>Aug 24, 2020</h5>
 
 
 
@@ -265,19 +292,19 @@ We&rsquo;ll start with creating a new site with a very basic template.
   
 
 
-    <p>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.
-        <a href="/posts/goisforlovers/">...</a>
+    <p>There were plumes in the sky, sent from bunkers buried deep in the well of the Earth, killing with switches. Vekllei went to war, and so Tzipora went to war with it.
+The throbbing machinery of another world began turning, and anyone who saw the bomb would hear it. Passing seconds dislocated and caught heartbeats. The plumes were pretty. It was such a shame, those plumes. It was a quiet afternoon in the flower-tundras.
+        <a href="/posts/2020-08-24-missile/">...</a>
       
     </p>
   </article>
   
   <article class="markdown book-post">
     <h2>
-      <a href="/posts/hugoisforlovers/">Getting Started with Hugo</a>
+      <a href="/posts/2020-08-17-house/">Rural Newda in Rural Vekllei</a>
     </h2>
     
-  <h5>Apr 2, 2014</h5>
+  <h5>Aug 17, 2020</h5>
 
 
 
@@ -286,18 +313,168 @@ This document is a brief primer on using Go templates.
   
 
 
-    <p>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
-        <a href="/posts/hugoisforlovers/">...</a>
+    <p>Newda is Vekllei’s national architectural ideology, applied flexibly in a range of modernist styles developed domestically in her architecture schools. Broadly, Newda buildings emphasise distinction from the surrounding landscape (called Dumousiantopet, or ‘beautiful and seperate’), natural decay, and honesty in material and construction. Vekllei’s great Parliament House is Newda; as are the little rural homes found in the mountains inland in Vekllei.
+Tzipora’s house in the village of Montre-Lola ( as depicted on the map here) is built in what Vekllei calls “Azores revivalism”, a Newda style heavily influenced by the stripped deco and streamline moderne buildings of a century prior.
+        <a href="/posts/2020-08-17-house/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/2020-08-12-ageless/">The Thousand-Year-Old Girl</a>
+    </h2>
+    
+  <h5>Aug 12, 2020</h5>
+
+
+
+  
+
+  
+
+
+    <p>The concept of living forever jumps out at people uncomfortable with their own existence. There is a contemplative instinct among educated people that — if they could simply will themselves into a state of self-actualisation — death would only be an obstacle to greatness.
+As Tzipora found out quickly, the opposite was true — death and temporality were wells of meaning against which all great people, beauty, and human constructions were cast.
+        <a href="/posts/2020-08-12-ageless/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/2020-08-09-spaceship/">The 31st Century — Vekllei throughout our Solar System</a>
+    </h2>
+    
+  <h5>Aug 9, 2020</h5>
+
+
+
+  
+
+  
+
+
+    <p>The Epoch of Rest #  We’ve spent a lot of time in the 21st century — but Tzipora is biologically immortal. Where does she go from here? Well, let’s enjoy a small glimpse at that future together, by winding the clock forward one thousand years.
+By 3076, our Solar System is a pleasant place to be. Most of the planets we once gazed at from afar are now habitable and lived on.
+        <a href="/posts/2020-08-09-spaceship/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/2020-08-01-tzipora-concept/">Meet Tzipora — concept panel for a Vekllei comic</a>
+    </h2>
+    
+  <h5>Aug 1, 2020</h5>
+
+
+
+  
+
+  
+
+
+    <p>Unique among girls #  There are a lot of things Tzipora does differently to everybody else, and they start to make a lot more sense when you realise Tzipora either does not realise she is unusual, or does not care.
+She has a lot of endearing characteristics that give great character to her mannerisms and physicality. She has a small overbite that makes her look a little froggy, and ritually pulls on her shirt and wipes her nose in anxious conversation.
+        <a href="/posts/2020-08-01-tzipora-concept/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/2020-07-28-summer-house/">Summer House in the Azores</a>
+    </h2>
+    
+  <h5>Jul 28, 2020</h5>
+
+
+
+  
+
+  
+
+
+    <p>The Azores had been a possession of Vekllei since 2002, when they were leased from Portugal indefinitely. The lease was defunct by the time of Vekllei’s independence from U.K. occupation in 2015, and the new state took formal ownership over the small Atlantic islands.
+The Azores was Vekllei’s resort region, often called simply the “holiday isles”. Brief reprieves from the North Atlantic cold were granted to hundreds of thousands domestic tourists each year in resorts and holiday rentals alike.
+        <a href="/posts/2020-07-28-summer-house/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/2020-07-21-base-camp/">Base Camp</a>
+    </h2>
+    
+  <h5>Jul 21, 2020</h5>
+
+
+
+  
+
+  
+
+
+    <p>Just a paint-sketch.
+The puffin scouts set up camp not far from the rest, just outside of Krafla in the Lava region. When they moved south tomorrow, thick native grasses and trees would give way to flower-tundras and bare hills, and by Tuesday they’d be in the heart of Lava — empty and extraterrestrial and volcanic.
+The Krafla high-energy communications tower was visible from all over the region. It provided uninterrupted radio to most of North Lava, and could relay signals through satellites.
+        <a href="/posts/2020-07-21-base-camp/">...</a>
+      
+    </p>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/2020-07-20-edc/">Tzipora’s ‘Every Day Carry’</a>
+    </h2>
+    
+  <h5>Jul 20, 2020</h5>
+
+
+
+  
+
+  
+
+
+    <p>Like a lot of girls of poverty, Tzipora was very possessive of her things. No food was ever left on her plate. There was a deep anxiety that whatever wasn’t claimed would be lost.
+She was also naturally obsessive and material-oriented, keenly aware of the importance of objects measured by metrics in her own silly head. You can discover a lot about a person from their trinkets and toys — let’s discover a bit about Tzipora.
+        <a href="/posts/2020-07-20-edc/">...</a>
       
     </p>
   </article>
   
 
   
+<ul class="pagination">
+  <li class="page-item">
+    <a href="/posts/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+  </li>
+  <li class="page-item disabled">
+    <a  class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+  </li>
+  <li class="page-item active">
+    <a class="page-link" href="/posts/">1</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/posts/page/2/">2</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/posts/page/3/">3</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/posts/page/4/">4</a>
+  </li>
+  <li class="page-item">
+    <a href="/posts/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+  </li>
+  <li class="page-item">
+    <a href="/posts/page/4/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+  </li>
+</ul>
 
 
  
@@ -356,7 +533,32 @@ Follow the following steps:
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
 </body>
 
 </html>

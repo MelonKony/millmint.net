@@ -17,8 +17,8 @@ This page is still under construction, and may be incomplete.  Cobian Queismesna
 <title>Cobian Queismesnah | ZELDA WIKI</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.49053c564c9e6a34bbaf90c7de71a7d31c2248072ceab278afac0d34f6acddc7.css" integrity="sha256-SQU8VkyeajS7r5DH3nGn0xwiSAcs6rJ4r6wNNPas3cc=">
-<script defer src="/en.search.min.3e7d154c1c5c18dd04105ff6102b06924b649f53767fcf8b3442a78342d184a3.js" integrity="sha256-Pn0VTBxcGN0EEF/2ECsGkktkn1N2f8&#43;LNEKng0LRhKM="></script>
+<link rel="stylesheet" href="/book.min.349842e7358b85fb91d53ec52022abd0ec69d9586fd16bddb64cbc2573dd2a39.css" integrity="sha256-NJhC5zWLhfuR1T7FICKr0Oxp2Vhv0Wvdtky8JXPdKjk=">
+<script defer src="/en.search.min.2cac74b50237bc799287f715441d4e2096892c415ed4c246001436404bc7e2a5.js" integrity="sha256-LKx0tQI3vHmSh/cVRB1OIJaJLEFe1MJGABQ2QEvH4qU="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <!--
@@ -26,7 +26,17 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
 
-  
+  <script>
+     var html = document.documentElement;
+     
+     if (localStorage.getItem('themeMode') == 'dark') {
+       html.setAttribute("data-theme","dark");
+     }
+     if (localStorage.getItem('themeMode') == 'light') {
+       html.setAttribute("data-theme","light");
+     }
+</script> 
+
 </head>
 
 <body dir=>
@@ -42,10 +52,27 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-size:28px">🌖</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-size:28px">🌗</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -241,7 +268,32 @@ This page is still under construction, and may be incomplete.
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
 </body>
 
 </html>
