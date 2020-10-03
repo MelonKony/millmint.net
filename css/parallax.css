@@ -34,13 +34,13 @@ body > .hug-top{
   display: block;
   margin: 0px;
   padding: 0px;
-  height: 100vh;
+  height: 90vh;
   width: 100%;
   border-radius: 5px;
 }
 
 
-@media (max-device-width: 479px){
+@media (max-width: 479px){
   #HeaderCanvas{
     display: none;
   }

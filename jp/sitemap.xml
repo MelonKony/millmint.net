@@ -3,6 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wiki.millmint.studio/jp/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://wiki.millmint.studio/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://wiki.millmint.studio/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://wiki.millmint.studio/jp/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/jp/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://wiki.millmint.studio/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://wiki.millmint.studio/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://wiki.millmint.studio/jp/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wiki.millmint.studio/jp/</loc>
     <xhtml:link
                 rel="alternate"

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zelda Wiki on 🌺 ZELDA WIKI</title>
+    <title>Zelda Wiki on 🌺 MillMint</title>
     <link>https://wiki.millmint.studio/</link>
-    <description>Recent content in Zelda Wiki on 🌺 ZELDA WIKI</description>
+    <description>Recent content in Zelda Wiki on 🌺 MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 Aug 2020 03:27:22 +0000</lastBuildDate>
     
 	<atom:link href="https://wiki.millmint.studio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://wiki.millmint.studio/docs/author/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wiki.millmint.studio/docs/author/about/</guid>
+      <description>Hobart Phillips is an Australian illustrator and writer living and working in Tasmania.</description>
+    </item>
     
     <item>
       <title>Ayn Rumouisen</title>
@@ -30,17 +39,16 @@ This page is still under construction, and may be incomplete.  Ayn Rumouisen #  
       <guid>https://wiki.millmint.studio/docs/characters/other-characters/cobian/</guid>
       <description>Key Article
 This page is about a main character in the story of Vekllei.  Under Construction
-This page is still under construction, and may be incomplete.  Cobian Queismesnah #  </description>
+This page is still under construction, and may be incomplete.  🦚 Cobian Queismesnah #  </description>
     </item>
     
     <item>
-      <title>Economy</title>
-      <link>https://wiki.millmint.studio/docs/landscape/economy/</link>
+      <title>Contact</title>
+      <link>https://wiki.millmint.studio/docs/author/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wiki.millmint.studio/docs/landscape/economy/</guid>
-      <description>Under Construction
-This page is still under construction, and may be incomplete.  Economy #  1. Participatory Economics in Utopia #  1.1. Introduction #  The daily functioning of the Vekllei economy is as miraculous as it is unique. Key organs and mechanisms of the Vekllei economy reality are positioned against or outright opposed against each other. And a startling series of contradictions &amp;ndash; one after the other, each more unusual than the last.</description>
+      <guid>https://wiki.millmint.studio/docs/author/contact/</guid>
+      <description>Hobart Phillips is an Australian illustrator and writer living and working in Tasmania.</description>
     </item>
     
     <item>
@@ -58,7 +66,9 @@ This page is still under construction, and may be incomplete.  Economy #  1. Par
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wiki.millmint.studio/docs/MillMint/Intro/</guid>
-      <description>Welcome to the Epoch of Rest #  A tour of what &amp;lsquo;Vekllei&amp;rsquo; is #  </description>
+      <description>🌺 Welcome to the Epoch of Rest #  What is Vekllei? #  Hi, I’m Hobart and I write and draw Vekllei at Studio MillMint.
+This is a pretty complex project. Not just complex insofar as there’s a lot to read about it, but that it uses concepts and terminology you might not be familiar with if this is your first time around utopian fiction.
+So Vekllei is a utopia — what does this mean?</description>
     </item>
     
     <item>
@@ -80,6 +90,16 @@ This page is still under construction, and may be incomplete.  Mette Sumoisnesn 
       <description>Key Article
 This page is about a main character in the story of Vekllei.  Under Construction
 This page is still under construction, and may be incomplete.  Moise ra Hasapis #  </description>
+    </item>
+    
+    <item>
+      <title>Sundress Municipalism</title>
+      <link>https://wiki.millmint.studio/docs/landscape/economy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wiki.millmint.studio/docs/landscape/economy/</guid>
+      <description>Under Construction
+This page is still under construction, and may be incomplete.  Economy #  1. Participatory Economics in Utopia #  1.1. Introduction #  The daily functioning of the Vekllei economy is as miraculous as it is unique. Key organs and mechanisms of the Vekllei economy reality are positioned against or outright opposed against each other. And a startling series of contradictions &amp;ndash; one after the other, each more unusual than the last.</description>
     </item>
     
     <item>
