@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wiki.millmint.studio/pt/</loc>
+    <loc>https://wiki.millmint.studio/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,8 +16,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://wiki.millmint.studio/es/"
+                hreflang="pt"
+                href="https://wiki.millmint.studio/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -26,8 +26,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://wiki.millmint.studio/pt/"
+                hreflang="es"
+                href="https://wiki.millmint.studio/es/"
                 />
   </url>
   
