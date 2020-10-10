@@ -30,10 +30,6 @@
   </url>
   
   <url>
-    <loc>https://wiki.millmint.studio/docs/landscape/society/intelligence/</loc>
-  </url>
-  
-  <url>
     <loc>https://wiki.millmint.studio/docs/MillMint/Intro/</loc>
     <lastmod>2020-10-03T17:12:35+10:00</lastmod>
   </url>
@@ -72,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://wiki.millmint.studio/docs/landscape/religion/</loc>
+    <loc>https://wiki.millmint.studio/docs/landscape/society/intelligence/</loc>
   </url>
   
   <url>
@@ -80,7 +76,11 @@
   </url>
   
   <url>
-    <loc>https://wiki.millmint.studio/docs/landscape/people/</loc>
+    <loc>https://wiki.millmint.studio/docs/landscape/society/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/docs/landscape/society/religion/</loc>
   </url>
   
   <url>
@@ -136,13 +136,23 @@
   </url>
   
   <url>
-    <loc>https://wiki.millmint.studio/posts/2020-08-24-missile/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <loc>https://wiki.millmint.studio/posts/2020-10-07-boredom/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/posts/2020-10-07-boredom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/posts/2020-10-07-boredom/"
+                />
   </url>
   
   <url>
     <loc>https://wiki.millmint.studio/categories/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -172,27 +182,67 @@
   
   <url>
     <loc>https://wiki.millmint.studio/categories/character/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/categories/character/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/categories/character/"
+                />
   </url>
   
   <url>
-    <loc>https://wiki.millmint.studio/tags/military/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <loc>https://wiki.millmint.studio/tags/cityscape/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/cityscape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/cityscape/"
+                />
   </url>
   
   <url>
-    <loc>https://wiki.millmint.studio/tags/nature/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <loc>https://wiki.millmint.studio/tags/cobian/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/cobian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/cobian/"
+                />
   </url>
   
   <url>
     <loc>https://wiki.millmint.studio/tags/painting/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/painting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/painting/"
+                />
   </url>
   
   <url>
     <loc>https://wiki.millmint.studio/tags/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -221,6 +271,36 @@
   </url>
   
   <url>
+    <loc>https://wiki.millmint.studio/tags/zelda/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/zelda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/zelda/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/posts/2020-08-24-missile/</loc>
+    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/tags/military/</loc>
+    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/tags/nature/</loc>
+    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wiki.millmint.studio/tags/architecture/</loc>
     <lastmod>2020-10-03T16:08:17+10:00</lastmod>
   </url>
@@ -242,11 +322,6 @@
   
   <url>
     <loc>https://wiki.millmint.studio/posts/2020-08-12-ageless/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiki.millmint.studio/tags/zelda/</loc>
     <lastmod>2020-10-03T16:08:17+10:00</lastmod>
   </url>
   
@@ -287,11 +362,6 @@
   
   <url>
     <loc>https://wiki.millmint.studio/posts/2020-07-21-base-camp/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiki.millmint.studio/tags/cobian/</loc>
     <lastmod>2020-10-03T16:08:17+10:00</lastmod>
   </url>
   
@@ -387,11 +457,6 @@
   
   <url>
     <loc>https://wiki.millmint.studio/posts/2020-06-03-canal/</loc>
-    <lastmod>2020-10-03T16:08:17+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiki.millmint.studio/tags/cityscape/</loc>
     <lastmod>2020-10-03T16:08:17+10:00</lastmod>
   </url>
   
@@ -492,6 +557,16 @@
   <url>
     <loc>https://wiki.millmint.studio/posts/</loc>
     <lastmod>2020-10-03T16:08:17+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/posts/"
+                />
   </url>
   
   <url>

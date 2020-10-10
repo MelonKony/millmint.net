@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wiki.millmint.studio/fr/posts/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wiki.millmint.studio/fr/categories/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +48,83 @@
   </url>
   
   <url>
+    <loc>https://wiki.millmint.studio/fr/categories/character/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/categories/character/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/categories/character/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/fr/tags/cityscape/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/cityscape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/cityscape/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/fr/tags/cobian/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/cobian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/cobian/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/fr/posts/2020-10-07-boredom/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/posts/2020-10-07-boredom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/posts/2020-10-07-boredom/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wiki.millmint.studio/fr/tags/painting/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/painting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/painting/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wiki.millmint.studio/fr/tags/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -61,7 +153,23 @@
   </url>
   
   <url>
+    <loc>https://wiki.millmint.studio/fr/tags/zelda/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wiki.millmint.studio/tags/zelda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://wiki.millmint.studio/fr/tags/zelda/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wiki.millmint.studio/fr/</loc>
+    <lastmod>2020-10-07T05:20:09+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
