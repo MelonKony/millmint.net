@@ -33,8 +33,10 @@ body > .hug-top{
 #HeaderCanvas{
   display: block;
   margin: 0px;
+  margin-top: -20px;
+  margin-right: -100px;
   padding: 0px;
-  height: 90vh;
+  height: 95vh;
   width: 100%;
   border-radius: 5px;
 }
@@ -88,7 +90,7 @@ See: https://css-tricks.com/aspect-ratio-boxes/
     width: 100%;
 }
 [style*="--aspect-ratio"] > img {
-    height: auto;
+    height: 100vh;
 }
 
 @supports (--custom:property) {
