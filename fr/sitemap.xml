@@ -78,6 +78,36 @@
   </url>
   
   <url>
+    <loc>https://millmint.net/fr/</loc>
+    <lastmod>2020-10-10T16:27:05+11:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://millmint.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://millmint.net/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://millmint.net/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://millmint.net/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://millmint.net/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>https://millmint.net/fr/posts/2020-10-07-boredom/</loc>
     <lastmod>2020-10-10T16:27:05+11:00</lastmod>
     <xhtml:link
@@ -149,36 +179,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://millmint.net/fr/tags/zelda/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/fr/</loc>
-    <lastmod>2020-10-10T16:27:05+11:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://millmint.net/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://millmint.net/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://millmint.net/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/"
                 />
   </url>
   

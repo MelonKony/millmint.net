@@ -33,17 +33,34 @@ body > .hug-top{
 #HeaderCanvas{
   display: block;
   margin: 0px;
-  margin-top: -20px;
   margin-right: -100px;
   padding: 0px;
-  height: 95vh;
+  height: 90vh;
   width: 100%;
   border-radius: 5px;
 }
 
+#MobileImg{
+  display: block;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0px;
+  height: 15vh;
+  width: 15vh;
+  border-radius: 5px;
+}
 
+/*kills the parallax on mobile*/
 @media (max-width: 479px){
   #HeaderCanvas{
+    display: none;
+  }
+}
+
+/*replaces it with static image*/
+@media (min-width: 479px){
+  #MobileImg{
     display: none;
   }
 }

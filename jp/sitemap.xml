@@ -32,35 +32,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/jp/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://millmint.net/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://millmint.net/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://millmint.net/jp/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://millmint.net/jp/</loc>
     <lastmod>2020-10-10T16:27:05+11:00</lastmod>
     <xhtml:link
@@ -87,6 +58,35 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://millmint.net/jp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/jp/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://millmint.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://millmint.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://millmint.net/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://millmint.net/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://millmint.net/jp/tags/"
                 />
   </url>
   
