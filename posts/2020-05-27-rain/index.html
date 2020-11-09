@@ -27,7 +27,7 @@ Five days prior, Baron hailed an EB/NI company car and it pulled up beside him. 
 var doNotTrack = false;
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'G-YYK7EMZSQD', 'auto');
+	ga('create', 'G-KC02XB55HF', 'auto');
 	
 	ga('send', 'pageview');
 }
@@ -38,7 +38,18 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
 
-  <script>
+  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KC02XB55HF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KC02XB55HF');
+</script>
+
+<script>
      var html = document.documentElement;
      
      if (localStorage.getItem('themeMode') == 'dark') {
@@ -47,7 +58,7 @@ https://github.com/alex-shpak/hugo-book
      if (localStorage.getItem('themeMode') == 'light') {
        html.setAttribute("data-theme","light");
      }
-</script> 
+</script>
 
 </head>
 
