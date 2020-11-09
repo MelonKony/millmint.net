@@ -5,10 +5,6 @@
     <link>https://millmint.net/docs/millmint/bulletin/</link>
     <description>Recent content in The Atlantic Bulletin on 🌺 MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://millmint.net/docs/millmint/bulletin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://millmint.net/docs/millmint/bulletin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

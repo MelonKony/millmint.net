@@ -5,10 +5,6 @@
     <link>https://millmint.net/es/tags/</link>
     <description>Recent content in Tags on 🌺 MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://millmint.net/es/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://millmint.net/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
