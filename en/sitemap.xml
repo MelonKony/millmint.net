@@ -183,13 +183,13 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/posts/2020-10-27-comic/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+    <loc>https://millmint.net/posts/2020-11-09-witch/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/announcements/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+    <loc>https://millmint.net/tags/architecture/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -224,12 +224,22 @@
   
   <url>
     <loc>https://millmint.net/categories/comic/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/meta/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+    <loc>https://millmint.net/tags/painting/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://millmint.net/fr/tags/painting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://millmint.net/tags/painting/"
+                />
   </url>
   
   <url>
@@ -275,6 +285,21 @@
                 hreflang="en"
                 href="https://millmint.net/tags/zelda/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-10-27-comic/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/announcements/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/meta/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -388,21 +413,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/painting/</loc>
-    <lastmod>2020-10-10T16:27:05+11:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/painting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/painting/"
-                />
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-09-30-father/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -493,11 +503,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/architecture/</loc>
-    <lastmod>2020-10-10T16:27:05+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-08-17-house/</loc>
     <lastmod>2020-10-10T16:27:05+11:00</lastmod>
   </url>
@@ -555,11 +560,6 @@
   <url>
     <loc>https://millmint.net/posts/2020-07-08-police/</loc>
     <lastmod>2020-10-10T16:27:05+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/vekllei/</loc>
-    <lastmod>2020-11-10T03:11:01+11:00</lastmod>
   </url>
   
   <url>
@@ -785,6 +785,51 @@
   <url>
     <loc>https://millmint.net/posts/2019-02-26-generation/</loc>
     <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2019-02-25-air-raid/</loc>
+    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2019-02-21-moment/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2019-02-16-gem/</loc>
+    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2019-02-06-sleepover/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2019-02-03-militia/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2019-02-02-look/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2018-12-31-fight/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2018-12-23-christmas/</loc>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2018-12-19-constabulary/</loc>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
