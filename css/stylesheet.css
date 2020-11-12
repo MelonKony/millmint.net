@@ -2,27 +2,16 @@
 
 /* You can add custom styles here. */
 
-// @import "plugins/numbered";
-// @import "plugins/scrollbars";
-
-//navigation padding
-.book-section-flat {
-	margin-left: 0.5rem;
-}
-.book-toc {
-	margin-left: -30px;
-}
-.book-toc nav{
-	margin-left: 40px;
-}
-
-.book-menu nav a{
-	margin-left: 15px;
-}
-.book-section-flat>a,
-.book-section-flat>span,
-.book-section-flat>label {
- margin-left: 15px;
+/*navigation padding*/
+.book-menu nav {
+	width: 16rem;
+	padding: 2rem!important;
+	background: var(--body-background);
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
 }
 
 //typography
