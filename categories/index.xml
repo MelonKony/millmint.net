@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on MillMint</title>
+    <link>https://millmint.net/categories/</link>
+    <description>Recent content in Categories on MillMint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>comic</title>
+      <link>https://millmint.net/categories/comic/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/categories/comic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>character</title>
+      <link>https://millmint.net/categories/character/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/categories/character/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscape</title>
+      <link>https://millmint.net/categories/landscape/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/categories/landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>author</title>
+      <link>https://millmint.net/categories/author/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/categories/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archive</title>
+      <link>https://millmint.net/categories/archive/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/categories/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
