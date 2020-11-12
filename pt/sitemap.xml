@@ -32,35 +32,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/pt/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://millmint.net/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://millmint.net/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://millmint.net/pt/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://millmint.net/pt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,6 +57,35 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://millmint.net/pt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/pt/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://millmint.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://millmint.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://millmint.net/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://millmint.net/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://millmint.net/pt/tags/"
                 />
   </url>
   

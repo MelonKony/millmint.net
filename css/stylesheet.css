@@ -211,18 +211,6 @@ $theme-dark: (
     icon-filter: brightness(0) invert(1),
 );
 
-[data-theme="dark"] {
-    @each $name, $value in $theme-dark {
-        --#{$name}: #{$value};
-    }
-}
-
-[data-theme="light"] {
-    @each $name, $value in $theme-light {
-        --#{$name}: #{$value};
-    }
-}
-
 //bulletin img shortcode
 img[alt=smallbulletin] { width: 400px; }
 
@@ -235,6 +223,6 @@ img[alt=smallbulletin] { width: 400px; }
     src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url(fonts/roboto-v19-latin-regular.woff2) format("woff2"), url(fonts/roboto-v19-latin-regular.woff) format("woff")
 }
 
-.markdown a:visited{
+a:visited {
 	color: #1a0dab!important,
 }
