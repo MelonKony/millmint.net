@@ -216,10 +216,21 @@ img[alt=smallbulletin] { width: 400px; }
     src: local("Inter Italic"), local("Inter-Italic"), url(fonts/Inter-Italic.woff2) format("woff2"), url(fonts/Inter-Italic.woff) format("woff")
 }
 
-.markdown a:visited {
-	color: #1a0dab;
+[data-theme=dark] {
+ --gray-100: rgba(255, 255, 255, 0.1);
+ --gray-200: rgba(255, 255, 255, 0.2);
+ --body-background: #343a40;
+ --body-font-color: #e9ecef;
+ --color-link: #84b2ff;
+ --color-visited-link: #b88dff;
+ --icon-filter: brightness(0) invert(1)
 }
-
-.a {
-	color: #06c;
+[data-theme=light] {
+ --gray-100: #f8f9fa;
+ --gray-200: #e9ecef;
+ --body-background: white;
+ --body-font-color: #1d1d1f;
+ --color-link: #06c;
+ --color-visited-link: #1a0dab;
+ --icon-filter: none
 }
