@@ -3,6 +3,7 @@
 /* You can add custom styles here. */
 
 /*navigation padding*/
+
 .book-menu nav {
 	width: 16rem;
 	padding: 2rem!important;
@@ -14,7 +15,7 @@
 	overflow-y: auto;
 }
 
-//typography
+/* typography */
 hr, h1, h2, h3 {
   font-weight: bold;
 }
@@ -204,10 +205,11 @@ $theme-dark: (
     icon-filter: brightness(0) invert(1),
 );
 
-//bulletin img shortcode
+/* small image shortcode */
 img[alt=smallbulletin] { width: 400px; }
+img[alt=smallgif] { height: 400px; }
 
-//fix for light italics
+/* fix for light italics */
 @font-face {
     font-family: Inter;
     font-style: none;
@@ -233,4 +235,15 @@ img[alt=smallbulletin] { width: 400px; }
  --color-link: #06c;
  --color-visited-link: #1a0dab;
  --icon-filter: none
+}
+
+.book-menu nav {
+	width: 16.1rem;
+}
+
+/* columns wrap fix */
+.markdown .book-columns>div {
+margin: 1rem 0;
+min-width: 250px;
+padding: 0 1rem;
 }
