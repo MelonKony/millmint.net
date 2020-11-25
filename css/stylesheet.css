@@ -206,8 +206,11 @@ $theme-dark: (
 );
 
 /* small image shortcode */
-img[alt=smallbulletin] { width: 400px; }
+img[alt=smallbulletin] { width: 400px; } 
+
 img[alt=smallgif] { height: 400px; }
+
+img[alt=smallimg] { width: 400px; } !important
 
 /* fix for light italics */
 @font-face {
