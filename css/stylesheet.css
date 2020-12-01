@@ -54,11 +54,6 @@ hr, h1, h2, h3 {
  }
 }
 
-// rounded images
-.markdown img {
-  border-radius: 5px;
-}
-
 // title bold styles
 .markdown h1 {
   font-weight: bold;
@@ -206,7 +201,7 @@ $theme-dark: (
 );
 
 /* small image shortcode */
-img[alt=smallbulletin] { width: 400px; } 
+img[alt=smallbulletin] { width: 400px; }
 
 img[alt=smallgif] { height: 400px; }
 
@@ -246,7 +241,12 @@ img[alt=smallimg] { width: 400px; } !important
 
 /* columns wrap fix */
 .markdown .book-columns>div {
-margin: 1rem 0;
-min-width: 250px;
-padding: 0 1rem;
+	margin: 1rem 0;
+	min-width: 310px;
+	padding: 0 1rem;
+}
+
+/* rounded images */
+.markdown img {
+  border-radius: 5px;
 }
