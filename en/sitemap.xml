@@ -221,7 +221,7 @@
   
   <url>
     <loc>https://millmint.net/categories/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -251,27 +251,17 @@
   
   <url>
     <loc>https://millmint.net/posts/2020-12-01-grips/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/concept/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/categories/landscape/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/posts/2020-11-28-city/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/tags/painting/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -286,7 +276,7 @@
   
   <url>
     <loc>https://millmint.net/tags/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -312,6 +302,16 @@
                 hreflang="en"
                 href="https://millmint.net/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/concept/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-11-28-city/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
