@@ -95,8 +95,3 @@ body {
 code {
   font-family: 'Roboto Mono', monospace;
 }
-
-#headerbox {
-    display: flex;
-    justify-content: space-between;
-}
