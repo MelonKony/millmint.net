@@ -291,7 +291,7 @@ img[alt=smallimg] { width: 400px; } !important
 }
 
 #headerbox .alignleft {
-	font-family: Inter Extra Bold;
+	font-family: Inter Extra Bold; Arial, sans-serif;
 	margin-top: 3px;
 	margin-bottom: 0px;
 }
