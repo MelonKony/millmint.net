@@ -225,7 +225,7 @@ $theme-dark: (
 );
 
 /* small image shortcode */
-img[alt=smallbulletin] { width: 400px; }
+img[alt=emoji] { width: 30px; }
 
 img[alt=smallgif] { height: 400px; }
 
