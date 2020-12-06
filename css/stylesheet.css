@@ -8,14 +8,12 @@
 	font-family: 'Inter', Arial, sans-serif;
 }
 
-html {
-	font-family: 'Inter', Arial, sans-serif;
+.book-brand {
+	font-family: 'Inter Extra Bold', Arial, sans-serif;
 }
 
-@font-face {
-  font-family: 'Inter';
-  ...
-  font-display: swap;
+html {
+	font-family: 'Inter', Arial, sans-serif;
 }
 
 /*navigation padding*/
