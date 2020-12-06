@@ -2,11 +2,23 @@
 
 /* You can add custom styles here. */
 
-/*navigation padding*/
+/*font fallback*/
+
+.markdown {
+	font-family: 'Inter', Arial, sans-serif;
+}
 
 html {
 	font-family: 'Inter', Arial, sans-serif;
 }
+
+@font-face {
+  font-family: 'Inter';
+  ...
+  font-display: swap;
+}
+
+/*navigation padding*/
 
 .book-menu nav {
 	width: 16rem;
