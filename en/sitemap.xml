@@ -226,6 +226,11 @@
   </url>
   
   <url>
+    <loc>https://millmint.net/tags/2020/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://millmint.net/posts/2020-12-08-bea/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
@@ -266,18 +271,8 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/painting/</loc>
+    <loc>https://millmint.net/tags/post/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/painting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/painting/"
-                />
   </url>
   
   <url>
@@ -321,22 +316,17 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/concept/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-11-28-city/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://millmint.net/posts/2020-11-14-language/</loc>
+    <loc>https://millmint.net/tags/guide/</loc>
     <lastmod>2020-11-15T16:41:53+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/infograph/</loc>
+    <loc>https://millmint.net/posts/2020-11-14-language/</loc>
     <lastmod>2020-11-15T16:41:53+11:00</lastmod>
   </url>
   
@@ -346,32 +336,7 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/architecture/</loc>
-    <lastmod>2020-11-15T16:41:53+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/zelda/</loc>
-    <lastmod>2020-11-15T16:41:53+11:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/zelda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/zelda/"
-                />
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-10-27-comic/</loc>
-    <lastmod>2020-11-15T16:41:53+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/announcements/</loc>
     <lastmod>2020-11-15T16:41:53+11:00</lastmod>
   </url>
   
@@ -381,7 +346,7 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/meta/</loc>
+    <loc>https://millmint.net/tags/update/</loc>
     <lastmod>2020-11-15T16:41:53+11:00</lastmod>
   </url>
   
@@ -406,53 +371,13 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/story/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/machines/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-10-13-rohsm/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/cobian/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/cobian/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/cobian/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/economy/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/effortpost/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/posts/2020-10-11-metaphysic/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/society/</loc>
-    <lastmod>2020-11-11T17:18:43+11:00</lastmod>
   </url>
   
   <url>
@@ -471,27 +396,7 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/cityscape/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://millmint.net/fr/tags/cityscape/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://millmint.net/tags/cityscape/"
-                />
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-09-30-father/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/intro/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
   
@@ -511,11 +416,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/nature/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-09-17-gay/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
@@ -526,23 +426,8 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/moise/</loc>
-    <lastmod>2020-11-10T03:11:01+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-09-11-roadtrip/</loc>
     <lastmod>2020-11-10T03:11:01+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/school/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/uniforms/</loc>
-    <lastmod>2020-11-11T17:18:43+11:00</lastmod>
   </url>
   
   <url>
@@ -552,16 +437,6 @@
   
   <url>
     <loc>https://millmint.net/posts/2020-08-31-grotesque/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/map/</loc>
-    <lastmod>2020-11-11T17:18:43+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/military/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
   
@@ -581,17 +456,7 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/gregori/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-08-12-ageless/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/future/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
   
@@ -656,11 +521,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/ayn/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2020-06-06-battlecruiser/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
@@ -682,11 +542,6 @@
   
   <url>
     <loc>https://millmint.net/posts/2020-05-21-missed-train/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/trains/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
   
@@ -762,7 +617,62 @@
   
   <url>
     <loc>https://millmint.net/posts/2020-03-01-cobian/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-02-17-princess/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-02-11-salad/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-02-05-timeline/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-31-immortality/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-27-carriage/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-19-sublime/</loc>
+    <lastmod>2020-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-11-dress/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-09-japan/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-04-wind/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-01-01-new-year/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/2019/</loc>
+    <lastmod>2020-11-11T17:18:43+11:00</lastmod>
   </url>
   
   <url>
@@ -832,11 +742,6 @@
   
   <url>
     <loc>https://millmint.net/posts/2019-05-30-cabforward/</loc>
-    <lastmod>2020-11-11T17:16:29+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/infographic/</loc>
     <lastmod>2020-11-11T17:16:29+11:00</lastmod>
   </url>
   
@@ -922,6 +827,11 @@
   
   <url>
     <loc>https://millmint.net/posts/2019-02-02-look/</loc>
+    <lastmod>2020-11-11T17:18:43+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/2018/</loc>
     <lastmod>2020-11-11T17:18:43+11:00</lastmod>
   </url>
   

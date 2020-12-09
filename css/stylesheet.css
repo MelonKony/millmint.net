@@ -68,7 +68,7 @@ hr, h1, h2, h3 {
  }
 }
 
-// title bold styles
+/* title bold styles */
 .markdown h1 {
   font-weight: bold;
 }
@@ -275,6 +275,7 @@ img[alt=smallimg] { width: 400px; } !important
   border-radius: 5px;
 }
 
+/* intro background */
 #intro {
 	background-color: var(--gray-100);
 	border-radius: 5px;
@@ -337,4 +338,20 @@ img[alt=smallimg] { width: 400px; } !important
 	color: #6e6e73;
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
+}
+
+/* pagination fix */
+ul.pagination {
+display: flex;
+justify-content: center;
+list-style-type: none;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 0px;
+}
+
+ul.pagination .page-item a {
+padding: 0.7rem;
 }
