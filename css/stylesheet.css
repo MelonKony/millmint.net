@@ -80,6 +80,7 @@ hr, h1, h2, h3 {
 }
 .markdown h4 {
   font-weight: bold;
+	font-size: 18px;
 }
 .markdown h5 {
   font-weight: bold;
@@ -240,13 +241,26 @@ img[alt=smallimg] { width: 400px; } !important
     src: local("Inter Italic"), local("Inter-Italic"), url(fonts/Inter-Italic.woff2) format("woff2"), url(fonts/Inter-Italic.woff) format("woff")
 }
 
+/* dark theme colors */
+
 [data-theme=dark] {
  --gray-100: rgba(255, 255, 255, 0.1);
  --gray-200: rgba(255, 255, 255, 0.2);
- --body-background: #343a40;
+ --body-background: #0F0F0F;
  --body-font-color: #e9ecef;
  --color-link: #84b2ff;
  --color-visited-link: #b88dff;
+ --color-blue: rgb(20,142,255);
+ --color-brown: rgb(182,152,114);
+ --color-gray: rgb(162,162,167);
+ --color-green: rgb(60,225,85);
+ --color-indigo: rgb(99,97,242);
+ --color-orange: rgb(255,169,20);
+ --color-pink: rgb(255,65,105);
+ --color-purple: rgb(204,101,255);
+ --color-red: rgb(255,79,68);
+ --color-teal: rgb(100,210,255);
+ --color-yellow: rgb(255,224,20);
  --icon-filter: brightness(0) invert(1)
 }
 [data-theme=light] {
@@ -256,6 +270,17 @@ img[alt=smallimg] { width: 400px; } !important
  --body-font-color: #1d1d1f;
  --color-link: #06c;
  --color-visited-link: #1a0dab;
+ --color-blue: rgb(0,112,245);
+ --color-brown: rgb(152,122,84);
+ --color-gray: rgb(132,132,137);
+ --color-green: rgb(30,195,55);
+ --color-indigo: rgb(84,82,204);
+ --color-orange: rgb(245,139,0);
+ --color-pink: rgb(245,35,75);
+ --color-purple: rgb(159,75,201);
+ --color-red: rgb(245,49,38);
+ --color-teal: rgb(90,200,250);
+ --color-yellow: rgb(245,194,0);
  --icon-filter: none
 }
 
@@ -266,7 +291,7 @@ img[alt=smallimg] { width: 400px; } !important
 /* columns wrap fix */
 .markdown .book-columns>div {
 	margin: 1rem 0;
-	min-width: 310px;
+	min-width: 384px;
 	padding: 0 1rem;
 }
 
@@ -289,13 +314,13 @@ img[alt=smallimg] { width: 400px; } !important
     justify-content: space-between;
 }
 
-#headerbox .alignleft {
+#headerbox .title {
 	font-family: Inter Extra Bold; Arial, sans-serif;
 	margin-top: 3px;
 	margin-bottom: 0px;
 }
 
-#headerbox .alignright {
+#headerbox .emoji {
 	float: right;
 	font-size: 55px;
 	margin-top: 3px;
@@ -303,39 +328,13 @@ img[alt=smallimg] { width: 400px; } !important
 	margin-left: 1rem;
 }
 
-.markdown .pagetag {
-	color: #6e6e73;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .featuretag {
-	color: #4F69F8;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .articletag {
-	color: #DA0F47;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .bulletintag {
-	color: #688000;
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-
-.markdown .essaytag {
-	color: #0381A2;
-	font-weight: Inter Bold;
+.markdown .tag {
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 }
 
 .markdown .sitetag {
-	color: #6e6e73;
+	color: var(--color-gray);
 	margin-top: 0.5rem;
 	margin-bottom: 1rem;
 }
@@ -354,4 +353,82 @@ padding-inline-start: 0px;
 
 ul.pagination .page-item a {
 padding: 0.7rem;
+}
+
+/* colour squares */
+
+.square {
+  float: right;
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+}
+
+/* colors */
+.blue {
+  color: var(--color-blue);
+}
+
+.brown {
+  color: var(--color-brown);
+}
+
+.gray {
+  color: var(--color-cyan);
+}
+
+.green {
+  color: var(--color-green);
+}
+
+.indigo {
+  color: var(--color-indigo);
+}
+
+.orange {
+  color: var(--color-orange);
+}
+
+.pink {
+  color: var(--color-pink);
+}
+
+.purple {
+  color: var(--color-purple);
+}
+
+.red {
+  color: var(--color-red);
+}
+
+.teal {
+  color: var(--color-teal);
+}
+
+.yellow {
+  color: var(--color-yellow);
+}
+
+/*body resize fix*/
+@media screen and (min-width: 400px) {
+    .book-page, .book-menu nav, .book-toc nav {
+        padding:2rem 1rem
+    }
+}
+
+/* hint colours */
+
+.markdown .book-hint.info {
+    border-color: var(--color-blue);
+    background-color:var(--color-blue .1);
+}
+
+.markdown .book-hint.warning {
+    border-color: var(--color-yellow);
+    background-color:var(--color-yellow .1);
+}
+
+.markdown .book-hint.danger {
+    border-color: var(--color-red);
+    background-color: var(--color-red .1);
 }
