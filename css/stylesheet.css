@@ -16,50 +16,6 @@ html {
 	font-family: 'Inter', Arial, sans-serif;
 }
 
-/* defaults fix */
-:root {
-	--gray-100: #f8f9fa;
-	--gray-200: #e9ecef;
-	--body-background: white;
-	--body-font-color: #1d1d1f;
-	--color-link: #06c;
-	--color-visited-link: #1a0dab;
-	--color-blue: rgb(0,112,245);
-	--color-brown: rgb(152,122,84);
-	--color-gray: rgb(132,132,137);
-	--color-green: rgb(30,195,55);
-	--color-indigo: rgb(84,82,204);
-	--color-orange: rgb(245,139,0);
-	--color-pink: rgb(245,35,75);
-	--color-purple: rgb(159,75,201);
-	--color-red: rgb(245,49,38);
-	--color-teal: rgb(90,200,250);
-	--color-yellow: rgb(245,194,0);
-	--icon-filter: none
- }
-
- @media (prefers-color-scheme: dark) {
-    :root {
-			--gray-100: rgba(255, 255, 255, 0.1);
-			--gray-200: rgba(255, 255, 255, 0.2);
-			--body-background: #0F0F0F;
-			--body-font-color: #e9ecef;
-			--color-link: #84b2ff;
-			--color-visited-link: #b88dff;
-			--color-blue: rgb(20,142,255);
-			--color-brown: rgb(182,152,114);
-			--color-gray: rgb(162,162,167);
-			--color-green: rgb(60,225,85);
-			--color-indigo: rgb(99,97,242);
-			--color-orange: rgb(255,169,20);
-			--color-pink: rgb(255,65,105);
-			--color-purple: rgb(204,101,255);
-			--color-red: rgb(255,79,68);
-			--color-teal: rgb(100,210,255);
-			--color-yellow: rgb(255,224,20);
-			--icon-filter: brightness(0) invert(1)
-		 }
-
 /*navigation padding*/
 
 .book-menu nav {
@@ -82,6 +38,7 @@ hr, h1, h2, h3 {
   margin-top: 1.25em;
 }
 
+/* book brand */
 .book-brand img {
   height: 1em;
   vertical-align: top;
