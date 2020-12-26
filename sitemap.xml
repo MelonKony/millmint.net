@@ -35,10 +35,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/millmint/intro/</loc>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/articles/newsdesk/essays/apple/</loc>
   </url>
   
@@ -147,14 +143,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/millmint/vekllei/</loc>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/newsdesk/essays/</loc>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/articles/newsdesk/essays/</loc>
   </url>
   
@@ -196,31 +184,41 @@
   
   <url>
     <loc>https://millmint.net/tags/2020/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-12-26-deadplanes/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/categories/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/categories/character/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://millmint.net/posts/2020-12-21-sundown/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <loc>https://millmint.net/tags/pachinki/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/tags/post/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/tags/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2020-12-21-sundown/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -735,11 +733,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/tags/pachinki/</loc>
-    <lastmod>2020-12-15T19:28:27+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/posts/2019-04-06-palace/</loc>
     <lastmod>2020-12-15T19:28:27+11:00</lastmod>
   </url>
@@ -844,14 +837,6 @@
   
   <url>
     <loc>https://millmint.net/_indexBU/</loc>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/millmint/</loc>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/newsdesk/</loc>
   </url>
   
 </urlset>
