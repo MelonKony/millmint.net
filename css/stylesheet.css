@@ -136,10 +136,10 @@ hr, h1, h2, h3 {
   float: left;
   font-family: Inter Extra Bold;
   font-size: 78px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
+  line-height: 50px;
+  padding-top: 12px;
+  padding-right: 10px;
+  padding-left: 4px;
 }
 
 /*button bottom margin fix */
