@@ -278,6 +278,8 @@ img[alt=smallgif] { height: 400px; }
 
 img[alt=smallimg] { width: 400px; } !important
 
+img[alt=medal] { max-height: 100px; } !important
+
 /* fix for light italics */
 @font-face {
     font-family: Inter;
@@ -478,5 +480,3 @@ padding: 0.7rem;
     border-color: var(--color-red);
     background-color: var(--color-red .1);
 }
-
-/* sticky header fix */
