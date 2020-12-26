@@ -339,8 +339,9 @@ img[alt=medal] { max-height: 100px; } !important
 /* columns wrap fix */
 .markdown .book-columns>div {
 	margin: 1rem 0;
-	min-width: 384px;
+	min-width: 250px;
 	padding: 0 1rem;
+	margin-right: 0rem;
 }
 
 /* rounded images */
