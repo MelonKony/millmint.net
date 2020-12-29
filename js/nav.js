@@ -4,7 +4,7 @@ $('#page-nav>ul>li').on('mouseover', function(){
   $dot.css({
     left: $(this).offset().left
     - $(this).parent().offset().left
-    + $(this).width() / 10 - 20
+    + $(this).width() / 5 - 10
   });
 });
 
