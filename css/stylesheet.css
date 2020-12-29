@@ -5,9 +5,9 @@
 /* typography root */
 :root {
 	--gray-100: #f8f9fa;
-	--gray-200: #e9ecef;
-	--body-background: white;
-	--body-font-color: #1d1d1f;
+	--gray-200: #ededed;
+	--body-background: #fefefe;
+	--body-font-color: #444;
 	--color-link: #06c;
 	--color-visited-link: #1a0dab;
 	--color-blue: rgb(0,112,245);
@@ -117,6 +117,7 @@ hr, h1, h2, h3 {
 /* title bold styles */
 .markdown h1 {
   font-weight: bold;
+	font-size: 34px;
 }
 .markdown h2 {
   font-weight: bold;
@@ -261,7 +262,7 @@ hr, h1, h2, h3 {
 
 $theme-light: (
     gray-100: #f8f9fa,
-    gray-200: #e9ecef,
+    gray-200: #ededed,
     icon-filter: none,
 );
 
@@ -301,7 +302,7 @@ img {
 [data-theme=dark] {
  --gray-100: rgba(255, 255, 255, 0.1);
  --gray-200: rgba(255, 255, 255, 0.2);
- --body-background: #0F0F0F;
+ --body-background: #363636;
  --body-font-color: #e9ecef;
  --color-link: #84b2ff;
  --color-visited-link: #b88dff;
@@ -320,9 +321,9 @@ img {
 }
 [data-theme=light] {
  --gray-100: #f8f9fa;
- --gray-200: #e9ecef;
- --body-background: white;
- --body-font-color: #1d1d1f;
+ --gray-200: #ededed;
+ --body-background: #fefefe;
+ --body-font-color: #444;
  --color-link: #06c;
  --color-visited-link: #1a0dab;
  --color-blue: rgb(0,112,245);
@@ -337,6 +338,10 @@ img {
  --color-teal: rgb(90,200,250);
  --color-yellow: rgb(245,194,0);
  --icon-filter: none
+}
+
+.book-search input {
+	background: var(--gray-100);
 }
 
 .book-menu nav {
@@ -372,7 +377,7 @@ img {
 
 #headerbox .title {
 	font-family: Inter Extra Bold; Arial, sans-serif;
-	margin-top: 3px;
+	margin-top: 2px;
 	margin-bottom: 0px;
 }
 
@@ -385,7 +390,7 @@ img {
 }
 
 .markdown .tag {
-	margin-top: 0.5rem;
+	margin-top: 0.25rem;
 	margin-bottom: 0.5rem;
 }
 
@@ -487,4 +492,12 @@ padding: 0.7rem;
 .markdown .book-hint.danger {
     border-color: var(--color-red);
     background-color: var(--color-red .1);
+}
+
+/* highlight colours */
+::selection {
+  background: var(--color-yellow); /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: var(--color-yellow); /* Gecko Browsers */
 }
