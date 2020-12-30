@@ -5,9 +5,9 @@
   <meta name="generator" content="Hugo 0.78.2" />
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Utopian storytelling by Studio MillMint">
+<meta name="description" content="Utopian storytelling by Studio MillMint.">
 <meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Home" />
-<meta property="og:description" content="Utopian storytelling by Studio MillMint" />
+<meta property="og:description" content="Utopian storytelling by Studio MillMint." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/" />
 
@@ -15,7 +15,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
-<script defer src="/en.search.min.dac180deb86a95b2b40cdbdbe423a746e51a0d011b815847e2289b758ee3be8d.js" integrity="sha256-2sGA3rhqlbK0DNvb5COnRuUaDQEbgVhH4iibdY7jvo0="></script>
+<script defer src="/en.search.min.b3a0d45828d93e72bd7543177a19342a13d82b8bba7cd03b47d05d38018c82db.js" integrity="sha256-s6DUWCjZPnK9dUMXehk0KhPYK4u6fNA7R9BdOAGMgts="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/index.xml" title="MillMint" />
@@ -431,26 +431,56 @@ https://github.com/alex-shpak/hugo-book
       
       
   <article class="markdown"><style>
-/* columns wrap fix */
-.markdown .book-columns>div {
-	margin: 1rem 0;
-	min-width: 400px;
-	padding: 0 1rem;
-	margin-right: 0rem;
-}
+	/* columns wrap fix */
+	.markdown .book-columns>div {
+		margin: 1rem 0;
+		min-width: 250px;
+		padding: 0 1rem;
+		margin-right: 0rem;
+	}
+
+	/* hide mobile version by default */
+	.logo .mobile {
+	  display: none;
+	}
+	/* when screen is less than 600px wide
+	   show mobile version and hide desktop */
+	@media screen and (max-width: 56rem) {
+	  .logo .mobile {
+	    display: none;
+	  }
+	  .logo .desktop {
+	    display: none;
+	  }
+		.markdown .book-columns>div {
+	    margin: 0;
+		}
+		.book-header strong {
+			display: none;
+		}
+		.book-header {
+			font-size: 25pt;
+		}
+	}
 </style>
 <div class="book-columns flex flex-wrap">
   
   <div class="flex-even markdown-inner">
-    <!-- begin columns block -->
-<img id="intro" style="display: block; text-align: center; margin-left: auto; margin-right: auto; min-width: 300px; max-height: 700px;" src="/images/mastheads/princess.png">
+     <!-- begin columns block -->
+<div class="logo">
+	<img id="intro" class="desktop" style="text-align: center; margin-left: auto; margin-right: auto; max-height: 700px;" src="/images/mastheads/princess.png">
+	<div style="text-align: right;">
+		<img style="right: 0; min-width: 50px; max-height: 125px;" src="/favicon.png" class="mobile" />
+	</div>
+</div>
+
   </div>
   
   <div class="flex-even markdown-inner">
      <!-- magic separator, between columns -->
 <div style="height: 10vh; max-width:100%; height:auto;">
-<h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 60pt; letter-spacing: -2px;"> Studio
-<h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 60pt; letter-spacing: -2px;"> MillMint </h1></h1>
+<h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 55pt; letter-spacing: -2px;"> Studio
+<h1 style="margin-left: auto; margin-right: auto; font-family: Inter Extra Bold; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint </h1></h1>
 <h2 style="color: #444; font-family: Inter Extra Bold; text-align: right; margin-top: -12px; font-size: 18pt;"><span style="background-color: var(--color-yellow);">
 スタジオミルミント
 </span></h2>

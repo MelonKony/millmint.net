@@ -6,7 +6,7 @@
 :root {
 	--gray-100: #f8f9fa;
 	--gray-200: #ededed;
-	--body-background: #fefefe;
+	--body-background: #23272D;
 	--body-font-color: #444;
 	--color-link: #06c;
 	--color-visited-link: #1a0dab;
@@ -304,7 +304,7 @@ img {
 [data-theme=dark] {
  --gray-100: rgba(255, 255, 255, 0.1);
  --gray-200: rgba(255, 255, 255, 0.2);
- --body-background: #363636;
+ --body-background: #23272D;
  --body-font-color: #e9ecef;
  --color-link: #84b2ff;
  --color-visited-link: #b88dff;
@@ -508,4 +508,24 @@ padding: 0.7rem;
 }
 ::-moz-selection {
   background: var(--color-yellow); /* Gecko Browsers */
+}
+
+/* sticky header */
+@media screen and (max-width: 56rem) {
+	.book-header {
+		display: block;
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 100%;
+		padding: 15px;
+		background-color: var(--body-background);
+		z-index: 1;
+	}
+}
+
+@media screen and (max-width: 56rem) {
+	.markdown {
+	 margin-top: 40px;
+	}
 }
