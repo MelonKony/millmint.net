@@ -18,7 +18,7 @@ This article appeared in Issue #6 of the Atlantic Bulletin. You can read it here
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
-<script defer src="/en.search.min.b3a0d45828d93e72bd7543177a19342a13d82b8bba7cd03b47d05d38018c82db.js" integrity="sha256-s6DUWCjZPnK9dUMXehk0KhPYK4u6fNA7R9BdOAGMgts="></script>
+<script defer src="/en.search.min.f7c00ae36ada4a9f1e7c82ce737324564d3ae5bae6eac307a63b6d39154e8ecd.js" integrity="sha256-98AK42raSp8efILOc3MkVk065brm6sMHpjttORVOjs0="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <!--
@@ -26,29 +26,9 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
 
-  <meta name="keywords" content="illustration, design, graphic design, art, comics, comic, hobart, phillips">
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
 <meta name="author" content="Hobart Phillips">
 <meta name="apple-mobile-web-app-capable" content="yes">
-
-
-
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Italic.woff2" type="font" crossorigin="anonymous">
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Italic.woff" type="font" crossorigin="anonymous">
-
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Regular.woff2" type="font" crossorigin="anonymous">
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Regular.woff" type="font" crossorigin="anonymous">
-
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Medium.woff2" type="font" crossorigin="anonymous">
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Medium.woff" type="font" crossorigin="anonymous">
-
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-SemiBold.woff2" type="font" crossorigin="anonymous">
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-SemiBold.woff" type="font" crossorigin="anonymous">
-
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Bold.woff2" type="font" crossorigin="anonymous">
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-Bold.woff" type="font" crossorigin="anonymous">
-
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-ExtraBold.woff2" type="font" crossorigin="anonymous">
-<link rel="preload" as="font" href="https://millmint.net/fonts/Inter-ExtraBold.woff" type="font" crossorigin="anonymous">
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KC02XB55HF"></script>
@@ -58,6 +38,19 @@ https://github.com/alex-shpak/hugo-book
   gtag('js', new Date());
 
   gtag('config', 'G-KC02XB55HF');
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<script>
+  var clicked = false;
+$('aside nav ul li').first().find('a').on("click", function (e) {
+   if(clicked===false){
+      clicked=true;
+   }else{
+      e.preventDefault();
+   }
+ });
 </script>
 
 <script>

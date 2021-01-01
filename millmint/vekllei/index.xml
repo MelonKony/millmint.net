@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/millmint/vekllei/boroughs/mirah/</guid>
-      <description>The Borough of Mirah 🧊  BOROUGH  Guide  Tzipora and Cobian in the town of Gigayeh, in the Mirah Borough
+      <description>a { color: var(--color-indigo); }  The Borough of Mirah 🧊  BOROUGH  Guide  Tzipora and Cobian in the town of Gigayeh, in the Mirah Borough
  Gigayeh had beautiful empty beaches, littered with icebergs that caught the light like jewels, but Tzipora couldn’t swim and the water was freezing. They could have enjoyed café food in the sun, but Cobian’s regimented home life had left her incapable of eating outside of her designated meals, and Tzipora could only drink so much coffee.</description>
     </item>
     
@@ -33,9 +33,7 @@ This article is complete. It was last updated in November 2020.  1. Overview #  
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/millmint/vekllei/language/</guid>
-      <description>Language in Vekllei 📮  ARTICLE  Documents  1. Overview #  🌺 Note from the Editor
-Ever wondered how Vekllei people sound and talk? It turns out it&amp;rsquo;s a mess of things. This article introduces key Vekllei languages.  📯 Starred Article
-This article is complete. It was last updated in December 2020.   The language of Vekllei is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct.</description>
+      <description>.markdown a { color: var(--color-red); }  Language in Vekllei 📮  ARTICLE  Documents  🌺 This article is about Vekllei  1. Overview #  The language of Vekllei is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.</description>
     </item>
     
     <item>
@@ -44,9 +42,7 @@ This article is complete. It was last updated in December 2020.   The language o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/millmint/vekllei/religion/</guid>
-      <description>Religion in Vekllei 🌋  ARTICLE  Documents  1. Overview #  🌺 Note from the Editor
-This is a comprehensive article on the religion of Vekllei. If you&amp;rsquo;re looking for an article on the country, click here.  🚚 Under Construction
-This page is still under construction, and is incomplete. Coming soon are passages on the history, practice and traditions of Upen.   Upen is the nondenominational animistic spiritualism of Vekllei.</description>
+      <description>.markdown a { color: var(--color-red); }  Religion in Vekllei 🌋  ARTICLE  Documents  🌺 This article is about Vekllei  1. Overview #  Upen is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, Upen is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.</description>
     </item>
     
   </channel>
