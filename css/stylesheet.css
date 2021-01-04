@@ -553,3 +553,8 @@ padding: 0.7rem;
 img + em {
 	font-size: 12px;
 }
+
+/* infobox title style */
+.markdown details summary {
+	font-family: Inter Bold;
+}
