@@ -5,8 +5,8 @@
 /* typography root */
 :root {
 	--gray-100: #f8f9fa;
-	--gray-200: #fefefe;
-	--body-background: #23272D;
+	--gray-200: #ededed;
+	--body-background: #fefefe;
 	--body-font-color: #444;
 	--color-link: #06c;
 	--color-visited-link: #1a0dab;
