@@ -384,7 +384,6 @@ img {
 	border-radius: 5px;
 	padding: 1rem;
 	margin-bottom: 0rem;
-	margin-top: 1rem;
 }
 
 /* homepage links */
@@ -573,3 +572,26 @@ img + em {
 .markdown details summary {
 	font-family: Inter Bold;
 }
+
+/* anchor fix */
+.markdown a.anchor:hover {
+	color: var(--body-font-color);
+}
+.markdown a.anchor:visited {
+color: var(--color-visited-link);
+}
+
+/* homepage margins */
+.homepage {
+	height: 10vh;
+	max-width:100%;
+	height:auto;
+	margin-right: 20%;
+}
+@media only screen and (max-width: 600px) {
+	.homepage {
+		height: 10vh;
+		max-width:100%;
+		height:auto;
+		margin-right: 0;
+	}
