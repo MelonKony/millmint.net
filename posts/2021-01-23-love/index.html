@@ -11,7 +11,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://millmint.net/posts/2021-01-23-love/" />
 <meta property="article:published_time" content="2021-01-23T00:00:00+00:00" />
-<meta property="article:modified_time" content="2021-01-23T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-01-24T12:47:11+00:00" />
 <title>Moments in Love | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -39,14 +39,24 @@ https://github.com/alex-shpak/hugo-book
 </script>
 
 <script>
-     var html = document.documentElement;
-     
-     if (localStorage.getItem('themeMode') == 'dark') {
-       html.setAttribute("data-theme","dark");
-     }
-     if (localStorage.getItem('themeMode') == 'light') {
-       html.setAttribute("data-theme","light");
-     }
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+<script> <!-- toc fix -->
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
 </script>
 
 <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
@@ -454,7 +464,7 @@ Jan 23, 2021
 <p>Tzipora was a funny person, capable of great emotional maturity and immaturity depending on her environs. With Baron, she was serious and independent. With Cobian, she was energetic and overeager. Cobian was in no such turmoil about her preference of partner, and unlike Tzipora she was becoming an adult woman capable of exploring a serious, adult relationship. She would grow older and older, and Tzipora would stay there, same as ever. They both knew it was coming. Tzipora was not a child, but she was also not exactly an adult either — she was Tzipora, and she would be Tzipora for as long as she lived, much as she was now.</p>
 <p>Tzipora didn’t generally talk about her feelings, but Cobian was very good at it. They travelled to the terraced park from Lola, and found the bench they’d visited years prior as junior high school students. Back then they’d seen a film at the State Cinema in town and walked for a while after, just talking about it. They’d ended up here, as night fell, and talked until the early morning. Maybe it was a date; maybe it was their first date — what constituted a date with Tzipora? Their relationship was much the same as it had ever been, just with the knowledge they loved each other. But what a revelation that had been. Tzipora had cried when she told her. Tzipora did not cry about much but gestures of affection always overwhelmed her.</p>
 <p>Today they sat on that bench again and talked, and they talked for a long while. What will you study? What will we do? What will Tzipora do for the rest of her life — is she destined to drift from person to person, parasitically enjoying their friendship until they aged out of her reach? Where would Cobian live? What would Tzipora like to do for a living? Will they always be friends, and love each other?</p>
-<p><strong>Yes, they both agreed, they would always be friends, and they would always love each other.</strong></p>
+<p>Yes, they both agreed, they would always be friends, and they would always love each other.</p>
 </p>
 </article>
  

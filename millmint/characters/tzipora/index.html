@@ -38,14 +38,24 @@ https://github.com/alex-shpak/hugo-book
 </script>
 
 <script>
-     var html = document.documentElement;
-     
-     if (localStorage.getItem('themeMode') == 'dark') {
-       html.setAttribute("data-theme","dark");
-     }
-     if (localStorage.getItem('themeMode') == 'light') {
-       html.setAttribute("data-theme","light");
-     }
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+<script> <!-- toc fix -->
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
 </script>
 
 <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
