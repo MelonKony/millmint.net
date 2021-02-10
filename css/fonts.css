@@ -1,12 +1,3 @@
-/* inter-300italic - latin */
-@font-face {
-  font-family: 'Inter';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Inter Italic'), local('Inter-Italic'),
-       url('/fonts/Inter-Italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Inter-Italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
 /* inter-regular - latin */
 @font-face {
   font-family: 'Inter';
@@ -87,4 +78,15 @@ body {
 
 code {
   font-family: 'Roboto Mono', monospace;
+}
+
+/* whirlybats */
+@font-face {
+  font-family: 'Whirlybats';
+  src: url('https://cdn.glitch.com/230aa42e-94e6-443c-96f9-1f7a1c45087b%2FWhirlybatsGX.ttf?v=1599238247333')  format('truetype');
+}
+
+@font-face {
+  font-family: 'Whirly Birdie';
+  src: url('https://cdn.glitch.com/1711052e-ea5e-4036-9c61-dd3ef6782855%2FWhirlyBirdieGX.ttf?v=1596681362011')  format('truetype');
 }

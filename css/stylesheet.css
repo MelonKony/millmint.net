@@ -75,6 +75,16 @@ html {
 }
 
 /* typography */
+
+@keyframes whirlyAnimate {
+  0%   { font-variation-settings: "anim" 100; }
+  100% { font-variation-settings: "anim" 200; }
+}
+
+#whirlybat {
+  animation: whirlyAnimate 1s linear infinite;
+}
+
 hr, h1, h2, h3 {
   font-weight: bold;
 }
@@ -142,6 +152,7 @@ hr, h1, h2, h3 {
   font-weight: bold;
 	font-size: 24px;
 	margin-bottom: 0rem;
+	margin-top: 1em;
 }
 .markdown h4 {
   font-weight: bold;
@@ -409,15 +420,27 @@ img {
 }
 
 #headerbox .emoji {
+	font-family: "Whirlybats";
+	float: right;
+	font-size: 55px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 1rem;
+}
+
+/* EMOJI BACKUP
+	#headerbox .emoji {
+	font-family: "Whirlybats";
 	float: right;
 	font-size: 55px;
 	margin-top: 3px;
 	margin-bottom: 0px;
 	margin-left: 1rem;
-}
+} */
 
 .markdown .tag {
-	margin-top: 0.25rem;
+	font-family: Inter Medium;
+	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 }
 
