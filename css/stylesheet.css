@@ -172,11 +172,6 @@ hr, h1, h2, h3 {
   padding-left: 4px;
 }
 
-/*button bottom margin fix */
-.markdown a.book-btn {
-	margin-bottom: 10px;
-}
-
 /* dark mode */
 .book-search input {
   width: 100%;
@@ -421,8 +416,17 @@ img {
 }
 
 #headerbox .emoji {
-	font-family: "Whirlybats";
-	font-weight: normal;
+	font-family: 'Whirlybats';
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
 	float: right;
 	font-size: 55px;
 	margin-top: 0px;
