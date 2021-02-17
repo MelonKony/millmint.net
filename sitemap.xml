@@ -107,11 +107,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/millmint/</loc>
-    <lastmod>2021-01-04T16:10:14+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/drafts/landscape/economy/</loc>
     <lastmod>2021-01-23T15:01:49+11:00</lastmod>
   </url>
@@ -211,12 +206,22 @@
   </url>
   
   <url>
+    <loc>https://millmint.net/millmint/</loc>
+    <lastmod>2021-01-04T16:10:14+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://millmint.net/newsdesk/essays/money/</loc>
   </url>
   
   <url>
     <loc>https://millmint.net/drafts/landscape/</loc>
     <lastmod>2021-01-23T15:01:49+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/newsdesk/</loc>
+    <lastmod>2021-01-04T16:10:14+11:00</lastmod>
   </url>
   
   <url>
@@ -227,11 +232,6 @@
   <url>
     <loc>https://millmint.net/newsdesk/essays/</loc>
     <lastmod>2021-01-14T19:32:08+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/newsdesk/</loc>
-    <lastmod>2021-01-04T16:10:14+11:00</lastmod>
   </url>
   
   <url>
@@ -1530,11 +1530,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/posts/</loc>
-    <lastmod>2021-01-04T16:10:14+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/</loc>
     <lastmod>2021-01-23T15:01:49+11:00</lastmod>
   </url>
@@ -1542,6 +1537,11 @@
   <url>
     <loc>https://millmint.net/drafts/_indexBU/</loc>
     <lastmod>2021-01-23T15:01:49+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/</loc>
+    <lastmod>2021-01-04T16:10:14+11:00</lastmod>
   </url>
   
 </urlset>

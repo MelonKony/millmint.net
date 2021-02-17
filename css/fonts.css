@@ -82,8 +82,9 @@ code {
 
 /* whirlybats */
 @font-face {
-  font-family: 'Whirlybats';
-  src: url('https://cdn.glitch.com/230aa42e-94e6-443c-96f9-1f7a1c45087b%2FWhirlybatsGX.ttf?v=1599238247333')  format('truetype');
+  font-family: "Whirlybats";
+  src: url("/fonts/WhirlybatsGX.ttf")
+    format("truetype");
 }
 
 @font-face {
