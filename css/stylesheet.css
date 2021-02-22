@@ -692,3 +692,10 @@ color: var(--color-visited-link);
 	 margin-top: 40px;
 	}
 }
+
+/* button fix */
+.markdown a.book-btn {
+line-height: 1rem;
+padding: 0.85rem;
+text-align: center;
+}
