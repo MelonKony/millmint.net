@@ -376,6 +376,7 @@ img {
 	min-width: 335px;
 	padding: 0 1rem;
 	margin-right: 0rem;
+	margin-top: 0px;
 }
 
 /* rounded images */
@@ -573,7 +574,6 @@ padding: 0.7rem;
 
 .markdown .book-hint {
 	margin-top: 1rem;
-	margin-bottom: 0;
 	margin-left: 0;
 	margin-right: 0;
 	color: var(--body-font-color);
