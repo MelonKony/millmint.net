@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://millmint.net/utopia/vekllei/boroughs/mumen/</loc>
-    <lastmod>2021-03-01T07:11:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://millmint.net/utopia/vekllei/boroughs/</loc>
     <lastmod>2021-03-01T07:11:22+00:00</lastmod>
   </url>
@@ -89,6 +84,11 @@
   
   <url>
     <loc>https://millmint.net/utopia/characters/moise/</loc>
+    <lastmod>2021-03-01T07:11:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/utopia/vekllei/boroughs/mumen/</loc>
     <lastmod>2021-03-01T07:11:22+00:00</lastmod>
   </url>
   
@@ -297,12 +297,32 @@
   
   <url>
     <loc>https://millmint.net/tags/2021/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/categories/author/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://millmint.net/categories/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/post/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/tags/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://millmint.net/posts/2021-03-19-mage/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -312,16 +332,6 @@
   
   <url>
     <loc>https://millmint.net/categories/landscape/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/post/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/tags/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -367,11 +377,6 @@
   
   <url>
     <loc>https://millmint.net/posts/2021-02-09-3000/</loc>
-    <lastmod>2021-03-01T07:11:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://millmint.net/categories/author/</loc>
     <lastmod>2021-03-01T07:11:22+00:00</lastmod>
   </url>
   
