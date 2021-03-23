@@ -383,20 +383,6 @@ img {
   border-radius: 5px;
 }
 
-/* intro background */
-#intro {
-	background-color: var(--gray-200);
-	border-radius: 5px;
-	padding: 1rem;
-	margin-left: 1rem;
-	margin-bottom: 0rem;
-}
-
-/* homepage links */
-#links a:hover {
-	background-color: var(--color-yellow);
-}
-
 /* headerbox */
 #headerbox {
     display: flex;
@@ -414,24 +400,39 @@ img {
 	margin-left: 10px;
 }
 
-#headerbox .emoji {
-	font-family: 'Whirlybats';
+.icon {
+  font-family: 'Whirlybats';
   font-weight: normal;
   font-style: normal;
   font-feature-settings: 'liga';
-	display: inline-block;
+  display: inline-block;
   white-space: nowrap;
   word-wrap: normal;
-	margin-right: 55px;
-	letter-spacing: -55px;
+  margin-right: 55px;
+  letter-spacing: -55px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
-	float: right;
-	font-size: 55px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-left: 1rem;
+}
+
+#headerbox .emoji {
+  font-family: 'Whirlybats';
+  font-weight: normal;
+  font-style: normal;
+  font-feature-settings: 'liga';
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  margin-right: 55px;
+  letter-spacing: -55px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  float: right;
+  font-size: 55px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 1rem;
 }
 
 @keyframes whirlyAnimate {
@@ -466,16 +467,6 @@ img {
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 }
-
-/* EMOJI BACKUP
-	#headerbox .emoji {
-	font-family: "Whirlybats";
-	float: right;
-	font-size: 55px;
-	margin-top: 3px;
-	margin-bottom: 0px;
-	margin-left: 1rem;
-} */
 
 .markdown .tag {
 	font-weight: bolder;
@@ -599,10 +590,12 @@ padding: 0.7rem;
 
 .markdown .book-hint.orange {
     border-color: var(--color-orange);
+    background-color: rgb(245,139,0,.1);
 }
 
 .markdown .book-hint.yellow {
     border-color: var(--color-yellow);
+    background-color: rgb(245,194,0,.1);
 }
 
 .markdown .book-hint.pink {
@@ -619,13 +612,9 @@ padding: 0.7rem;
 		background-color: rgba(245,49,38,.1);
 }
 
-/* highlight colours */
-::selection {
-  background: var(--color-yellow); /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  background: var(--color-yellow); /* Gecko Browsers */
-}
+.markdown .book-hint.indigo {
+  border-color: var(--color-indigo);
+  background-color: rgba(132,64,241,.1);
 
 /* image captions */
 img + em {
@@ -650,7 +639,6 @@ color: var(--color-visited-link);
 	height: 10vh;
 	max-width:100%;
 	height:auto;
-	margin-right: 20%;
 }
 @media only screen and (max-width: 600px) {
 	.homepage {
@@ -701,4 +689,15 @@ color: var(--color-visited-link);
 line-height: 1rem;
 padding: 0.85rem;
 text-align: center;
+}
+
+/* columns */
+.inforow {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.infocolumn {
+  flex: 33.33%;
+  padding: 5px;
 }

@@ -15,7 +15,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
-<script defer src="/en.search.min.f4e33d2abb8a84e4ec17d0e5469791b7cfd7f274f5675191a5d71a6a018d1eb9.js" integrity="sha256-9OM9KruKhOTsF9DlRpeRt8/X8nT1Z1GRpdcaagGNHrk="></script>
+<script defer src="/en.search.min.1a950e2f0f10a9f17da9e50e732e8fd1ea34516c08d1a712b80b259980845ea3.js" integrity="sha256-GpUOLw8QqfF9qeUOcy6P0eo0UWwI0acSuAslmYCEXqM="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/index.xml" title="MillMint" />
@@ -71,6 +71,7 @@ https://github.com/alex-shpak/hugo-book
   })
 </script>
 
+<link rel="preload" href="/static/fonts/WhirlybatsGX.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
 <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
 
@@ -195,7 +196,24 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://millmint.net/utopia/vekllei/language/" class="">Language</a>
+    <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
+    <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
+      <a  class="">Culture</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://millmint.net/utopia/vekllei/culture/language/" class="">Language</a>
   
 
         </li>
@@ -208,8 +226,53 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://millmint.net/utopia/vekllei/religion/" class="">Religion</a>
+    <a href="https://millmint.net/utopia/vekllei/culture/religion/" class="">Religion</a>
   
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
+    <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
+      <a  class="">Landscape</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://millmint.net/utopia/vekllei/landscape/boroughs/" class="">Boroughs</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
 
         </li>
       
@@ -432,81 +495,132 @@ https://github.com/alex-shpak/hugo-book
       
       
   <article class="markdown"><style>
-@media screen and (min-width: 800px) {
-	.markdown {
-		background-color: var(--gray-100);
-		border-radius: 5px;
-		}
+	body {
+		width: 100%;
+		height: 100%;
 	}
+	@media screen and (min-width: 800px) {
 	/* columns wrap fix */
-	.markdown .book-columns>div {
-		margin: 1rem 0;
-		min-width: 250px;
-		padding: 0 1rem;
-		margin-right: 0rem;
+		.markdown .book-columns>div {
+			min-width: 450px;
+		}
 	}
 
-	/* hide mobile version by default */
-	.logo .mobile {
-	  display: none;
+	@media (max-width: 1250px) {
+	  .desktop {
+		display: none;
+	  }
 	}
-	/* when screen is less than 600px wide
-	   show mobile version and hide desktop */
-	@media screen and (max-width: 56rem) {
-	  .logo .mobile {
-	    display: none;
-	  }
-	  .logo .desktop {
-	    display: none;
-	  }
-		.markdown .book-columns>div {
-	    margin: 0;
+	/* flags */
+	.row {
+		  display: flex;
+		  margin-left: auto;
+		  margin-right: auto;
 		}
-		.book-header strong {
+		
+	.column {
+	  flex: 33.33%;
+	  padding: 5px;
+	}
+	@media (max-width: 1250px) {
+		  .row {
 			display: none;
+		  }
 		}
-		.book-header {
-			font-size: 25pt;
+	/* dots */
+	.dot-orange {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
 		}
-	}
+	.dot-pink {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		}
+	.dot-yellow {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		}
+	.dot-green {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		}
+	.dot-blue{
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		}
 </style>
 <div class="book-columns flex flex-wrap">
   
   <div class="flex-even markdown-inner">
-     <!-- begin columns block -->
-<div class="logo">
-	<img id="intro" class="desktop" style="text-align: center; margin-right: auto; max-height: 700px;" src="/images/mastheads/princess.png">
-	<div style="text-align: right;">
-		<img style="right: 0; min-width: 50px; max-height: 125px;" src="/favicon.png" class="mobile" />
-	</div>
-</div>
-
+    <!-- begin columns block -->
+<img class="desktop" style="padding: 20px; text-align: center; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
   </div>
   
   <div class="flex-even markdown-inner">
      <!-- magic separator, between columns -->
-<div class="homepage">
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 55pt; letter-spacing: -2px;"> Studio
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint </h1></h1>
-<h2 style="color: #444; font-weight: 800; text-align: right; margin-top: -12px; font-size: 18pt;"><span style="background-color: var(--gray-200);">
-スタジオミルミント
-</span></h2>
-<h2 style="text-align: right; margin-top: 2rem; font-size: 18pt;">
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.reddit.com/r/vekllei"><img src="/redditlogo.png" height="35" width="35" /></a>
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.discord.gg/dCE6vSU"><img src="/discordlogo.png" style="vertical-align: text-bottom;" height="40"/></a>
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.patreon.com/vekllei"><img src="/patreonlogo.png" height="35" width="35" /></a>
-</h2>
-<div id="links" style="text-align: right; margin-top: 50px;">
-	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/utopia/intro">Intro</h4>
-	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/newsdesk/about">About</h4>
-	<h4><a style="color:var(--gray-200) padding:10px; border-radius:5px;" href="/posts">Posts Archive</h4>
-</div>
+<div class="homepage" style="margin-top: 30%; margin-bottom: 30%;">
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint</h1>
+<h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
+<div style="margin-left: auto; margin-right: auto; width: 77px;">
+<span class="dot-pink"></span>
+<span class="dot-orange"></span>
+<span class="dot-yellow"></span>
+<span class="dot-green"></span>
+<span class="dot-blue"></span>
 </div>
 
   </div>
   
 </div>
 
+<div class="row">
+  <div class="column">
+  <img src="/images/mastheads/flags/aismious.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/antarctic.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/azores.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/demon.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/kala.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/kalina.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/mira.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/moon.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/vekllei-domestic.png" alt="flag" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="/images/mastheads/flags/vekllei-international.png" alt="flag" style="width:100%">
+  </div>
+</div>
 </article>
  
       
