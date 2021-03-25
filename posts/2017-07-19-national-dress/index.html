@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir=>
+<html lang="en" dir="ltr">
 
 <head>
   <meta name="generator" content="Hugo 0.78.2" />
@@ -15,7 +15,7 @@
 <title>She stands in the harbour in national dress. Jets fly overhead and a parade passes to mourn the victims of the atomic bombings. | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
+<link rel="stylesheet" href="/book.min.6c7c6446dfdee7c8c933e9bbc6e80ee3ed6c913b2a59519f2092c3c6a9d63e55.css" integrity="sha256-bHxkRt/e58jJM&#43;m7xugO4&#43;1skTsqWVGfIJLDxqnWPlU=">
 <script defer src="/en.search.min.dadafda4ed87d16b4fec8aad827f8e17b4fe62e22f2791f9e57733e4d63fa6b2.js" integrity="sha256-2tr9pO2H0WtP7Iqtgn&#43;OF7T&#43;YuIvJ5H55Xcz5NY/prI="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
@@ -74,15 +74,15 @@ https://github.com/alex-shpak/hugo-book
 <link rel="preload" href="/static/fonts/WhirlybatsGX.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
 <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
-
 </head>
 
-<body dir=>
+<body dir="ltr">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      
+      <div class="book-menu-content">
+        
   <nav>
 <h2 class="book-brand">
   <a href="/"><img src="/favicon.png" alt="Logo" /><span>MillMint</span>
@@ -470,6 +470,7 @@ https://github.com/alex-shpak/hugo-book
 
 
  
+      </div>
     </aside>
 
     <div class="book-page">
@@ -493,7 +494,67 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <nav id="TableOfContents"></nav>
+  <button onclick="togglediv('item')">Toggle div</button>
+<div id="item">div</div>
+
+<script>
+function togglediv(id) {
+	var div = document.getElementById(id);
+	div.style.display = div.style.display == "none" ? "block" : "none";
+}
+</script>
+<nav id="TableOfContents"></nav>
+<style>
+	 
+	.dot-orange {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<br>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
 
 
   </aside>
@@ -552,6 +613,12 @@ Jul 19, 2017
 
 
 
+  <div><a class="flex align-center" href="https://github.com/MelonKony/millmint.net/commit/a1bc221c176d889c217f7191f666229ce1ce5b2a" title='Last modified by MelonKony | Jan 23, 2021' target="_blank" rel="noopener">
+      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
+      <span>Jan 23, 2021</span>
+    </a>
+  </div>
+
 
 
 </div>
@@ -574,10 +641,72 @@ Jul 19, 2017
 
     
     <aside class="book-toc">
-      
-  <nav id="TableOfContents"></nav>
+      <div class="book-toc-content">
+        
+  <button onclick="togglediv('item')">Toggle div</button>
+<div id="item">div</div>
+
+<script>
+function togglediv(id) {
+	var div = document.getElementById(id);
+	div.style.display = div.style.display == "none" ? "block" : "none";
+}
+</script>
+<nav id="TableOfContents"></nav>
+<style>
+	 
+	.dot-orange {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 12px;
+		  width: 12px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<br>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
 
  
+      </div>
     </aside>
     
   </main>
