@@ -48,17 +48,6 @@ https://github.com/alex-shpak/hugo-book
    }
 </script>
 
-<style>
-  #menu-control:checked~main .book-menu-overlay {
-    display: block;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-</style>
-
 
 <script>
   window.addEventListener('load', function() {
@@ -70,9 +59,31 @@ https://github.com/alex-shpak/hugo-book
   })
 </script>
 
+<style>
+ 
+@media screen and (max-width: 56rem) {
+  .book-header {
+    display: block;
+    position: fixed !important;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 15px;
+    z-index: 1;
+    background-color: var(--body-background);
+  }
+}
+
+@media screen and (max-width: 56rem) {
+  .markdown {
+   margin-top: 40px;
+  }
+}
+</style>
+
 <link rel="preload" href="/static/fonts/WhirlybatsGX.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
-<link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
 </head>
 
 <body dir="ltr">
@@ -493,15 +504,7 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <button onclick="togglediv('item')">Toggle div</button>
-<div id="item">div</div>
-
-<script>
-function togglediv(id) {
-	var div = document.getElementById(id);
-	div.style.display = div.style.display == "none" ? "block" : "none";
-}
-</script>
+  
 <nav id="TableOfContents">
   <ul>
     <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
@@ -534,57 +537,8 @@ function togglediv(id) {
     </li>
   </ul>
 </nav>
-<style>
-	 
-	.dot-orange {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-orange);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-pink {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-pink);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-yellow {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-yellow);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-green {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-green);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-blue{
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-blue);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-</style>
-<br>
-<div style="display:table; margin:0 auto; padding: 10px;">
-	<span class="dot-pink"></span>
-	<span class="dot-orange"></span>
-	<span class="dot-yellow"></span>
-	<span class="dot-green"></span>
-	<span class="dot-blue"></span>
-	</div>
+
+
 
 
   </aside>
@@ -913,77 +867,12 @@ Green: tarmacadamed airport
 
 
 
-  <div><a class="flex align-center" href="https://github.com/MelonKony/millmint.net/commit/745b76228e4a246db4b9b95f6a169377b56d8cb0" title='Last modified by MelonKony | Jan 4, 2021' target="_blank" rel="noopener">
-      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>Jan 4, 2021</span>
-    </a>
-  </div>
-
 
 
 </div>
 
  
         <p style="text-align: center; font-size:10pt;">All Rights Reserved © <a href="/"><b style="color: #ffc53a;">MillMint</b></a> 2020.</p>
-
-      </footer>
-
-      
-  
-  <div class="book-comments">
-
-</div>
-  
- 
-
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
-    </div>
-
-    
-    <aside class="book-toc">
-      <div class="book-toc-content">
-        
-  <button onclick="togglediv('item')">Toggle div</button>
-<div id="item">div</div>
-
-<script>
-function togglediv(id) {
-	var div = document.getElementById(id);
-	div.style.display = div.style.display == "none" ? "block" : "none";
-}
-</script>
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
-    <li><a href="#i-news--announcements">I. News &amp; Announcements</a></li>
-    <li><a href="#ii-tzipora-watch">II. Tzipora-watch</a></li>
-    <li><a href="#iii-vekllei-fact-of-the-month">III. Vekllei Fact of the Month</a></li>
-    <li><a href="#iv-wordbook">IV. WordBook</a></li>
-    <li><a href="#v-the-bulletin">V. The Bulletin</a>
-      <ul>
-        <li><a href="#what-is-this-project">What is This Project?</a></li>
-        <li><a href="#village-map-of-montre-lola">Village Map of Montre-Lola</a></li>
-        <li><a href="#the-vekllei-crown-coins-of-a-moneyless-country">The Vekllei Crown: coins of a moneyless country</a></li>
-        <li><a href="#a-map-of-vekllei-100-boroughs-100-hearts">A Map of Vekllei: 100 Boroughs; 100 Hearts</a></li>
-        <li><a href="#a-most-beautiful-woman">A Most Beautiful Woman</a></li>
-        <li><a href="#the-oa-class-battlecruiser">The Oa-Class Battlecruiser</a></li>
-        <li><a href="#canal-living">Canal Living</a></li>
-      </ul>
-    </li>
-    <li><a href="#vi-the-post-office">VI. The Post Office</a>
-      <ul>
-        <li><a href="#aussie-thoughts-on-police-violence-new">Aussie Thoughts on Police Violence [NEW]</a></li>
-        <li><a href="#live-to-ride-harley-davidson-and-the-commodification-of-identity-new">Live to Ride: Harley-Davidson and the Commodification of Identity [NEW]</a></li>
-      </ul>
-    </li>
-    <li><a href="#vii-gallery">VII. Gallery</a>
-      <ul>
-        <li><a href="#recess-2362020">Recess [23.6.2020]</a></li>
-        <li><a href="#untitled-762020">Untitled [7.6.2020]</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
 <style>
 	 
 	.dot-orange {
@@ -1027,7 +916,6 @@ function togglediv(id) {
 		  margin: 2.5px;
 		}
 </style>
-<br>
 <div style="display:table; margin:0 auto; padding: 10px;">
 	<span class="dot-pink"></span>
 	<span class="dot-orange"></span>
@@ -1035,6 +923,59 @@ function togglediv(id) {
 	<span class="dot-green"></span>
 	<span class="dot-blue"></span>
 	</div>
+
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
+    <li><a href="#i-news--announcements">I. News &amp; Announcements</a></li>
+    <li><a href="#ii-tzipora-watch">II. Tzipora-watch</a></li>
+    <li><a href="#iii-vekllei-fact-of-the-month">III. Vekllei Fact of the Month</a></li>
+    <li><a href="#iv-wordbook">IV. WordBook</a></li>
+    <li><a href="#v-the-bulletin">V. The Bulletin</a>
+      <ul>
+        <li><a href="#what-is-this-project">What is This Project?</a></li>
+        <li><a href="#village-map-of-montre-lola">Village Map of Montre-Lola</a></li>
+        <li><a href="#the-vekllei-crown-coins-of-a-moneyless-country">The Vekllei Crown: coins of a moneyless country</a></li>
+        <li><a href="#a-map-of-vekllei-100-boroughs-100-hearts">A Map of Vekllei: 100 Boroughs; 100 Hearts</a></li>
+        <li><a href="#a-most-beautiful-woman">A Most Beautiful Woman</a></li>
+        <li><a href="#the-oa-class-battlecruiser">The Oa-Class Battlecruiser</a></li>
+        <li><a href="#canal-living">Canal Living</a></li>
+      </ul>
+    </li>
+    <li><a href="#vi-the-post-office">VI. The Post Office</a>
+      <ul>
+        <li><a href="#aussie-thoughts-on-police-violence-new">Aussie Thoughts on Police Violence [NEW]</a></li>
+        <li><a href="#live-to-ride-harley-davidson-and-the-commodification-of-identity-new">Live to Ride: Harley-Davidson and the Commodification of Identity [NEW]</a></li>
+      </ul>
+    </li>
+    <li><a href="#vii-gallery">VII. Gallery</a>
+      <ul>
+        <li><a href="#recess-2362020">Recess [23.6.2020]</a></li>
+        <li><a href="#untitled-762020">Untitled [7.6.2020]</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
 
  
       </div>

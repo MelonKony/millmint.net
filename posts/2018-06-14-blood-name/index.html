@@ -49,17 +49,6 @@ https://github.com/alex-shpak/hugo-book
    }
 </script>
 
-<style>
-  #menu-control:checked~main .book-menu-overlay {
-    display: block;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-</style>
-
 
 <script>
   window.addEventListener('load', function() {
@@ -71,9 +60,31 @@ https://github.com/alex-shpak/hugo-book
   })
 </script>
 
+<style>
+ 
+@media screen and (max-width: 56rem) {
+  .book-header {
+    display: block;
+    position: fixed !important;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 15px;
+    z-index: 1;
+    background-color: var(--body-background);
+  }
+}
+
+@media screen and (max-width: 56rem) {
+  .markdown {
+   margin-top: 40px;
+  }
+}
+</style>
+
 <link rel="preload" href="/static/fonts/WhirlybatsGX.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
-<link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
 </head>
 
 <body dir="ltr">
@@ -494,67 +505,10 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <button onclick="togglediv('item')">Toggle div</button>
-<div id="item">div</div>
-
-<script>
-function togglediv(id) {
-	var div = document.getElementById(id);
-	div.style.display = div.style.display == "none" ? "block" : "none";
-}
-</script>
+  
 <nav id="TableOfContents"></nav>
-<style>
-	 
-	.dot-orange {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-orange);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-pink {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-pink);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-yellow {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-yellow);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-green {
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-green);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-	.dot-blue{
-		  height: 12px;
-		  width: 12px;
-		  background-color: var(--color-blue);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
-</style>
-<br>
-<div style="display:table; margin:0 auto; padding: 10px;">
-	<span class="dot-pink"></span>
-	<span class="dot-orange"></span>
-	<span class="dot-yellow"></span>
-	<span class="dot-green"></span>
-	<span class="dot-blue"></span>
-	</div>
+
+
 
 
   </aside>
@@ -620,46 +574,12 @@ Jun 14, 2018
 
 
 
-  <div><a class="flex align-center" href="https://github.com/MelonKony/millmint.net/commit/a1bc221c176d889c217f7191f666229ce1ce5b2a" title='Last modified by MelonKony | Jan 23, 2021' target="_blank" rel="noopener">
-      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>Jan 23, 2021</span>
-    </a>
-  </div>
-
 
 
 </div>
 
  
         <p style="text-align: center; font-size:10pt;">All Rights Reserved © <a href="/"><b style="color: #ffc53a;">MillMint</b></a> 2020.</p>
-
-      </footer>
-
-      
-  
-  <div class="book-comments">
-
-</div>
-  
- 
-
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
-    </div>
-
-    
-    <aside class="book-toc">
-      <div class="book-toc-content">
-        
-  <button onclick="togglediv('item')">Toggle div</button>
-<div id="item">div</div>
-
-<script>
-function togglediv(id) {
-	var div = document.getElementById(id);
-	div.style.display = div.style.display == "none" ? "block" : "none";
-}
-</script>
-<nav id="TableOfContents"></nav>
 <style>
 	 
 	.dot-orange {
@@ -703,7 +623,6 @@ function togglediv(id) {
 		  margin: 2.5px;
 		}
 </style>
-<br>
 <div style="display:table; margin:0 auto; padding: 10px;">
 	<span class="dot-pink"></span>
 	<span class="dot-orange"></span>
@@ -711,6 +630,28 @@ function togglediv(id) {
 	<span class="dot-green"></span>
 	<span class="dot-blue"></span>
 	</div>
+
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
 
  
       </div>

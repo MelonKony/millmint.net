@@ -664,11 +664,12 @@ color: var(--color-visited-link);
 			padding:2rem 4rem;
 	}
 }
+
 /* sticky header */
 @media screen and (max-width: 56rem) {
 	.book-header {
 		display: block;
-		position: fixed;
+		position: fixed !important;
 		left: 0;
 		top: 0;
 		width: 100%;
@@ -689,15 +690,4 @@ color: var(--color-visited-link);
 line-height: 1rem;
 padding: 0.85rem;
 text-align: center;
-}
-
-/* columns */
-.inforow {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-}
-.infocolumn {
-  flex: 33.33%;
-  padding: 5px;
 }
