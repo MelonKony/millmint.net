@@ -66,7 +66,6 @@ https://github.com/alex-shpak/hugo-book
  
 @media screen and (max-width: 56rem) {
   .book-header {
-    display: block;
     position: fixed !important;
     left: 0;
     top: 0;
@@ -80,6 +79,12 @@ https://github.com/alex-shpak/hugo-book
 @media screen and (max-width: 56rem) {
   .markdown {
    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
   }
 }
 </style>
