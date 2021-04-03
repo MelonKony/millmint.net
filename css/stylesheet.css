@@ -386,6 +386,8 @@ img {
 /* rounded images */
 .markdown img {
   border-radius: 5px;
+  margin-top: .5em;
+  margin-bottom: .5em;
 }
 
 /* headerbox */
