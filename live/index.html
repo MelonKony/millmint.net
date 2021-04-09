@@ -15,7 +15,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.6c7c6446dfdee7c8c933e9bbc6e80ee3ed6c913b2a59519f2092c3c6a9d63e55.css" integrity="sha256-bHxkRt/e58jJM&#43;m7xugO4&#43;1skTsqWVGfIJLDxqnWPlU=">
-<script defer src="/en.search.min.c2a304b4fd17025c26dc6f57bd9876305881656fe5bc9fca5f4147022704f46e.js" integrity="sha256-wqMEtP0XAlwm3G9XvZh2MFiBZW/lvJ/KX0FHAicE9G4="></script>
+<script defer src="/en.search.min.9e619dd89f10e7ede394a682a619878c9c2312a36924bfe6647ea27ea167af98.js" integrity="sha256-nmGd2J8Q5&#43;3jlKaCphmHjJwjEqNpJL/mZH6ifqFnr5g="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/live/index.xml" title="MillMint" />
@@ -539,7 +539,17 @@ https://github.com/alex-shpak/hugo-book
   🌺 <a href="/newsdesk/about/"><strong>Hobart</strong></a> streams drawings live every <strong>Mon, Wed, and Fri</strong> from <strong>10am AEST</strong>.
 </blockquote>
 
-<iframe src="https://player.twitch.tv/?channel=melonkony&parent=www.millmint.net" frameborder="0" allowfullscreen="true" scrolling="no" border-radius="5px" height="378" width="100%"></iframe></article>
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript" style="width:100%;">
+  new Twitch.Player("twitch-embed", {
+    channel: "melonkony"
+  });
+</script>
+</article>
  
       
 
