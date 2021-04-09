@@ -370,10 +370,6 @@ img {
 	background: var(--gray-100);
 }
 
-.book-menu nav {
-	width: 16.1rem;
-}
-
 /* columns wrap fix */
 .markdown .book-columns>div {
 	margin: 1rem 0;
