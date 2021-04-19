@@ -365,6 +365,7 @@ img[alt=smallimg] {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  min-width: 300px;
 } !important
 
 img[alt=medal] { max-height: 100px; } !important
@@ -786,4 +787,12 @@ color: var(--color-visited-link);
   min-width: 20rem;
   flex-grow: 1;
   padding: 1.5rem;
+}
+
+/*smallimg size fix*/
+
+@media only screen and (max-width: 600px) {
+  img[alt=smallimg] { 
+    width: 100%;
+  } !important
 }
