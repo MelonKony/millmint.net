@@ -776,9 +776,9 @@ color: var(--color-visited-link);
 
 /* button fix */
 .markdown a.book-btn {
-line-height: 1rem;
-padding: 0.85rem;
-text-align: center;
+    line-height: 1rem;
+    padding: 0.5rem;
+    text-align: center;
 }
 
 /* mobile page width */
