@@ -86,9 +86,6 @@ body {
 	overflow-y: auto;
 }
 
-aside nav ul {
-}
-
 aside nav ul a {
   display: inline-block;
   position: relative;
@@ -796,3 +793,17 @@ color: var(--color-visited-link);
     width: 100%;
   } !important
 }
+
+/* menu chevron */
+input.toggle + label::after {
+   content: "M";
+ } !important
+
+ input.toggle:checked + label::after {
+   content: "P";
+ } !important
+ 
+ /* menus toggle */
+#menu-toggle:checked + aside nav ul {
+  display: none;
+  }
