@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/intro/</guid>
-      <description>.markdown a { color: var(--color-red); } .markdown a.anchor { color: var(--color-red); } aside nav ul a { color: var(--color-red); } #headerbox .emoji { color: var(--color-red); } .markdown img[alt=smallimg]{ display: block; margin-left: auto; margin-right: auto; width: 50%; }  Welcome to the Epoch of Rest S  UTOPIA  Introduction MillMint Utopia Intro   ߷ This article is about Hobart&amp;rsquo;s utopia, called Vekllei  What is this project? ¶  So this is Utopia,</description>
+      <description>.markdown a { color: var(--color-red); } .markdown a.anchor { color: var(--color-red); } aside nav ul a { color: var(--color-red); } #headerbox .emoji { color: var(--color-red); } .markdown img[alt=smallimg]{ display: block; margin-left: auto; margin-right: auto; width: 50%; } /* coins */ .row { display: flex; margin-left: auto; margin-right: auto; } .column { flex: 33.33%; padding: 5px; } @media (max-width: 1250px) { .row { display: none; } }  Welcome to the Epoch of Rest S  UTOPIA  Introduction MillMint Utopia Intro   ߷ This article is about Hobart&amp;rsquo;s utopia, called Vekllei  What is this project?</description>
     </item>
     
   </channel>

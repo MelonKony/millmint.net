@@ -15,7 +15,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.1762c2fbfb16efd7dcd0a808e323a3608ae0bf63006684e1e8d93acbae500558.css" integrity="sha256-F2LC&#43;/sW79fc0KgI4yOjYIrgv2MAZoTh6Nk6y65QBVg=">
-<script defer src="/en.search.min.d1e64b02a9d243cf88f5bd2a8922f2452bd5c31266622ccf7c1437ca27a74bb9.js" integrity="sha256-0eZLAqnSQ8&#43;I9b0qiSLyRSvVwxJmYizPfBQ3yienS7k="></script>
+<script defer src="/en.search.min.d785ff07e9f6653a9d7b61ca45eb5c05afda523099c14470f180b7a9fa5d1deb.js" integrity="sha256-14X/B&#43;n2ZTqde2HKRetcBa/aUjCZwURw8YC3qfpdHes="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/posts/index.xml" title="MillMint" />
@@ -37,6 +37,10 @@ https://github.com/alex-shpak/hugo-book
 
   gtag('config', 'G-KC02XB55HF');
 </script>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
 
 <script>
    var html = document.documentElement;
@@ -87,10 +91,10 @@ https://github.com/alex-shpak/hugo-book
 }
 </style>
 
-<link rel="preload" href="/static/fonts/WhirlybatsGX.ttf" as="font" type="font/ttf" crossorigin>
 <link type="text/css" rel="stylesheet" href="/css/fonts.css" />
 <link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
 <link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
 </head>
 
 <body dir="ltr">
@@ -449,13 +453,11 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-<br>
-<div style= "text-align: center;">
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.reddit.com/r/vekllei"><img src="/redditlogo.png" height="25"/></a>
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.discord.gg/dCE6vSU"><img src="/discordlogo.png" style="vertical-align: text-bottom;" height="28"/></a>
-<a style="margin-left: 8px; margin-right: 8px;" href="https://www.patreon.com/vekllei"><img src="/patreonlogo.png" height="25"/></a>
-</div>
 
+
+<div class="js-toggle-wrapper" style="margin: auto;">
+	  <button id="readermode"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -1121,6 +1123,57 @@ Dec 1, 2020
          })
 </script>
 
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+     
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none; 
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray); 
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+     
+button {
+  all: unset;
+  cursor: pointer;
+}
+
+button:hover {
+  all: unset;
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
 </body>
 
 </html>

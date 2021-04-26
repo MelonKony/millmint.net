@@ -33,14 +33,12 @@
 }
 
 .dot {
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  display: block;
   border-radius: 50%;
   background: #ff374a;
   width: 4px;
   height: 4px;
-  top: 45px;
-  left: 185px;
   transition: left .2s ease-in-out;
 }
 

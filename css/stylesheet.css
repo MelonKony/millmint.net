@@ -196,7 +196,6 @@ hr, h1, h2, h3 {
 }
 .markdown h2 {
   font-weight: 800;
-	margin-bottom: 0.5rem;
 	font-size: 26px;
 }
 .markdown h2 a {
@@ -313,17 +312,15 @@ hr, h1, h2, h3 {
 
   .js-toggle-thumb {
     position: absolute;
-    top: 1px;
-    left: 1px;
+    top: 8px;
+    left: 5px;
     width: 30px;
     height: 32px;
-    // border-radius: 50%;
-    // background-color: var(--gray-100);
     box-sizing: border-box;
     transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1) 0ms;
     transform: translateX(0);
   }
-
+  
   .js-toggle--checked .js-toggle-thumb {
     transform: translateX(26px);
     border-color: #19ab27;
@@ -502,7 +499,7 @@ img {
 }
 
 #whirlybat {
-  animation: whirlyAnimate 1s linear infinite;
+  animation: whirlyAnimate 2s linear infinite;
 }
 
 /* fallback */
