@@ -42,24 +42,25 @@
   transition: left .2s ease-in-out;
 }
 
-/* breadcrumbs */
+/* breadcrumbss */
 
 /* Style the list */
-ul.breadcrumb {
+.breadcrumbs {
   padding: .25rem 1rem .25rem .75rem;
   border-radius: .25rem;
   list-style: none;
   background-color: var(--gray-100);
+  width: 100%;
 }
 
 @media screen and (max-width: 400px) {
-  ul.breadcrumb {
+  ul.breadcrumbs {
     display: none;
   }
 }
 
 /* Display list items side by side */
-ul.breadcrumb li {
+.breadcrumbs li {
   display: inline;
   margin-top: 0.5rem;
   margin-left: 0;
@@ -69,27 +70,28 @@ ul.breadcrumb li {
   line-height: 1.4;
   font-weight: 500;
   letter-spacing: -.01em;
+  text-align: center;
 }
 
 /* Add a slash symbol (/) before/behind each list item */
-ul.breadcrumb li+li:before {
+.breadcrumbs li+li:before {
   padding: 8px;
   color: var(--body-font-color);
   content: "›";
 }
 
 /* Add a color to all links inside the list */
-ul.breadcrumb li a {
+.breadcrumbs li a {
   text-decoration: none;
   color: var(--color-gray);
 }
 
-ul.breadcrumb li a:visited {
+.breadcrumbs li a:visited {
   color: var(--color-gray);
 }
 
 /* Add a color on mouse-over */
-ul.breadcrumb li a:hover {
+.breadcrumbs li a:hover {
   text-decoration: none;
   color: var(--body-font-color);
 }
