@@ -96,8 +96,6 @@
   color: var(--body-font-color);
 }
 
-/* existing menus styling */
-
 /* menu chevron */
 input.toggle + label::after {
    content: "›";
