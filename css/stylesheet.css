@@ -447,6 +447,26 @@ img {
   border-radius: 5px;
   margin-top: .5em;
   margin-bottom: .5em;
+  height: auto;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 5px;
+  padding: 1.5rem;
+  }
+  
+@media screen and (max-width: 56rem) {
+  .markdown img {
+    border-radius: 5px;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    height: auto;
+    object-fit:cover;
+    background-color: var(--gray-100);
+    background-size: auto;
+    border-radius: 5px;
+    padding: .5rem;
+    }
 }
 
 /* headerbox */
