@@ -1,3 +1,15 @@
+html {
+	  box-sizing: border-box;
+	}
+	*, *:before, *:after {
+	  box-sizing: inherit;
+	}
+	
+input {
+	min-width: 100%;
+	max-width: 100%;
+}
+
 .gt-container .gt-meta {
 	padding: .5rem 1rem .5rem .75rem;
 	border-top-left-radius: .25rem;
@@ -5,7 +17,6 @@
 	margin-top: 0rem;
 	list-style: none;
 	border-bottom: 0px solid #e9e9e9;
-	width: 100%;
 	color: var(--color-gray);
 	margin: 0;
 	background-color: var(--gray-100);
@@ -13,10 +24,9 @@
 
 .gt-container .gt-header {
 	background-color: var(--gray-100);
-	padding: 1rem 1rem 1rem 1rem;
+	padding: .5rem 1rem .5rem .75rem;
 	border-bottom-left-radius: .25rem;
 	border-bottom-right-radius: .25rem;
-	width: 100%;
 }
 
 .gt-container .gt-header-textarea {
@@ -56,7 +66,7 @@
 }
 
 .gt-container .gt-ico-github svg {
-	fill: var(--body-font-color);
+	fill: var(--gray-500);
 }
 
 .gt-container .gt-user .gt-ico svg {
@@ -72,12 +82,8 @@
 	font-size: 0.75em;
 }
 
-.gt-container .gt-header-controls-tip {
-	color: var(--color-blue);
-}
-
 .gt-container .gt-link {
-	border-bottom: 0px dotted #6190e8;
+	border-bottom: 0px;
 }
 
 .gt-container a {
@@ -85,16 +91,32 @@
 }
 
 .gt-container .gt-comment-content:hover {
-	-webkit-box-shadow: 0 0.225em .75em 0 var(--gray-100);
-	box-shadow: 0 0.225em .75em 0 var(--gray-100);
+	-webkit-box-shadow: 0 0.225em .75em 0 var(--gray-200);
+	box-shadow: 0 0.225em .75em 0 var(--gray-200);
 }
 .gt-container .gt-btn-preview {
 	  background-color: var(--body-font-color);
 	  color: var(--body-font-color-invert);
 	}
 .gt-container .gt-btn-preview:hover {
-		background-color: var(--gray-200);
+	background-color: var(--color-blue);
+	color: var(--body-font-color-invert);
+	border: 1px solid var(--color-blue);
 	}
 .gt-container .gt-btn-public:hover {
-	  background-color: var(--gray-200);
+	  background-color: var(--color-blue);
+	  color: var(--body-font-color-invert);
 	}
+
+@media (max-width: 479px) {
+	.gt-container .gt-header-controls .gt-btn:hover {
+		float: none;
+		overflow: hidden;
+		margin: 0.75em 0 0;
+	}
+}
+	
+.gt-container .gt-header-controls-tip {
+	color: var(--color-blue);
+}
+
