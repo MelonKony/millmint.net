@@ -120,3 +120,10 @@ input {
 	color: var(--color-blue);
 }
 
+.gt-container .gt-header-preview {
+	padding: 0.75em;
+	border-radius: 5px;
+	border: 0px solid rgba(0,0,0,0.1);
+	background-color: var(--gray-100);
+}
+
