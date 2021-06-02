@@ -10,6 +10,10 @@ input {
 	max-width: 100%;
 }
 
+.gt-container {
+	font-weight: 500;
+}
+
 .gt-container .gt-meta {
 	padding: .5rem 1rem .5rem .75rem;
 	border-top-left-radius: .25rem;
@@ -90,23 +94,38 @@ input {
 	color: var(--color-blue);
 }
 
+.gt-container .gt-header-controls .gt-btn {
+	margin-bottom: 0.5rem;
+}
+
 .gt-container .gt-comment-content:hover {
 	-webkit-box-shadow: 0 0.225em .75em 0 var(--gray-200);
 	box-shadow: 0 0.225em .75em 0 var(--gray-200);
 }
+.gt-container .gt-btn-text {
+	font-weight: 500;
+}
 .gt-container .gt-btn-preview {
 	  background-color: var(--body-font-color);
 	  color: var(--body-font-color-invert);
+	  padding: 0.5rem;
 	}
 .gt-container .gt-btn-preview:hover {
-	background-color: var(--color-blue);
+	opacity: .90;
 	color: var(--body-font-color-invert);
-	border: 1px solid var(--color-blue);
+	background-color: var(--color-gray);
+	border: 1px solid var(--color-gray);
 	}
+.gt-container .gt-btn-login:hover {
+	opacity: .90;
+	color: var(--body-font-color-invert);
+	background-color: var(--color-gray);
+	border: 1px solid var(--color-gray);
+}
 .gt-container .gt-btn-public:hover {
 	  background-color: var(--color-blue);
 	  color: var(--body-font-color-invert);
-	}
+}
 
 @media (max-width: 479px) {
 	.gt-container .gt-header-controls .gt-btn:hover {
@@ -115,10 +134,24 @@ input {
 		margin: 0.75em 0 0;
 	}
 }
+
+.gt-container .gt-header-controls-tip {
+		display: none;
+}
 	
 .gt-container .gt-header-controls-tip {
-	color: var(--color-blue);
+	color: var(--color-gray);
 }
+.gt-container .gt-header-controls-tip:hover {
+	color: var(--body-font-color);
+}
+.gt-container .gt-user:hover {
+	color: var(--body-font-color);
+}
+.gt-container .gt-link:hover {
+	color: var(--body-font-color);
+}
+
 
 .gt-container .gt-header-preview {
 	padding: 0.75em;
