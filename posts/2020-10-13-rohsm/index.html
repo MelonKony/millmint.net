@@ -16,7 +16,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.bf064a71a8e587ec4bfe3f4ec7da33e2110269e1cd15b03e0a984aa16eeec2ab.css" integrity="sha256-vwZKcajlh&#43;xL/j9Ox9oz4hECaeHNFbA&#43;CphKoW7uwqs=">
-<script defer src="/en.search.min.25e47b37b8634632976b54aaf96ba6df38065af6b0c7db165c66cf0b3dc185df.js" integrity="sha256-JeR7N7hjRjKXa1Sq&#43;Wum3zgGWvawx9sWXGbPCz3Bhd8="></script>
+<script defer src="/en.search.min.8b93ae0b95129164172f31b34c98d3c1f2a946e8a202ed372be2cc1f674271f9.js" integrity="sha256-i5OuC5USkWQXLzGzTJjTwfKpRuiiAu03K&#43;LMH2dCcfk="></script>
 
 <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <!--
@@ -31,9 +31,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
-<script async defer data-website-id="2e160e9a-abcd-480f-8754-c07f399d610f" src="https://statistics.millmint.net/umami.js"></script>
-<script async defer data-website-id="a19ed5e1-19b6-4c96-900c-06dc767c90be" src="https://stats.millmint.net/umami.js"></script>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
@@ -542,7 +539,7 @@ Oct 13, 2020
 
 </div>
   
-  <p><p>
+  <p>
 
 
   
@@ -556,7 +553,7 @@ Oct 13, 2020
 <blockquote class="book-hint red">
   ❖ <strong>This article</strong> was featured in <a href="/newsdesk/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em>
 </blockquote>
-</p>
+
 <p><strong>The Rohsm STR series</strong> is a small racer built for clubs by Rohsm S.p.M., a hundred-year-old company headquartered in the Mediterranean racing culture of Tohs. Its most recent variant, the 750, is available in limited quantities to enthusiast owners and club pools. Like most petrol cars in Vekllei, they are built by hand, so no two 750s drive exactly alike.</p>
 <p>Compared to its neighbouring continents, petrol cars are criminally unsafe in Vekllei, where a preference for speed and lightweight manoeuvrability in European bodies see much of the steel of electric autos traded for light alloys and carbon. They crumple like drink cans in a crash, but prior to their death the driver is having the best driving experience of his life. This reckless pursuit of good driving means locals call them “bastard cars”. Extraordinarily lightweight and tremendously powerful, they cut sharp racing lines and trace corners. Poised and nimble, they make good use of Motorway One, the gentle curved ring road of Vekllei with no speed limit.</p>
 <p>Because of the inconvenience of finding petrol stations and their relative danger, not many people drive petrol cars in Vekllei. Why would you, when it is usually faster and more convenient to take a fast tram or train, or a battery auto from an autopool? The ones that do drive, however, drive hard.</p>
@@ -566,13 +563,18 @@ Oct 13, 2020
 </p>
   <style>
   .markdown a.book-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0.5rem;
-    margin-left: 8vw;
-    margin-right: 8vw;
+    text-align: center;
+    position: relative;
+    box-sizing: border-box;
+    font-weight: 600;
+    border: 1px solid var(--color-gray);
     min-width: 280px;
+    width: 100%;
+    border-radius: .25rem;
+    color: var(--color-gray);
+  }
+  .markdown a.book-btn:hover {
+    opacity: .75;
   }
   </style>
 </article>
@@ -767,10 +769,6 @@ Oct 13, 2020
        }
      }
      
-button {
-  cursor: pointer;
-}
-
 button:hover {
   cursor: pointer;
   opacity: .5;
