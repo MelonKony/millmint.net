@@ -178,9 +178,10 @@ hr, h1, h2, h3 {
   vertical-align: top;
 }
 .book-brand {
-  font-size: 34px;
+  font-size: 38px;
   margin-bottom: 10px;
 	font-weight: 800;
+  margin-top: -4px;
 }
 
 .book-brand a:hover {
