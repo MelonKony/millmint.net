@@ -525,34 +525,18 @@ https://github.com/alex-shpak/hugo-book
 		width: 100%;
 		height: 100%;
 	}
-	@media screen and (min-width: 800px) {
+	@media screen and (min-width: 60rem) {
 	/* columns wrap fix */
 		.markdown .book-columns>div {
 			min-width: 450px;
 		}
 	}
 
-	@media (max-width: 1250px) {
+	@media (max-width: 60rem) {
 	  .desktop {
 		display: none;
 	  }
 	}
-	/* coins */
-	.row {
-		  display: flex;
-		  margin-left: auto;
-		  margin-right: auto;
-		}
-		
-	.column {
-	  flex: 33.33%;
-	  padding: 5px;
-	}
-	@media (max-width: 1250px) {
-		  .row {
-			display: none;
-		  }
-		}
 	
 	.book-footer{
 		display: none;
@@ -564,17 +548,71 @@ https://github.com/alex-shpak/hugo-book
 	button {
 		display: none;
 	}
+	.book-menu {
+		display: none;
+	}
+	.book-page {
+		padding: 0;
+	}
+	.container {
+	max-width: 100%;
+	}
+	.book-header {
+		display: none;
+	}
+	.markdown a:visited {
+		color: var(--body-font-color);
+	}
+	.markdown a {
+		text-decoration: none;
+		color: var(--body-font-color);
+	}
+	.markdown a:hover {
+		text-decoration: none;
+		opacity: .75;
+	}
 </style>
+<div style="min-width: 100%;">
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/parallax.css">
+  <script>
+   function resizeIframe(obj) {
+     obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+    }
+  </script>
+</head>
+<body>
+  <div id="animation-images">
+    <img id="falling-1" class="asset" src="/images/mastheads/parallax/fall-1.png" />
+    <img id="falling-2" class="asset" src="/images/mastheads/parallax/fall-2.png" />
+    <img id="falling-3" class="asset" src="/images/mastheads/parallax/fall-3.png" />
+    <img id="falling-4" class="asset" src="/images/mastheads/parallax/fall-4.png" />
+    <img id="falling-5" class="asset" src="/images/mastheads/parallax/fall-5.png" />
+    <img id="falling-6" class="asset" src="/images/mastheads/parallax/fall-6.png" />
+    <img id="falling-7" class="asset" src="/images/mastheads/parallax/fall-7.png" />
+  </div>
+  <canvas id="HeaderCanvas" class="edge-to-edge hug-top" width="1000" height="900"></canvas>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script src="/js/AnimationEngine.js"></script>
+  <script src="/js/falling_animations.js"></script>
+</body>
+</html>
+</div>
+<div style="height: 100vh; display:flex;justify-content:center;align-items:center;"
+<div style="max-width: 60rem; margin-left: auto; margin-right: auto;">
 <div class="book-columns flex flex-wrap">
   
   <div class="flex-even markdown-inner">
     <!-- begin columns block -->
-<img class="desktop" style="padding: 20px; text-align: center; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
+<img class="desktop" style="float: right; width: 80%; padding: 20px; text-align: center; margin: auto; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
   </div>
   
   <div class="flex-even markdown-inner">
      <!-- magic separator, between columns -->
-<div class="homepage" style="margin-top: 30%; margin-bottom: 30%;">
+<div class="homepage" style="margin-top: 25%; margin-bottom: 25%;">
 <h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
 <h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint</h1>
 <h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
@@ -584,6 +622,9 @@ https://github.com/alex-shpak/hugo-book
 <span class="dot-yellow"></span>
 <span class="dot-green"></span>
 <span class="dot-blue"></span>
+</div>
+<h4 style="text-align: center;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
+</div>
 </div>
 
   </div>
