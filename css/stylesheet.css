@@ -57,7 +57,7 @@
 }
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-  
+
 
 html {
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
@@ -87,7 +87,7 @@ video {
 
 .book-menu nav {
 	width: 16rem;
-	padding: 2rem!important;
+	padding: 2rem 1rem 2rem 2rem!important;
 	background: var(--body-background);
 	position: fixed;
 	top: 0;
@@ -331,7 +331,7 @@ hr, h1, h2, h3 {
     transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1) 0ms;
     transform: translateX(0);
   }
-  
+
   .js-toggle--checked .js-toggle-thumb {
     transform: translateX(26px);
     border-color: #19ab27;
@@ -365,7 +365,7 @@ img[alt=emoji] { width: 30px; }
 
 img[alt=smallgif] { height: 400px; }
 
-.markdown img[alt=smallimg] { 
+.markdown img[alt=smallimg] {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -461,7 +461,7 @@ img {
   border-radius: 5px;
   padding: 1.5rem;
   }
-  
+
 @media screen and (max-width: 56rem) {
   .markdown img {
     border-radius: 5px;
@@ -651,7 +651,7 @@ padding: 0.7rem;
 		.book-toc nav {
         padding:2.5rem 1rem;
 				padding-left:4rem;
-        
+
 		}
     .book-toc a {
       transition: all 100ms ease-in-out;
@@ -828,8 +828,7 @@ color: var(--color-visited-link);
 
 /*smallimg size fix*/
 @media only screen and (max-width: 600px) {
-  img[alt=smallimg] { 
+  img[alt=smallimg] {
     width: 100%;
   } !important
 }
-
