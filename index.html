@@ -15,7 +15,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.bf064a71a8e587ec4bfe3f4ec7da33e2110269e1cd15b03e0a984aa16eeec2ab.css" integrity="sha256-vwZKcajlh&#43;xL/j9Ox9oz4hECaeHNFbA&#43;CphKoW7uwqs=">
-<script defer src="/en.search.min.c298311ddae449c6d8cf35006e162f43b8a25d0c1ea2c1f847130f902cf1be06.js" integrity="sha256-wpgxHdrkScbYzzUAbhYvQ7iiXQweosH4RxMPkCzxvgY="></script>
+<script defer src="/en.search.min.12a6bf9016b335daa2b07709cc792aa1d32b3cb280b5ac5fb86bab53e302fc20.js" integrity="sha256-Eqa/kBazNdqisHcJzHkqodMrPLKAtaxfuGurU&#43;MC/CA="></script>
 
 <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/index.xml" title="MillMint" />
@@ -30,9 +30,6 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
-
-<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
@@ -117,7 +114,7 @@ https://github.com/alex-shpak/hugo-book
 
 <div class="magic">
 <h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-gray);
--webkit-touch-callout: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;">ミルミントスタジオ</h3>
+-webkit-touch-callout: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;">スタジオミルミント</h3>
 </div>
 
 <div class="magic">
@@ -535,12 +532,14 @@ https://github.com/alex-shpak/hugo-book
 	margin: 1rem 0;
 	min-width: 496.5px;
 	}
-	@media (max-width: 60rem) {
+	@media (max-width: 76rem) {
 	  .desktop {
 		display: none;
 	  }
 	}
-
+	.desktop img {
+		max-height: 20vh;
+	}
 	.book-footer{
 		display: none;
 	}
@@ -552,30 +551,27 @@ https://github.com/alex-shpak/hugo-book
 		display: none;
 	}
 	.book-menu {
-		display: none;
+		display: inline-block;
+		position: static;
 	}
 	.book-menu nav {
 		padding: 2rem 1rem 2rem 2rem!important;
+		position: static;
+
 	}
 	.book-page {
 		padding: 0;
 	}
-	.container {
-	max-width: 100%;
-	}
-	.book-header {
-		display: none;
-	}
 	.markdown a:visited {
-		color: var(--body-font-color);
+		color: var(--color-gray);
 	}
 	.markdown a {
 		text-decoration: none;
-		color: var(--body-font-color);
+		color: var(--color-gray);
 	}
 	.markdown a:hover {
+		color: var(--body-font-color);
 		text-decoration: none;
-		opacity: .75;
 	}
 	@media only screen and (max-width: 600px) {
     @media screen and (max-width: 56rem) {
@@ -588,19 +584,34 @@ https://github.com/alex-shpak/hugo-book
     margin-top: 1rem;
 		padding-top: 2rem;
 }
+#HeaderCanvas {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100%;
+    border-radius: 5px;
+		position: absolute;
+		left: -256px;
+		width: 125%;
+}
 </style>
-<div style="min-width: 100%;">
+<link href="/layouts/shortcodes/parallax.html" rel="import" />
+<!--<main class="container flex" style="min-width: 100%;">
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/parallax.css">
+
   <script>
    function resizeIframe(obj) {
      obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
     }
   </script>
 </head>
+
 <body>
+ 
   <div id="animation-images">
     <img id="falling-1" class="asset" src="/images/mastheads/parallax/fall-1.png" />
     <img id="falling-2" class="asset" src="/images/mastheads/parallax/fall-2.png" />
@@ -611,15 +622,22 @@ https://github.com/alex-shpak/hugo-book
     <img id="falling-7" class="asset" src="/images/mastheads/parallax/fall-7.png" />
   </div>
   <canvas id="HeaderCanvas" class="edge-to-edge hug-top" width="1000" height="900"></canvas>
+
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
   <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+  
   <script src="/js/AnimationEngine.js"></script>
   <script src="/js/falling_animations.js"></script>
+
+
 </body>
 </html>
-</div>
-<div style="height: 100vh; display:flex;justify-content:center;align-items:center;"
-<div style="max-width: 60rem; margin-left: auto; margin-right: auto;">
+
+</main>-->
+<div style="max-width: 80rem;">
+<div style="height: 100vh; display:flex;justify-content:center;"
+<div style="max-width: 60rem; margin-left: auto; margin-right: auto; max-height: 100vh;">
 <div class="book-columns flex flex-wrap">
   
   <div class="flex-even markdown-inner">
@@ -629,9 +647,9 @@ https://github.com/alex-shpak/hugo-book
   
   <div class="flex-even markdown-inner">
      <!-- magic separator, between columns -->
-<div class="homepage" style="padding: 8rem 0rem; min-width: 80%;">
+<div class="homepage" style="padding: 6rem 0rem; min-width: 80%;">
 <h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"> MillMint</h1>
+<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"><i> MillMint</i></h1>
 <h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
 <div style="display:table; margin:0 auto; padding: 10px;">
 <span class="dot-pink"></span>
@@ -640,7 +658,7 @@ https://github.com/alex-shpak/hugo-book
 <span class="dot-green"></span>
 <span class="dot-blue"></span>
 </div>
-<h4 style="text-align: center; word-wrap: break-word; margin-top: 1rem;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
+<h4 style="color: var(--color-gray); font-weight: 800; text-align: center; word-wrap: break-word; margin-top: 1rem;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
 </div>
 </div>
 
@@ -648,6 +666,7 @@ https://github.com/alex-shpak/hugo-book
   
 </div>
 
+</div>
 </div>
 </article>
  
@@ -796,7 +815,7 @@ https://github.com/alex-shpak/hugo-book
             })
           })
 </script>
-     
+
 <style>
 .hidden {
      display: none;
@@ -806,12 +825,12 @@ https://github.com/alex-shpak/hugo-book
      font-family: Whirlybats;
      font-size: 35px;
      display: inline;
-     text-decoration: none; 
+     text-decoration: none;
      text-align: center;
 }
 
 .readermode-hidden {
-     color: var(--color-gray); 
+     color: var(--color-gray);
 }
 
 @media screen and (max-width: 450px) {
@@ -819,7 +838,7 @@ https://github.com/alex-shpak/hugo-book
           display: none;
        }
      }
-     
+
 button:hover {
   cursor: pointer;
   opacity: .5;
@@ -828,6 +847,7 @@ button:hover {
 
  
 </style>
+
 </body>
 
 </html>
