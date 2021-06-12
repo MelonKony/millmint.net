@@ -15,7 +15,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.bf064a71a8e587ec4bfe3f4ec7da33e2110269e1cd15b03e0a984aa16eeec2ab.css" integrity="sha256-vwZKcajlh&#43;xL/j9Ox9oz4hECaeHNFbA&#43;CphKoW7uwqs=">
-<script defer src="/en.search.min.fad2de97d76251a3deb2377b8d74057f131cde60e8bc67f9b90a8a1ec93dfd08.js" integrity="sha256-&#43;tLel9diUaPesjd7jXQFfxMc3mDovGf5uQqKHsk9/Qg="></script>
+<script defer src="/en.search.min.fd1c62457dcaf3c944b6abc9f874c9f4a9030638456b6ce7bad40392d3cc42cd.js" integrity="sha256-/RxiRX3K88lEtqvJ&#43;HTJ9KkDBjhFa2znutQDktPMQs0="></script>
 
 <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/index.xml" title="MillMint" />
@@ -100,9 +100,35 @@ https://github.com/alex-shpak/hugo-book
 <link type="text/css" rel="stylesheet" href="/css/comments.css" />
 <script type="text/javascript" src="/js/nav.js"></script>
 
+  <link rel="stylesheet" href="/css/parallax.css">
+  <script>
+   function resizeIframe(obj) {
+     obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+    }
+  </script>
 </head>
 
 <body dir=>
+
+  
+  <div id="animation-images">
+    <img id="falling-1" class="asset" src="/images/mastheads/parallax/fall-1.png" />
+    <img id="falling-2" class="asset" src="/images/mastheads/parallax/fall-2.png" />
+    <img id="falling-3" class="asset" src="/images/mastheads/parallax/fall-3.png" />
+    <img id="falling-4" class="asset" src="/images/mastheads/parallax/fall-4.png" />
+    <img id="falling-5" class="asset" src="/images/mastheads/parallax/fall-5.png" />
+    <img id="falling-6" class="asset" src="/images/mastheads/parallax/fall-6.png" />
+    <img id="falling-7" class="asset" src="/images/mastheads/parallax/fall-7.png" />
+  </div>
+  <canvas id="HeaderCanvas" class="edge-to-edge hug-top" width="1000" height="900"></canvas>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+  
+  <script src="/js/AnimationEngine.js"></script>
+  <script src="/js/falling_animations.js"></script>
+
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
@@ -521,156 +547,113 @@ https://github.com/alex-shpak/hugo-book
       
       
   <article class="markdown"><style>
-	body {
-		width: 100%;
-		height: 100%;
-	}
-	@media screen and (min-width: 60rem) {
-	/* columns wrap fix */
-		.markdown .book-columns>div {
-			min-width: 450px;
-		}
-	}
-	.markdown .book-columns>div {
-	margin: 1rem 0;
-	min-width: 496.5px;
-	}
-	@media (max-width: 76rem) {
-	  .desktop {
-		display: none;
-	  }
-	}
-	.desktop img {
-		max-height: 20vh;
-	}
-	.book-footer{
-		display: none;
-	}
-	/* hide header */
-	strong {
-		display: none;
-	}
-	button {
-		display: none;
-	}
-	.book-menu {
-		display: inline-block;
-		position: static;
-	}
-	.book-menu nav {
-		padding: 2rem 1rem 2rem 2rem!important;
-		position: static;
 
-	}
-	.book-page {
-		padding: 0;
-	}
-	.markdown a:visited {
-		color: var(--color-gray);
-	}
-	.markdown a {
-		text-decoration: none;
-		color: var(--color-gray);
-	}
-	.markdown a:hover {
-		color: var(--body-font-color);
-		text-decoration: none;
-	}
-	@media only screen and (max-width: 600px) {
-    @media screen and (max-width: 56rem) {
-        .markdown {
-            margin-top: 0;
-        }
-    }
+body {
+	width: 100%;
+	height: 100%;
 }
+
+.markdown h1 {
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 900;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	font-size: 55pt;
+	letter-spacing: -2px;
+}
+
+.markdown h2 {
+	font-weight: 800;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 18pt;
+}
+
+.markdown h4 {
+	font-size: 16px;
+	color: var(--color-gray);
+	font-weight: 800;
+	text-align: center;
+	word-wrap: break-word;
+	margin-top: 1rem;
+}
+
+.markdown a:visited {
+	color: var(--color-gray);
+}
+
+.markdown a {
+	text-decoration: none;
+	color: var(--color-gray);
+}
+
+.homepage {
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+	margin: auto;
+	height: 100%;
+}
+
+.hero {
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+	margin: auto;
+	height: 100%;
+	padding: 20px;
+	background-color: var(--gray-100)
+}
+
+@media (max-width: 1023px) {
+	.hero {
+	display: none;
+	}
+}
+
 .markdown .book-columns > div {
-    margin-top: 1rem;
-		padding-top: 2rem;
+    min-width: 336px;
 }
-#HeaderCanvas {
-    display: block;
-    margin: 0px;
-    padding: 0px;
-    height: 100vh;
-    width: 100%;
-    border-radius: 5px;
-		position: absolute;
-		left: -256px;
-		width: 125%;
+
+.book-menu nav {
+	padding: 2rem 1rem 2rem 2rem!important;
+	position: static;
+
 }
+
+.book-footer{
+	display: none;
+}
+
 </style>
-<link href="/layouts/shortcodes/parallax.html" rel="import" />
-<!--<main class="container flex" style="min-width: 100%;">
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/css/parallax.css">
-
-  <script>
-   function resizeIframe(obj) {
-     obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-    }
-  </script>
-</head>
-
-<body>
- 
-  <div id="animation-images">
-    <img id="falling-1" class="asset" src="/images/mastheads/parallax/fall-1.png" />
-    <img id="falling-2" class="asset" src="/images/mastheads/parallax/fall-2.png" />
-    <img id="falling-3" class="asset" src="/images/mastheads/parallax/fall-3.png" />
-    <img id="falling-4" class="asset" src="/images/mastheads/parallax/fall-4.png" />
-    <img id="falling-5" class="asset" src="/images/mastheads/parallax/fall-5.png" />
-    <img id="falling-6" class="asset" src="/images/mastheads/parallax/fall-6.png" />
-    <img id="falling-7" class="asset" src="/images/mastheads/parallax/fall-7.png" />
-  </div>
-  <canvas id="HeaderCanvas" class="edge-to-edge hug-top" width="1000" height="900"></canvas>
-
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-
-  
-  <script src="/js/AnimationEngine.js"></script>
-  <script src="/js/falling_animations.js"></script>
-
-
-</body>
-</html>
-
-</main>-->
-<div style="max-width: 80rem;">
-<div style="height: 100vh; display:flex;justify-content:center;"
-<div style="max-width: 60rem; margin-left: auto; margin-right: auto; max-height: 100vh;">
 <div class="book-columns flex flex-wrap">
   
   <div class="flex-even markdown-inner">
     <!-- begin columns block -->
-<img class="desktop" style="float: right; width: 80%; padding: 20px; text-align: center; margin: auto; margin-right: auto; background-color: var(--gray-100)" src="/images/mastheads/princess.png">
+<img class="hero" src="/images/mastheads/princess.png">
   </div>
   
   <div class="flex-even markdown-inner">
-     <!-- magic separator, between columns -->
-<div class="homepage" style="padding: 6rem 0rem; min-width: 80%;">
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; margin-bottom: 0; text-align: center; font-size: 55pt; letter-spacing: -2px;">Studio</h1>
-<h1 style="margin-left: auto; margin-right: auto; font-weight: 900; margin-top: 0; text-align: center; margin-bottom: 10px; font-size: 55pt; letter-spacing: -2px;"><i> MillMint</i></h1>
-<h1 style="font-weight: 800; text-align: center; font-weight: bolder; font-size: 18pt;">スタジオミルミント</h2>
-<div style="display:table; margin:0 auto; padding: 10px;">
-<span class="dot-pink"></span>
-<span class="dot-orange"></span>
-<span class="dot-yellow"></span>
-<span class="dot-green"></span>
-<span class="dot-blue"></span>
-</div>
-<h4 style="color: var(--color-gray); font-weight: 800; text-align: center; word-wrap: break-word; margin-top: 1rem;"><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
-</div>
+    <div class="homepage">
+	<h1>Studio</h1>
+	<h1><i> MillMint</i></h1>
+	<h2>スタジオミルミント</h2>
+	<div style="display:table; margin:0 auto; padding: 10px;">
+		<span class="dot-pink"></span>
+		<span class="dot-orange"></span>
+		<span class="dot-yellow"></span>
+		<span class="dot-green"></span>
+		<span class="dot-blue"></span>
+	</div>
+	<h4><a href="/utopia/intro/">INTRO</a> • <a href="/utopia/vekllei">UTOPIA</a> • <a href="/newsdesk/about/">NEWSDESK</a> • <a href="/posts/">POSTS</a></h4>
 </div>
 
   </div>
   
 </div>
 
-</div>
-</div>
 </article>
  
       

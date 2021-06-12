@@ -27,9 +27,9 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-			--gray-100: rgba(255, 255, 255, 0.1);
-			--gray-200: rgba(255, 255, 255, 0.2);
-			--body-background: #1a1a1a;
+			--gray-100: #21262d;
+			--gray-200: ##161b22;
+			--body-background: #0d1117;
 			--body-font-color: #f3f3f3;
       --body-font-color-invert: #2c3e50;
 			--color-link: #84b2ff;
@@ -386,9 +386,9 @@ img {
 /* dark theme colors */
 
 [data-theme=dark] {
-  --gray-100: rgba(255, 255, 255, 0.1);
+  --gray-100: #21262d;
   --gray-200: rgba(255, 255, 255, 0.2);
-  --body-background: #1a1a1a;
+  --body-background: #0d1117;
   --body-font-color: #f3f3f3;
   --body-font-color-invert: #2c3e50;
   --color-link: #84b2ff;
