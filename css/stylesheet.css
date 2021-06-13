@@ -436,6 +436,10 @@ img {
   margin-bottom: 2rem;
 }
 
+.book-search-results ul {
+  margin-top: 2rem;
+}
+
 .book-search small {
   margin-left: 0.4rem;
 }
