@@ -1,9 +1,9 @@
 
 var falling_layers = [
-    new Animated_Object("falling-1",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1500)], pre_ani = 'stop'),
-    new Animated_Object("falling-2",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1400)], pre_ani = 'stop'),
-    new Animated_Object("falling-3",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1375)], pre_ani = 'stop'),
-    new Animated_Object("falling-4",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1312)], pre_ani = 'stop'),
+    new Animated_Object("falling-1",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1390)], pre_ani = 'stop'),
+    new Animated_Object("falling-2",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1380)], pre_ani = 'stop'),
+    new Animated_Object("falling-3",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1300)], pre_ani = 'stop'),
+    new Animated_Object("falling-4",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1250)], pre_ani = 'stop'),
     new Animated_Object("falling-5",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1200)], pre_ani = 'stop'),
     new Animated_Object("falling-6",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1100)], pre_ani = 'stop'),
     new Animated_Object("falling-train-2",[KeyFrame(0, -800, 606), KeyFrame(910, -5000, 1100)], pre_ani = 'stop'),
