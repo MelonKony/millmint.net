@@ -185,10 +185,10 @@ hr, h1, h2, h3 {
 }
 
 .book-brand a:hover {
- background-image: -webkit-linear-gradient(270deg, #fd2b3d, #ae51aa);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
--webkit-animation: hue 1s infinite linear;
+	 background-image: -webkit-linear-gradient(270deg, #fd2b3d, #ae51aa);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-animation: hue 1s infinite linear;
 }
 
 @-webkit-keyframes hue {
@@ -217,12 +217,12 @@ hr, h1, h2, h3 {
 }
 .markdown h3 {
   font-weight: bold;
-	font-size: 20px;
+	font-size: 22px;
 	margin-top: 1em;
 }
 .markdown h4 {
   font-weight: bold;
-	font-size: 18px;
+	font-size: 20px;
 }
 .markdown h5 {
   font-weight: bold;
@@ -794,19 +794,6 @@ color: var(--color-visited-link);
 @media screen and (min-width: 800px) {
 	.book-page {
 			padding:2rem 4rem;
-	}
-}
-
-/* sticky header */
-@media screen and (max-width: 56rem) {
-	.book-header {
-		display: block;
-		position: fixed !important;
-		left: 0;
-		top: 0;
-		width: 100%;
-		padding: 15px;
-		z-index: 1;
 	}
 }
 

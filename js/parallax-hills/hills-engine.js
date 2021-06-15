@@ -1,27 +1,27 @@
 /**
  * This is version Alpha 0.5
- * This code was created by Ben_R_R (Ben_R_R#2574) 
- * 
- * Alpha 0.5 Changes: The animation engine now checks to see if the imagesloaded jquery plugin is installed, if it is, it uses that to 
+ * This code was created by Ben_R_R (Ben_R_R#2574)
+ * .:. created by Ben_R_R .:. tolkienfan72@gmail.com .:.
+ * Alpha 0.5 Changes: The animation engine now checks to see if the imagesloaded jquery plugin is installed, if it is, it uses that to
  * try and trigger the first frame as early as possible. https://imagesloaded.desandro.com/
- * 
- * In order to make this work, I had to move that code into Register_Animation(), which is fine, because until we call Register_Animation we don't even 
+ *
+ * In order to make this work, I had to move that code into Register_Animation(), which is fine, because until we call Register_Animation we don't even
  * know if there is going to be an animationLoop() to render.
- * 
- * BUG: There is currently a bug where if you have two animations on a page, you will end up calling animationLoop() twice per frame. 
- * FIX: Add a flag to recognize when we have called animationLoop() from Register_Animation(), and don't call it again. 
- * 
+ *
+ * BUG: There is currently a bug where if you have two animations on a page, you will end up calling animationLoop() twice per frame.
+ * FIX: Add a flag to recognize when we have called animationLoop() from Register_Animation(), and don't call it again.
+ *
  * Alpha 0.4 Changes: Changed $(document).ready() to $(window).load()
  * See here for an explanation: https://web.archive.org/web/20191115222535/http://net-informations.com/jq/iq/onload.htm
- * Made missing images a bit more robust. 
+ * Made missing images a bit more robust.
  * Added an checking to make sure that the target canvas actually exists. This check is done when you call Register_Animation()
- * 
- * 
- * Alpha 0.3 Changes: Exposed a function that you can call to trigger a manual animationLoop() . 
- * 
+ *
+ *
+ * Alpha 0.3 Changes: Exposed a function that you can call to trigger a manual animationLoop() .
+ *
  */
 // Stuff we want added to the Global Namespace
-// Should be noted that these variables in particular 
+// Should be noted that these variables in particular
 // have to be watched for nameing conflicts with other scripts.
 var Animation = null;
 var Animated_Object = null;
@@ -32,7 +32,7 @@ var Update_Animation = null;
 
 var _debug_last_error = null;
 
-(function() { // WOO! Exploiting Javascript Lexical Closures to keep code from Polluting the Global Namespace! 
+(function() { // WOO! Exploiting Javascript Lexical Closures to keep code from Polluting the Global Namespace!
 // Remember kids: Other languages' hacked garbage is Javascript best practice!
 
     // Returns an interpolated y based on two points and an x value
@@ -53,17 +53,17 @@ var _debug_last_error = null;
         this.targetID = targetID;
 
         this.render = function(){
-            
+
             var t = -1 * this.canvas.getBoundingClientRect().top;
-            
+
             // Test to see if the canvas is actualy on the screen right now.
             if(t < -window.innerHeight){ return; }
 
             if(t > this.canvas.getBoundingClientRect().height){ return; }
-            
+
             // clear the canvas
             this.ctx.fillStyle = this.clear_color;
-            this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height); 
+            this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
 
             // Position the animation on the canvas based on the paramters we are given.
             this.ctx.translate(-(this.w * this.origin_x) + (this.canvas.width * this.origin_x),-(this.h * this.origin_y) + (this.canvas.height * this.origin_y));
@@ -85,7 +85,7 @@ var _debug_last_error = null;
             for(var i = 0; i < this.animated_objects.length; i++){
                 out_obj.frames.push( this.animated_objects[i].render_audit(out_obj.t));
             }
-            
+
             return out_obj;
         }
     };
@@ -94,12 +94,12 @@ var _debug_last_error = null;
     Animated_Object = function(imageID, keyframes, pre_ani = 'lerp', post_ani = 'lerp'){
         this.image = document.getElementById(imageID);
         this.keyframes = keyframes;
-        this.interp = linear_interpolation; // Nothing fancy for frame interpolation 
-        this.silent_render = false; 
+        this.interp = linear_interpolation; // Nothing fancy for frame interpolation
+        this.silent_render = false;
         this.pre_ani = pre_ani;   // What you do before the animation
         this.post_ani = post_ani; // What you do after the animation
         this.render = function(ctx, t) {
-            
+
             if (this.keyframes.length === 0){
                 return;
             }
@@ -110,7 +110,7 @@ var _debug_last_error = null;
                     return;
                 }
                 if (this.pre_ani == 'lerp'){
-                    
+
                     var x = this.interp(keyframes[0].t, keyframes[0].x, keyframes[1].t, keyframes[1].x, t);
                     var y = this.interp(keyframes[0].t, keyframes[0].y, keyframes[1].t, keyframes[1].y, t);
                     this.sub_render(ctx, x, y);
@@ -119,7 +119,7 @@ var _debug_last_error = null;
                 return; // pre_ani == anything else... Wonder if we should do that.
             }
 
-            for(var i = 0; i < this.keyframes.length - 1; i++){ 
+            for(var i = 0; i < this.keyframes.length - 1; i++){
                 if (t >= keyframes[i].t && t <= keyframes[i+1].t){
                     var x = this.interp(keyframes[i].t, keyframes[i].x, keyframes[i+1].t, keyframes[i+1].x, t);
                     var y = this.interp(keyframes[i].t, keyframes[i].y, keyframes[i+1].t, keyframes[i+1].y, t);
@@ -150,7 +150,7 @@ var _debug_last_error = null;
             } catch (error) {
                 _debug_last_error = error; // So if for some reason an image breaks, this will be called every frame, so rather than dump to console, save it in a variable to be accessed later
             }
-            
+
         };
 
         // make a fake context and run in through the actualy render function,
@@ -170,7 +170,7 @@ var _debug_last_error = null;
     };
 
     var window_has_moved = true;
-    var callCanvasFix = true; 
+    var callCanvasFix = true;
 
     var animations = [];
 
@@ -180,12 +180,12 @@ var _debug_last_error = null;
     /**
      * Call this function to register an animation.
      * Note: The canvas (animation.targetID) must exist when this function is called.
-     * 
+     *
      */
     Register_Animation = function(animation){
-        
-        // Make sure that their is actually a target to render too. 
-        if($("#" + animation.targetID).length > 0){ 
+
+        // Make sure that their is actually a target to render too.
+        if($("#" + animation.targetID).length > 0){
 
             canvas_list.push(animation.targetID); // make sure things like the canvas fix function know about us
             animations.push(animation);
@@ -203,7 +203,7 @@ var _debug_last_error = null;
             }
             // join promises so that animationLoop() will be called when they are all resolved.
             $.when.apply(null, img_load_promises).done(animationLoop);
-            
+
         } else {
             console.log("Using $(window).load()");
             $(window).load(animationLoop);
@@ -217,34 +217,34 @@ var _debug_last_error = null;
 
     // This setup we can do when the DOM is ready, no need to wait for the images to load
     $(document).ready(function(){
-        $( window ).scroll(function() { 
-            // Never animate on scroll. this function will be called a hundred 
+        $( window ).scroll(function() {
+            // Never animate on scroll. this function will be called a hundred
             // times or more on a scroll event, way faster than our render engine
             // could run.
             window_has_moved = true;
         });
 
         $( window ).resize(function() { // Note this also catches browser zoom level changes
-            callCanvasFix = true; 
+            callCanvasFix = true;
         });
     });
 
 
     function fixCanvasLayout(){
         // This is where we handle things like browser zoom levels and the like.
-        
+
         for(i=0;i<canvas_list.length;i++){
-            //weird thing about canvas pixels, they stretch when their canvas does... 
-            // This unstretches them so they stay 'square' no mater what the canvas w/h ratio. 
+            //weird thing about canvas pixels, they stretch when their canvas does...
+            // This unstretches them so they stay 'square' no mater what the canvas w/h ratio.
             $("#" + canvas_list[i]).attr("width", document.getElementById(canvas_list[i]).clientWidth );
             $("#" + canvas_list[i]).attr("height", document.getElementById(canvas_list[i]).clientHeight);
         }
-        
+
         callCanvasFix = false;
     }
 
     function animationLoop(delta_t){
-        
+
         if (callCanvasFix){
             fixCanvasLayout();
             window_has_moved = true // redraw the animation if we have to fix the canvases
@@ -255,7 +255,7 @@ var _debug_last_error = null;
             return;
         }
         window_has_moved = false;
-        
+
         for(var i = 0; i < animations.length; i++){
             animations[i].render();
         }

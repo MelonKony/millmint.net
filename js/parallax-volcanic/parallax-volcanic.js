@@ -1,4 +1,4 @@
-
+/* .:. created by Ben_R_R .:. tolkienfan72@gmail.com .:. */
 var falling_layers = [
     new Animated_Object("falling-1",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1390)], pre_ani = 'stop'),
     new Animated_Object("falling-2",[KeyFrame(0, 0, 606), KeyFrame(910, 0, 1380)], pre_ani = 'stop'),

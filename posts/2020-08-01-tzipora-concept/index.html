@@ -18,7 +18,7 @@ She has a lot of endearing characteristics that give great character to her mann
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.bf064a71a8e587ec4bfe3f4ec7da33e2110269e1cd15b03e0a984aa16eeec2ab.css" integrity="sha256-vwZKcajlh&#43;xL/j9Ox9oz4hECaeHNFbA&#43;CphKoW7uwqs=">
-<script defer src="/en.search.min.52e1042de8318e4bda96d685695a370ea8f1c6c850bbf9c2538bc4a3f9943ebc.js" integrity="sha256-UuEELegxjkvaltaFaVo3DqjxxshQu/nCU4vEo/mUPrw="></script>
+<script defer src="/en.search.min.e2e54f9b230195635afc3d24d7bb674920b7b99329cc412ad494acdcf6a6a434.js" integrity="sha256-4uVPmyMBlWNa/D0k17tnSSC3uZMpzEEq1JSs3PampDQ="></script>
 
 <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <!--
@@ -71,23 +71,26 @@ https://github.com/alex-shpak/hugo-book
 
 <style>
  
+ 
+
 @media screen and (max-width: 56rem) {
-  .book-header {
-    position: fixed !important;
-    left: 0;
-    top: 0;
-    width: 100%;
-    padding: 15px;
-    z-index: 1;
-    background: var(--body-background);
+.book-header {
+  background: var(--body-background);
+  padding: 15px;
+  height: 40px;
+  position: fixed;  
+  top: 0;  
+  left: 0;
+  transition: top 0.2s ease-in-out;
+  width: 100%;  
   }
 }
 
-@media screen and (max-width: 56rem) {
-  .markdown {
-   margin-top: 40px;
-  }
+.nav-up {
+  top: -40px;  
 }
+
+ 
 
 @media screen and (max-width: 56rem) {
   #menu-control:checked ~ main .book-menu-overlay {
@@ -118,8 +121,7 @@ https://github.com/alex-shpak/hugo-book
 
 
 <div class="magic">
-<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-gray);
--webkit-touch-callout: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;">スタジオミルミント</h3>
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-gray);">スタジオミルミント</h3>
 </div>
 
 <div class="magic">

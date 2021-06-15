@@ -1,4 +1,5 @@
 /**
+ * .:. created by Ben_R_R .:. tolkienfan72@gmail.com .:.
  * I suppose I have to add versions on this now...
  *
  * This is version Alpha 0.2
