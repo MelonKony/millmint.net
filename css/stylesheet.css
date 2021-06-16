@@ -185,7 +185,10 @@ hr, h1, h2, h3 {
 }
 
 .book-brand a:hover {
-	 background-image: -webkit-linear-gradient(270deg, #fd2b3d, #ae51aa);
+	opacity: .75;
+}
+
+/*
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	-webkit-animation: hue 1s infinite linear;
@@ -199,6 +202,7 @@ hr, h1, h2, h3 {
    -webkit-filter: hue-rotate(-360deg);
  }
 }
+*/
 
 /* title bold styles */
 .markdown h1 {
