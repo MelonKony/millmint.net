@@ -207,7 +207,7 @@ hr, h1, h2, h3 {
 /* title bold styles */
 .markdown h1 {
   font-weight: 800;
-	font-size: 34px;
+	font-size: 38px;
 }
 .markdown h2 {
   font-weight: 800;
@@ -654,7 +654,7 @@ padding: 0.7rem;
 /*body resize fix*/
 @media screen and (min-width: 400px) {
     .book-page, .book-menu nav {
-        padding:2rem 4rem;
+        padding:2rem 3rem;
     }
 		.book-toc nav {
         padding:2.5rem 1rem;
@@ -797,7 +797,7 @@ color: var(--color-visited-link);
 /* book page padding */
 @media screen and (min-width: 800px) {
 	.book-page {
-			padding:2rem 4rem;
+			padding: 2rem 2rem;
 	}
 }
 
