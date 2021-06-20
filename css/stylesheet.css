@@ -168,8 +168,8 @@ hr, h1, h2, h3 {
   color: var(--body-font-color);
 }
 
-.markdown h1 a:visited {
-  color: var(--body-font-color);
+.markdown a:visited {
+    color: var(--color-visited-link);
 }
 
 /* book brand */
