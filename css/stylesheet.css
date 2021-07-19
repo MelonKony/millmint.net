@@ -96,6 +96,10 @@ video {
 	overflow-y: auto;
 }
 
+aside nav {
+    padding-top: 2rem;
+}
+
 aside nav ul a {
   display: inline-block;
   position: relative;
