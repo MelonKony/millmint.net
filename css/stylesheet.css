@@ -5,9 +5,10 @@
 /* typography root */
 :root {
 	--gray-100: #f8f9fa;
-	--gray-200: #ededed;
-	--body-background: #fefefe;
-	--body-font-color: #2c3e50;
+	--gray-200: #F8F8FA;
+	--body-background: #FFFFFF;
+	--body-font-color: #1d1d1f;
+	--body-font-light: #666666;
 	--body-font-color-invert: #f3f3f3;
 	--color-link: #06c;
 	--color-visited-link: #1a0dab;
@@ -28,9 +29,10 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--gray-100: #21262d;
-		--gray-200: ##161b22;
-		--body-background: #0d1117;
+		--gray-200: #161b22;
+		--body-background: #000;
 		--body-font-color: #f3f3f3;
+		--body-font-light: #86868b;
 		--body-font-color-invert: #2c3e50;
 		--color-link: #84b2ff;
 		--color-visited-link: #b88dff;
@@ -53,7 +55,8 @@
 
 .markdown {
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue". "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
-	line-height: 1.7;
+	line-height: 1.47059;
+	font-size: 17px;
 }
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
@@ -88,17 +91,20 @@ video {
 .book-menu nav {
 	width: 16rem;
 	padding: 2rem 1rem 2rem 2rem!important;
-	background: var(--body-background);
-	position: fixed;
+	position: relative;
 	top: 0;
 	bottom: 0;
 	overflow-x: hidden;
 	overflow-y: auto;
-	height: 100%
+	height: 100%;
 }
 
 aside nav {
 	padding-top: 2rem;
+}
+
+aside nav ul {
+	color: var(--body-font-light);
 }
 
 aside nav ul a {
@@ -190,9 +196,8 @@ hr, h1, h2, h3 {
 }
 
 .book-brand a:hover {
-	background: -webkit-linear-gradient(45deg, #fe1568, #955fc1);
+	opacity: .8;
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
 }
 
 /*
@@ -229,7 +234,6 @@ to {
 .markdown h3 {
 	font-weight: bold;
 	font-size: 22px;
-	margin-top: 1em;
 }
 .markdown h4 {
 	font-weight: bold;
@@ -239,13 +243,31 @@ to {
 	font-weight: bold;
 }
 
+p {
+	margin-bottom: 1.4211em;
+}
+
 .fc {
+	font-size: 84px;
+	line-height: 1;
+	font-weight: 700;
+	letter-spacing: -.015em;
 	float: left;
-	font-weight: 800;
-	font-size: 85px;
-	line-height: 45px;
-	padding-top: 15px;
-	padding-right: 15px;
+	margin-right: 8px;
+	line-height: .89286;
+}
+
+.markdown details {
+    padding: 1rem;
+    border: 0px solid var(--gray-200);
+    border-radius: .25rem;
+    background-color: var(--gray-100);
+		color: var(--body-font-light);
+		outline: none;
+}
+
+.markdown details[open] summary {
+		outline: none;
 }
 
 /* dark mode */
@@ -359,7 +381,7 @@ body.dark-mode main * {
 
 $theme-light: (
 	gray-100: #f8f9fa,
-	gray-200: #ededed,
+	gray-200: #F8F8FA,
 	icon-filter: none,
 	);
 
@@ -404,8 +426,9 @@ $theme-dark: (
 			[data-theme=dark] {
 				--gray-100: #21262d;
 				--gray-200: rgba(255, 255, 255, 0.2);
-				--body-background: #0d1117;
+				--body-background: #000;
 				--body-font-color: #f3f3f3;
+				--body-font-light: #86868b;
 				--body-font-color-invert: #2c3e50;
 				--color-link: #84b2ff;
 				--color-visited-link: #b88dff;
@@ -425,9 +448,10 @@ $theme-dark: (
 
 			[data-theme=light] {
 				--gray-100: #f8f9fa;
-				--gray-200: #ededed;
-				--body-background: #fefefe;
-				--body-font-color: #2c3e50;
+				--gray-200: #F8F8FA;
+				--body-background: #FFFFFF;
+				--body-font-color: #1d1d1f;
+				--body-font-light: #666666;
 				--body-font-color-invert: #f3f3f3;
 				--color-link: #06c;
 				--color-visited-link: #1a0dab;
@@ -506,7 +530,6 @@ $theme-dark: (
 			#headerbox .title {
 				font-weight: 800;
 				margin-top: 2px;
-				margin-bottom: 0px;
 				height: 100%;
 			}
 
@@ -644,6 +667,14 @@ $theme-dark: (
 				color: var(--color-orange);
 			}
 
+			.mail {
+				color: #BA1D37;
+			}
+
+			.vnr {
+				color: #FF564F;
+			}
+
 			.pink {
 				color: var(--color-pink);
 			}
@@ -706,6 +737,7 @@ $theme-dark: (
 
 			.markdown .book-hint.panel {
 				border-color: var(--gray-200);
+				color: var(--body-font-light);
 				font-size: 16px;
 				line-height: 1.6;
 				font-weight: 400;
@@ -725,6 +757,16 @@ $theme-dark: (
 			.markdown .book-hint.orange {
 				border-color: var(--color-orange);
 				background-color: rgb(245,139,0,.1);
+			}
+
+			.markdown .book-hint.mail {
+				border-color: #BA1D37;
+				background-color: rgb(186, 29, 55,.1);
+			}
+
+			.markdown .book-hint.vnr {
+				border-color: #FF564F;
+				background-color: rgb(255, 86, 79,.1);
 			}
 
 			.markdown .book-hint.yellow {
@@ -755,7 +797,7 @@ $theme-dark: (
 				margin-top: -1.5rem;
 				margin-left: 0;
 				margin-right: 0;
-				color: var(--body-font-color);
+				color: var(--body-font-light);
 				background-color: var(--body-background);
 				border-inline-start: .0rem solid var(--body-background);
 				font-size: 12px;
