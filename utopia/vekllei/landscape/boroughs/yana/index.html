@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="The borough of Yana is an administrative region of Vekllei, a utopian country created by Hobart Phillips.">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Yana" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="Yana" />
 <meta property="og:description" content="The borough of Yana is an administrative region of Vekllei, a utopian country created by Hobart Phillips." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://millmint.net/utopia/vekllei/landscape/boroughs/yana/" /><meta property="article:section" content="utopia" />
@@ -14,24 +16,87 @@
 <title>Yana | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -39,10 +104,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -135,7 +220,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -182,7 +267,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle" checked />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -221,7 +306,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -304,7 +389,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -413,7 +498,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -423,7 +510,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -537,12 +623,12 @@ color: var(--color-green);
 <strong>he borough of Yana</strong> is an administrative region in central Vekllei, located in the far-western Lava region north of Tiyousn and east of Laisiyo. It is named after Yana, a city of some 45,000 people isolated along Vekllei&rsquo;s sparse, moonlike volcanic interior for which the Lava region is named. Yana makes up part of an agro-belt of depopulated boroughs that sit along the Sesmiousvianneh river, which washes rich igneous minerals north to towns downstream. The town of Yana is best known for its proximity to the spectacular molten lava fields common in the area.</p>
 <h2 id="etymology">
   Etymology
-  <a class="anchor" href="#etymology">#</a>
+  <a class="anchor" href="#etymology">¶</a>
 </h2>
 <p><strong>Yana</strong> was the name of Vekllei&rsquo;s first spirit ambassador in <a href="/utopia/vekllei/culture/religion/">Upen</a> mythology, who met human farmer Armond Volusksson at the base of <em>Mose</em>, a volcano associated with lava spirits. Although the meeting (as described in the <em>Molten Wind</em> sagas) took place in the present-day borough of Askayaisn, it remains a common Blood Name in the country and was chosen for Yana&rsquo;s settlement to protect it against seismic activity.</p>
 <h2 id="history">
   History
-  <a class="anchor" href="#history">#</a>
+  <a class="anchor" href="#history">¶</a>
 </h2>
 <blockquote>
 <p>Yana is very beautiful, yes. It&rsquo;s a very serious place, in the sense that you can feel the volatility of things around you. Out on the coasts, growing up is very different. The weather is better and the cities are bigger; there&rsquo;s more to do. In Yana, it was quite a serious place to grow up, you see. You are in better contact with the Earth &ndash; not in some abstract sense, but in a very real fear of what it might produce.</p>
@@ -552,47 +638,44 @@ color: var(--color-green);
 <p>In 1856, the Beri Railroad Bridge was constructed across Sesmiousvianneh river, which allowed for easy export to Vekllei&rsquo;s wealthy coastal communities. The structure operated for nearly a hundred years, until the wooden bridge was washed away in 1948 by heavy rains, taking Locomotive No. 6004 and its engineers with it.</p>
 <h3 id="2006-flood-disaster">
   2006 Flood Disaster
-  <a class="anchor" href="#2006-flood-disaster">#</a>
+  <a class="anchor" href="#2006-flood-disaster">¶</a>
 </h3>
 <p>In May 2006, heavy rains over the <em>Skusme</em> glacier caused the Sesmiousvianneh river to swell over its banks and flood the town of Beri, washing away several homes and a mill. Nearly 150 people died as their homes were swept away, making it the largest flooding disaster in recent Vekllei memory, and is remembered each year across all towns of the borough.</p>
 <h3 id="postwar-development">
   Postwar Development
-  <a class="anchor" href="#postwar-development">#</a>
+  <a class="anchor" href="#postwar-development">¶</a>
 </h3>
 <p>During the Floral Period, Yana was marked by the Vekllei Beautification Bureau as a successful example of &ldquo;traditional Lava [region] community living and culture,&rdquo; and suggested using it as a blueprint for further development of Lava&rsquo;s isolated and often agricultural villages. The town of Yana was further recognised as Vekllei&rsquo;s &ldquo;10th most beautiful city&rdquo; in the architecture/holiday magazine <em>Alive</em> in 2044.</p>
 <h2 id="geography">
   Geography
-  <a class="anchor" href="#geography">#</a>
+  <a class="anchor" href="#geography">¶</a>
 </h2>
 <p>The area around Yana is ringed by flower-tundras, though the settlements within it are characterised by low-lying grass plains and cold-weather mosses. Ancient lava flows form striking stone rivers across the interior of the borough, making it among Vekllei&rsquo;s most alien inhabited landscapes. Thermal pools are common, scattered across the landscape like mirrors, and plumes of volcanic steam can be seen from all of its towns.</p>
 <h3 id="devils-geysers">
   Devil&rsquo;s Geysers
-  <a class="anchor" href="#devils-geysers">#</a>
+  <a class="anchor" href="#devils-geysers">¶</a>
 </h3>
 <p>The Devil&rsquo;s Geysers are a series of four medium-to-small geysers about 20 kilometres outside of the Yana township. The largest of them, <em>Resmiousvizime</em>, erupts every 10 minutes with a spurt of nearly 8 meters. They are surrounded by natural hot springs, which are popular among the locals and celebrated each year in a local festival called <em>Vis Cusmion</em> or &ldquo;Arrival of Steam&rdquo;.</p>
 <h2 id="infrastructure">
   Infrastructure
-  <a class="anchor" href="#infrastructure">#</a>
+  <a class="anchor" href="#infrastructure">¶</a>
 </h2>
 <p>Yana is an agricultural borough typical of the western Lava Region, but its largest settlement, Yana, has seen its economy diversify in the postwar period to include scientific and industrial research on the applications of its many geothermal features. It has also attracted some attention as a quiet international tourist destination for foreigners eager to see geysers and mineral-pools first-hand.</p>
 <h3 id="yana-lakehouse">
   Yana Lakehouse
-  <a class="anchor" href="#yana-lakehouse">#</a>
+  <a class="anchor" href="#yana-lakehouse">¶</a>
 </h3>
 <p>The <em>Yana loh Ouismaindesdenya</em> (Yana Care Home) is a facility run by the <em>War Bureau of the Royal Commonwealth Armed Forces</em> to rehabilitate and care for veterans returning home from combat. It arranges for both long-term and short-term programmes designed to reintroduce soldiers to civilian life. Some 750 people live on-site for anywhere between six months to five years where they take classes, receive treatment and therapy, and go on excursions throughout the Yana region.</p>
 <h3 id="yana-thunderburo-geothermal-research-plant">
   Yana Thunderburo Geothermal Research Plant
-  <a class="anchor" href="#yana-thunderburo-geothermal-research-plant">#</a>
+  <a class="anchor" href="#yana-thunderburo-geothermal-research-plant">¶</a>
 </h3>
 <p>Outside of Sciff, a small agricultural settlement in Yana&rsquo;s West, lies the Thunderburo Geothermal Research Plant, a complex designed to pioneer emerging geothermal electricity production. Vekllei depends heavily on geothermal electricty for domestic consumption, and so considerable concern is given to advancing the efficiency of the Thunderburo&rsquo;s so-called &ldquo;Magma-Electric Commission&rdquo;. About 250 research staff work out here, most commuting from Sciff or stationed on-site in company apartments.</p>
 <br>
 <div class="book-columns flex flex-wrap">
-
+  
   <div class="flex-even markdown-inner">
-    <h2 id="towns">
-  Towns
-  <a class="anchor" href="#towns">#</a>
-</h2>
+    <h2 id="towns">Towns</h2>
 <ul>
 <li>Yana</li>
 <li>Sciff</li>
@@ -600,12 +683,9 @@ color: var(--color-green);
 </ul>
 
   </div>
-
+  
   <div class="flex-even markdown-inner">
-    <h2 id="posts">
-  Posts
-  <a class="anchor" href="#posts">#</a>
-</h2>
+    <h2 id="posts">Posts</h2>
 <ul>
 <li><a href="/posts/2020-04-05-lakehouse/">Ghosts of Taiwan in the Yana Lakehouse</a></li>
 <li><a href="/posts/2020-06-14-map/">The Race for Inefficiency</a></li>
@@ -613,12 +693,12 @@ color: var(--color-green);
 </ul>
 
   </div>
-
+  
 </div>
 
 <h2 id="notes">
   Notes
-  <a class="anchor" href="#notes">#</a>
+  <a class="anchor" href="#notes">¶</a>
 </h2>
 <ul>
 <li>Ayn Rumouisen was born in Yana.</li>
@@ -643,7 +723,118 @@ color: var(--color-green);
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/">Utopia</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/vekllei/">Vekllei</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/vekllei/landscape/">Landscape</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/vekllei/landscape/boroughs/">Boroughs</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/utopia/vekllei/landscape/boroughs/yana/">Yana</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -659,8 +850,7 @@ color: var(--color-green);
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   
 <nav id="TableOfContents">
   <ul>
@@ -692,13 +882,84 @@ color: var(--color-green);
 
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

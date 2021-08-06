@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="The language of Vekllei, a utopia created by Hobart Phillips.">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Language" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="Language" />
 <meta property="og:description" content="The language of Vekllei, a utopia created by Hobart Phillips." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://millmint.net/utopia/vekllei/culture/language/" /><meta property="article:section" content="utopia" />
@@ -14,24 +16,87 @@
 <title>Language | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -39,10 +104,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -135,7 +220,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle" checked />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -182,7 +267,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -221,7 +306,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -304,7 +389,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -413,7 +498,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -423,7 +510,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -539,7 +625,7 @@ color: var(--color-red);
 
 <h2 id="1-overview">
   1. Overview
-  <a class="anchor" href="#1-overview">#</a>
+  <a class="anchor" href="#1-overview">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>The language of Vekllei</strong> is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.
@@ -568,7 +654,7 @@ color: var(--color-red);
 
 <h3 id="introduction">
   Introduction
-  <a class="anchor" href="#introduction">#</a>
+  <a class="anchor" href="#introduction">¶</a>
 </h3>
 <p><img src="/images/language.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -582,7 +668,7 @@ color: var(--color-red);
 <p><strong>Let&rsquo;s take a look</strong> in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/utopia/vekllei/language/#2-spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/utopia/vekllei/language/#3-topet"><em>Topet</em></a> are understood universally. Other languages, often called <em>sub-languages</em>, are informed regionally and have varying literacy across the Home Island. For example, <a href="/utopia/vekllei/language/#6-upotenne"><em>Upotenne</em></a> is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&rsquo;s most complex and hermetic language systems.</p>
 <h3 id="history">
   History
-  <a class="anchor" href="#history">#</a>
+  <a class="anchor" href="#history">¶</a>
 </h3>
 <p>Vekllei&rsquo;s language genealogy can be traced back thousands of years, and is approximated in this timeline for reference throughout this article.</p>
 <blockquote>
@@ -596,7 +682,7 @@ color: var(--color-red);
 </blockquote>
 <h2 id="2-spoken-vekllei">
   2. Spoken Vekllei
-  <a class="anchor" href="#2-spoken-vekllei">#</a>
+  <a class="anchor" href="#2-spoken-vekllei">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>Spoken Vekllei</strong>, simply referred to as Vekllei domestically, is the common spoken language of Vekllei and official language of the country, spoken by some 25 million people worldwide, with 98% of speakers living natively in the Vekllei Home Islands. It is the first spoken language of the vast majority of the population, and has minor variance across the disparate Vekllei Home Islands and other Vekllei possessions. It is rarely spoken outside of Vekllei territories, extant abroad only through emigrant populations and small diasporic communities dispersed after the Atomic War.
@@ -605,32 +691,32 @@ color: var(--color-red);
 <p>Contemporary spoken Vekllei is largely descended from <em>Proto-Islandi</em> speech that arrived with the first Danish settlers in the country, but includes <em>Kalaallisut</em> and Proto-Algic reconstructions of an early extinct language called <em>Kala</em>. Modern spoken Vekllei has heritage in the combined, largely extinct language hybrid of Algic-Aleutian <em>Quutetast</em> and the Indo-European <em>Islandi,</em> which by the 9th century had fused into common speech usually called <em>Topyas</em>, or &lsquo;Old Speech&rsquo;/&lsquo;Old Vekllei&rsquo;. Modern Vekllei has evolved distinctively since the Atomic War as part of broader sociological trends towards informalised speech and cultivated <em>Loh</em> vocabularies.</p>
 <h3 id="twin-glossaries">
   Twin Glossaries
-  <a class="anchor" href="#twin-glossaries">#</a>
+  <a class="anchor" href="#twin-glossaries">¶</a>
 </h3>
 <p>Spoken Vekllei draws from two glossaries, called <em>Oa</em> and <em>Loh</em>. These glossaries date back to twin reconstructed Algic-Aleutian languages called <em>Quutetast</em> and <em>Islandi</em> that had been present in earlier forms since at least 1200BC. The glossaries were formalised in pagan ritual that would become present-day <a href="/utopia/vekllei/religion"><em>Upen</em></a>, and later recognised as the official language of the country in the reformation initiated by Queen Souisviasn in the 3rd century.</p>
 <ul>
 <li>
 <h5 id="oa-lit-sun">
   Oa (<em>lit.</em> Sun)
-  <a class="anchor" href="#oa-lit-sun">#</a>
+  <a class="anchor" href="#oa-lit-sun">¶</a>
 </h5>
 <em>Oa</em> is considered to have &lsquo;permanent&rsquo; traits. It is often characterised abroad as a positive glossary, though this is not true &ndash; it is in fact dedicated to inanimate and unliving organs. Although Vekllei does not gender nouns, this glossary is often gendered conceptually as masculine, and is most commonly associated with Summer and Spring. Despite its long history, Vekllei as an island is itself understood to be female &ndash; mostly because its volcanic landscape, which straddles two drifting continental plates, is constantly changing.</li>
 <li>
 <h5 id="loh-lit-moon">
   Loh (<em>lit.</em> Moon)
-  <a class="anchor" href="#loh-lit-moon">#</a>
+  <a class="anchor" href="#loh-lit-moon">¶</a>
 </h5>
 <em>Loh</em> is considered to have &lsquo;cyclical&rsquo; traits. Loh words are largely derived from Old Vekllei (including <em>Icelandic/Islandi</em>), and so its glossary is considerably less defined and dependent on older linguistic artefacts. <em>Loh</em> words incorporate sounds and grammatical artefacts from extinct languages within Vekllei&rsquo;s ancient history, and so it is often associated with traditional or formal speech. It is commonly gendered as feminine, and is associated with winter and autumn.</li>
 </ul>
 <p>In modernity, this binary produces bizarre psycholinguistic quirks. For example, a sailing vessel (<em>Siv</em>) is derived from the <em>Oa</em>, historically because the <em>Oa</em> glossary was favoured for machines between the 10th and 16th Centuries. This genders all modern oceangoing vessels as male figures to this day, and due to <em>Siv</em>&rsquo;s linguistic derivatives, ties ships permanently to the lumber and woodlands critical to wooden shipbuilding. From the 20th century onwards, however, most vehicles are regarded impermanent through <em>Loh</em>, and so all cars in Vekllei are conceptually female.</p>
 <h3 id="phonology">
   Phonology
-  <a class="anchor" href="#phonology">#</a>
+  <a class="anchor" href="#phonology">¶</a>
 </h3>
 <p>Spoken Vekllei is phonologically homogenous, and has little variation in accent or pronunciation across the Home Island or its various possessions, although there is some evidence for differences in dialect between cultivated speech on the coast and rural phonology in the interior of the Home Islands.</p>
 <h4 id="monophthongs">
   Monophthongs
-  <a class="anchor" href="#monophthongs">#</a>
+  <a class="anchor" href="#monophthongs">¶</a>
 </h4>
 <p>Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses vary across cultivated and common Vekllei dialects.</p>
 <details open>
@@ -718,7 +804,7 @@ color: var(--color-red);
 
 <h4 id="diphthongs">
   Diphthongs
-  <a class="anchor" href="#diphthongs">#</a>
+  <a class="anchor" href="#diphthongs">¶</a>
 </h4>
 <p>From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. <em>Oa</em> typically favours modernised post-<em>Quutetast</em> glides for its so-called <em>Ocean Vowels</em>, which are generally long and unrounded. <em>Loh</em> words are typically older and depicted pictographically, and are pronounced as <em>Floral Vowels</em>. The tables below list their pronunciation.</p>
 <details open>
@@ -855,7 +941,7 @@ color: var(--color-red);
 
 <h4 id="consonants">
   Consonants
-  <a class="anchor" href="#consonants">#</a>
+  <a class="anchor" href="#consonants">¶</a>
 </h4>
 <p>In Vekllei, consonants are arranged in five places of primary articulation.</p>
 <details open>
@@ -913,7 +999,7 @@ color: var(--color-red);
 
 <h2 id="3-topet">
   3. Topet
-  <a class="anchor" href="#3-topet">#</a>
+  <a class="anchor" href="#3-topet">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>Topet</strong>, sometimes called <em>Vekllei Script</em> or <em>Vekllei hieroglyphs</em> is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components, and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in <em>Islandi</em>-era Vekllei since at least the 8th Century BC, by the time <em>Quutetast</em> influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into proto-<em>Topet</em>, called <em>Hieyeric</em>. In Vekllei, <em>Topet</em> is the national language alongside its sister-form, <em><a href="/utopia/vekllei/language/#4-rapotenne">Rapotenne</a></em> and <a href="/utopia/vekllei/language/#2-spoken-vekllei"><em>Spoken Vekllei</em></a>. Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.
@@ -922,19 +1008,19 @@ color: var(--color-red);
 <p>Individual <em>Topet</em> characters are both phonograms and semagrams, and so they support multiple readings. Many are basically figurative, and represent conceptually what they depict. Each character conforms to an abugida-type system, in which consonant-vowel pairings are written in joined notation. In <em>Topet</em>, the consonant anchors the pairing, which is called <em>Lohtopet</em>, and vowel notation is usually raised in superscript, called <em>Oatopet</em>. These names are not related to the binary glossary, but do represent the upper/lower system those glossaries imply. &ldquo;Oa&rdquo; means <em>affirmative</em> in Vekllei, and <em>Loh</em> is a negating form, so their use is widespread beyond the binary glossary system.</p>
 <h3 id="phonetic-reading">
   Phonetic Reading
-  <a class="anchor" href="#phonetic-reading">#</a>
+  <a class="anchor" href="#phonetic-reading">¶</a>
 </h3>
 <p>Anchoring consonant-vowel characters (<em>demioette</em>, as opposed to double-vowels or vowel-consonants, called <em>hieyerette</em> <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>) written in Topet may feature redundant adjacent characters called <em>phonetic complements</em>, which, in a non-determinative reading, are pronounced the same way to guide the reader. This lends to a system that encourages adjacent duplicate consonant-vowel pairings in some aspects, since Vekllei words are already formed out of neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, <em>comoyia</em>, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.</p>
 <p>In the above case, <em>comoyia</em> can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &lsquo;spelling&rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also <em>comoyia</em>, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of <a href="/utopia/vekllei/language/#5-potenne"><em>Potenne</em></a>, and represents one of its primary uses.</p>
 <h3 id="semantic-reading">
   Semantic Reading
-  <a class="anchor" href="#semantic-reading">#</a>
+  <a class="anchor" href="#semantic-reading">¶</a>
 </h3>
 <p>Many <em>Topet</em> characters are figurative; they represent their meanings pictographically, like Egyptian <em>Hieroglyphs</em> or Chinese <em>Hanzi</em>. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a <em>transcendental</em>, rather than <em>literal</em> system. Although <em>Topet</em>&rsquo;s early form, <em>Hieyeric</em>, was explicitly pictographic, modern <em>Topet</em> is often abstracted and decoupled from its figurative meaning via the phonetic system.</p>
 <p>Despite common use of the phonetic system in modernity, the semantic readings of characters are taught and essential for literacy beyond literal imitation of speech. For the vast majority of <em>Topet</em> characters, their logographic meaning determines their pronunciation, and consonant characters especially depend on this meaning to form words. The word for breakfast is <em>petimourgeneur</em>, but it cannot be written with random literal phonetic characters; parts of the word depend on the figurative meaning of certain components, and so without its semantic traits the word would be illegible to most people. This represents a wider co-dependency on simultaneous phonetic and semantic readings of words, with the importance of each fluctuating depending on the word in question. Older words tend to be heavily figurative, whereas modern and loan words are often more phonetic. This inconsistency is part of the difficulty in learning <em>Topet</em>, and leaves many immigrants fluent in speech but inadequately literate in reading and writing.</p>
 <h3 id="structure">
   Structure
-  <a class="anchor" href="#structure">#</a>
+  <a class="anchor" href="#structure">¶</a>
 </h3>
 <p><img src="/images/topet.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -950,7 +1036,7 @@ color: var(--color-red);
 <p><em>Minor Demons</em> are the foundations of <em>Topet</em> script, since they can be written phonetically or as pictographs. This also contributes to <em>Topet</em>&rsquo;s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.</p>
 <h2 id="4-rapotenne">
   4. Rapotenne
-  <a class="anchor" href="#4-rapotenne">#</a>
+  <a class="anchor" href="#4-rapotenne">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>Rapotenne</strong> (<em>lit. &ldquo;Name-Talk&rdquo;</em>) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Today, it is most often employed as an extant language of magical staves, but is closely aligned phonologically and ethnographically with <em>Upotenne</em>, the physical language of rune-forms and sigils.
@@ -960,12 +1046,12 @@ color: var(--color-red);
 <p><em>Rapotenne</em> has its origins in superstitious <em>Islandi</em> magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. <em>Rapotenne</em> today mostly employs older <a href="/utopia/vekllei/language/#diphthongs">Floral Vowels</a>, which themselves are likely evolutions of proto-<em>Quutetast</em> pronunciation associated with <em>Kala</em>. Rapotenne characters, also called <em>Rapotenne</em>, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out <a href="/utopia/vekllei/language/#6-upotenne"><em>Upotenne</em></a> signs, which is functionally adjacent to <em>Rapotenne</em>.</p>
 <h3 id="practice">
   Practice
-  <a class="anchor" href="#practice">#</a>
+  <a class="anchor" href="#practice">¶</a>
 </h3>
 <p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/utopia/vekllei/language/#6-upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
 <h2 id="5-potenne">
   5. Potenne
-  <a class="anchor" href="#5-potenne">#</a>
+  <a class="anchor" href="#5-potenne">¶</a>
 </h2>
 <blockquote class="book-hint red">
   ❖ <strong>Try Potenne yourself!</strong> Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You&rsquo;ve just said &ldquo;good to see you again.&rdquo;
@@ -980,32 +1066,32 @@ color: var(--color-red);
 <p><em>Potenne</em> is used today as a casual substitute for simple speech and to communicate figurative meanings of words in <em>Topet</em> otherwise uncommunicable in conventional speech.</p>
 <h3 id="phonology-1">
   Phonology
-  <a class="anchor" href="#phonology-1">#</a>
+  <a class="anchor" href="#phonology-1">¶</a>
 </h3>
 <p>It is important to remember that <em>Potenne</em> is not simply a reproduction of ordinary speech in physical form; it is a language that assists the spoken word. Many Vekllei words can be simplified by incorporating <em>Potenne</em>, which better mimics nonverbal components of <em>Topet</em> and helps provide emotion and context to otherwise ambiguous phrases. In other cases, it replaces speech entirely, often in quiet areas or out of respect in public transit. In this sense, <em>Potenne</em> retains a handful of the characteristics inherited from its origins as an avoidance language, but remains distinct from both spoken Vekllei and <em>Topet</em> in its capacity to link and colour both.</p>
 <h4 id="location">
   Location
-  <a class="anchor" href="#location">#</a>
+  <a class="anchor" href="#location">¶</a>
 </h4>
 <p>Most <em>Potenne</em> is acted out just below the chest, in a casual resting position. Positional and place-based signs are performed at the right shoulder, and emotion is often acted out at or just below the chin. Regional traits and dialects are common, and <em>Potenne</em> is perhaps Vekllei&rsquo;s most provincial and least documented language.</p>
 <h4 id="movement">
   Movement
-  <a class="anchor" href="#movement">#</a>
+  <a class="anchor" href="#movement">¶</a>
 </h4>
 <p>Upen signs are generally simple, and practiced quickly and casually. The direction of the fore and ring fingers generally indicate subject, and the position of the thumb indicates tone — an outstretched thumb is casual whereas a thumb tucked inwards appears formal. Common words use simple, single-handed signs, but complete sentences and more complex words almost always require the use of both hands.</p>
 <h4 id="orientation">
   Orientation
-  <a class="anchor" href="#orientation">#</a>
+  <a class="anchor" href="#orientation">¶</a>
 </h4>
 <p>Communication in the your own voice is performed with the hand held horizontally with few exceptions. Quoting speech and reading is most often spoken with the hand held vertically, although this varies between dialects. Various orientations incorporate meaning, including casual affirmation and some emotions.</p>
 <h4 id="handshape">
   Handshape
-  <a class="anchor" href="#handshape">#</a>
+  <a class="anchor" href="#handshape">¶</a>
 </h4>
 <p>Most signs are communicated with an open palm, although fists, hooked fingers, clenched fingers and relaxation of fingers are also used in various ways. Most common <em>Potenne</em> words are characterised by their informal, almost lazy composition, and so handshape is particularly gestural, often dependent on vocalised context to be legible. It can be difficult to determine within <em>Potenne</em> a clear distinction between non-linguistic gestural communication and its formalised language system, and so the emotiveness and context of its signs are critical to literacy in Vekllei.</p>
 <h2 id="6-upotenne">
   6. Upotenne
-  <a class="anchor" href="#6-upotenne">#</a>
+  <a class="anchor" href="#6-upotenne">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>Upotenne</strong> (<em>lit. &ldquo;Spirit-Hand-Talk&rdquo;</em>) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to <em>Potenne</em>, <em>Upotenne</em> is more closely historically aligned with <em>Rapotenne</em> than modern Vekllei.
@@ -1016,7 +1102,7 @@ color: var(--color-red);
 <p>This multidimensionality means that <em>Upotenne</em> is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite <em>Upotenne</em>&rsquo;s capacity as a language, it is largely displaced by its use as a spiritual adjacent to <em>Potenne</em> in modern society, leaving only <em>Upen</em> priests and disciples fluent in one of Vekllei&rsquo;s oldest cultural traditions.</p>
 <h2 id="7-vekllei-semaphore">
   7. Vekllei Semaphore
-  <a class="anchor" href="#7-vekllei-semaphore">#</a>
+  <a class="anchor" href="#7-vekllei-semaphore">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>Vekllei lo da Myaiouisvah</strong> (<em>lit. &ldquo;Vekllei-Flag-System&rdquo;</em>) is the sixth and most unusual of the Vekllei sublanguages. It relies heavily on colour and form, and is largely abstracted from its subject matter. In this sense, <em>Vekllei Semaphore</em> can be considered to be <em>asemic</em>, since it has no material semantic meaning and is entirely illegible without instruction.
@@ -1028,27 +1114,27 @@ color: var(--color-red);
 <p><em>Vekllei Semaphore</em> is most useful in public, shared space as a form of mass-communication. Its relative universality within the country means that many public-facing organisations and concerns employ it as a sort of &lsquo;shared symbolism;&rsquo; an unspoken democratic language used in shared spaces and common forums.</p>
 <h3 id="symbolism">
   Symbolism
-  <a class="anchor" href="#symbolism">#</a>
+  <a class="anchor" href="#symbolism">¶</a>
 </h3>
 <p>There are several components within <em>Vekllei Semaphore</em> which employs types of symbolism depending on their purpose and context.</p>
 <h4 id="colourcoda">
   Colourcoda
-  <a class="anchor" href="#colourcoda">#</a>
+  <a class="anchor" href="#colourcoda">¶</a>
 </h4>
 <p><em>Colourcoda</em> is the means by which <em>Vekllei Semaphore</em> reassembles colour values in social forms through patterns, colour placement and contrast. Visitors will likely have encountered <em>Colourcoda</em> without even realising it; the transliteration of green and gold on <a href="/images/uniform.jpg">the uniforms of Puffin Scouts</a> is &ldquo;peacefulness besides the land;&rdquo; the red and white of <a href="/images/trials.jpg">the Vekllei school uniform</a> means &ldquo;youth of Vekllei,&rdquo; and <a href="/images/feast.jpg">the blue and white of a Venopor police car</a> means &ldquo;royal defence&rdquo;. Patterns quickly complexify this meaning, allowing for more sophisticated sentence construction, though few Vekllei people are fluent.</p>
 <h4 id="formsigns">
   Formsigns
-  <a class="anchor" href="#formsigns">#</a>
+  <a class="anchor" href="#formsigns">¶</a>
 </h4>
 <p><em>Formsigns</em> are the means by which <em>Vekllei Semaphore</em> encodes meaning in shape. Vekllei (as a landscape) is depicted by a circle within the <em>Loh</em> glossary, and an arched point in the <em>Oa</em> glossary. These forms are adjacent to pictographics, but <em>formsigns</em> can also be totally abstracted. The borders on stationary and envelopes, for example, contain specific meaning when joined with specific colours. This concept saturates Vekllei society &ndash; title cards in television, armbands, pinstripes, aircraft livery and basic shapes can all produce phonetic recognition in Vekllei people depending on their context and use.</p>
 <h4 id="semaphore">
   Semaphore
-  <a class="anchor" href="#semaphore">#</a>
+  <a class="anchor" href="#semaphore">¶</a>
 </h4>
 <p>Flags are used heavily in Vekllei semaphore, but are distinct from traditional semaphore systems through their use and appearance. Semaphore within <em>da Myaiouisvah</em> share more in common with <em>Upotenne</em> than they do alphabetic semaphore, and are largely figurative of extant runes. Flags are also very common objects that incorporate <em>formsigns</em> and <em>colourcoda,</em> and used frequently within Vekllei as means of communication. Festivals, companies and bureaus all use their own flags as means of identifying and communicating in public space.</p>
 <h2 id="notes">
   Notes
-  <a class="anchor" href="#notes">#</a>
+  <a class="anchor" href="#notes">¶</a>
 </h2>
 <section class="footnotes" role="doc-endnotes">
 <hr>
@@ -1087,7 +1173,111 @@ color: var(--color-red);
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/">Utopia</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/vekllei/">Vekllei</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/vekllei/culture/">Culture</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/utopia/vekllei/culture/language/">Language</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -1103,8 +1293,7 @@ color: var(--color-red);
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   
 <nav id="TableOfContents">
   <ul>
@@ -1153,13 +1342,84 @@ color: var(--color-red);
 
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

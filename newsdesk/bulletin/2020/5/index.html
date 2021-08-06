@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content=".markdown a { color: var(--color-yellow); }  The Atlantic Bulletin 🌼  BULLETIN  Documents Back to Issues  From the Editor #  Welcome to the fifth issue of The Atlantic. I hope you like stories — because this month was all about little snippets of life in Vekllei.
+<meta name="description" content=".markdown a { color: var(--color-yellow); }  The Atlantic Bulletin 🌼  BULLETIN  Documents Back to Issues  From the Editor ¶  Welcome to the fifth issue of The Atlantic. I hope you like stories — because this month was all about little snippets of life in Vekllei.
 There is a correlation between how nice a picture looks and how short the accompanying story is. Recently, as I’ve finished paintings later and later into the early morning, the posts that follow show signs of my fatigue.">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Issue 5 | September 2020" />
-<meta property="og:description" content=".markdown a { color: var(--color-yellow); }  The Atlantic Bulletin 🌼  BULLETIN  Documents Back to Issues  From the Editor #  Welcome to the fifth issue of The Atlantic. I hope you like stories — because this month was all about little snippets of life in Vekllei.
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="Issue 5 | September 2020" />
+<meta property="og:description" content=".markdown a { color: var(--color-yellow); }  The Atlantic Bulletin 🌼  BULLETIN  Documents Back to Issues  From the Editor ¶  Welcome to the fifth issue of The Atlantic. I hope you like stories — because this month was all about little snippets of life in Vekllei.
 There is a correlation between how nice a picture looks and how short the accompanying story is. Recently, as I’ve finished paintings later and later into the early morning, the posts that follow show signs of my fatigue." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://millmint.net/newsdesk/bulletin/2020/5/" /><meta property="article:section" content="newsdesk" />
@@ -16,24 +18,87 @@ There is a correlation between how nice a picture looks and how short the accomp
 <title>Issue 5 | September 2020 | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -41,10 +106,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -137,7 +222,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -184,7 +269,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -223,7 +308,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -306,7 +391,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -415,7 +500,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -425,7 +512,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -512,7 +598,7 @@ color: var(--color-yellow);
 
 <h2 id="from-the-editor">
   <strong>From the Editor</strong>
-  <a class="anchor" href="#from-the-editor">#</a>
+  <a class="anchor" href="#from-the-editor">¶</a>
 </h2>
 <p>Welcome to the fifth issue of The <em>Atlantic</em>. I hope you like stories — because this month was all about little snippets of life in Vekllei.</p>
 <p>There is a correlation between how nice a picture looks and how short the accompanying story is. Recently, as I’ve finished paintings later and later into the early morning, the posts that follow show signs of my fatigue. It’s to my detriment — and with a bit of planning, easily avoided. In October I’ll be looking at making some long-form posts in a painterly style to experiment with the format.</p>
@@ -523,7 +609,7 @@ color: var(--color-yellow);
 <hr>
 <h2 id="i-news--announcements">
   I. News &amp; Announcements
-  <a class="anchor" href="#i-news--announcements">#</a>
+  <a class="anchor" href="#i-news--announcements">¶</a>
 </h2>
 <ol>
 <li>Huge advancements on the website, which will likely launch sometime this month. Watch this space! If you’ve missed previous bulletins, they’ll be available in full on the site along with a comprehensive wiki and post archive.</li>
@@ -535,29 +621,29 @@ color: var(--color-yellow);
 <hr>
 <h2 id="ii-tzipora-watch">
   II. Tzipora-watch
-  <a class="anchor" href="#ii-tzipora-watch">#</a>
+  <a class="anchor" href="#ii-tzipora-watch">¶</a>
 </h2>
 <p>In September of 2073, Tzipora began work at the Lola District Library at the age of 26, a move that would develop within her a love of librarianship that would see her enrol in Montre-Lola University to study literature two years later. Her time at Lola was spent managing loans and navigating visitors through the vast archives beneath by way of a light monorail.</p>
 <hr>
 <h2 id="iii-vekllei-fact-of-the-month">
   III. Vekllei Fact of the Month
-  <a class="anchor" href="#iii-vekllei-fact-of-the-month">#</a>
+  <a class="anchor" href="#iii-vekllei-fact-of-the-month">¶</a>
 </h2>
 <p>Upen designates a hierarchy in the human body as part of ritualistic processions. The heart, depicted as a crown, is considered the most sacred. The brain and hands are next, and the rest of the body is catalogued and ordered ending with the feet. Feet are considered unclean in Vekllei and is part of the reason why shoes are not worn indoors. This hierarchy, called <em>Lohsmi</em>, is a minor cultural force but is important in the physical formation of runes, or <em>Upotenne</em> (spirit-hand-talk).</p>
 <hr>
 <h2 id="iv-wordbook">
   IV. WordBook
-  <a class="anchor" href="#iv-wordbook">#</a>
+  <a class="anchor" href="#iv-wordbook">¶</a>
 </h2>
 <p><strong>Spiousn</strong> — difficult to translate, <em>spiousn</em> describes the feeling of regaining energy after a long period of exhaustion. It can be applied to a sick person becoming well, or more contemporaneously to a student after the exam period. This word forms a component of the slang spiousnya, which refers to the break from school at the end of the year. In this sense, its meaning translates to “school break” but carries with it a sentiment of peace and recovery.</p>
 <hr>
 <h2 id="v-the-bulletin">
   V. The Bulletin
-  <a class="anchor" href="#v-the-bulletin">#</a>
+  <a class="anchor" href="#v-the-bulletin">¶</a>
 </h2>
 <h3 id="baron-the-father">
   Baron, the Father
-  <a class="anchor" href="#baron-the-father">#</a>
+  <a class="anchor" href="#baron-the-father">¶</a>
 </h3>
 <p><strong>📖 Published 30th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/j23lyw/baron_the_father/">Read here</a>.</p>
@@ -577,7 +663,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 <hr>
 <h3 id="little-bouncy-zelda--an-animation-diary">
   Little Bouncy Zelda — an animation diary
-  <a class="anchor" href="#little-bouncy-zelda--an-animation-diary">#</a>
+  <a class="anchor" href="#little-bouncy-zelda--an-animation-diary">¶</a>
 </h3>
 <p><strong>📖 Published 27th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/j0qo4d/little_bouncy_zelda_an_animation_diary/">Read here</a>.</p>
@@ -591,7 +677,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 <hr>
 <h3 id="memory-and-death-in-the-flower-tundra">
   Memory and Death in the Flower Tundra
-  <a class="anchor" href="#memory-and-death-in-the-flower-tundra">#</a>
+  <a class="anchor" href="#memory-and-death-in-the-flower-tundra">¶</a>
 </h3>
 <p><strong>📖 Published 19th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/ivfcj4/memory_and_death_in_the_flower_tundra/">Read here</a>.</p>
@@ -603,7 +689,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 <hr>
 <h3 id="some-kind-of-gay-sketch-for-my-cool-subreddit-cobian-and-zelda-head-over-heels">
   Some kind of gay sketch for my cool subreddit. Cobian and Zelda &ldquo;head-over-heels”
-  <a class="anchor" href="#some-kind-of-gay-sketch-for-my-cool-subreddit-cobian-and-zelda-head-over-heels">#</a>
+  <a class="anchor" href="#some-kind-of-gay-sketch-for-my-cool-subreddit-cobian-and-zelda-head-over-heels">¶</a>
 </h3>
 <p><strong>📖 Published 17th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/iu0c58/some_kind_of_gay_sketch_for_my_cool_subreddit/">Read here</a>.</p>
@@ -612,7 +698,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 <hr>
 <h3 id="matchstick-girl">
   Matchstick Girl
-  <a class="anchor" href="#matchstick-girl">#</a>
+  <a class="anchor" href="#matchstick-girl">¶</a>
 </h3>
 <p><strong>📖 Published 14th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/is6pr2/matchstick_girl/">Read here</a>.</p>
@@ -626,7 +712,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 <hr>
 <h3 id="road-trip">
   Road Trip
-  <a class="anchor" href="#road-trip">#</a>
+  <a class="anchor" href="#road-trip">¶</a>
 </h3>
 <p><strong>📖 Published 11th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/iqaarv/road_trip/">Read here</a>.</p>
@@ -637,7 +723,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 <hr>
 <h3 id="clean-faces-full-hearts-uniforms-in-vekllei-892020">
   Clean Faces; Full Hearts: Uniforms in Vekllei [8.9.2020]
-  <a class="anchor" href="#clean-faces-full-hearts-uniforms-in-vekllei-892020">#</a>
+  <a class="anchor" href="#clean-faces-full-hearts-uniforms-in-vekllei-892020">¶</a>
 </h3>
 <p><strong>📖 Published 8th September 2020 |</strong>
 <a href="https://www.reddit.com/r/vekllei/comments/iocwxt/clean_faces_full_hearts_uniforms_in_vekllei/">Read here</a>.</p>
@@ -655,22 +741,22 @@ As an addendum, although many readers find common ancestry with Japan in this pr
 <hr>
 <h2 id="vi-gallery">
   VI. Gallery
-  <a class="anchor" href="#vi-gallery">#</a>
+  <a class="anchor" href="#vi-gallery">¶</a>
 </h2>
 <p>This month’s sketches, presented without context or or standards of quality. The postcards will be included in the August edition. Contact Hobart at <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a> for full-res versions of any images received in this bulletin.</p>
 <h3 id="parent-moment-992020">
   Parent Moment [9.9.2020]
-  <a class="anchor" href="#parent-moment-992020">#</a>
+  <a class="anchor" href="#parent-moment-992020">¶</a>
 </h3>
 <p><img src="/images/sketches/parent.jpg" alt="smallimg" /></p>
 <hr>
 <h4 id="posts-this-month-7">
   POSTS THIS MONTH: 7
-  <a class="anchor" href="#posts-this-month-7">#</a>
+  <a class="anchor" href="#posts-this-month-7">¶</a>
 </h4>
 <h4 id="posts-last-month-6">
   POSTS LAST MONTH: 6
-  <a class="anchor" href="#posts-last-month-6">#</a>
+  <a class="anchor" href="#posts-last-month-6">¶</a>
 </h4>
 <p><em>Published by MillMint Press. Copyright 2020. To stop receiving these emails send UNSUBSCRIBE to <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a>.</em></p>
 
@@ -703,7 +789,111 @@ As an addendum, although many readers find common ancestry with Japan in this pr
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/newsdesk/">Newsdesk</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/newsdesk/bulletin/">The Atlantic Bulletin</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/newsdesk/bulletin/2020/">2020 Issues</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/newsdesk/bulletin/2020/5/">Issue 5 | September 2020</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -719,8 +909,7 @@ As an addendum, although many readers find common ancestry with Japan in this pr
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   
 <nav id="TableOfContents">
   <ul>
@@ -754,13 +943,84 @@ As an addendum, although many readers find common ancestry with Japan in this pr
 
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

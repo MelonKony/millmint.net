@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Vekllei is a utopia created by Hobart Phillips.">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Vekllei" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="Vekllei" />
 <meta property="og:description" content="Vekllei is a utopia created by Hobart Phillips." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/utopia/vekllei/" />
@@ -12,25 +14,88 @@
 <title>Vekllei | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/utopia/vekllei/index.xml" title="MillMint" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -38,10 +103,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -134,7 +219,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -181,7 +266,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -220,7 +305,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -303,7 +388,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -412,7 +497,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -422,7 +509,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -550,7 +636,7 @@ color: var(--color-pink);
 
 <h2 id="overview">
   Overview
-  <a class="anchor" href="#overview">#</a>
+  <a class="anchor" href="#overview">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>Vekllei</strong> is the utopian place of Hobart&rsquo;s ongoing Petticoat Project. Set ostensibly in Iceland, the history and geography of this country is radically different from our own, and welcomes an open exploration of new systems of living through a flexible alternate history.
@@ -571,7 +657,7 @@ color: var(--color-pink);
 <p>Since independence, Vekllei has maintained a strong position of armed neutrality, and is home to many international organisations, including the new United Nations Office, the International Federation of Journalists and the Universal Post Union. Immigrants account for 30% of the population, and multiracialism is enshrined in the constitution, and continues to shape national policies in education, housing, and politics. Vekllei has large foreign-born populations from Eastern and Southern Europe, North Africa, the British Isles, Hong Kong, and Latin America.</p>
 <h3 id="introduction">
   Introduction
-  <a class="anchor" href="#introduction">#</a>
+  <a class="anchor" href="#introduction">¶</a>
 </h3>
 <p><img src="/images/map.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -583,7 +669,7 @@ color: var(--color-pink);
 <p>Such a country deserves observation, then. This document and its subarticles are dedicated to the country of Vekllei and the facts of its utopian dimensions, and hope to illustrate a definitive and contemporary understanding of Vekllei&rsquo;s <em>Epoch of Rest</em> (what they call their &lsquo;floral period&rsquo;). This is an illustration of how the beating systems in Vekllei look, the abstract data laid bare. Vekllei has an absurd multidimensionality about it, since it is a country in which all things are singularly perfect in their purity and good-heartedness while applying this qualifier to multiple ideas at the same time. In some ways, Vekllei thrives <em>because of</em> rather than <em>in spite of</em> these contradictions. This document is a good place to start.</p>
 <h2 id="etymology">
   Etymology
-  <a class="anchor" href="#etymology">#</a>
+  <a class="anchor" href="#etymology">¶</a>
 </h2>
 <p>The word <em>Vekllei</em> comes from the Islandi-Quutetast fusion dialect called <em>Topyas</em> (&lsquo;Old Vekllei&rsquo; in English), which was in common use by the 1st Century AD. It comes from the <em>Topyas</em> words for &ldquo;volcanic town,&rdquo; or <em>Vek</em>, and &ldquo;sea under the stars,&rdquo; or <em>Lei</em>, meaning &ldquo;town of the stars by the sea&rdquo;. According to sagas, the name was gifted to the country by a volcanic spirit-god called <em>Tipet</em> (most likely present-day <em>Kesmi</em>) in the 3rd Century, but was likely a feature of Queen Souisviasn&rsquo;s language reforms during that time.</p>
 <p>The word &ldquo;Vekllei&rdquo; refers to both the country and the island, and is also pluralised.</p>
@@ -591,7 +677,7 @@ color: var(--color-pink);
 <p>The name <em>Vekllei</em> ostensibly applies foremost to the physical landscape of the country, of which the present city-state inherits its name. In addition, the people of Vekllei, language, and all subsequent pluralisations are also <em>Vekllei</em>.</p>
 <h2 id="geography">
   Geography
-  <a class="anchor" href="#geography">#</a>
+  <a class="anchor" href="#geography">¶</a>
 </h2>
 <p><img src="/images/peaks.jpg" alt="smallimg" /></p>
 <blockquote class="book-hint panel">
@@ -604,7 +690,7 @@ color: var(--color-pink);
 <p>Vekllei is the world&rsquo;s 18th largest island, and has significant biological and climate diversity for a landmass of its size. Southern Vekllei is wet, seasonal and temperate, populated mostly by temperate rainforests and spruce forests. Vekllei&rsquo;s glacial interior is dominated by flower-tundras, called <em>Ro</em>, and barren vegetation consisting mostly of grasslands, plains, and isolated woodland. Lava fields, mountains and massive freshwater glaciers are also common throughout the middle and east of the country. Vekllei&rsquo;s north is dry and subarctic, and receives heavy snowfall and ice in winter months. The entire Home Islands are marked by dramatic volcanic landscapes of steep igneous rock, valleys and glacial monuments. Vekllei has some of the tallest waterfalls in the world. The country has the highest number of flowers per capita in the world.</p>
 <h2 id="politics">
   Politics
-  <a class="anchor" href="#politics">#</a>
+  <a class="anchor" href="#politics">¶</a>
 </h2>
 <p><img src="/images/railmap.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -626,7 +712,7 @@ color: var(--color-pink);
 <p>Since Vekllei is nonpartisan, it does not allow formal participation of parties within elections. Despite this, informal associations of elected representatives exist, in the form of <em>sociopartit</em>, or <em>Party Associations</em>. The largest of these include the Vekllei Industrial Working Concern, the Atlantic Party, and the Crown Brotherhood, and although membership is permitted among elected members they are otherwise disallowed within the electoral process.</p>
 <h3 id="administrative-divisions">
   Administrative divisions
-  <a class="anchor" href="#administrative-divisions">#</a>
+  <a class="anchor" href="#administrative-divisions">¶</a>
 </h3>
 <p><img src="/images/territories.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -648,7 +734,7 @@ color: var(--color-pink);
 <p>In total, Vekllei&rsquo;s various possessions, provinces and administrative systems can be argued for as a type of federalism, though in practice more closely resembles a canton system or disparate republic.</p>
 <h3 id="floral-society">
   Floral Society
-  <a class="anchor" href="#floral-society">#</a>
+  <a class="anchor" href="#floral-society">¶</a>
 </h3>
 <div class="row">
 <div class="column">
@@ -675,12 +761,9 @@ color: var(--color-pink);
 </div>
 <p><strong>Floral Society</strong> is the informal Vekllei phrase for the postwar Vekllei state, distinguishing it from the prewar junta and monarchy. The new period is characterised by democratisation and widespread personal freedoms, but has also recalled traditional cultural history into contemporary Vekllei life. Since the war, Vekllei has been marked by rapid change, and Floral Society&rsquo;s growing cultural legacy, which continues to distance it from the prewar period.</p>
 <div class="book-columns flex flex-wrap">
-
+  
   <div class="flex-even markdown-inner">
-    <h4 id="petticoat-constitution">
-  Petticoat constitution
-  <a class="anchor" href="#petticoat-constitution">#</a>
-</h4>
+    <h4 id="petticoat-constitution">Petticoat constitution</h4>
 <p>The <strong>Petticoat Constitution</strong> (officially the <em><strong>Constitution of Vekllei</strong></em>) is Vekllei&rsquo;s founding constitutional document since independence, and remains a core political and cultural factor in the country. It provides for &ldquo;Atlantic-style democracy,&rdquo; free association and press, and a nonpartisan judicial system among other things.</p>
 <p>The Constitution is underlined by four principles of postwar Vekllei life, outlined as follows:</p>
 <ol>
@@ -692,12 +775,9 @@ color: var(--color-pink);
 <p>These features manifest in various forms throughout modern Vekllei, including its moneylessness, place-metaphysics, and personal freedoms. Its association with the Rebirth of Vekllei, characterised as female in <a href="/utopia/vekllei/religion">Upen</a>, gave the document its colloquial name <em>Petticoat Constitution</em>, after its provisions for women in democratic Vekllei society.</p>
 
   </div>
-
+  
   <div class="flex-even markdown-inner">
-    <h4 id="sundress-municipalism">
-  Sundress Municipalism
-  <a class="anchor" href="#sundress-municipalism">#</a>
-</h4>
+    <h4 id="sundress-municipalism">Sundress Municipalism</h4>
 <p><strong>Sundress Municipalism</strong> is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called <em>Newda</em>, which conforms to planning and lifestyle principles laid out in <em>Sundress Municipalism</em>. The principles themselves are often represented as a seven-pointed star, with each point marking a principle. They are as follows:</p>
 <ol>
 <li>Local employment, or &ldquo;commutelessness.&rdquo;</li>
@@ -711,12 +791,12 @@ color: var(--color-pink);
 <p><em>Sundress Municipalism</em> folds into broader conceptual ideas indigenous to Vekllei about space and ownership, found throughout its political system (as in the landscape sovereign) and its economy (as in product atheism). To this end, most ongoing construction and civic planning in the country invoke <em>Sundress Municipalism</em> as a framework.</p>
 
   </div>
-
+  
 </div>
 
 <h2 id="economy">
   Economy
-  <a class="anchor" href="#economy">#</a>
+  <a class="anchor" href="#economy">¶</a>
 </h2>
 <p><img src="/images/momentsinlove.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -762,14 +842,14 @@ color: var(--color-pink);
 <p>Both currencies are used for trade internationally, and float on the labour-power of the domestic economy. The Vekllei Crown is minted as a novelty, but otherwise no money is printed in the country, since Government Crowns are essentially labour-backed state bonds. Moneylessness benefits citizens in many ways, as Vekllei people do not typically maintain debts, have access to unlimited small commodities, and enjoy some of the shortest workdays and working weeks in the world, with all citizens afforded two months holiday each year.</p>
 <h3 id="employment">
   Employment
-  <a class="anchor" href="#employment">#</a>
+  <a class="anchor" href="#employment">¶</a>
 </h3>
 <p><img src="/images/matchstick.jpg" alt="smallimg" /></p>
 <p>Vekllei has a high unemployment rate for a developed country, reported at 12.5%. About 80% of Vekllei workers belong to a trade union, usually <em>Pettiburos</em> or <em>Bureaus</em>. Nearly 2 million Vekllei people are enrolled in higher education full-time, significantly reducing the nation&rsquo;s labour pool. These are accounted for politically as natural fluctuations of the deregulated Bureau System, and unemployment in the country has seen a stable reduction since the initial decades of independence. Although many citizens in Vekllei are immigrants, the country has few foreign workers, and those employed in the country tend to be high-skill and high-wage workers.</p>
 <p>Since no work is compensated by money in the country, international standard metrics for poverty and income per capita are obfuscated. It is generally understood that urban populations have easier access to consumer goods, but inferior access to local produce and genuine meat products. Rural populations are also more likely to take on informal work in their village or town, and may not necessarily hold membership in an industry bureau.</p>
 <h3 id="industry">
   Industry
-  <a class="anchor" href="#industry">#</a>
+  <a class="anchor" href="#industry">¶</a>
 </h3>
 <p>All commercial enterprise in Vekllei is founded along two legal and cultural classifications:</p>
 <ul>
@@ -782,13 +862,13 @@ color: var(--color-pink);
 <p>Most personal or private business in Vekllei is structured as either single-person shops (<strong>S.p.A.</strong>, or <em>senrouiva pettetie anaproiouya</em>), co-operative businesses (<strong>S.q.A.</strong>, or <em>senrouiva qualitie anaproiouya</em>), or village factories (<strong>S.p.M.</strong>, or <em>senrouiva persimonaya manufacturie</em>). Any commercial enterprise larger than S.p.M. tends to hold membership in or is directly administered by a <em>Bureau Proper</em>, though there are exceptions.</p>
 <h3 id="tourism">
   Tourism
-  <a class="anchor" href="#tourism">#</a>
+  <a class="anchor" href="#tourism">¶</a>
 </h3>
 <p>Tourism is a major source of foreign income in Vekllei, and the country attracts some 6 million tourists annually. Although the number of tourists is low compared to popular destinations in North America and Europe, Vekllei&rsquo;s strict entry requirements and state monopoly on hotels and tourist infrastructure means that most visitors are high-wealth business travellers or affluent foreigners, which together contribute around 0.5% of the country&rsquo;s GDP annually.</p>
 <p>Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vekllei people to withdraw superannuated cash savings for tourism and travel abroad.</p>
 <h2 id="demographics">
   Demographics
-  <a class="anchor" href="#demographics">#</a>
+  <a class="anchor" href="#demographics">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <strong>The story of Vekllei</strong> is a story of rebirth, and no better is this revealed than in the country&rsquo;s cultural <em>Aliyah</em> after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.
@@ -799,7 +879,7 @@ color: var(--color-pink);
 <p>Vekllei maintains a stable fertility rate of about 1.8 children per woman, indicating a slight decline in population. Vekllei enjoys high rates of immigration, sponsored by the government, and sees settlement from Western and Eastern Europe, Scandinavia, South-East Asia and South America. Vekllei has also experienced high rates of emigration since independence, although many expats retain citizenship and later return to residence in Vekllei at some point. To this end, Vekllei is one of the largest exporters of skilled workers and tradesmen in the world.</p>
 <h3 id="language">
   Language
-  <a class="anchor" href="#language">#</a>
+  <a class="anchor" href="#language">¶</a>
 </h3>
 <blockquote class="book-hint red">
   ❖ Main article: <em><a href="/utopia/vekllei/culture/language/">Language in Vekllei</a></em>
@@ -809,7 +889,7 @@ color: var(--color-pink);
 <p>Vekllei is spoken by around 25 million people, and a further 800,000 people around the world. Its relative complexity and provinciality lend to Vekllei&rsquo;s cultural obscurity abroad, since few Vekllei people are English literate.</p>
 <h3 id="religion">
   Religion
-  <a class="anchor" href="#religion">#</a>
+  <a class="anchor" href="#religion">¶</a>
 </h3>
 <p><img src="/images/spiritful.jpg" alt="img" /></p>
 <blockquote class="book-hint caption">
@@ -825,7 +905,7 @@ color: var(--color-pink);
 <p>Although most people in the country observe <em>Upen</em> apolitically, several other religious cultures hold sway in the country, including Catholicism (11%) Judaism (9%), Buddhism (4%), Islam (2%), Hinduism (1.3%) and Sikhism (0.7%). Despite this, Vekllei has some of the lowest rates of religious adherence in the world, estimated at a mere 6%, signifying <em>Upen</em>&rsquo;s cultural influence on personal practice and informal ritual.</p>
 <h3 id="education">
   Education
-  <a class="anchor" href="#education">#</a>
+  <a class="anchor" href="#education">¶</a>
 </h3>
 <p><img src="/images/uniform.jpg" alt="smallimg" /></p>
 <p>Education in Vekllei is structured as a <em>State Requisite Bureau</em> (rather than department) under the <em>requoisesiasn amourisocietie scolastie</em>, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.</p>
@@ -833,7 +913,7 @@ color: var(--color-pink);
 <p>Vekllei&rsquo;s school enrolment is among the highest in the world, though this calculation includes untraditional and labour schools, including agricultural and maritime schooling.</p>
 <h2 id="infrastructure">
   Infrastructure
-  <a class="anchor" href="#infrastructure">#</a>
+  <a class="anchor" href="#infrastructure">¶</a>
 </h2>
 <p><img src="/images/hydro.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -848,7 +928,7 @@ color: var(--color-pink);
 <p>Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the <strong>Vekllei International Jetport</strong> and the historic <strong>Port of Vekllei</strong> respectively.</p>
 <h3 id="transport">
   Transport
-  <a class="anchor" href="#transport">#</a>
+  <a class="anchor" href="#transport">¶</a>
 </h3>
 <blockquote class="book-hint vnr">
   ❖ Read more: <em><a href="/utopia/vekllei/society/rail/">Railways in Vekllei</a></em>
@@ -861,7 +941,7 @@ color: var(--color-pink);
 <p>Vekllei has <a href="/posts/2019-11-19-stewards/">five state air carriers</a>, which constitute a government monopoly on all air travel in the country. The international flag carrier is <strong>Vekllei Overseas Airways</strong>, which serves air routes internationally with a fleet of various aircraft, including nuclear monowings and supersonic jets.</p>
 <h3 id="housing">
   Housing
-  <a class="anchor" href="#housing">#</a>
+  <a class="anchor" href="#housing">¶</a>
 </h3>
 <p>All real estate in Vekllei is negotiated, purchased and leased at a municipal level. Vekllei depends heavily on stewardship as a factor of ownership. Free homes are rented on an open market and are awarded via a complicated interview process rife with favouritism, mitigated by the mandatory circulation of real estate agents around Vekllei. The more time a landholder spends working a property, the larger their portion of ownership over it grows. If the children of a landholder continue to live in the house, they will continue to own it, and the stronger their proportion of ownership will become.</p>
 <blockquote>
@@ -876,7 +956,7 @@ color: var(--color-pink);
 <p>Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed a right to home and property under the Petticoat Constitution. Some 92% of adults own their residence in Vekllei.</p>
 <h3 id="communications">
   Communications
-  <a class="anchor" href="#communications">#</a>
+  <a class="anchor" href="#communications">¶</a>
 </h3>
 <p><img src="/images/mailtrain.jpg" alt="img" />
 <blockquote class="book-hint caption">
@@ -891,7 +971,7 @@ color: var(--color-pink);
 <p>Telephones, telegrams and videophones are structured under the Mail as the Office of Telecommunications, which acts as an independent organ of the Mail A.r.</p>
 <h3 id="power--water">
   Power &amp; Water
-  <a class="anchor" href="#power--water">#</a>
+  <a class="anchor" href="#power--water">¶</a>
 </h3>
 <p>Utilities are provided for by the national <strong>Thunderburo</strong> (the Hydro, Geo, Nuclear-Electric Commissions) and the <strong>Hydroburo</strong> (Water Commission) across the country, which were reestablished upon independence in 2015, both managed as proper bureaus of majority government ownership. Vekllei operates sixteen nuclear power plants, but most nuclear energy is sold to Europe via undersea cables. All domestic electricity is supplied by Geothermal power plants and Hydroelectric dams for political and religious reasons, making Vekllei one of the only countries of its size to rely exclusively on renewable energy supply for residential and commercial services.</p>
 <p>Vekllei has the cleanest drinking water in the world, supplied by the country&rsquo;s interior freshwater glaciers. Vekllei&rsquo;s Hydroburo is also responsible for sewerage treatment and processing in the country.</p>
@@ -915,7 +995,97 @@ color: var(--color-pink);
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/utopia/">Utopia</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/utopia/vekllei/">Vekllei</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -931,8 +1101,7 @@ color: var(--color-pink);
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   
 <nav id="TableOfContents">
   <ul>
@@ -980,13 +1149,84 @@ color: var(--color-pink);
 
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

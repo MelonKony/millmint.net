@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Posts" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="Posts" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/posts/" />
@@ -12,25 +14,88 @@
 <title>Posts | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/posts/index.xml" title="MillMint" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -38,10 +103,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -134,7 +219,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -181,7 +266,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -220,7 +305,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -303,7 +388,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -412,7 +497,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -422,7 +509,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -553,405 +639,305 @@ https://github.com/alex-shpak/hugo-book
 
       
       
+<style>
+  @media screen and (max-width: 56rem) {
+    #headerbox{
+     margin-top: 40px;
+    }
+  }
+  .markdown h2 {
+    margin: 0.5rem;
+    overflow: hidden;
+    max-width: 300px;
+  }
+  .markdown img {
+    max-height:58vh;
+    margin: 0px;
+  }
+  .gt-container {
+    display: none;
+  }
+  .markdown a {
+    text-decoration: none;
+  }
+  .markdown a:hover {
+    text-decoration: none;
+    opacity: .75;
+  }
+
+  .markdown img {
+    padding: 0;
+  }
+</style>
+    <div style="border-box: inherit; margin-bottom: 8px;"id="headerbox">
+      <h1 class="title">Posts Archive</h1>
+      <h1 class="emoji" id="whirlybat">-pcvector
+</h1>
+    </div>
+  <div style="display: flex; flex-wrap: wrap; flex-direction: columns;">
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-11-16-guilt/">The guilt dies with her</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-11-16-guilt/">The guilt dies with her</a>
     </h2>
     
-  <h5>Nov 16, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Nov 16, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/guilt.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/guilt.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Some years ago, she was in the desert. At the time she had just fallen out with her lover, and their friends had sided with him. The reasons why they had sided with him seemed to matter less and less as time wore on — they might have always liked him better.
-        <a href="/posts/2018-11-16-guilt/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-11-05-summer/">Happy Summer Everyone</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-11-05-summer/">Happy Summer Everyone</a>
     </h2>
     
-  <h5>Nov 5, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Nov 5, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/sketch/">sketch</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/sketches/summer.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/sketches/summer.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  In Down Under it&rsquo;s coming around summer, and things are heating up. It&rsquo;s not my fault Yanks broke the northern hemisphere and made the weather go wrong.
-Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a variety of reasons. A city of gardens and flowerbeds (the most flowers per capita in the world, actually), apartment dwellers take turns watering their local gardens and clearing weeds.
-        <a href="/posts/2018-11-05-summer/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-11-04-scout/">Talking about Girl Scouts and Child Soldiers</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-11-04-scout/">Talking about Girl Scouts and Child Soldiers</a>
     </h2>
     
-  <h5>Nov 4, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Nov 4, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/scout.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/scout.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  About half of Vekllei kids go through the &lsquo;Blossom&rsquo; network of youth orgs at some point in their lives. Yeah, youth groups are popular nowadays. The Boy Scouts and Girl Guides of the United States are as mandatory as schooling in some states, and various Red Pioneers around the world test orthodoxy in Soviet and Red Chinese children.
-        <a href="/posts/2018-11-04-scout/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-10-30-steward/">The Stewards of the Earth</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-10-30-steward/">The Stewards of the Earth</a>
     </h2>
     
-  <h5>Oct 30, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Oct 30, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/spiritstewards.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/spiritstewards.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Upen is the animistic religion of Vekllei. It doesn&rsquo;t have priests, but it has ceremony, and it shapes every part of the country today. From apartment cooperatives to the types of cotton used in clothing, Upen has extraordinary reach for an ostensibly agnostic and secular country.
-It works out that way because Upen is not an organised religion, and resembles more closely a collective spiritualism with supernatural beliefs.
-        <a href="/posts/2018-10-30-steward/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-10-22-fashion/">Let’s look at military fashion, because why not?</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-10-22-fashion/">Let’s look at military fashion, because why not?</a>
     </h2>
     
-  <h5>Oct 22, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Oct 22, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/militaryfashion.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/militaryfashion.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Unlike the United States and Western Europe, the ‘teen-ager’ has not been discovered in Vekllei. To be pedantic, they do technically exist — their people do indeed enter a transitory stage between childhood and adulthood, as far as anyone can tell — but they do not exist as a separate cultural identity.
-        <a href="/posts/2018-10-22-fashion/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-10-05-south/">The Collapse of the South</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-10-05-south/">The Collapse of the South</a>
     </h2>
     
-  <h5>Oct 5, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Oct 5, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/southerncollapse.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/southerncollapse.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  In October of 2074, the Ford Motor Company was embroiled in political catastrophe after Vermont senator Henry Walsh accused unionism in its East-Coast plants of traitorism by allowing foreign spies to acquire jobs in the Company. Whether the spies were Soviet or Chinese changed several times in Walsh’s accusations, but the claims themselves were not entirely unfounded.
-        <a href="/posts/2018-10-05-south/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-09-29-sadboi/">real sadboi posting hours</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-09-29-sadboi/">real sadboi posting hours</a>
     </h2>
     
-  <h5>Sep 29, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 29, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/sketch/">sketch</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/sketches/sadboi.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/sketches/sadboi.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Coming up on 2am here in East Australia. Had a rough day at work. Feeling pretty isolated and my other job starts in a few hours. I don’t know if it’s intrusive thoughts from OCD or just something everyone has, but four or five times a day I’ll have some sort of regret pop right into my head.
-        <a href="/posts/2018-09-29-sadboi/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-09-25-uniforms/">School uniforms for girls</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-09-25-uniforms/">School uniforms for girls</a>
     </h2>
     
-  <h5>Sep 25, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 25, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/olduniforms.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/olduniforms.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  From preschool to university and beyond, all students wear a variant of the same uniform. The kindergartners may not wear a full gi and camisole pinafore, but the basic ensemble is still there. This is the girl’s one, and it’s much more elaborate than the boy’s uniform.
-Year-round, all students wear a school armband with their year and class embroidered on it and a badge of education, which is pinned to the top button.
-        <a href="/posts/2018-09-25-uniforms/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-09-19-endgame/">Some notes on the end of the world</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-09-19-endgame/">Some notes on the end of the world</a>
     </h2>
     
-  <h5>Sep 19, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 19, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/endgame.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/endgame.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  A single hiss, the heavy door rolls back, and it derails into sandbags. A gas piston grinds, an engine ignites, and a roar sends flames pouring fifty feet high out of the silo as a sleek missile emerges and climbs towards hunting altitude.
-This missile will strike Lanzhou, China. The larger cities, swollen with people, are protected by antimissile laser batteries.
-        <a href="/posts/2018-09-19-endgame/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2018-09-11-comix/">KID COMIX, an underground comic mag in Vekllei</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2018-09-11-comix/">KID COMIX, an underground comic mag in Vekllei</a>
     </h2>
     
-  <h5>Sep 11, 2018</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 11, 2018
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2018/">2018</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/comix.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/comix.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  There are some comics that Vekllei syndicates just won’t publish. KID Magazine, or KID Comix ran for nearly a century. It was picked up and dropped by dozens of anonymous artists, writers and editors, all operating under nonsense pseudonyms — Red, Squick, Failson and Daddy Fun were some of the longest-serving.
-        <a href="/posts/2018-09-11-comix/">...</a>
-      
-    </p>
   </article>
   
+ </div>
 
-  
     <ul class="pagination pagination-default">
       <li class="page-item">
         <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
@@ -1000,7 +986,90 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/posts/">Posts</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -1012,8 +1081,7 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   <nav>
   <ul>
   
@@ -1114,13 +1182,84 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 </nav>
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

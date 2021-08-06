@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="2017" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="2017" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/tags/2017/" />
@@ -12,25 +14,88 @@
 <title>2017 | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/tags/2017/index.xml" title="MillMint" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -38,10 +103,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -134,7 +219,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -181,7 +266,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -220,7 +305,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -303,7 +388,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -412,7 +497,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -422,7 +509,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -559,32 +645,11 @@ https://github.com/alex-shpak/hugo-book
       <a href="/posts/2017-10-06-store/">A Little Vekllei General Store</a>
     </h2>
     
-  <h5>Oct 6, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Oct 6, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/generalstore.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/generalstore.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  In the narrow streets of the Lola district in Vekllei, artisans and artists hurry about, peddling art and fine goods and attracting the rest of the city to its stores. In Vekllei, there is no currency, so shopping is almost always a pragmatic affair.
@@ -599,32 +664,11 @@ Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced
       <a href="/posts/2017-10-02-angels/">Pleading with Angels to Spare Humanity</a>
     </h2>
     
-  <h5>Oct 2, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Oct 2, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/pleading.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/pleading.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.   She saw its bones and the sight of them — that they were real and not a dream — caught in her throat. She raised her hand to cough, and suddenly her lungs heaved and blood began to pour from the spaces between her fingers. Her eyes grew wide and she cupped her hand, and she retched again and her blood sprayed out like a hose.
@@ -638,32 +682,11 @@ Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced
       <a href="/posts/2017-09-27-chemical-war/">Chemical Warfare in 2063</a>
     </h2>
     
-  <h5>Sep 27, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 27, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/chemicalwar.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/chemicalwar.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.   “We came to a town and found it scorched with mustard and the fragments of phosgene shells, and the wind whistled through the doorways that were left open. I remember being surprised by how many of them were in basements — probably because they thought the gas would blow away in the wind.
@@ -677,32 +700,11 @@ Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced
       <a href="/posts/2017-09-24-undying/">Tzipora, the Undying Miracle Child</a>
     </h2>
     
-  <h5>Sep 24, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 24, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/undying.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/undying.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Tzipora is a Gregori baby, a child who doesn’t age and cannot contract cell-mutating diseases. She is the adopted daughter of Michael Desmoines, an espionage quartermaster for a foreign power in the United States.
@@ -717,32 +719,11 @@ She is clever, sensitive, and deeply humanist. Despite her shyness and her lonel
       <a href="/posts/2017-09-21-spirit/">Tzipora Makes Friends with a Desert Spirit</a>
     </h2>
     
-  <h5>Sep 21, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 21, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/desertspirit.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/desertspirit.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Every natural place has a spirit that minds it. Tzipora had never met a desert spirit before, and she went looking for one in Cherry, Nevada. With air force jets glinting in the sky overhead, and the temperature scorching the mesas that surround the military town, she found one inside a burrow.
@@ -756,32 +737,11 @@ She is clever, sensitive, and deeply humanist. Despite her shyness and her lonel
       <a href="/posts/2017-09-19-fashion/">Fashion in the Year 2063</a>
     </h2>
     
-  <h5>Sep 19, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 19, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/fashion.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/fashion.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Vekllei kids look to America as a bastion of good taste; a country of fast cars and diners and sock-hops and high-school romance. Like the Koreans look to Japanese taste, and the British look to the stuff coming out of design houses in France, Vekllei is infatuated with how Americans dress in the year 2063.
@@ -795,32 +755,11 @@ She is clever, sensitive, and deeply humanist. Despite her shyness and her lonel
       <a href="/posts/2017-09-10-terror/">Girl’s Life Saved by Veteran Hero in Day of Terror</a>
     </h2>
     
-  <h5>Sep 10, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 10, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/terror.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/terror.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Louenne Dehmones enlisted for two years but stayed for ten. He served abroad in the war department, where he performed admirably but never rose above the rank of Junior Sergeant because of a good-natured appetite for mischief. He transferred to the military police to be close to his wife and infant daughter.
@@ -834,32 +773,11 @@ She is clever, sensitive, and deeply humanist. Despite her shyness and her lonel
       <a href="/posts/2017-09-04-ageing/">Tzipora, one of the children to stop ageing</a>
     </h2>
     
-  <h5>Sep 4, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 4, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/ageing.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/ageing.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  This is Tzipora. She is eleven years old, scruffy, and a Gregori baby. At the turn of the 21st century, Gregori Hordiyenko, a Ukrainian boy aged nine and a half, stopped aging entirely. By 2063, which is the year Tzipora turned eleven, there are about two hundred Gregori babies in the world, mostly living in secret.
@@ -873,32 +791,11 @@ She is clever, sensitive, and deeply humanist. Despite her shyness and her lonel
       <a href="/posts/2017-08-17-uniforms/">The Five Uniforms of Any Good Vekllei Girl</a>
     </h2>
     
-  <h5>Aug 17, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 17, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/fiveuniforms.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/fiveuniforms.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  These are the five basic outfits a kid in the city of Vekllei rotates between in their life. This is Tzipora. She’s sharp and a little scruffy. She’s eleven years old.
@@ -913,32 +810,11 @@ The first is her school uniform, complete with embroidered armband featuring the
       <a href="/posts/2017-08-10-bullying/">Anti-bullying poster in the year 2063. Not very effective. From the city of Vekllei.</a>
     </h2>
     
-  <h5>Aug 10, 2017</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 10, 2017
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2017/">2017</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/bullying.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/bullying.jpg /></div>
 
 
     <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  This poster circulated middle schools in 2063 as part of a wider initiative at curbing violence against women at an early age. The two Vekllei characters on the left read literally as &ldquo;there is no excuse to hit a female,&rdquo; but it emphasises the ‘hit’ part of it to make the idea particularly reprehensible.
@@ -991,7 +867,97 @@ The first is her school uniform, complete with embroidered armband featuring the
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/tags/">Tags</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/tags/2017/">2017</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -1003,8 +969,7 @@ The first is her school uniform, complete with embroidered armband featuring the
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   <nav>
   <ul>
   
@@ -1105,13 +1070,84 @@ The first is her school uniform, complete with embroidered armband featuring the
 </nav>
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

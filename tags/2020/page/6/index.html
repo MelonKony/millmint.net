@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="2020" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="2020" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/tags/2020/" />
@@ -12,25 +14,88 @@
 <title>2020 | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/tags/2020/index.xml" title="MillMint" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -38,10 +103,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -134,7 +219,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -181,7 +266,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -220,7 +305,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -303,7 +388,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -412,7 +497,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -422,7 +509,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -559,32 +645,11 @@ https://github.com/alex-shpak/hugo-book
       <a href="/posts/2020-04-23-enthusiasm/">Gentle Enthusiasm</a>
     </h2>
     
-  <h5>Apr 23, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Apr 23, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/enthusiasm.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/enthusiasm.jpg /></div>
 
 
     <p>Archived from the original article here  Tzipora stood astride the bicycle luggage rack, and looked at her best friend Moise. She smiled at him, and looked to the town before them, and squinted at the clouds rising over the Atlantic horizon.
@@ -599,32 +664,11 @@ It was a warm late summer and there was salt in the air. Pebbles made better swi
       <a href="/posts/2020-04-21-hydro/">The Ou Hydroburo Office</a>
     </h2>
     
-  <h5>Apr 21, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Apr 21, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/hydro.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/hydro.jpg /></div>
 
 
     <p>Archived from the original article here  Almost any other venrouive national bureau is more glamorous than Vekllei’s Hydroburo, but that fact does not detract from the organ’s critical function.
@@ -639,32 +683,11 @@ Although the sophisticated age of robotics demands the incredible yield of nucle
       <a href="/posts/2020-04-20-spectre/">AB/NI’s Spectres of Violence</a>
     </h2>
     
-  <h5>Apr 20, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Apr 20, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/spectre.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/spectre.jpg /></div>
 
 
     <p>Archived from the original article here  The Americas Bureau at National Intelligence (AB/NI), a semiautonomous organ of the covert operations council of the War Department, is recognised as the busiest of the continental bureaus. There is a lot to be busy with — the Dallas Secession, the Brazilian invasion of Bolivia, the Dallas nuclear lend-lease, and the reliability of Venezuelan oil production are all of some concern to Vekllei, and so AB/NI proactively has fingers in those pies.
@@ -678,32 +701,11 @@ Although the sophisticated age of robotics demands the incredible yield of nucle
       <a href="/posts/2020-04-05-lakehouse/">Ghosts of Taiwan in the Yana Lakehouse</a>
     </h2>
     
-  <h5>Apr 5, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Apr 5, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/lakehouse.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/lakehouse.jpg /></div>
 
 
     <p>Archived from the original article here  By 2047, Vekllei had a lot of broken men. Tens of thousands had alighted troop ships at the end of the War of Taiwan, only to find that pieces of their lives had unravelled overseas. Hardy, bronze-skinned boys were left with their ghosts, and those ghosts introduced them to drinking, and brawling, and suicide.
@@ -718,32 +720,11 @@ Although the sophisticated age of robotics demands the incredible yield of nucle
       <a href="/posts/2020-04-03-learning/">Montre, City of Learning</a>
     </h2>
     
-  <h5>Apr 3, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Apr 3, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/learning.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/learning.jpg /></div>
 
 
     <p>Archived from the original article here  The Montre Prefecture of the Vekllei city-state is among the most learned urban landscapes in the world. In the days of the monarchy, it had been an unremarkable city, home to the empire’s submarine fleet. It was obliterated by bombs in the war, and the &ldquo;new Montre&rdquo; that has blossomed in its place is nourished by its ashes.
@@ -758,32 +739,11 @@ Among the most prolific creatures in Vekllei’s academic elite, including prest
       <a href="/posts/2020-04-01-ego/">Ego Death and Upen&#39;s Spiritual Rebirth</a>
     </h2>
     
-  <h5>Apr 1, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Apr 1, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/ego.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/ego.jpg /></div>
 
 
     <p>Archived from the original article here   The Beach was a small part of herself.
@@ -808,32 +768,11 @@ There was not a single dog left to fight
       <a href="/posts/2020-03-11-highlands/">The Great Ro Highlands</a>
     </h2>
     
-  <h5>Mar 11, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Mar 11, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/highlands.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/highlands.jpg /></div>
 
 
     <p>Archived from the original article here  As I pick up some larger projects, my posts here will slow down a little bit. That&rsquo;s okay &ndash; I&rsquo;m still easy to track down and get in touch with, and you guys will still see the best stuff.
@@ -848,33 +787,11 @@ I post a lot of sketches to the Vekllei Discord, which is something between a fa
       <a href="/posts/2020-03-01-cobian/">Meet Cobian, a concept panel for a Vekllei comic</a>
     </h2>
     
-  <h5>Mar 1, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Mar 1, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/character/">character</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/guide/">guide</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/cobiancon.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/cobiancon.jpg /></div>
 
 
     <p>Archived from the original article here  If you go back through my posts here, you&rsquo;ll notice Tzipora is basically a cartoon whose only consistent characteristic is her iconography &ndash; her hair fountain, bangs, round head and big smile. This isn&rsquo;t really intentional. I&rsquo;m just an amateur artist who is still learning to draw.
@@ -889,32 +806,11 @@ That doesn&rsquo;t work so well in a comic with sequential panels, so I&rsquo;ve
       <a href="/posts/2020-02-17-princess/">Tzipora, the Princess of the Earth</a>
     </h2>
     
-  <h5>Feb 17, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Feb 17, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/character/">character</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/earthprincess.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/earthprincess.jpg /></div>
 
 
     <p>Archived from the original article here  Editor’s note — it’s getting close to 4 a.m. and I’m not sure I can even remember why I wrote this post. Everything is a fog. Expect revisions and possibly major changes in the morning.
@@ -929,32 +825,11 @@ Pictured above is Tzipora Desmoisnes, the Princess of the Earth and one of the m
       <a href="/posts/2020-02-11-salad/">Salad Time</a>
     </h2>
     
-  <h5>Feb 11, 2020</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Feb 11, 2020
 
 
-
-  
-  <div>
-    
-      <a href="/categories/author/">author</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2020/">2020</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/salad.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/salad.jpg /></div>
 
 
     <p>Archived from the original article here  Despite appearances, most of the population of Vekllei are Scandinavian, not Asian.
@@ -1015,7 +890,97 @@ In Zhu&rsquo;s homeland she suffers a meat-heavy diet, and Vekllei is the first 
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/tags/">Tags</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/tags/2020/">2020</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -1027,8 +992,7 @@ In Zhu&rsquo;s homeland she suffers a meat-heavy diet, and Vekllei is the first 
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   <nav>
   <ul>
   
@@ -1129,13 +1093,84 @@ In Zhu&rsquo;s homeland she suffers a meat-heavy diet, and Vekllei is the first 
 </nav>
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

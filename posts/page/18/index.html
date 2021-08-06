@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Posts" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="Posts" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/posts/" />
@@ -12,25 +14,88 @@
 <title>Posts | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/posts/index.xml" title="MillMint" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -38,10 +103,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -134,7 +219,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -181,7 +266,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -220,7 +305,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -303,7 +388,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -412,7 +497,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -422,7 +509,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -553,402 +639,305 @@ https://github.com/alex-shpak/hugo-book
 
       
       
+<style>
+  @media screen and (max-width: 56rem) {
+    #headerbox{
+     margin-top: 40px;
+    }
+  }
+  .markdown h2 {
+    margin: 0.5rem;
+    overflow: hidden;
+    max-width: 300px;
+  }
+  .markdown img {
+    max-height:58vh;
+    margin: 0px;
+  }
+  .gt-container {
+    display: none;
+  }
+  .markdown a {
+    text-decoration: none;
+  }
+  .markdown a:hover {
+    text-decoration: none;
+    opacity: .75;
+  }
+
+  .markdown img {
+    padding: 0;
+  }
+</style>
+    <div style="border-box: inherit; margin-bottom: 8px;"id="headerbox">
+      <h1 class="title">Posts Archive</h1>
+      <h1 class="emoji" id="whirlybat">-pcvector
+</h1>
+    </div>
+  <div style="display: flex; flex-wrap: wrap; flex-direction: columns;">
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-08-19-supermarket/">Supermarkets in Vekllei</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-08-19-supermarket/">Supermarkets in Vekllei</a>
     </h2>
     
-  <h5>Aug 19, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 19, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/supermarket.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/supermarket.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  In Vekllei, the economy is a social organ that lingers awkwardly between cultural and political interests. On one hand, the country is regressing (both politically and culturally) towards deindustrialised, decommodified life. On the other, it is irreversibly equipped with the benefits of automation and robotics, rendering large swathes of the labour-force obsolete. Work is now, for most purposes, a creative organ that facilitates society, culture and technology.
-        <a href="/posts/2019-08-19-supermarket/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-08-18-puffin/">Puffin Logic</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-08-18-puffin/">Puffin Logic</a>
     </h2>
     
-  <h5>Aug 18, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 18, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/character/">character</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/puffinlogic.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/puffinlogic.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  i&rsquo;m like that Ben Folds song about escaping your redneck past but instead of redneck it&rsquo;s anime. who stands like this???
-Time-lapse here.
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-08-17-cherry/">The Cherry Car</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-08-17-cherry/">The Cherry Car</a>
     </h2>
     
-  <h5>Aug 17, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 17, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/cherry.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/cherry.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of Upen.
-No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display.
-        <a href="/posts/2019-08-17-cherry/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-08-16-station-dog/">The People of Vekllei’s Railway (plus Dog)</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-08-16-station-dog/">The People of Vekllei’s Railway (plus Dog)</a>
     </h2>
     
-  <h5>Aug 16, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 16, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/dog.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/dog.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  I’m starting a series looking at the lives and machines of domestic Vekllei life.
-Vekllei National Railways, or ‘VK Rail’ was the bastard of six major pre-war rail companies that were extinguished along with the society that housed them. Today there are three rail companies in Vekllei, but all of them operate under direct supervision of a Vekllei Industry Bureau (making it Venrouiva, in other words) and are only broken up for reasons of logistics.
-        <a href="/posts/2019-08-16-station-dog/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-08-05-carry/">Carry me! &gt;:(</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-08-05-carry/">Carry me! &gt;:(</a>
     </h2>
     
-  <h5>Aug 5, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Aug 5, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/sketch/">sketch</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/sketches/carry.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/sketches/carry.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  This is Tzipora and Cobian. They have not been friends for very long but they like each other a lot. Tzipora weighs nearly 10kg less than her friend, so she gets piggy backs more often.
-By me! @melon.kony or r/vekllei on reddit!
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-07-31-2nd-draft/">2nd Draft</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-07-31-2nd-draft/">2nd Draft</a>
     </h2>
     
-  <h5>Jul 31, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Jul 31, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/draft.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/draft.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  I first saw this film at a low point in my life, and watching Shizuku discover her ability was one of the most touching things I&rsquo;ve ever seen. I&rsquo;m not a big fan-art guy, but I still find myself thinking about them years later and I wanted to paint them happy after the end of the film.
-        <a href="/posts/2019-07-31-2nd-draft/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-07-26-what-is-vekllei/">What is Vekllei?</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-07-26-what-is-vekllei/">What is Vekllei?</a>
     </h2>
     
-  <h5>Jul 26, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Jul 26, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/author/">author</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/guide/">guide</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/map.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/map.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  Vekllei is a country in my alt-world; a utopian fever dream of googie aesthetics, participatory economics and nostalgia.
-Welcome to the ‘Petticoat Project’, a collection of stories about a country and a girl. The concept is broken down into three sections:
- Author: for blog posts and articles on the Petticoat Project, utopian fiction, personal news item, etc. Character: for posts about Tzipora, people in her life, or otherwise events that occur during her time on Earth.
-        <a href="/posts/2019-07-26-what-is-vekllei/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-07-25-garden/">Vekllei’s Elite Military Units — the Garden Corps and their bloody war against weeds</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-07-25-garden/">Vekllei’s Elite Military Units — the Garden Corps and their bloody war against weeds</a>
     </h2>
     
-  <h5>Jul 25, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Jul 25, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/garden.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/garden.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Previous post
- On Tuesday, two casualties were reported among Vekllei’s Folifedestarmie 24th and 25th Garden Companies in the ongoing war to make the capital’s parks the finest in the world. Michael Helen-Louisviuan cut his leg on an exposed nail during the deinstallation of old fence posts, and Ana Po cut her thumb on a rose.
-        <a href="/posts/2019-07-25-garden/">...</a>
-      
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-07-21-showa/">Shōwa memories</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-07-21-showa/">Shōwa memories</a>
     </h2>
     
-  <h5>Jul 21, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Jul 21, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/sketch/">sketch</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/sketches/showa.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/sketches/showa.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  new r/worldbuilding post soon, just filling in my garbage upload schedule with generic anime and shōwa nostalgia
-    </p>
   </article>
   
-  <article class="markdown book-post">
-    <h2>
-      <a href="/posts/2019-07-08-sex-ed/">Summer sex-ed</a>
+  <article class="markdown book-post" style= "
+
+  min-width: 100%;
+  object-fit:cover;
+  background-color: var(--gray-100);
+  background-size: auto;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  ">
+    <h2 style= "margin: 0px;">
+      <a style="color: var(--body-font-color);" href="/posts/2019-07-08-sex-ed/">Summer sex-ed</a>
     </h2>
     
-  <h5>Jul 8, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Jul 8, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/archive/">archive</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/sketch/">sketch</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/sex-ed.jpg /></div>
 
 
-
-<p>
-  
-    <img src=/images/sex-ed.jpg />
-  
-</p>
-
-
-    <p>Archived from the original article here  ❖ This article predates the project, and should be considered non-canon.  Porno is available over-the-counter at most book stores. Some industry associations attempt to limit availability to minors but generally it&rsquo;s at the discretion of the shopkeeper. Often, shame and embarassment are more powerful tools than legislation in Vekllei.
-Generally it&rsquo;s pretty traditional stuff supported by columns and fiction, although it varies between pornographers.
-        <a href="/posts/2019-07-08-sex-ed/">...</a>
-      
-    </p>
   </article>
   
+ </div>
 
-  
     <ul class="pagination pagination-default">
       <li class="page-item">
         <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
@@ -997,7 +986,90 @@ Generally it&rsquo;s pretty traditional stuff supported by columns and fiction, 
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/posts/">Posts</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -1009,8 +1081,7 @@ Generally it&rsquo;s pretty traditional stuff supported by columns and fiction, 
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   <nav>
   <ul>
   
@@ -1111,13 +1182,84 @@ Generally it&rsquo;s pretty traditional stuff supported by columns and fiction, 
 </nav>
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

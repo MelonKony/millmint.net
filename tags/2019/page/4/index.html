@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="2019" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="2019" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://millmint.net/tags/2019/" />
@@ -12,25 +14,88 @@
 <title>2019 | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <link rel="alternate" type="application/rss+xml" href="https://millmint.net/tags/2019/index.xml" title="MillMint" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -38,10 +103,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -134,7 +219,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -181,7 +266,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -220,7 +305,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -303,7 +388,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle"  />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -412,7 +497,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -422,7 +509,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -559,32 +645,11 @@ https://github.com/alex-shpak/hugo-book
       <a href="/posts/2019-09-28-moon/">The State of the Moon in 2078</a>
     </h2>
     
-  <h5>Sep 28, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 28, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/moon.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/moon.jpg /></div>
 
 
     <p>Archived from the original article here  Welcome again to MoonMonth! It started a week ago and will go until I’ve said all I can say. We’re looking at how Vekllei conquered the moon today.
@@ -599,32 +664,11 @@ Vekllei unequivocally won the space race. Not because it had the first man in sp
       <a href="/posts/2019-09-27-puffins/">Puffin Scouts</a>
     </h2>
     
-  <h5>Sep 27, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 27, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/puffinscouts.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/puffinscouts.jpg /></div>
 
 
     <p>Archived from the original article here  MoonMonth will return tomorrow. As an interlude&hellip;
@@ -639,32 +683,11 @@ Vekllei unequivocally won the space race. Not because it had the first man in sp
       <a href="/posts/2019-09-24-500-subscribers/">500 SUBSCRIBERS</a>
     </h2>
     
-  <h5>Sep 24, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 24, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/author/">author</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/500.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/500.jpg /></div>
 
 
     <p>Archived from the original article here  Thank you very much everyone. It&rsquo;s very exciting for me. I ordered a cake from Banjos to celebrate but Tzipora got it all over the floor and herself.
@@ -679,32 +702,11 @@ Thanks for subscribing. I&rsquo;ve been pushing myself a bit too hard and my wri
       <a href="/posts/2019-09-22-tomorrow/">Living in Tomorrow, Facing the Past</a>
     </h2>
     
-  <h5>Sep 22, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 22, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/tomorrow.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/tomorrow.jpg /></div>
 
 
     <p>Archived from the original article here  Welcome again to MoonMonth! It started four days ago and will go until I’ve said all I can say. We’re looking at the space industry in Vekllei. This is just a quick piece I&rsquo;ve done between some larger things.
@@ -719,32 +721,11 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
       <a href="/posts/2019-09-21-moonwalk/">A space tourist contemplates her first moonwalk</a>
     </h2>
     
-  <h5>Sep 21, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 21, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/moonwalk.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/moonwalk.jpg /></div>
 
 
     <p>Archived from the original article here  Welcome to MoonMonth, which started two days ago and will go until I’ve said all I can say. These posts are going to work a little differently — we’re going to follow Tzipora through her adventures in Moon City and beyond, and learn about the moon in this world along the way. Strap in!
@@ -759,32 +740,11 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
       <a href="/posts/2019-09-19-moon-holiday/">Holiday on the Moon</a>
     </h2>
     
-  <h5>Sep 19, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 19, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/moonholiday.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/moonholiday.jpg /></div>
 
 
     <p>Archived from the original article here   Caption: “So — Mr Spaceman… How long have you held a job at Vekllei National Astrospace? 37 years?”
@@ -799,32 +759,11 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
       <a href="/posts/2019-09-16-puffin-attack/">Puffin Attack</a>
     </h2>
     
-  <h5>Sep 16, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 16, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/character/">character</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/puffinattack.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/puffinattack.jpg /></div>
 
 
     <p>Archived from the original article here  Although Zelda can&rsquo;t have kids, she mothers whole generations of village children.
@@ -836,32 +775,11 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
       <a href="/posts/2019-09-15-reactor/">The Expo’74 Experimental Molten-Salt Peace Reactor</a>
     </h2>
     
-  <h5>Sep 15, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 15, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/landscape/">landscape</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/reactor.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/reactor.jpg /></div>
 
 
     <p>Archived from the original article here  Only had time for a quick painting tonight. Bigger things soon, after I get some things out of the way&hellip;
@@ -876,32 +794,11 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
       <a href="/posts/2019-09-14-ayn/">Introducing Ayn</a>
     </h2>
     
-  <h5>Sep 14, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 14, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/character/">character</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/introducingayn.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/introducingayn.jpg /></div>
 
 
     <p>Archived from the original article here  The daughter of a Soviet expat and Hong Konger deckhand, Ayn Rumouisen has never stepped foot outside of Vekllei. A serious fear of flying and the open ocean has hedged her appetite for travel for all of her thirty-two years. She is well respected as an operations consultant within the Americas Bureau at National Intelligence (AB/NI), and is close with the ABNI Operations Director Baron Desmoisnes and Vekllei’s first “Gregori Baby,” Tzipora &ldquo;Zelda&rdquo; Desmoisnes.
@@ -915,32 +812,11 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
       <a href="/posts/2019-09-09-bread/">I like bread</a>
     </h2>
     
-  <h5>Sep 9, 2019</h5>
+  <h5 class= "alignleft" style= "margin-top: -10px; color: var--body-font-color;"></h5>
+Sep 9, 2019
 
 
-
-  
-  <div>
-    
-      <a href="/categories/author/">author</a>
-  </div>
-  
-
-  
-  <div>
-    
-      <a href="/tags/post/">post</a>, 
-      <a href="/tags/2019/">2019</a>
-  </div>
-  
-
-
-
-<p>
-  
-    <img src=/images/bread.jpg />
-  
-</p>
+  <div style="text-align: center;"><img style= "object-fit: cover; height:auto; min-height:50%; overflow: auto; margin-top: 1rem; border-radius: 5px;" src=/images/bread.jpg /></div>
 
 
     <p>Archived from the original article here  I have a research proposal due today, and since I&rsquo;m pretending to still be a university student I suppose I&rsquo;d better do it.
@@ -1000,7 +876,97 @@ I spend a lot of time thinking about what the hell I&rsquo;m doing with my life,
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/tags/">Tags</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/tags/2019/">2019</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -1012,8 +978,7 @@ I spend a lot of time thinking about what the hell I&rsquo;m doing with my life,
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   <nav>
   <ul>
   
@@ -1114,13 +1079,84 @@ I spend a lot of time thinking about what the hell I&rsquo;m doing with my life,
 </nav>
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 

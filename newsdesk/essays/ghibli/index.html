@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir=>
+
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller.">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="A Universal Nostalgia" />
+<meta name="theme-color" content="#fefefe" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)"><meta property="og:title" content="A Universal Nostalgia" />
 <meta property="og:description" content="An essay on spatiality in the films of Studio Ghibli by Hobart Phillips, a utopian illustrator and storyteller." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://millmint.net/newsdesk/essays/ghibli/" /><meta property="article:section" content="newsdesk" />
@@ -14,24 +16,87 @@
 <title>A Universal Nostalgia | MillMint</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
-  <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.46208b9b6e399fe631c4555408e51ebab93d3761f5d61782bb230e199d5ab92a.js" integrity="sha256-RiCLm245n&#43;YxxFVUCOUeurk9N2H11heCuyMOGZ1auSo=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=">
+<script defer src="/en.search.min.02e4551ae07e493bf4481d3eab9808ae652580f16ab287e4babaa9c43453cf5c.js" integrity="sha256-AuRVGuB&#43;STv0SB0&#43;q5gIrmUlgPFqsofkurqpxDRTz1w="></script>
 
-  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
-  
+
+  <meta name="keywords" content="illustration, design, motion, utopia, utopianism, art, comics, comic, hobart, phillips, vekllei, millmint">
+<meta name="author" content="Hobart Phillips">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+<script async defer data-website-id="25469970-c415-4127-a639-e08b8d811e9f" src="https://stats.millmint.net/umami.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+<script>
+   var html = document.documentElement;
+   
+   if (localStorage.getItem('themeMode') == 'dark') {
+     html.setAttribute("data-theme","dark");
+   }
+   if (localStorage.getItem('themeMode') == 'light') {
+     html.setAttribute("data-theme","light");
+   }
+</script>
+
+
+<script>
+  window.addEventListener('load', function() {
+      document.querySelectorAll('header #TableOfContents a').forEach(function(a) {
+          a.addEventListener('click', function() {
+              document.querySelector('#toc-control').checked = false;
+          });
+      });
+  })
+</script>
+
+<style>
+
+.nav-up {
+  top: -40px;  
+}
+
+ 
+
+@media screen and (max-width: 56rem) {
+  #menu-control:checked ~ main .book-menu-overlay {
+      position: fixed;
+  }
+}
+</style>
+
+<link type="text/css" rel="stylesheet" href="/css/fonts.css" />
+<link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
+<link type="text/css" rel="stylesheet" href="/css/nav.css" />
+<link type="text/css" rel="stylesheet" href="/css/comments.css" />
+<script type="text/javascript" src="/js/nav.js"></script>
+
 </head>
-<body dir="ltr">
+
+<body dir=>
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      <div class="book-menu-content">
-        
+      
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>MillMint</span>
@@ -39,10 +104,30 @@ https://github.com/alex-shpak/hugo-book
 </h2>
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<div class="magic">
+<h3 style="font-size: 16px; margin-top: -10px; margin-bottom: 0px; color: var(--color-red);">スタジオミルミント</h3>
+</div>
+
+<div class="magic">
+   <div class="book-search">
+     <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="book-search-spinner hidden"></div>
+     <ul id="book-search-results"></ul>
+   </div>
+   <div class="js-toggle-wrapper">
+     <div class="js-toggle">
+         <div class="js-toggle">
+             <div class="js-toggle-track-check">
+                 <p style="font-family: Whirlybats; font-size:30px; margin-top: 1.25rem; margin-right: 10px;" class="emoji" id="whirlybat">ó</p>
+             </div>
+             <div class="js-toggle-track-x">
+                 <p style="font-family: Whirlybats; font-size:22px; margin-top: 1.25rem; margin-left:5px;" class="emoji" id="whirlybat">3</p>
+             </div>
+         </div>
+       <div class="js-toggle-thumb"></div>
+       <input class="js-toggle-screenreader-only" type="checkbox" aria-label="Switch between Dark and Light mode">
+     </div>
+   </div>
 </div>
 
 
@@ -135,7 +220,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-7f990f1ffaa514438063c90db67df1cb" class="toggle"  />
     <label for="section-7f990f1ffaa514438063c90db67df1cb" class="flex justify-between">
-      <a role="button" class="">Culture</a>
+      <a  class="">Culture</a>
     </label>
   
 
@@ -182,7 +267,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-f70be919e102c45cc76dc3b2288e7c76" class="toggle"  />
     <label for="section-f70be919e102c45cc76dc3b2288e7c76" class="flex justify-between">
-      <a role="button" class="">Landscape</a>
+      <a  class="">Landscape</a>
     </label>
   
 
@@ -221,7 +306,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-645f4ea4f02611b1dfedfc15533bae03" class="toggle"  />
     <label for="section-645f4ea4f02611b1dfedfc15533bae03" class="flex justify-between">
-      <a role="button" class="">Society</a>
+      <a  class="">Society</a>
     </label>
   
 
@@ -304,7 +389,7 @@ https://github.com/alex-shpak/hugo-book
   
     <input type="checkbox" id="section-be0d743ee98d1ead01ad7bad8eae54d3" class="toggle" checked />
     <label for="section-be0d743ee98d1ead01ad7bad8eae54d3" class="flex justify-between">
-      <a role="button" class="">Essays</a>
+      <a  class="">Essays</a>
     </label>
   
 
@@ -413,7 +498,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-
+<div class="js-toggle-wrapper" style="margin: auto;">
+  <button id="readermode" style="all: unset; cursor: pointer"><p class="emoji readermode" id="whirlybat">,</p></button>
+</div>
 </nav>
 
 
@@ -423,7 +510,6 @@ https://github.com/alex-shpak/hugo-book
 
 
  
-      </div>
     </aside>
 
     <div class="book-page">
@@ -529,7 +615,7 @@ This thesis was completed in partial fulfillment of Honours in a Bachelor of Med
 </div>
 <h2 id="abstract">
   Abstract
-  <a class="anchor" href="#abstract">#</a>
+  <a class="anchor" href="#abstract">¶</a>
 </h2>
 <blockquote class="book-hint panel">
   <div style="color: var(--body-font-color)">
@@ -543,7 +629,7 @@ his thesis looks to argue for the value of spatiality in several films of the St
 
 <h2 id="introduction">
   Introduction
-  <a class="anchor" href="#introduction">#</a>
+  <a class="anchor" href="#introduction">¶</a>
 </h2>
 <blockquote>
 <p><em>Space. The continual becoming: invisible fountain from which all rhythms must flow and to which they must pass. Beyond time or infinity.</em></p>
@@ -556,14 +642,14 @@ he magic of the moving image reveals just how good our brains are at producing s
 <p>The question, then is not of Ghibli’s relevance to Western media scholarship, but the argument of spatial and utopian dimensions in its work. ‘Utopia’ is a deeply loaded, politicised term, but I would argue that it is not necessarily the case that Ghibli is advocating political interests. Although utopia is political and these spaces are quite often political, the presence of politics does not necessarily render a text categorically “political”. I think the films represented in this thesis advocate dimensions of the dreams of their creators (who, in the subsequent chapters are Hayao Miyazaki<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> and Isao Takahata), and although these dreams are bound to these directors and their environments, they also invoke emotional and personal spaces too. This multidimensionality is part of the depth that characterises the studio’s work, and so I would caution the presence of a utopian framework as an indictment of these films as fundamentally political.</p>
 <h3 id="social-dreams-and-imagined-communities">
   Social Dreams and Imagined Communities
-  <a class="anchor" href="#social-dreams-and-imagined-communities">#</a>
+  <a class="anchor" href="#social-dreams-and-imagined-communities">¶</a>
 </h3>
 <p>Although what constitutes a ‘utopia’ is applied more broadly in utopian frameworks than in popular imagination, the basic premise is the same — utopias are imaginary worlds that reflect some part of a worldview, inspired by contemporaneous circumstances. They can be good places, called <em>eutopia</em>, or bad places, known as <em>dystopia</em>, but at their core they are grounded in the perspective of their creator (Sargent, 1994). A utopian framework, as it applies to Ghibli, seeks out these perspectives through textual analysis, and by situating statements and published opinions of the creator against their texts. This allows a better understanding of these films among their contemporary cinema landscape, and helps situate them not just as stories but as texts in themselves historically. Utopian frameworks illustrate new dimensions to placing and understanding individual moments and scenes in films, as well as clarify the context and history of a work in broader analysis of its genre.</p>
 <p>Whereas utopian frameworks examine texts as objects of context, literary spatiality is concerned primarily with how space and landscape are depicted on a functional level (Tally, 2013). In Ghibli’s case, space is often depicted through detailed watercolour background plates, and the study of spatiality scales cleanly here between individual shots, scenes and broader conceptual linkages of space and time. These spaces hold specific cultural implications, as well as contribute to narratives through the automatic transcendental ‘cartography’ audiences produce as they navigate a fictional world.</p>
 <p>Ghibli’s house style for background art is painterly, saturated, and consistently detailed. This lends to a beautified landscape that, through the talent of the artist, renders even the most dismal, industrial backgrounds in a warm picturesque light. It is easy to imagine how this phenomenon has implications for <em>space</em>, and with <em>space</em> arrive questions of cartography, or how space is mapped in the mind (Tally 2013, p. 2). Indeed, the idea of a ‘map’ is a good analogy for the way in which our minds process space in imaginary worlds in linear narratives. Spatiotemporality exists on a foundational level beneath abstracted narrative textual ideas, and is alive in its relationships to other spaces and the order in which they’re presented. This ‘spatial turn,’ as it’s often called (Warf and Arias, 2008), allows us to examine landscape not just as coded cultural vessels in themselves (as products of culture), but as stories in themselves, through their arrangement and depiction in texts.</p>
 <h3 id="an-argument-for-spatiality">
   An Argument for Spatiality
-  <a class="anchor" href="#an-argument-for-spatiality">#</a>
+  <a class="anchor" href="#an-argument-for-spatiality">¶</a>
 </h3>
 <p>To apply this in a tangible cultural space, we can look to Kojin Karatani, the multidisciplinary Japanese scholar minimised here as a literary critic, who interrogated epistemically this ‘spatial turn’ in his seminal 1996 book <em>Origins of Modern Japanese Literature</em>. His work provided a foundation for the epistemological births of various ‘landscapes’ in the chaotic Meiji period, during which Japan rapidly Westernised in the mid-19th century. Karatani documents exhaustively the origins of new literary artefacts that usurped and obscured prior Japanese cultural institutions, including depictions of Landscape, the discovery of Interiority, the discovery of the Child, and so on. These concepts in themselves constitute spaces; landscape through its obvious physicality, interiority through its private subjectivity, and the Child through its relationship with cultural assumptions of life-stages and life-spans. It is precisely this work that informs the titles of each section in this thesis, loosely grouping disparate films together against their relevance to these cultural vessels. More critically, Karatani observes the introduction if these concepts as a profound and irreversible shift in the way stories were told, as placeless pictographic poetry was abandoned for the modern novel (pp.45-53) and nature was, for the first time, described in terms of literalist, real physical place rather than transcendental terms (pp.19-26). This is the “discovery” of Landscape — a word that here describes not the ability to see place but the <em>emergence</em> of real place as a distinct, alien other. In other words, Japan’s great ‘spatial turn’.</p>
 <p>Within the concern of this thesis then, these valuable textual signifiers are used in a broader argument for Ghibli’s overall relevance as an animation house of “great cinematic spaces.” This will be accomplished in a somewhat multidisciplinary approach involving both the aforementioned utopian and spatial frameworks, and will move vertically between traditional textual analysis and broader efforts at recognising and categorising generic trends and leitmotifs within the Ghibli catalogue, and their distinguishing spatial qualities as cultural vessels. This necessarily recalls a transnational paradigm, at least partially, since (like much of English-language Ghibli scholarship) the ‘universal nostalgia’ described here and in the title of this paper is founded in my own experiences with these films in a Western cultural context. It is only appropriate then that care is given to situate these films historically and in the contexts of their filmmakers, in the tradition of both frameworks outlined so far.</p>
@@ -578,11 +664,11 @@ he magic of the moving image reveals just how good our brains are at producing s
 <p>In summary, we can see in this introduction the foundations of a multidisciplinary analysis, blurring textual analysis and analysis of contexts within well-documented utopian and spatial epistemologies. There is perhaps no better case study in Japanese cinema presently than that of Ghibli’s catalogue, navigating in the rare vertices of artfulness and textual depth with approachability and mainstream success. Spatiality and time; body and interiority; memory and metaphysic — these are the foundations of social dreaming, and within the rich visuality of the animated medium, in which all frames and shots are designed and nothing is simply a “background,” utopian spatiality provides an excellent foundation upon which to explore these films.</p>
 <h2 id="1-spatiality-and-abstraction">
   1. Spatiality and Abstraction
-  <a class="anchor" href="#1-spatiality-and-abstraction">#</a>
+  <a class="anchor" href="#1-spatiality-and-abstraction">¶</a>
 </h2>
 <h3 id="landscape-in-miyazakis-my-neighbour-totoro">
   Landscape in Miyazaki’s <em>My Neighbour Totoro</em>
-  <a class="anchor" href="#landscape-in-miyazakis-my-neighbour-totoro">#</a>
+  <a class="anchor" href="#landscape-in-miyazakis-my-neighbour-totoro">¶</a>
 </h3>
 <p><span class="fc">I</span>
 f there is a single film of concern in this thesis that demonstrates a utopian, spatial dialectic within the films of Studio Ghibli, it is here, in 1988’s <em>My Neighbour Totoro</em>. The film showcases the dislocation of space common in Miyazaki’s work, and indicates at face value a landscape that transcends Miyazaki’s own lifetime as a sort of cross-generation nostalgia. So there is this contradiction, as is common in Miyazaki’s great stories, between progress and the past. This idea probably does not strike the reader as particularly novel — environmentalism and balance is an obvious theme common throughout the broader Ghibli catalogue — but “progress” and “conservation” here are not situated in the context of the film’s release, nor are they broader gestures at grand ideas about the future and past. Rather, they are symptoms of the tension between ‘old ways,’ characterised by social community, locality and land dependence, and a plastic, uncertain modernity. Miyazaki describes <em>My Neighbour Totoro</em> as taking place in 1955, or thereabouts, but acknowledges that “what [the production staff] had in mind was a ‘recent past’ that everyone could relate to” (VIZ, 2005). He reinforces this point by describing his deliberate exclusion of personal nostalgia during the film in his semiautobiographical work <em>Starting Point</em> (2009, p. 355). In another interview, Miyazaki remarked:</p>
@@ -616,7 +702,7 @@ f there is a single film of concern in this thesis that demonstrates a utopian, 
 <p>And so there is a tension here — perhaps, even a proud contradiction — that exemplifies the richness of spirit in Miyazaki’s work. On one hand, there is the film’s undeniable contexts, founded deep in Miyazaki’s personal and political stories, and there is also the film’s wonderful demolition of such matters in place of a fictional, if Japanese, universality; a transnational appeal that sees this film delighting people across the world. That audience scalability, between local, regional and international viewing, is a recurring feature of Ghibli’s catalogue, and testifies to the underlying spatial and utopian vision’s widespread appeal.</p>
 <h3 id="old-europe-and-prewar-nostalgia-in-kikis-delivery-service">
   ‘Old Europe’ and prewar nostalgia in Kiki’s Delivery Service
-  <a class="anchor" href="#old-europe-and-prewar-nostalgia-in-kikis-delivery-service">#</a>
+  <a class="anchor" href="#old-europe-and-prewar-nostalgia-in-kikis-delivery-service">¶</a>
 </h3>
 <p><span class="fc">U</span>
 sing <em>My Neighbour Totoro</em> as a metric for spatiotemporal discussion in Ghibli, the next film arranged here marks a shift from the overt spatial questions of heavy concerns in literary history and metaphysics, towards the world of temporality, witchy semiotics and the delight of domestic fantasy. <em>Kiki’s Delivery Service</em>, released a year after <em>Totoro</em> in 1989, is one of Ghibli’s ‘European adventures,’ a legacy traced all the way back to Miyazaki’s early work on <em>Heidi, a Girl of the Alps</em> in the 1970s (Le Blanc &amp; Odell 2019, p. 29). In many ways, it is a suitable film to elaborate and build upon the concepts discussed in the previous section, for <em>Kiki’s Delivery Service</em>, like <em>My Neighbour Totoro</em>, is quite easily characterised as the same alt-history “what-if” paradigm, displaced and rebuilt in a fictional European setting. Kiki, a young witch leaving home for the first time to develop her powers, finds her enemies not to be evil wizards of ancient evils, but self-doubt, money and loneliness. This marks what should be considered a critical shift in this ‘witch story’; its introduction to a domestic, personal space that appeals to both emotional narratives of development and self-discovery, and the petty fantasy of ‘small magic’ in an otherwise ordinary setting. Kiki does not wield tremendous magic power capable of altering history, either local or worldly — she accomplishes that instead through her character and relationships.</p>
@@ -650,11 +736,11 @@ sing <em>My Neighbour Totoro</em> as a metric for spatiotemporal discussion in G
 <p>Consolidating the spatial turn of both <em>Totoro</em> and <em>Kiki</em>, linked in this argument by their mutual depictions of ‘lost pasts,’ is the universalising power of reigning in the ‘fantastical’ (i.e. witches and forest spirits) with utopian thinking, drawn from the real world. This fascination with the interplay of the fantastic and the mundane extends well beyond the story of our girl protagonists — it is reproduced throughout these worlds, colliding their real-world contexts with nostalgic whimsy resurrected by proxy through the studio’s more fantastic elements — forest trolls and flying broomsticks. This is how a village amidst Japan’s great economic miracle, a time dominated by urbanisation, deforestation and consumerism, is resurrected in <em>My Neighbour Totoro</em> as a sort of utopian ‘no-place,’ colliding pre-Meiji intuition (Karatani 1993) with telephones and trolley cars. Similarly, this is how a European seaside town, fresh out of the First World War and awaiting a brutal resurgence of violence in the ‘Age of Frustration<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>,’ is resurrected in <em>Kiki’s Delivery Service</em> as a tranquil old-world theatre of European architecture, home to zeppelins and witches alike. Alternative histories are not simply spaces of the past, but in fact vessels of the present recreated elsewhere; displaced and transcendent. That is how Studio Ghibli reproduces conventional space in a utopian fashion.</p>
 <h2 id="2-interiority-and-reproduction">
   2. Interiority and Reproduction
-  <a class="anchor" href="#2-interiority-and-reproduction">#</a>
+  <a class="anchor" href="#2-interiority-and-reproduction">¶</a>
 </h2>
 <h3 id="memory-and-agrarianism-in-only-yesterday">
   Memory and Agrarianism in Only Yesterday
-  <a class="anchor" href="#memory-and-agrarianism-in-only-yesterday">#</a>
+  <a class="anchor" href="#memory-and-agrarianism-in-only-yesterday">¶</a>
 </h3>
 <p><span class="fc">T</span>
 here is perhaps no finer testament to the specialness of the films of Studio Ghibli and Isao Takahata than 1991’s <em>Only Yesterday</em>. It is a film unique in the landscape of animated cinema. It is a sensitive depiction of womanhood in Japanese society, filled with muddy emotion and bittersweet moods usually reserved for live action feature films. <em>Only Yesterday</em> is strikingly empathetic and restrained in its representation of all parts of protagonist Taeko’s life. The people of her memories are complex, and her recollections of childhood are joyful, curious, mundane and occasionally heartbreaking. This is a film that could not exist in the mainstream animation culture of the U.S., but in Japan it was the highest-grossing domestic film of 1991. A film that typifies of Takahata’s experimental oeuvre, <em>Only Yesterday</em> forces the casual viewer to reassess assumptions about what sort of stories animation is able to tell. It is delicate, contemplative and nostalgic in a medium dominated by films that are usually exhilarating, fantastic and whimsical. This approach creates unique landscapes previously undiscussed in Ghibli’s cinema catalogue, and so argument for their relevance will be made here. This includes multidimensional spaces that are included in the themes of the film as well as more literally in Takahata’s approach to filmmaking itself. There obvious contrasts in the film — between agrarian and urban living, and memory and the present, each of which develop their own rich spaces. Takahata’s pioneering approach towards the actual mechanisms of Japanese animation push this analysis further, however — and we’ll have a look at the creative ways he illustrates these worlds.</p>
@@ -693,11 +779,11 @@ here is perhaps no finer testament to the specialness of the films of Studio Ghi
 <p>In the context of this essay’s total argument, then, we see <em>Only Yesterday</em> advocate Ghibli’s spaces in two places — first in memory, in the dichotomy of childish abstraction and mature naturalism, and then in physicality, in Ghibli’s environmentalist leitmotifs — expressed commonly as a New Japan/Old Japan anxiety. <em>Only Yesterday</em>, like almost all of Takahata’s films, experiments with the format and style of animation to better express the function and mechanics of thematic or story concern, which marks a departure in the body of this thesis from Miyazaki’s unwavering orthodoxy to the Ghibli “house style”. This affords him a pleasant abstraction, not just in <em>Only Yesterday</em> but across his filmography, that is not usually present in Miyazaki’s more fantastic, but literal, filmmaking. In a paper concerned with spaces and their representation, Takahata takes an artistic wrench to a cohesive characterisation to Ghibli’s spatiality, and films precluded from this argument, including the likes of <em>Pom Poko</em> and <em>My Neighbours the Yamadas</em> might threaten to collapse it entirely, outliers as they are. <em>Only Yesterday</em>, however, and his 1988 film <em>Grave of the Fireflies</em> (which this this paper will look at in the next section) represent novelistic filmmaking that expands the conventions of cinema, and critical to the concern of this essay, the methods in which the studio’s worlds are constructed and depicted</p>
 <h2 id="3-childhood-and-historicism">
   3. Childhood and Historicism
-  <a class="anchor" href="#3-childhood-and-historicism">#</a>
+  <a class="anchor" href="#3-childhood-and-historicism">¶</a>
 </h2>
 <h3 id="love-and-whimsy-in-whisper-of-the-heart">
   Love and Whimsy in Whisper of the Heart
-  <a class="anchor" href="#love-and-whimsy-in-whisper-of-the-heart">#</a>
+  <a class="anchor" href="#love-and-whimsy-in-whisper-of-the-heart">¶</a>
 </h3>
 <p><span class="fc">N</span>
 ow far from the fantastical images of a ‘lost past’ in <em>Kiki’s Delivery Service</em> and <em>My Neighbour Totoro</em>, we arrive in <em>Whisper of the Heart</em> at the urban heart of Tokyo in the midst of the Japan&rsquo;s ‘Lost Decade,’ a setting close to home for the contemporaneous Japanese audience that saw it in cinemas in 1995. This section also marks an interesting shift in this paper&rsquo;s textual analysis, from the imagined to the ‘real’: places that you can ostensibly identify upon a map and — as demonstrated in this chapter — visit for yourselves. In this chapter, we’ll look at Ghibli’s depiction of time and childhood within spaces and dreams, and how they interact and play with the real world</p>
@@ -705,23 +791,23 @@ ow far from the fantastical images of a ‘lost past’ in <em>Kiki’s Delivery
 <p>The manga on which the film is based (of the same name) prioritises the relationship between Shizuku, Seiji, and a third fellow student as part of a love triangle common in <em>Shojo</em> manga. In Miyazaki’s hands, however, the film presents Shizuku as an independent spirit, following her heart on a journey of self-confidence and discovery alongside, rather than because of, Seiji. In the context of the severe recession underway in Japan at the time, their creative ambitions are strikingly brave, and describe a circumstance that was undoubtedly relevant to young Japanese contemplating their futures in 1995.</p>
 <p>Within the film, however, the asset bubble and stock market crash couldn’t be further away, as a more domestic conflict within a middle-class family plays out. Shizuku’s parents are scholarly (a common trope within Ghibli’s catalogue) — her father works at the local municipal library and her mother studies at university. Since her sister, with whom she shares a room for the first part of the film, is also a university student, Shizuku is a somewhat independent figure. It is possible that her bookishness is inherited at least in part from her parents. Her life is spread across Tama, commuting to and from school and her father’s library, as well as the commercial heart of her hometown. Hills are a characteristic feature of the area, and the film depicts curving roads, vast concrete retaining walls and steep staircases throughout.</p>
 <div class="book-columns flex flex-wrap">
-
+  
   <div class="flex-even markdown-inner">
-    <p><img src="/images/media/heart-1-1.png" alt="img" /></p>
+    <p><img src="/images/media/heart-1-1.png" alt="img"></p>
 <blockquote class="book-hint caption">
   <strong>Fig. 4.1</strong> <em>Shizuku crosses a curved street in Tamagawa</em>
 </blockquote>
 
   </div>
-
+  
   <div class="flex-even markdown-inner">
-    <p><img src="/images/media/heart-1-2.jpg" alt="img" /></p>
+    <p><img src="/images/media/heart-1-2.jpg" alt="img"></p>
 <blockquote class="book-hint caption">
   <strong>Fig. 4.2</strong> <em>The same curved street (own work)</em>
 </blockquote>
 
   </div>
-
+  
 </div>
 
 <p><em>Whisper of the Heart</em> makes full use of the Tamagawa suburb in Tokyo, employing locations in all manner of spatial functions. Shizuku finds herself exploring parts of these hills, and we explore with her — where conventional filmmaking intuition would merely cut between locations, Kondō (and also screenwriter Hayao Miyazaki, who drafted the storyboards) use a practice common among Ghibli films in which the journey is presented in part or in full, allowing audiences to map recurring spaces in the film. These are thoroughly immersive journeys, with detailed views into the outside world as they whiz by on trains or on bicycles. Weedy (2018) calls this approach “perceptual modulation,” and recalls Miyazaki’s invocation of Ma as its reason for being, arguing that:</p>
@@ -730,45 +816,45 @@ ow far from the fantastical images of a ‘lost past’ in <em>Kiki’s Delivery
 </blockquote>
 <p>This approach also means most viewers will cultivate a basic understanding of Tamagawa — and by extension, the anchors of Shizuku’s life — through the relationship of these spaces with Shizuku and with each other. This approach also has a dramatic effect on the pacing of the film, which Miyazaki identified above as <em>Ma</em> in an interview with critic Roger Ebert. “Emptiness,” Miyazaki said. “It’s there intentionally” (Ebert, 2002). He proceeds to distinguish it from <em>Makurakotoba</em>, or “pillow words,” found in Japanese poetry, since Ma describes the ‘negative space’ or ‘emptiness’ of a scene, both physically and conceptually. In these contexts, the depiction of a journey — consuming money and time to animate — are clearly important parts of pacing and storytelling and help to provide breathing room between scenes. They also provide a physical dimension between locations, even if their specifics remain vague — we might not know for how long the train runs, or which stations she boards and alights, but we understand that her home and the library are linked together by a short walk and a train trip. This map helps illustrate what should be an abstract, alien series of places by their relationship to each other and Shizuku, reorganising them spatially.</p>
 <div class="book-columns flex flex-wrap">
-
+  
   <div class="flex-even markdown-inner">
-    <p><img src="/images/media/heart-2-1.png" alt="img" /></p>
+    <p><img src="/images/media/heart-2-1.png" alt="img"></p>
 <blockquote class="book-hint caption">
   <strong>Fig. 4.3</strong> <em>Shizuku sits at a shrine after school with a friend</em>
 </blockquote>
 
   </div>
-
+  
   <div class="flex-even markdown-inner">
-    <p><img src="/images/media/heart-2-2.jpg" alt="img" /></p>
+    <p><img src="/images/media/heart-2-2.jpg" alt="img"></p>
 <blockquote class="book-hint caption">
   <strong>Fig. 4.4</strong> <em>The same shrine (own work)</em>
 </blockquote>
 
   </div>
-
+  
 </div>
 
 <p>The film is set in and inspired by Tamagawa — centred on the Seiseki Sakuragaoka station on the Keio Line specifically — and many locations depicted in the film are inspired by locations in this area. In this sense, there are two places that appear simultaneously in the film. To those that are familiar with the local area, the film faithfully recreates and depicts the landscape and architecture of Tamagawa, with all its local history — from its origins in the rapid expansion of Tokyo suburbia in the ‘60s, to its Keio line station and commercial surrounds. To those unfamiliar with Tamagawa, these places transcend their real-world origins and become fantasy, drawing more broadly on concepts of ‘life in Japan’. A foreigner may not recognise Shizuku’s <em>Danchi</em> as a postwar public housing initiative common to the Tokyo metro area, but they may very well recognise her apartment lifestyle and the concrete structure’s open-air staircase to be ‘Japanese.’ In this sense, there is a Shizuku of Tamagawa, a Shizuku of Japan, and perhaps even Shizuku of universal adolescence, with the specificity of her environs and circumstance irrelevant to the broader narrative strokes of the film.</p>
 <p>In typical Ghibli fashion, there is an obvious presence of this ‘universal Shizuku,’ even within this deeply Japanese film. Most obviously, there is mention of Seiji’s interest in a traditionally European craft (violin making) and his ambitions to study under an expert in Italy. More broadly, however, the recession that devastated Japan’s ‘economic miracle’ during production is replaced by broader gestures towards familial concern and adolescent uncertainty, requiring Shizuku to draw upon confidence in herself and her ability to justify her departure from the “usual path”. She has noble and disarmingly charming literary ambitions in an education system that prioritises test-taking and academic performance, and weighing her dreams against family and society are at the heart of the themes of this film. Shizuku’s parents, while hesitant and concerned for her wellbeing, are supportive of her ambitions and largely defy stern, conservative Japanese stereotyping (Nakayama 2014, pp.17-19), allowing Shizuku’s circumstance to transcend Tamagawa and Japan. These are the “shared cultural codes” described by Frans Mäyrä (2010, p. 38), who recognised Ghibli’s propensity to demonstrate “contemporary global concerns” that are “readily available as a cultural dialectic for the future.”</p>
 <div class="book-columns flex flex-wrap">
-
+  
   <div class="flex-even markdown-inner">
-    <p><img src="/images/media/heart-3-1.png" alt="img" /></p>
+    <p><img src="/images/media/heart-3-1.png" alt="img"></p>
 <blockquote class="book-hint caption">
   <strong>Fig. 4.5</strong> <em>A Keio EMU pulls into Seiseki-sakuragaoka station</em>
 </blockquote>
 
   </div>
-
+  
   <div class="flex-even markdown-inner">
-    <p><img src="/images/media/heart-3-2.jpg" alt="img" /></p>
+    <p><img src="/images/media/heart-3-2.jpg" alt="img"></p>
 <blockquote class="book-hint caption">
   <strong>Fig. 4.6</strong> <em>The same station (own work)</em>
 </blockquote>
 
   </div>
-
+  
 </div>
 
 <p>This is perhaps symbolised best by the film’s use of ‘Country Roads’ by John Denver, which is referenced throughout the film and finally sung during the climax of the film — a concept which, to West Virginians, might seem delightfully absurd. Walter Chaw for <em>Film Freak Central</em> expressed this colourfully, writing in his review:</p>
@@ -779,7 +865,7 @@ ow far from the fantastical images of a ‘lost past’ in <em>Kiki’s Delivery
 <p>Perhaps, throughout the Ghibli catalogue, there is no better representation of how wildly different cultural spaces interact and fuse into new immersive experiences — in the same way that Tamagawa for many Westerners is now illustrated by the beautiful watercolours of the film’s backgrounds, perhaps the song ‘Country Roads’ for Japanese audiences in 1995 recalls not American mountains but Japanese hills. This is whimsy at its finest, as a great equaliser — and represents Ghibli’s ability to resonate internationally, even within films of real physical location. And it is precisely in this displacement of location and meaning that <em>Whisper of the Heart</em> reveals the importance of ‘subconscious cartography’ in these worlds, especially in unfamiliar places.</p>
 <h3 id="mortality-and-innocence-in-grave-of-the-fireflies">
   Mortality and Innocence in Grave of the Fireflies
-  <a class="anchor" href="#mortality-and-innocence-in-grave-of-the-fireflies">#</a>
+  <a class="anchor" href="#mortality-and-innocence-in-grave-of-the-fireflies">¶</a>
 </h3>
 <p><span class="fc">G</span>
 <em>rave of the Fireflies</em> originally released in Japan as a double feature, accompanying <em>My Neighbour Totoro</em> to cinemas. At first, this practice may strike someone familiar with both films as totally bizarre — <em>Grave of the Fireflies</em> has been characterised as a Japanese “Schindler’s List” and <em>My Neighbour Totoro</em> is associated most commonly with wholesome, family cinema and came to define Ghibli’s universal nostalgia. In fact, the decision to play them back-to-back urged Phillip Wegner in part to theorise <em>My Neighbour Totoro</em> as an alternate history dream that contrasts the brutal naturalism of <em>Grave of the Fireflies</em>:</p>
@@ -819,7 +905,7 @@ ow far from the fantastical images of a ‘lost past’ in <em>Kiki’s Delivery
 <p>To close the argument portion of this thesis, it seems appropriate to draw parallels between <em>Grave</em> and its sister film <em>Totoro</em> through Karatani’s initial observation on the upheaval of the old, transcendental understanding of landscape. It is easy enough to draw parallels between <em>Grave’s</em> retreat from society and <em>Only Yesterday’s</em> similar modern phobias. More critically, considering their cinema pairing, consider how aspects of <em>Grave’s</em> landscape mirrors <em>Totoro’s</em> own pleasure amidst the trees; particularly the scenes in which Satsuko plays and acts out adult chores around their abandoned shelter. Wegner (2010) also draws parallels between the shelter the natural world provides in <em>Totoro</em>, nurturing the girls, and <em>Grave’s</em> “fully objectified mute landscape, [which] appears glacially indifferent to their suffering.” Their shelter sits on a lake, across from where large country houses look over the surrounding countryside. There is some fantasy at play here, between the misery and rationing of the Japanese society and the freedom and peacefulness of the shelter. Of course, the children never really escape from the war-world — they become increasingly dependent on it, as Setsuko’s health deteriorates. These desperate scenes starkly contrast the peaceful and intuitive relationship between person, agriculture and wilderness depicted in <em>Totoro</em>, and constitutes a dystopia that inverts several the picturesque, utopian deconstructions of modernity argued for in this paper’s first chapter. This is a good way of demonstrating the <em>complementary</em>, rather than <em>antagonistic</em> nature of the utopia/dystopia paradigm: we can trace the ‘social dream’ in both, precisely because of their opposing thematic constructions — dystopia is most commonly an inversion, rather than a subversion, of the utopian social dream (Wegner 2002). The dream may be different — Takahata clearly outlines a dialogue between the youth of consumer society and the abstract suffering of the war years at the beginning of this chapter — but as a double-feature, and as a text preceding <em>Totoro’s</em> ‘50s pacifism, <em>Grave’s</em> haunting echoes of the past reflect a radically different visions of Japan&rsquo;s 20th-century landscape.</p>
 <h2 id="4-conclusion">
   4. Conclusion
-  <a class="anchor" href="#4-conclusion">#</a>
+  <a class="anchor" href="#4-conclusion">¶</a>
 </h2>
 <p><span class="fc">A</span>
 lthough the five films pulled from Studio Ghibli’s thirty-year “golden age” might seem to constitute a varied selection of cinema, reflection on the arguments made across the five texts suggest their appropriateness for use here as elements of a single argument — what components of Ghibli’s spatiality contribute to its importance in ongoing analysis into animation? Each film offers a unique dimension of spatial thinking, and helps build a portfolio of texts that testify Ghibli’s strength in depicting and moving around landscapes.</p>
@@ -834,11 +920,11 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
 <p>I think that this is among the studio’s greatest strengths as an animation studio, in a medium that by its nature celebrates landscape. There is nothing left to chance in animation; everything must be built. In this sense, it represents an outstanding medium for social dreaming; a vicarious celebration of architecture, nature, infrastructure and domesticity — the places that are the building blocks of ‘social dreams’. With Ghibli, we see this repeatedly. We see it in the abstract, as whimsical alt-history and domestic play-fantasies within fictitious, beautifully-created watercolour landscapes. We see it in the interiority of its characters, which break down temporality and use it to inject reflection and memory into literal space. We see it in the reproduction of historical settings used to communicate the atmosphere and iconography of previous ages, and retell the truths of their time. We see it in the way Ghibli’s spaces create transcendental images of the real world in ways that can universalise and beautify it, or to produce a dialogue with contemporary audiences and the past. These distinctive, sensitive and beautifully-depicted spaces are, for me, a significant component of the total value of Studio Ghibli’s body of work, and demonstrate the importance of animated stories not just as beautiful pictures, but immersive living spaces that affect the modality and linearity of filmmaking. This intersection of world-making, illustration and the mechanisms of film is unique to animation, and Studio Ghibli provides new and rich insights into this emerging spatial conversation across several overlapping disciplines. This represents an exciting dialogue for the future of animation study, and the multiple spatial dimensions of Studio Ghibli’s filmography represent a unique and deeply engaging contribution to animated cinema.</p>
 <h3 id="cited-works">
   Cited Works
-  <a class="anchor" href="#cited-works">#</a>
+  <a class="anchor" href="#cited-works">¶</a>
 </h3>
 <h4 id="filmography">
   Filmography
-  <a class="anchor" href="#filmography">#</a>
+  <a class="anchor" href="#filmography">¶</a>
 </h4>
 <p><em>Grave of the Fireflies</em> (1988). Directed by I. Takahata. Japan: Studio Ghibli.</p>
 <p><em>Kiki’s Delivery Service</em> (1989). Directed by H. Miyazaki. Japan: Studio Ghibli.</p>
@@ -847,7 +933,7 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
 <p><em>Whisper of the Heart</em> (1995). Directed by Y. Kondō. Japan: Studio Ghibli.</p>
 <h4 id="reference-list">
   Reference List
-  <a class="anchor" href="#reference-list">#</a>
+  <a class="anchor" href="#reference-list">¶</a>
 </h4>
 <p>Aguilar, C., 2016. ‘Studio Ghibli&rsquo;s Geoffrey Wexler Talks Dubbing Takahata&rsquo;s Undubbable “Only Yesterday”’. <em>Indiewire</em>, [online]. <a href="https://www.imdb.com/news/ni59488166">Available here</a>. [Accessed 30 Sep. 2020].</p>
 <p>Akimoto, D., 2013. &lsquo;Miyazaki’s new animated film and its antiwar pacifism: The Wind Rises (Kaze Tachinu)’. <em>Ritsumeikan Journal of Asia Pacific Studies</em>, 32, pp.165-167.</p>
@@ -884,7 +970,7 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
 <p>Wood, C., 2008. ‘The European Fantasy Space and Identity Construction in Porco Rosso’. <em>Post Script-Essays in Film and the Humanities</em>, 28(2), pp.112-120.</p>
 <h3 id="notes">
   Notes
-  <a class="anchor" href="#notes">#</a>
+  <a class="anchor" href="#notes">¶</a>
 </h3>
 <section class="footnotes" role="doc-endnotes">
 <hr>
@@ -923,7 +1009,104 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
 
 
  
-        
+        <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+<li>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/newsdesk/">Newsdesk</a>
+</li>
+
+
+<li>
+    <a href="https://millmint.net/newsdesk/essays/">Essays</a>
+</li>
+
+
+<li class="active">
+    <a href="https://millmint.net/newsdesk/essays/ghibli/">A Universal Nostalgia</a>
+</li>
+
+</ul>
+
+
+<div id="gitalk-container"></div>
+<script>
+  const gitalk = new Gitalk({
+	clientID: 'ee5c5c832ce3976fce7c',
+	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+	repo: 'comments',      
+	owner: 'MelonKony',
+	admin: ['MelonKony'],
+	id: location.pathname,      
+	distractionFreeMode: false  
+  })
+  
+  gitalk.render('gitalk-container')
+  </script>
+
+<p style="text-align: center; font-size:10pt; margin-top: 1.5rem; margin-bottom: 0.5rem;">All Rights Reserved © <a href="/"><b style="color: var(--body-font-color);">MillMint</b></a> 2017-2021.</p>
+<style>
+	 
+	.dot-orange {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-orange);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-pink {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-pink);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-yellow {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-yellow);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-green {
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-green);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+	.dot-blue{
+		  height: 8px;
+		  width: 8px;
+		  background-color: var(--color-blue);
+		  border-radius: 50%;
+		  display: inline-block;
+		  margin: 2.5px;
+		}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+
       </footer>
 
       
@@ -939,8 +1122,7 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
 
     
     <aside class="book-toc">
-      <div class="book-toc-content">
-        
+      
   
 <nav id="TableOfContents">
   <ul>
@@ -983,13 +1165,84 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
 
 
  
-      </div>
     </aside>
     
   </main>
 
-  
+  <script async="async">
+     var html = document.documentElement;
+     var switcher = document.getElementsByClassName('js-toggle')[0];
+     if(typeof(Storage) !== 'undefined') {
+         if (localStorage.getItem('themeMode') == 'dark' || document.documentElement.getAttribute('data-theme') == 'dark') {
+             switcher.classList.add('js-toggle--checked');
+         }
+         switcher.classList.add('js-toggle--focus');
+     }
+
+     
+     switcher.addEventListener("click", function() {
+             this.classList.toggle('js-toggle--checked');
+             this.classList.add('js-toggle--focus');
+             
+             if (this.classList.contains('js-toggle--checked')) {
+                 html.setAttribute("data-theme","dark");
+                 
+                 localStorage.setItem('themeMode', 'dark');
+             } else {
+                 html.setAttribute("data-theme","light");
+                 localStorage.setItem('themeMode', 'light');
+             }
+         })
+</script>
+
+
+<script>
+     $(document).ready(function() {
+            $("#readermode").on("click", function() {
+               $('aside nav ul').toggleClass("hidden");
+               $('.magic').toggleClass("hidden");
+               $('.book-brand').toggleClass("hidden");
+               $('.book-brand img').toggleClass("hidden");
+               $('#helptext').toggleClass("hidden");
+               $('.readermode').toggleClass("readermode-hidden");
+            })
+          })
+</script>
+
+<style>
+.hidden {
+     display: none;
+}
+
+.readermode {
+     font-family: Whirlybats;
+     font-size: 35px;
+     display: inline;
+     text-decoration: none;
+     text-align: center;
+}
+
+.readermode-hidden {
+     color: var(--color-gray);
+}
+
+@media screen and (max-width: 450px) {
+       .readermode {
+          display: none;
+       }
+     }
+
+button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: all 100ms ease-in-out;
+}
+
+ 
+</style>
+
 </body>
+
 </html>
 
 
