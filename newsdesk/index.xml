@@ -2,17 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsdesk on MillMint</title>
-    <link>https://millmint.net/newsdesk/</link>
+    <link>https://beta.millmint.net/newsdesk/</link>
     <description>Recent content in Newsdesk on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://millmint.net/newsdesk/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://beta.millmint.net/newsdesk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://millmint.net/newsdesk/about/</link>
+      <link>https://beta.millmint.net/newsdesk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/newsdesk/about/</guid>
-      <description>.markdown a { color: var(--color-indigo); } .markdown a.anchor { color: var(--color-indigo); } aside nav ul a { color: var(--color-indigo); } #headerbox .emoji { color: var(--color-indigo); }  About the Author v  CONTACT  Newsdesk ❖ If you&amp;rsquo;re looking to contact me, you can write to me here  Hobart Phillips (also known as MelonKony) is an Australian illustrator and writer living and working in Tasmania. He&amp;rsquo;s 23 and likes machines, midcentury architecture and Tasmania.</description>
+      <guid>https://beta.millmint.net/newsdesk/about/</guid>
+      <description>&lt;blockquote class=&#34;book-hint indigo&#34;&gt;
+  ❖ If you&amp;rsquo;re looking to contact me, you can &lt;strong&gt;write to me&lt;/strong&gt; &lt;a href=&#34;mailto:melonkony@icloud.com&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Hobart Phillips&lt;/strong&gt; (also known as &lt;strong&gt;MelonKony&lt;/strong&gt;) is an Australian illustrator and writer living and working in Tasmania. He&amp;rsquo;s 23 and likes machines, midcentury architecture and Tasmania. He&amp;rsquo;s a journalist by trade, but now works in illustration full-time.&lt;/p&gt;
+&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;h3 id=&#34;things-i-like&#34;&gt;Things I Like&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Thunderbirds&lt;/em&gt; (1965 series)&lt;/li&gt;
+&lt;li&gt;Studio Ghibli (&lt;a href=&#34;https://beta.millmint.net/newsdesk/essays/ghibli&#34;&gt;obviously&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jam_sandwich_(police_car)&#34;&gt;Jam Sandwich police livery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shōwa period Japan&lt;/li&gt;
+&lt;li&gt;Italian cars&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/0_Series_Shinkansen&#34;&gt;The Series-0 Shinkansen 🚅&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.woolworths.com.au/shop/productdetails/820196/woolworths-beef-sausage&#34;&gt;Snags&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beta.millmint.net/images/sailorzelda.jpg&#34;&gt;Sailor Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.musicauniversalis.space&#34;&gt;Mtirado&amp;rsquo;s wonderful work&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;h3 id=&#34;things-i-dont-like&#34;&gt;Things I Don&amp;rsquo;t Like&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Parsley&lt;/li&gt;
+&lt;li&gt;The C.I.A.&lt;/li&gt;
+&lt;li&gt;Bohos and beatniks&lt;/li&gt;
+&lt;li&gt;Fellas really into the Second World War&lt;/li&gt;
+&lt;li&gt;Emirates (the airline)&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+</description>
     </item>
     
   </channel>

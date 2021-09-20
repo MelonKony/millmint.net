@@ -2,48 +2,488 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drafts on MillMint</title>
-    <link>https://millmint.net/drafts/</link>
+    <link>https://beta.millmint.net/drafts/</link>
     <description>Recent content in Drafts on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://millmint.net/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://beta.millmint.net/drafts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro</title>
-      <link>https://millmint.net/drafts/archived/old-intro/</link>
+      <link>https://beta.millmint.net/drafts/archived/old-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/drafts/archived/old-intro/</guid>
-      <description>.markdown a { color: var(--color-pink); } .markdown a.anchor { color: var(--color-pink); } aside nav ul a { color: var(--color-pink); } #headerbox .emoji { color: var(--color-pink); }  Welcome to the Epoch of Rest S  UTOPIA  Introduction ߷ This article is about Hobart&amp;rsquo;s utopia, called Vekllei  1. What is this project? ¶  Utopia has a lot of definitions, but in the end it&amp;rsquo;s about what it feels like.</description>
+      <guid>https://beta.millmint.net/drafts/archived/old-intro/</guid>
+      <description>&lt;style&gt;
+.markdown a {
+color: var(--color-pink);
+}
+.markdown a.anchor {
+color: var(--color-pink);
+}
+aside nav ul a {
+color: var(--color-pink);
+}
+#headerbox .emoji {
+color: var(--color-pink);
+}
+&lt;/style&gt;
+&lt;div id=&#34;headerbox&#34;&gt;
+  &lt;h1 class=&#34;title&#34;&gt;Welcome to the Epoch of Rest&lt;/i&gt;&lt;/h1&gt;
+  &lt;h1 class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;S&lt;/h1&gt;
+&lt;/div&gt;
+&lt;h5 span class=&#34;tag pink&#34;&gt; UTOPIA &lt;/h5&gt;
+&lt;h6 span class=&#34;sitetag&#34;&gt;Introduction&lt;/h6&gt;
+&lt;p&gt;&lt;img src=&#34;https://beta.millmint.net/images/intro.gif&#34; alt=&#34;Intro GIF&#34;&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;book-hint pink&#34;&gt;
+  ߷ This article is about &lt;a href=&#34;https://beta.millmint.net/utopia/intro/#utopia-as-landscape&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s utopia&lt;/strong&gt;&lt;/a&gt;, called &lt;a href=&#34;https://beta.millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;1-what-is-this-project&#34;&gt;1. What is this project?&lt;/h2&gt;
+&lt;blockquote class=&#34;book-hint panel&#34;&gt;
+  &lt;strong&gt;Utopia&lt;/strong&gt; has a lot of definitions, but in the end it&amp;rsquo;s about what it feels like. It has to be personal, otherwise it isn&amp;rsquo;t all that different from sci-fi. So utopia is about what feels right by the metrics of one person; an expression of worldview.
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;fc&#34;&gt;V&lt;/span&gt;
+&lt;strong&gt;ekllei is supposed to be an &amp;lsquo;epoch of rest&amp;rsquo;&lt;/strong&gt;. It&amp;rsquo;s a project that&amp;rsquo;s become very big, with a long storyline and lots of characters, but at its heart this world is about peaceful escapism and whimsical nostalgia. This is a land of both plenty and pleasure, filled with the good and bad things of life, telling stories from a better place than our own.&lt;/p&gt;
+&lt;p&gt;Although a comic is on the way soon, for now Vekllei exists in snippets through self-contained posts, which you can find at the &lt;a href=&#34;https://beta.millmint.net/posts/&#34;&gt;Archive&lt;/a&gt;. This site also serves as a repository and archive for information about Vekllei.&lt;/p&gt;
+&lt;p&gt;Vekllei is a &amp;lsquo;worldbuilding&amp;rsquo; project, which means it doesn&amp;rsquo;t always look like a traditional storytelling endeavour. It introduces parts of an imaginary place that might not be revealed in a traditional linear story.&lt;/p&gt;
+&lt;p&gt;Vekllei is also a &amp;lsquo;utopian&amp;rsquo; project, which means that it&amp;rsquo;s a form of &lt;em&gt;social dreaming&lt;/em&gt;. It&amp;rsquo;s a fantasy built out of the stresses and problems of the present, and so even if Vekllei people might not &lt;em&gt;talk&lt;/em&gt; like you or &lt;em&gt;look&lt;/em&gt; like you, there&amp;rsquo;s a chance some part of this world may feel like you do.&lt;/p&gt;
+&lt;p&gt;This means that all sorts of themes and influences show up in my work. Vekllei has the &lt;a href=&#34;https://beta.millmint.net/utopia/vekllei/language&#34;&gt;language&lt;/a&gt; of French-Chinese spoken with an Australian accent, a native people of mixed Inuit-Scandinavian descent, and a modern industrial society that&amp;rsquo;s going backwards.&lt;/p&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Project Fact Sheet&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;This place is &lt;strong&gt;iterative&lt;/strong&gt; &amp;ndash; canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.&lt;/li&gt;
+&lt;li&gt;This place is &lt;strong&gt;good-spirited&lt;/strong&gt; &amp;ndash; Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be calming and fun.&lt;/li&gt;
+&lt;li&gt;This place is &lt;strong&gt;constantly expanding&lt;/strong&gt; &amp;ndash; I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don&amp;rsquo;t. I&amp;rsquo;m looking to start a comic and make an animated trailer for the project, so stay tuned for that!&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;2-three-utopias&#34;&gt;2. Three Utopias&lt;/h2&gt;
+&lt;p&gt;Vekllei is &lt;strong&gt;place&lt;/strong&gt;, but it&amp;rsquo;s also a &lt;strong&gt;people&lt;/strong&gt;, created by &lt;a href=&#34;https://beta.millmint.net/newsdesk/about&#34;&gt;Hobart&lt;/a&gt;. In this sense, there are three utopias in this project, along which posts are categorised.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt; &amp;ndash; essays, reflection and discussion&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Landscape&lt;/strong&gt; &amp;ndash; guides, diagrams and analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Character&lt;/strong&gt; &amp;ndash; stories, moments and memories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So what does &amp;lsquo;utopia&amp;rsquo; mean? It’s latin for “no place”. It&amp;rsquo;s a forgotten history, a missed opportunity &amp;ndash; a perfect place to escape to. It&amp;rsquo;s a dream facing our past.&lt;/p&gt;
+&lt;p&gt;Vekllei is a very good place to live, but &lt;strong&gt;it is not perfect&lt;/strong&gt;. Although many utopias are presented as perfect Edens of Earth, Vekllei is &lt;em&gt;utopie concreté&lt;/em&gt;. It is a &lt;em&gt;dirty utopia&lt;/em&gt; full of the inconveniences, inefficiencies and heartbreak of reality. The idea of my utopia, then, is to settle the bad things of life in a beautiful framework.&lt;/p&gt;
+&lt;p&gt;Utopia is a form of &lt;em&gt;social dreaming&lt;/em&gt;, much like worldbuilding, linked to the values and priorities of its author. In utopian studies, “utopia” is usually broken down further:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Eutopia —&lt;/strong&gt; “good place”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dystopia —&lt;/strong&gt; “bad place”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that both form a part of the “utopia” — this is appropriate, since Vekllei is grounded in a social realism that acknowledges the good and bad parts of life. Indeed, they are inseparable — you cannot have the light without the dark. Such is the internal contradiction of any good utopia.&lt;/p&gt;
+&lt;h3 id=&#34;utopia-as-author&#34;&gt;Utopia as &lt;em&gt;Author&lt;/em&gt;&lt;/h3&gt;
+&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;strong&gt;Utopias as Author&lt;/strong&gt; refers to the fact that all utopias are deeply personal; they&amp;rsquo;re as intimate as dreams. There is no &amp;lsquo;author proxy&amp;rsquo; here because the whole thing is a proxy of authorship; an expression of individual experience and memory. Is it self-indulgent? Almost certainly. But if art is expression, why should dreams be excluded?
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;img src=&#34;https://beta.millmint.net/images/kiki.jpg&#34; alt=&#34;smallimg&#34;&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;utopia-as-landscape&#34;&gt;Utopia as &lt;em&gt;Landscape&lt;/em&gt;&lt;/h3&gt;
+&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Utopias of landscape&lt;/strong&gt; (the &lt;em&gt;topos&lt;/em&gt;) are the stuff you traditionally associate with the utopian tradition &amp;ndash; these are utopias of place. They include utopian cities, states, economies, machines, and any part of local physicality. When I talk about &lt;em&gt;landscape&lt;/em&gt;, I use it in one of two ways.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Landscape&lt;/strong&gt; as it refers to physical space, like cities, woodlands and oceans.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Landscape&lt;/strong&gt; as it refers to the human metaphysic of place &amp;ndash; the way we build and identify physical spaces in our mind. For example, most people today distinguish between &amp;lsquo;the city&amp;rsquo; and &amp;lsquo;nature&amp;rsquo;. In Vekllei, they don&amp;rsquo;t.&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;img src=&#34;https://beta.millmint.net/images/matchstick.jpg&#34; alt=&#34;smallimg&#34;&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;utopia-as-character&#34;&gt;Utopia as &lt;em&gt;Character&lt;/em&gt;&lt;/h3&gt;
+&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;strong&gt;Utopias of character&lt;/strong&gt; are what I call utopian premises of life experience; stuff you can&amp;rsquo;t construct from stone and concrete. Character utopias make up for the limitations of utopian space by recognising and providing for a new utopian dimension &amp;ndash; people, and personality. If the obsessive utopian can create imaginary communities from social dreams, why not people? Character utopias sum up an ideal life experience, personality, body and taste. &lt;a href=&#34;https://beta.millmint.net/utopia/characters/#2-tzipora-zelda-desmoisnes&#34;&gt;Zelda&lt;/a&gt; is one such character utopia.
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;img src=&#34;https://beta.millmint.net/images/grips.jpg&#34; alt=&#34;smallimg&#34;&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;3-where-to-from-here&#34;&gt;3. Where to from here?&lt;/h2&gt;
+&lt;p&gt;My little &amp;lsquo;epoch of rest&amp;rsquo; is pretty much the only thing I enjoy doing. It&amp;rsquo;s the melting pot of my whole life experience &amp;ndash; from interest and hobbyism to ideology and insecurity. It&amp;rsquo;s the sum of a worldview, a whole person, and to that end I think utopia is a powerful form of self-expression.&lt;/p&gt;
+&lt;p&gt;I plan to tell lots of stories in Vekllei in lots of different ways. This wiki is one of them &amp;ndash; it allows me to fill out the world in a new format that better catalogues the scope of this project.&lt;/p&gt;
+&lt;p&gt;I also plan to start work on a comic in late October 2020, and in 2021 I intent to produce a short animated trailer for the project. You can follow me along on these adventures on &lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;my Discord&lt;/a&gt; or the &lt;a href=&#34;www.reddit.com/r/vekllei&#34;&gt;Vekllei subreddit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for visiting, and I hope you enjoy this adventure in dreaming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-faq&#34;&gt;4. F.A.Q.&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s run through some frequently asked questions and common misconceptions about the project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Tasmanian illustrator.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You’re not Japanese?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;お前はもう死んでいる&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is Vekllei a utopia?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It makes me feel better about my life and the world. It’s escapism; it’s a dream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It’s a bit cringe to grandstand your political beliefs, doncha think?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where’s the tension if it’s perfect?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vekllei is very cynical and tragic in places. Utopia is just a reflection of the author, good and bad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is there a novel? A story? A comic?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where is Vekllei?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Iceland.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why does Vekllei look Japanese?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vekllei is like a country of Scandinavians speaking French with an Aussie accent in Shōwa era Japan/Maoist China/Taiwan etc. Vekllei looks however I imagine utopia looks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How does that make sense?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Why can’t it just be cool?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is your alt-history thought out?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “worldbuilding” in a typical sense. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why does Vekllei call itself “petticoat socialist”?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It&amp;rsquo;s almost anarchic in that sense.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why the &amp;ldquo;petticoat&amp;rdquo;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vekllei is a female country. Womanhood is decommodified. It&amp;rsquo;s maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who is Zelda?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zelda is another name for Tzipora. She has two names specifically to confuse you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is the “bulletin”?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I publish the &lt;a href=&#34;https://beta.millmint.net/newsdesk/bulletin/2020&#34;&gt;&lt;em&gt;Atlantic Bulletin&lt;/em&gt;&lt;/a&gt; once a month via email. It’s got the month’s posts in it as well as facts and tidbits from Vekllei. DM me an email if you want to join.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;Join the Patreon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Join the Discord&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Be &amp;ldquo;petticoat&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Life as a Shill for Big Corporate</title>
-      <link>https://millmint.net/drafts/essays/apple/</link>
+      <link>https://beta.millmint.net/drafts/essays/apple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/drafts/essays/apple/</guid>
-      <description>❖ Note from the Editor
-This article was originally published in November 2020.  💻 A Bite of the Apple: Petticoat Socialism and the Biggest Tech Company in the World ¶  Hobart Phillips ¶   I use Apple products as the primary interfaces for consumer tech in most parts of my life. I use an iPhone paired to an Apple Watch and AirPods on the go, a MacBook Air at home, and an AppleTV in the living room.</description>
+      <guid>https://beta.millmint.net/drafts/essays/apple/</guid>
+      <description>&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;&lt;br&gt;
+This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong&gt;November 2020&lt;/strong&gt;.
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;-a-bite-of-the-apple-petticoat-socialism-and-the-biggest-tech-company-in-the-world&#34;&gt;💻 A Bite of the Apple: Petticoat Socialism and the Biggest Tech Company in the World&lt;/h1&gt;
+&lt;h4 id=&#34;hobart-phillips&#34;&gt;Hobart Phillips&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;I use Apple products as the primary interfaces for consumer tech in most parts of my life. I use an iPhone paired to an Apple Watch and AirPods on the go, a MacBook Air at home, and an AppleTV in the living room. A bit more wilful consumerism, and I could complete my collection — a HomePod, or $6000 ProDisplay XDR perhaps. I like my RAM soldered to the board, ladies and gentlemen.&lt;/p&gt;
+&lt;p&gt;I am also a vocal critic, through my art and politics, of commodity culture and modern consumer society. Congratulations if you&amp;rsquo;ve picked up on what you might recognise as a contradiction. I talk big about human life emptied out and objectified through industrial society, while shilling for the worst kind of tech — consumer tech — and the worst kind of consumer tech — locked down, closed in, proprietary walled garden expensive tech. I don&amp;rsquo;t think this is hypocritical, necessarily. People are complex, and I wouldn&amp;rsquo;t disparage someone for etching out pleasure through consumption if that&amp;rsquo;s what it takes to keep going in our shell-world. But I&amp;rsquo;d like to address my consumerism here.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m pretty much stuck in the Apple ecosystem, whether I like it or not (I do, in fact, &lt;em&gt;like it&lt;/em&gt;). This wasn&amp;rsquo;t always the case. I bought my first iPhone as a teenager, an &lt;strong&gt;iPhone 6 Plus&lt;/strong&gt;, but traded it in for the objectively shitty and wonderful &lt;strong&gt;Nexus 5X&lt;/strong&gt; in my senior year. I used that until it desoldered itself through its insane thermal issues. I went back to my 6 Plus, then bought the &lt;strong&gt;Google Pixel 2 XL&lt;/strong&gt; when it came out. I bought a Google DayDream (a VR headset) with it, and came dangerously close to buying an Android watch (a prescient moment). This isn&amp;rsquo;t evidence of impartiality, or a defense against accusations of fanboyism. It&amp;rsquo;s evidence of my preference for vertical integration, control, permanence and the product-form.&lt;/p&gt;
+&lt;p&gt;Tech is an intimate part of life, so why shouldn&amp;rsquo;t we see ourselves in tech? My feelings towards products are generally dependent on my personal intuition, not their specs or costs. The things I have in my life aren&amp;rsquo;t tools, they&amp;rsquo;re appliances; objects, and should delight you in their good design and usefulness. I suppose there&amp;rsquo;s a spiritual component to it, and I won&amp;rsquo;t apologise for that. It bubbles up from an instinct for control, unity and simplicity. This does not apply exclusively to Apple products, this is more fundamental than that — it folds into a larger conception of appliances and design. I might get caught up in a hype cycle, or drink the kool-aid on a few occasions, but this isn&amp;rsquo;t intellectual, it&amp;rsquo;s instinctive, and it informs much more than petty consumerism.&lt;/p&gt;
+&lt;p&gt;There are good reasons why Vekllei is so cleanly vertically integrated, so culturally homogenous, and so absolute in its absence of money. These aspects of my work arise from the same instinct that determines one perfect language; one perfect religion; one perfect uniform; one perfect architecture. It is not that a moneyless utopia is an interesting thought-experiment; it&amp;rsquo;s that a utopia could only be moneyless. This is a binary instinct — it &lt;em&gt;is&lt;/em&gt;, or it &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt;. It evolves constantly with taste.&lt;/p&gt;
+&lt;p&gt;Walter Isaacson, in the biography of Steve Jobs, wrote of his legacy:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Jobs&amp;rsquo;s] intensity encouraged a binary view of the world. Colleagues referred to the hero/shithead dichotomy. You were either one or the other, sometimes on the same day. The same was true of products, ideas, even food: Something was either “the best thing ever,” or it was shitty, braindead, inedible. As a result, any perceived flaw could set off a rant. The finish on a piece of metal, the curve of the head of a screw, the shade of blue on a box, the intuitiveness of a navigation screen—he would declare them to “completely suck” until that moment when he suddenly pronounced them “absolutely perfect.” He thought of himself as an artist, which he was, and he indulged in the temperament of one.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup&gt;p.309&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ve seen people diagnose Jobs as autistic, an insult to both autistic people and Jobs. Jobs was well aware of his apparent cruelty, and finely socially attuned. Steve Jobs, by any account, was a deeply flawed human individual with a very sincere belief in good taste and design. Another passage recalls his incompatibility with a girlfriend:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;They also had a basic philosophical difference about whether aesthetic tastes were fundamentally individual, as Redse believed, or universal and could be taught, as Jobs believed. She accused him of being too influenced by the Bauhaus movement. “Steve believed it was our job to teach people aesthetics, to teach people what they should like,” she recalled. “I don’t share that perspective. I believe when we listen deeply, both within ourselves and to each other, we are able to allow what’s innate and true to emerge.”&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup&gt;p.158&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are plenty of rude visionaries in Silicon Valley, and so-called &amp;ldquo;tech culture&amp;rdquo; is empty and superficial. But few people possess the sort of magical intuition Jobs had, or his deep appreciation for taste and design. Plenty of companies innovate, but Apple strikes me as a principles company. It makes decisions that make no market sense, like cutting the headphone jack, which generated far more negative press than short-term sales in bluetooth headphones.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think most creative people want to express appreciation for being able to take
+advantage of the work that’s been done by others before us. I didn’t invent the language or mathematics
+I use. I make little of my own food, none of my own clothes. Everything I do depends on other members
+of our species and the shoulders that we stand on. And a lot of us want to contribute something back to
+our species and to add something to the flow. It’s about trying to express something in the only way that
+most of us know how—because we can’t write Bob Dylan songs or Tom Stoppard plays. We try to use
+the talents we do have to express our deep feelings, to show our appreciation of all the contributions that
+came before us, and to add something to that flow. That’s what has driven me.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I believe deeply that design matters, and that the stuff around us should reflect that.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;cited-works&#34;&gt;Cited Works&lt;/h3&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Isaacson, W. (2011). Steve Jobs. New York ; Toronto: Simon &amp;amp; Schuster.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
     <item>
       <title>Characters</title>
-      <link>https://millmint.net/drafts/archived/old-characters/</link>
+      <link>https://beta.millmint.net/drafts/archived/old-characters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/drafts/archived/old-characters/</guid>
-      <description>.markdown a { color: var(--color-pink); } .markdown a.anchor { color: var(--color-pink); } aside nav ul a { color: var(--color-pink); } #headerbox .emoji { color: var(--color-pink); }  Cast of Characters ¥   UTOPIA  Introduction ߷ This article is about Hobart&amp;rsquo;s characters, who live in Vekllei  Overview ¶  This article is still under construction (as of mid-January) but should be done soon. Thanks for your understanding. For now, Tzipora and Cobian are complete.</description>
+      <guid>https://beta.millmint.net/drafts/archived/old-characters/</guid>
+      <description>&lt;style&gt;
+.markdown a {
+color: var(--color-pink);
+}
+.markdown a.anchor {
+color: var(--color-pink);
+}
+aside nav ul a {
+color: var(--color-pink);
+}
+#headerbox .emoji {
+color: var(--color-pink);
+}
+&lt;/style&gt;
+&lt;div id=&#34;headerbox&#34;&gt;
+  &lt;h1 class=&#34;title&#34;&gt;Cast of Characters&lt;/h1&gt;
+  &lt;h1 class=&#34;emoji&#34;id=&#34;whirlybat&#34;&gt;¥&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;
+&lt;h5 span class=&#34;tag pink&#34;&gt; UTOPIA &lt;/h5&gt;
+&lt;h6 span class=&#34;sitetag&#34;&gt;Introduction&lt;/h6&gt;
+&lt;p&gt;&lt;img src=&#34;https://beta.millmint.net/images/roadtrip.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;book-hint pink&#34;&gt;
+  ߷ This article is about &lt;a href=&#34;https://beta.millmint.net/utopia/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s characters&lt;/strong&gt;&lt;/a&gt;, who live in &lt;a href=&#34;https://beta.millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;blockquote class=&#34;book-hint panel&#34;&gt;
+  &lt;strong&gt;This article&lt;/strong&gt; is still under construction (as of mid-January) but should be done soon. Thanks for your understanding. For now, Tzipora and Cobian are complete.
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;fc&#34;&gt;A&lt;/span&gt;
+&lt;strong&gt;lthough almost all characters&lt;/strong&gt; in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. The character profiles below only gently touch upon the people that make up this world, but should serve as a stop-gap between nothingness and their full articles that will be produced over the coming months.&lt;/p&gt;
+&lt;h2 id=&#34;characters&#34;&gt;Characters&lt;/h2&gt;
+&lt;h3 id=&#34;tzipora-zelda-desmoisnes&#34;&gt;Tzipora (Zelda) Desmoisnes&lt;/h3&gt;
+&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;img src=&#34;https://beta.millmint.net/images/mastheads/characters/zelda.png&#34; alt=&#34;smallimg&#34;&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;details &gt;
+  &lt;summary&gt;Fact Sheet&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Tzipora lo Ula de Helette Desmoisnes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Birthday&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;May 5th 2047, Lava, Royal Borough of Lava, Vekllei&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Nationality&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Vekllei, Colombian&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Spouses&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Children&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Parents&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mette Sumoisnesn, unknown father&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Lola 6th School, Montre National University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Occupation&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Student, Librarian, Gregori Baby&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military Service&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Floral Assistant, 2nd Garden Corps, Royal Vekllei Armed Forces&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Civilian Awards&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;National Award for Heroism in Local Service (twice)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sigil&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mustard Orchid&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Tzipora lo Ula de Helette Desmoisnes&lt;/strong&gt; is the main character and &lt;a href=&#34;https://beta.millmint.net/utopia/intro/#utopia-as-character&#34;&gt;character utopia&lt;/a&gt; of this project. Often called Zelda by her friends, she is the protagonist of &lt;em&gt;Atomic Modern&lt;/em&gt; and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with &lt;a href=&#34;https://beta.millmint.net/posts/2020-08-12-ageless/&#34;&gt;Gregori Syndrome&lt;/a&gt;, a genetic disorder that affects her ageing and renders her biologically immortal. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her life and making her happy.&lt;/p&gt;
+&lt;h4 id=&#34;appearance&#34;&gt;Appearance&lt;/h4&gt;
+&lt;p&gt;Tzipora is blue-eyed and black-haired of mixed Inuit-Scandinavian and Eastern-European heritage. She has a round head and a big smile, and a skinny frame attributed in part to a childish metabolism retained through Gregori-Heitzfeld Syndrome, from which she suffers. She parts her short hair in the centre and ornaments it with fountain hairpieces, traditional hair loops and floral assemblies depending on the occasion. She is most remembered for her youthful appearance, since she does not age beyond late prepubescence as a consequence of her genetic condition. Despite this, she retains a serious, cultivated manner and alternates disconcertingly between youthful hyperactivity and careful, deliberate physicality.&lt;/p&gt;
+&lt;p&gt;She dresses in conservative fashions and has maintained a consistent taste throughout her life. She has a weakness for loose clothing, particularly buttoned shirts, slacks and skirts of various styles. She is most commonly seen in a pleated white shirt, modest skirt, folded socks and penny loafers.&lt;/p&gt;
+&lt;h4 id=&#34;personality&#34;&gt;Personality&lt;/h4&gt;
+&lt;p&gt;Tzipora is nonconformist by way of ignorance or obstinance depending on the occasion.&lt;/p&gt;
+&lt;p&gt;She is paranoid and conservative, good-natured and austere, with a moral outlook bound by her deepest anxieties and obsessions. She is deeply spiritual and material, fascinated with objects and their history. She has many collections of many things she’s found. She’ll likely die a Catholic, but has a confrontational relationship with God and no longer attends mass. She does not know if this has pissed Him off, but it’s working out so far. Maybe that’s why He made her a homosexual — to get back at her. He must have a good sense of humour, if that’s the case.&lt;/p&gt;
+&lt;p&gt;Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many girls that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.&lt;/p&gt;
+&lt;h3 id=&#34;cobian-queismesnah&#34;&gt;Cobian Queismesnah&lt;/h3&gt;
+&lt;details &gt;
+  &lt;summary&gt;Fact Sheet&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Cobian lo Ro de Viviya de Queismesnah&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Birthday&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;June 15th 2049, Mimiya, Royal Borough of Ro, Vekllei&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Nationality&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Vekllei&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Spouses&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Joy Cuoismasdesn&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Children&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mimiya Queismesnah&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Parents&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Soya Queismesnah, Louis Vouismasnoh&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Lola 6th School, National Academy of Medicine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Occupation&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Student, Perioperative Nurse&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military Service&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Horticulture Technician, 2nd Garden Corps, Royal Vekllei Armed Forces&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Civilian Awards&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;A.r.F. Medal for Love to the Sick and Dying&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Sigil&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Golden Bliss Flower&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;&lt;strong&gt;Cobian lo Ro de Viviya de Queismesnah&lt;/strong&gt; is Tzipora&amp;rsquo;s longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora&amp;rsquo;s mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.&lt;/p&gt;
+&lt;h4 id=&#34;appearance-1&#34;&gt;Appearance&lt;/h4&gt;
+&lt;p&gt;Cobian is green-eyed and black-haired, descendent mostly from Inuit-Scandinavian ethnic groups common in Vekllei. She is more Asiatic in appearance than her friend Zelda, and is tall for her age. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is deeply envious of.&lt;/p&gt;
+&lt;p&gt;She dresses in prim, well-maintained clothing courtesy of her despotically hygienic mother, and has a penchant for ironed shirts, pleatless skirts, synthetic hosiery and jewellery she considers befitting a maturing young woman.&lt;/p&gt;
+&lt;h4 id=&#34;personality-1&#34;&gt;Personality&lt;/h4&gt;
+&lt;p&gt;When Tzipora meets her, Cobian is a figure of sympathy and irritation. She was deeply insecure after old friendships fell apart in the tumultuous transition between middle and secondary schooling. Once she became comfortable around her new friend and matured out of some old insecurities, Cobian revealed herself to be easy-going and friendly, a person of small pretensions and genuine friendship. In her own skin, she makes an excellent conversationalist, charmingly attentive and ready to listen.&lt;/p&gt;
+&lt;p&gt;Some people think she&amp;rsquo;s pretentious; she&amp;rsquo;s not pretentious. She likes good food and is highly fashionable in her interests and styles, but Cobian is also deeply empathetic and finds interest in new things via her friends she&amp;rsquo;d never previously thought about. She makes up most of Tzipora&amp;rsquo;s social life, which leaves plenty of space for Zelda&amp;rsquo;s big personality and obsessions. Zelda has a deeply stablising effect on Cobian, rounding out some of her mother&amp;rsquo;s strict legacy through Zelda&amp;rsquo;s androgynous habits and far-fetched fascinations. But Zelda&amp;rsquo;s big personality does not include much talking or grace, and in these deficiencies Cobian&amp;rsquo;s social talent shines. Together they make a great pair, their neighbouring personalities aiding their best selves.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://millmint.net/drafts/archived/old-homepage/</link>
+      <link>https://beta.millmint.net/drafts/archived/old-homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/drafts/archived/old-homepage/</guid>
-      <description>Studio MillMint  Home of  ❖ Vekllei   ❖ Welcome
-Welcome to MillMint.net! This site is a wiki and archive for Hobart&amp;rsquo;s stories of utopia.  🍥 Vekllei On The Web
-Browse the links in the sidebar to get started. Look at the panels below for info on this site.         💌 Site News 🌸 Administration
-This wiki was created in October 2020 to provide a comprehensive resource to the world of Vekllei, and as an archive for posts, bulletins, comics, illustrations and miscellaneous content related to Vekllei.</description>
+      <guid>https://beta.millmint.net/drafts/archived/old-homepage/</guid>
+      <description>&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+    &lt;!-- begin columns block --&gt;
+&lt;p&gt;&lt;img style=&#34;margin-left: 2rem;&#34;&gt; &lt;img src=&#34;https://beta.millmint.net/images/mastheads/princess.png&#34; alt=&#34;img&#34;&gt; &lt;/img&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+     &lt;!-- magic separator, between columns --&gt;
+&lt;div style=&#34;margin-left: 2rem; margin-right: 2rem;&#34;&gt;
+&lt;div class=&#34;yellow&#34;&gt;
+&lt;h1 style=&#34;font-family: Inter Extra Bold; margin-top: 0; margin-bottom: 0; text-align: right; font-size: 8vh;&#34;&gt; Studio &lt;h1 style=&#34;font-family: Inter Extra Bold; margin-top: 0; text-align: right; margin-bottom: 10px; font-size: 8vh;&#34;&gt; MillMint &lt;/h1&gt;&lt;/h1&gt;
+&lt;h2 style=&#34;color:var(--body-font-color); text-align: right; margin-top: 0px; font-size: 18pt;&#34;&gt;
+&lt;i&gt;Home of &lt;/i&gt; ❖ Vekllei
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint yellow&#34;&gt;
+  &lt;strong&gt;❖ Welcome&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Welcome to MillMint.net!&lt;/em&gt; This site is a wiki and archive for Hobart&amp;rsquo;s stories of &lt;strong&gt;utopia&lt;/strong&gt;.
+&lt;/blockquote&gt;
+&lt;blockquote class=&#34;book-hint red&#34;&gt;
+  &lt;strong&gt;🍥 Vekllei On The Web&lt;/strong&gt;&lt;br&gt;
+Browse the links in the sidebar to get started. Look at the panels below for info on this site.
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;h2 style=&#34;text-align: right; margin-top: 0px; font-size: 18pt;&#34;&gt;
+&lt;a style=&#34;margin-left: 8px; margin-right: 8px;&#34; href=&#34;https://www.reddit.com/r/vekllei&#34;&gt;&lt;img src=&#34;https://beta.millmint.net/redditlogo.png&#34; height=&#34;35&#34; width=&#34;35&#34; /&gt;&lt;/a&gt;
+&lt;a style=&#34;margin-left: 8px; margin-right: 8px;&#34; href=&#34;https://www.discord.gg/dCE6vSU&#34;&gt;&lt;img src=&#34;https://beta.millmint.net/discordlogo.png&#34; style=&#34;vertical-align: text-bottom;&#34; height=&#34;40&#34;/&gt;&lt;/a&gt;
+&lt;a style=&#34;margin-left: 8px; margin-right: 8px;&#34; href=&#34;https://www.patreon.com/vekllei&#34;&gt;&lt;img src=&#34;https://beta.millmint.net/patreonlogo.png&#34; height=&#34;35&#34; width=&#34;35&#34; /&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+     &lt;!-- begin columns block --&gt;
+&lt;details open&gt;
+  &lt;summary&gt;💌 Site News&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;🌸 Administration&lt;/strong&gt;&lt;br&gt;
+This wiki was created in October 2020 to provide a comprehensive resource to the world of Vekllei, and as an archive for posts, bulletins, comics, illustrations and miscellaneous content related to Vekllei. &lt;span class=&#39;picon&#39;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Forward site administration queries to Hobart on &lt;a href=&#34;https://www.reddit.com/r/vekllei&#34;&gt;Reddit&lt;/a&gt; or &lt;a href=&#34;https://www.discord.gg/dCE6vSU&#34;&gt;Discord&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Special thanks to Ben R. for his help with the parallax header and M. Tirado for technical support.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&#34;book-hint yellow&#34;&gt;
+  &lt;strong&gt;❖ Site Status 2020&lt;/strong&gt;&lt;br&gt;
+Many pages on this site are under construction and incomplete. Unless the article is flagged as completed, you should consider unfinished work subject to change.
+&lt;/blockquote&gt;
+&lt;blockquote class=&#34;book-hint red&#34;&gt;
+  &lt;strong&gt;🌼 The Vekllei Translation Project&lt;/strong&gt;&lt;br&gt;
+Français? Español? Português? 日本語? Contributors to the Vekllei Translation Project will be listed here.
+&lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+  &lt;/div&gt;
+  
+  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
+     &lt;!-- magic separator, between columns --&gt;
+&lt;details open&gt;
+  &lt;summary&gt;🎟 Getting Started&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h2 id=&#34;-this-project&#34;&gt;❖ This Project&lt;/h2&gt;
+&lt;img src=&#34;https://beta.millmint.net/images/mastheads/book.gif&#34; height=&#34;350vh;&#34; style=&#34;margin-left:20px; margin-bottom:8px;&#34;&gt;
+&lt;div id=&#34;intro&#34;style=&#34;margin-bottom:0px;&#34;&gt;
+Vekllei is published as illustrations with stories attached, but soon will feature a comic. &lt;b&gt;You can access an archive of these posts at the &lt;a href=&#34;https://beta.millmint.net/posts/&#34;&gt;Archive&lt;/a&gt;&lt;/b&gt;.
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+</description>
     </item>
     
   </channel>
