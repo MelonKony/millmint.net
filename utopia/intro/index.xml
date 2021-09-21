@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro on MillMint</title>
-    <link>https://beta.millmint.net/utopia/intro/</link>
+    <link>https://millmint.net/utopia/intro/</link>
     <description>Recent content in Intro on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://beta.millmint.net/utopia/intro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://millmint.net/utopia/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQ</title>
-      <link>https://beta.millmint.net/utopia/intro/faq/</link>
+      <link>https://millmint.net/utopia/intro/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.millmint.net/utopia/intro/faq/</guid>
+      <guid>https://millmint.net/utopia/intro/faq/</guid>
       <description>&lt;style&gt;
 #headerbox .emoji {
     margin-right: 85px;
@@ -54,7 +54,7 @@ color: var(--color-red);
   }
 &lt;/style&gt;
 &lt;blockquote class=&#34;book-hint red&#34;&gt;
-  ߷ This article is about &lt;a href=&#34;https://beta.millmint.net/utopia/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s utopia&lt;/strong&gt;&lt;/a&gt;, called &lt;a href=&#34;https://beta.millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
+  ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s utopia&lt;/strong&gt;&lt;/a&gt;, called &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
 &lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
@@ -71,14 +71,14 @@ color: var(--color-red);
   &lt;/div&gt;
   
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;img style=&#34;max-width: 250px; display: block; margin-left: auto; margin-right: auto;&#34; src=&#34;https://beta.millmint.net/images/mastheads/book.gif&#34;&gt;
+    &lt;img style=&#34;max-width: 250px; display: block; margin-left: auto; margin-right: auto;&#34; src=&#34;https://millmint.net/images/mastheads/book.gif&#34;&gt;
   &lt;/div&gt;
   
 &lt;/div&gt;
 
 &lt;h2 id=&#34;faq&#34;&gt;F.A.Q.&lt;/h2&gt;
 &lt;h4 id=&#34;who-are-you&#34;&gt;Who are you?&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://beta.millmint.net/newsdesk/about/&#34;&gt;A Tasmanian illustrator.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/newsdesk/about/&#34;&gt;A Tasmanian illustrator.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;youre-not-japanese&#34;&gt;You’re not Japanese?&lt;/h4&gt;
 &lt;p&gt;お前はもう死んでいる&lt;/p&gt;
 &lt;h4 id=&#34;why-is-vekllei-a-utopia&#34;&gt;Why is Vekllei a utopia?&lt;/h4&gt;
@@ -107,7 +107,7 @@ color: var(--color-red);
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Join the Discord&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Be &amp;ldquo;petticoat&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;futher-reading&#34;&gt;Futher Reading&lt;/h2&gt;
-&lt;p&gt;If you&amp;rsquo;re curious what sort of things go into a place like Vekllei, these are some of my favourite books. I&amp;rsquo;ve been asked about them before, so I&amp;rsquo;ve included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you&amp;rsquo;re interested, &lt;a href=&#34;https://beta.millmint.net/newsdesk/about&#34;&gt;contact me&lt;/a&gt;. I&amp;rsquo;ll update this list periodically as more occur to me.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re curious what sort of things go into a place like Vekllei, these are some of my favourite books. I&amp;rsquo;ve been asked about them before, so I&amp;rsquo;ve included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you&amp;rsquo;re interested, &lt;a href=&#34;https://millmint.net/newsdesk/about&#34;&gt;contact me&lt;/a&gt;. I&amp;rsquo;ll update this list periodically as more occur to me.&lt;/p&gt;
 &lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
   
   &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
@@ -119,7 +119,7 @@ color: var(--color-red);
 &lt;blockquote class=&#34;book-hint panel&#34;&gt;
   &lt;h3 id=&#34;starting-point--turning-point&#34;&gt;Starting Point &lt;em&gt;&amp;amp;&lt;/em&gt; Turning Point&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Miyazaki Hayao&lt;/strong&gt; | 2009 &amp;amp; 2014&lt;/p&gt;
-&lt;p&gt;These books are essentially a compilation of essays from Miyazaki&amp;rsquo;s years as a filmmaker. He&amp;rsquo;s an incredibly smart and insightful creative force whose work &lt;a href=&#34;https://beta.millmint.net/newsdesk/essays/ghibli&#34;&gt;I have written at length about&lt;/a&gt; before. For me, it&amp;rsquo;s all really powerful, affecting stuff.&lt;/p&gt;
+&lt;p&gt;These books are essentially a compilation of essays from Miyazaki&amp;rsquo;s years as a filmmaker. He&amp;rsquo;s an incredibly smart and insightful creative force whose work &lt;a href=&#34;https://millmint.net/newsdesk/essays/ghibli&#34;&gt;I have written at length about&lt;/a&gt; before. For me, it&amp;rsquo;s all really powerful, affecting stuff.&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;/div&gt;

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on MillMint</title>
-    <link>https://beta.millmint.net/tags/index/</link>
+    <link>https://millmint.net/tags/index/</link>
     <description>Recent content in index on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://beta.millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://beta.millmint.net/posts/</link>
+      <link>https://millmint.net/posts/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.millmint.net/posts/</guid>
+      <guid>https://millmint.net/posts/</guid>
       <description></description>
     </item>
     
