@@ -45,13 +45,13 @@
 <meta name="twitter:title" content="2019"/>
 <meta name="twitter:description" content=""/>
 
-    <link rel="stylesheet" href="/css/styles.min.32f977ca8fc844b24833607646a82bee6f71a37ba949af50cd21b7cb8f7445e8afb9d5b2a2a7fd3190ddb027569d4925eca1213e98dedbcd50a677ad1cfd1c6a.css" integrity="sha512-Mvl3yo/IRLJIM2B2Rqgr7m9xo3upSa9QzSG3y490ReivudWyoqf9MZDdsCdWnUkl7KEhPpje281QpnetHP0cag==">
+    <link rel="stylesheet" href="/css/styles.min.035dc916e823934ab38bc3f76de15fba190937b79a86e343bc63fba5bd4dafde8a9fbf2c439c20f3816ca5e47a7c88e6d8d17d5fe2c3e68d1876ec4cdb0179d6.css" integrity="sha512-A13JFugjk0qzi8P3beFfuhkJN7eahuNDvGP7pb1Nr96Kn78sQ5wg84FspeR6fIjm2NF9X+LD5o0YduxM2wF51g==">
 
 
 
 
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.901118bf17e101c96483f7057881eac504a24a0a48cf00c197b967eecd14865e.js" integrity="sha256-kBEYvxfhAclkg/cFeIHqxQSiSgpIzwDBl7ln7s0Uhl4=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.9f727bc243c6d56ec0a75379f0f0063f633d5fe071150f745670dcbfae490f3e.js" integrity="sha256-n3J7wkPG1W7Ap1N58PAGP2M9X&#43;BxFQ90VnDcv65JDz4=" crossorigin="anonymous"></script>
     
 
     
@@ -793,7 +793,65 @@
                 
                     
                 
-            </div><ul  class="breadcrumbs">
+            </div><div id="articlelinks">
+  <div class="next-post alignleft">
+  	
+  </div>
+
+  <div class="previous-post alignright">
+  	
+  </div>
+</div>
+<div style="clear: both;"></div>
+
+<style>
+#articlelinks {
+  padding: .45rem 1rem .25rem .75rem;
+  height: 40px;
+  border-radius: .25rem;
+  color: var(--color-gray);
+  margin-top: 0rem;
+  list-style: none;
+   
+  margin-bottom: .5rem;
+  width: 100%;
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 500;
+  letter-spacing: -.01em;
+}
+.alignleft a:after, .alignright a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  transform-origin: bottom right;
+  transition: transform 0.15s ease-out;
+}
+.alignleft a:hover:after, .alignright a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+.alignleft:hover, .alignright:hover {
+  filter: brightness(85%);
+}
+.alignleft {
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+.alignright {
+  display: inline-block;
+  position: relative;
+	float: right;
+}
+</style>
+
+<ul  class="breadcrumbs">
     
 
 
@@ -819,6 +877,12 @@
 
 </ul>
 
+
+<style>
+.breadcrumbs a:hover {
+  filter: brightness(85%);
+}
+</style>
 
 
 <div id="gitalk-container"></div>
