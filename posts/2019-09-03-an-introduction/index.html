@@ -51,7 +51,7 @@ Considering both the length and convoluted terminology that embroil this project
 <meta name="twitter:description" content="Archived from the original article here   a.book-btn:hover { filter: brightness(85%); }  Editor&rsquo;s note: this article, while ready for reading, is still under construction.
 Considering both the length and convoluted terminology that embroil this project, there was only so long I could carry on before people started getting lost. The truth of it is that Vekllei is not a particularly complex or difficult project to summarise, despite the snapshot &ldquo;lore in scenes&rdquo; approach that kneecaps a complete understanding."/>
 
-    <link rel="stylesheet" href="/css/styles.min.035dc916e823934ab38bc3f76de15fba190937b79a86e343bc63fba5bd4dafde8a9fbf2c439c20f3816ca5e47a7c88e6d8d17d5fe2c3e68d1876ec4cdb0179d6.css" integrity="sha512-A13JFugjk0qzi8P3beFfuhkJN7eahuNDvGP7pb1Nr96Kn78sQ5wg84FspeR6fIjm2NF9X+LD5o0YduxM2wF51g==">
+    <link rel="stylesheet" href="/css/styles.min.67b38bd2e6720d5f82f336105d5d99281f8e2e775594aca5020cd6db62780816bc6dba703fc93633cbc597052b6c1f985c75fabb284595865df4a85ff093879c.css" integrity="sha512-Z7OL0uZyDV+C8zYQXV2ZKB+OLndVlKylAgzW22J4CBa8bbpwP8k2M8vFlwUrbB+YXHX6uyhFlYZd9Khf8JOHnA==">
 
 
 
@@ -451,35 +451,30 @@ a.book-btn:hover {
                 
                     
                 
-            </div><div id="articlelinks">
+            </div><div class="articlelinks">
   <div class="next-post alignleft">
-  	
-  	<a class="link-reverse" href="https://millmint.net/posts/2019-09-04-railway/?ref=footer">← The Mountain Railway</a>
-  	
+    
+      <a class="link-reverse" href="https://millmint.net/posts/2019-09-04-railway/?ref=footer">← The Mountain Railway</a>
+    
   </div>
-
-  <div class="previous-post alignright">
-  	
-  	<a style="text-align: right;" class="link-reverse" href="https://millmint.net/posts/2019-09-03-shadow/?ref=footer">Lighter Than Her Shadow →</a>
-  	
+  <div class="next-post alignright">
+    
+      <a class="link-reverse" href="https://millmint.net/posts/2019-09-03-shadow/?ref=footer">Lighter Than Her Shadow →</a>
+    
   </div>
 </div>
-<div style="clear: both;"></div>
 
 <style>
-#articlelinks {
-  padding: .45rem 1rem .25rem .75rem;
-  height: 40px;
-  border-radius: .25rem;
-  color: var(--color-gray);
-  margin-top: 0rem;
-  list-style: none;
-   
-  margin-bottom: .5rem;
-  width: 100%;
+.articlelinks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 20px 20px;
+  grid-template-areas: "alignleft alignright";
   font-size: 15px;
   line-height: 1.4;
   font-weight: 500;
+  text-align: center;
   letter-spacing: -.01em;
 }
 .alignleft a:after, .alignright a:after {
@@ -502,14 +497,26 @@ a.book-btn:hover {
   filter: brightness(85%);
 }
 .alignleft {
-  display: inline-block;
-  position: relative;
-  float: left;
+  grid-area: alignleft;
+  text-align: left;
+  color: var(--color-gray);
 }
 .alignright {
+  grid-area: alignright;
+  text-align: right;
+  color: var(--color-gray);
+}
+.alignleft a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   display: inline-block;
   position: relative;
-	float: right;
+}
+.alignright a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  position: relative;
 }
 </style>
 
