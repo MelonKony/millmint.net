@@ -1,0 +1,1 @@
+(()=>{window.addEventListener("DOMContentLoaded",function(){let n=document.getElementById("navbar_sm");document.getElementById("navbar_btn").addEventListener("click",function(){n.classList.contains("hidden")?n.classList.remove("hidden"):n.classList.add("hidden")})});})();
