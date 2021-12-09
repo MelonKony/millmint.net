@@ -6,14 +6,14 @@
     <description>Recent content in Home on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://millmint.net/newsdesk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/about/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;book-hint indigo&#34;&gt;
+      <description>&lt;p&gt;&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ For common questions about me or my work, please visit the &lt;a href=&#34;https://millmint.net/utopia/intro/faq/&#34;&gt;FAQ&lt;/a&gt;.
 &lt;/blockquote&gt;
 
@@ -74,7 +74,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/bakur/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -121,7 +121,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/eyri/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -210,7 +210,7 @@ color: var(--color-red);
     }
   }
 &lt;/style&gt;
-&lt;blockquote class=&#34;book-hint red&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s utopia&lt;/strong&gt;&lt;/a&gt;, called &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -306,7 +306,7 @@ color: var(--color-red);
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/essays/ghibli/</guid>
-      <description>&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;
 This thesis was completed in partial fulfillment of Bachelor of Media (Honours). It remains a good testament to my love of Ghibli. It was &lt;strong&gt;originally submitted&lt;/strong&gt; in &lt;strong&gt;October 2020&lt;/strong&gt; and &lt;strong&gt;published&lt;/strong&gt; in &lt;strong&gt;December 2020&lt;/strong&gt;.
 &lt;/blockquote&gt;
@@ -648,7 +648,7 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/holsyim/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -694,12 +694,7 @@ lthough the five films pulled from Studio Ghibli’s thirty-year “golden age�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/1/</guid>
-      <description>&lt;style&gt;
-.article a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -940,7 +935,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/lita/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -986,7 +981,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/lola/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1081,7 +1076,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/mirah/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1127,7 +1122,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/miyatvousi/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1195,7 +1190,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/mumen/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1245,7 +1240,7 @@ a.book-btn:hover {
       
       <guid>https://millmint.net/newsdesk/patreon/letters/2020/nov/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://millmint.net/images/mastheads/letters/1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ This letter was sent out to Patrons in November 2020
 &lt;/blockquote&gt;
 
@@ -1262,12 +1257,114 @@ a.book-btn:hover {
     </item>
     
     <item>
+      <title>On Moneylessness</title>
+      <link>https://millmint.net/newsdesk/essays/moneylessness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/newsdesk/essays/moneylessness/</guid>
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
+  &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;
+This essay was written in December 2021. &lt;a href=&#34;https://millmint.net/posts/2021-12-09-moneylessness&#34;&gt;Click here to see it as a post&lt;/a&gt;.
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;the-vekllei-person&#34;&gt;The Vekllei Person&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;fc&#34;&gt;W&lt;/span&gt;
+hat good is more writing about theories and the methodology of country-constructs? More importantly — how is it authentically convincing to the person who has lived their entire lives immersed in their own ways of living? Vekllei does not use money — the purpose of these notes are to demonstrate how such a thing works, immersing Vekllei’s participatory economy in a human lens, and articulate the motivations, biases and assumptions of the average working Vekllei person. This is what a Vekllei working life looks like from the ground up.&lt;/p&gt;
+&lt;p&gt;It is important to recognise Vekllei people do not think like you.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; They are not particularly more altruistic, hard-working, or kind to each other. They are, however, affected by their environment, which has introduced foundational shifts in their basic assumptions about the world. These differences can be illustrated in three features of life, which illustrate the worldview of the typical Vekllei person.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-metaphysical-assumptions&#34;&gt;1. Metaphysical assumptions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vekllei person understands that there is an afterlife, and that spirits, demons, and a collection of mythological creatures play a part in human life. She does not hold contemporary conceptualisations of landscape &amp;ndash; she does not think of nature except in abstract, transcendental ways. She fears and respects nature, which is &lt;a href=&#34;https://millmint.net/posts/2020-12-05-gods/&#34;&gt;afforded sovereignty by Crown Lands&lt;/a&gt; under the Landscape Sovereign. She does not believe humans are caretakers of nature. She does not believe in a god, but if she does it created and maintains both the human and natural worlds. She believes the purpose of people is the comfort of people and the good stewardship of human lands.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-existential-assumptions&#34;&gt;2. Existential assumptions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vekllei person is prepped from a young age to explore their adult personhood. Schooling fosters his interests and technical skills, and prepares him for the casual pace of Vekllei working life. He is motivated to accomplish a social or professional legacy before he dies. He is not particularly anxious about his future. He considers the quality of life in Vekllei to be the best in the world, without having lived anywhere else.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-material-assumptions&#34;&gt;3. Material assumptions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vekllei person understands objects in &lt;a href=&#34;https://millmint.net/posts/2020-10-11-metaphysic/&#34;&gt;physical and social dimensions of utility&lt;/a&gt;. Life is full of small art and beauty for her, accessed frequently and easily through cafes, cinemas, picnics, galleries and travel. The spatiality and physicality of her surrounds are of keen interest to her and open interest in the mechanisms of society. She is comfortable and skeptical about new things.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite the introduction of robotics into Vekllei&amp;rsquo;s industrial and civilian infrastructure, about 90% of people are employed in some capacity. With an illustration of the average Vekllei person fresh in our minds, let us explore why people continue to work in an age without money.&lt;/p&gt;
+&lt;h2 id=&#34;why-do-vekllei-people-work&#34;&gt;Why do Vekllei people work?&lt;/h2&gt;
+&lt;p&gt;Because they have to, and because there is only so much else to do. In a broad sense, activity is a feature of all people, and work in Vekllei fulfils the desire for activity because it is easy where wanted and rewarding where needed. If work is not easy or rewarding it is mostly dispensed with; Vekllei people are not particularly self-sacrificing.&lt;/p&gt;
+&lt;p&gt;When work is conceived of in a wage, time and effort are calculated against each other, and removing the wage collapses most reasons for working. In Vekllei no such arrangement exists &amp;ndash; wage labour has not really existed in postwar occupation and free society. We are several generations removed from the age of compensation and into an epoch of rest, which has recalculated waking hours along idling interest and curiosity. Work exists because it is essential to the functioning of society, and because it provides a meaningful method of exploring interests and skill-building. At no point are Vekllei people expected to desire work &amp;ndash; it is something they have to do, and its burden is minimised at great expense.&lt;/p&gt;
+&lt;p&gt;These are sentiments that make sense immersed in their context &amp;ndash; made real by the animistic, satisfied, and curious type of Vekllei person. They are also sentiments made possible only by Vekllei&amp;rsquo;s architected strengths and concessions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal luxuries (jewellery, appliances, domestic aid, mechanical dishwashers, specialised food appliances) are rare, but luxuries of free time and entertainment (underfloor heating, cafés, music venues and bars, alcohol, pleasant public gardens and commons) are abundant and easily accessible.&lt;/li&gt;
+&lt;li&gt;Most commodities require personal effort to obtain, but are usually worth the effort (houseplants are found and potted personally, good meat is hunted and prepared, and artisanal furniture is often traded).&lt;/li&gt;
+&lt;li&gt;Vekllei has a thriving barter economy built on favours, goodwill, and lending a hand. These social dimensions of the economy are facts of life for every person &amp;ndash; everyone is aware of the state of things.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a society where housing, transport, food, small art and beauty are cheap, and convenience is expensive. It does not work equally for everyone &amp;ndash; it was never designed to. The simplicty of moneylessness is actually very complicated, and the Vekllei economy is made up of countless markets bristling with politics, friendships, family, grudges and good-neighbourliness. Outside of bureau monopolies, which meet the basic needs of society, the Vekllei economy is anarchic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/posts/2020-07-13-economy/&#34;&gt;In a previous article&lt;/a&gt;, these ideas were characterised as the three precepts of the Vekllei economy, articulated as follows.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Austerity&lt;/strong&gt;. Petty austerity lurks at the fringes of Vekllei life. Commmon items are frequently in short supply, and require a &amp;ldquo;trial of ownership&amp;rdquo; to acquire. This prevents Vekllei&amp;rsquo;s reliable transition to a consumer society, which would strain bureau production and require more factory work. It also serves a cultural purpose in localising consumption and incentivising work, as a reward mechanism.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apathy&lt;/strong&gt;. Small businesses in &lt;em&gt;senrouiva&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; markets are not provided with reliable methods to expand their business or indeed employ more people than one is capable of knowing. This protects the bureau trade monopolies and bureau-size companies, which are critical aspects of Vekllei&amp;rsquo;s consumer manufacturing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Play&lt;/strong&gt;. Like children, Vekllei people participate in work as a social ritual and act out roles in society. This play is productive and contributes to the economy, a fact that does not delegitimise its status as a social activity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;People work because they are built to work&lt;/strong&gt;. This is not an altruistic idea. It is important to seperate contemporary Western conceptions of wage labour from the reality of Vekllei work, which is largely social and purposeful. Not all work is pleasant, a fact that requires a series of cascading solutions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;It is improved&lt;/strong&gt;. Retail, hospitality and service work in Vekllei are jobs justified only by their dignity. There are only a handful of sales assistants in Vekllei, and their roles are independent and well-respected &amp;ndash; they serve satisfaction, not the company. These usually include working with customers personally to prepare complete outfits, improving their confidence, and studying and practicing fashions. In addition, many people in such work are employed by friends or family, or otherwise work only part time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is rewarded&lt;/strong&gt;. Work is rewarded materially in Vekllei, despite misconceptions. In some work, the benefits are small and inconsequential &amp;ndash; good leftovers and access to scarce goods among them. Most commonly, real estate is constructed by the municipal agent and protected for certain types of work, the ownership of which can be wrested away from the employer with extended service. Health care workers are provided for in Vekllei in overt ways &amp;ndash; Vekllei is not, by principle, egalitarian.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is shared&lt;/strong&gt;. Although large companies retain cleaning automen, most smaller enterprises and senrouive share the burden of cleaning among staff periodically, as at home and school. Schools, similarly, rely mostly on parent volunteers to provide lunches and run extracurricular activities. Since it is common in Vekllei for only one parent to work, much community organising and child-rearing is provided by stay-at-home mums and dads.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is automated&lt;/strong&gt;. Most factory labour in bureaus is automated by automanufacturies, which require only minimal supervision and are usually integrated into the place of work. Automanufacturies produce the vast majority of shelf goods in the country, including consumer, industrial and agricultural products. The production of automen&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; is, mostly, automated in the same process.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is conscripted&lt;/strong&gt;. Essential labour, particularly in construction, is conscripted through Compulsory Service. The Army Construction House is the largest construction outfit in Vekllei, and is responsible for much of rural construction in the country.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is done without&lt;/strong&gt;. Vekllei life is missing or unreliably demonstrates features of consumer societies overseas, including many personal electronics, autos, and appliances. Most people have only a handful of personal items and a few pairs of shoes, although their housing and accessible entertainment is of much higher quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It can be difficult to conceptualise working for free without first immersing yourself in a society where comfort is universal, there is little else to do, and there is no upward mobility through idleness. Powerful cultural biases, particularly as they pertain to consumption and community, are potent social pressures. Power itself is abundant in Vekllei and awarded freely to people seeking it. Jobs carry respect, since employment with dignity almost always requires agency, and agency requires independence and problem solving. And where a job is unsatisfying, unenviable, unrewarding, and unfulfilled, it is dispensed with. Not because the Vekllei state is particularly noble &amp;ndash; instead, it cannot do anything but accept it.&lt;/p&gt;
+&lt;h2 id=&#34;meaningful-work-for-ordinary-people&#34;&gt;Meaningful work for ordinary people&lt;/h2&gt;
+&lt;p&gt;Although a great many specialisations exist in Vekllei for its millions of people, jobs are treated of constellations of tasks. For three days a week, the skilled tradesmen works in their specialty, but like it is in school, the fourth day is often dedicated to tasks of company maintenance. Such tasks may include cleaning, food preparation, gardening, maintenance and clerical work. No one likes it, but it has to be done. Labour can&amp;rsquo;t be purchased and there are few people willing to clean or repair uncompensated &amp;ndash; so it remains the company&amp;rsquo;s problem. Since most companies in Vekllei are cooperative, and are owned by the people who work in them, it more precisely remains their problem.&lt;/p&gt;
+&lt;p&gt;Most people in Vekllei work three or four days a week, depending on their job and place of employ. Some may work more or less. People particularly desperate to avoid regular employment will find it is easy to do so, with the exception of Compulsory Service, which requires four years from every person sometime between the ages of 18 and 35. You are supposed to register employment with the Employment Commission&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;, but there are many hundreds of exceptions to employment readily available to the social parasite. That is the precise Vekllei phrase, in fact &amp;ndash; &amp;ldquo;social parasitism&amp;rdquo; &amp;ndash; which surfaces in government reports and local gossip alike.&lt;/p&gt;
+&lt;p&gt;The straightforward requirement to be employed, called &amp;ldquo;Contribution,&amp;quot;&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; suggests tremendous waste and inefficiency &amp;ndash; this is accurate, and &lt;a href=&#34;https://millmint.net/posts/2020-07-13-economy/&#34;&gt;is considered a feature of the system&lt;/a&gt;. Work is both productive and a social benefit to society, and its actual efficiency is of little concern except in the context of bureau companies,&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; which support the basic comforts of society. The senrouive economy, in all its anarchy, best resembles a modern post-industrial service economy. The product is in fact the managing, serving, networking and strategic thinking of the senrouive class of people. The scale and gross productivity of senrouive work in Vekllei is nearly three times that of the bureau-backed industrial/agricultural monopolies that come to mind when imagining typical &amp;ldquo;bureau business.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;With much of manufacturing automated by automanufacturies, it is easy to overlook less dramatic efficiencies in the industrial workplace, which now requires only half the staff it did a hundred years ago. In general, automation has affected Vekllei slowly and to its benefit, allowing the country to trade potential increases in productivity for less work. Less work was an essential reaction to the famines and indigence of the early postwar years, and has become a cherished feature of postwar Vekllei society.&lt;/p&gt;
+&lt;h3 id=&#34;case-study-1----tzipora-desmoisnes&#34;&gt;Case Study 1 &amp;ndash; Tzipora Desmoisnes&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tzipora is a young woman living alone in Montre, a city-neighbourhood on the North Coast. She is studying at Montre National University, and since she is studying full time she is considered to have fulfilled Contribution. In addition, she works for the student newspaper &lt;em&gt;Montre Student Gazette&lt;/em&gt; part-time as an editor, with the aim to increase readership to petition for printing press machines from Montre Heavy Machines S.q.M. She does not enjoy study much but finds publishing to be very rewarding. The creativity and independence of student periodicals makes for interesting work, and she&amp;rsquo;s proud of it; she&amp;rsquo;s proud of having her name in the publisher credits, and having the respect of her student editorial staff, and of receiving recognition from successful journalists for her efforts in correspondence.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;case-study-2----usef-sismiosn&#34;&gt;Case Study 2 &amp;ndash; Usef Sismiosn&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Usef is a man of middle age in &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs/ou/&#34;&gt;Ou&lt;/a&gt;, a borough in the central highlands of Vekllei containing several agricultural communities. Usef was born here, and will likely die here &amp;ndash; his village, Tiamoin, subsists off the agricultural products of its surrounds. Although he didn&amp;rsquo;t take up farming after his father, his job as a local grocer keeps him in close contact with the goings-on of local agriculture. The goings-on of pretty much everything, in fact. He&amp;rsquo;s got a keen ear for good stories, and lives above the shop he owns with his wife and child. If he&amp;rsquo;s honest, there&amp;rsquo;s not much to running a grocery &amp;ndash; inventory is done by the stock computer in Ada, so he spends most days reading and waiting for someone he knows to stop by (and he knows everyone in Tiamoin). He&amp;rsquo;s well known and well liked, and his life is uncomplicated. Because he works the shop, he guarantees the property will be owned by his family for as long as they want it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;case-study-3----floret-vosmiesneh&#34;&gt;Case Study 3 &amp;ndash; Floret Vosmiesneh&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Floret is a woman close to retirement in Vekllei&amp;rsquo;s Great Coast, who works as a product director at Comec, a plastics company that makes up part of General Plastics S.A., a bureau organisation. She is having problems with her superiors and is thinking about leaving her job, or perhaps going part-time. She is not well-positioned to find a managerial position at another company right now, and worries that she will not have time to find one before the grace period between work elapses, potentially demoting herself. She has worked for Comec for a long time and has nearly two years of long-service leave accrued, so she is considering taking all of it at once. Afterwards she might move in with her son, who has just had his first child, which would carry her through to retirement. Helping raise family waives Contribution, and she could use the break. When it was good, it was very good &amp;ndash; most of her closest friends are staff at Comec, but all things come to an end. Making big adjustments later in life can be intimidating, but they were often for the best.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These three examples do not demonstrate that all work is satisfying or produces good outcomes for people in Vekllei, but rather that, in two out of three cases, work has ceased to resemble conventional waged labour. Bureau work continues to be a burden &amp;ndash; hence its ongoing improvement, automation, conscription and abolition. The simplicity of moneylessness is actually its most complicated feature, and has produced a complicated state of affairs only partially engineered by the postwar interim government and its constitution.&lt;/p&gt;
+&lt;p&gt;This loose collection of notes indicates some of the differences in the working disposition of Vekllei people and what their work looks like. Like most summaries of the so-called &amp;ldquo;Vekllei bureau system&amp;rdquo;, this brief collection of facts tends to paint an excessively sentimental picture of working life in Vekllei &amp;ndash; but there are few ways otherwise to describe the utopian premise of the Atlantic commonwealth, and its ongoing reevaluation of the imagined end of history.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Vekllei is a nation of immigrants of many cultures and beliefs, but it is also true that their children are raised in a Vekllei society with overt Vekllei cultural foundations. This trend is documented thoroughly by the Religious Affairs Office of the Commonwealth Culture Secretariat (COLSEC), which wrote &amp;ldquo;animistic features of the indigenous commonwealth emerge consistently in new generations, even where traditionally displaced by prior religious structures, correlating with the emergence of multicultural Upen faiths.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;As collected by the 2055 Vekllei Census and reported by the Ministry of the Commonwealth&amp;rsquo;s Statistics Directorate.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;Senrouive&lt;/em&gt;, lit. &amp;ldquo;private work.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/posts/2021-01-11-automen/&#34;&gt;Automen&lt;/a&gt; are synthetic biological robots used extensively in industrial applications in Vekllei.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The Vekllei Employment Commission is an office of the Commonwealth Labour Secretariat, which oversees all employment across Vekllei&amp;rsquo;s commonwealth of nations.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Translated from &lt;em&gt;Consosva&lt;/em&gt;, a portmanteau of &lt;em&gt;consivismiosn sovis&lt;/em&gt;, or &amp;ldquo;contributory service.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Also known as &lt;em&gt;Venrouive&lt;/em&gt;, lit. &amp;ldquo;public work.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ou</title>
       <link>https://millmint.net/utopia/vekllei/landscape/boroughs/ou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/ou/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1361,7 +1458,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/patreon/drafts/comic/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;book-hint yellow&#34;&gt;
+      <description>&lt;p&gt;&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ &lt;strong&gt;Tip:&lt;/strong&gt; press the black circle in the menu to read in dark mode
 &lt;/blockquote&gt;
 
@@ -1413,7 +1510,7 @@ This draft represents the final copy used as a reference for inking &amp;ndash; 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/santes/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1501,7 +1598,7 @@ This draft represents the final copy used as a reference for inking &amp;ndash; 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/troll/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1574,7 +1671,7 @@ This draft represents the final copy used as a reference for inking &amp;ndash; 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/essays/utopie/</guid>
-      <description>&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;
 This essay was written in June 2021. &lt;a href=&#34;https://millmint.net/posts/2021-06-26-utopie&#34;&gt;Click here to see it as a post&lt;/a&gt;.
 &lt;/blockquote&gt;
@@ -1625,7 +1722,7 @@ write introspectively about the project sometimes, as a means by which I conside
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/voya-voya/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1694,7 +1791,7 @@ write introspectively about the project sometimes, as a means by which I conside
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/vekllei/landscape/boroughs/yana/</guid>
-      <description>&lt;blockquote class=&#34;book-hint green&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/vekllei/landscape/boroughs&#34;&gt;&lt;strong&gt;borough&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -1766,7 +1863,7 @@ write introspectively about the project sometimes, as a means by which I conside
       
       <guid>https://millmint.net/newsdesk/patreon/letters/2020/dec/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://millmint.net/images/mastheads/letters/2.jpg&#34; alt=&#34;smallimg&#34;&gt;&lt;/p&gt;
-&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ This letter was sent out to Patrons in December 2020
 &lt;/blockquote&gt;
 
@@ -1791,7 +1888,7 @@ write introspectively about the project sometimes, as a means by which I conside
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/essays/hongkong/</guid>
-      <description>&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;
 This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong&gt;October 2019&lt;/strong&gt;. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.
 &lt;/blockquote&gt;
@@ -1819,12 +1916,7 @@ This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/2/</guid>
-      <description>&lt;style&gt;
-.markdown a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -2065,7 +2157,7 @@ a.book-btn:hover {
       
       <guid>https://millmint.net/utopia/vekllei/culture/language/</guid>
       <description>&lt;h2 id=&#34;1-overview&#34;&gt;1. Overview&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint red&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -2095,7 +2187,7 @@ a.book-btn:hover {
 &lt;/details&gt;
 
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint red&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2020-11-14-language/&#34;&gt;How to Speak Vekllei&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2420,7 +2512,7 @@ a.book-btn:hover {
 &lt;p&gt;Many &lt;em&gt;Topet&lt;/em&gt; characters are figurative; they represent their meanings pictographically, like Egyptian &lt;em&gt;Hieroglyphs&lt;/em&gt; or Chinese &lt;em&gt;Hanzi&lt;/em&gt;. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a &lt;em&gt;transcendental&lt;/em&gt;, rather than &lt;em&gt;literal&lt;/em&gt; system. Although &lt;em&gt;Topet&lt;/em&gt;&amp;rsquo;s early form, &lt;em&gt;Hieyeric&lt;/em&gt;, was explicitly pictographic, modern &lt;em&gt;Topet&lt;/em&gt; is often abstracted and decoupled from its figurative meaning via the phonetic system.&lt;/p&gt;
 &lt;p&gt;Despite common use of the phonetic system in modernity, the semantic readings of characters are taught and essential for literacy beyond literal imitation of speech. For the vast majority of &lt;em&gt;Topet&lt;/em&gt; characters, their logographic meaning determines their pronunciation, and consonant characters especially depend on this meaning to form words. The word for breakfast is &lt;em&gt;petimourgeneur&lt;/em&gt;, but it cannot be written with random literal phonetic characters; parts of the word depend on the figurative meaning of certain components, and so without its semantic traits the word would be illegible to most people. This represents a wider co-dependency on simultaneous phonetic and semantic readings of words, with the importance of each fluctuating depending on the word in question. Older words tend to be heavily figurative, whereas modern and loan words are often more phonetic. This inconsistency is part of the difficulty in learning &lt;em&gt;Topet&lt;/em&gt;, and leaves many immigrants fluent in speech but inadequately literate in reading and writing.&lt;/p&gt;
 &lt;h3 id=&#34;structure&#34;&gt;Structure&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint red&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-05-31-topet/&#34;&gt;How to Read Vekllei&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2442,7 +2534,7 @@ a.book-btn:hover {
 &lt;h3 id=&#34;practice&#34;&gt;Practice&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Rapotenne&lt;/em&gt; consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in &lt;em&gt;Rapotenne&lt;/em&gt;. The shape and stroke order of characters determines the physicality of &lt;a href=&#34;https://millmint.net/utopia/vekllei/language/#6-upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt;, as their function within ritual is more or less the same. Although simplistic and literally figurative, &lt;em&gt;Rapotenne&lt;/em&gt; is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.&lt;/p&gt;
 &lt;h2 id=&#34;5-potenne&#34;&gt;5. Potenne&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint red&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ &lt;strong&gt;Try Potenne yourself!&lt;/strong&gt; Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You&amp;rsquo;ve just said &amp;ldquo;good to see you again.&amp;rdquo;
 &lt;/blockquote&gt;
 
@@ -2521,7 +2613,7 @@ a.book-btn:hover {
 }
 &lt;/style&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt; society
 &lt;/blockquote&gt;
 
@@ -2533,7 +2625,7 @@ a.book-btn:hover {
 &lt;strong&gt;he Royal Mail of Vekllei&lt;/strong&gt;, referred to as the &lt;strong&gt;Mail&lt;/strong&gt; or &lt;strong&gt;Mail A.r.&lt;/strong&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; within the country, is the national postal carrier of &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt;. It is a military state requisite reponsible for all postage in the country, and delivers nearly 50 million mail pieces domestically and abroad each day. One of the oldest institutions of its kind in Vekllei, it was founded in 1422 as a courier system between the Vekllei Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and today offers a variety of services available to all Vekllei residents, including external territories.&lt;/p&gt;
 &lt;p&gt;Vekllei is also home to the U.N. Universal Postal Union, the body responsible for coordinating international postage, of which Vekllei is a signatory.&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-22-pond/&#34;&gt;Post is for People&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2546,7 +2638,7 @@ a.book-btn:hover {
 &lt;/p&gt;
 &lt;p&gt;Like most Royal Bureaus, the Mail is headquartered in Vekllei&amp;rsquo;s capital across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and maintenance, and Vekllei&amp;rsquo;s General Post Office. There are over 6,400 post offices in Vekllei today, connecting the dense Home Islands to its far-flung peripheral territories.&lt;/p&gt;
 &lt;h3 id=&#34;history&#34;&gt;History&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-01-mail/&#34;&gt;The Men and Women of the Royal Mail in Vekllei&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2555,7 +2647,7 @@ a.book-btn:hover {
 &lt;p&gt;The Mail would not come to resemble conventional civilian Mail until 1652, when the Junta expanded postal contracts to the privy councils of the Faroe and Greenland territories, and later broke apart the Mail monopoly to benefit then-Secretary of State Kism Sismiosnah, who established the New Parliament Postal Service. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Vekllei people, and the Mail came to resemble its contemporary mandate.&lt;/p&gt;
 &lt;p&gt;The Mail was reestablished in 2015, during Vekllei independence. It was afforded a mandate protected by the postwar &lt;a href=&#34;https://millmint.net/utopia/vekllei/#floral-society&#34;&gt;Petticoat Constitution&lt;/a&gt;, and all existing private mail services established in occupation were folded directly into the new state monopoly. In 2016, a year after reestablishment, Mi Miou was elected as the world&amp;rsquo;s first female Postmistress General. The Floral Period of the Royal Mail has been marked by a rapid expansion of both infrastructure and services in Vekllei and abroad. World Post, the international for-profit arm of the Mail, was established in 2034.&lt;/p&gt;
 &lt;h3 id=&#34;structure&#34;&gt;Structure&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-02-postmistress/&#34;&gt;The Postmistress of Vekllei&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2628,7 +2720,7 @@ a.book-btn:hover {
 &lt;/details&gt;
 
 &lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-16-stamps/&#34;&gt;Philately Foolery&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2644,7 +2736,7 @@ a.book-btn:hover {
 &lt;/p&gt;
 &lt;p&gt;Since the Mail&amp;rsquo;s Office of Telecommunications is also responsible for all telephones, telegrams and videophones in the country, the Mail&amp;rsquo;s status as a lynchpin of communication is absolute, and heavily protected by the postwar Vekllei constitution.&lt;/p&gt;
 &lt;h3 id=&#34;daily-service&#34;&gt;Daily Service&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-05-mailtrain/&#34;&gt;Racing the Post Office to the Station&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2659,7 +2751,7 @@ a.book-btn:hover {
 &lt;h3 id=&#34;telecommunications&#34;&gt;Telecommunications&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Cosma&lt;/strong&gt; (a portmanteau of &lt;em&gt;communicasia matismion&lt;/em&gt;) is Vekllei&amp;rsquo;s state communications company, responsible for all residential and public telephones in the country. This includes videophones, public phone booths, and residential networks. Cosma also maintains telecommunications infrastructure networks internationally through &lt;strong&gt;Cosma Overseas&lt;/strong&gt;, primarily the Vekllei-Europe undersea cables and their sister sets between Vekllei and North America. Much of the network dates back over a hundred years, since a shortage of modern personal telephones in Vekllei requires Cosma to maintain a wide variety of voltage and cable standards. Commercial, industrial and government telecommunications is managed by a seperate internal department called the &lt;strong&gt;Industrial Telecommunications Office&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;operations&#34;&gt;Operations&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-11-manufacturie/&#34;&gt;The Stamp Manufacturie&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2691,7 +2783,7 @@ a.book-btn:hover {
 &lt;p&gt;Although at first glance the number of automen dramatically exceeds demand, the total count is misleading &amp;ndash; most automen with the Mail are integrated into the infrastructure of its sorting centres and post offices, and very few are traditionally autonomous robots commonly seen in public in Vekllei. Only about 8,000 automen are employed in physical mail delivery.&lt;/p&gt;
 &lt;p&gt;There are 16,220 post boxes in Vekllei, which are iconic for their red and gold paint and intricate detailing.&lt;/p&gt;
 &lt;h3 id=&#34;fleet&#34;&gt;Fleet&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint mail&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-02-03-fairie/&#34;&gt;The Fairie&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2771,7 +2863,7 @@ a.book-btn:hover {
 }
 &lt;/style&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint vnr&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt; society
 &lt;/blockquote&gt;
 
@@ -2937,7 +3029,7 @@ a.book-btn:hover {
 &lt;h3 id=&#34;freight&#34;&gt;Freight&lt;/h3&gt;
 &lt;p&gt;VNR&amp;rsquo;s main freight lines run mostly on a seperate gauge and network, and are composed of several companies that operate regionally across a variety of locomotive types and industries. These include traditional freight locomotives and long/short cars, as well as freight trams and wagons used to transport goods around and between factories.&lt;/p&gt;
 &lt;h2 id=&#34;operations&#34;&gt;Operations&lt;/h2&gt;
-&lt;blockquote class=&#34;book-hint vnr&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-06-01-station-logic/&#34;&gt;Station Logic&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
@@ -2952,14 +3044,14 @@ a.book-btn:hover {
 &lt;p&gt;VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.&lt;/p&gt;
 &lt;h3 id=&#34;staff&#34;&gt;Staff&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://millmint.net/images/vnr.jpg&#34; alt=&#34;smallimg&#34;&gt;&lt;/p&gt;
-&lt;blockquote class=&#34;book-hint vnr&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-04-25-rail/&#34;&gt;The People of Vekllei National Rail&lt;/a&gt;&lt;/em&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.&lt;/p&gt;
 &lt;p&gt;The organisation is administered by the President of the Rail Central Office, which is responsible to the Transport Requisite and the Palace of Rail. VNR has a close relationship with bureau and petty-bureau coachbuilders, and wields considerable power in Vekllei&amp;rsquo;s heavy industries as a major manufacturing partner.&lt;/p&gt;
 &lt;h3 id=&#34;fleet&#34;&gt;Fleet&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint vnr&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ Download the &lt;a href=&#34;https://millmint.net/files/factbook/VNR-Rolling-Stock-Bulletin.pdf&#34;&gt;VNR Rolling Stock List (PDF)&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -2985,7 +3077,7 @@ a.book-btn:hover {
       
       <guid>https://millmint.net/utopia/vekllei/culture/religion/</guid>
       <description>&lt;h2 id=&#34;1-overview&#34;&gt;1. Overview&lt;/h2&gt;
-&lt;p&gt;&lt;blockquote class=&#34;book-hint red&#34;&gt;
+&lt;p&gt;&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt;
 &lt;/blockquote&gt;
 
@@ -3024,7 +3116,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/essays/waugh/</guid>
-      <description>&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;
 This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong&gt;October 2019&lt;/strong&gt;. It offers an analysis of Evelyn Waugh&amp;rsquo;s &lt;em&gt;Handful of Dust&lt;/em&gt; through an anti-utopian prism.
 &lt;/blockquote&gt;
@@ -3122,12 +3214,7 @@ The discovery of landscape predates modernism as Waugh understands it, but it re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/3/</guid>
-      <description>&lt;style&gt;
-.markdown a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -3341,7 +3428,7 @@ a.book-btn:hover {
       
       <guid>https://millmint.net/newsdesk/patreon/letters/2021/jan/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://millmint.net/images/mastheads/letters/3.jpg&#34; alt=&#34;smallimg&#34;&gt;&lt;/p&gt;
-&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ This letter was sent out to Patrons in January 2021
 &lt;/blockquote&gt;
 
@@ -3391,12 +3478,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/4/</guid>
-      <description>&lt;style&gt;
-.markdown a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -3596,12 +3678,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/5/</guid>
-      <description>&lt;style&gt;
-.markdown a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -3755,7 +3832,7 @@ a.book-btn:hover {
       
       <guid>https://millmint.net/newsdesk/patreon/letters/2021/may/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://millmint.net/images/mastheads/letters/4.jpg&#34; alt=&#34;smallimg&#34;&gt;&lt;/p&gt;
-&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ This letter was sent out to Patrons in May 2021
 &lt;/blockquote&gt;
 
@@ -3775,12 +3852,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/6/</guid>
-      <description>&lt;style&gt;
-.markdown a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -3944,7 +4016,7 @@ a.book-btn:hover {
       
       <guid>https://millmint.net/newsdesk/patreon/letters/2021/july/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://millmint.net/images/mastheads/letters/5.jpg&#34; alt=&#34;smallimg&#34;&gt;&lt;/p&gt;
-&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
   ❖ This letter was sent out to Patrons in July 2021
 &lt;/blockquote&gt;
 
@@ -3964,12 +4036,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/bulletin/2020/7/</guid>
-      <description>&lt;style&gt;
-.markdown a {
-color: var(--color-yellow);
-}
-&lt;/style&gt;
-
+      <description>
 
 
 
@@ -4156,7 +4223,7 @@ a.book-btn:hover {
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/newsdesk/essays/tokyo/</guid>
-      <description>&lt;blockquote class=&#34;book-hint blue&#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   &lt;strong&gt;❖ Note from the Editor&lt;/strong&gt;
 This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong&gt;December 2018&lt;/strong&gt;. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.
 &lt;/blockquote&gt;
@@ -4261,6 +4328,113 @@ a.book-btn:hover {
 &lt;img src=&#34;https://millmint.net/images/comics/drafts/15.jpg&#34; alt=&#34;img&#34;&gt;
 &lt;img src=&#34;https://millmint.net/images/comics/drafts/16.jpg&#34; alt=&#34;img&#34;&gt;
 &lt;img src=&#34;https://millmint.net/images/comics/drafts/17.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Moneylessness</title>
+      <link>https://millmint.net/posts/2021-12-09-moneylessness/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://millmint.net/posts/2021-12-09-moneylessness/</guid>
+      <description>
+
+
+  
+  
+
+
+&lt;a  href=&#34;https://www.reddit.com/r/vekllei/comments/rcn1cg/on_moneylessness/&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+  Archived from the original article here
+&lt;/a&gt;
+
+&lt;style&gt;
+a.book-btn:hover {
+  filter: brightness(85%);
+}
+&lt;/style&gt;
+
+&lt;blockquote class=&#34;book-hint &#34;&gt;
+  ❖ &lt;strong&gt;This essay&lt;/strong&gt; was published on &lt;a href=&#34;https://millmint.net&#34;&gt;millmint.net&lt;/a&gt;. &lt;a href=&#34;https://millmint.net/newsdesk/essays/moneylessness&#34;&gt;Read it here&lt;/a&gt;.
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Pictured: Tzipora and Cobian cycle around the cliffs in the borough of Totoyan, on Vekllei&amp;rsquo;s East Coast. Up ahead lies the Ocean Atlantique Restaurant and Public Gardens, run by the Totoyan Municipality.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;the-vekllei-person&#34;&gt;The Vekllei Person&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;What good is more writing about theories and the methodology of country-constructs?&lt;/strong&gt; More importantly — how is it authentically convincing to the person who has lived their entire lives immersed in their own ways of living? Vekllei does not use money — the purpose of these notes are to demonstrate how such a thing works, immersing Vekllei’s participatory economy in a human lens, and articulate the motivations, biases and assumptions of the average working Vekllei person. This is what a Vekllei working life looks like from the ground up.&lt;/p&gt;
+&lt;p&gt;It is important to recognise Vekllei people do not think like you.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; They are not particularly more altruistic, hard-working, or kind to each other. They are, however, affected by their environment, which has introduced foundational shifts in their basic assumptions about the world. These differences can be illustrated in three features of life, which illustrate the worldview of the typical Vekllei person.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-metaphysical-assumptions&#34;&gt;1. Metaphysical assumptions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vekllei person understands that there is an afterlife, and that spirits, demons, and a collection of mythological creatures play a part in human life. She does not hold contemporary conceptualisations of landscape &amp;ndash; she does not think of nature except in abstract, transcendental ways. She fears and respects nature, which is &lt;a href=&#34;https://millmint.net/posts/2020-12-05-gods/&#34;&gt;afforded sovereignty by Crown Lands&lt;/a&gt; under the Landscape Sovereign. She does not believe humans are caretakers of nature. She does not believe in a god, but if she does it created and maintains both the human and natural worlds. She believes the purpose of people is the comfort of people and the good stewardship of human lands.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-existential-assumptions&#34;&gt;2. Existential assumptions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vekllei person is prepped from a young age to explore their adult personhood. Schooling fosters his interests and technical skills, and prepares him for the casual pace of Vekllei working life. He is motivated to accomplish a social or professional legacy before he dies. He is not particularly anxious about his future. He considers the quality of life in Vekllei to be the best in the world, without having lived anywhere else.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-material-assumptions&#34;&gt;3. Material assumptions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vekllei person understands objects in &lt;a href=&#34;https://millmint.net/posts/2020-10-11-metaphysic/&#34;&gt;physical and social dimensions of utility&lt;/a&gt;. Life is full of small art and beauty for her, accessed frequently and easily through cafes, cinemas, picnics, galleries and travel. The spatiality and physicality of her surrounds are of keen interest to her and open interest in the mechanisms of society. She is comfortable and skeptical about new things.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite the introduction of robotics into Vekllei&amp;rsquo;s industrial and civilian infrastructure, about 90% of people are employed in some capacity. With an illustration of the average Vekllei person fresh in our minds, let us explore why people continue to work in an age without money.&lt;/p&gt;
+&lt;h2 id=&#34;why-do-vekllei-people-work&#34;&gt;Why do Vekllei people work?&lt;/h2&gt;
+&lt;p&gt;Because they have to, and because there is only so much else to do. In a broad sense, activity is a feature of all people, and work in Vekllei fulfils the desire for activity because it is easy where wanted and rewarding where needed. If work is not easy or rewarding it is mostly dispensed with; Vekllei people are not particularly self-sacrificing.&lt;/p&gt;
+&lt;p&gt;When work is conceived of in a wage, time and effort are calculated against each other, and removing the wage collapses most reasons for working. In Vekllei no such arrangement exists &amp;ndash; wage labour has not really existed in postwar occupation and free society. We are several generations removed from the age of compensation and into an epoch of rest, which has recalculated waking hours along idling interest and curiosity. Work exists because it is essential to the functioning of society, and because it provides a meaningful method of exploring interests and skill-building. At no point are Vekllei people expected to desire work &amp;ndash; it is something they have to do, and its burden is minimised at great expense.&lt;/p&gt;
+&lt;p&gt;These are sentiments that make sense immersed in their context &amp;ndash; made real by the animistic, satisfied, and curious type of Vekllei person. They are also sentiments made possible only by Vekllei&amp;rsquo;s architected strengths and concessions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal luxuries (jewellery, appliances, domestic aid, mechanical dishwashers, specialised food appliances) are rare, but luxuries of free time and entertainment (underfloor heating, cafés, music venues and bars, alcohol, pleasant public gardens and commons) are abundant and easily accessible.&lt;/li&gt;
+&lt;li&gt;Most commodities require personal effort to obtain, but are usually worth the effort (houseplants are found and potted personally, good meat is hunted and prepared, and artisanal furniture is often traded).&lt;/li&gt;
+&lt;li&gt;Vekllei has a thriving barter economy built on favours, goodwill, and lending a hand. These social dimensions of the economy are facts of life for every person &amp;ndash; everyone is aware of the state of things.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a society where housing, transport, food, small art and beauty are cheap, and convenience is expensive. It does not work equally for everyone &amp;ndash; it was never designed to. The simplicty of moneylessness is actually very complicated, and the Vekllei economy is made up of countless markets bristling with politics, friendships, family, grudges and good-neighbourliness. Outside of bureau monopolies, which meet the basic needs of society, the Vekllei economy is anarchic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/posts/2020-07-13-economy/&#34;&gt;In a previous article&lt;/a&gt;, these ideas were characterised as the three precepts of the Vekllei economy, articulated as follows.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Austerity&lt;/strong&gt;. Petty austerity lurks at the fringes of Vekllei life. Commmon items are frequently in short supply, and require a &amp;ldquo;trial of ownership&amp;rdquo; to acquire. This prevents Vekllei&amp;rsquo;s reliable transition to a consumer society, which would strain bureau production and require more factory work. It also serves a cultural purpose in localising consumption and incentivising work, as a reward mechanism.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apathy&lt;/strong&gt;. Small businesses in &lt;em&gt;senrouiva&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; markets are not provided with reliable methods to expand their business or indeed employ more people than one is capable of knowing. This protects the bureau trade monopolies and bureau-size companies, which are critical aspects of Vekllei&amp;rsquo;s consumer manufacturing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Play&lt;/strong&gt;. Like children, Vekllei people participate in work as a social ritual and act out roles in society. This play is productive and contributes to the economy, a fact that does not delegitimise its status as a social activity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;People work because they are built to work&lt;/strong&gt;. This is not an altruistic idea. It is important to seperate contemporary Western conceptions of wage labour from the reality of Vekllei work, which is largely social and purposeful. Not all work is pleasant, a fact that requires a series of cascading solutions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;It is improved&lt;/strong&gt;. Retail, hospitality and service work in Vekllei are jobs justified only by their dignity. There are only a handful of sales assistants in Vekllei, and their roles are independent and well-respected &amp;ndash; they serve satisfaction, not the company. These usually include working with customers personally to prepare complete outfits, improving their confidence, and studying and practicing fashions. In addition, many people in such work are employed by friends or family, or otherwise work only part time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is rewarded&lt;/strong&gt;. Work is rewarded materially in Vekllei, despite misconceptions. In some work, the benefits are small and inconsequential &amp;ndash; good leftovers and access to scarce goods among them. Most commonly, real estate is constructed by the municipal agent and protected for certain types of work, the ownership of which can be wrested away from the employer with extended service. Health care workers are provided for in Vekllei in overt ways &amp;ndash; Vekllei is not, by principle, egalitarian.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is shared&lt;/strong&gt;. Although large companies retain cleaning automen, most smaller enterprises and senrouive share the burden of cleaning among staff periodically, as at home and school. Schools, similarly, rely mostly on parent volunteers to provide lunches and run extracurricular activities. Since it is common in Vekllei for only one parent to work, much community organising and child-rearing is provided by stay-at-home mums and dads.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is automated&lt;/strong&gt;. Most factory labour in bureaus is automated by automanufacturies, which require only minimal supervision and are usually integrated into the place of work. Automanufacturies produce the vast majority of shelf goods in the country, including consumer, industrial and agricultural products. The production of automen&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; is, mostly, automated in the same process.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is conscripted&lt;/strong&gt;. Essential labour, particularly in construction, is conscripted through Compulsory Service. The Army Construction House is the largest construction outfit in Vekllei, and is responsible for much of rural construction in the country.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It is done without&lt;/strong&gt;. Vekllei life is missing or unreliably demonstrates features of consumer societies overseas, including many personal electronics, autos, and appliances. Most people have only a handful of personal items and a few pairs of shoes, although their housing and accessible entertainment is of much higher quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It can be difficult to conceptualise working for free without first immersing yourself in a society where comfort is universal, there is little else to do, and there is no upward mobility through idleness. Powerful cultural biases, particularly as they pertain to consumption and community, are potent social pressures. Power itself is abundant in Vekllei and awarded freely to people seeking it. Jobs carry respect, since employment with dignity almost always requires agency, and agency requires independence and problem solving. And where a job is unsatisfying, unenviable, unrewarding, and unfulfilled, it is dispensed with. Not because the Vekllei state is particularly noble &amp;ndash; instead, it cannot do anything but accept it.&lt;/p&gt;
+&lt;h2 id=&#34;meaningful-work-for-ordinary-people&#34;&gt;Meaningful work for ordinary people&lt;/h2&gt;
+&lt;p&gt;Although a great many specialisations exist in Vekllei for its millions of people, jobs are treated of constellations of tasks. For three days a week, the skilled tradesmen works in their specialty, but like it is in school, the fourth day is often dedicated to tasks of company maintenance. Such tasks may include cleaning, food preparation, gardening, maintenance and clerical work. No one likes it, but it has to be done. Labour can&amp;rsquo;t be purchased and there are few people willing to clean or repair uncompensated &amp;ndash; so it remains the company&amp;rsquo;s problem. Since most companies in Vekllei are cooperative, and are owned by the people who work in them, it more precisely remains their problem.&lt;/p&gt;
+&lt;p&gt;Most people in Vekllei work three or four days a week, depending on their job and place of employ. Some may work more or less. People particularly desperate to avoid regular employment will find it is easy to do so, with the exception of Compulsory Service, which requires four years from every person sometime between the ages of 18 and 35. You are supposed to register employment with the Employment Commission&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;, but there are many hundreds of exceptions to employment readily available to the social parasite. That is the precise Vekllei phrase, in fact &amp;ndash; &amp;ldquo;social parasitism&amp;rdquo; &amp;ndash; which surfaces in government reports and local gossip alike.&lt;/p&gt;
+&lt;p&gt;The straightforward requirement to be employed, called &amp;ldquo;Contribution,&amp;quot;&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; suggests tremendous waste and inefficiency &amp;ndash; this is accurate, and &lt;a href=&#34;https://millmint.net/posts/2020-07-13-economy/&#34;&gt;is considered a feature of the system&lt;/a&gt;. Work is both productive and a social benefit to society, and its actual efficiency is of little concern except in the context of bureau companies,&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; which support the basic comforts of society. The senrouive economy, in all its anarchy, best resembles a modern post-industrial service economy. The product is in fact the managing, serving, networking and strategic thinking of the senrouive class of people. The scale and gross productivity of senrouive work in Vekllei is nearly three times that of the bureau-backed industrial/agricultural monopolies that come to mind when imagining typical &amp;ldquo;bureau business.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;With much of manufacturing automated by automanufacturies, it is easy to overlook less dramatic efficiencies in the industrial workplace, which now requires only half the staff it did a hundred years ago. In general, automation has affected Vekllei slowly and to its benefit, allowing the country to trade potential increases in productivity for less work. Less work was an essential reaction to the famines and indigence of the early postwar years, and has become a cherished feature of postwar Vekllei society.&lt;/p&gt;
+&lt;p&gt;This loose collection of notes indicates some of the differences in the working disposition of Vekllei people and what their work looks like. Like most summaries of the so-called &amp;ldquo;Vekllei bureau system&amp;rdquo;, this brief collection of facts tends to paint an excessively sentimental picture of working life in Vekllei &amp;ndash; but there are few ways otherwise to describe the utopian premise of the Atlantic commonwealth, and its ongoing reevaluation of the imagined end of history.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Vekllei is a nation of immigrants of many cultures and beliefs, but it is also true that their children are raised in a Vekllei society with overt Vekllei cultural foundations. This trend is documented thoroughly by the Religious Affairs Office of the Commonwealth Culture Secretariat (COLSEC), which wrote &amp;ldquo;animistic features of the indigenous commonwealth emerge consistently in new generations, even where traditionally displaced by prior religious structures, correlating with the emergence of multicultural Upen faiths.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;As collected by the 2055 Vekllei Census and reported by the Ministry of the Commonwealth&amp;rsquo;s Statistics Directorate.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;Senrouive&lt;/em&gt;, lit. &amp;ldquo;private work.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/posts/2021-01-11-automen/&#34;&gt;Automen&lt;/a&gt; are synthetic biological robots used extensively in industrial applications in Vekllei.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The Vekllei Employment Commission is an office of the Commonwealth Labour Secretariat, which oversees all employment across Vekllei&amp;rsquo;s commonwealth of nations.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Translated from &lt;em&gt;Consosva&lt;/em&gt;, a portmanteau of &lt;em&gt;consivismiosn sovis&lt;/em&gt;, or &amp;ldquo;contributory service.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Also known as &lt;em&gt;Venrouive&lt;/em&gt;, lit. &amp;ldquo;public work.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
