@@ -57,7 +57,7 @@
 
 
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.488ffcff52a715cf277a2c68702d1cdd5c9fb4c639716f88a7116226e15dd99c.js" integrity="sha256-SI/8/1KnFc8neixocC0c3VyftMY5cW&#43;IpxFiJuFd2Zw=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.d3bbc0902750881acfd828dff7afdd47c201ad2d89f544a4102b5b974ff2052a.js" integrity="sha256-07vAkCdQiBrP2Cjf96/dR8IBrS2J9USkECtbl0/yBSo=" crossorigin="anonymous"></script>
     
     
     
@@ -226,12 +226,6 @@
 
     
         <li>
-            <a class="block" href="/newsdesk/essays/moneylessness">On Moneylessness</a>
-        </li>
-    
-
-    
-        <li>
             <a class="block" href="/newsdesk/essays/utopie">Utopie Concrete</a>
         </li>
     
@@ -335,9 +329,6 @@
         
             <li class="text-sm mt-2">
                 <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/moneylessness">On Moneylessness</a></li>
         
             <li class="text-sm mt-2">
                 <a href="/newsdesk/essays/utopie">Utopie Concrete</a></li>
@@ -847,6 +838,13 @@ a.book-btn:hover {
 <script src="/js/header.0b11855b871cb4d10c6c07b6723b9209f5c2bc9100735ab6ff47c8f9b76bb3d6ae41b488083b5fb15697987334039eb651b25c83228c29ac48a2bc168db8a894.js" integrity="sha512-CxGFW4cctNEMbAe2cjuSCfXCvJEAc1q2/0fI&#43;bdrs9auQbSICDtfsVaXmHM0A562UbJcgyKMKaxIorwWjbiolA=="></script>
 
 
+
+    <script src="/js/zooming.df2493cd6f8cab256f871755dce2aab19078e724c1c059f08fc53302405ab4ed78891b3ddaea0cddbfb3dad44c8f33dac08b4ac618a5917acfa0ed964da39219.js" integrity="sha512-3ySTzW&#43;MqyVvhxdV3OKqsZB45yTBwFnwj8UzAkBatO14iRs92uoM3b&#43;z2tRMjzPawItKxhilkXrPoO2WTaOSGQ==">
+      new Zooming({
+        onBeforeOpen: (e) => e.height = 2 * Math.round(e.height / 2),
+        onBeforeClose: (e) => e.width = 2 * Math.round(e.width / 2)
+});
+    </script>
 
 
 

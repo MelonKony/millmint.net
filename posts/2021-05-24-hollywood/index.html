@@ -55,7 +55,7 @@
 
 
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.488ffcff52a715cf277a2c68702d1cdd5c9fb4c639716f88a7116226e15dd99c.js" integrity="sha256-SI/8/1KnFc8neixocC0c3VyftMY5cW&#43;IpxFiJuFd2Zw=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.d3bbc0902750881acfd828dff7afdd47c201ad2d89f544a4102b5b974ff2052a.js" integrity="sha256-07vAkCdQiBrP2Cjf96/dR8IBrS2J9USkECtbl0/yBSo=" crossorigin="anonymous"></script>
     
     
     
@@ -224,12 +224,6 @@
 
     
         <li>
-            <a class="block" href="/newsdesk/essays/moneylessness">On Moneylessness</a>
-        </li>
-    
-
-    
-        <li>
             <a class="block" href="/newsdesk/essays/utopie">Utopie Concrete</a>
         </li>
     
@@ -333,9 +327,6 @@
         
             <li class="text-sm mt-2">
                 <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/moneylessness">On Moneylessness</a></li>
         
             <li class="text-sm mt-2">
                 <a href="/newsdesk/essays/utopie">Utopie Concrete</a></li>
@@ -453,7 +444,7 @@ a.book-btn:hover {
 <p>There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei. Lava is full of plants like these. A rail line runs near its injection well, where fresh glacial runoff is transformed into clean, limitless electricity through the miracle of its landscape and human ingenuity. The water is recycled, but excess waste water is dumped into the surrounding ro, forming foggy pools of light blue water. The earth here is alive; in the cold, the ponds begin to steam.</p>
 <p>Moise had complicated ambitions of becoming a filmmaker. As with all student filmmakers, he drafted his friends to help.</p>
 <p>His girlfriend, <a href="https://www.reddit.com/r/vekllei/comments/locjnz/turning_things_around/">Coretti</a>, operated the compact 8mm camera. Tzipora was the production assistant, doing makeup and foley and whatever he asked of her. Cobian was going to be a star — that’s what he said to her, anyway, and he paired her up with a mate of his in what would be an epic short film about lost love.</p>
-<p>It was Tzipora who suggested Miyatvousi, since she’d developed a good catalogue of scenic locations in her quest to find natural shrines. There was a place where the rail line crossed a small mineral lake, near the flash plant’s turbine halls. If worked out just right, you could have a shot that’d make the whole film. It was a hell of a journey — a bullet train in the morning to Krafla, where they got breakfast, and a two-hour local train far out from the city.</p>
+<p>It was Tzipora who suggested Miyatvousi, since she’d developed a good catalogue of scenic locations in her quest to find natural shrines. There was a place where the rail line crossed a small mineral lake, near the flash plant’s turbine halls. If worked out just right, you could have a shot that’d make the whole film. It was a hell of a journey — a bullet train in the morning to <a href="/utopia/vekllei/landscape/boroughs/krafla/">Krafla</a>, where they got breakfast, and a two-hour local train far out from the city.</p>
 <p>As it unfolds, you never realise how good a moment is. It was maybe the second or third-best day of Tzipora’s life. She didn’t know Coretti all that well, and it was the first time they’d talked about things other than Moise. They were on a great adventure, and they all knew it. They laughed when Moise coughed out his coffee all over himself and pretended to be interested when Tzipora talked at length about how geothermal power plants work.</p>
 <p>At first, the gig had been sort of a joke for Cobian — she was humouring the friend of her girlfriend — but as the film progressed, she realised how talented and passionate her friends were. They were deeply odd and talented people, and they believed in what they were doing — Cobian had never had friends like that before. On the train back to Lola, as the city lights of the capital loomed, Cobian turned to Tzipora and told her that she loved her for the first time.</p>
 <p>Ambitious, arrogant, naive, laughing, well-fed, tired, and in love. Looking back, Tzipora thought the candid footage of themselves made better cinema than anything in a theatre. Lights, camera — action.</p>
@@ -643,6 +634,13 @@ a.book-btn:hover {
 <script src="/js/header.0b11855b871cb4d10c6c07b6723b9209f5c2bc9100735ab6ff47c8f9b76bb3d6ae41b488083b5fb15697987334039eb651b25c83228c29ac48a2bc168db8a894.js" integrity="sha512-CxGFW4cctNEMbAe2cjuSCfXCvJEAc1q2/0fI&#43;bdrs9auQbSICDtfsVaXmHM0A562UbJcgyKMKaxIorwWjbiolA=="></script>
 
 
+
+    <script src="/js/zooming.df2493cd6f8cab256f871755dce2aab19078e724c1c059f08fc53302405ab4ed78891b3ddaea0cddbfb3dad44c8f33dac08b4ac618a5917acfa0ed964da39219.js" integrity="sha512-3ySTzW&#43;MqyVvhxdV3OKqsZB45yTBwFnwj8UzAkBatO14iRs92uoM3b&#43;z2tRMjzPawItKxhilkXrPoO2WTaOSGQ==">
+      new Zooming({
+        onBeforeOpen: (e) => e.height = 2 * Math.round(e.height / 2),
+        onBeforeClose: (e) => e.width = 2 * Math.round(e.width / 2)
+});
+    </script>
 
 
 
