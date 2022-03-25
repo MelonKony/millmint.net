@@ -165,10 +165,10 @@
     
     <item>
       <title>FAQ</title>
-      <link>https://millmint.net/utopia/intro/faq/</link>
+      <link>https://millmint.net/utopia/draft.md/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/utopia/intro/faq/</guid>
+      <guid>https://millmint.net/utopia/draft.md/faq/</guid>
       <description>&lt;style&gt;
 #headerbox .emoji {
     margin-right: 85px;
@@ -2326,28 +2326,19 @@ alina shares the Vekllei city-state&amp;rsquo;s unusual parliamentary system and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://millmint.net/utopia/characters/draft/</guid>
-      <description>&lt;style&gt;
-.gt-container {
-  display: none;
-}
-&lt;/style&gt;
-&lt;blockquote class=&#34;book-hint &#34;&gt;
+      <description>&lt;blockquote class=&#34;book-hint &#34;&gt;
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s characters&lt;/strong&gt;&lt;/a&gt;, who live in &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;fc&#34;&gt;A&lt;/span&gt;
 &lt;strong&gt;lthough almost all characters&lt;/strong&gt; in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you&amp;rsquo;re following along with this project, you&amp;rsquo;re in some small way an immigrant yourself. It&amp;rsquo;s through the eyes of these people that you see Vekllei, and their lives contribute to the utopian dimensions of this project as utopias-of-living.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m still working on the little illustrations for each of the main characters, so please check back now and then for a more comprehensive list.&lt;/p&gt;
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Tzipora (Zelda)&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;M&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&#34;background-color: var(--gray-100); border-radius: 5px;&#34;&gt;
-&lt;img alt=&#34;smallimg&#34; style=&#34;background-color: transparent;&#34; src=&#34;https://millmint.net/images/mastheads/characters/zelda.png&#34;&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Tzipora (Zelda)&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;M&lt;/div&gt;
 &lt;/div&gt;
 &lt;blockquote class=&#34;section &#34;&gt;
-  &lt;p&gt;&lt;strong&gt;Tzipora lo Ula de Helette Desmoisnes&lt;/strong&gt; is the main character and &lt;a href=&#34;https://millmint.net/utopia/intro/#three-utopias&#34;&gt;character utopia&lt;/a&gt; of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with &lt;a href=&#34;https://millmint.net/posts/2021-05-28-forever/&#34;&gt;Gregori Syndrome&lt;/a&gt;, a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising her paranoid personality and making her happy.&lt;/p&gt;
+  &lt;img alt=&#34;smallimg&#34; style=&#34;background-color: transparent;&#34; src=&#34;https://millmint.net/images/mastheads/characters/zelda.png&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Tzipora lo Ula de Helette Desmoisnes&lt;/strong&gt; is the main character and &lt;a href=&#34;https://millmint.net/utopia/intro/#three-utopias&#34;&gt;character utopia&lt;/a&gt; of this project. Often called Zelda by her friends, she is the protagonist of this project and a significant person within Vekllei. Although born in Vekllei, Tzipora was raised overseas in Colombia and later educated in the United States. It was not until her return to Vekllei in her teen-age years that she was formally diagnosed with &lt;a href=&#34;https://millmint.net/posts/2021-05-28-forever/&#34;&gt;Gregori Syndrome&lt;/a&gt;, a genetic disorder that affects her ageing and extends her natural life. Since her arrival in Vekllei, she has formed sincere and long-lasting relationships in her homeland, stabilising the neurotic parts of her personality and making her happy.&lt;/p&gt;
 &lt;a  href=&#34;https://millmint.net/tags/tzipora&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
   See all stories featuring Tzipora
 &lt;/a&gt;
@@ -2374,20 +2365,13 @@ a.book-btn:hover {
 &lt;/details&gt;
 
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Cobian&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;F&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&#34;background-color: var(--gray-100); border-radius: 5px;&#34;&gt;
-&lt;img alt=&#34;smallimg&#34; style=&#34;background-color: transparent;&#34; src=&#34;https://millmint.net/images/mastheads/characters/cobian.png&#34;&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Cobian&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;F&lt;/div&gt;
 &lt;/div&gt;
 &lt;blockquote class=&#34;section &#34;&gt;
-  &lt;strong&gt;Cobian lo Ro de Viviya de Queismesnah&lt;/strong&gt; is Tzipora&amp;rsquo;s longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora&amp;rsquo;s mostly male friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.
-&lt;/blockquote&gt;
-
-&lt;details &gt;
-  &lt;summary&gt;Who is Tzipora?&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;a  href=&#34;https://millmint.net/tags/cobian&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+  &lt;img alt=&#34;smallimg&#34; style=&#34;background-color: transparent;&#34; src=&#34;https://millmint.net/images/mastheads/characters/cobian.png&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Cobian lo Ro de Viviya de Queismesnah&lt;/strong&gt; is Tzipora&amp;rsquo;s longtime friend and occasional girlfriend. Conservative in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood. Tzipora and Cobian met during secondary schooling in Vekllei, and remained close throughout the rest of their lives. She is very close with Tzipora, but has tepid relationships with Tzipora&amp;rsquo;s (mostly male) friendship group out of jealousy and a general distaste for boys. She is rigorously polite in the middle-class sense of the word; formal among strangers, gossipy among friends.&lt;/p&gt;
+&lt;a  href=&#34;https://millmint.net/tags/cobian&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
   See all stories featuring Cobian
 &lt;/a&gt;
 &lt;style&gt;
@@ -2395,7 +2379,13 @@ a.book-btn:hover {
   filter: brightness(85%);
 }
 &lt;/style&gt;
-&lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
+
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Get to know Cobian&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
 &lt;p&gt;Cobian is green-eyed and black-haired, descended mostly from Inuit-Scandinavian ethnic groups common in Vekllei. She is more Asiatic in appearance than her friend Zelda, and is tall for her age. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is deeply envious of.&lt;/p&gt;
 &lt;p&gt;She dresses in prim, well-maintained clothing courtesy of her despotically hygienic mother, and has a penchant for ironed shirts, pleatless skirts, synthetic hosiery and jewellery she considers befitting a maturing young woman.&lt;/p&gt;
 &lt;h5 id=&#34;personality&#34;&gt;Personality&lt;/h5&gt;
@@ -2406,14 +2396,12 @@ a.book-btn:hover {
 &lt;/details&gt;
 
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Moise&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;j&lt;/div&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Moise&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;j&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Moise&lt;/strong&gt; is Tzipora&amp;rsquo;s best friend&lt;/p&gt;
-&lt;details &gt;
-  &lt;summary&gt;Who is Moise?&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;a  href=&#34;https://millmint.net/tags/moise&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+&lt;blockquote class=&#34;section &#34;&gt;
+  &lt;p&gt;&lt;strong&gt;Moise ra Hasapis&lt;/strong&gt; is Tzipora&amp;rsquo;s neighbour and best friend. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood. Imposing in both attitude and posture, Moise is feared and respected among his roommates.&lt;/p&gt;
+&lt;a  href=&#34;https://millmint.net/tags/moise&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
   See all stories featuring Moise
 &lt;/a&gt;
 &lt;style&gt;
@@ -2421,47 +2409,52 @@ a.book-btn:hover {
   filter: brightness(85%);
 }
 &lt;/style&gt;
-&lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
+
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Get to know Moise&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
+&lt;p&gt;Moise is brown-eyed and dark-haired, with powerful Greek features inherited from his mother and father. Hard&lt;/p&gt;
 &lt;h5 id=&#34;personality&#34;&gt;Personality&lt;/h5&gt;
 
   &lt;/div&gt;
 &lt;/details&gt;
 
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Coretti&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;o&lt;/div&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Coretti&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;o&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Coretti&lt;/strong&gt; is &lt;a href=&#34;https://millmint.net/characters/moise&#34;&gt;Moise&amp;rsquo;s&lt;/a&gt; girlfriend&lt;/p&gt;
-&lt;details &gt;
-  &lt;summary&gt;Who is Moise?&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;a  href=&#34;https://millmint.net/tags/moise&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
-  See all stories featuring Moise
+&lt;blockquote class=&#34;section &#34;&gt;
+  &lt;p&gt;&lt;strong&gt;Coretti lo Rus de Gloria Adoula&lt;/strong&gt; is &lt;a href=&#34;https://millmint.net/characters/moise&#34;&gt;Moise&amp;rsquo;s&lt;/a&gt; girlfriend&lt;/p&gt;
+&lt;a  href=&#34;https://millmint.net/tags/coretti&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+  See all stories featuring Coretti
 &lt;/a&gt;
 &lt;style&gt;
 a.book-btn:hover {
   filter: brightness(85%);
 }
 &lt;/style&gt;
-&lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
-&lt;p&gt;Cobian is green-eyed and black-haired, descended mostly from Inuit-Scandinavian ethnic groups common in Vekllei. She is more Asiatic in appearance than her friend Zelda, and is tall for her age. She styles her long hair in many different ways, most commonly in a bun or braids. She is healthy but inactive, and tans easily without freckling. Cobian is naturally graceful and well-mannered, traits Tzipora is deeply envious of.&lt;/p&gt;
-&lt;p&gt;She dresses in prim, well-maintained clothing courtesy of her despotically hygienic mother, and has a penchant for ironed shirts, pleatless skirts, synthetic hosiery and jewellery she considers befitting a maturing young woman.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Get to know Coretti&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
 &lt;h5 id=&#34;personality&#34;&gt;Personality&lt;/h5&gt;
-&lt;p&gt;When Tzipora meets her, Cobian is a figure of sympathy and irritation. She was deeply insecure after old friendships fell apart in the tumultuous transition between middle and secondary schooling. Once she became comfortable around her new friend and matured out of some old insecurities, Cobian revealed herself to be easy-going and friendly, a person of small pretensions and genuine friendship. In her own skin, she makes an excellent conversationalist, charmingly attentive and ready to listen.&lt;/p&gt;
-&lt;p&gt;Some people think she&amp;rsquo;s pretentious; she&amp;rsquo;s not pretentious. She likes good food and is highly fashionable in her interests and styles, but Cobian is also deeply empathetic and finds interest in new things via her friends she&amp;rsquo;d never previously thought about. She makes up most of Tzipora&amp;rsquo;s social life, which leaves plenty of space for Zelda&amp;rsquo;s big personality and obsessions. Zelda has a deeply stablising effect on Cobian, rounding out some of her mother&amp;rsquo;s strict legacy through Zelda&amp;rsquo;s androgynous habits and far-fetched fascinations. But Zelda&amp;rsquo;s big personality does not include much talking or grace, and in these deficiencies Cobian&amp;rsquo;s social talent shines. Together they make a great pair, their neighbouring personalities aiding their best selves.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/details&gt;
 
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Zhi&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;h&lt;/div&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Zhi&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;h&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Lin Zhi&lt;/strong&gt;, who prefers being addressed by her full name, is Tzipora&amp;rsquo;s friend and&lt;/p&gt;
-&lt;details &gt;
-  &lt;summary&gt;Who is Moise?&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;a  href=&#34;https://millmint.net/tags/zhi&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+&lt;blockquote class=&#34;section &#34;&gt;
+  &lt;p&gt;&lt;strong&gt;Lin Zhi&lt;/strong&gt;, who prefers being addressed by her full name, is Tzipora&amp;rsquo;s friend and&lt;/p&gt;
+&lt;a  href=&#34;https://millmint.net/tags/zhi&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
   See all stories featuring Lin Zhi
 &lt;/a&gt;
 &lt;style&gt;
@@ -2469,56 +2462,104 @@ a.book-btn:hover {
   filter: brightness(85%);
 }
 &lt;/style&gt;
-&lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
+
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Get to know Lin Zhi&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
 &lt;h5 id=&#34;personality&#34;&gt;Personality&lt;/h5&gt;
 
   &lt;/div&gt;
 &lt;/details&gt;
 
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Baron&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;7&lt;/div&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Baron&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;7&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Lin Zhi&lt;/strong&gt;, who prefers being addressed by her full name, is Tzipora&amp;rsquo;s friend and&lt;/p&gt;
-&lt;details &gt;
-  &lt;summary&gt;Who is Moise?&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;a  href=&#34;https://millmint.net/tags/zhi&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
-  See all stories featuring Lin Zhi
+&lt;blockquote class=&#34;section &#34;&gt;
+  &lt;p&gt;&lt;strong&gt;Baron Desmoisnes&lt;/strong&gt;, colloquially &lt;strong&gt;The Baron&lt;/strong&gt; behind his back, is Tzipora&amp;rsquo;s adoptive father and guardian.&lt;/p&gt;
+&lt;a  href=&#34;https://millmint.net/tags/baron&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+  See all stories featuring Baron
 &lt;/a&gt;
 &lt;style&gt;
 a.book-btn:hover {
   filter: brightness(85%);
 }
 &lt;/style&gt;
-&lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
+
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Get to know Baron&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
 &lt;h5 id=&#34;personality&#34;&gt;Personality&lt;/h5&gt;
 
   &lt;/div&gt;
 &lt;/details&gt;
 
 &lt;div class=&#34;headerbox&#34;&gt;
-  &lt;h1 class=&#34;title&#34; style=&#34;line-height: 3; font-size: 1.5rem; font-weight: 700; margin-top: auto!important; margin-bottom: auto; filter: brightness(35%);&#34;&gt;Ayn&lt;/h1&gt;
-  &lt;div class=&#34;emoji&#34; style=&#34;line-height: 50%;font-size: 35pt;&#34; id=&#34;whirlybat&#34;&gt;4&lt;/div&gt;
+  &lt;h1 class=&#34;title&#34; &gt;Ayn&lt;/h1&gt;
+  &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;4&lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Lin Zhi&lt;/strong&gt;, who prefers being addressed by her full name, is Tzipora&amp;rsquo;s friend and&lt;/p&gt;
-&lt;details &gt;
-  &lt;summary&gt;Who is Moise?&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;a  href=&#34;https://millmint.net/tags/zhi&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
-  See all stories featuring Lin Zhi
+&lt;blockquote class=&#34;section &#34;&gt;
+  &lt;p&gt;&lt;strong&gt;Ayn Rumouisen&lt;/strong&gt;,&lt;/p&gt;
+&lt;a  href=&#34;https://millmint.net/tags/ayn&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
+  See all stories featuring Ayn
 &lt;/a&gt;
 &lt;style&gt;
 a.book-btn:hover {
   filter: brightness(85%);
 }
 &lt;/style&gt;
-&lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
+
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Get to know Ayn&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h5 id=&#34;appearance&#34;&gt;Appearance&lt;/h5&gt;
 &lt;h5 id=&#34;personality&#34;&gt;Personality&lt;/h5&gt;
 
   &lt;/div&gt;
 &lt;/details&gt;
 
+&lt;style&gt;
+.gt-container {
+  display: none;
+}
+a.book-btn {
+  margin-top: 0;
+  border: 1px solid var(--color-pink);
+  //background-color: rgba(255, 43, 78, 0.25);
+  //color: var(--body-font-color);
+  color: var(--color-pink);;
+  }
+article h5 {
+  margin-top: 1rem;
+}
+
+.headerbox {
+  margin-top: 2rem;
+}
+
+.title {
+  line-height: 3; 
+  font-size: 1.5rem; 
+  font-weight: 700;
+  margin-top: auto!important; 
+  margin-bottom: auto; 
+  filter: brightness(35%);
+}
+
+.emoji {
+  line-height: 50%;
+  font-size: 35pt;
+}
+&lt;/style&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -6467,8 +6508,8 @@ a.book-btn:hover {
 
 &lt;p&gt;&lt;strong&gt;Fruit Tingles&lt;/strong&gt; (&lt;em&gt;Fodsa Spas&lt;/em&gt;) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.&lt;/p&gt;
 &lt;p&gt;They&amp;rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.&lt;/p&gt;
-&lt;p&gt;Clockwise: &lt;strong&gt;Hen&lt;/strong&gt;, from Kus (Kala), &lt;strong&gt;Bez&lt;/strong&gt;, from Demon, &lt;strong&gt;Tzipora&lt;/strong&gt;, from Seispri (Vekllei) and &lt;strong&gt;Quita&lt;/strong&gt;, from Montesur (Kalina).&lt;/p&gt;
-</description>
+&lt;p&gt;Clockwise: &lt;strong&gt;Hen&lt;/strong&gt;, from Kus (Kala), &lt;strong&gt;Bez&lt;/strong&gt;, from Demon, &lt;strong&gt;Tzipora&lt;/strong&gt;, from Seispri (Vekllei) and &lt;strong&gt;Sydney&lt;/strong&gt;, from Montesur (Kalina).&lt;/p&gt;
+&lt;!--Quita--&gt;</description>
     </item>
     
     <item>
@@ -15453,7 +15494,7 @@ a.book-btn:hover {
     </item>
     
     <item>
-      <title>KID COMIX, an underground comic mag in Vekllei</title>
+      <title>KID COMIX</title>
       <link>https://millmint.net/posts/2018-09-11-comix/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -15492,7 +15533,7 @@ a.book-btn:hover {
     </item>
     
     <item>
-      <title>KID COMIX</title>
+      <title>Masculinity &amp; Fatherhood in Vekllei</title>
       <link>https://millmint.net/posts/2018-09-07-masculinity/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
       

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro on MillMint</title>
-    <link>https://millmint.net/utopia/intro/</link>
+    <link>https://millmint.net/utopia/draft.md/</link>
     <description>Recent content in Intro on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://millmint.net/utopia/intro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://millmint.net/utopia/draft.md/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQ</title>
-      <link>https://millmint.net/utopia/intro/faq/</link>
+      <link>https://millmint.net/utopia/draft.md/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://millmint.net/utopia/intro/faq/</guid>
+      <guid>https://millmint.net/utopia/draft.md/faq/</guid>
       <description>&lt;style&gt;
 #headerbox .emoji {
     margin-right: 85px;
