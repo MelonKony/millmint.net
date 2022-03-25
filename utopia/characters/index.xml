@@ -86,7 +86,7 @@ a.book-btn:hover {
   &lt;div class=&#34;emoji&#34; id=&#34;whirlybat&#34;&gt;j&lt;/div&gt;
 &lt;/div&gt;
 &lt;blockquote class=&#34;section &#34;&gt;
-  &lt;p&gt;&lt;strong&gt;Moise ra Hasapis&lt;/strong&gt; is Tzipora&amp;rsquo;s neighbour and best friend. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood. Imposing in both attitude and posture, Moise is feared and respected among his roommates.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Moise ra Hasapis&lt;/strong&gt; is Tzipora&amp;rsquo;s neighbour and best friend. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood. Imposing in both attitude and posture, Moise is feared and respected among his peers.&lt;/p&gt;
 &lt;a  href=&#34;https://millmint.net/tags/moise&#34;   target=&#34;_blank&#34;  class=&#34;book-btn&#34;&gt;
   See all stories featuring Moise
 &lt;/a&gt;
@@ -243,6 +243,14 @@ article h5 {
 .emoji {
   line-height: 50%;
   font-size: 35pt;
+}
+
+.section {
+    opacity: 1!important;
+  }
+
+.section p {
+  opacity: 0.85;
 }
 &lt;/style&gt;&lt;blockquote&gt;
 &lt;/blockquote&gt;
