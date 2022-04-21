@@ -214,10 +214,8 @@ color: var(--color-red);
   ߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s utopia&lt;/strong&gt;&lt;/a&gt;, called &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;
 &lt;/blockquote&gt;
 
-&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;
-  
-  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;h2 id=&#34;quick-facts&#34;&gt;Quick Facts&lt;/h2&gt;
+&lt;blockquote class=&#34;book-hint panel&#34;&gt;
+  &lt;h2 id=&#34;quick-facts&#34;&gt;Quick Facts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Vekllei is a utopia&lt;/strong&gt;, but that doesn&amp;rsquo;t mean I don&amp;rsquo;t take it seriously or consider its society pragmatically.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;It&amp;rsquo;s full of stuff I love&lt;/strong&gt;, but that doesn&amp;rsquo;t mean it&amp;rsquo;s perfect. Personal growth can come from bad experiences.&lt;/li&gt;
@@ -225,13 +223,7 @@ color: var(--color-red);
 &lt;li&gt;&lt;strong&gt;Vekllei is mostly self-contained stories&lt;/strong&gt;, but I experiment with mediums and methods all the time.&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;/div&gt;
-  
-  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;
-    &lt;img style=&#34;max-width: 250px; display: block; margin-left: auto; margin-right: auto;&#34; src=&#34;https://millmint.net/images/mastheads/book.gif&#34;&gt;
-  &lt;/div&gt;
-  
-&lt;/div&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&#34;faq&#34;&gt;F.A.Q.&lt;/h2&gt;
 &lt;h4 id=&#34;who-are-you&#34;&gt;Who are you?&lt;/h4&gt;
