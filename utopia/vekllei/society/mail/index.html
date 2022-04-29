@@ -13,10 +13,8 @@
 
 
 
-
-
 <!DOCTYPE html>
-<html class="h-full w-full font-sans" lang='en'><head>
+<html lang='en'><head>
     <meta charset="utf-8">
     <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,28 +34,14 @@
     
 
     
-        <meta property="og:title" content="Mail" />
-<meta property="og:description" content="The Royal Mail of Vekllei is the national postal organisation of Vekllei, a utopia created by Hobart Phillips." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://millmint.net/utopia/vekllei/society/mail/" /><meta property="article:section" content="utopia" />
 
-
-
-
-    
-
-    
-        <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Mail"/>
-<meta name="twitter:description" content="The Royal Mail of Vekllei is the national postal organisation of Vekllei, a utopia created by Hobart Phillips."/>
-
-    <link rel="stylesheet" href="/css/styles.min.3846372b5706aca48a5f7811204e1779370ae6c16023f84a91461f533121935b3c40fb8ce1e97cb388d8f4b340d13f8c42660239babebaf42fee2ac9ca387e77.css" integrity="sha512-OEY3K1cGrKSKX3gRIE4XeTcK5sFgI/hKkUYfUzEhk1s8QPuM4el8s4jY9LNA0T+MQmYCObq+uvQv7irJyjh+dw==">
+    <link rel="stylesheet" href="/style.min.5961fc417caae52fc002436e244386be0618be923869b4411a1472aeee2b4b280de9db29d2105eadcaa377615b1259c369bfc27a564909428af308c5d2ca2bd9.css" integrity="sha512-WWH8QXyq5S/AAkNuJEOGvgYYvpI4abRBGhRyru4rSygN6dsp0hBercqjd2FbElnDab/CelZJCUKK8wjF0sor2Q==">
 
 
 
 
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.0b4d4e38525b56fdae74b91039869c5013e9211348b1964e2295237b5ba79fc4.js" integrity="sha256-C01OOFJbVv2udLkQOYacUBPpIRNIsZZOIpUje1unn8Q=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.5544ec774bfc8caa20ca1ca688a4fc1a837785072b1fd9568afaab4baa74f117.js" integrity="sha256-VUTsd0v8jKogyhymiKT8GoN3hQcrH9lWivqrS6p08Rc=" crossorigin="anonymous"></script>
     
     
     
@@ -76,305 +60,461 @@
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.js"></script>
-
-    <link type="text/css" rel="stylesheet" href="/css/fonts.css" />
-    <link type="text/css" rel="stylesheet" href="/css/nav.css" />
-    <link type="text/css" rel="stylesheet" href="/css/comments.css" />
-    <link type="text/css" rel="stylesheet" href="/css/shop.css" />
-    <link type="text/css" rel="stylesheet" href="/css/list.css" />
-    <link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
     
     
     <script src="/js/fade.js"></script>
 
     </head>
-<body class="flex flex-col items-center w-full">
-        <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6"><header class="mt-9 mb-8">
-    <div class="flex justify-between items-center">
-        <div class="flex items-center">
-            <input id="navbar_btn" class="hidden" type="checkbox">
-            <label for="navbar_btn" class="menu-btn mr-4 items-center flex xl:hidden">
-                <span class="navicon"></span>
-            </label>
-            <a href="/" class="font-bold text-lg xl:text-2xl mr-auto mail">MillMint</a>
-            <a href="/" class="emoji mail" style="font-size: 30px; margin-left: .5rem; margin-right: 40px;" id="whirlybat">-millmint</a>
-        </div>
+<body>
+        <main>
+            <div style="margin-top: 1rem; margin-bottom: 2rem;"><header>
+  <div class="brand">
+    <div id="sidebar_btn">
+      <svg id="menu_icon" width="26px" height="26px" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></svg>
+    </div>
 
+    <div class="brand">
+      <a href="/">MillMint</a>
+      <a
+        href="/"
+        class="emoji mail"
+        style="
+          font-size: 30px;
+          font-weight: normal;
+          margin-left: 0.5rem;
+          margin-right: 40px;
+          filter: brightness(100%);
+        "
+        id="whirlybat"
+        >-millmint</a
+      >
+    </div>
+  </div>
+  <div class="toolbox">
+    <div id="theme_tool">
+      <svg
+        id="dark_mode_btn"
+        class="hidden toolbox-btn"
+        width="18px"
+        height="18px"
+        viewBox="0 0 24 24"
+      ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></svg>
+      <svg
+        id="light_mode_btn"
+        class="hidden toolbox-btn"
+        width="18px"
+        height="18px"
+        viewBox="0 0 24 24"
+      ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></svg>
+    </div>
+
+    
+    <div id="search_tool">
+      <div class="ml-2 relative flex items-center">
         
-
-            
-                
-                <div class="ml-2 relative flex items-center">
-                  
-<div class="magic md:w-52">
-   <div class="book-search w-full">
-     <input type="text" id="book-search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
-     <div class="book-search-spinner hidden"></div>
-     <ul id="book-search-results"></ul>
+<div class="magic">
+   <div class="search w-full">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
    </div>
 </div>
 
 
-                </div>
-            
-        </div>
-    
-
-    <nav id="navbar" class="mt-3 hidden xl:block"><ul class="flex"><li class="navbar-item text-sm border-b-2 pb-1 mr-2 font-medium inactive">
-                        <a href="/utopia/intro/">Intro</a>
-                    </li><li class="navbar-item-dropdown text-sm border-b-2 pb-1 mr-2 font-medium insection">
-                        <div class="flex items-center">
-                            <a href="/utopia/vekllei">Utopia</a>
-                            <svg width="18px" height="18px" viewBox="3 3 18 18"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M7 10l5 5 5-5z"/></svg></svg>
-                        </div>
-                        <ul class="navbar-dropdown mt-1.5 -ml-2.5">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/">Vekllei</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/utopia/characters/">Characters</a>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/utopia/vekllei/culture">
-                <span>Culture</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/culture/language">Language</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/culture/religion">Religion</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/utopia/vekllei/landscape">
-                <span>Landscape</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/landscape/boroughs">Boroughs</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/utopia/vekllei/society">
-                <span>Society</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/society/mail">Mail</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/society/rail">Railways</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-</ul>
-                    </li><li class="navbar-item-dropdown text-sm border-b-2 pb-1 mr-2 font-medium inactive">
-                        <div class="flex items-center">
-                            <a href="/newsdesk/">News</a>
-                            <svg width="18px" height="18px" viewBox="3 3 18 18"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M7 10l5 5 5-5z"/></svg></svg>
-                        </div>
-                        <ul class="navbar-dropdown mt-1.5 -ml-2.5">
-    
-        <li>
-            <a class="block" href="/newsdesk/about">About</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/bulletin">Bulletin</a>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/newsdesk/essays">
-                <span>Essays</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/ghibli">A Universal Nostalgia</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/utopie">Utopie Concrete</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/tokyo">A Cashless Tokyo</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/waugh">Landscapes of Waugh</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-</ul>
-                    </li><li class="navbar-item text-sm border-b-2 pb-1 mr-2 font-medium inactive">
-                        <a href="/posts/">Stories</a>
-                    </li></ul>
-    </nav>
-
-    <nav id="navbar_sm" class="mt-2 hidden">
-        <ul>
-            
-                <li class="text-sm mt-2">
-                    <a href="/utopia/intro/">Intro</a></li>
-            
-                <li class="text-sm mt-2">
-                    <a href="/utopia/vekllei">Utopia</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/">Vekllei</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/characters/">Characters</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/culture">Culture</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/culture/language">Language</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/culture/religion">Religion</a></li>
-        
-    </ul>
-</li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/landscape">Landscape</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/landscape/boroughs">Boroughs</a></li>
-        
-    </ul>
-</li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/society">Society</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/society/mail">Mail</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/society/rail">Railways</a></li>
-        
-    </ul>
-</li>
-        
-    </ul>
-</li>
-            
-                <li class="text-sm mt-2">
-                    <a href="/newsdesk/">News</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/about">About</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/bulletin">Bulletin</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays">Essays</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/utopie">Utopie Concrete</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/tokyo">A Cashless Tokyo</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/waugh">Landscapes of Waugh</a></li>
-        
-    </ul>
-</li>
-        
-    </ul>
-</li>
-            
-                <li class="text-sm mt-2">
-                    <a href="/posts/">Stories</a></li>
-            
-        </ul>
-
-        <hr class="my-4">
-    </nav>
+      </div>
+    </div>
+     
+  </div>
 </header>
-<div id="content" class="my-8">
+<nav id="navbar" class="pure-menu"><ul class="pure-menu-list"><li class="navbar-item pure-menu-item ">
+      
+      <a href="/utopia/intro/" class="pure-menu-link">Intro</a>
+      
+    </li><li
+      class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover insection"
+    >
+      
+      <a href="/utopia/vekllei" class="pure-menu-link">Utopia</a>
+      
+      <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/" class="pure-menu-link">Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/characters/" class="pure-menu-link">Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/culture" class="pure-menu-link">Culture</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/culture/language" class="pure-menu-link">Language</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/culture/religion" class="pure-menu-link">Religion</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/landscape" class="pure-menu-link">Landscape</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/landscape/boroughs" class="pure-menu-link">Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/society" class="pure-menu-link">Society</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/society/mail" class="pure-menu-link">Mail</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/society/rail" class="pure-menu-link">Railways</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li
+      class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover "
+    >
+      
+      <a href="/newsdesk/" class="pure-menu-link">News</a>
+      
+      <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/about" class="pure-menu-link">About</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/bulletin" class="pure-menu-link">Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/newsdesk/essays" class="pure-menu-link">Essays</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/ghibli" class="pure-menu-link">A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/utopie" class="pure-menu-link">Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/hongkong" class="pure-menu-link">Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/tokyo" class="pure-menu-link">A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/waugh" class="pure-menu-link">Landscapes of Waugh</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item pure-menu-item ">
+      
+      <a href="/posts/" class="pure-menu-link">Stories</a>
+      
+    </li>
+  </ul>
+</nav>
+<div id="sidebar_canvas_overlay" class="hidden"></div>
+<div id="sidebar" class="close">
+    <ul><li>
+                    <a href="/utopia/intro/">Intro</a>
+                </li><li>
+                    <details>
+                        <summary><a href="/utopia/vekllei">Utopia</a></summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/">Vekllei</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/characters/">Characters</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/culture">Culture</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/culture/language">Language</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/culture/religion">Religion</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/landscape">Landscape</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/landscape/boroughs">Boroughs</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/society">Society</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/society/mail">Mail</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/society/rail">Railways</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+    </ul>
+</details>
+                </li><li>
+                    <details>
+                        <summary><a href="/newsdesk/">News</a></summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/about">About</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/bulletin">Bulletin</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/newsdesk/essays">Essays</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/utopie">Utopie Concrete</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/tokyo">A Cashless Tokyo</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/waugh">Landscapes of Waugh</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+    </ul>
+</details>
+                </li><li>
+                    <a href="/posts/">Stories</a>
+                </li></ul>
+</div></div>
+            <div id="content" class="content-margin">
                 
-    <div class="my-7"><div class="article-mail">
+    <div class="content-margin"><div class="article-mail">
+
 
 
   <div>
     <div>
   <div>
     <div>
-
       
       <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
       
 
       <div class="headerbox">
-        <h1 class="title mail" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">The Royal Mail of Vekllei</h1>
+        <h1 class="title mail" style="line-height: 1.2; font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">The Royal Mail of Vekllei</h1>
         
         <div class="tag mail">SOCIETY</div>
         
@@ -391,7 +531,7 @@
   <div>
     <div class="post-meta">
       <div class="date"></div>
-      <div class="posttag">
+      <div class="post-tag">
 </div>
     </div>
   </div>
@@ -399,42 +539,28 @@
 
 <h1 class="mail" style="filter: brightness(35%);"></h1>
 <h2 class="mail" style="filter: brightness(35%);"></h2>
+<a class="brand mail" style="filter: brightness(35%);"></h1>
 
 <script src="/js/colors.js"></script>
 
     
-    <div>
-  
-    <div style="text-align: center;"><img style="
-      object-fit: contain;
-      height:auto;
-      min-height:100%;
-      margin-top: 1rem;
-      border-radius: 5px;
-      background-color: transparent;"
-      src=https://millmint.imgix.net/images/mailtrain.jpg?q&#61;100&amp;auto&#61;format /></div>
-  
-</div>
+  <div style="text-align: center;"><img style="
+    object-fit: contain;
+    height:auto;
+    min-height:100%;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: transparent;"
+    src=https://millmint.imgix.net/images/mailtrain.jpg?q&#61;100&amp;auto&#61;format /></div>
 
+
+    
   </div>
   <div>
     
     
-    <div class="collapsible-menu-wrapper my-8 p-4 border-2 rounded" style="margin-bottom: 1rem;">
-    
-        <input id="collapse_btn_toc" class="hidden collapse-btn-input" type="checkbox">
-    
-
-<details class="noSelect">
-    <summary class="noSelect" style="font-weight: 500; font-size: 16px; color: var(--color-gray)">Table of contents</summary>
-    
-        
-    
-
-    <div class="collapsible-menu text-sm ml-2">
-        
-            <div class="leading-6">
-                <nav id="TableOfContents">
+    <div style="display: none;">
+<nav id="TableOfContents">
   <ul>
     <li><a href="#overview">Overview</a>
       <ul>
@@ -461,28 +587,62 @@
     <li><a href="#notes">Notes</a></li>
   </ul>
 </nav>
-            </div>
-        
-    </div>
 </div>
-</details>
 
+<div class="collapsible-menu-wrapper" style="margin-bottom: 1rem;">
+    
+
+        <details class="noSelect">
+            <summary class="noSelect" style="font-weight: 500; font-size: 16px; color: var(--color-gray)">Table of contents</summary>
+                <div class="collapsible-menu">
+                    
+                        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#history">History</a></li>
+        <li><a href="#structure">Structure</a></li>
+      </ul>
+    </li>
+    <li><a href="#services">Services</a>
+      <ul>
+        <li><a href="#daily-service">Daily Service</a></li>
+        <li><a href="#special-delivery">Special Delivery</a></li>
+        <li><a href="#international-service">International Service</a></li>
+        <li><a href="#finance">Finance</a></li>
+        <li><a href="#telecommunications">Telecommunications</a></li>
+      </ul>
+    </li>
+    <li><a href="#operations">Operations</a>
+      <ul>
+        <li><a href="#staff">Staff</a></li>
+        <li><a href="#fleet">Fleet</a></li>
+      </ul>
+    </li>
+    <li><a href="#notes">Notes</a></li>
+  </ul>
+</nav>
+                    
+                </div></div>
 
 
   </div>
 
-<article >
-    <style>
+  <article class="line-numbers">
+      
+      
+      <style>
 .gt-container {
   display: none;
 }
 </style>
 <h2 id="overview">Overview</h2>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ߷ This article is about <a href="/utopia/vekllei"><strong>Vekllei</strong></a> society
 </blockquote>
 
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>The Royal Mail of Vekllei</strong> is perhaps the country&rsquo;s most visible organisation overseas. For many foreigners, Royal Mail aircraft may be the closest they ever come to seeing for themselves the mysterious Atlantic country. For Vekllei residents, the ancient organisation is a living relic of the country&rsquo;s ancient history, and an ongoing testament to the longevity of their people.
 </blockquote>
 
@@ -490,20 +650,20 @@
 <strong>he Royal Mail of Vekllei</strong>, referred to as the <strong>Mail</strong> or <strong>Mail A.r.</strong><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> within the country, is the national postal carrier of <a href="/utopia/vekllei">Vekllei</a>. It is a military state requisite reponsible for all postage in the country, and delivers nearly 50 million mail pieces domestically and abroad each day. One of the oldest institutions of its kind in Vekllei, it was founded in 1422 as a courier system between the Vekllei Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and today offers a variety of services available to all Vekllei residents, including external territories.</p>
 <p>Vekllei is also home to the U.N. Universal Postal Union, the body responsible for coordinating international postage, of which Vekllei is a signatory.</p>
 <h3 id="introduction">Introduction</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-22-pond/">Post is for People</a></em>
 </blockquote>
 
 <p>The Mail is old enough to have its own hieroglyph in <a href="/utopia/vekllei/language/#3-topet"><em>Topet</em></a>, which has resulted in the somewhat misleading transliteration of its name. In Vekllei, it is simply called the &lsquo;Mail&rsquo;, since its written name includes both its royal and national meanings intrinsically. Abroad, this is usually translated as the Royal Mail of Vekllei, but this is in fact more of a description of the organisation than its proper name.</p>
 <p>Since Vekllei refers to its territory as its sovereign (expressed commonly as the &lsquo;Landscape Sovereign&rsquo;), the Mail remains Royal even today, centuries after the collapse of the monarchy that founded it. Despite its regular function as a postal service, it is nonetheless considered a resource of landscape, not a government department, and so it remains &ldquo;the Royal Mail of Vekllei&rdquo; in the 21st Century.</p>
 <p><img src="https://millmint.imgix.net/images/fairie.jpg?q=100&amp;auto=format" alt="img">
-<blockquote class="book-hint caption">
+<blockquote class="hint caption">
   An MS Model 54-2 &ldquo;Fairie,&rdquo; used to deliver mail to Vekllei&rsquo;s islands and islets | <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em>
 </blockquote>
 </p>
 <p>Like most Royal Bureaus, the Mail is headquartered in Vekllei&rsquo;s capital across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and maintenance, and Vekllei&rsquo;s General Post Office. There are over 6,400 post offices in Vekllei today, connecting the dense Home Islands to its far-flung peripheral territories.</p>
 <h3 id="history">History</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-01-mail/">The Men and Women of the Royal Mail in Vekllei</a></em>
 </blockquote>
 
@@ -512,7 +672,7 @@
 <p>The Mail would not come to resemble conventional civilian Mail until 1652, when the Junta expanded postal contracts to the privy councils of the Faroe and Greenland territories, and later broke apart the Mail monopoly to benefit then-Secretary of State Kism Sismiosnah, who established the New Parliament Postal Service. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Vekllei people, and the Mail came to resemble its contemporary mandate.</p>
 <p>The Mail was reestablished in 2015, during Vekllei independence. It was afforded a mandate protected by the postwar <a href="/utopia/vekllei/#floral-society">Petticoat Constitution</a>, and all existing private mail services established in occupation were folded directly into the new state monopoly. In 2016, a year after reestablishment, Mi Miou was elected as the world&rsquo;s first female Postmistress General. The Floral Period of the Royal Mail has been marked by a rapid expansion of both infrastructure and services in Vekllei and abroad. World Post, the international for-profit arm of the Mail, was established in 2034.</p>
 <h3 id="structure">Structure</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-02-postmistress/">The Postmistress of Vekllei</a></em>
 </blockquote>
 
@@ -585,23 +745,23 @@
 </details>
 
 <h2 id="services">Services</h2>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em>
 </blockquote>
 
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>The Royal Mail</strong> maintains a constitutionally-bound monopoly on all postage in the country, leaving it the sole provider of universal postage service in Vekllei. Like most State Requisites (A.r.), however, it has substantial international trade and foreign dealings that provide for its common description as a state-owned for-profit enterprise, or public corporation.
 </blockquote>
 
 <p><strong>Universal service is</strong>, by the glossary of the Mail, truly universal. As mandated by Vekllei law, the Mail provides delivery for all postage material anywhere in the world, or indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral possessions. The Mail&rsquo;s first Lunar Post Office opened in 2059. In addition to its domestic monopoly, the Mail contributes nearly VK❦2.6 trillion each year towards the Vekllei Government Securities Bureau (the country&rsquo;s sovereign wealth fund) through its international postage and courier services abroad, under the name World Post.</p>
 <p><img src="https://millmint.imgix.net/images/stamps.jpg?q=100&amp;auto=format" alt="img">
-<blockquote class="book-hint caption">
+<blockquote class="hint caption">
   <a href="/utopia/characters/#tzipora-zelda-desmoisnes">Tzipora</a> arranges some of her favourite Vekllei stamps | <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em>
 </blockquote>
 </p>
 <p>Since the Mail&rsquo;s Office of Telecommunications is also responsible for all telephones, telegrams and videophones in the country, the Mail&rsquo;s status as a lynchpin of communication is absolute, and heavily protected by the postwar Vekllei constitution.</p>
 <h3 id="daily-service">Daily Service</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-05-mailtrain/">Racing the Post Office to the Station</a></em>
 </blockquote>
 
@@ -616,23 +776,23 @@
 <h3 id="telecommunications">Telecommunications</h3>
 <p><strong>Cosma</strong> (a portmanteau of <em>communicasia matismion</em>) is Vekllei&rsquo;s state communications company, responsible for all residential and public telephones in the country. This includes videophones, public phone booths, and residential networks. Cosma also maintains telecommunications infrastructure networks internationally through <strong>Cosma Overseas</strong>, primarily the Vekllei-Europe undersea cables and their sister sets between Vekllei and North America. Much of the network dates back over a hundred years, since a shortage of modern personal telephones in Vekllei requires Cosma to maintain a wide variety of voltage and cable standards. Commercial, industrial and government telecommunications is managed by a seperate internal department called the <strong>Industrial Telecommunications Office</strong>.</p>
 <h2 id="operations">Operations</h2>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em>
 </blockquote>
 
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>As a military organ</strong>, the Mail A.r. retains military ranks for its staff, commanded by a Postmaster General and aided by a civilian regulator designed to keep its critical service available to Vekllei people. The Mail&rsquo;s fleet includes dedicated jets, automatic trucks, mail trains, intercity pneumatic systems, vehicle automen, and postmen, all wearing the red and gold colours of the organisation. In total, the Mail delivers nearly 50 million pieces of mail during weekdays.
 </blockquote>
 
 <p><strong>It is evident</strong> that the services assigned to the Mail by the postwar constitution are of critical importance to the stability of Vekllei society. In addition to being one of the oldest active postal organisations in the world, the Royal Mail of Vekllei is tremendously busy, since physical post has scarcely been displaced by the telephone in the country. Even without the Mail&rsquo;s international postage, domestic mail each day can exceed 12 million pieces &ndash; enough for 1 in 2 people, though commercial mail and periodicals are included.</p>
 <p><img src="https://millmint.imgix.net/images/manufacturie.jpg?q=100&amp;auto=format" alt="img">
-<blockquote class="book-hint caption">
+<blockquote class="hint caption">
   Outdoor view of the <a href="/utopia/vekllei/society/mail/">Royal Mail&rsquo;s</a> stamp printing complex. | <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em>
 </blockquote>
 </p>
 <p>As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei&rsquo;s oldest running government institution.</p>
 <h3 id="staff">Staff</h3>
-<div class="book-columns flex flex-wrap">
+<div class="columns flex flex-wrap">
   
   <div class="flex-even markdown-inner">
     <img src="https://millmint.imgix.net/images/mail.jpg?q=100&amp;auto=format" alt="smallimg">
@@ -644,11 +804,13 @@
   
 </div>
 
+<link rel="stylesheet" href="/css/columns.css">
+
 <p>The Mail employs 48,960 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Mail does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Instead, the majority of Mail employees are involved in the running of the organisation &ndash; mostly as clerks, managers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called &ldquo;posties&rdquo;. There are around 8,000 postal routes in the country.</p>
 <p>Although at first glance the number of automen dramatically exceeds demand, the total count is misleading &ndash; most automen with the Mail are integrated into the infrastructure of its sorting centres and post offices, and very few are traditionally autonomous robots commonly seen in public in Vekllei. Only about 8,000 automen are employed in physical mail delivery.</p>
 <p>There are 16,220 post boxes in Vekllei, which are iconic for their red and gold paint and intricate detailing.</p>
 <h3 id="fleet">Fleet</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em>
 </blockquote>
 
@@ -714,7 +876,7 @@
 </ol>
 </section>
 
-</article>
+  </article>
 </div></div>
 
 
@@ -833,27 +995,23 @@
 </ul>
 
 
-<style>
-.breadcrumbs a:hover {
-  filter: brightness(85%);
-}
-</style>
-
 
 <div id="gitalk-container"></div>
-<script>
-  const gitalk = new Gitalk({
-	clientID: 'ee5c5c832ce3976fce7c',
-	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
-	repo: 'comments',      
-	owner: 'MelonKony',
-	admin: ['MelonKony'],
-	id: location.pathname,      
-	distractionFreeMode: false  
-  })
-
-  gitalk.render('gitalk-container')
-  </script>
+	<script>
+  		const gitalk = new Gitalk({
+			clientID: 'ee5c5c832ce3976fce7c',
+			clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+			repo: 'comments',      
+			owner: 'MelonKony',
+			admin: ['MelonKony'],
+			id: location.pathname,      
+			distractionFreeMode: false  
+  		})
+		
+  		gitalk.render('gitalk-container')
+  	</script>
+	  <link rel="stylesheet" href="/css/comments.css">
+</div>
 
   
   <footer class="my-8 w-full text-center text-xs" style="margin-top: 2rem; margin-bottom: 0rem;">
@@ -864,45 +1022,45 @@
 <style>
 	 
 	.dot-orange {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-orange);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-orange);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-pink {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-pink);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-pink);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-yellow {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-yellow);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-yellow);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-green {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-green);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-green);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-blue{
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-blue);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-blue);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+}
 </style>
 <div style="display:table; margin:0 auto; padding: 10px;">
 	<span class="dot-pink"></span>
@@ -912,26 +1070,5 @@
 	<span class="dot-blue"></span>
 	</div>
 </main>
-<script src="/js/header.0b11855b871cb4d10c6c07b6723b9209f5c2bc9100735ab6ff47c8f9b76bb3d6ae41b488083b5fb15697987334039eb651b25c83228c29ac48a2bc168db8a894.js" integrity="sha512-CxGFW4cctNEMbAe2cjuSCfXCvJEAc1q2/0fI&#43;bdrs9auQbSICDtfsVaXmHM0A562UbJcgyKMKaxIorwWjbiolA=="></script>
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    <script src="/js/search-en.min.008b8f607660414dc45dca9d30d15ec39732bed970244384429bb604f69b5184fe8689c0579015384bbfb024e9cddd63d3df11592b4d70e1bd25673531e04143.js" integrity="sha512-AIuPYHZgQU3EXcqdMNFew5cyvtlwJEOEQpu2BPabUYT&#43;honAV5AVOEu/sCTpzd1j098RWStNcOG9JWc1MeBBQw=="></script>
-
-
-
-
-</body>
+    </body>
 </html>

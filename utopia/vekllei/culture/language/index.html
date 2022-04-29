@@ -13,10 +13,8 @@
 
 
 
-
-
 <!DOCTYPE html>
-<html class="h-full w-full font-sans" lang='en'><head>
+<html lang='en'><head>
     <meta charset="utf-8">
     <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,28 +34,14 @@
     
 
     
-        <meta property="og:title" content="Language" />
-<meta property="og:description" content="The language of Vekllei, a utopia created by Hobart Phillips." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://millmint.net/utopia/vekllei/culture/language/" /><meta property="article:section" content="utopia" />
 
-
-
-
-    
-
-    
-        <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Language"/>
-<meta name="twitter:description" content="The language of Vekllei, a utopia created by Hobart Phillips."/>
-
-    <link rel="stylesheet" href="/css/styles.min.3846372b5706aca48a5f7811204e1779370ae6c16023f84a91461f533121935b3c40fb8ce1e97cb388d8f4b340d13f8c42660239babebaf42fee2ac9ca387e77.css" integrity="sha512-OEY3K1cGrKSKX3gRIE4XeTcK5sFgI/hKkUYfUzEhk1s8QPuM4el8s4jY9LNA0T+MQmYCObq+uvQv7irJyjh+dw==">
+    <link rel="stylesheet" href="/style.min.5961fc417caae52fc002436e244386be0618be923869b4411a1472aeee2b4b280de9db29d2105eadcaa377615b1259c369bfc27a564909428af308c5d2ca2bd9.css" integrity="sha512-WWH8QXyq5S/AAkNuJEOGvgYYvpI4abRBGhRyru4rSygN6dsp0hBercqjd2FbElnDab/CelZJCUKK8wjF0sor2Q==">
 
 
 
 
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.0b4d4e38525b56fdae74b91039869c5013e9211348b1964e2295237b5ba79fc4.js" integrity="sha256-C01OOFJbVv2udLkQOYacUBPpIRNIsZZOIpUje1unn8Q=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.5544ec774bfc8caa20ca1ca688a4fc1a837785072b1fd9568afaab4baa74f117.js" integrity="sha256-VUTsd0v8jKogyhymiKT8GoN3hQcrH9lWivqrS6p08Rc=" crossorigin="anonymous"></script>
     
     
     
@@ -76,305 +60,461 @@
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.js"></script>
-
-    <link type="text/css" rel="stylesheet" href="/css/fonts.css" />
-    <link type="text/css" rel="stylesheet" href="/css/nav.css" />
-    <link type="text/css" rel="stylesheet" href="/css/comments.css" />
-    <link type="text/css" rel="stylesheet" href="/css/shop.css" />
-    <link type="text/css" rel="stylesheet" href="/css/list.css" />
-    <link type="text/css" rel="stylesheet" href="/css/stylesheet.css" />
     
     
     <script src="/js/fade.js"></script>
 
     </head>
-<body class="flex flex-col items-center w-full">
-        <main class="w-full sm:w-10/12 md:w-9/12 lg:w-7/12 xl:w-5/12 m-auto px-6"><header class="mt-9 mb-8">
-    <div class="flex justify-between items-center">
-        <div class="flex items-center">
-            <input id="navbar_btn" class="hidden" type="checkbox">
-            <label for="navbar_btn" class="menu-btn mr-4 items-center flex xl:hidden">
-                <span class="navicon"></span>
-            </label>
-            <a href="/" class="font-bold text-lg xl:text-2xl mr-auto red">MillMint</a>
-            <a href="/" class="emoji red" style="font-size: 30px; margin-left: .5rem; margin-right: 40px;" id="whirlybat">-millmint</a>
-        </div>
+<body>
+        <main>
+            <div style="margin-top: 1rem; margin-bottom: 2rem;"><header>
+  <div class="brand">
+    <div id="sidebar_btn">
+      <svg id="menu_icon" width="26px" height="26px" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></svg>
+    </div>
 
+    <div class="brand">
+      <a href="/">MillMint</a>
+      <a
+        href="/"
+        class="emoji red"
+        style="
+          font-size: 30px;
+          font-weight: normal;
+          margin-left: 0.5rem;
+          margin-right: 40px;
+          filter: brightness(100%);
+        "
+        id="whirlybat"
+        >-millmint</a
+      >
+    </div>
+  </div>
+  <div class="toolbox">
+    <div id="theme_tool">
+      <svg
+        id="dark_mode_btn"
+        class="hidden toolbox-btn"
+        width="18px"
+        height="18px"
+        viewBox="0 0 24 24"
+      ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></svg>
+      <svg
+        id="light_mode_btn"
+        class="hidden toolbox-btn"
+        width="18px"
+        height="18px"
+        viewBox="0 0 24 24"
+      ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></svg>
+    </div>
+
+    
+    <div id="search_tool">
+      <div class="ml-2 relative flex items-center">
         
-
-            
-                
-                <div class="ml-2 relative flex items-center">
-                  
-<div class="magic md:w-52">
-   <div class="book-search w-full">
-     <input type="text" id="book-search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
-     <div class="book-search-spinner hidden"></div>
-     <ul id="book-search-results"></ul>
+<div class="magic">
+   <div class="search w-full">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
    </div>
 </div>
 
 
-                </div>
-            
-        </div>
-    
-
-    <nav id="navbar" class="mt-3 hidden xl:block"><ul class="flex"><li class="navbar-item text-sm border-b-2 pb-1 mr-2 font-medium inactive">
-                        <a href="/utopia/intro/">Intro</a>
-                    </li><li class="navbar-item-dropdown text-sm border-b-2 pb-1 mr-2 font-medium insection">
-                        <div class="flex items-center">
-                            <a href="/utopia/vekllei">Utopia</a>
-                            <svg width="18px" height="18px" viewBox="3 3 18 18"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M7 10l5 5 5-5z"/></svg></svg>
-                        </div>
-                        <ul class="navbar-dropdown mt-1.5 -ml-2.5">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/">Vekllei</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/utopia/characters/">Characters</a>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/utopia/vekllei/culture">
-                <span>Culture</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/culture/language">Language</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/culture/religion">Religion</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/utopia/vekllei/landscape">
-                <span>Landscape</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/landscape/boroughs">Boroughs</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/utopia/vekllei/society">
-                <span>Society</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/society/mail">Mail</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/utopia/vekllei/society/rail">Railways</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-</ul>
-                    </li><li class="navbar-item-dropdown text-sm border-b-2 pb-1 mr-2 font-medium inactive">
-                        <div class="flex items-center">
-                            <a href="/newsdesk/">News</a>
-                            <svg width="18px" height="18px" viewBox="3 3 18 18"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M7 10l5 5 5-5z"/></svg></svg>
-                        </div>
-                        <ul class="navbar-dropdown mt-1.5 -ml-2.5">
-    
-        <li>
-            <a class="block" href="/newsdesk/about">About</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/bulletin">Bulletin</a>
-        </li>
-    
-
-    
-        <li class="navbar-item-dropdown">
-            <a class="flex items-center justify-between" href="/newsdesk/essays">
-                <span>Essays</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M10 17l5-5-5-5v10z"/><path d="M0 24V0h24v24H0z" fill="none"/></svg></a>
-            <ul class="navbar-dropdown left-full top-0">
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/ghibli">A Universal Nostalgia</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/utopie">Utopie Concrete</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/tokyo">A Cashless Tokyo</a>
-        </li>
-    
-
-    
-        <li>
-            <a class="block" href="/newsdesk/essays/waugh">Landscapes of Waugh</a>
-        </li>
-    
-
-</ul>
-        </li>
-    
-
-</ul>
-                    </li><li class="navbar-item text-sm border-b-2 pb-1 mr-2 font-medium inactive">
-                        <a href="/posts/">Stories</a>
-                    </li></ul>
-    </nav>
-
-    <nav id="navbar_sm" class="mt-2 hidden">
-        <ul>
-            
-                <li class="text-sm mt-2">
-                    <a href="/utopia/intro/">Intro</a></li>
-            
-                <li class="text-sm mt-2">
-                    <a href="/utopia/vekllei">Utopia</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/">Vekllei</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/characters/">Characters</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/culture">Culture</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/culture/language">Language</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/culture/religion">Religion</a></li>
-        
-    </ul>
-</li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/landscape">Landscape</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/landscape/boroughs">Boroughs</a></li>
-        
-    </ul>
-</li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/society">Society</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/society/mail">Mail</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/utopia/vekllei/society/rail">Railways</a></li>
-        
-    </ul>
-</li>
-        
-    </ul>
-</li>
-            
-                <li class="text-sm mt-2">
-                    <a href="/newsdesk/">News</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/about">About</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/bulletin">Bulletin</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays">Essays</a>
-    <ul>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/utopie">Utopie Concrete</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/tokyo">A Cashless Tokyo</a></li>
-        
-            <li class="text-sm mt-2">
-                <a href="/newsdesk/essays/waugh">Landscapes of Waugh</a></li>
-        
-    </ul>
-</li>
-        
-    </ul>
-</li>
-            
-                <li class="text-sm mt-2">
-                    <a href="/posts/">Stories</a></li>
-            
-        </ul>
-
-        <hr class="my-4">
-    </nav>
+      </div>
+    </div>
+     
+  </div>
 </header>
-<div id="content" class="my-8">
+<nav id="navbar" class="pure-menu"><ul class="pure-menu-list"><li class="navbar-item pure-menu-item ">
+      
+      <a href="/utopia/intro/" class="pure-menu-link">Intro</a>
+      
+    </li><li
+      class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover insection"
+    >
+      
+      <a href="/utopia/vekllei" class="pure-menu-link">Utopia</a>
+      
+      <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/" class="pure-menu-link">Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/characters/" class="pure-menu-link">Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/culture" class="pure-menu-link">Culture</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/culture/language" class="pure-menu-link">Language</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/culture/religion" class="pure-menu-link">Religion</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/landscape" class="pure-menu-link">Landscape</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/landscape/boroughs" class="pure-menu-link">Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/society" class="pure-menu-link">Society</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/society/mail" class="pure-menu-link">Mail</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/society/rail" class="pure-menu-link">Railways</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li
+      class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover "
+    >
+      
+      <a href="/newsdesk/" class="pure-menu-link">News</a>
+      
+      <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/about" class="pure-menu-link">About</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/bulletin" class="pure-menu-link">Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/newsdesk/essays" class="pure-menu-link">Essays</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/ghibli" class="pure-menu-link">A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/utopie" class="pure-menu-link">Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/hongkong" class="pure-menu-link">Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/tokyo" class="pure-menu-link">A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/waugh" class="pure-menu-link">Landscapes of Waugh</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item pure-menu-item ">
+      
+      <a href="/posts/" class="pure-menu-link">Stories</a>
+      
+    </li>
+  </ul>
+</nav>
+<div id="sidebar_canvas_overlay" class="hidden"></div>
+<div id="sidebar" class="close">
+    <ul><li>
+                    <a href="/utopia/intro/">Intro</a>
+                </li><li>
+                    <details>
+                        <summary><a href="/utopia/vekllei">Utopia</a></summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/">Vekllei</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/characters/">Characters</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/culture">Culture</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/culture/language">Language</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/culture/religion">Religion</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/landscape">Landscape</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/landscape/boroughs">Boroughs</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/society">Society</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/society/mail">Mail</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/society/rail">Railways</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+    </ul>
+</details>
+                </li><li>
+                    <details>
+                        <summary><a href="/newsdesk/">News</a></summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/about">About</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/bulletin">Bulletin</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/newsdesk/essays">Essays</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/utopie">Utopie Concrete</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/tokyo">A Cashless Tokyo</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/waugh">Landscapes of Waugh</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+    </ul>
+</details>
+                </li><li>
+                    <a href="/posts/">Stories</a>
+                </li></ul>
+</div></div>
+            <div id="content" class="content-margin">
                 
-    <div class="my-7"><div class="article-red">
+    <div class="content-margin"><div class="article-red">
+
 
 
   <div>
     <div>
   <div>
     <div>
-
       
       <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
       
 
       <div class="headerbox">
-        <h1 class="title red" style="line-height: 1.2; font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">Language in Vekllei</h1>
+        <h1 class="title red" style="line-height: 1.2; font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">Language in Vekllei</h1>
         
         <div class="tag red">CULTURE</div>
         
@@ -391,7 +531,7 @@
   <div>
     <div class="post-meta">
       <div class="date"></div>
-      <div class="posttag">
+      <div class="post-tag">
 </div>
     </div>
   </div>
@@ -399,42 +539,28 @@
 
 <h1 class="red" style="filter: brightness(35%);"></h1>
 <h2 class="red" style="filter: brightness(35%);"></h2>
+<a class="brand red" style="filter: brightness(35%);"></h1>
 
 <script src="/js/colors.js"></script>
 
     
-    <div>
-  
-    <div style="text-align: center;"><img style="
-      object-fit: contain;
-      height:auto;
-      min-height:100%;
-      margin-top: 1rem;
-      border-radius: 5px;
-      background-color: transparent;"
-      src=https://millmint.imgix.net/images/manufacturie.jpg?q&#61;100&amp;auto&#61;format /></div>
-  
-</div>
+  <div style="text-align: center;"><img style="
+    object-fit: contain;
+    height:auto;
+    min-height:100%;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: transparent;"
+    src=https://millmint.imgix.net/images/manufacturie.jpg?q&#61;100&amp;auto&#61;format /></div>
 
+
+    
   </div>
   <div>
     
     
-    <div class="collapsible-menu-wrapper my-8 p-4 border-2 rounded" style="margin-bottom: 1rem;">
-    
-        <input id="collapse_btn_toc" class="hidden collapse-btn-input" type="checkbox">
-    
-
-<details class="noSelect">
-    <summary class="noSelect" style="font-weight: 500; font-size: 16px; color: var(--color-gray)">Table of contents</summary>
-    
-        
-    
-
-    <div class="collapsible-menu text-sm ml-2">
-        
-            <div class="leading-6">
-                <nav id="TableOfContents">
+    <div style="display: none;">
+<nav id="TableOfContents">
   <ul>
     <li><a href="#1-overview">1. Overview</a>
       <ul>
@@ -474,23 +600,70 @@
     <li><a href="#notes">Notes</a></li>
   </ul>
 </nav>
-            </div>
-        
-    </div>
 </div>
-</details>
 
+<div class="collapsible-menu-wrapper" style="margin-bottom: 1rem;">
+    
+
+        <details class="noSelect">
+            <summary class="noSelect" style="font-weight: 500; font-size: 16px; color: var(--color-gray)">Table of contents</summary>
+                <div class="collapsible-menu">
+                    
+                        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-overview">1. Overview</a>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#history">History</a></li>
+      </ul>
+    </li>
+    <li><a href="#2-spoken-vekllei">2. Spoken Vekllei</a>
+      <ul>
+        <li><a href="#twin-glossaries">Twin Glossaries</a></li>
+        <li><a href="#phonology">Phonology</a></li>
+      </ul>
+    </li>
+    <li><a href="#3-topet">3. Topet</a>
+      <ul>
+        <li><a href="#phonetic-reading">Phonetic Reading</a></li>
+        <li><a href="#semantic-reading">Semantic Reading</a></li>
+        <li><a href="#structure">Structure</a></li>
+      </ul>
+    </li>
+    <li><a href="#4-rapotenne">4. Rapotenne</a>
+      <ul>
+        <li><a href="#practice">Practice</a></li>
+      </ul>
+    </li>
+    <li><a href="#5-potenne">5. Potenne</a>
+      <ul>
+        <li><a href="#phonology-1">Phonology</a></li>
+      </ul>
+    </li>
+    <li><a href="#6-upotenne">6. Upotenne</a></li>
+    <li><a href="#7-vekllei-semaphore">7. Vekllei Semaphore</a>
+      <ul>
+        <li><a href="#symbolism">Symbolism</a></li>
+      </ul>
+    </li>
+    <li><a href="#notes">Notes</a></li>
+  </ul>
+</nav>
+                    
+                </div></div>
 
 
   </div>
 
-<article >
-    <h2 id="1-overview">1. Overview</h2>
-<blockquote class="book-hint ">
+  <article class="line-numbers">
+      
+      
+      <h2 id="1-overview">1. Overview</h2>
+<blockquote class="hint ">
   ߷ This article is about <a href="/utopia/vekllei"><strong>Vekllei</strong></a>
 </blockquote>
 
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>The language of Vekllei</strong> is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.
 </blockquote>
 
@@ -516,13 +689,13 @@
 </details>
 
 <h3 id="introduction">Introduction</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em>
 </blockquote>
 
 <p><strong>Let&rsquo;s take a look</strong> in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/utopia/vekllei/language/#2-spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/utopia/vekllei/language/#3-topet"><em>Topet</em></a> are understood universally.</p>
 <p><img src="https://millmint.imgix.net/images/language.jpg?q=100&amp;auto=format" alt="img">
-<blockquote class="book-hint caption">
+<blockquote class="hint caption">
   An infographic showcasing the Vekllei language, including <a href="/utopia/vekllei/culture/language/#5-potenne">Potenne</a> use. | <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em>
 </blockquote>
 </p>
@@ -539,7 +712,7 @@
 </ul>
 </blockquote>
 <h2 id="2-spoken-vekllei">2. Spoken Vekllei</h2>
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>Spoken Vekllei</strong>, simply referred to as Vekllei domestically, is the common spoken language of Vekllei and official language of the country, spoken by some 25 million people worldwide, with 98% of speakers living natively in the Vekllei Home Islands. It is the first spoken language of the vast majority of the population, and has minor variance across the disparate Vekllei Home Islands and other Vekllei possessions. It is rarely spoken outside of Vekllei territories, extant abroad only through emigrant populations and small diasporic communities dispersed after the Atomic War.
 </blockquote>
 
@@ -562,7 +735,7 @@
 <details open>
   <summary>Pure Vowels</summary>
   <div class="markdown-inner">
-    <table>
+    <table class="mc-table">
 <thead>
 <tr>
 <th></th>
@@ -648,7 +821,7 @@
   <summary>Diphthongs</summary>
   <div class="markdown-inner">
     <h5 id="ocean-vowels">Ocean Vowels</h5>
-<table>
+<table class="mc-table">
 <thead>
 <tr>
 <th></th>
@@ -667,7 +840,7 @@
 </tbody>
 </table>
 <h5 id="floral-vowel">Floral Vowel</h5>
-<table>
+<table class="mc-table">
 <thead>
 <tr>
 <th>Vowel</th>
@@ -778,7 +951,7 @@
 <details open>
   <summary>Consonants</summary>
   <div class="markdown-inner">
-    <table>
+    <table class="mc-table">
 <thead>
 <tr>
 <th></th>
@@ -829,7 +1002,7 @@
 </details>
 
 <h2 id="3-topet">3. Topet</h2>
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>Topet</strong>, sometimes called <em>Vekllei Script</em> or <em>Vekllei hieroglyphs</em> is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components, and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in <em>Islandi</em>-era Vekllei since at least the 8th Century BC, by the time <em>Quutetast</em> influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into proto-<em>Topet</em>, called <em>Hieyeric</em>. In Vekllei, <em>Topet</em> is the national language alongside its sister-form, <em><a href="/utopia/vekllei/language/#4-rapotenne">Rapotenne</a></em> and <a href="/utopia/vekllei/language/#2-spoken-vekllei"><em>Spoken Vekllei</em></a>. Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.
 </blockquote>
 
@@ -841,20 +1014,20 @@
 <p>Many <em>Topet</em> characters are figurative; they represent their meanings pictographically, like Egyptian <em>Hieroglyphs</em> or Chinese <em>Hanzi</em>. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a <em>transcendental</em>, rather than <em>literal</em> system. Although <em>Topet</em>&rsquo;s early form, <em>Hieyeric</em>, was explicitly pictographic, modern <em>Topet</em> is often abstracted and decoupled from its figurative meaning via the phonetic system.</p>
 <p>Despite common use of the phonetic system in modernity, the semantic readings of characters are taught and essential for literacy beyond literal imitation of speech. For the vast majority of <em>Topet</em> characters, their logographic meaning determines their pronunciation, and consonant characters especially depend on this meaning to form words. The word for breakfast is <em>petimourgeneur</em>, but it cannot be written with random literal phonetic characters; parts of the word depend on the figurative meaning of certain components, and so without its semantic traits the word would be illegible to most people. This represents a wider co-dependency on simultaneous phonetic and semantic readings of words, with the importance of each fluctuating depending on the word in question. Older words tend to be heavily figurative, whereas modern and loan words are often more phonetic. This inconsistency is part of the difficulty in learning <em>Topet</em>, and leaves many immigrants fluent in speech but inadequately literate in reading and writing.</p>
 <h3 id="structure">Structure</h3>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ Read more: <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em>
 </blockquote>
 
 <p>Individual <em>Topet</em> characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its <em>hieyerette</em> characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one <em>demioette</em> character is vocalised, called the <em>principle</em>, and the <em>hieyerette</em> characters are simply not written.</p>
 <p><img src="https://millmint.imgix.net/images/topet.jpg?q=100&amp;auto=format" alt="img">
-<blockquote class="book-hint caption">
+<blockquote class="hint caption">
   An infographic summarising the appearance of Vekllei scripts, including <a href="/utopia/vekllei/culture/language/#3-topet"><em>Topet</em></a>. | <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em>
 </blockquote>
 </p>
 <p>These character groups are called <em>Minor Demons</em>, or <em>pettidemion,</em> and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern <em>Topet</em>, are arranged in a quadrant with the principle arranged in the top left.</p>
 <p><em>Minor Demons</em> are the foundations of <em>Topet</em> script, since they can be written phonetically or as pictographs. This also contributes to <em>Topet</em>&rsquo;s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.</p>
 <h2 id="4-rapotenne">4. Rapotenne</h2>
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>Rapotenne</strong> (<em>lit. &ldquo;Name-Talk&rdquo;</em>) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Today, it is most often employed as an extant language of magical staves, but is closely aligned phonologically and ethnographically with <em>Upotenne</em>, the physical language of rune-forms and sigils.
 </blockquote>
 
@@ -863,11 +1036,11 @@
 <h3 id="practice">Practice</h3>
 <p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/utopia/vekllei/language/#6-upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
 <h2 id="5-potenne">5. Potenne</h2>
-<blockquote class="book-hint ">
+<blockquote class="hint ">
   ❖ <strong>Try Potenne yourself!</strong> Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You&rsquo;ve just said &ldquo;good to see you again.&rdquo;
 </blockquote>
 
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>Potenne</strong> (<em>lit. &ldquo;Hand-Talk&rdquo;</em>) is an indigenous auxiliary sign language in Vekllei used commonly today as an aid or substitute for vocalised speech. It was originally a form of <em>avoidance speech</em> that arose in response to social taboos in <em><a href="/utopia/vekllei/religion.md">Upen</a></em>, but acquired broader use by the 16th century and is employed commonly today part of many conventions and customs within the Home Islands. <em>Potenne</em> is also used by hearing-disabled persons in Vekllei to communicate.
 </blockquote>
 
@@ -885,7 +1058,7 @@
 <h4 id="handshape">Handshape</h4>
 <p>Most signs are communicated with an open palm, although fists, hooked fingers, clenched fingers and relaxation of fingers are also used in various ways. Most common <em>Potenne</em> words are characterised by their informal, almost lazy composition, and so handshape is particularly gestural, often dependent on vocalised context to be legible. It can be difficult to determine within <em>Potenne</em> a clear distinction between non-linguistic gestural communication and its formalised language system, and so the emotiveness and context of its signs are critical to literacy in Vekllei.</p>
 <h2 id="6-upotenne">6. Upotenne</h2>
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>Upotenne</strong> (<em>lit. &ldquo;Spirit-Hand-Talk&rdquo;</em>) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to <em>Potenne</em>, <em>Upotenne</em> is more closely historically aligned with <em>Rapotenne</em> than modern Vekllei.
 </blockquote>
 
@@ -893,7 +1066,7 @@
 <p><em>Upotenne</em> is characterised as a sign language in keeping with the traditions in <em>Potenne</em>, but also incorporates complex cultural artefacts unique to <em>Upen</em> within its symbolism as a language. It codifies the human form and reproduces it in a spiritual manner, assigning importance and symbolism to parts of the human body ignored by the secular <em>Potenne</em>. Where much of the communication in <em>Potenne</em> is dependent on hand-based signs and gestures, <em>Upotenne</em> is mostly positional, using joints and angles to imitate rune-forms. These type and imitation of rune-forms vary greatly between different parts of Vekllei society, since literacy is dependent on landscape; rural persons will most likely recognise and communicate runes that benefit harvest and weather, where urban persons are more likely to participate in ceremonies to benefit employment or love.</p>
 <p>This multidimensionality means that <em>Upotenne</em> is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite <em>Upotenne</em>&rsquo;s capacity as a language, it is largely displaced by its use as a spiritual adjacent to <em>Potenne</em> in modern society, leaving only <em>Upen</em> priests and disciples fluent in one of Vekllei&rsquo;s oldest cultural traditions.</p>
 <h2 id="7-vekllei-semaphore">7. Vekllei Semaphore</h2>
-<blockquote class="book-hint panel">
+<blockquote class="hint panel">
   <strong>Vekllei lo da Myaiouisvah</strong> (<em>lit. &ldquo;Vekllei-Flag-System&rdquo;</em>) is the sixth and most unusual of the Vekllei sublanguages. It relies heavily on colour and form, and is largely abstracted from its subject matter. In this sense, <em>Vekllei Semaphore</em> can be considered to be <em>asemic</em>, since it has no material semantic meaning and is entirely illegible without instruction.
 </blockquote>
 
@@ -928,7 +1101,7 @@
 </ol>
 </section>
 
-</article>
+  </article>
 </div></div>
 
 
@@ -1045,27 +1218,23 @@
 </ul>
 
 
-<style>
-.breadcrumbs a:hover {
-  filter: brightness(85%);
-}
-</style>
-
 
 <div id="gitalk-container"></div>
-<script>
-  const gitalk = new Gitalk({
-	clientID: 'ee5c5c832ce3976fce7c',
-	clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
-	repo: 'comments',      
-	owner: 'MelonKony',
-	admin: ['MelonKony'],
-	id: location.pathname,      
-	distractionFreeMode: false  
-  })
-
-  gitalk.render('gitalk-container')
-  </script>
+	<script>
+  		const gitalk = new Gitalk({
+			clientID: 'ee5c5c832ce3976fce7c',
+			clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+			repo: 'comments',      
+			owner: 'MelonKony',
+			admin: ['MelonKony'],
+			id: location.pathname,      
+			distractionFreeMode: false  
+  		})
+		
+  		gitalk.render('gitalk-container')
+  	</script>
+	  <link rel="stylesheet" href="/css/comments.css">
+</div>
 
   
   <footer class="my-8 w-full text-center text-xs" style="margin-top: 2rem; margin-bottom: 0rem;">
@@ -1076,45 +1245,45 @@
 <style>
 	 
 	.dot-orange {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-orange);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-orange);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-pink {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-pink);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-pink);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-yellow {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-yellow);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-yellow);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-green {
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-green);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-green);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
 		}
 	.dot-blue{
-		  height: 8px;
-		  width: 8px;
-		  background-color: var(--color-blue);
-		  border-radius: 50%;
-		  display: inline-block;
-		  margin: 2.5px;
-		}
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-blue);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+}
 </style>
 <div style="display:table; margin:0 auto; padding: 10px;">
 	<span class="dot-pink"></span>
@@ -1124,26 +1293,5 @@
 	<span class="dot-blue"></span>
 	</div>
 </main>
-<script src="/js/header.0b11855b871cb4d10c6c07b6723b9209f5c2bc9100735ab6ff47c8f9b76bb3d6ae41b488083b5fb15697987334039eb651b25c83228c29ac48a2bc168db8a894.js" integrity="sha512-CxGFW4cctNEMbAe2cjuSCfXCvJEAc1q2/0fI&#43;bdrs9auQbSICDtfsVaXmHM0A562UbJcgyKMKaxIorwWjbiolA=="></script>
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    <script src="/js/search-en.min.008b8f607660414dc45dca9d30d15ec39732bed970244384429bb604f69b5184fe8689c0579015384bbfb024e9cddd63d3df11592b4d70e1bd25673531e04143.js" integrity="sha512-AIuPYHZgQU3EXcqdMNFew5cyvtlwJEOEQpu2BPabUYT&#43;honAV5AVOEu/sCTpzd1j098RWStNcOG9JWc1MeBBQw=="></script>
-
-
-
-
-</body>
+    </body>
 </html>
