@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on MillMint</title>
-    <link>https://millmint.net/tags/index/</link>
-    <description>Recent content in index on MillMint</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog</title>
-      <link>https://millmint.net/newsdesk/blog/</link>
-      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://millmint.net/newsdesk/blog/</guid>
-      <description> .gt-container { display: none; }  </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://millmint.net/posts/</link>
-      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://millmint.net/posts/</guid>
-      <description></description>
-    </item>
-    
+	<title>index on MillMint</title>
+	<link>https://millmint.net/tags/index/</link>
+	<description>Recent content in index on MillMint</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en</language><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Posts</title>
+	  <link>https://millmint.net/posts/</link>
+	  <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/posts/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Blog</title>
+	  <link>https://millmint.net/newsdesk/blog/</link>
+	  <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/newsdesk/blog/</guid>
+	  <description></description>
+	</item>
+	
   </channel>
 </rss>
