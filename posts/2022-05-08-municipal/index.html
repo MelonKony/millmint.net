@@ -1,0 +1,828 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>The Good; The Municipal - MillMint</title>
+
+    
+
+    
+    <meta name="keywords" content="2022" />
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    
+
+    <link rel="stylesheet" href="/style.min.b4684b355ad303e3ea23362311cff5d1c5ebe6f53720f6c3fd7f3bf43c622c2a06d8139dbef80a9103a6a5016ee87a799b00f2f305f8e86e61b2ae1931c512d5.css" integrity="sha512-tGhLNVrTA&#43;PqIzYjEc/10cXr5vU3IPbD/X879DxiLCoG2BOdvvgKkQOmpQFu6Hp5mwDy8wX46G5hsq4ZMcUS1Q==">
+
+
+
+
+      <script defer src="/flexsearch.min.js"></script>
+      <script defer src="/en.search.min.0303711547928e6aef738fd8e360788d9143e27bdcff3233427767d413ebae58.js" integrity="sha256-AwNxFUeSjmrvc4/Y42B4jZFD4nvc/zIzQndn1BPrrlg=" crossorigin="anonymous"></script>
+    
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+    
+    <script async defer data-website-id="f7042062-a626-400f-bfca-6e8fd57a3a82" src="https://stats.millmint.net/umami.js"></script>
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.js"></script>
+    
+    
+    <script src="https://kit.fontawesome.com/cb62f3528c.js" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/fade.js"></script>
+
+    </head>
+<body>
+        <main>
+            <div style="margin-bottom: 2rem;"><header>
+  <div class="brand">
+    <div id="sidebar_btn">
+      <svg id="menu_icon" width="26px" height="26px" viewBox="0 0 24 24"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></svg>
+    </div>
+
+    <div class="brand">
+      <a href="/">MillMint</a>
+      <a
+        href="/"
+        class="emoji "
+        style="
+          font-size: 30px;
+          font-weight: normal;
+          margin-left: 0.5rem;
+          margin-right: 40px;
+          filter: brightness(100%);
+        "
+        id="whirlybat"
+        >-millmint</a
+      >
+    </div>
+  </div>
+  <div class="toolbox">
+    <div id="theme_tool">
+      <svg
+        id="dark_mode_btn"
+        class="hidden toolbox-btn"
+        width="18px"
+        height="18px"
+        viewBox="0 0 24 24"
+      ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></svg>
+      <svg
+        id="light_mode_btn"
+        class="hidden toolbox-btn"
+        width="18px"
+        height="18px"
+        viewBox="0 0 24 24"
+      ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></svg>
+    </div>
+
+    
+    <div id="search_tool">
+      <div class="ml-2 relative flex items-center">
+        
+<div class="magic">
+   <div class="search w-full">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+</div>
+
+
+      </div>
+    </div>
+     
+  </div>
+</header>
+<nav id="navbar" class="pure-menu"><ul class="pure-menu-list"><li class="navbar-item pure-menu-item ">
+      
+      <a href="/utopia/intro/" class="pure-menu-link">Intro</a>
+      
+    </li><li
+      class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover "
+    >
+      
+      <a href="/utopia/vekllei" class="pure-menu-link">Utopia</a>
+      
+      <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/" class="pure-menu-link">Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/characters/" class="pure-menu-link">Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/culture" class="pure-menu-link">Culture</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/culture/language" class="pure-menu-link">Language</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/culture/religion" class="pure-menu-link">Religion</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/landscape" class="pure-menu-link">Landscape</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/landscape/boroughs" class="pure-menu-link">Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/utopia/vekllei/society" class="pure-menu-link">Society</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/society/mail" class="pure-menu-link">Mail</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/utopia/vekllei/society/rail" class="pure-menu-link">Railways</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li
+      class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover "
+    >
+      
+      <a href="/newsdesk/" class="pure-menu-link">News</a>
+      
+      <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/about" class="pure-menu-link">About</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/bulletin" class="pure-menu-link">Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/newsdesk/essays" class="pure-menu-link">Essays</a>
+            
+            <ul class="pure-menu-children">
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/ghibli" class="pure-menu-link">A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/utopie" class="pure-menu-link">Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/hongkong" class="pure-menu-link">Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/tokyo" class="pure-menu-link">A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/newsdesk/essays/waugh" class="pure-menu-link">Landscapes of Waugh</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item pure-menu-item insection">
+      
+      <a href="/posts/" class="pure-menu-link">Stories</a>
+      
+    </li></ul>
+  <ul class="pure-menu-list">
+    <li class="right navbar-item pure-menu-item">
+      <a
+        href="https://forums.millmint.net"
+        style="float: right"
+        class="pure-menu-link"
+        ><i class="fa-solid fa-message"></i></a>
+    </li>
+    
+    <li class="navbar-item pure-menu-item">
+      <a
+        href="https://discord.gg/dCE6vSU"
+        style="float: right"
+        class="pure-menu-link"
+        ><i class="fa-brands fa-discord"></i></a>
+    </li>
+    <li class="navbar-item pure-menu-item">
+      <a
+        href="https://twitter.com/melonkony"
+        style="float: right"
+        class="pure-menu-link"
+        ><i class="fa-brands fa-twitter"></i></a>
+    </li>
+    <li class="navbar-item pure-menu-item">
+      <a
+        href="/posts/index.xml"
+        style="float: right"
+        class="pure-menu-link"
+        ><i class="fa-solid fa-rss"></i></a>
+    </li>
+  </ul>
+</nav>
+<div id="sidebar_canvas_overlay" class="hidden"></div>
+<div id="sidebar" class="close">
+    <ul><li>
+                    <a href="/utopia/intro/">Intro</a>
+                </li><li>
+                    <details>
+                        <summary><a href="/utopia/vekllei">Utopia</a></summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/">Vekllei</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/characters/">Characters</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/culture">Culture</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/culture/language">Language</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/culture/religion">Religion</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/landscape">Landscape</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/landscape/boroughs">Boroughs</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/utopia/vekllei/society">Society</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/society/mail">Mail</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/utopia/vekllei/society/rail">Railways</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+    </ul>
+</details>
+                </li><li>
+                    <details>
+                        <summary><a href="/newsdesk/">News</a></summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/about">About</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/bulletin">Bulletin</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    <details>
+                        <summary>
+                            
+                                <span><a href="/newsdesk/essays">Essays</a></span>
+                            
+                        </summary>
+    <ul>
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/ghibli">A Universal Nostalgia</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/utopie">Utopie Concrete</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/hongkong">Not Long in Hong Kong</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/tokyo">A Cashless Tokyo</a>
+                    
+                </li>
+            
+        
+            
+                <li>
+                    
+                        <a href="/newsdesk/essays/waugh">Landscapes of Waugh</a>
+                    
+                </li>
+            
+        
+    </ul>
+</details>
+                </li>
+            
+        
+    </ul>
+</details>
+                </li><li>
+                    <a href="/posts/">Stories</a>
+                </li></ul>
+</div></div>
+            <div id="content" class="content-margin">
+                
+    <div class="content-margin"><div class="article-">
+
+
+
+  <div>
+    <div>
+  <div>
+    <div>
+      
+      <div data-page-color="209, 49, 105" style="display: none"></div>
+      
+
+      <div class="headerbox">
+        <h1 class="title " style="line-height: 1.2; font-size: 1.6rem; font-weight: 700; margin-bottom: 1rem; filter: brightness(35%);">The Good; The Municipal</h1>
+        
+        <div class="tag ">
+        <div class="sitetag ">
+        <div class="emoji " id="whirlybat">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+  <div>
+    <div class="post-meta">
+      <div class="date">Sunday, May 8, 2022</div>
+      <div class="post-tag">
+  
+  
+    <a href="https://millmint.net/categories/landscape/">#landscape</a>
+  
+  
+
+</div>
+    </div>
+  </div>
+</div>
+
+<h1 class="" style="filter: brightness(35%);"></h1>
+<h2 class="" style="filter: brightness(35%);"></h2>
+<a class="brand " style="filter: brightness(35%);"></h1>
+
+<script src="/js/colors.js"></script>
+
+    
+  <div style="text-align: center;"><img style="
+    object-fit: contain;
+    height:auto;
+    min-height:100%;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: transparent;"
+    src=/images/municipal.jpg /></div>
+
+
+    
+  </div>
+  <div>
+    
+
+  </div>
+
+  <article class="line-numbers">
+      
+      
+      
+
+
+  
+  
+
+
+<a  href="https://www.reddit.com/r/vekllei/comments/uguwe7/panaderas/"   target="_blank"  class="book-btn">
+  Archived from the original article here
+</a>
+
+<style>
+a.book-btn:hover {
+  filter: brightness(85%);
+}
+</style>
+
+<p>The base unit of Vekllei society are municipalities, called <em>municipolis</em> in their language. They occupy a uniquely intimate presence in Vekllei life as a multidimensional conceptualisation of public affairs. Unlike other state bodies in Vekllei, which function similar to their overseas counterparts, local municipalities supersede their conventional definition as mere &lsquo;local governments&rsquo; and are considerably more essential to the wellbeing of Vekllei communities.</p>
+<p>In Vekllei, the word <em>municipolis</em> refers to</p>
+<ul>
+<li>Local government (the ‘municipality’), as made up of assemblies, trade unions, civic organisations, chapels, and school children</li>
+<li>The general legal authority of the municipality, including its petty legislature and local police</li>
+<li>Features of the community that are owned by the community, like sewers, libraries, trams and public workshops</li>
+<li>The municipal attitude of civil service and well-meaning bureaucracy</li>
+<li>The municipal principles of localism, egalitarianism and democracy<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li>The style and design language of community features (municipalist design; civic newda; socialist tectonicism)</li>
+<li>The architecture of the national and commonwealth state as it manifests locally, like local branch offices of government companies and ministerial offices</li>
+<li>Any sort of construction involving municipal agents or the Army Construction House<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+<li>All land and housing that is responsible to an agent of the Vekllei Delicture system<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+</ul>
+<p>The ‘municipal’ in Vekllei is that which is both local and public. It is not just a phrase that refers to the machinery of local government, but in fact a descriptor for all aspects of the spirit of localism as an extension of Vekllei’s indigenous social anarchism. Like a lot of political concepts in Vekllei, its origins are cultural and emotional rather than legal &ndash; the ‘municipalities’ of Vekllei are vessels of all goodwill afforded to community services, from schools to general practitioners. They are fundamentally ‘sun-facing’<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> and optimistic.</p>
+<p>It describes a Vekllei community at any scale, as well as all of its social features &ndash; governance, law-making, design, civil services, infrastructure, and so on. It implies smallness and neighbourliness, but also scales up to borough-sized administrative divisions (called ‘borough municipalities’), and, to some extent, the city-state of Vekllei itself. The same principles found in the atomic communities of society grow, like trees, into every level of government and inform the Vekllei national identity. The health of the utopianism of the Floral Period is diagnosed in its communities, not its governments.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>These principles, in addition to self-mangement and self-interest, are reproduced broadly as part of &lsquo;Sundress Municipalism,&rsquo; a national spirit of the Vekllei state.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>The Army Construction House is a major construction firm in Vekllei, and is part of the Vekllei Commonwealth Armed Forces.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>The Vekllei Delicture system refers to the brokerage of ownership between the Land Sovereign, the municipal agent and the occupier; in other words, the negotiation of land-ownership from the land itself.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4" role="doc-endnote">
+<p><em>Semoisnesne</em>, or &lsquo;sun-facing,&rsquo; is a Vekllei phrase for positivity and general sense of wellbeing.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+  </article>
+</div></div>
+
+
+                
+                    
+                
+            </div><div class="articlelinks">
+  <div class="next-post alignleft">
+    
+  </div>
+  <div class="next-post alignright">
+    
+      <a class="link-reverse" href="https://millmint.net/posts/2022-05-02-panaderas/?ref=footer">Panaderas →</a>
+    
+  </div>
+</div>
+
+<style>
+.articlelinks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 20px 20px;
+  grid-template-areas: "alignleft alignright";
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: -.01em;
+}
+.alignleft a:after, .alignright a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  transform-origin: bottom right;
+  transition: transform 0.15s ease-out;
+}
+.alignleft a:hover:after, .alignright a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+.alignleft:hover, .alignright:hover {
+  filter: brightness(85%);
+}
+.alignleft {
+  grid-area: alignleft;
+  text-align: left;
+  color: var(--color-gray);
+}
+.alignright {
+  grid-area: alignright;
+  text-align: right;
+  color: var(--color-gray);
+}
+.alignleft a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  position: relative;
+}
+.alignright a {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  position: relative;
+}
+</style>
+
+<ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/posts/">Posts</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/posts/2022-05-08-municipal/">The Good; The Municipal</a>
+</li>
+
+</ul>
+
+
+
+<div id="gitalk-container"></div>
+	<script>
+  		const gitalk = new Gitalk({
+			clientID: 'ee5c5c832ce3976fce7c',
+			clientSecret: '62cbf8133658da67cac752828b380980a5fda652',
+			repo: 'comments',      
+			owner: 'MelonKony',
+			admin: ['MelonKony'],
+			id: location.pathname,      
+			distractionFreeMode: false  
+  		})
+		
+  		gitalk.render('gitalk-container')
+  	</script>
+	  <link rel="stylesheet" href="/css/comments.css">
+</div>
+
+  
+  <footer class="my-8 w-full text-center text-xs" style="margin-top: 2rem; margin-bottom: 0rem;">
+      <article style="margin-top: 0rem; margin-bottom: 0rem;">Copyright © 2017-2022 Studio MillMint</article>
+  </footer>
+  
+
+<style>
+	 
+	.dot-orange {
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-orange);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+		}
+	.dot-pink {
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-pink);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+		}
+	.dot-yellow {
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-yellow);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+		}
+	.dot-green {
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-green);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+		}
+	.dot-blue{
+	  	height: 8px;
+	  	width: 8px;
+	  	background-color: var(--color-blue);
+	  	border-radius: 50%;
+	  	display: inline-block;
+	  	margin: 2.5px;
+}
+</style>
+<div style="display:table; margin:0 auto; padding: 10px;">
+	<span class="dot-pink"></span>
+	<span class="dot-orange"></span>
+	<span class="dot-yellow"></span>
+	<span class="dot-green"></span>
+	<span class="dot-blue"></span>
+	</div>
+</main>
+    </body>
+</html>
