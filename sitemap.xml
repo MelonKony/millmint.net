@@ -2,41 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://millmint.net/news/about/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/aismious/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/antarctica/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/azores/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/boroughs/bakur/</loc>
-  </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/demon/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/eyri/</loc>
   </url><url>
     <loc>https://millmint.net/intro/faq/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/landscape/boroughs/flous/</loc>
-  </url><url>
     <loc>https://millmint.net/news/essays/ghibli/</loc>
-  </url><url>
-    <loc>https://millmint.net/intro/</loc>
   </url><url>
     <loc>https://millmint.net/news/bulletin/2020/1/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/kala/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/kalina/</loc>
-  </url><url>
     <loc>https://millmint.net/news/patreon/letters/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/moon/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/mira/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/mirah/</loc>
   </url><url>
@@ -58,29 +34,17 @@
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/troll/</loc>
   </url><url>
-    <loc>https://millmint.net/news/essays/utopie/</loc>
-  </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/voya-voya/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/yana/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/industry/air/</loc>
-  </url><url>
     <loc>https://millmint.net/news/patreon/letters/2020/dec/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/society/government/</loc>
   </url><url>
     <loc>https://millmint.net/news/essays/hongkong/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/industry/</loc>
-  </url><url>
     <loc>https://millmint.net/news/bulletin/2020/2/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/industry/rail/</loc>
-  </url><url>
     <loc>https://millmint.net/news/bulletin/2020/</loc>
-  </url><url>
-    <loc>https://millmint.net/news/essays/waugh/</loc>
   </url><url>
     <loc>https://millmint.net/news/bulletin/2020/3/</loc>
   </url><url>
@@ -104,15 +68,7 @@
   </url><url>
     <loc>https://millmint.net/news/bulletin/2020/7/</loc>
   </url><url>
-    <loc>https://millmint.net/news/essays/tokyo/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/culture/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/landscape/</loc>
-  </url><url>
     <loc>https://millmint.net/news/patreon/</loc>
-  </url><url>
-    <loc>https://millmint.net/utopia/society/</loc>
   </url><url>
     <loc>https://millmint.net/tags/2022/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
@@ -141,7 +97,13 @@
     <loc>https://millmint.net/tags/moise/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://millmint.net/tags/post/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://millmint.net/posts/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://millmint.net/categories/story/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/tags/</loc>
@@ -305,9 +267,6 @@
   </url><url>
     <loc>https://millmint.net/posts/2021-09-26-millmint/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://millmint.net/tags/post/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/posts/2021-09-15-picnic/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
@@ -1182,21 +1141,59 @@
     <loc>https://millmint.net/posts/2017-07-01-youth-meet/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://millmint.net/news/essays/tokyo/</loc>
+  </url><url>
+    <loc>https://millmint.net/news/about/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/about/</loc>
+  </url><url>
+    <loc>https://millmint.net/sitetag/april-4-2020/</loc>
+  </url><url>
     <loc>https://millmint.net/comic/draft/</loc>
   </url><url>
     <loc>https://millmint.net/news/patreon/drafts/comic/</loc>
   </url><url>
+    <loc>https://millmint.net/utopia/landscape/boroughs/bakur/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/borough/</loc>
+  </url><url>
     <loc>https://millmint.net/news/bulletin/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/bulletin/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/characters/</loc>
   </url><url>
     <loc>https://millmint.net/comic/</loc>
   </url><url>
+    <loc>https://millmint.net/tags/comic/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/commonwealth/</loc>
+  </url><url>
+    <loc>https://millmint.net/categories/commonwealth/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/culture/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/culture/</loc>
+  </url><url>
+    <loc>https://millmint.net/categories/documents/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/essay/</loc>
+  </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/holsyim/</loc>
   </url><url>
     <loc>https://millmint.net/tags/index/</loc>
   </url><url>
+    <loc>https://millmint.net/intro/</loc>
+  </url><url>
+    <loc>https://millmint.net/categories/intro/</loc>
+  </url><url>
+    <loc>https://millmint.net/sitetag/introduction/</loc>
+  </url><url>
+    <loc>https://millmint.net/sitetag/july-14-2021/</loc>
+  </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/krafla/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/landscape/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/culture/language/</loc>
   </url><url>
@@ -1204,9 +1201,15 @@
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/lola/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/industry/mail/</loc>
+    <loc>https://millmint.net/sitetag/may-15-2021/</loc>
+  </url><url>
+    <loc>https://millmint.net/categories/news/</loc>
+  </url><url>
+    <loc>https://millmint.net/sitetag/newsdesk/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/ou/</loc>
+  </url><url>
+    <loc>https://millmint.net/sitetag/patreon/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/pharos/</loc>
   </url><url>
@@ -1216,12 +1219,24 @@
   </url><url>
     <loc>https://millmint.net/shop/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/</loc>
+    <loc>https://millmint.net/sitetag/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/</loc>
+  </url><url>
+    <loc>https://millmint.net/categories/society/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/states/</loc>
+  </url><url>
+    <loc>https://millmint.net/sitetag/story/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/</loc>
   </url><url>
+    <loc>https://millmint.net/tags/utopia/</loc>
+  </url><url>
+    <loc>https://millmint.net/news/essays/utopie/</loc>
+  </url><url>
     <loc>https://millmint.net/utopia/vekllei/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/landscape/territories/antilles/</loc>
+    <loc>https://millmint.net/news/essays/waugh/</loc>
   </url>
 </urlset>
