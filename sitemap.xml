@@ -79,6 +79,9 @@
     <loc>https://millmint.net/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://millmint.net/tags/index/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://millmint.net/categories/landscape/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -92,6 +95,9 @@
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/categories/story/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://millmint.net/tags/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/tags/</loc>
@@ -329,6 +335,9 @@
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/tags/thoughts/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://millmint.net/tags/utopia/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/posts/2021-06-15-wicket-keeper/</loc>
@@ -1179,7 +1188,19 @@
   </url><url>
     <loc>https://millmint.net/categories/commonwealth/</loc>
   </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/commonwealth/culture/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/commonwealth/education/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/commonwealth/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/secretariat/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/commonwealth/security/</loc>
+  </url><url>
     <loc>https://millmint.net/utopia/society/technology/computers/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/crown/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/culture/</loc>
   </url><url>
@@ -1189,13 +1210,23 @@
   </url><url>
     <loc>https://millmint.net/tags/essay/</loc>
   </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/government/</loc>
+  </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/holsyim/</loc>
   </url><url>
-    <loc>https://millmint.net/tags/index/</loc>
+    <loc>https://millmint.net/utopia/society/state/housing/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/society/industry/</loc>
   </url><url>
     <loc>https://millmint.net/tags/industry/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/ministry/_index-/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/ministry/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/interior/</loc>
   </url><url>
     <loc>https://millmint.net/intro/</loc>
   </url><url>
@@ -1219,11 +1250,25 @@
   </url><url>
     <loc>https://millmint.net/sitetag/may-15-2021/</loc>
   </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/interior/commerce/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/interior/defence/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/interior/light-and-water/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/interior/commonwealth/</loc>
+  </url><url>
     <loc>https://millmint.net/categories/news/</loc>
   </url><url>
     <loc>https://millmint.net/sitetag/newsdesk/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/ou/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/palace/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/palace/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/parliaments/</loc>
   </url><url>
     <loc>https://millmint.net/sitetag/patreon/</loc>
   </url><url>
@@ -1232,6 +1277,8 @@
     <loc>https://millmint.net/utopia/society/industry/rail/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/culture/religion/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/palace/military/</loc>
   </url><url>
     <loc>https://millmint.net/series/</loc>
   </url><url>
@@ -1242,6 +1289,8 @@
     <loc>https://millmint.net/utopia/society/</loc>
   </url><url>
     <loc>https://millmint.net/categories/society/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/state/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/society/state/</loc>
   </url><url>
@@ -1254,8 +1303,6 @@
     <loc>https://millmint.net/tags/technology/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/</loc>
-  </url><url>
-    <loc>https://millmint.net/tags/utopia/</loc>
   </url><url>
     <loc>https://millmint.net/news/essays/utopie/</loc>
   </url><url>
