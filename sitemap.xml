@@ -329,10 +329,10 @@
     <loc>https://millmint.net/posts/2021-06-19-spiritful/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://millmint.net/news/blog/</loc>
+    <loc>https://millmint.net/categories/blog/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://millmint.net/categories/blog/</loc>
+    <loc>https://millmint.net/news/blog/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://millmint.net/news/</loc>
@@ -1168,9 +1168,9 @@
   </url><url>
     <loc>https://millmint.net/news/essays/tokyo/</loc>
   </url><url>
-    <loc>https://millmint.net/news/about/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/about/</loc>
+  </url><url>
+    <loc>https://millmint.net/news/about/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/society/industry/air/</loc>
   </url><url>
@@ -1184,19 +1184,19 @@
   </url><url>
     <loc>https://millmint.net/tags/borough/</loc>
   </url><url>
-    <loc>https://millmint.net/news/bulletin/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/bulletin/</loc>
+  </url><url>
+    <loc>https://millmint.net/news/bulletin/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/characters/</loc>
   </url><url>
-    <loc>https://millmint.net/comic/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/comic/</loc>
   </url><url>
-    <loc>https://millmint.net/tags/commonwealth/</loc>
+    <loc>https://millmint.net/comic/</loc>
   </url><url>
     <loc>https://millmint.net/categories/commonwealth/</loc>
+  </url><url>
+    <loc>https://millmint.net/tags/commonwealth/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/society/state/government/commonwealth/</loc>
   </url><url>
@@ -1208,9 +1208,9 @@
   </url><url>
     <loc>https://millmint.net/utopia/society/state/government/crown/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/culture/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/culture/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/culture/</loc>
   </url><url>
     <loc>https://millmint.net/categories/documents/</loc>
   </url><url>
@@ -1220,17 +1220,15 @@
   </url><url>
     <loc>https://millmint.net/utopia/society/state/finance/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/state/government/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/government/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/government/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/holsyim/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/state/housing/</loc>
+    <loc>https://millmint.net/tags/industry/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/society/industry/</loc>
-  </url><url>
-    <loc>https://millmint.net/tags/industry/</loc>
   </url><url>
     <loc>https://millmint.net/tags/ministry/_index-/</loc>
   </url><url>
@@ -1238,9 +1236,9 @@
   </url><url>
     <loc>https://millmint.net/utopia/society/state/government/interior/</loc>
   </url><url>
-    <loc>https://millmint.net/intro/</loc>
-  </url><url>
     <loc>https://millmint.net/categories/intro/</loc>
+  </url><url>
+    <loc>https://millmint.net/intro/</loc>
   </url><url>
     <loc>https://millmint.net/sitetag/introduction/</loc>
   </url><url>
@@ -1274,9 +1272,9 @@
   </url><url>
     <loc>https://millmint.net/utopia/landscape/boroughs/ou/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/state/palace/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/palace/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/state/palace/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/society/state/parliaments/</loc>
   </url><url>
@@ -1296,9 +1294,9 @@
   </url><url>
     <loc>https://millmint.net/sitetag/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/</loc>
-  </url><url>
     <loc>https://millmint.net/categories/society/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/</loc>
   </url><url>
     <loc>https://millmint.net/tags/state/</loc>
   </url><url>
@@ -1310,9 +1308,9 @@
   </url><url>
     <loc>https://millmint.net/sitetag/story/</loc>
   </url><url>
-    <loc>https://millmint.net/utopia/society/technology/</loc>
-  </url><url>
     <loc>https://millmint.net/tags/technology/</loc>
+  </url><url>
+    <loc>https://millmint.net/utopia/society/technology/</loc>
   </url><url>
     <loc>https://millmint.net/utopia/</loc>
   </url><url>
