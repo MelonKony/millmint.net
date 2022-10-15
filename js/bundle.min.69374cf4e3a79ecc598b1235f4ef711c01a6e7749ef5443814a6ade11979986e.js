@@ -4,4 +4,4 @@
 		<h4>${e}</h4>
 		<p>${t}</p>
 	</div>`}async function initDictionary(){const e=await fetch("/dictionary.txt").then(e=>e.text()),t=e.split(`
-`).filter(e=>e&&e.includes(":"));for(const e of t){const[n,s]=e.split(":").map(e=>e.trim());dictionary[n]=s}console.log(dictionary),addDictionaryTooltips()}window.addEventListener("load",initDictionary)
+`).filter(e=>e&&e.includes(":"));for(const e of t){const[n,s]=e.split(":").map(e=>e.trim());for(const e of n.split(", ").map(e=>e.trim()))dictionary[e]=s}console.log(dictionary),addDictionaryTooltips()}window.addEventListener("load",initDictionary)
