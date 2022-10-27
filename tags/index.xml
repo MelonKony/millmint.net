@@ -5,8 +5,7 @@
 	<link>https://millmint.net/tags/</link>
 	<description>Recent content in Tags on MillMint</description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language>
-	<lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language><atom:link href="https://millmint.net/tags/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>2022</title>
 	  <link>https://millmint.net/tags/2022/</link>
@@ -26,15 +25,6 @@
 	</item>
 	
 	<item>
-	  <title>index</title>
-	  <link>https://millmint.net/tags/index/</link>
-	  <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/index/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
 	  <title>post</title>
 	  <link>https://millmint.net/tags/post/</link>
 	  <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
@@ -44,56 +34,11 @@
 	</item>
 	
 	<item>
-	  <title>Tzipora</title>
-	  <link>https://millmint.net/tags/tzipora/</link>
-	  <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/tzipora/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
-	  <title>Cobian</title>
-	  <link>https://millmint.net/tags/cobian/</link>
-	  <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/cobian/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
 	  <title>isabeau</title>
 	  <link>https://millmint.net/tags/isabeau/</link>
 	  <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/isabeau/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
-	  <title>Moise</title>
-	  <link>https://millmint.net/tags/moise/</link>
-	  <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/moise/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
-	  <title>Coretti</title>
-	  <link>https://millmint.net/tags/coretti/</link>
-	  <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/coretti/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
-	  <title>Lin Zhi</title>
-	  <link>https://millmint.net/tags/zhi/</link>
-	  <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/zhi/</guid>
 	  <description></description>
 	</item>
 	
@@ -121,15 +66,6 @@
 	  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/penelope/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
-	  <title>Baron</title>
-	  <link>https://millmint.net/tags/baron/</link>
-	  <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/baron/</guid>
 	  <description></description>
 	</item>
 	
@@ -166,15 +102,6 @@
 	  <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/tzafi/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
-	  <title>Ayn</title>
-	  <link>https://millmint.net/tags/ayn/</link>
-	  <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/ayn/</guid>
 	  <description></description>
 	</item>
 	
@@ -260,15 +187,6 @@
 	</item>
 	
 	<item>
-	  <title>utopia</title>
-	  <link>https://millmint.net/tags/utopia/</link>
-	  <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/tags/utopia/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
 	  <title>aleph</title>
 	  <link>https://millmint.net/tags/aleph/</link>
 	  <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -341,6 +259,24 @@
 	</item>
 	
 	<item>
+	  <title>Ayn</title>
+	  <link>https://millmint.net/tags/ayn/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/ayn/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Baron</title>
+	  <link>https://millmint.net/tags/baron/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/baron/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
 	  <title>Borough</title>
 	  <link>https://millmint.net/tags/borough/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -355,6 +291,15 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/bulletin/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Cobian</title>
+	  <link>https://millmint.net/tags/cobian/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/cobian/</guid>
 	  <description></description>
 	</item>
 	
@@ -382,6 +327,15 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/secretariat/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Coretti</title>
+	  <link>https://millmint.net/tags/coretti/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/coretti/</guid>
 	  <description></description>
 	</item>
 	
@@ -422,6 +376,15 @@
 	</item>
 	
 	<item>
+	  <title>index</title>
+	  <link>https://millmint.net/tags/index/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/index/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
 	  <title>industry</title>
 	  <link>https://millmint.net/tags/industry/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -436,6 +399,24 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/ministry/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Lin Zhi</title>
+	  <link>https://millmint.net/tags/zhi/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/zhi/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Moise</title>
+	  <link>https://millmint.net/tags/moise/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/moise/</guid>
 	  <description></description>
 	</item>
 	
@@ -481,6 +462,24 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/tags/technology/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Tzipora</title>
+	  <link>https://millmint.net/tags/tzipora/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/tzipora/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>utopia</title>
+	  <link>https://millmint.net/tags/utopia/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/tags/utopia/</guid>
 	  <description></description>
 	</item>
 	

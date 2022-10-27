@@ -5,23 +5,22 @@
 	<link>https://millmint.net/tags/index/</link>
 	<description>Recent content in index on MillMint</description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language>
-	<lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Stories</title>
-	  <link>https://millmint.net/stories/</link>
-	  <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+	  <title>Blog</title>
+	  <link>https://millmint.net/news/blog/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
-	  <guid>https://millmint.net/stories/</guid>
+	  <guid>https://millmint.net/news/blog/</guid>
 	  <description></description>
 	</item>
 	
 	<item>
-	  <title>Blog</title>
-	  <link>https://millmint.net/news/blog/</link>
-	  <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+	  <title>Stories</title>
+	  <link>https://millmint.net/stories/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
-	  <guid>https://millmint.net/news/blog/</guid>
+	  <guid>https://millmint.net/stories/</guid>
 	  <description></description>
 	</item>
 	

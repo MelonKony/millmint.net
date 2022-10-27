@@ -44,15 +44,6 @@
 	</item>
 	
 	<item>
-	  <title>Stories from the Horizon</title>
-	  <link>https://millmint.net/categories/horizon/</link>
-	  <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/categories/horizon/</guid>
-	  <description></description>
-	</item>
-	
-	<item>
 	  <title>sketch</title>
 	  <link>https://millmint.net/categories/sketch/</link>
 	  <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
@@ -82,7 +73,7 @@
 	<item>
 	  <title>Archive</title>
 	  <link>https://millmint.net/categories/archive/</link>
-	  <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/archive/</guid>
 	  <description></description>
@@ -130,6 +121,15 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/society/</guid>
+	  <description></description>
+	</item>
+	
+	<item>
+	  <title>Stories from the Horizon</title>
+	  <link>https://millmint.net/categories/horizon/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/categories/horizon/</guid>
 	  <description></description>
 	</item>
 	
