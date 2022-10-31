@@ -32,7 +32,7 @@
     <meta name="author" content="Hobart Phillips" />
     
 
-    <link rel="stylesheet" href="/style.min.760c85be4660d27fd9f0dd9b5651d0f121c74f19d6d82b9bca844226ab8122cebd36792325523df84ae5eee84aa77dcd2a470af83d14d05691a49736b981f284.css" integrity="sha512-dgyFvkZg0n/Z8N2bVlHQ8SHHTxnW2CubyoRCJquBIs69NnkjJVI9&#43;Erl7uhKp33NKkcK&#43;D0U0FaRpJc2uYHyhA==">
+    <link rel="stylesheet" href="/style.min.4ecf03e02265dd075a0d317bf2652fe5c9d0ea283922f3fc9b99266a88738c640f5fd68295d130c214ed3ab6aa1a26641904c471972b2ccd5ae0f9ca9d9819ad.css" integrity="sha512-Ts8D4CJl3QdaDTF78mUv5cnQ6ig5IvP8m5kmaohzjGQPX9aCldEwwhTtOraqGiZkGQTEcZcrLM1a4PnKnZgZrQ==">
 
 
 
@@ -45,7 +45,7 @@
       <meta property="og:locale" content="en">
       
       <script defer src="/flexsearch.min.js"></script>
-      <script defer src="/en.search.min.9082e50b1ad2beb692a901618790b6f4e8b45d3e78e7bad20a44e12c94453930.js" integrity="sha256-kILlCxrSvraSqQFhh5C29Oi0XT5457rSCkThLJRFOTA=" crossorigin="anonymous"></script>
+      <script defer src="/en.search.min.c08afeb1eb7686137c634ec97d36ddba18fcef613b6befffeedfbbefdf57d5a3.js" integrity="sha256-wIr&#43;set2hhN8Y07JfTbduhj872E7a&#43;//7t&#43;7799X1aM=" crossorigin="anonymous"></script>
     
 
     
@@ -287,25 +287,25 @@
       <a
         href="https://www.patreon.com/vekllei"
         class="menu-link"
-        ><img class="navicon" src="/icons/patreon.png/"></a>
+        ><img class="navicon" src="/icons/patreon.svg"></a>
     </li>
     <li class="navbar-item ">
       <a
         href="https://discord.gg/dCE6vSU"
         class="menu-link"
-        ><img class="navicon" src="/icons/discord.png/"></a>
+        ><img class="navicon" src="/icons/discord.svg/"></a>
     </li>
     <li class="navbar-item ">
       <a
         href="https://twitter.com/melonkony"
         class="menu-link"
-        ><img class="navicon" src="/icons/twitter.png/"></a>
+        ><img class="navicon" src="/icons/twitter.svg/"></a>
     </li>
     <li class="navbar-item ">
       <a
         href="/stories/index.xml"
         class="menu-link"
-        ><img class="navicon" src="/icons/rss.png/"></a>
+        ><img class="navicon" src="/icons/rss.svg/"></a>
     </li>
   </ul>
 </nav>
@@ -313,16 +313,65 @@
                 <div class="article-meta">
 
 <div class="article-info">
-  <h1 class="title" style="line-height: 1.2; font-size: 2rem; font-weight: 700; margin-bottom: 1rem; color: var(--title-text);">Computing in Vekllei</h1>
+  <h1 class="title">Computing in Vekllei</h1>
   <div class="date" style="margin-right: .25rem;"></div>
-  <div class="article-tag">
+  <div class="headcrumbs">
+    
+    <ol>
   
   
-    <a href="https://millmint.net/tags/technology/">technology</a>
+	
   
+	
   
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+	<span class="crumb">
+		<a href="/">
+			Home</a><span class="seperator">/</span>
+	</span>
+  </li>
 
-</div>
+  
+  <li class="headcrumbs ">
+	<span class="crumb">
+		<a href="/utopia/">
+			Utopia</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+  
+  <li class="headcrumbs ">
+	<span class="crumb">
+		<a href="/utopia/society/">
+			Society</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+  
+  <li class="headcrumbs ">
+	<span class="crumb">
+		<a href="/utopia/society/technology/">
+			Technology</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+	<span class="crumb">
+		<a href="/utopia/society/technology/computers/">
+			Computers</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+</ol>
+
+    
+  </div>
+  
   <div class="article-category">
   
   
@@ -373,8 +422,12 @@
 
     
     <div class="mobile-toc">
-        <div style="display: none;">
-<nav id="TableOfContents">
+        <details>
+          <summary>
+           <span class="navicon">📑</span>Table of Contents
+          </summary>
+          <div>
+            <nav id="TableOfContents">
   <ul>
     <li><a href="#overview">Overview</a></li>
     <li><a href="#types-of-computing">Types of Computing</a>
@@ -386,30 +439,10 @@
     <li><a href="#accessibility-and-utility">Accessibility and Utility</a></li>
   </ul>
 </nav>
-</div>
-
-<div class="collapsible-menu-wrapper" style="margin-bottom: 1rem;">
-    
-
-        <details class="noSelect">
-            <summary class="noSelect" style="font-weight: 500; font-size: 16px; padding: 0px 5px; color: var(--color-gray);">Table of contents</summary>
-                <div class="collapsible-menu">
-                    
-                        <nav id="TableOfContents">
-  <ul>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#types-of-computing">Types of Computing</a>
-      <ul>
-        <li><a href="#photo-electric-computing">Photo-Electric Computing</a></li>
-        <li><a href="#fabricated-live-robotics">Fabricated Live Robotics</a></li>
-      </ul>
-    </li>
-    <li><a href="#accessibility-and-utility">Accessibility and Utility</a></li>
-  </ul>
-</nav>
-                    
-                </div></div>
+          </div>
+        </details>
     </div>
+
 
 
 </div>
@@ -430,11 +463,17 @@
   <a class="anchor" href="#overview">#</a>
 </h2>
 <blockquote class="hint ">
-  ߷ This article is about <a href="/intro/#what-is-vekllei">Vekllei</a> computing, but most of these technologies are available world-over
+  <div class="icon">
+
+</div> 
+  <div class="text">߷ This article is about <a href="/intro/#what-is-vekllei">Vekllei</a> computing, but most of these technologies are available world-over</div>
 </blockquote>
 
 <blockquote class="hint panel">
-  <strong>Computers</strong> are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people &ndash; only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness. Vekllei is working towards participatory work, and computers are among the dream&rsquo;s most valuable means in which it is being realised.
+  <div class="icon">
+
+</div> 
+  <div class="text"><strong>Computers</strong> are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people &ndash; only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness. Vekllei is working towards participatory work, and computers are among the dream&rsquo;s most valuable means in which it is being realised.</div>
 </blockquote>
 
 <p>Vekllei uses electric computers in a range of industrial and commercial applications, which contributes to the increasing automation of the Vekllei Commonwealth workforce. Contemporary computing, known as the photo-electric generation, relies on optical technologies developed by the U.S. military in the 1980s, and were subsequently revolutionised by holographic memory by the U.K. in the 2030s. Vekllei computer science inherits much of its technology database from the U.K. through the Twin Electric research programme, and has contributed significantly to the efficiency and reliability of holographic data storage.</p>
@@ -461,7 +500,10 @@
   <a class="anchor" href="#fabricated-live-robotics">#</a>
 </h3>
 <blockquote class="hint ">
-  ✿ Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em>
+  <div class="icon">
+
+</div> 
+  <div class="text">✿ Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></div>
 </blockquote>
 
 <p>Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called <em>automasiosn</em> or &lsquo;automen,&rsquo; combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.</p>
@@ -546,7 +588,7 @@
 
 <li
 >
-    <a href="https://millmint.net/utopia/society/technology/">Technology in Vekllei</a>
+    <a href="https://millmint.net/utopia/society/technology/">Technology</a>
 </li>
 
 
@@ -570,7 +612,7 @@
     <div style="margin-top: 0rem; margin-bottom: 0rem;">Copyright © 2017-2022 Studio MillMint</div>
 
 
-<div class="edit-date">Edited 27/10/2022</div>
+<div class="edit-date">Edited 31/10/2022</div>
   
 </footer>
 </div>
