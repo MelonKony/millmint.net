@@ -17,15 +17,6 @@
 	
 	<item>
 	  <title>Characters</title>
-	  <link>https://millmint.net/utopia/characters/_index-copy/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-	  
-	  <guid>https://millmint.net/utopia/characters/_index-copy/</guid>
-	  <description>߷ This article is about Hobart&amp;rsquo;s characters, who live in Vekllei Although almost all characters in this project were born in Vekllei, they are of vastly different heritages and backgrounds. A study of modern Vekllei is a study of immigration. Most characters here have swirling ethnic, religious and cultural histories aiding and obscuring their destinies. This is useful, because if you&amp;rsquo;re following along with this project, you&amp;rsquo;re in some small way an immigrant yourself.</description>
-	</item>
-	
-	<item>
-	  <title>Characters</title>
 	  <link>https://millmint.net/utopia/characters/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
@@ -34,11 +25,20 @@
 	</item>
 	
 	<item>
-	  <title>Essays</title>
-	  <link>https://millmint.net/news/essays/</link>
+	  <title>Culture</title>
+	  <link>https://millmint.net/utopia/culture/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
-	  <guid>https://millmint.net/news/essays/</guid>
+	  <guid>https://millmint.net/utopia/culture/</guid>
+	  <description> /Utopia/ is the wiki of Vekllei, its Commonwealth, and the features of its society. It also includes articles on the characters I draw regularly. </description>
+	</item>
+	
+	<item>
+	  <title>Essays</title>
+	  <link>https://millmint.net/millmint/essays/</link>
+	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  
+	  <guid>https://millmint.net/millmint/essays/</guid>
 	  <description>/Essays/ holds an archive of the things that I (Hobart) have written over the years. I have a background in journalism and media criticism, which doesn&amp;rsquo;t bode well for the quality of the essays linked below. My favourites are Not Long in Hong Kong, an angry reflection on my time in Hong Kong, and A Universal Nostalgia, my honours thesis on utopian spatiality in the films of Studio Ghibli &amp;ndash; mostly used as evidence of my love of Ghibli.</description>
 	</item>
 	
@@ -54,12 +54,12 @@ Is it? Well — I beg your pardon;</description>
 	</item>
 	
 	<item>
-	  <title>News</title>
-	  <link>https://millmint.net/news/</link>
+	  <title>MillMint</title>
+	  <link>https://millmint.net/millmint/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
-	  <guid>https://millmint.net/news/</guid>
-	  <description> /News/ is the place for everything going on at Studio MillMint and the Vekllei world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on functional moneylessness and utopie concrète. News ❓About 💾Bulletin 📄Essays 🫧A Universal Nostalgia ☕️Utopie Concrète ☂️Not Long in Hong Kong 🍜A Cashless Tokyo 🍾Landscape in the Age of Frustration 💸On Moneylessness </description>
+	  <guid>https://millmint.net/millmint/</guid>
+	  <description> /News/ is the place for everything going on at Studio MillMint and the Vekllei world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on functional moneylessness and utopie concrète. </description>
 	</item>
 	
 	<item>
@@ -68,7 +68,7 @@ Is it? Well — I beg your pardon;</description>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/</guid>
-	  <description> /Utopia/ is the wiki of Vekllei, its Commonwealth, and the features of its society. It also includes articles on the characters I draw regularly. Utopia 🎋Vekllei 🎎Characters 🏵Culture 📖Language 💀Religion 🌿Landscape 🌐Boroughs 🌎Territories (coming soon) 🏛Society 🪙Government (coming soon) ⚙️Industry (coming soon) 📯Mail 🚇Rail 🧪Technology 🖥Computers </description>
+	  <description> /Utopia/ is the wiki of Vekllei, its Commonwealth, and the features of its society. It also includes articles on the characters I draw regularly. </description>
 	</item>
 	
   </channel>
