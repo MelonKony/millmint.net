@@ -32,7 +32,7 @@
     <meta name="author" content="Hobart Phillips" />
     
 
-    <link rel="stylesheet" href="/style.min.62cef01e97f2408c4f1e15d09b8d5b645b0283acf218d06a143b605c0ff34c919e077ad1694073af9d4c803fa53cbf07fc1deeb3ca5e7dfa99bc3e4dceb4516f.css" integrity="sha512-Ys7wHpfyQIxPHhXQm41bZFsCg6zyGNBqFDtgXA/zTJGeB3rRaUBzr51MgD&#43;lPL8H/B3us8peffqZvD5NzrRRbw==">
+    <link rel="stylesheet" href="/style.min.dfd1509b7f20bbf7abddc2325214789aea07b7acc5ff2d6d2dc7c9ae001f63a719515c0ea117f47376707e24c6094876f84cd47b5537b9119c0494fc739ef261.css" integrity="sha512-39FQm38gu/er3cIyUhR4muoHt6zF/y1tLcfJrgAfY6cZUVwOoRf0c3ZwfiTGCUh2&#43;EzUe1U3uRGcBJT8c57yYQ==">
 
 
 
@@ -54,8 +54,17 @@
     <meta property="og:description" content=" Stories of life and living in the country of Vekllei. " />
     <meta property="og:image" content="YourDefaultImage" />
     <script defer src="/flexsearch.min.js"></script>
-    <script defer src="/en.search.min.6fd95e92e6214ba0cb79d7476779a47e406b929d0f4f36842bd4d41ac41c7fcf.js" integrity="sha256-b9lekuYhS6DLeddHZ3mkfkBrkp0PTzaEK9TUGsQcf88=" crossorigin="anonymous"></script>
+    <script defer src="/en.search.min.defd7bc9972a02f6bdea43bb7744e9f30e529780ad2c2c62296d27bd491237d0.js" integrity="sha256-3v17yZcqAva96kO7d0Tp8w5Sl4CtLCxiKW0nvUkSN9A=" crossorigin="anonymous"></script>
     
+    
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
 
     
     
@@ -72,13 +81,20 @@
     
     
     
+    <button id="theme-button">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
    <div class="search">
      <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
      <div class="search-spinner hidden"></div>
      <ul id="search-results"></ul>
    </div>
 
-     
+    
 </header><nav><ul class="navbar left"><li class="navbar-item ">
       
       <a href="/intro/" class="menu-link"><span class="navicon">📔</span>Intro</a>
@@ -323,6 +339,8 @@
       
     
       
+    
+      
         <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
           <a href="/stories/fight/">
             <div class="post-info">
@@ -504,36 +522,6 @@
         </li>
       
     
-      
-    
-      
-        <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
-          <a href="/stories/koka-parks/">
-            <div class="post-info">
-              <div class="post-title">
-                
-                <span
-                  style="font-size: 1.2rem; font-weight: 700; max-width: 75%"
-                  href="/stories/koka-parks/"
-                  href="/stories/koka-parks/"
-                  class="text-base border-b-2"
-                >
-                  <span class="card-title">Koka parks &amp; municipal recreation</span>
-                </span>
-              </div>
-                <div class="a-wrapper">
-                  <span class="text-xs" style="font-weight: 500">2018/12/04</span>
-                </div>
-            </div>
-            <div class="img-wrapper">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
-
-
-
-  <img class="page-image" alt="feature image" src=https://images.millmint.net/images/kokaparks.jpg />
-</div>
-          </a>
-        </li>
       
     
     </ul>
@@ -1286,6 +1274,27 @@
         
 
         
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
           
             <li><span>...</span></li>
           
@@ -1321,7 +1330,7 @@
       
       
         <li class="page-item">
-          <a href="/stories/page/34/">34</a>
+          <a href="/stories/page/35/">35</a>
         </li>
       
 
@@ -1379,6 +1388,36 @@
 
 <div class="postcard-layout content-margin">
   <ul class="post-grid">
+    
+        <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
+          <a href="/stories/neko/">
+            <div class="post-info">
+              <div class="post-title">
+                
+                <div data-card-color="177, 66, 99" style="display: none"></div>
+                
+                <span
+                  style="font-size: 1.2rem; font-weight: 700; max-width: 75%"
+                  href="/stories/neko/"
+                  href="/stories/neko/"
+                  class="text-base border-b-2"
+                >
+                  <span class="card-title">Sketch for a Friend</span>
+                </span>
+              </div>
+                <div class="a-wrapper">
+                  <span class="text-xs" style="font-weight: 500">2023/01/31</span>
+                </div>
+            </div>
+            <div class="img-wrapper">
+  <div data-page-color="177, 66, 99" style="display: none"></div>
+
+
+
+  <img class="page-image" alt="feature image" src=/images/sketches/neko.jpg />
+</div>
+          </a>
+        </li>
     
         <li class="item card leading-relaxed list-item" style="border-radius: 5px;">
           <a href="/stories/constable/">
@@ -2331,8 +2370,9 @@
 
 
 
+
     
-    <script defer src="/js/millmint.min.fda0745aebdab838c29adf6d4f4b01c3b4351e0a19ff410e3bd2edf38412c501.js" type="module"></script>
+    <script defer src="/js/millmint.min.5799fb37a9e6e78e4da15434337c20441e91ad558cba224d20376bb1f61bc2a9.js" type="module"></script>
 </body>
 
 </html>
