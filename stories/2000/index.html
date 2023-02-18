@@ -15,6 +15,15 @@
 
 <!DOCTYPE html>
 <html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+    
     <meta charset="utf-8">
     <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,15 +68,6 @@
     <script defer src="/flexsearch.min.js"></script>
     <script defer src="/en.search.min.defd7bc9972a02f6bdea43bb7744e9f30e529780ad2c2c62296d27bd491237d0.js" integrity="sha256-3v17yZcqAva96kO7d0Tp8w5Sl4CtLCxiKW0nvUkSN9A=" crossorigin="anonymous"></script>
     
-    
-    
-    <script>
-        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-            document.documentElement.setAttribute("data-theme", "dark");
-        } else {
-            document.documentElement.setAttribute("data-theme", "light");
-        }
-    </script>
 
     
     
@@ -539,7 +539,7 @@ Thank you kindly to all commenters, readers and friends of the project, whether 
 
 
     
-    <script defer src="/js/millmint.min.5799fb37a9e6e78e4da15434337c20441e91ad558cba224d20376bb1f61bc2a9.js" type="module"></script>
+    <script defer src="/js/millmint.min.5c5d31a36b282edb219b26e2dd08a1b27d8e31dcf7c63a8abb1a775160ae1adb.js" type="module"></script>
 </body>
 
 </html>
