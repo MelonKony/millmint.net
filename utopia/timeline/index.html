@@ -1,0 +1,1118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+    
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Timeline - MillMint</title>
+
+    
+    <meta name="description" content="Vekllei is an immersive visual world, written and illustrated by Hobart Phillips." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.5d41714104d3b567e5589deeb0766093f3b12d465515e43ee4d7fdf98cc5146c6af7252968d19180e570ecff0abb99b1bfbf33d3c0ad726b75e09db8896f3a83.css" integrity="sha512-XUFxQQTTtWflWJ3usHZgk/OxLUZVFeQ&#43;5Nf9&#43;YzFFGxq9yUpaNGRgOVw7P8Ku5mxv78z08Ctcmt14J24iW86gw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Timeline &middot; MillMint" />
+    <meta property="og:description" content="Vekllei is an immersive visual world, written and illustrated by Hobart Phillips." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/utopia/timeline/" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/movie.jpg" />
+    <meta property="og:image:secure_url" content="https://millmint.net/images/movie.jpg" />
+    
+    
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/utopia/timeline/" />
+    <meta property="og:title" content="Timeline" />
+    <meta property="og:description" content=" Vekllei is an immersive visual world, written and illustrated by Hobart Phillips. " />
+    <meta property="og:image" content="/images/movie.jpg" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.1850cb8215103e397347d61fcf786f20a2df1997fa7da822c478e647c4ad30b2.js" integrity="sha256-GFDLghUQPjlzR9Yfz3hvIKLfGZf6fagixHjmR8StMLI=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    </head><body data-color="millmint"  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    <button id="toc-button">
+        <span class="navicon">📑</span>
+    </button>
+    
+    
+    <button id="theme-button">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+      
+      <a href="/intro/" class="menu-link"><span class="navicon">📔</span>Intro</a>
+      
+    </li><li class="navbar-item navbar-dropdown allow-hover insection">
+      
+      <a href="/utopia/" class="menu-link"><span class="navicon">📓</span>Utopia</a>
+      
+      <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/vekllei/" class="menu-link"><span class="navicon">🏠</span>Home</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item navbar-dropdown allow-hover ">
+      
+      <a href="/millmint/" class="menu-link"><span class="navicon">📕</span>MillMint</a>
+      
+      <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/blog" class="menu-link"><span class="navicon">💬</span>Blog</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item ">
+      
+      <a href="/stories/" class="menu-link"><span class="navicon">📗</span>Stories</a>
+      
+    </li></ul>
+  <ul class="navbar right">
+    <li class="navbar-item ">
+      <a
+        href="https://www.patreon.com/vekllei"
+        class="menu-link"
+        ><img class="navicon" src="/icons/patreon.svg"></a>
+    </li>
+    <li class="navbar-item ">
+      <a
+        href="https://discord.gg/dCE6vSU"
+        class="menu-link"
+        ><img class="navicon" src="/icons/discord.svg"></a>
+    </li>
+    <li class="navbar-item ">
+      <a
+        href="https://twitter.com/melonkony"
+        class="menu-link"
+        ><img class="navicon" src="/icons/twitter.svg"></a>
+    </li>
+    <li class="navbar-item ">
+      <a
+        href="/stories/index.xml"
+        class="menu-link"
+        ><img class="navicon" src="/icons/rss.svg"></a>
+    </li>
+  </ul>
+</nav>
+<article class="page">
+                <div class="page-meta">
+    
+    <div class="info">
+  <h1 class="title">Timeline of Atlantic History</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="headcrumbs">
+    
+    <ol>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+	<span class="crumb">
+		<a href="/">
+			Home</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+  
+  <li class="headcrumbs ">
+	<span class="crumb">
+		<a href="/utopia/">
+			Utopia</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+	<span class="crumb">
+		<a href="/utopia/timeline/">
+			Timeline</a><span class="seperator">/</span>
+	</span>
+  </li>
+
+</ol>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;">⏳</span>
+  <div class="emoji" id="whirlybat">Τ</div>
+</div>
+    
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+  <img class="page-image" alt="feature image" src=/images/movie.jpg />
+
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="toc-title">
+                        <span class="toc-emoji">⏳</span>
+                        <span>Timeline</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#pre-war-timeline">Pre-War Timeline</a></li>
+    <li><a href="#post-war-timeline">Post-War Timeline</a></li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+    
+    <div class="mobile-toc">
+        <details>
+          <summary>
+           <span class="navicon">📑</span>Table of Contents
+          </summary>
+          <div>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#pre-war-timeline">Pre-War Timeline</a></li>
+    <li><a href="#post-war-timeline">Post-War Timeline</a></li>
+  </ul>
+</nav>
+          </div>
+        </details>
+    </div>
+
+
+    
+</div>
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">This timeline is a useful reference for Atlantic history, but is not comprehensive or all-encompassing.</div>
+</blockquote>
+
+<h2 id="pre-war-timeline">
+  Pre-War Timeline
+  <a class="anchor" href="#pre-war-timeline">#</a>
+</h2>
+<section>
+<ol class="timeline">
+	<section>
+		<li>
+			<b>6000BC</b> 
+			<span class="event">
+				<b>Earliest evidence of human settlement</b>
+			</span>
+		</li>
+		<li>
+			<b>1230BC</b> 
+			<span class="event">
+				Irish settlers establish fishing communities on south coast
+			</span>
+		</li>
+		<li>
+			<b>1100BC</b> 
+			<span class="event">
+				Scandinavians settle in Smoke Cove, aka <a href="/lola/">Oslola</a>
+			</span>
+		</li>
+		<li>
+			<b>600BC</b> 
+			<span class="event">
+				Vekllei is politically and culturally isolated from Europe
+			</span>
+		</li>
+		<li>
+			<b>400BC</b> 
+			<span class="event">
+				Vekllei is using Vekllei logographs<br>
+				<a href="/religion/">Upen</a> is being practiced
+			</span>
+		</li>
+		<li>
+			<b>500BC</b> 
+			<span class="event">
+				<b>Beginning of Vekllei Common Period</b>
+			</span>
+		</li>
+		<li>
+			<b>200</b> 
+			<span class="event">
+				<b>Beginning of Vekllei Early Period</b>
+			</span>
+		</li>
+		<li>
+			<b>230</b> 
+			<span class="event">
+				Language reforms are initiated by Queen Souisviasn
+			</span>
+		</li>
+		<li>
+			<b>700</b> 
+			<span class="event">
+				<b>Beginning of Vekllei Middle Period</b><br>
+				<b>Founding of the 1st Commonwealth</b><br>
+				Vekllei’s monarchist period
+			</span>
+		</li>
+		<li>
+			<b>900</b> 
+			<span class="event">
+				Golden age of sagas begins
+			</span>
+		</li>
+		<li>
+			<b>1200</b> 
+			<span class="event">
+				<b>Founding of the 2nd Commonwealth</b><br>
+				Aismo Desimou becomes king<br>
+				Capital moved to Altanehs
+			</span>
+		</li>
+		<li>
+			<b>1350</b> 
+			<span class="event">
+				Rise of trading towns on East Coast
+			</span>
+		</li>
+		<li>
+			<b>1380</b> 
+			<span class="event">
+				Navy coup forces monarchy from power
+			</span>
+		</li>
+		<li>
+			<b>1350</b> 
+			<span class="event">
+				Rise of trading towns on East Coast
+			</span>
+		</li>
+		<li>
+			<b>1400</b> 
+			<span class="event">
+				<b>Beginning of Period of Rest</b><br>
+				<b>Founding of the 3rd Commonwealth</b><br>
+				Collapse of Vekllei trading power begins
+			</span>
+		</li>
+		<li>
+			<b>1440</b> 
+			<span class="event">
+				Kala joins the Vekllei Commonwealth
+			</span>
+		</li>
+		<li>
+			<b>1600</b> 
+			<span class="event">
+				<b>Beginning of Vekllei Late Period</b><br>
+				Vekllei’s republican period
+			</span>
+		</li>
+		<li>
+			<b>1842</b> 
+			<span class="event">
+				<i><a href="/stories/vna/">The Atlantic</a></i> daily newspaper is founded<br>
+				The Great Recession hits the metropole
+			</span>
+		</li>
+		<li>
+			<b>1874</b> 
+			<span class="event">
+				<a href="/stories/learning/">Montre University</a> is founded
+			</span>
+		</li>
+		<li>
+			<b>1925</b> 
+			<span class="event">
+				<a href="/rail/">Rail transport</a> in Vekllei is nationalised
+			</span>
+		</li>
+		<li>
+			<b>1933</b> 
+			<span class="event">
+				Sugarhouse Mountain Fortress begins construction outside Montre<br>
+				U.K. deploys frigates to the North Atlantic
+			</span>
+		</li>
+		<li>
+			<b>1954</b> 
+			<span class="event">
+				Vekllei invades Mauritania and Senegal
+			</span>
+		</li>
+		<li>
+			<b>1955</b> 
+			<span class="event">
+				The Atlantic Crown Expeditionary Army is founded
+			</span>
+		</li>
+		<li>
+			<b>1966</b> 
+			<span class="event">
+				Great Britain enters decolonisation talks in Edinburgh Conference
+				The Imperial Trade House in Vekllei is burnt down by arsonists
+			</span>
+		</li>
+		<li>
+			<b>1978</b> 
+			<span class="event">
+				The 1978 World’s Fair is held in Montre<br>
+				1978 World's Fair terror attack kills 2,300people<br>
+				Atlantic Crown dissolves under republican pressure
+			</span>
+		</li>
+		<li>
+			<b>1986</b> 
+			<span class="event">
+				The King demands military junta step down from government<br>
+				Constitutional crisis begins<br>
+				Martial Law is declared in Vekllei
+			</span>
+		</li>
+		<li>
+			<b>1995</b> 
+			<span class="event">
+				<b>First Atomic War</b><br>
+				100 Days' Grief<br>
+				Vekllei is occupied by the UK & the US<br>
+				The foundation of the European Economic Community (EEC)<br>
+				The US establishes a lunar colony in Ocean of Storms
+			</span>
+		</li>
+		<li>
+			<b>2004</b> 
+			<span class="event">
+				Wallabies are introduced to Vekllei<br>
+				British Gambia border skirmish occurs<br>
+				The Senegalese Crisis begins<br>
+				British expeditionary forces invade Senegal 
+			</span>
+		</li>
+		<li>
+			<b>2006</b> 
+			<span class="event">
+				The USSR establishes a lunar colony in Eastern Sea<br>
+				Moon I treaty establishes protected Lunar Nullius<br>
+				The PRC establishes a lunar colony on East Equator
+			</span>
+		</li>
+	</ol>
+</section>
+<h2 id="post-war-timeline">
+  Post-War Timeline
+  <a class="anchor" href="#post-war-timeline">#</a>
+</h2>
+<ol class="timeline">
+	<section>
+		<li>
+			<b>2015</b> 
+			<span class="event"><b>Beginning of Vekllei Floral Period</b><br>
+				Founding of the <a href="/interim/">Interim Government</a><br>
+			</span>
+		</li>
+		<li>
+			<b>2017</b> 
+			<span class="event">
+				<b>Founding of the 4th Commonwealth</b><br>
+				UK withdraws from Vekllei<br>
+				Government is reesetablished<br>
+				Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth
+			</span>
+		</li>
+		<li>
+			<b>2018</b> 
+			<span class="event">
+				Vekllei Royal Airways becomes the Crown Overseas Airways (Skyburo)<br>
+				Commonwealth Airways is founded<br>
+				Fission energy is legalised for restricted commercial use in the U.S.<br>
+				Vekllei postwar economic boom begins
+			</span>
+		</li>
+		<li>
+			<b>2020</b> 
+			<span class="event">
+				Aismious Islands are returned to the Commonwealth<br>
+				Farmer’s Syndicate is founded<br>
+				The International Federation of Journalists moves HQ to Vekllei
+			</span>
+		</li>
+		<li>
+			<b>2021</b> 
+			<span class="event">
+				Ou Hydroelectric Dam opens
+			</span>
+		</li>
+		<li>
+			<b>2022</b> 
+			<span class="event">
+				Ramoin-Dupont Aircraft Company founded<br>
+				First commercial vacuum airship flight in France
+			</span>
+		</li>
+		<li>
+			<b>2023</b> 
+			<span class="event">
+				Amelie Azela is born
+			</span>
+		</li>
+		<li>
+			<b>2024</b> 
+			<span class="event">
+				Gregori Hordiyenko, the first Gregori baby, is born
+			</span>
+		</li>
+		<li>
+			<b>2027</b> 
+			<span class="event">
+				Baron Azela is born<br>
+				The Soviet lunar colony is unofficially abandoned<br>
+				General Reactor is founded in Vekllei
+			</span>
+		</li>
+		<li>
+			<b>2029</b> 
+			<span class="event">
+				Ayn Rumouisen is born in Yana
+				Boya Chemical opens in Ada
+			</span>
+		</li>
+		<li>
+			<b>2030</b> 
+			<span class="event">
+				Newda architecture is enshrined in Vekllei’s constitution, a world-first
+			</span>
+		</li>
+		<li>
+			<b>2033</b> 
+			<span class="event">
+				The All-Atomic Auto Company (AAAC) is founded in Vekllei<br>
+				The Strawberry Test Site begins operations in Montre
+			</span>
+		</li>
+		<li>
+			<b>2034</b> 
+			<span class="event">
+				The first Vekllei vacuum airship is launched
+			</span>
+		</li>
+		<li>
+			<b>2038</b> 
+			<span class="event">
+				Amelie Azela, Baron’s sister, dies from TB
+			</span>
+		</li>
+		<li>
+			<b>2043</b> 
+			<span class="event">
+				Vekllei World Jetport opens
+			</span>
+		</li>
+		<li>
+			<b>2044</b> 
+			<span class="event">
+				Baron enlists in general infantry, dropping out of school
+			</span>
+		</li>
+		<li>
+			<b>2045</b> 
+			<span class="event">
+				The People’s Republic of China declares war on Taiwan<br>
+				2045 Sino Crisis begins<br>
+				Vekllei enters war against China alongside NATO
+			</span>
+		</li>
+		<li>
+			<b>2046</b> 
+			<span class="event">
+				Decolonisation of the U.K. possessions is complete<br>
+			</span>
+		</li>
+		<li>
+			<b>2047</b> 
+			<span class="event">
+				Tzipora Sumoisnesn is born in Ro<br>
+				Vekllei withdraws troops from Taiwan
+			</span>
+		</li>
+		<li>
+			<b>2048</b> 
+			<span class="event">
+				2045 Sino Crisis ends in P.R.C. defeat<br>
+				Copette Science Basin and Rocket Factory established in Vekllei<br>
+				U.S. announces cuts to space programme<br>
+				France establishes lunar colony in West Equator<br>
+				Cobian is born in Little Vekllei<br>
+			</span>
+		</li>
+		<li>
+			<b>2049</b> 
+			<span class="event">
+				Ayn and Baron meet during their AB/NI cadetship
+			</span>
+		</li>
+		<li>
+			<b>2050</b> 
+			<span class="event">
+				Vekllei establishes a colony on the South Lunar Pole<br>
+				Gregori Hordiyenko dies in a car accident
+			</span>
+		</li>
+		<li>
+			<b>2052</b> 
+			<span class="event">
+				Oa-class Battlecruiser is commissioned 
+			</span>
+		</li>
+		<li>
+			<b>2053</b> 
+			<span class="event">
+				Baron is assigned to Bolivia as an AB/NI Section Chief
+			</span>
+		</li>
+		<li>
+			<b>2055</b> 
+			<span class="event">
+				Vekllei sovereignty over Lunar Pole is disputed in international court<br>
+				Wildfires in Somalia collapse U.S.-backed Somali Democratic Party
+			</span>
+		</li>
+		<li>
+			<b>2056</b> 
+			<span class="event">
+				Vekllei establishes Moidonnet (Moon City) on the Malapert Massif <br>
+				Comen Aeroyards are founded<br>
+				Cifuentes government is overthrown with Soviet help in Colombia
+			</span>
+		</li>
+		<li>
+			<b>2057</b> 
+			<span class="event">
+				The U.S. invades Colombia to depose communist government<br>
+				Tzipora moves to California to study at St Mary’s Catholic College<br>
+				Terror attack on Panama Canal halts shipping traffic for six weeks<br>
+				The Second Yom Kippur War sends oil prices spiralling<br>
+				2057 Financial Crisis begins
+			</span>
+		</li>
+		<li>
+			<b>2058</b> 
+			<span class="event">
+				Terror attack in Cairo prompts OAPEC to restrict crude supply<br> 
+				The Ghawar refinery is set alight in Saudi Arabia by Iranian spies<br>
+				The Ford Motor Company declares bankruptcy<br>
+				The Dallas Secession begins<br>
+				Open conflict with the United States begins<br>
+				Baron moves to Dallas America as an AB/NI operative<br>
+			</span>
+		</li>
+		<li>
+			<b>2061</b> 
+			<span class="event">
+				Tzipora loses contact with her mother<br>
+				Tzipora leaves St Mary’s and moves East<br>
+				Dallas government recalls militia units after ethnic cleansing in M.I.<br>
+				E.E.C. supports U.S. government
+			</span>
+		</li>
+		<li>
+			<b>2063</b> 
+			<span class="event">
+				Tzipora meets baron<br>
+				Operation Arms of Oslola occurs<br>
+				Tzipora arrives in Vekllei
+			</span>
+		</li>
+		<li>
+			<b>2064</b> 
+			<span class="event">
+				Joyloaf Bakery is founded in Lola<br>
+				The Boy Scouts of America excludes Chinese-borns<br>
+				Tzipora begins study at Metro International School<br>
+				Tzipora visits her birth geyser<br>
+			</span>
+		</li>
+		<li>
+			<b>2065</b> 
+			<span class="event">
+				Vekllei celebrates 50years of independence<br>
+				The Angel of Vekllei vacuum dirigible is launched<br>
+				Tzipora visits Moidonnet with her father<br>
+				Gary Works Integrated Steel Mill is destroyed in fire<br>
+				U.S. Steel collapses<br>
+				Venezuelan oil nationalised by government organ<br>
+				Tzipora begins study at Lola 6th School<br>
+				Tzipora meets Cobian<br>
+				Jules Wynn is killed in Moscow 
+			</span>
+		</li>
+		<li>
+			<b>2066</b> 
+			<span class="event">
+				Vekllei is awarded challenged South Lunar Pole sovereignty<br>
+				The Dallas Accords are signed
+			</span>
+		</li>
+		<li>
+			<b>2067</b> 
+			<span class="event">
+				Lend-lease of nuclear silos g’teed under California Amendment<br>
+				Brazil invades Bolivia, spurring the Gum Wars 
+			</span>
+		</li>
+		<li>
+			<b>2068</b> 
+			<span class="event">
+				The MacMillian Incident kills top Dallas commander<br>
+				The first Yellow Purge begins in the Dallas States<br>
+				Chrysler Motors declares bankruptcy<br>
+				America First Act passed in U.S. Congress<br>
+				U.S. Auto assets administered by government Black Bonds
+			</span>
+		</li>
+		<li>
+			<b>2068</b> 
+			<span class="event">
+				The MacMillian Incident kills top Dallas commander<br>
+				The first Yellow Purge begins in the Dallas States<br>
+				Chrysler Motors declares bankruptcy<br>
+				America First Act passed in U.S. Congress<br>
+				U.S. Auto assets administered by government Black Bonds
+			</span>
+		</li>
+		<li>
+			<b>2069</b> 
+			<span class="event">
+				Tzipora visits Tokyo as part of the graduation trip of Lola 6th School
+			</span>
+		</li>
+		<li>
+			<b>2071</b> 
+			<span class="event">
+				Vekllei reaffirms lunar polar sovereignty through Moon II treaty<br>
+				Tzipora meets fellow Gregori baby Shizuku Kobayashi
+			</span>
+		</li>
+		<li>
+			<b>2073</b> 
+			<span class="event">
+				Tzipora starts work as a librarian in Lola
+			</span>
+		</li>
+		<li>
+			<b>2073</b> 
+			<span class="event">
+				Tzipora enters conscription with the 25th Garden Company<br>
+				The 2074 World’s Fair is held in Vekllei<br>
+				The Number 7 plant (Peace Reactor) is commissioned
+			</span>
+		</li>
+		<li>
+			<b>2075</b> 
+			<span class="event">
+				Tzipora moves to Montre-Lola to study at Montre University<br>
+				Tzipora starts work as Editor-in-Chief of the Montre College Weekly<br>
+				Tzipora starts work as unofficial contributor to Kid Comix
+			</span>
+		</li>
+		<li>
+			<b>2075</b> 
+			<span class="event">
+				Moon II treaty prohibits weapons-testing on the lunar surface
+			</span>
+		</li>
+		<li>
+			<b>2081</b> 
+			<span class="event">
+				Tzipora graduates from Montre University with PhD in English<br>
+				Tzipora begins her Yosnupet pilgrimage 
+			</span>
+		</li>
+		<li>
+			<b>2081</b> 
+			<span class="event">
+				Tzipora begins work at the Montre-Lola district library
+			</span>
+		</li>
+		<li>
+			<b>2094</b> 
+			<span class="event">
+				Black Terror begins in O.K. under supervision of Dallas government<br>
+				Second Purge in Dallas States begins 
+			</span>
+		</li>
+		<li>
+			<b>2111</b> 
+			<span class="event">
+				Second Atomic War begins<br>
+				Direct strikes in P.R.C., U.S., U.K., Vekllei, W. Germany, U.S.S.R.
+			</span>
+		</li>
+	</section>
+</ol>
+
+</article>
+
+                
+                
+                
+            </article><footer>
+  
+
+
+<div class="story-footer">
+  <div class="next-post alignleft">
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post alignright">
+    
+      <a class="link-reverse" href="https://millmint.net/utopia/old.vekllei/">Vekllei →</a>
+    
+  </div>
+</div>
+
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/utopia/">Utopia</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/utopia/timeline/">Timeline</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="small-date">Edited 21/02/2023</span>
+    <span class="pill">
+      <div class="pill-category">
+  
+  
+    <a href="https://millmint.net/categories/commonwealth/">commonwealth</a>
+  
+  
+
+</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Timeline</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.3587f407b3bb7993dcb17ce805601f0b1e90c923d34acf41a1173d50c23fc7a1.js" type="module"></script>
+</body>
+
+</html>
