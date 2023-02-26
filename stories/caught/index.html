@@ -1,0 +1,529 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+    
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Caught - MillMint</title>
+
+    
+
+    
+    <meta name="keywords" content="2023" />
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.fc1ab14c5f497702f091cd0ed9a93b1c8e4b95c92edae37d41db5bf3d379bcf5d03117e6ecd866ade4a8cb6ac31aa4f7b228aa2782198740053f77dfc66f9c18.css" integrity="sha512-/BqxTF9JdwLwkc0O2ak7HI5Llcku2uN9Qdtb89N5vPXQMRfm7NhmreSoy2rDGqT3siiqJ4IZh0AFP3ffxm&#43;cGA==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Caught &middot; MillMint" />
+    <meta property="og:description" content="The home of well-intentioned utopian fiction, illustrated by Studio MillMint." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/stories/caught/" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/sketches/caught.jpg" />
+    <meta property="og:image:secure_url" content="https://millmint.net/images/sketches/caught.jpg" />
+    
+    
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/stories/caught/" />
+    <meta property="og:title" content="Caught" />
+    <meta property="og:description" content=" The home of well-intentioned utopian fiction, illustrated by Studio MillMint. - Caught " />
+    <meta property="og:image" content="/images/sketches/caught.jpg" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.a5f5c43d8bb3259988d783c7a139fde16f4185a74ef60befe8440165c045f857.js" integrity="sha256-pfXEPYuzJZmI14PHoTn94W9BhadO9gvv6EQBZcBF&#43;Fc=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+      
+      <a href="/intro/" class="menu-link"><span class="navicon">📔</span>Intro</a>
+      
+    </li><li class="navbar-item navbar-dropdown allow-hover ">
+      
+      <a href="/utopia/" class="menu-link"><span class="navicon">📓</span>Utopia</a>
+      
+      <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/vekllei/" class="menu-link"><span class="navicon">🏠</span>Home</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item navbar-dropdown allow-hover ">
+      
+      <a href="/millmint/" class="menu-link"><span class="navicon">📕</span>MillMint</a>
+      
+      <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/blog" class="menu-link"><span class="navicon">💬</span>Blog</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+    </li><li class="navbar-item insection">
+      
+      <a href="/stories/" class="menu-link"><span class="navicon">📗</span>Stories</a>
+      
+    </li></ul>
+  <ul class="navbar right">
+    <li class="navbar-item ">
+      <a
+        href="https://www.patreon.com/vekllei"
+        class="menu-link"
+        ><img class="navicon" src="/icons/patreon.svg"></a>
+    </li>
+    <li class="navbar-item ">
+      <a
+        href="https://discord.gg/dCE6vSU"
+        class="menu-link"
+        ><img class="navicon" src="/icons/discord.svg"></a>
+    </li>
+    <li class="navbar-item ">
+      <a
+        href="https://twitter.com/melonkony"
+        class="menu-link"
+        ><img class="navicon" src="/icons/twitter.svg"></a>
+    </li>
+    <li class="navbar-item ">
+      <a
+        href="/stories/index.xml"
+        class="menu-link"
+        ><img class="navicon" src="/icons/rss.svg"></a>
+    </li>
+  </ul>
+</nav>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">Caught</h1>
+  <div class="date" style="margin-right: .25rem;">Saturday, Feb 25, 2023</div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/stories/">
+			Stories</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/stories/caught/">
+			Caught</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;"></span>
+  <div class="emoji" id="whirlybat"></div>
+</header>
+
+
+  <div data-page-color="209, 143, 136" style="display: none"></div>
+
+
+
+  <img class="page" alt="feature image" src=/images/sketches/caught.jpg />
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers" >
+
+
+
+
+
+
+
+
+
+
+
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none;
+    }
+    .pill {
+      display: none;
+    }
+  </style>
+
+    
+    <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">They both just agree to pretend they didn&rsquo;t catch each other smoking on the roof.</div>
+</blockquote>
+
+
+</article>
+
+                
+                
+                
+            </section><footer>
+  
+
+
+<nav class="story">
+  <div class="next-post leftlink">
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post rightlink">
+    
+      <a class="link-reverse" href="https://millmint.net/stories/sand/">Sand →</a>
+    
+  </div>
+</nav>
+
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/stories/">Stories</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/stories/caught/">Caught</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 26/02/2023</span>
+    <span class="pill">
+      <div class="pill-category">
+  
+  
+    <a href="https://millmint.net/categories/sketch/">sketch</a>
+  
+  
+
+</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Caught</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+  
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.cbbbdd3e0702d33220116daf97fe3e93f972db9447eb6e364e77cd90cb544ec0.js" type="module"></script>
+</body>
+
+</html>
