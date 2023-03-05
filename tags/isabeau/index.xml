@@ -6,11 +6,11 @@
 	<description>Recent content in isabeau </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Thu, 04 Aug 2022</lastBuildDate>
+	<lastBuildDate>Thu, 04 Aug 2022 08:00:00 EST</lastBuildDate>
 	<image>
 		<url>https://millmint.net/favicon.png</url>
 		<title>isabeau</title>
-		<link>https://millmint.net</link>
+		<link>https://millmint.net/stories/</link>
 	</image>
 	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
@@ -19,11 +19,13 @@
 	<item>
 	  <title>Waiting for a Movie</title>
 	  <link>https://millmint.net/stories/movie/</link>
-	  <pubDate>Thu, 04 Aug 2022</pubDate>
+	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/movie/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/movie.jpg"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint story&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 

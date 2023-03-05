@@ -9,7 +9,7 @@
 	<image>
 		<url>https://millmint.net/favicon.png</url>
 		<title>Stories from the Horizon</title>
-		<link>https://millmint.net</link>
+		<link>https://millmint.net/stories/</link>
 	</image>
 	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
@@ -18,11 +18,13 @@
 	<item>
 	  <title>Lola, Borough of Genesis</title>
 	  <link>https://millmint.net/stories/lola/</link>
-	  <pubDate>Thu, 15 Sep 2022</pubDate>
+	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/lola/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/lola.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;genesis-of-utopia&#34;&gt;
   Genesis of Utopia
   &lt;a class=&#34;anchor&#34; href=&#34;#genesis-of-utopia&#34;&gt;#&lt;/a&gt;
@@ -63,11 +65,13 @@
 	<item>
 	  <title>Story Trailer</title>
 	  <link>https://millmint.net/stories/trailer/</link>
-	  <pubDate>Thu, 15 Sep 2022</pubDate>
+	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/trailer/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/video/trailer.mp4"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint caption&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -81,11 +85,13 @@
 	<item>
 	  <title>Stories from the Horizon</title>
 	  <link>https://millmint.net/stories/horizon/</link>
-	  <pubDate>Thu, 01 Sep 2022</pubDate>
+	  <pubDate>Thu, 01 Sep 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/horizon/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/stories.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;a-new-format-for-stories-from-vekllei&#34;&gt;
   A New Format for Stories from Vekllei
   &lt;a class=&#34;anchor&#34; href=&#34;#a-new-format-for-stories-from-vekllei&#34;&gt;#&lt;/a&gt;

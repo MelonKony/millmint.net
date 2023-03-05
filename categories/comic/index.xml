@@ -6,11 +6,11 @@
 	<description>Recent content in comic </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 27 Oct 2020</lastBuildDate>
+	<lastBuildDate>Tue, 27 Oct 2020 08:00:00 EST</lastBuildDate>
 	<image>
 		<url>https://millmint.net/favicon.png</url>
 		<title>comic</title>
-		<link>https://millmint.net</link>
+		<link>https://millmint.net/stories/</link>
 	</image>
 	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
@@ -19,11 +19,13 @@
 	<item>
 	  <title>A Vekllei Comic</title>
 	  <link>https://millmint.net/stories/comic-update/</link>
-	  <pubDate>Tue, 27 Oct 2020</pubDate>
+	  <pubDate>Tue, 27 Oct 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/comic-update/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/comic.jpg"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint story&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 

@@ -9,7 +9,7 @@
 	<image>
 		<url>https://millmint.net/favicon.png</url>
 		<title>Boroughs</title>
-		<link>https://millmint.net/images/vekllei.png</link>
+		<link>https://millmint.net/stories/</link>
 	</image>
 	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
@@ -18,11 +18,13 @@
 	<item>
 	  <title>Eyri</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/eyri/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/eyri/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/serpent.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -73,11 +75,13 @@
 	<item>
 	  <title>Mirah</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/mirah/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/mirah/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/waterfront.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -126,11 +130,13 @@
 	<item>
 	  <title>Miyatvousi</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/miyatvousi/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/miyatvousi/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/hollywood.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -219,11 +225,13 @@
 	<item>
 	  <title>Troll</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/troll/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/troll/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/orange.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -326,11 +334,13 @@
 	<item>
 	  <title>Voya Voya</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/voya-voya/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/voya-voya/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/rivers.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -429,11 +439,13 @@
 	<item>
 	  <title>Bakur</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/bakur/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/bakur/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -483,11 +495,13 @@
 	<item>
 	  <title>Holsyim</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/holsyim/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/holsyim/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/moss.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -536,11 +550,13 @@
 	<item>
 	  <title>Krafla</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/krafla/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/krafla/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/liminal.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -665,11 +681,13 @@
 	<item>
 	  <title>Lita</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/lita/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/lita/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/rocket.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -718,11 +736,13 @@
 	<item>
 	  <title>Lola</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/lola/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/lola/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/lola.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -888,11 +908,13 @@
 	<item>
 	  <title>Mumen</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/mumen/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/mumen/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/sketches/sandmage.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -944,11 +966,13 @@
 	<item>
 	  <title>Ou</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/ou/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/ou/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/hydro.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -1063,11 +1087,13 @@
 	<item>
 	  <title>Pharos</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/pharos/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/pharos/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/lightbulb.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -1272,11 +1298,13 @@
 	<item>
 	  <title>Santes</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/santes/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/santes/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/shrine-minded.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
@@ -1372,11 +1400,13 @@
 	<item>
 	  <title>Yana</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/yana/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/yana/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/lakehouse.jpg"/>
+	 	]> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;

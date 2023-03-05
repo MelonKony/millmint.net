@@ -9,7 +9,7 @@
 	<image>
 		<url>https://millmint.net/favicon.png</url>
 		<title>documents</title>
-		<link>https://millmint.net</link>
+		<link>https://millmint.net/stories/</link>
 	</image>
 	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
@@ -18,11 +18,13 @@
 	<item>
 	  <title>The Atlantic Bulletin Archive</title>
 	  <link></link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid></guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  
 	  </description>
 	</item>

@@ -9,7 +9,7 @@
 	<image>
 		<url>https://millmint.net/favicon.png</url>
 		<title>news</title>
-		<link>https://millmint.net</link>
+		<link>https://millmint.net/stories/</link>
 	</image>
 	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
@@ -18,11 +18,13 @@
 	<item>
 	  <title>Ghibli</title>
 	  <link>https://millmint.net/millmint/essays/ghibli/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/ghibli/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -554,11 +556,13 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 	<item>
 	  <title>On Moneylessness</title>
 	  <link>https://millmint.net/millmint/essays/moneylessness/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/moneylessness/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/coast.jpg"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -687,11 +691,13 @@ This essay was written in December 2021. &lt;a href=&#34;https://millmint.net/po
 	<item>
 	  <title>Hong Kong</title>
 	  <link>https://millmint.net/millmint/essays/hongkong/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/hongkong/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -719,11 +725,13 @@ This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong
 	<item>
 	  <title>A Cashless Tokyo</title>
 	  <link>https://millmint.net/millmint/essays/tokyo/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/tokyo/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -773,11 +781,13 @@ This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong
 	<item>
 	  <title>About</title>
 	  <link>https://millmint.net/millmint/about/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/about/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net/images/intro.gif"/>
+	 	]> 
 		  &lt;!--&lt;div class=&#34;section &#34;&gt;
   &lt;figure&gt;
   &lt;img src=&#34;https://images.millmint.net/images/mastheads/author.png&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
@@ -947,11 +957,13 @@ This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong
 	<item>
 	  <title>Utopie Concrète</title>
 	  <link>https://millmint.net/millmint/essays/utopie/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/utopie/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -1011,11 +1023,13 @@ This essay was written in June 2021. &lt;a href=&#34;https://millmint.net/posts/
 	<item>
 	  <title>Waugh</title>
 	  <link>https://millmint.net/millmint/essays/waugh/</link>
-	  <pubDate>Mon, 01 Jan 0001</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/waugh/</guid>
 	  <description>
+	 	&lt;![CDATA[
 		  <img src="https://millmint.net"/>
+	 	]> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
