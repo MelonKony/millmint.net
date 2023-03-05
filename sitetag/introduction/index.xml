@@ -1,18 +1,204 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>Introduction on MillMint</title>
+	<title>Introduction</title>
 	<link>https://millmint.net/sitetag/introduction/</link>
-	<description>Recent content in Introduction on MillMint</description>
+	<description>Recent content in Introduction </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/sitetag/introduction/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>Introduction</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/sitetag/introduction/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Boroughs</title>
 	  <link>https://millmint.net/utopia/landscape/boroughs/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/boroughs/</guid>
-	  <description>߷ This page lists completed articles on Vekllei&amp;rsquo;s boroughs ⚠️ This list is evolving, and will be expanded in future. Over the next year I&amp;rsquo;ll be completing this list of Vekllei&amp;rsquo;s 100 boroughs, and linking them to images and posts produced in the project. Vekllei&amp;rsquo;s five Crown Boroughs (once included) will be highlighted in bold. A Vekllei borough is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This page lists completed articles on &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&amp;rsquo;s&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;https://millmint.net/utopia/vekllei/#administrative-divisions&#34;&gt;&lt;strong&gt;boroughs&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;⚠️&lt;/span&gt; This list is evolving, and will be expanded in future.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Over the next year I&amp;rsquo;ll be completing this list of Vekllei&amp;rsquo;s 100 boroughs, and linking them to images and posts produced in the project. Vekllei&amp;rsquo;s five Crown Boroughs (once included) will be highlighted in bold.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A Vekllei &lt;a href=&#34;https://millmint.net/utopia/vekllei/#administrative-divisions&#34;&gt;borough&lt;/a&gt; is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value. Population was evidently not a concern, and boroughs have great disparity in human settlement. Each borough takes the name of its largest city. You can see a partial list of them, arranged by region and alphabetically, below.&lt;/p&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Afouismeh Region&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;❄️&lt;/span&gt;Adouisneh&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/bakur/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;⚓️&lt;/span&gt;Bakur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏰&lt;/span&gt;Basa&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧰&lt;/span&gt;Desiyo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/eyri/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌊&lt;/span&gt;Eyri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛴️&lt;/span&gt;Fyourd&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎡&lt;/span&gt;Gudaysnio&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌠&lt;/span&gt;Koyoisneh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;📡&lt;/span&gt;Nesndious&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧱&lt;/span&gt;Philadia&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚵‍♀️&lt;/span&gt;Stiyora&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚣‍♀️&lt;/span&gt;Studi&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🛷&lt;/span&gt;Tanger&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;Capital Region&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🪴&lt;/span&gt;Apava&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🪺&lt;/span&gt;Bouisgeh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏭&lt;/span&gt;Callaisn&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚛︎&lt;/span&gt;Coyesntisn&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;👹&lt;/span&gt;Demon&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛲︎&lt;/span&gt;Geysir&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏢&lt;/span&gt;Great Coast&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🛥&lt;/span&gt;Kisen&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏬&lt;/span&gt;Lava&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏫&lt;/span&gt;Little Vekllei&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌲&lt;/span&gt;Lo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/lola/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🪷&lt;/span&gt;Lola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏗️&lt;/span&gt;Lonne&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/mumen/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🏖&lt;/span&gt;Mumen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🦚&lt;/span&gt;Oyah&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/pharos/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;✈️&lt;/span&gt;Pharos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🍃&lt;/span&gt;Poyeisns&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚢&lt;/span&gt;Sojiya&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌋&lt;/span&gt;Thanveler&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌸&lt;/span&gt;Vekllei&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/voya-voya/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;💧&lt;/span&gt;Voya Voya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;Ro Region&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🪨&lt;/span&gt;Aisyo&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧮&lt;/span&gt;Akureyri&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🐋&lt;/span&gt;Alou&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🪲&lt;/span&gt;Bouisiyon&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🪁&lt;/span&gt;Chih&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏞&lt;/span&gt;Damiya&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🛳&lt;/span&gt;Dohyo Free Port&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛪️&lt;/span&gt;Douisnieh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎑&lt;/span&gt;Flous&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚱️&lt;/span&gt;Geame&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚁&lt;/span&gt;Geismaloh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🍽&lt;/span&gt;Guisimaya&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;💼&lt;/span&gt;Holma&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🔖&lt;/span&gt;Ismious&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏟&lt;/span&gt;Jigan&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🍂&lt;/span&gt;Kyala&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧀&lt;/span&gt;Laisiyo&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧁&lt;/span&gt;Lesnious&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/mirah/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🤸‍♀️&lt;/span&gt;Mirah&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏘&lt;/span&gt;Montre&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏡&lt;/span&gt;Montreya&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/ou/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🛶&lt;/span&gt;Ou&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌝&lt;/span&gt;Pokaisndeyah&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎯&lt;/span&gt;Raiskyeh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🥁&lt;/span&gt;Roya&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚗&lt;/span&gt;Skoda&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎊&lt;/span&gt;Speidisn&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;✨&lt;/span&gt;Tanturaisn&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌉&lt;/span&gt;Tohs&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;📦&lt;/span&gt;Tosyojiya&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎐&lt;/span&gt;Zome&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;Lava Region&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌋&lt;/span&gt;Askayaisn&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧊&lt;/span&gt;Hoaedesnen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/krafla/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🗼&lt;/span&gt;Krafla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/miyatvousi/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌋&lt;/span&gt;Miyatvousi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🪖&lt;/span&gt;Miyeisnoen&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🦪&lt;/span&gt;Moma&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/santes/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌿&lt;/span&gt;Santes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌳&lt;/span&gt;Tiyousn&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/troll/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🐉&lt;/span&gt;Troll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/yana/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;⛵️&lt;/span&gt;Yana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;Lumiousniya Region&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🧵&lt;/span&gt;Ada&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🦋&lt;/span&gt;Arisdeh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🕯️&lt;/span&gt;Copette&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎀&lt;/span&gt;Deuimaneh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🥂&lt;/span&gt;Groisniyah&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🫐&lt;/span&gt;Kotaismoyeh&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/lita/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🚀&lt;/span&gt;Lita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎭&lt;/span&gt;Lumaisiyoen&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🕊&lt;/span&gt;Moisnah&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🐟&lt;/span&gt;Mopapa&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏎&lt;/span&gt;Ouinda&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;📞&lt;/span&gt;Stochi&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🥖&lt;/span&gt;Totoyan&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;Vika Region&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;☕️&lt;/span&gt;Abosneh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🛢&lt;/span&gt;Desnisiyousmah&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🍍&lt;/span&gt;Fyell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/holsyim/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🫑&lt;/span&gt;Holsyim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎣&lt;/span&gt;Horn&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛏️&lt;/span&gt;Koisniya&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🏥&lt;/span&gt;Lola-Abouisneh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;💡&lt;/span&gt;Paismohsnen&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🦢&lt;/span&gt;Ro&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🛎&lt;/span&gt;Seisyo&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🎥&lt;/span&gt;Spesniousia&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🗻&lt;/span&gt;Vik&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+
+	  </description>
 	</item>
 	
   </channel>

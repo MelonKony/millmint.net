@@ -1,18 +1,184 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>Intro – What is Vekllei? on MillMint</title>
+	<title>Intro – What is Vekllei?</title>
 	<link>https://millmint.net/intro/</link>
-	<description>Recent content in Intro – What is Vekllei? on MillMint</description>
+	<description>Recent content in Intro – What is Vekllei? </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/intro/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>Intro – What is Vekllei?</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/intro/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>FAQ</title>
 	  <link>https://millmint.net/intro/faq/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/intro/faq/</guid>
-	  <description>߷ This article is about Hobart&amp;rsquo;s utopia, called Vekllei Why Utopia? # Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money &amp;ndash; a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;style&gt;
+#article-info .emoji {
+    margin-right: 85px;
+}
+.markdown a {
+color: var(--color-red);
+}
+.markdown a.anchor {
+color: var(--color-red);
+}
+aside nav ul a {
+color: var(--color-red);
+}
+#article-info .emoji {
+color: var(--color-red);
+}
+&lt;/style&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s utopia&lt;/strong&gt;&lt;/a&gt;, called &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;why-utopia&#34;&gt;
+  Why Utopia?
+  &lt;a class=&#34;anchor&#34; href=&#34;#why-utopia&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money &amp;ndash; a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.&lt;/p&gt;
+&lt;p&gt;Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It&amp;rsquo;s filled with things I value and people I admire. You&amp;rsquo;ll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.&lt;/p&gt;
+&lt;p&gt;Just a few things to keep in mind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This place is &lt;strong&gt;iterative&lt;/strong&gt; &amp;ndash; canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.&lt;/li&gt;
+&lt;li&gt;This place is &lt;strong&gt;good-spirited&lt;/strong&gt; &amp;ndash; Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.&lt;/li&gt;
+&lt;li&gt;This place is &lt;strong&gt;constantly expanding&lt;/strong&gt; &amp;ndash; I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don&amp;rsquo;t. That&amp;rsquo;s part of the fun of it!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vekllei is a utopia&lt;/strong&gt;, but that doesn&amp;rsquo;t mean I don&amp;rsquo;t take it seriously or consider its society pragmatically.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It&amp;rsquo;s full of stuff I love&lt;/strong&gt;, but that doesn&amp;rsquo;t mean it&amp;rsquo;s perfect. Personal growth can come from bad experiences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;I draw in certain styles&lt;/strong&gt;, but Vekllei isn&amp;rsquo;t based off any one country.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vekllei is mostly self-contained stories&lt;/strong&gt;, but I experiment with mediums and methods all the time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;faq&#34;&gt;
+  F.A.Q.
+  &lt;a class=&#34;anchor&#34; href=&#34;#faq&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Frequently Asked Questions&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;who-are-you&#34;&gt;
+  Who are you?
+  &lt;a class=&#34;anchor&#34; href=&#34;#who-are-you&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/about/&#34;&gt;A Tasmanian illustrator.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;why-is-vekllei-a-utopia&#34;&gt;
+  Why is Vekllei a utopia?
+  &lt;a class=&#34;anchor&#34; href=&#34;#why-is-vekllei-a-utopia&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;It makes me feel better about my life and the world. It’s escapism; it’s a dream.&lt;/p&gt;
+&lt;h4 id=&#34;its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think&#34;&gt;
+  It’s a bit cringe to grandstand your political beliefs, doncha think?
+  &lt;a class=&#34;anchor&#34; href=&#34;#its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.&lt;/p&gt;
+&lt;h4 id=&#34;wheres-the-tension-if-its-perfect&#34;&gt;
+  Where’s the tension if it’s perfect?
+  &lt;a class=&#34;anchor&#34; href=&#34;#wheres-the-tension-if-its-perfect&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.&lt;/p&gt;
+&lt;h4 id=&#34;is-there-a-novel-a-story-a-comic&#34;&gt;
+  Is there a novel? A story? A comic?
+  &lt;a class=&#34;anchor&#34; href=&#34;#is-there-a-novel-a-story-a-comic&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.&lt;/p&gt;
+&lt;h4 id=&#34;where-is-vekllei&#34;&gt;
+  Where is Vekllei?
+  &lt;a class=&#34;anchor&#34; href=&#34;#where-is-vekllei&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Iceland.&lt;/p&gt;
+&lt;h4 id=&#34;is-your-alt-history-thought-out&#34;&gt;
+  Is your alt-history thought out?
+  &lt;a class=&#34;anchor&#34; href=&#34;#is-your-alt-history-thought-out&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.&lt;/p&gt;
+&lt;h4 id=&#34;why-does-vekllei-call-itself-petticoat-socialist&#34;&gt;
+  Why does Vekllei call itself “petticoat socialist”?
+  &lt;a class=&#34;anchor&#34; href=&#34;#why-does-vekllei-call-itself-petticoat-socialist&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It&amp;rsquo;s almost anarchic in that sense.&lt;/p&gt;
+&lt;h4 id=&#34;why-the-petticoat&#34;&gt;
+  Why the &amp;ldquo;petticoat&amp;rdquo;?
+  &lt;a class=&#34;anchor&#34; href=&#34;#why-the-petticoat&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei is a female country. Womanhood is decommodified. It&amp;rsquo;s maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.&lt;/p&gt;
+&lt;h4 id=&#34;who-is-zelda&#34;&gt;
+  Who is Zelda?
+  &lt;a class=&#34;anchor&#34; href=&#34;#who-is-zelda&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Zelda is another name for &lt;a href=&#34;https://millmint.net/utopia/characters/&#34;&gt;Tzipora&lt;/a&gt;. She has two names specifically to confuse you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;Join the Patreon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Join the Discord&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Be &amp;ldquo;petticoat&amp;rdquo;.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;futher-reading&#34;&gt;
+  Futher Reading
+  &lt;a class=&#34;anchor&#34; href=&#34;#futher-reading&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;For those curious about what sort of things go into a place like Vekllei, these are some of my favourite books. I&amp;rsquo;ve been asked about them before, so I&amp;rsquo;ve included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you&amp;rsquo;re interested, &lt;a href=&#34;https://millmint.net/about/&#34;&gt;contact me&lt;/a&gt;. I&amp;rsquo;ll update this list periodically as more occur to me.&lt;/p&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;On the Origins of Modern Japanese Literature&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Karatani Kojin&lt;/strong&gt; | 1993&lt;/p&gt;
+&lt;p&gt;Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Starting Point &lt;em&gt;&amp;amp;&lt;/em&gt; Turning Point&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miyazaki Hayao&lt;/strong&gt; | 2009 &amp;amp; 2014&lt;/p&gt;
+&lt;p&gt;These books are essentially a compilation of essays from Miyazaki&amp;rsquo;s years as a filmmaker. He&amp;rsquo;s an incredibly smart and insightful creative force whose work &lt;a href=&#34;https://millmint.net/news/essays/ghibli&#34;&gt;I have written at length about&lt;/a&gt; before. For me, it&amp;rsquo;s all really powerful, affecting stuff.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Three Faces of Utopianism Revisited&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lyman Sargent&lt;/strong&gt; | 1994&lt;/p&gt;
+&lt;p&gt;This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of &amp;lsquo;utopia&amp;rsquo; into both dystopian and eutopian elements is also my preffered descriptor and use of &amp;lsquo;utopia&amp;rsquo; as a concept.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Towards a New Architecture&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le Corbusier&lt;/strong&gt; | 1936&lt;/p&gt;
+&lt;p&gt;Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that &amp;lsquo;utopian&amp;rsquo; futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
   </channel>

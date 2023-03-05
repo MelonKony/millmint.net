@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>sketch on MillMint</title>
+	<title>sketch</title>
 	<link>https://millmint.net/tags/sketch/</link>
-	<description>Recent content in sketch on MillMint</description>
+	<description>Recent content in sketch </description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>sketch</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Dapper Soldier</title>
 	  <link>https://millmint.net/stories/soldier/</link>
 	  <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/soldier/</guid>
-	  <description>Officer in the Army of the Atlantic Crown. Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.
-General infantrymen still wear conventional fatigues.
-Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Officer in the Army of the Atlantic Crown.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.&lt;/p&gt;
+&lt;p&gt;General infantrymen still wear conventional fatigues.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -24,7 +46,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/mail-revised/</guid>
-	  <description> Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&amp;rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&amp;rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -33,7 +64,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/caught/</guid>
-	  <description> They both just agree to pretend they didn&amp;rsquo;t catch each other smoking on the roof. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;They both just agree to pretend they didn&amp;rsquo;t catch each other smoking on the roof.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -42,7 +82,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sand/</guid>
-	  <description> Self portrait &amp;ndash; thinking about how much I hate posting. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Self portrait &amp;ndash; thinking about how much I hate posting.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -51,7 +100,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/neko/</guid>
-	  <description> A drawing for my friend Nubik, featuring his character, Neko. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;A drawing for my friend Nubik, featuring his character, Neko.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -60,7 +118,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/constable/</guid>
-	  <description> Disclaimer: Tzipora has never worked for/cooperated with the police. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Disclaimer: Tzipora has never worked for/cooperated with the police.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -69,7 +136,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/gold/</guid>
-	  <description> Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -78,7 +154,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/veranda/</guid>
-	  <description> Sitting out on the veranda in the sun. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Sitting out on the veranda in the sun.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -87,7 +172,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/friend/</guid>
-	  <description> Trying to figure out what’s going on inside that head of hers. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Trying to figure out what’s going on inside that head of hers.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -96,7 +190,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/the-look/</guid>
-	  <description> The Look. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The Look.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -105,7 +208,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sleep/</guid>
-	  <description> Spiritual sequel to this post. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -114,7 +226,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/poof/</guid>
-	  <description> Spiritual sequel to this post. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -123,8 +244,23 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teachers/</guid>
-	  <description>From left: Ms Ninčić, Tzipora, Mr Kowalczyk. On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.
-Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;From left: Ms Ninčić, Tzipora, Mr Kowalczyk.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.&lt;/p&gt;
+&lt;p&gt;Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university. She is very grateful to them.&lt;/p&gt;
+&lt;p&gt;There are rumours Mr Kowalczyk has a crush on Ms Ninčić.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I based Kowalczyk off Steve Gadd, my favourite session drummer of all time, and Ninčić off a woman who sold me a bus ticket in croatia, who had this wild curly hair afro but looked Slavic.
+It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their case, more of a dress code) to students.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -133,7 +269,16 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teeshirt/</guid>
-	  <description> Long tee shirt, the only shirt she wears out untucked. Good for painting houses in. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -142,9 +287,32 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/reading/</guid>
-	  <description>✿ This post announced changes made for patrons of Vekllei. Read and discuss the changes made in this post on Patreon here. Hello everyone,
-Hobart here, creator of this whole thing. For a couple years now I&amp;rsquo;ve maintained a small Patreon for those interested in supporting my work. Like most Patreons, this has operated monthly.
-From now on, patrons will only be charged on the release of a comic chapter.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This post&lt;/strong&gt; announced changes made for patrons of Vekllei. Read and discuss the changes made in this post on Patreon &lt;a href=&#34;https://www.patreon.com/posts/changes-to-61071775&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;Hobart here, creator of this whole thing. For a couple years now I&amp;rsquo;ve maintained a small &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;Patreon&lt;/a&gt; for those interested in supporting my work. Like most Patreons, this has operated monthly.&lt;/p&gt;
+&lt;p&gt;From now on, &lt;strong&gt;patrons will only be charged on the release of a comic chapter&lt;/strong&gt;. This could be once a month, but will more likely be a bit longer. This means a little less money for me, but also less anxiety about producing enough public work to earn the money pledged to me. It seems more fair, and the comic will be worth it.&lt;/p&gt;
+&lt;p&gt;So what will change? For patrons, &lt;strong&gt;nothing will change except that you will be charged less frequently&lt;/strong&gt;. You will continue to recieve precisely the same benefits I&amp;rsquo;ve promised, including future merch and roles on the Vekllei Discord.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I will continue to produce standalone posts,&lt;/strong&gt; much as I always have &amp;ndash; but instead of battling a creeping anxiety of losing patrons if I don&amp;rsquo;t meet a post quota, I&amp;rsquo;ll be working more creatively and flexibly according to the needs of the comic. My work will be better for it, I reckon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supporters will now be charged on the release of each chapter of the comic, instead of monthly.&lt;/li&gt;
+&lt;li&gt;Merch and Discord rewards will be the same.&lt;/li&gt;
+&lt;li&gt;You won&amp;rsquo;t pay as frequently and will get more for your money as chapters come out.&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;d like to support me in other ways, maybe buy a postcard when the MillMint Shop launches!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have any questions, just leave a comment below and I&amp;rsquo;ll help you out.&lt;/p&gt;
+&lt;p&gt;Thanks always,&lt;/p&gt;
+&lt;p&gt;Hobart/MelonKony&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Discuss on the Vekllei Discord&lt;/a&gt;.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -153,7 +321,19 @@ From now on, patrons will only be charged on the release of a comic chapter.</de
 	  <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/tingles/</guid>
-	  <description>✿ This image is a website-exclusive sketch produced as a masthead for the November Patreon update. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow here. Fruit Tingles (Fodsa Spas) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/billing-paused-59200270&#34;&gt;November Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Fruit Tingles&lt;/strong&gt; (&lt;em&gt;Fodsa Spas&lt;/em&gt;) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.&lt;/p&gt;
+&lt;p&gt;Clockwise: &lt;strong&gt;Hen&lt;/strong&gt;, from Kus (Kala), &lt;strong&gt;Bez&lt;/strong&gt;, from Demon, &lt;strong&gt;Tzipora&lt;/strong&gt;, from Seispri (Vekllei) and &lt;strong&gt;Sydney&lt;/strong&gt;, from Montesur (Kalina).&lt;/p&gt;
+&lt;!--Quita--&gt;
+	  </description>
 	</item>
 	
 	<item>
@@ -162,7 +342,16 @@ From now on, patrons will only be charged on the release of a comic chapter.</de
 	  <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/studio-zelda/</guid>
-	  <description> ✿ This image is a website-exclusive sketch produced as a masthead for the september Patreon update. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow here. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint story&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/56631873&#34;&gt;september Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -171,8 +360,12 @@ From now on, patrons will only be charged on the release of a comic chapter.</de
 	  <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/carry/</guid>
-	  <description>This is Tzipora and Cobian. They have not been friends for very long but they like each other a lot. Tzipora weighs nearly 10kg less than her friend, so she gets piggy backs more often.
-By me! @melon.kony or r/vekllei on reddit!</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;This is Tzipora and Cobian. They have not been friends for very long but they like each other a lot. Tzipora weighs nearly 10kg less than her friend, so she gets piggy backs more often.&lt;/p&gt;
+&lt;p&gt;By me! &lt;a href=&#34;https://www.instagram.com/melon.kony/&#34;&gt;@melon.kony&lt;/a&gt; or r/vekllei on reddit!&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -181,7 +374,11 @@ By me! @melon.kony or r/vekllei on reddit!</description>
 	  <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/showa-memories/</guid>
-	  <description>new r/worldbuilding post soon, just filling in my garbage upload schedule with generic anime and shōwa nostalgia</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;new r/worldbuilding post soon, just filling in my garbage upload schedule with generic anime and shōwa nostalgia&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -190,8 +387,14 @@ By me! @melon.kony or r/vekllei on reddit!</description>
 	  <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sex-ed/</guid>
-	  <description>Porno is available over-the-counter at most book stores. Some industry associations attempt to limit availability to minors but generally it&amp;rsquo;s at the discretion of the shopkeeper. Often, shame and embarassment are more powerful tools than legislation in Vekllei.
-Generally it&amp;rsquo;s pretty traditional stuff supported by columns and fiction, although it varies between pornographers. It&amp;rsquo;s quite common for well-known Vekllei models to end up in nude shoots either before or after their fame.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Porno is available over-the-counter at most book stores. Some industry associations attempt to limit availability to minors but generally it&amp;rsquo;s at the discretion of the shopkeeper. Often, shame and embarassment are more powerful tools than legislation in Vekllei.&lt;/p&gt;
+&lt;p&gt;Generally it&amp;rsquo;s pretty traditional stuff supported by columns and fiction, although it varies between pornographers. It&amp;rsquo;s quite common for well-known Vekllei models to end up in nude shoots either before or after their fame. Nudity is a little more common in Vekllei than it is in the U.S. (at beaches and so on), and that relaxes the moralising of smut somewhat.&lt;/p&gt;
+&lt;p&gt;That said, the generation previous to Tzipora&amp;rsquo;s (about 20 years prior, so around the early 2050s) were very sex-positive and deviant. Certain cultural iconography from this time is still used in porno &amp;ndash; heavy makeup, curled hair, bare thighs &amp;ndash; but this has prompted a conservatism among Tzipora&amp;rsquo;s generation towards the &amp;ldquo;vanity&amp;rdquo; and &amp;ldquo;superficiality&amp;rdquo; of their parents&amp;rsquo; sexual liberation and bare skin. Today it is much more common to have skirts below the knee than above it, and pornography is starting to shift to accommodate the fetishistic and fantasy as opposed to outright explicit desire common in the previous decades.&lt;/p&gt;
+&lt;p&gt;foreign porno, however, is highly prized as a sort of racialised sexual unorthodoxy (especially of Asian or Black men and women, neither of whom are particularly large racial demographics in Vekllei). It&amp;rsquo;s rare to find and not commonly traded. There are very few bureaus that import pornography, and export is far more common.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -200,9 +403,34 @@ Generally it&amp;rsquo;s pretty traditional stuff supported by columns and ficti
 	  <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/decay/</guid>
-	  <description>Talking about utopia in landscape is easy — Vekllei is a glittering midcentury paradise that fosters human life as a wonderful dream.
-Talking about utopia in character is much harder. How can you find utopia in flawed and sometimes unattractive human beings? By what metric is the vague, intuitive values of a utopia measured against a living person?
-In Upen, the nondenominational animism of Vekllei, there is the living principle of Dumousiantopet: “beautiful and seperate”.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Talking about utopia in landscape is easy — &lt;a href=&#34;https://vekllei.city/economy/&#34;&gt;Vekllei is a glittering midcentury paradise that fosters human life as a wonderful dream&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Talking about utopia in character is much harder. How can you find utopia in flawed and sometimes unattractive human beings? By what metric is the vague, intuitive values of a utopia measured against a living person?&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Upen&lt;/em&gt;, the &lt;a href=&#34;https://vekllei.city/religion/&#34;&gt;nondenominational animism of Vekllei&lt;/a&gt;, there is the living principle of &lt;em&gt;Dumousiantopet&lt;/em&gt;: “beautiful and seperate”. This is a modernist reconciliation of Vekllei’s &lt;a href=&#34;https://vekllei.city/hot-summers-in-the-arctic-and-newda-architecture/&#34;&gt;striking, symmetrical and clean &lt;em&gt;Newda&lt;/em&gt; architecture school&lt;/a&gt; with &lt;em&gt;Upen’s&lt;/em&gt; otherwise modest and naturalistic principles. This makes fine sense for cities and towns, in which the triumphant and monumental nature of Vekllei architecture is at odds with Vekllei’s efforts to deindustrialise through post-scarcity, but it also applies to human beings, as natural objects, in society. In Vekllei, architecture is not adapted to its environment, but built in spite of it, as recognition of Vekllei’s human-centric worldview.&lt;/p&gt;
+&lt;p&gt;Simultaneously, however, Vekllei is a land and people deeply linked with their surrounds, in which purpose and value is drawn from their landscape and nature is an intrinsic part of life. &lt;em&gt;Dumousiantopet&lt;/em&gt; does not mean the domination of nature by human construction, but to exist together in segregation of their different systems of beauty.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hence the concept of ‘Human Decay’, or &lt;em&gt;Lemdisiandan&lt;/em&gt;, a system of human beauty that warps intuitive Western principles (the symmetrical woman, the rational man, the healthy boy, the cute girl, and so on) and worships instead decay, which in Vekllei is a positive natural process that unites all life, including landscape and human beings. Where Vekllei might build a utopian city to last a thousand years, human beauty is acknowledged to be far less eternal; it is in fact fleeting, at once suspended in a single moment and returning slowly to absence, or ‘nothingness’. In Vekllei, it it this process (and how it manifests) in which beauty is found. It is the evidence of life; the symptoms of living; the detail of imperfections in human beings that validate their place on Earth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A worn shirt, windswept hair, sweat on your brow — small images of dignity and history in how a person talks and carries themselves.&lt;/p&gt;
+&lt;p&gt;So how does this manifest? Here is Tzipora Lo Ula Desmoines, &lt;a href=&#34;https://www.reddit.com/r/characterforge/comments/btfqm8/show_and_tell_meet_tzipora_desmoines_the_eternal/&#34;&gt;a girl who suffers from Gregori-Heitzfeld Syndrome&lt;/a&gt;. She is a perfect example of character utopia:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;She is very shameful about her body and her thinness.&lt;/li&gt;
+&lt;li&gt;She is angry at a lot of things and cannot let bad memories die.&lt;/li&gt;
+&lt;li&gt;She suffers from hypertension after her childhood, and is terrified of dogs and loud noises.&lt;/li&gt;
+&lt;li&gt;Bad dreams interrupt her sleep.&lt;/li&gt;
+&lt;li&gt;She is distinctive but well-kept, productive but inward-facing.&lt;/li&gt;
+&lt;li&gt;She is afflicted with nervous tics that manifest as shirt-pulling and nose-rubbing and has had them for many years. They appear involuntarily in nervousness and pointing them out to her will only increase their intensity.&lt;/li&gt;
+&lt;li&gt;She has obsessions about clothing materials and the material composition of outfits, which can affect her emotionally (she cannot stand a wool skirt and rayon shirt, for example, intersecting). These bizarre principles include the proportion and length of items, and the tightness and looseness of clothes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This list could go on and on to paint a very uncomfortable and invasive picture of an otherwise quiet and happy person, but these examples neglect the many wonderful things about her — her affection and good sense of humour, her humility and loyalty, and so on. But while these good things might be employed to counteract the bad to us, to a Vekllei person they would accentuate and complete a complex and positive picture of a girl touched by ‘human decay’, an ugly phrase in English that essentially refers to the sweet detail and intricacies that evidence the life of a person.&lt;/p&gt;
+&lt;p&gt;Human Decay does not glorify anxiety or mental illness — nor does it worship dirtiness for the sake of being dirty, or imperfection for being imperfect — but it does recognise the greatness in the texture and detail of human life. So it is that in Vekllei, splotchy birthmarks and soft skin alike are the characteristics of a beautiful person, and lend to a metric of beauty defined by storytelling and complexity.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A lot of how Tzipora would be remembered would be in the way she appeared in the person. She was a good-looking young teen-ager of quiet and unusual movements. As she became known to the wider public, her physical appearance would come to define her as both a phenomena and disability — a victim of blessings; a sweet child of cotton and gingham carrying on in the dark schism between teen-age impetuosity and the adult world of &lt;em&gt;power&lt;/em&gt;. What a tragedy and miracle she was.Zelda, which was how she introduced herself among friends, was as intricate as she was indecipherable. She had her own internal logics; a unique carousel of intuition that marked her out as some unfortunate &lt;em&gt;undamoispotet&lt;/em&gt; among other teen-agers. In conversation that stirred any emotion in her she was susceptible to spasmodic, defensive movements that distracted from her talking. Most frequently she would pull on her nose as if to wipe it, or reach for her shirt at the shoulder and adjust it. If she was particularly self-conscious, which could be brought on even by the spasms themselves, she would take hold of her shirt and keep her hand there, as though her thin girlish arms could shield her breast from judgement. She confided in her father that she did not like the tics. The more conscious of her imperfections she was, the more her idiosyncrasies flared. He asked her once how long she’d had them — the nose rubbings, the shirt pullings — and she said she couldn’t remember, but thought it might have been after she arrived in America. Which was possible, he supposed — trauma could bring on tics, even laymen knew that. If you spend a while with her, however, it becomes more obvious that her tics are symptomatic of a nervous, fidgety subconscious not cowed by the supposed tomboyishness of her movements — she jigs a leg, and run the back of her hand beneath her nose. Then, when she realises people notice those things and judge her for them, the same synchronistic hyperactivities became shirt-pulling and face-touching.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Thanks folks. Just a quick reupload of a concept I thought worked best here :)&lt;/em&gt;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -211,7 +439,11 @@ In Upen, the nondenominational animism of Vekllei, there is the living principle
 	  <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/much-love/</guid>
-	  <description>Much love to all of you!</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Much love to all of you!&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -220,8 +452,14 @@ In Upen, the nondenominational animism of Vekllei, there is the living principle
 	  <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/air-raid/</guid>
-	  <description>She loved helping out. It was important to her, as an ageless girl of ultimately transient relationships, to be able to establish for herself a family wherever she lived. So within a few years of her arrival in Vekllei, she put time in as a warden for her apartment block and undertook the medical training that went with it.
-She carried debts of blood because of how she sold out her friends some years before.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;She loved helping out. It was important to her, as an ageless girl of ultimately transient relationships, to be able to establish for herself a family wherever she lived. So within a few years of her arrival in Vekllei, she put time in as a warden for her apartment block and undertook the medical training that went with it.&lt;/p&gt;
+&lt;p&gt;She carried debts of blood because of how she sold out her friends some years before. She was very conscious of the fact that she was living as a traitor to her old friends. If she was going to die in a nuclear blast — so be it. It would finally be repaid. She had lived a wonderful life these last couple years and had made good use of her borrowed time.&lt;/p&gt;
+&lt;p&gt;When the war did come, as she always had suspected it would, she was prepared to die in it. She was caught outside when the bomb hit Montre, and when it failed to kill her, she spent three days searching tirelessly for wounded with the rest of the Civil Defense corps. It was only when her legs gave out that she made the long journey back to her father in the capital, to reassure him that she was in fact still alive.&lt;/p&gt;
+&lt;p&gt;She was awarded for her efforts, along with two others from Montre-Lola. It cemented her place as grandmother of the small agricultural village; the quite librarian from the city who had only the village’s interests at heart.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -230,8 +468,12 @@ She carried debts of blood because of how she sold out her friends some years be
 	  <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/moment/</guid>
-	  <description>The whole world gives way to a moment of silence. The other seasons are filled with noise and marrow, jerking and twisting with the pace of the clock. But a moment lasts forever — and wintertime is one long moment.
-Although the uniforms got heavier and the commutes longer, Zelda would always like the wintertime. Even in the writhing digits of the city — the subways, the streetcars, the dockyards — snowbanks took the noise.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;The whole world gives way to a moment of silence. The other seasons are filled with noise and marrow, jerking and twisting with the pace of the clock. But a moment lasts forever — and wintertime is one long moment.&lt;/p&gt;
+&lt;p&gt;Although the uniforms got heavier and the commutes longer, Zelda would always like the wintertime. Even in the writhing digits of the city — the subways, the streetcars, the dockyards — snowbanks took the noise. There’s no hurry that time of year. Your feet are wet and your ears hurt, but that’s the price of liberation — to have normal productivity disrupted, usual play moved away. For one long moment — that’s winter — you can spent a while outdoors alone in the city.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -240,8 +482,12 @@ Although the uniforms got heavier and the commutes longer, Zelda would always li
 	  <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sleepover/</guid>
-	  <description>Even for those ageless kids, there’s a time when the charade of childhood comes to a head and begs a certain uncomfortable question: at what point does the whole thing — of immaturity, of carelessness, of sleepovers — start looking like two old women posturing around youth, indulging in a sick genetic perversion? At what age to they stop brushing each other’s hair and buying magazines?
-The question wasn’t phrased like that, but it was there.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Even for those ageless kids, there’s a time when the charade of childhood comes to a head and begs a certain uncomfortable question: at what point does the whole thing — of immaturity, of carelessness, of sleepovers — start looking like two old women posturing around youth, indulging in a sick genetic perversion? At what age to they stop brushing each other’s hair and buying magazines?&lt;/p&gt;
+&lt;p&gt;The question wasn’t phrased like that, but it was there. And though they had a good time, it weighed heavy on them as the schism between their innocent intuition and their public appearance grew wider.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -250,8 +496,19 @@ The question wasn’t phrased like that, but it was there.</description>
 	  <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/militia/</guid>
-	  <description>As part of sundress municipalism, Vekllei’s villages and townships are mostly self-sufficient and self-regulating. Although a walk in the capital will take you past colossal apartment blocks and cinemas, libraries and schools of great magnificence, you are really looking at a hundred different communities going about personal business at their leisure. The villages are large and concrete now, but the people are are still there.
-So does it surprise anyone that the police are just as much caregivers as law enforcement?</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;As part of sundress municipalism, Vekllei’s villages and townships are mostly self-sufficient and self-regulating. Although a walk in the capital will take you past colossal apartment blocks and cinemas, libraries and schools of great magnificence, you are really looking at a hundred different communities going about personal business at their leisure. The villages are large and concrete now, but the people are are still there.&lt;/p&gt;
+&lt;p&gt;So does it surprise anyone that the police are just as much caregivers as law enforcement? That’s the thing about cultural matriarchy — even old moustachioed crustaceans like Teddy Roresoin here are mothers in the consciousness of the country.&lt;/p&gt;
+&lt;p&gt;Teddy came from shipbuilders and he was desperate to avoid becoming his parents. He enlisted in the Navy, but at university his politics soured on dying in some hole in Taiwan and he returned to his seaside prefecture. His office in the station overlooks the dry dock where his parents once worked. In his day it birthed large trawlers of fatty Atlantic salmon. Today it makes nuclear submarines.&lt;/p&gt;
+&lt;p&gt;He didn’t mean to have a child, much less a daughter, and she turned out to be everything he was terrified of. In Vekllei, they are called ‘&lt;em&gt;Lodoinopotet&lt;/em&gt;’, which fits into English best as ‘woman-girls’ or &amp;lsquo;girly girl&amp;rsquo;. It evokes a specific image — a high-school girl with modified uniform, enamoured by useless trinkets like perfume and rouge.&lt;/p&gt;
+&lt;p&gt;May, his daughter, was not always close with her father but her mother did not stick around long and so it was how it was. She did not intend to become a police officer in school. She spent most of her schooling life having her heart broken by a whirlwind of paper friendships and easy boyfriends. With no qualifications and mediocre grades, she asked her father for a job. She found out she liked it, and the people she policed liked her, too. These days she patrols their hometown together with her father, killing time and making friends. She used to wear makeup heavy like the inner-city girls. She was ashamed of a beauty mark near her mouth. Nowadays it doesn’t bother her much.&lt;/p&gt;
+&lt;p&gt;One of her favourite of the town’s children is Laura and her brother Rike, which is a brutish-sounding name but he’s a sweet boy. He loves her dad and her father lets him wear his officer’s cap. May’s pushing thirty now and her father’s on the winter side of fifty, and her worries of marrying right out of school are far behind her now — she has enough children to fill a village.&lt;/p&gt;
+&lt;p&gt;The story might be saccharine, but that’s what no crime and community policing does to constable. It takes these masculine warriors of a community and makes them mums. Vekllei people’d have it no other way. At once therapists, negotiators, friends and guardians, the community police of Vekllei are symptomatic of the wider feminisation of Vekllei society, and their ambition to crest the final age of industry and enter a peaceful, post-industrial epoch of rest.&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;If you have any questions, I like questions. If you&amp;rsquo;re new to Vekllei you can check out a website I worked quite hard on: &lt;a href=&#34;https://www.veklleei.city&#34;&gt;www.vekllei.city&lt;/a&gt;. Or check out my profile! I&amp;rsquo;ve written on &lt;em&gt;Senrouiva&lt;/em&gt;  and &lt;em&gt;Venrouiva&lt;/em&gt; policing &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/99nhx6/the_constabulary/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/a7ltvy/the_suburban_constabulary/&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -260,10 +517,15 @@ So does it surprise anyone that the police are just as much caregivers as law en
 	  <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/rabbit/</guid>
-	  <description>Look at it!
-The bastard ate the lettuce! There&amp;rsquo;s a hole in the wire!
-He&amp;rsquo;s cute but he&amp;rsquo;s a bastard!
-I&amp;rsquo;ve been drawing a train for over two weeks now and I needed to draw something alive before I shinkansenned myself. This only took an hour or two but I&amp;rsquo;m not drawing enough and it feels like I&amp;rsquo;m running out of time to get good at drawing.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Look at it!&lt;/p&gt;
+&lt;p&gt;The bastard ate the lettuce! There&amp;rsquo;s a hole in the wire!&lt;/p&gt;
+&lt;p&gt;He&amp;rsquo;s cute but he&amp;rsquo;s a bastard!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I&amp;rsquo;ve been drawing a train for over two weeks now and I needed to draw something alive before I shinkansenned myself. This only took an hour or two but I&amp;rsquo;m not drawing enough and it feels like I&amp;rsquo;m running out of time to get good at drawing.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -272,7 +534,11 @@ I&amp;rsquo;ve been drawing a train for over two weeks now and I needed to draw 
 	  <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/metro-days/</guid>
-	  <description>Metro Days.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Metro Days.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -281,8 +547,12 @@ I&amp;rsquo;ve been drawing a train for over two weeks now and I needed to draw 
 	  <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/rural-trains/</guid>
-	  <description>I caught a train out of Tokyo as far as it would go, and I ended up on a little platform in the mountains. Nice place.
-Vekllei has a lot of mountains and a lot of trains.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;I caught a train out of Tokyo as far as it would go, and I ended up on a little platform in the mountains. Nice place.&lt;/p&gt;
+&lt;p&gt;Vekllei has a lot of mountains and a lot of trains.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -291,8 +561,14 @@ Vekllei has a lot of mountains and a lot of trains.</description>
 	  <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/summer/</guid>
-	  <description>In Down Under it&amp;rsquo;s coming around summer, and things are heating up. It&amp;rsquo;s not my fault Yanks broke the northern hemisphere and made the weather go wrong.
-Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a variety of reasons. A city of gardens and flowerbeds (the most flowers per capita in the world, actually), apartment dwellers take turns watering their local gardens and clearing weeds. Most parks have utility as herb or fruit gardens, and so maintenance of those plants in summer is important.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;In Down Under it&amp;rsquo;s coming around summer, and things are heating up. It&amp;rsquo;s not my fault Yanks broke the northern hemisphere and made the weather go wrong.&lt;/p&gt;
+&lt;p&gt;Vekllei gets warm in the summer, reaching heights of 30C occasionally. &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/90f56z/hot_summer_rain_on_a_beach_of_black_sand_iceland/&#34;&gt;For a variety of reasons&lt;/a&gt;. A city of gardens and flowerbeds (the most flowers per capita in the world, actually), apartment dwellers take turns watering their local gardens and clearing weeds. Most parks have utility as herb or fruit gardens, and so maintenance of those plants in summer is important.&lt;/p&gt;
+&lt;p&gt;And to all the new folks following me, cheers! I post to my profile every so often, usually snapshots of domestic life or Tzipora that I can&amp;rsquo;t crowbar into a r/worldbuilding format. Posting to that sub affects what kind of content you make, and I like making lots of different types of content, so a lot of different things end up here.&lt;/p&gt;
+&lt;p&gt;Thanks everyone&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -301,7 +577,13 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	  <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sadboi/</guid>
-	  <description>Coming up on 2am here in East Australia. Had a rough day at work. Feeling pretty isolated and my other job starts in a few hours. I don’t know if it’s intrusive thoughts from OCD or just something everyone has, but four or five times a day I’ll have some sort of regret pop right into my head. I can’t seem to move on from much. Tzipora’s the same. She’s probably thinking about physical education from early that day.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Coming up on 2am here in East Australia. Had a rough day at work. Feeling pretty isolated and my other job starts in a few hours. I don’t know if it’s intrusive thoughts from OCD or just something everyone has, but four or five times a day I’ll have some sort of regret pop right into my head. I can’t seem to move on from much. Tzipora’s the same. She’s probably thinking about physical education from early that day. She’s thinking about faking a sick note so she doesn’t have to do it anymore. She cringes and curses under her breath and then the memory passes.&lt;/p&gt;
+&lt;p&gt;I like drawing her at home, but the proportion’s all shot to shit and it took way too long for such a simple sketch. Doesn’t matter though, it turned out pretty close to how I wanted.&lt;/p&gt;
+&lt;p&gt;You got any similar experiences or anything, feel free to comment.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -310,7 +592,11 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	  <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
-	  <description>nerds</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;nerds&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -319,7 +605,11 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	  <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/mood/</guid>
-	  <description>That&amp;rsquo;s how it goes sometimes.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;That&amp;rsquo;s how it goes sometimes.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -328,7 +618,11 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	  <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/portrait/</guid>
-	  <description>Practising colours. It&amp;rsquo;s always been my weakness. While you&amp;rsquo;re here, if you have any questions about Tzipora or want to chat, let me know.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Practising colours. It&amp;rsquo;s always been my weakness. While you&amp;rsquo;re here, if you have any questions about Tzipora or want to chat, let me know.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
   </channel>

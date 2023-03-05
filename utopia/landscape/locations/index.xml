@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>Locations on MillMint</title>
+	<title>Locations</title>
 	<link>https://millmint.net/utopia/landscape/locations/</link>
-	<description>Recent content in Locations on MillMint</description>
+	<description>Recent content in Locations </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/utopia/landscape/locations/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>Locations</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/utopia/landscape/locations/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Moshel School</title>
 	  <link>https://millmint.net/utopia/landscape/locations/moshel/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/locations/moshel/</guid>
-	  <description>߷ This article is about a location in Vekllei The Moshel Street State School, also the Moshel School or Lola 6th, is a Central School in the borough of Lola. It is the second-largest school in Lola, and offers schooling between Prep and Year 12. It is also Tzipora&amp;rsquo;s school, and is where she completes her secondary schooling upon her arrival in Vekllei.
-As a Central School, Moshel St occupies a large grounds that are well-equipped with facilities, including a dining hall, multipurpose gymnasium, photographic, photonic computing, and chemical laboratories, and a large school library.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about a &lt;a href=&#34;https://millmint.net/utopia/landscape/locations&#34;&gt;&lt;strong&gt;location&lt;/strong&gt;&lt;/a&gt; in &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;The Moshel Street State School&lt;/strong&gt;, also the Moshel School or Lola 6th, is a &lt;a href=&#34;https://millmint.net/utopia/society/state/education/#state-schools&#34;&gt;Central School&lt;/a&gt; in the borough of &lt;a href=&#34;https://millmint.net/lola/&#34;&gt;Lola&lt;/a&gt;. It is the second-largest school in Lola, and offers schooling between &lt;a href=&#34;https://millmint.net/utopia/society/state/education/#preparatory-school&#34;&gt;Prep&lt;/a&gt; and Year 12. It is also Tzipora&amp;rsquo;s school, and is where she completes her secondary schooling upon her arrival in Vekllei.&lt;/p&gt;
+&lt;p&gt;As a Central School, Moshel St occupies a large grounds that are well-equipped with facilities, including a dining hall, multipurpose gymnasium, photographic, photonic computing, and chemical laboratories, and a large school library. Other school facilties include a multi-faith chapel and school farm. It is considered an average Central school for the Vekllei metropole, but its cricket teams and sports facilities are highly regarded.&lt;/p&gt;
+&lt;p&gt;Like most Vekllei schools, Moshel St has a house system consisting of Loh, Vosmiosn, Reznor, and Halifasmiosn.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
   </channel>

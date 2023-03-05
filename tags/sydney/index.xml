@@ -1,20 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>sydney on MillMint</title>
+	<title>sydney</title>
 	<link>https://millmint.net/tags/sydney/</link>
-	<description>Recent content in sydney on MillMint</description>
+	<description>Recent content in sydney </description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/tags/sydney/index.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>sydney</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/sydney/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>New Rivers of the Atlantic</title>
 	  <link>https://millmint.net/stories/rivers/</link>
 	  <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/rivers/</guid>
-	  <description>✿ This character was illustrated as a gift to my friend Qweezi. Happy Birthday! In Vekllei, you met all sorts of people. All nations passed through the Home Islands, some to visit, others to live. Tzipora met a great many of them in her time at school.
-Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we know as St Kitts and Nevis. Kosava is an independent member-state of the Kalina Islands, which describes a series of autonomous islands in the Caribbean.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ This character was illustrated as a gift to my friend &lt;a href=&#34;https://twitter.com/Qweezi1&#34;&gt;Qweezi&lt;/a&gt;. &lt;em&gt;&lt;strong&gt;Happy Birthday!&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;In Vekllei, you met all sorts of people&lt;/strong&gt;. All nations passed through the Home Islands, some to visit, others to live. Tzipora met a great many of them in her time at school.&lt;/p&gt;
+&lt;p&gt;Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we know as St Kitts and Nevis. Kosava is an independent member-state of the Kalina Islands, which describes a series of autonomous islands in the Caribbean. Together, they form the Kalina Sovereign, an independent full member of Vekllei&amp;rsquo;s &amp;ldquo;Atlantic Commonwealth,&amp;rdquo; which is something between a federation and a superstate. It was anarchism in the confusing Vekllei sense of the word &amp;ndash; self-organising, democratic, and totally dependent on bureau overproduction to furnish the gaps.&lt;/p&gt;
+&lt;p&gt;Commonwealth members, including Vekllei, are united in a belief in Floral Economics and share a lot of social features between them, including education, security, healthcare and bureau labour. A Kalinago girl is not that different from her sister in Vekllei, so it turns out. Together they represent a vanguard of island states in the Atlantic, a self-determining Commonwealth of different people resisting the hegemonies of Europe and the Americas with new ways of living.&lt;/p&gt;
+&lt;p&gt;Hitori was like Tzipora; she was not from Vekllei. Her parents were Japanese and she&amp;rsquo;d come here as a baby. It seemed like every second person was an immigrant, which indicated a shift in what &amp;ldquo;Vekllei&amp;rdquo; meant in the 21st Century. Under the various regimes of the Junta, it had been a colonial turn-of-phrase to describe the Algic-European metropole in the Home Islands. These days, it was more open-ended and democratic.&lt;/p&gt;
+&lt;p&gt;Vekllei has been multicultural since its origins as a meeting place of Scandinavian and Algic peoples. Today is no different, except its promise reaches farther and many more are arriving than before. Things are going well in Vekllei, and the quality of life can be exquisite &amp;ndash; provided you have certain expectations of what an &amp;ldquo;exquisite life&amp;rdquo; looks like. That was what kept people coming; an emerging Vekllei and the happiness of their children.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -23,7 +46,19 @@ Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we k
 	  <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/tingles/</guid>
-	  <description>✿ This image is a website-exclusive sketch produced as a masthead for the November Patreon update. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow here. Fruit Tingles (Fodsa Spas) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/billing-paused-59200270&#34;&gt;November Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Fruit Tingles&lt;/strong&gt; (&lt;em&gt;Fodsa Spas&lt;/em&gt;) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.&lt;/p&gt;
+&lt;p&gt;Clockwise: &lt;strong&gt;Hen&lt;/strong&gt;, from Kus (Kala), &lt;strong&gt;Bez&lt;/strong&gt;, from Demon, &lt;strong&gt;Tzipora&lt;/strong&gt;, from Seispri (Vekllei) and &lt;strong&gt;Sydney&lt;/strong&gt;, from Montesur (Kalina).&lt;/p&gt;
+&lt;!--Quita--&gt;
+	  </description>
 	</item>
 	
 	<item>
@@ -32,7 +67,31 @@ Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we k
 	  <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/marine-railway/</guid>
-	  <description>✿ This article was part of Vekllei&amp;rsquo;s Ocean Month in March 2021 ✿ Note from the Editor Although vessels described here are written with female pronouns as per Western convention, Vekllei traditionally uses male pronouns for navy vessels. Nuclear Heavy Battlecruiser V.V. Lava is the first of the Lava-class cruisers, the largest of Vekllei’s surface warships. Vekllei doctrine does not typically float cruisers with fleets, and so the Lava often operates independently, outfitted for a variety of roles.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This article&lt;/strong&gt; was part of Vekllei&amp;rsquo;s &lt;em&gt;&lt;strong&gt;Ocean Month&lt;/strong&gt;&lt;/em&gt; in March 2021&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint blue&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
+Although vessels described here are written with female pronouns as per Western convention, Vekllei traditionally uses male pronouns for navy vessels.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Nuclear Heavy Battlecruiser V.V.&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;Lava&lt;/strong&gt;&lt;/em&gt; is the first of the Lava-class cruisers, the largest of Vekllei’s surface warships. Vekllei doctrine does not typically float cruisers with fleets, and so the &lt;em&gt;Lava&lt;/em&gt; often operates independently, outfitted for a variety of roles. She can be sailed into any storm-ravaged port and hook up to the local electric grid, powering tens of thousands of homes with her enormous molten salt fission reactor. She is equipped for both fire support and assault. 5 large guns of 50-100mm calibers crater the shore as missiles, torpedoes and lasers of various types fight off threats from the air and sea. She is even equipped for beach assaults and boarding, with 6 assault boats and 5 helijets available to offload hundreds of maritime commandos, which are deployed frequently in Vekllei’s ongoing fight against illegal fishing. Her multipurpose mission is reflected in the visibility of her superstructure, which boasts heliports, vertical launch systems, rack missiles, and heavy guns.&lt;/p&gt;
+&lt;p&gt;Here, she enters the world’s largest marine railway in the port town of Cisadra. As she sits in the water here, her sailors have disembarked and her helijets are preparing to relocate as thousands of tons of ballast is pumped into a treatment facility. Once her weight is reduced to a mere 25,000 tonnes, she will be chained to the massive marine railway ‘cradle’ — the supports and bed on which she sits — and slowly pulled by massive nuclear winches into the shallow water of the Cisadra Shipyards, a naval facility owned by the Royal Vekllei Armed Forces.&lt;/p&gt;
+&lt;p&gt;This marine railway is the largest of its kind, and was unfathomably expensive to build. The Navy of Vekllei maintains a naval station in the Lesser Antilles to support strategic nuclear sites it retains on the Kalina Islands, and large-scale dredging and dock construction was deemed unsuitable for the sorts of harbours common to the area. Although a number of ideas, including a floating shipyard were hypothesised, the Cisadra Marine Railway was built after the success Vekllei had with similar systems in the Home Islands.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read on for a little more information on the Kalina Islands.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Kalina Islands&lt;/strong&gt; (made up of &lt;em&gt;Anguilla&lt;/em&gt;, &lt;em&gt;St Martin, St Kitts &amp;amp; Nevis&lt;/em&gt;, &lt;em&gt;Montserrat&lt;/em&gt;, &lt;em&gt;Antigua&lt;/em&gt; and &lt;em&gt;Barbuda&lt;/em&gt;) are an autonomous overseas territory of &lt;strong&gt;Vekllei&lt;/strong&gt;, structured as a self-managing dependent state similar to &lt;strong&gt;Kala&lt;/strong&gt; (Greenland) and the &lt;strong&gt;Aismious&lt;/strong&gt; &lt;strong&gt;Islands&lt;/strong&gt; (Faroe). Although their origins are colonial, today they are a full overseas state of Vekllei with the same entitlements and voting rights as any Home Islands &lt;em&gt;Borough&lt;/em&gt;. They remain autonomous in internal policy, similar to a provincial government, and across their hundreds of tropical islands there are some 350,000 people, all of them holding both Vekllei and Kalina citizenship.&lt;/p&gt;
+&lt;p&gt;The Kalina Islands were purchased from the Spanish in the 17th century, and indicated Vekllei’s initial intention to exploit the New World. This ambition was scuppered with the collapse of the Vekllei monarchy, which established forts across them but could not muster the resources to occupy continental America. Vekllei’s colonial efforts were blunted for centuries after, and excluded the country from major participation in the slave trade and the colonisation of Africa.&lt;/p&gt;
+&lt;p&gt;This leaves the Kalina Islands, named after its native peoples, in a peculiar position as both a legacy of the early colonial period while also remaining home to the only major populations of Island Carib people (&lt;em&gt;Kalinago&lt;/em&gt;) left in the world. On adjacent overseas territories, like the British Virgin Islands and Guadaloupe, they died out from murder and disease — but through the sheer failure of Vekllei’s colonial policy, they live on as an association of island territories in the 21st Century.&lt;/p&gt;
+&lt;p&gt;Despite being thousands of kilometres apart with dramatically different cultures and climates, both the Home and Kalina Islands remain “Vekllei” by way of their ancient cultures, maritime histories and moneyless bureau system. In this sense, the success and prosperity of the Kalina Islands reestablish what “Vekllei” is — where once it meant the indigenous people of the Arctic North, today it represents a coalition of Atlantic territories united in their dependence on landscape and economic systems. If the Kalina Islands were to become independent, it is likely little would change — their centuries of history with the Home Islands have cemented a desire for landscape sovereignty and postindustrial localism, and along with Kala and the Aismious, Vekllei has forged an alternative way of living for indigenous Atlantic peoples caught between the hungry machines of America and Europe.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
   </channel>

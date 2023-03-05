@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>sketch on MillMint</title>
+	<title>sketch</title>
 	<link>https://millmint.net/categories/sketch/</link>
-	<description>Recent content in sketch on MillMint</description>
+	<description>Recent content in sketch </description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>sketch</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Dapper Soldier</title>
 	  <link>https://millmint.net/stories/soldier/</link>
 	  <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/soldier/</guid>
-	  <description>Officer in the Army of the Atlantic Crown. Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.
-General infantrymen still wear conventional fatigues.
-Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Officer in the Army of the Atlantic Crown.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.&lt;/p&gt;
+&lt;p&gt;General infantrymen still wear conventional fatigues.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -24,7 +46,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/mail-revised/</guid>
-	  <description> Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&amp;rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&amp;rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -33,7 +64,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/caught/</guid>
-	  <description> They both just agree to pretend they didn&amp;rsquo;t catch each other smoking on the roof. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;They both just agree to pretend they didn&amp;rsquo;t catch each other smoking on the roof.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -42,7 +82,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sand/</guid>
-	  <description> Self portrait &amp;ndash; thinking about how much I hate posting. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Self portrait &amp;ndash; thinking about how much I hate posting.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -51,7 +100,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/neko/</guid>
-	  <description> A drawing for my friend Nubik, featuring his character, Neko. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;A drawing for my friend Nubik, featuring his character, Neko.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -60,7 +118,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/constable/</guid>
-	  <description> Disclaimer: Tzipora has never worked for/cooperated with the police. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Disclaimer: Tzipora has never worked for/cooperated with the police.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -69,7 +136,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/gold/</guid>
-	  <description> Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -78,7 +154,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/veranda/</guid>
-	  <description> Sitting out on the veranda in the sun. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Sitting out on the veranda in the sun.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -87,7 +172,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/friend/</guid>
-	  <description> Trying to figure out what’s going on inside that head of hers. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Trying to figure out what’s going on inside that head of hers.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -96,7 +190,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/the-look/</guid>
-	  <description> The Look. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The Look.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -105,7 +208,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sleep/</guid>
-	  <description> Spiritual sequel to this post. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -114,7 +226,16 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/poof/</guid>
-	  <description> Spiritual sequel to this post. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -123,8 +244,23 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teachers/</guid>
-	  <description>From left: Ms Ninčić, Tzipora, Mr Kowalczyk. On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.
-Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;From left: Ms Ninčić, Tzipora, Mr Kowalczyk.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.&lt;/p&gt;
+&lt;p&gt;Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university. She is very grateful to them.&lt;/p&gt;
+&lt;p&gt;There are rumours Mr Kowalczyk has a crush on Ms Ninčić.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I based Kowalczyk off Steve Gadd, my favourite session drummer of all time, and Ninčić off a woman who sold me a bus ticket in croatia, who had this wild curly hair afro but looked Slavic.
+It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their case, more of a dress code) to students.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -133,7 +269,16 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teeshirt/</guid>
-	  <description> Long tee shirt, the only shirt she wears out untucked. Good for painting houses in. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -142,7 +287,31 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/crown/</guid>
-	  <description>The Crown # The crown depicted here is not the actual crown of the Vekllei Sovereign,1 but in fact the national hat of Vekllei and is part of traditional dress. This &amp;lsquo;crown,&amp;rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the Public Police.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;the-crown&#34;&gt;
+  The Crown
+  &lt;a class=&#34;anchor&#34; href=&#34;#the-crown&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;crown&lt;/em&gt; depicted here is not the actual crown of the Vekllei Sovereign,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; but in fact the national hat of Vekllei and is part of traditional dress. This &amp;lsquo;crown,&amp;rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#police-of-the-public&#34;&gt;Public Police&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-gi&#34;&gt;
+  The Gi
+  &lt;a class=&#34;anchor&#34; href=&#34;#the-gi&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;gi&lt;/em&gt; is a women&amp;rsquo;s &amp;lsquo;quarter-pleat,&amp;rsquo; and is one of several styles of separated &amp;lsquo;pleats&amp;rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with &lt;a href=&#34;https://millmint.net/utopia/culture/language/#rapotenne&#34;&gt;Rapotenne&lt;/a&gt; runes to communicate familial or spiritual heritage.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;Topet&lt;/a&gt; in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&amp;rsquo;s large immigrant populations and ensuring the gi&amp;rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The sovereign&amp;rsquo;s crown is only metaphysical, and reproduced as three intersecting rings in Vekllei logography.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Traditional runes and names in Vekllei are considered to have power, and so are used for religious rather than poetric reasons on gi, though this practice has changed with time.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -151,7 +320,19 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/tingles/</guid>
-	  <description>✿ This image is a website-exclusive sketch produced as a masthead for the November Patreon update. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow here. Fruit Tingles (Fodsa Spas) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/billing-paused-59200270&#34;&gt;November Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Fruit Tingles&lt;/strong&gt; (&lt;em&gt;Fodsa Spas&lt;/em&gt;) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.&lt;/p&gt;
+&lt;p&gt;Clockwise: &lt;strong&gt;Hen&lt;/strong&gt;, from Kus (Kala), &lt;strong&gt;Bez&lt;/strong&gt;, from Demon, &lt;strong&gt;Tzipora&lt;/strong&gt;, from Seispri (Vekllei) and &lt;strong&gt;Sydney&lt;/strong&gt;, from Montesur (Kalina).&lt;/p&gt;
+&lt;!--Quita--&gt;
+	  </description>
 	</item>
 	
 	<item>
@@ -160,7 +341,16 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/autumn-love/</guid>
-	  <description> ✿ This image was produced as part of a series of concept art for merchandise. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; was produced as part of a series of concept art for merchandise.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -169,7 +359,16 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/studio-zelda/</guid>
-	  <description> ✿ This image is a website-exclusive sketch produced as a masthead for the september Patreon update. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow here. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint story&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/56631873&#34;&gt;september Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
   </channel>

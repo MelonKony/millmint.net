@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>2022 on MillMint</title>
+	<title>2022</title>
 	<link>https://millmint.net/tags/2022/</link>
-	<description>Recent content in 2022 on MillMint</description>
+	<description>Recent content in 2022 </description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>2022</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/2022/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Tannin Rivers</title>
 	  <link>https://millmint.net/stories/tannin/</link>
 	  <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/tannin/</guid>
-	  <description>Broad mossy meadows slope away from Vekllei&amp;rsquo;s &amp;ldquo;ashen lands&amp;rdquo; &amp;ndash; vast, glacial moonscapes in the highland interior. The soils here are rich with nitrogen, and are dominated by an alpine heathland of button grass and tea shrubs. The oils from these plants seep downstream into the glacial runoff, and by the time the water meets the mosslands the creeks are stained tea-coloured, a mix of reds and yellows that catches gold in the light.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Broad mossy meadows slope away from Vekllei&amp;rsquo;s &amp;ldquo;ashen lands&amp;rdquo; &amp;ndash; vast, glacial moonscapes in the highland interior. The soils here are rich with nitrogen, and are dominated by an alpine heathland of &lt;em&gt;button grass&lt;/em&gt; and &lt;em&gt;tea shrubs&lt;/em&gt;. The oils from these plants seep downstream into the glacial runoff, and by the time the water meets the mosslands the creeks are stained tea-coloured, a mix of reds and yellows that catches gold in the light. These are Vekllei&amp;rsquo;s tannin rivers; rusty freshwater streams that run red from the base of the Thanveler glacier to the outskirts of Antarta and Dasm.&lt;/p&gt;
+&lt;p&gt;The mosses here are thick and dewey, and Tzipora&amp;rsquo;s house sandals did nothing to keep her out of them. With her feet soaked and her school bag on the station platform, she dared Cobian and Zhi to leap the tannin river. Local myth was that it was good luck, but she&amp;rsquo;d have jumped it anyway.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;m good at jumping,&amp;rdquo; Tzipors said to her friends, wiping her cold nose on the back of her arm.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;You&amp;rsquo;re going to go in that bloody river and you&amp;rsquo;ll be soaked for the train home,&amp;rdquo; Cobian said.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Not if I make it.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;She squelched a few steps backwards, squinting at the amber creek ahead.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Watch this.&amp;rdquo;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -22,7 +42,22 @@
 	  <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sepia/</guid>
-	  <description>The so-called Scandinationalists have a thousand years of myth in their pamphlets, but are in reality a product of the Atomic War. Racial nationalism has existed in Vekllei for centuries, but was only legitimised as a modern political force by the pre-war junta and materialised as violence by its collapse in the days after the Atomic War. Exploited grievances, hundreds in number but all basically the same, overflowed in the chaos of the war and saw savage criminal instincts acted on by militias called Stanis.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;The so-called &lt;em&gt;Scandinationalists&lt;/em&gt; have a thousand years of myth in their pamphlets, but are in reality a product of the Atomic War. Racial nationalism has existed in Vekllei for centuries, but was only legitimised as a modern political force by the pre-war junta and materialised as violence by its collapse in the days after the Atomic War. Exploited grievances, hundreds in number but all basically the same, overflowed in the chaos of the war and saw savage criminal instincts acted on by militias called &lt;em&gt;Stanis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The Stanis were put down by the British occupying forces, but they persist as terror cells. The Floral Government recognises their ideology as criminal, and so any organising around it is simply not tolerated. When you hear of Noshem, the Vekllei intelligence service, killing foreigners in kitchens and bedrooms, it is usually to these ends.&lt;/p&gt;
+&lt;p&gt;This state of affairs is complicated and often undemocratic, but the thinking is straightforward. The 4th Commonwealth is a multiracial state of disparate, autonomous republics. Nearly half of its population was born overseas, and it recognises its indigenous Algic and Scandinavian populations as a single cultural group. This unity is fragile, and so action in defence of it has to be uncompromising as a matter of routine. To pick up a rifle, or place a bomb, or assist scandinationalist elements is a death sentence served outside of the courts, in a way that privileges this form of terrorism above other terrorist ideologies. This is not just a matter of opinion; this is policy. Anything else is insufficient, so says the state, because the alternative is evidenced by what happened in 2005.&lt;/p&gt;
+&lt;p&gt;Ross Gosmiosn was sent to Home Office Section 12 from Section 2. In civilian speak, this meant he was moved from organisation security to the operations command, to work under their solemn new director Baron Desmoisnes, who was well-regarded at the Home Office after his successes at the Americas Bureau.&lt;/p&gt;
+&lt;p&gt;Baron&amp;rsquo;s promotion from a captain in the Americas Bureau to a HO/NI Section Chief was not particularly unusual for a longtime intelligence agent, but it was obviously strategic. He had a record of hunting former Stanis in Central and North America, and had good contacts at AB/NI. His promotion to HO/NI indicated that his talents were needed at home; that the Home Office was looking to put down emerging threats in Vekllei. Ross knew this when he arrived at Section 12. It was confirmed by his first conversation with Baron in Winter 2063.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;How do you do, Ross?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Well, Director.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve been recommended you by Alvi, who said you&amp;rsquo;d served in Africa.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;That&amp;rsquo;s true.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;So you have some tactical experience?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Yes. Twice in Africa, and some time in the Rifles, too.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;That&amp;rsquo;s good.&amp;rdquo;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -31,8 +66,30 @@
 	  <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/blog/utopia/</guid>
-	  <description>The way I&amp;rsquo;m doing things now isn&amp;rsquo;t working &amp;ndash; I don&amp;rsquo;t enjoy social media, or marketing my work. I haven&amp;rsquo;t done much to grow my audience these last few years. And I&amp;rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.
-2022 is the end of the COVID era for me. I&amp;rsquo;m moving house again, moving around again (🇬🇧🇫🇷🇭🇷🇲🇪). These are all good things. I&amp;rsquo;m healthier when I&amp;rsquo;m learning, and I&amp;rsquo;ve learned a lot these last couple months.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;The way I&amp;rsquo;m doing things now isn&amp;rsquo;t working &amp;ndash; I don&amp;rsquo;t enjoy social media, or marketing my work. I haven&amp;rsquo;t done much to grow my audience these last few years. And I&amp;rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.&lt;/p&gt;
+&lt;p&gt;2022 is the end of the COVID era for me. I&amp;rsquo;m moving house again, moving around again (🇬🇧🇫🇷🇭🇷🇲🇪). These are all good things. I&amp;rsquo;m healthier when I&amp;rsquo;m learning, and I&amp;rsquo;ve learned a lot these last couple months.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/blog/screenshots/1.png&#34; alt=&#34;screenshot of the about section of the millmint website&#34;  title=&#34;Website activity view over the last few months&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Website activity view over the last few months&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I have a plan for 2023:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Treat this work as work.&lt;/li&gt;
+&lt;li&gt;Draw all of the time, especially when I don&amp;rsquo;t have time.&lt;/li&gt;
+&lt;li&gt;Focus on key goals.&lt;/li&gt;
+&lt;li&gt;Realise the projects I love.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Those four points are straightforward. I need to commit to a personal schedule, work as though I&amp;rsquo;m being paid for it, find moments to draw between other commitments, and finish the comic and work on some merchandise.&lt;/p&gt;
+&lt;p&gt;This all adds up to be maintenance. It&amp;rsquo;s not very interesting, but it is important, and it&amp;rsquo;s what I&amp;rsquo;m most in need of at the moment. Two years of COVID and stagnation has left me listless and a little burnt out. I need to take back the initiative and meet my ten years in the sun.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -41,7 +98,16 @@
 	  <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/friend/</guid>
-	  <description> Trying to figure out what’s going on inside that head of hers. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Trying to figure out what’s going on inside that head of hers.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -50,8 +116,12 @@
 	  <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/silica/</guid>
-	  <description>Warm silica rivers flow through the grounds of the Moshel St School. They carry on from there, cascading down the terraces of Lola through rivulets and creeks until they meet the sea. You weren&amp;rsquo;t supposed to bathe in them because they were full of &amp;ldquo;hellpoints&amp;rdquo; &amp;ndash; hotspots that would burn you badly. Thick plumes of steam rise from where a hellpoint meets the air.
-The algae and silica in the water is good for your skin, and has antibacterial properties.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Warm silica rivers flow through the grounds of the Moshel St School. They carry on from there, cascading down the terraces of Lola through rivulets and creeks until they meet the sea. You weren&amp;rsquo;t supposed to bathe in them because they were full of &amp;ldquo;hellpoints&amp;rdquo; &amp;ndash; hotspots that would burn you badly. Thick plumes of steam rise from where a hellpoint meets the air.&lt;/p&gt;
+&lt;p&gt;The algae and silica in the water is good for your skin, and has antibacterial properties. The riverbed at Moshel St School consists of black sand and nectarine-sized stones which press the arch of her foot. In her hands, the milky blue water is opaque and salty to taste. There is no other place on Earth with a school like this.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -60,7 +130,16 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	  <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sleep/</guid>
-	  <description> Spiritual sequel to this post. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -69,7 +148,16 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	  <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/poof/</guid>
-	  <description> Spiritual sequel to this post. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -78,8 +166,23 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	  <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teachers/</guid>
-	  <description>From left: Ms Ninčić, Tzipora, Mr Kowalczyk. On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.
-Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;From left: Ms Ninčić, Tzipora, Mr Kowalczyk.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.&lt;/p&gt;
+&lt;p&gt;Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university. She is very grateful to them.&lt;/p&gt;
+&lt;p&gt;There are rumours Mr Kowalczyk has a crush on Ms Ninčić.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I based Kowalczyk off Steve Gadd, my favourite session drummer of all time, and Ninčić off a woman who sold me a bus ticket in croatia, who had this wild curly hair afro but looked Slavic.
+It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their case, more of a dress code) to students.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -88,7 +191,16 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teeshirt/</guid>
-	  <description> Long tee shirt, the only shirt she wears out untucked. Good for painting houses in. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -97,7 +209,16 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/watch/</guid>
-	  <description> All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -106,7 +227,27 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/caribbean-uniform/</guid>
-	  <description>Demonstration of personalised aspects of the modular Caribbean Commonwealth uniform system. The residents of the Kalina Isles are mostly indigenous Caribs and Afro-Caribbean Garínagu, who in the 21st Century are part of a large multinational and multiethnic commonwealth of autonomous nation states. The Vekllei 4th Commonwealth, as it is now known, stretches all the way from Demon in the North Atlantic to the Antarctic Territories in the south. Although it consists of dozens of independent and self-governing nation-states, they are closely bound by shared political interests in the Atlantic and have significant commitments to the international Commonwealth parliament that legislates and shares features of these countries.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Demonstration of personalised aspects of the modular Caribbean Commonwealth uniform system.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The residents of the Kalina Isles are mostly indigenous Caribs and Afro-Caribbean Garínagu, who in the 21st Century are part of a large multinational and multiethnic commonwealth of autonomous nation states. The Vekllei 4th Commonwealth, as it is now known, stretches all the way from Demon in the North Atlantic to the Antarctic Territories in the south. Although it consists of dozens of independent and self-governing nation-states, they are closely bound by shared political interests in the Atlantic and have significant commitments to the international Commonwealth parliament that legislates and shares features of these countries.&lt;/p&gt;
+&lt;p&gt;The education of young people is largely a burden of the Commonwealth, and so curriculums and resources are developed at an international level. This picture demonstrates student uniform in the Kalina Isles, and its fusion of standard Commonwealth items and local cultural features.&lt;/p&gt;
+&lt;p&gt;When the Kalina Islands joined the 4th Commonwealth in 2022, the requirements for a Commonwealth-produced uniform were straightforward.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It should be comfortable and appropriate to the climate.&lt;/li&gt;
+&lt;li&gt;It should celebrate cultural traditions and the diversity of the modern Caribbean Commonwealth while also reflecting shared conventions and values between member-states.&lt;/li&gt;
+&lt;li&gt;It should be unbadged and uncomplicated except for accessories &amp;ndash; you should be able to wear a white school shirt to your first job after leaving school.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The sashes most of these students are wearing are local patterns stitched themselves &amp;ndash; sometimes with the help of a parent or grandmother. They are unique to the student and vary in colour and style, since the Kalina Islands consists of hundreds of islands with many aesthetic traditions. In this sense, they are not that different to the Vekllei student &lt;a href=&#34;https://millmint.net/stories/crown/&#34;&gt;gi&lt;/a&gt;, which is also hand-stitched and unique to each person. Personalised, cultural items like these are a good example of the complicated intersection between pragmatic standardisation and geographic identity in 4th Commonwealth countries, and are distinctive of its member-states.&lt;/p&gt;
+&lt;p&gt;As in Vekllei, there are no restrictions on hair or accessories like jewellery, as long as the basic requirements of the uniform are met. Uniforms in Vekllei come from a &lt;a href=&#34;https://millmint.net/stories/uniforms/&#34;&gt;social tradition&lt;/a&gt;, rather than one of conformity, and serve an important purpose in both the shared identity of the multiracial Commonwealth and the alleviation of poverty.&lt;/p&gt;
+&lt;p&gt;In this way, an object of control and conformity in other countries &amp;ndash; a uniform &amp;ndash; becomes cultural and personalised in the Commonwealth. Small subversions like these showcase the difference in thinking of the Commonwealth&amp;rsquo;s radical &amp;ndash; and also very ordinary &amp;ndash; shared project.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -115,7 +256,50 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/five-years/</guid>
-	  <description>Tzipora is communicating the birthday rune in Upotenne, a warding sigil of good luck. Today, the subreddit is five years old. A better anniversary for this project would have been July 1st 2022 &amp;ndash; the date of my first reddit post &amp;ndash; but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I&amp;rsquo;ll celebrate with you properly on International Tzipora Day (July 1st 2023, write it down).</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Tzipora is communicating the birthday rune in &lt;a href=&#34;https://millmint.net/utopia/culture/language/#upotenne&#34;&gt;Upotenne&lt;/a&gt;, a warding sigil of good luck.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Today, the subreddit is five years old.&lt;/strong&gt; A better anniversary for this project would have been July 1st 2022 &amp;ndash; the date of my &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/&#34;&gt;first reddit post&lt;/a&gt; &amp;ndash; but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I&amp;rsquo;ll celebrate with you properly on &lt;em&gt;International Tzipora Day&lt;/em&gt; (July 1st 2023, write it down).&lt;/p&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;Some statistics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Number of Vekllei stories:&lt;/strong&gt; &lt;strong&gt;322&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First Vekllei post:&lt;/strong&gt; &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/&#34;&gt;Tzipora has her photo taken at Youth Meet 2063&lt;/a&gt; (July 1, 2017 )&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First post on r/vekllei:&lt;/strong&gt; &lt;a href=&#34;https://www.reddit.com/r/vekllei/comments/cr65zu/the_people_of_veklleis_railway_plus_dog/&#34;&gt;The People of Vekllei’s Railway (plus Dog)&lt;/a&gt; (August 16, 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Most upvoted post:&lt;/strong&gt; &lt;a href=&#34;https://www.reddit.com/r/vekllei/comments/if77nc/absolute_quiet/&#34;&gt;Absolute Quiet&lt;/a&gt; (August 23, 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Most recent post:&lt;/strong&gt; this one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Read them here: &lt;a href=&#34;https://millmint.net/stories/&#34;&gt;www.millmint.net/stories&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I write about what Vekllei means to me sometimes, and I usually regret it. Any time I insert myself into the project I regret it. Although Vekllei is deeply personal to me, I don&amp;rsquo;t belong anywhere near it and I&amp;rsquo;m learning to keep my mouth shut and let the work speak for itself. In the spirit of &amp;lsquo;killing the author&amp;rsquo; (I believe that&amp;rsquo;s the phrase), I&amp;rsquo;ve collected some notes in the tradition of resolutions.&lt;/p&gt;
+&lt;p&gt;Some notes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I am better at drawing than I was five years ago. That&amp;rsquo;s not very impressive &amp;ndash; more important is that I&amp;rsquo;m better than I was a year ago. It&amp;rsquo;s easy to look at my 2017 scribbles and smile at the silly, naive people I made. It&amp;rsquo;s much harder to feel that way about your own work a year ago. I should be proud; that&amp;rsquo;s a testament to the fact I&amp;rsquo;ve become a better illustrator this year.&lt;/li&gt;
+&lt;li&gt;Does Vekllei feel the same as it used to? It was sillier back then; some people might prefer that. I think about that sometimes, but I am convinced that things are evolving as they should. Illustration is the demonstration of an intuition deep within me, and it is still just as authentic as it was in 2017. I think Vekllei is more serious and grounded in part because I am five years older, and boys do a lot of growing between 19 and 24. I love my characters more than ever; Tzipora is a more compelling, dignified and complete person than she was back then. It&amp;rsquo;s easy to become nostalgic about the lightness of being a beginner.&lt;/li&gt;
+&lt;li&gt;In another five years, I&amp;rsquo;d like to make my living through this work. This is an existential fear of mine &amp;ndash; the fear of every artist &amp;ndash; but I have the heady confidence of a creative, so I trust that things will work themselves out, so long as I work hard and consider how this project might work as a product people pay for (the comic, for example). I don&amp;rsquo;t need to make much money, because I don&amp;rsquo;t spend much money. I&amp;rsquo;ve paused the Patreon until the first chapter of the comic comes out, so hopefully that will resume soon.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Some other notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I think I am getting close to a basic, commercial standard of art. That&amp;rsquo;s exciting, as an illustrator &amp;ndash; it&amp;rsquo;s basically technical work. If I was a carpenter, I&amp;rsquo;d be saying I&amp;rsquo;m close to making a table people would pay for. Drawings are turning out how I imagine them. If I keep working hard on &lt;em&gt;Stories of the Horizon&lt;/em&gt;, I should see my landscapes improve quickly.&lt;/li&gt;
+&lt;li&gt;I am working on a Vekllei comic. The whole thing has been a shemozzle; I&amp;rsquo;ve been &amp;lsquo;working&amp;rsquo; on a comic for three years now. I announced it much too early, without realising how unprepared I was to work in that type of illustration. I&amp;rsquo;m learning to shut my mouth &amp;ndash; I&amp;rsquo;m not promising a release date now. But I am getting better, and it is a critical part of this project. If it took me a decade, I&amp;rsquo;d still be working on it.&lt;/li&gt;
+&lt;li&gt;Although any online community has its stresses, I have made several close friends through the &lt;a href=&#34;https://discord.com/invite/dCE6vSU&#34;&gt;Vekllei Discord&lt;/a&gt;, some of whom I&amp;rsquo;ve now met in real life. Thank you always for your attention and support, it means everything to my confidence in my work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, thank you for reading. Some of you have been here for years &amp;ndash; some of you have only been here for a few hours, after I spammed my shit to some other subs (sorry, that&amp;rsquo;s just how the game works on reddit). Thank you sincerely for all your comments and affection over the years. This is a small community but it is tremendously insightful and well-meaning, and seeing you enjoy my work makes my day. I&amp;rsquo;d probably still be working on Vekllei without an audience &amp;ndash; but it wouldn&amp;rsquo;t be nearly as much fun. It really does mean a lot.&lt;/p&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;
+&lt;p&gt;Sincerely yours,&lt;/p&gt;
+&lt;p&gt;Hobart&lt;/p&gt;
+&lt;p&gt;(and tzipora)&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -124,8 +308,28 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/rifles/</guid>
-	  <description>The Public Police (COSMOPOR) are not reliably equipped with firearms, and when they are, constables favour old-fashioned police revolvers. Situations that get dangerous or complicated often require the intervention of the Rifles Section of the Parliament Police, an elite policing unit trained and equipped to confront gun crime and violent behaviour.
-Like some other other Parliament Police (VENOPOR) sections, the Rifles are dressed in navy silks and their mounts are painted navy with white sillitoe-patterned highlights.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;The &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#police-of-the-public&#34;&gt;Public Police&lt;/a&gt; (COSMOPOR) are not reliably equipped with firearms, and when they are, constables favour old-fashioned police revolvers. Situations that get dangerous or complicated often require the intervention of the &lt;strong&gt;Rifles Section of the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#police-of-the-parliament&#34;&gt;Parliament Police&lt;/a&gt;&lt;/strong&gt;, an elite policing unit trained and equipped to confront gun crime and violent behaviour.&lt;/p&gt;
+&lt;p&gt;Like some other other Parliament Police (VENOPOR) sections, the Rifles are dressed in navy silks and their mounts are painted navy with white sillitoe-patterned highlights. Rifles use alternating red and blue lights rather than standard Vekllei &amp;lsquo;Emergency Red.&amp;rsquo; They are equipped and armed by the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#bureau-of-supply&#34;&gt;Bureau of Supply&lt;/a&gt;, the same office that supplies Vekllei&amp;rsquo;s armed forces. This includes the Sulphur Make-4 Armoured Car, modified for the Rifles with extra glass for better visibility in the small-calibre gunfire the Rifles are trained to meet. Like most VENOPOR police forces, the Rifles have their roots in paramilitary elements and are expected to support the military in times of war.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/mastheads/crests/rifles.png&#34; alt=&#34;crest&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The crest of the Rifles Section of the Police of the Parliament.&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Vekllei people generally do not know much about them &amp;ndash; the &amp;ldquo;Parliament Police&amp;rdquo; are also known as the &amp;ldquo;National Police,&amp;rdquo; and as such, are tactical in nature and far removed from the local and personal constabulary they&amp;rsquo;re used to. This leads to sensational rumours about the historic and dapper National Police sections, including whispers about overseas training and secret greyzone ops. Less exotically, Rifles are commonly seen in the streets surrounding Vekllei&amp;rsquo;s parliament, where the alert level has remained high for several years now.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -134,8 +338,17 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 	  <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/uk/</guid>
-	  <description>The last time I made one of these, it was January 2020. When I got back, the news was just starting to talk about a new disease outbreak in China.
-It is striking to me that the shitty drawing attached to that post was the last time I went overseas. On an abstract level I can understand it&amp;rsquo;s been two years &amp;ndash; but wow, that drawing puts things in perspective. And since that post, I&amp;rsquo;ve been stuck in my house in Hobart, occasionally visiting other parts of my beautiful island state of Tasmania.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;The &lt;a href=&#34;https://millmint.net/stories/japan/&#34;&gt;last time I made one of these&lt;/a&gt;, it was January 2020. When I got back, the news was just starting to talk about a new disease outbreak in China.&lt;/p&gt;
+&lt;p&gt;It is striking to me that the shitty drawing attached to that post was the last time I went overseas. On an abstract level I can understand it&amp;rsquo;s been two years &amp;ndash; but wow, that drawing puts things in perspective. And since that post, I&amp;rsquo;ve been stuck in my house in Hobart, occasionally visiting other parts of my beautiful island state of Tasmania. That&amp;rsquo;s a long time in the history of this project, and a long time for someone who found inspiration to draw from travelling.&lt;/p&gt;
+&lt;p&gt;Grounded no more. I am currently in Oxford in the U.K., and will be somewhere else soon. I&amp;rsquo;ll let you know where I&amp;rsquo;m going next.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Stories from the Horizon&lt;/em&gt; is proceeding as normal, but I&amp;rsquo;m spending a bit more time creating new styles of architecture inspired by my surrounds. Vekllei is always evolving, and it&amp;rsquo;s evolving especially fast right now. When I&amp;rsquo;ve left the U.K. in a few days, I&amp;rsquo;ll write an article about my experience with pictures attached to the &lt;a href=&#34;https://millmint.net/news/blog/&#34;&gt;millmint.net blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m having such a great time and learning so much.&lt;/p&gt;
+&lt;p&gt;Best,&lt;/p&gt;
+&lt;p&gt;Hobart&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -144,7 +357,32 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	  <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/puffin/</guid>
-	  <description>The Scouts de Vous Seispri Votaisre (lit. Scouts Interior Spirit Corps) is a corps of the Commonwealth Army, modelled after the worldwide scouting association. This unusual intersection &amp;ndash; of a noncombatant youth organisation and the armed forces &amp;ndash; is typical in Vekllei, where many aspects of the military serve social roles. For example, the Vekllei Fire Service and the Royal Mail are both corps of the Commonwealth Army. To this end, the Scouts Corps (better known as Puffin Scouts overseas) has different traditions depending on which brigade it belongs to.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;The &lt;em&gt;Scouts de Vous Seispri Votaisre&lt;/em&gt; (lit. Scouts Interior Spirit Corps) is a corps of the Commonwealth Army, modelled after the worldwide scouting association. This unusual intersection &amp;ndash; of a noncombatant youth organisation and the armed forces &amp;ndash; is typical in Vekllei, where many aspects of the military serve social roles. For example, the Vekllei Fire Service and the &lt;a href=&#34;https://millmint.net/mail/&#34;&gt;Royal Mail&lt;/a&gt; are both corps of the Commonwealth Army. To this end, the Scouts Corps (better known as &lt;em&gt;Puffin Scouts&lt;/em&gt; overseas) has different traditions depending on which brigade it belongs to. The detached Cadet Brigades of the 1st and 2nd Scouting Divisions are youth training organisations for the armed forces, designed to prepare youths for military service. The rest of the brigades, numbering some 12 in total across 2 Divisions (or some 1,460 neighbourhood troops) are decidedly noncombatant, and exist to provide community and training in useful skills for Vekllei&amp;rsquo;s youth.&lt;/p&gt;
+&lt;p&gt;Tzipora naturally belongs to &lt;em&gt;Scouts de Seispri&lt;/em&gt;, her local troop. As a military branch, the Scouts follow identical organisational conventions, and so Tzipora has &amp;rsquo;enlisted&amp;rsquo; alongside other servicemen in the Commonwealth Army:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Civici Tzipora Desmoisnes, 77th Troop, 7th &lt;em&gt;Lola&lt;/em&gt; District, 1st &lt;em&gt;Vekllei&lt;/em&gt; Scouts Brigade of the 1st Scouts Division&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/mastheads/crests/scouts.png&#34; alt=&#34;crest&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The crest of the Scouts Interior Spirit Corps.&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;It functions as a social club &amp;ndash; many of her schoolmates are in it &amp;ndash; and also provides an opportunity to learn things outside of the school curriculum. Survival skills and camping, agriculture, hunting and weapons handling, driving, and amateur radio operation are common excursions. Some troops have particular reputations, and are highly desirable &amp;ndash; 588th Troop of the 3rd Brigade has a legendary reputation in photo-electrics and computer phreaking. The 77th is a little more local in ambition, and Tzipora spends most of her time teaching the others to cook and gardening around Seispri.&lt;/p&gt;
+&lt;p&gt;Instead of merit badges, scouts earn honours that are stitched to a &lt;a href=&#34;https://millmint.net/stories/crown/#the-gi&#34;&gt;gi&lt;/a&gt;. Significant honours &amp;ndash; usually success in national competitions or academic awards &amp;ndash; can also be transferred to troop honours, in the fashion of battle honours for combat army corps. The Scouts uniform has many coded features of army dress uniforms, including its Sam Browne belt (sloped left for Civici, right for officers), epaulettes with honours, cloth aiguillette, and troop patches. Tzipora doesn&amp;rsquo;t wear all that every Thursday obviously &amp;ndash; but it matters at the Games, when her honours are on display and she&amp;rsquo;s trying to show those dicks in the 76th they&amp;rsquo;re dealing with a better class of scout.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -153,7 +391,43 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	  <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/lola/</guid>
-	  <description>Genesis of Utopia # Vekllei did not originate in Lola &amp;ndash; according to the Saga of Origins, Vekllei emerged from the corpse of a petty creator god named Oslola. But there was some truth in casting Lola as the genesis of the Vekllei nation-state, since this is where Scandinavian settlers first landed over three thousand years ago, and was where the 1st and 2nd Commonwealths consolidated their power and united the Vekllei Islands.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;genesis-of-utopia&#34;&gt;
+  Genesis of Utopia
+  &lt;a class=&#34;anchor&#34; href=&#34;#genesis-of-utopia&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Vekllei did not originate in &lt;a href=&#34;https://millmint.net/lola/&#34;&gt;Lola&lt;/a&gt; &amp;ndash; according to the &lt;em&gt;Saga of Origins&lt;/em&gt;, Vekllei emerged from the corpse of a petty creator god named &lt;em&gt;Oslola&lt;/em&gt;. But there was some truth in casting Lola as the genesis of the Vekllei nation-state, since this is where Scandinavian settlers first landed over three thousand years ago, and was where the 1st and 2nd Commonwealths consolidated their power and united the Vekllei Islands.&lt;/p&gt;
+&lt;p&gt;In its peak, Lola was a colonial metropole that rivalled any of the European capitals in wealth and monument. It was the jewel of the 3rd Commonwealth &amp;ndash; the military government &amp;ndash; and retained the splendid summer palaces and elaborate roman baths of the old monarchies.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/mastheads/flags/lola.png&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Flag of the borough of &lt;a href=&#34;https://millmint.net/lola/&#34;&gt;Lola&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;The war destroyed Lola and its ancient capital district, Reykjavic. Two 5 megaton fission bombs struck near its harbour, and the blasts rushed up its surrounding plains and steep hills, poisoning its earth with radiation and wiping clean a thousand years of history. Nearly 500,000 people died.&lt;/p&gt;
+&lt;p&gt;One genesis folds into another; the 4th Commonwealth, the &amp;lsquo;Floral Government&amp;rsquo; of democracy and gentleness, was founded in its ashes. The new Vekllei has a new capital, and with it has moved its commerce and shipping. The new Lola, still lush with ruins and roofless homes, has been relieved of the burden of wealth. The borough has emerged as a home for immigrants, particularly Yiddish, Irish and Poles. They are building a new life in Lola; they are building a new Lola.&lt;/p&gt;
+&lt;h2 id=&#34;an-essential-journey&#34;&gt;
+  An Essential Journey
+  &lt;a class=&#34;anchor&#34; href=&#34;#an-essential-journey&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Tzipora lived in Lola with Baron. Baron was an institutionalised person and had spend many years overseas, and government realtors had reclaimed his apartment. When he returned to Vekllei for good, he moved into a late uncle&amp;rsquo;s apartment in the tired neighbourhood of Seispri, a terraced community of light industry, workshops and immigrant families.&lt;/p&gt;
+&lt;p&gt;Seispri was Tzipora&amp;rsquo;s first home in Vekllei, and would always be close to her heart. It was a different kind of living to what she knew. Vekllei people were much poorer in some ways, but the quality of their lives was much better. There was a real sense of contributing to a different way of living; of improving their lot honestly; of shared burdens. Many immigrants to Vekllei arrived to participate in this project &amp;ndash; whether they were Labour Zionists or Pan-Atlanticists, they all had their reasons for being here and made good use of their lives.&lt;/p&gt;
+&lt;p&gt;Baron&amp;rsquo;s apartment was above a garage and down the road from a canvas factory, but the houses were full of families with children. That was very nice, to see kids playing in the street. A creek ran behind the street, and you could catch little fish there sometimes.&lt;/p&gt;
+&lt;p&gt;Tzipora was a shadow of a girl by the time she finished high school. She was not good at anything in particular and did not have an immediate interest in university. Unresolved memories of the past were lurking in her mind&amp;rsquo;s periphery, and she was starting to worry they would kill her if she thought too long or too hard. On different days she felt her friends were leaving her behind or that she was holding them back. She was unravelling.&lt;/p&gt;
+&lt;p&gt;Rather than implode in Seispri, she decided she would renew her vows to the country she loved by touring its entirety on foot. This was actually a very old Vekllei tradition called the &lt;em&gt;Visa Con&lt;/em&gt;, or &amp;lsquo;private pilgrimage.&amp;rsquo; Like many such traditions, it was once a spiritual practice that has secularised in the postwar period. Tzipora had made her way from California to Utah on foot &amp;ndash; so what was a hundred boroughs? She was good at walking.&lt;/p&gt;
+&lt;p&gt;Cobian had graduated school with good marks and had started a nursing residency at a Lola clinic. Tzipora had made up her mind quickly about the whole thing and wanted to say her goodbyes before she left. She called the clinic and met Cobian down by the tram station, near the busy heart of Seispri. It was nice here; the sun was out. They talked for a long while and held hands. After Tzipora said her goodbyes and Cobian had said her well-wishes they asked a passing girl to take their picture.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -162,7 +436,16 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	  <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/trailer/</guid>
-	  <description> No, I&amp;rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&amp;rsquo;d like to. Click here to watch with sound. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;No, I&amp;rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&amp;rsquo;d like to. &lt;a href=&#34;https://millmint.net/video/trailer.mp4/&#34;&gt;Click here to watch with sound.&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -171,8 +454,24 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	  <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/horizon/</guid>
-	  <description>A New Format for Stories from Vekllei # Vekllei has one hundred boroughs that are usually characterised as the foundation of the Vekllei city-state. Some, like Bakur, have only a few thousand people in them. Others, like the Great Coast, have over a million.
-I&amp;rsquo;ve been working on this project for a while now, about five years counting backwards, and in that time what Vekllei means to me has matured.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;a-new-format-for-stories-from-vekllei&#34;&gt;
+  A New Format for Stories from Vekllei
+  &lt;a class=&#34;anchor&#34; href=&#34;#a-new-format-for-stories-from-vekllei&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Vekllei has &lt;a href=&#34;https://millmint.net/boroughs/&#34;&gt;one hundred boroughs&lt;/a&gt; that are usually characterised as the foundation of the Vekllei city-state. Some, like Bakur, have only a few thousand people in them. Others, like the Great Coast, have over a million.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been working on this project for a while now, about five years counting backwards, and in that time what Vekllei means to me has matured. In some ways, things have calcified &amp;ndash; a gift and a curse &amp;ndash; but it&amp;rsquo;s also true that the project is more complicated now than it ever was. I think it&amp;rsquo;s more sophisticated, and it reflects a more complete person.&lt;/p&gt;
+&lt;p&gt;For a long time now, Vekllei has existed first as a series of pictures with stories attached &amp;ndash; this very format you&amp;rsquo;re reading now, which number about 315 posts since 2017. They&amp;rsquo;re all on this site, check them out. Today, I&amp;rsquo;m announcing &lt;em&gt;Stories from the Horizon&lt;/em&gt;, a new approach to this format that will depict Vekllei&amp;rsquo;s 100 boroughs in a series of 100 landscape pictures, woven together as a great journey featuring Tzipora.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In 2066, Tzipora is drifting between moments. Since high school, nothing has really worked out the way she&amp;rsquo;d hoped &amp;ndash; not university, not work, and not love. She is waiting for the shape of her life to make sense. The past seems further away and more relevant than ever before, and her future is uncertain. Rather than confront these things directly, she meets the universe on her terms, and starts a journey in the great Vekllei tradition &amp;ndash; the &lt;em&gt;Visa Con&lt;/em&gt;, or Private Pilgrimage. The Visa Con is a winding path throughout the island of Vekllei, reaching all corners of its great Atlantic landscapes. It is a testament to the goodness of living in this world.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Stories from the Horizon&lt;/em&gt; isn&amp;rsquo;t the upcoming &amp;lsquo;Vekllei comic,&amp;rsquo; but it will help me create it. The comic is a big deal for me, and it&amp;rsquo;s forced me to rethink many aspects of how I depict Vekllei. Five years since the first Vekllei post, I&amp;rsquo;m replacing the burden of an established format with the lightness of being a beginner again. These stories will resemble the posts you&amp;rsquo;re familiar with, but will be more considerate in how they depict landscape and architecture in Vekllei, and will altogether produce a really important album of Vekllei landscapes that I can draw on for future projects. You&amp;rsquo;ll notice some of my online presence changing to reflect this &amp;ndash; new banners for social media and that sort of thing. Who knows, maybe &lt;em&gt;Stories from the Horizon&lt;/em&gt; could be turned into a little picture-book when it&amp;rsquo;s done.&lt;/p&gt;
+&lt;p&gt;It won&amp;rsquo;t be fast &amp;ndash; pictures will (probably) come out at the same pace as they do now (I want to make them faster, I really do, I&amp;rsquo;m always trying). It won&amp;rsquo;t be consistent &amp;ndash; I&amp;rsquo;ll still want to do other concepts occasionally. And I can&amp;rsquo;t guarantee they&amp;rsquo;ll all be good. But I want to enjoy doing something new, from a new perspective and spirit, and I hope you&amp;rsquo;ll enjoy it too.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always loved journeys, so let&amp;rsquo;s see where this takes us.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Hobart&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -181,7 +480,31 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/crown/</guid>
-	  <description>The Crown # The crown depicted here is not the actual crown of the Vekllei Sovereign,1 but in fact the national hat of Vekllei and is part of traditional dress. This &amp;lsquo;crown,&amp;rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the Public Police.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;the-crown&#34;&gt;
+  The Crown
+  &lt;a class=&#34;anchor&#34; href=&#34;#the-crown&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;crown&lt;/em&gt; depicted here is not the actual crown of the Vekllei Sovereign,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; but in fact the national hat of Vekllei and is part of traditional dress. This &amp;lsquo;crown,&amp;rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#police-of-the-public&#34;&gt;Public Police&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-gi&#34;&gt;
+  The Gi
+  &lt;a class=&#34;anchor&#34; href=&#34;#the-gi&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;gi&lt;/em&gt; is a women&amp;rsquo;s &amp;lsquo;quarter-pleat,&amp;rsquo; and is one of several styles of separated &amp;lsquo;pleats&amp;rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with &lt;a href=&#34;https://millmint.net/utopia/culture/language/#rapotenne&#34;&gt;Rapotenne&lt;/a&gt; runes to communicate familial or spiritual heritage.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;Topet&lt;/a&gt; in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&amp;rsquo;s large immigrant populations and ensuring the gi&amp;rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The sovereign&amp;rsquo;s crown is only metaphysical, and reproduced as three intersecting rings in Vekllei logography.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Traditional runes and names in Vekllei are considered to have power, and so are used for religious rather than poetric reasons on gi, though this practice has changed with time.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -190,7 +513,16 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sketching/</guid>
-	  <description> He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -199,7 +531,30 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/movie/</guid>
-	  <description>✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below. Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint story&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well. Most people visit a few times a week for films and the news.&lt;/p&gt;
+&lt;p&gt;Like television, the programming depends on the time of day. After school finishes at 2pm, the movies are playing stuff for kids. After the work-day finishes at 4pm, they play normal films and television programmes. 6pm is the news &amp;ndash; Tzipora always tried to catch the news &amp;ndash; usually followed by a documentary. And afterwards came the feature films, which ran late into the night.&lt;/p&gt;
+&lt;p&gt;Tzipora, Moise and Isabeau are finishing pre-movie drinks in the ruins of &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/lola/&#34;&gt;Lola&lt;/a&gt;, surrounded by night-shadows and stars. Ruins are common all over Vekllei, but no kids gave much thought to them. To them, the war was already history. This time of year, the moon has been up for hours. A science fiction movie Tzipora has been wanting to see again plays at the &lt;em&gt;Royal&lt;/em&gt; tonight.&lt;/p&gt;
+&lt;p&gt;It was legal to drink as a 16-year-old in Vekllei, but it didn&amp;rsquo;t mean it wasn&amp;rsquo;t a hassle. Just as they do overseas, most Vekllei teenagers drink together in the private corners of public places, away from parents and the local nuisances, the lights of Copetpek glowing beneath them.&lt;/p&gt;
+&lt;details open&gt;
+  &lt;summary&gt;JM&amp;#39;s Submission&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/fanart/jm-1.jpg&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -208,7 +563,22 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/cape/</guid>
-	  <description>A Uniform for All Seasons # Vekllei students are internationally renowned for their elegant and, in places, decadent uniforms. This reputation is built on an open-ended, modular uniform system that can be distilled into a simple assemblage of white, navy, gold and red. The spoken guidelines and unspoken curation of the Vekllei uniform system contributes to the variety and personality of Vekllei studentry, and is iconic of the country overseas.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;a-uniform-for-all-seasons&#34;&gt;
+  A Uniform for All Seasons
+  &lt;a class=&#34;anchor&#34; href=&#34;#a-uniform-for-all-seasons&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Vekllei students are internationally renowned for their elegant and, in places, decadent uniforms. This reputation is built on an open-ended, modular uniform system that can be distilled into a simple assemblage of white, navy, gold and red. The spoken guidelines and unspoken curation of the Vekllei uniform system contributes to the variety and personality of Vekllei studentry, and is iconic of the country overseas.&lt;/p&gt;
+&lt;p&gt;Most distinctive is the silhouette of the school cape, an accessory that remains in fashion in 21st-Century Vekllei. Vekllei experiences dramatic seasons, and the modularity and comfort of a wool-rayon cape suits the temperamental climate well. It can be unfastened in warmer weather, or pulled tight as a greatcoat. A rayon hood can be snapped and tied over its over-slip to make it waterproof, and the cape is easily folded and stored in classrooms.&lt;/p&gt;
+&lt;p&gt;Vekllei uniforms are designed to be lived in, and so items like shirts and shoes come off the rack of a department store. Capes are also seen outside of school, and are worn broadly throughout Vekllei society. This quirk of culture and climate contributes significantly to Vekllei&amp;rsquo;s obscurity abroad and further demonstrates the inscrutability of Vekllei society. Sun-facing but cautious of the future, Vekllei is a place of anachronisms and emerging ways of living. The wealth of their schools is the wealth of their future, and so dignity and equity are deeply valued in Vekllei education.&lt;/p&gt;
+&lt;h2 id=&#34;a-cape-for-all-hours&#34;&gt;
+  A Cape for All Hours
+  &lt;a class=&#34;anchor&#34; href=&#34;#a-cape-for-all-hours&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Tzipora fell asleep in her cape after school sometimes. She did not sleep much in the night so she found times throughout the day, where the fatigue took her. She was not fussy about the proper way of doing things, and was openly contemptuous of (some) traditions and (some) social graces. Cobian was her opposite. She had a structured, stable lifestyle that had flossing and bedtimes. Tzipora didn&amp;rsquo;t usually change for dinner, and if her paperback was good, sometimes she just crawled under the duvet and went to sleep in her school clothes, her cape on the floor. Cobian hated that way of living but liked that she was like that.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -217,7 +587,39 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/hyderabad/</guid>
-	  <description>Little Hyderabad # Little Hyderabad is a community in the Great Coast, and is one of the few remaining ethnic enclaves in Vekllei&amp;rsquo;s postwar period. It&amp;rsquo;s not that immigrants are rare &amp;ndash; on the contrary, about half the people you see in the street were born overseas. But the chaos of British occupation was far behind them now, and the government is more considerate in how it scatters immigrants across the boroughs.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h3 id=&#34;little-hyderabad&#34;&gt;
+  Little Hyderabad
+  &lt;a class=&#34;anchor&#34; href=&#34;#little-hyderabad&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Little Hyderabad is a community in the Great Coast, and is one of the few remaining ethnic enclaves in Vekllei&amp;rsquo;s postwar period. It&amp;rsquo;s not that immigrants are rare &amp;ndash; on the contrary, about half the people you see in the street were born overseas. But the chaos of British occupation was far behind them now, and the government is more considerate in how it scatters immigrants across the boroughs. These dense concentrations of people and culture are rarer today, and that made Little Hyderabad (Petty Hyderabad, in Vekllei pidgin) both intimidating and exotic to girls like Tzipora, who liked people and adventure.&lt;/p&gt;
+&lt;p&gt;Tzipora had eaten Indian food once before. She had been tricked by some girl &amp;ndash; her friend at the time &amp;ndash; into trying a mystery beef dish doped with a criminal mix of spices. That girl thought it was funny at first, but Tzipora started crying. Her hands went numb and she thought she was going to die. She didn&amp;rsquo;t brag about her &amp;lsquo;Colombian spice tolerance&amp;rsquo; so much after that.&lt;/p&gt;
+&lt;p&gt;She was staying over at Ayn&amp;rsquo;s apartment in the Great Coast when she decided to visit Little Hyderabad, if only for a convenient dinner when Ayn worked late. She wasn&amp;rsquo;t quite sure what to expect. The neighbourhood was lighted enough and quite low-rise for the Great Coast, but most of the apartments had been built in Occupation and so were tired and sagging in places. She liked that, &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/lola/#seispri&#34;&gt;Seispri&lt;/a&gt; was the same. There was this place called the Palace Restaurant which wasn&amp;rsquo;t really a restaurant at all, but a hole in the wall with someone&amp;rsquo;s mum sitting in it. It smelled good &amp;ndash; really good, but there were these two big Sikh guys chatting casually with her like they knew her. Tzipora sat on the curb and watched them until they left a while later.&lt;/p&gt;
+&lt;p&gt;She went up to the mum and looked into the gloom for a board with the menu on it. There wasn&amp;rsquo;t one. The mum asked what kind of curry she liked. Tzipora said she didn&amp;rsquo;t know. Well &amp;ndash; how spicy did she like it?&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Medium &amp;ndash; please,&amp;rdquo; Tzipora said.&lt;/p&gt;
+&lt;p&gt;It came in a wood bowl that was hot to the touch. She ate it in the street and was nearly struck by a guy on a petrol bike. The taste was so big &amp;ndash; it filled your mouth, lighting up all corners of your brain with pleasure. This wasn&amp;rsquo;t like curry from the tin &amp;ndash; it was fresh, and earthy, and foreign-tasting. She was hooked. And smugly, it wasn&amp;rsquo;t that spicy at all. &lt;em&gt;How&amp;rsquo;s that for spice tolerance&lt;/em&gt;, she thought to herself.&lt;/p&gt;
+&lt;h3 id=&#34;a-note-on-cafés-in-vekllei&#34;&gt;
+  A Note on Cafés in Vekllei
+  &lt;a class=&#34;anchor&#34; href=&#34;#a-note-on-caf%c3%a9s-in-vekllei&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Society in Vekllei is not particularly more altruistic than anywhere else, so why do people run restaurants in a place with no money? There are a few reasons.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;In Vekllei, land (in part) owns itself, and historical use of the land is generally preserved in transfers of ownership. In practice, this means that a parcel of land with a café also comes with an apartment or cottage attached. These establishments are often central both geographically and socially, and so are highly desirable pieces of real estate. While it is possible to convert a café into a different business, land-ownership is complex in Vekllei and usually goes through the courts. You&amp;rsquo;ll require either the backing of the municipality or the sovereign (the extrapolated &amp;lsquo;best interest&amp;rsquo; of the land metaphysic) to make major renovations to a business, so that renovation is not something to rely on when looking for property.&lt;/li&gt;
+&lt;li&gt;Eateries are easy to establish. The Vekllei equivalent of a &amp;lsquo;business loan&amp;rsquo; occurs through a meeting with the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/#petty-bureau-labour-bank-of-vekllei&#34;&gt;Sisterbank&lt;/a&gt; (officially &lt;em&gt;Petty Bureau Labour Bank of Vekllei&lt;/em&gt;), which is driven by the social good in abstract. Food service is a mature industry with straightforward connections to suppliers, so almost anyone can start an eatery after a few meetings with the bank. Food businesses also scale well &amp;ndash; evidence of good trade allows you to take out greater loans easily, and unlocks options for both your establishment and your living situation.&lt;/li&gt;
+&lt;li&gt;People like doing it. Vekllei is made up of hundreds of thousands of small communities, and a café, bistro or pub is at the heart of all of them. It&amp;rsquo;s a romantic sort of business that requires hard work, but offers satisfying social rewards &amp;ndash; Vekllei people value property stewardship, graciousness and community, and a restauranteur is positioned at the centre of all three. The most well-liked members in many communities are barmen and bakers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These are all optimistic reasons why people run eateries in Vekllei. It is also true that some hate doing it, but continue regardless &amp;ndash; paralysed either by attachment to the location or a legacy or some other social or legal trap. There&amp;rsquo;s plenty of bad food in Vekllei, too. The overall density of cafés in the country is however something to marvel at, and you&amp;rsquo;ll notice it immediately upon arrival.&lt;/p&gt;
+&lt;h3 id=&#34;a-funny-appetite&#34;&gt;
+  A Funny Appetite
+  &lt;a class=&#34;anchor&#34; href=&#34;#a-funny-appetite&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Tzipora had a difficult relationship with eating, and by the time she got to Vekllei her hunger was all over the place. It was something to do with the psychology of childhood, and how old memories seemed to tell her how to feel years on. She was still picky; she was still food insecure. She would go on these crazy fasts, then overeat for two or three days. And none of it seemed to matter &amp;ndash; whether it was her god-given metabolism or a byproduct of &lt;a href=&#34;https://millmint.net/posts/2021-05-28-forever/&#34;&gt;GHD&lt;/a&gt;, she had weighed exactly 86 pounds for over three years. Which at 58 inches was skinny, but wasn&amp;rsquo;t half bad considering where she&amp;rsquo;d come from. The porridge makes &amp;rsquo;em short and retarded, as Moise says.&lt;/p&gt;
+&lt;p&gt;In a girls&amp;rsquo; school full of poor girls, everything is for keeps. The dining hall was run as a charity and it was good, but no one was kidding themselves about the sweetbread. Tzipora was told it was the brains of a lamb &amp;ndash; it wasn&amp;rsquo;t brains, it was the pancreas, but what did it matter? There was always spare sweetbread on Tuesdays, but good luck finding second serves of the roast on Sundays. The nun never gave you enough the first time, so you had to swallow it as quick as you could and go back before they ran out.&lt;/p&gt;
+&lt;p&gt;Even now, in another country on another continent, the nun is still running out of roast. And with every meal, even with her friends, she&amp;rsquo;s got these freaky sensitivities that strum like a double bass when the menu comes out. No, she won&amp;rsquo;t share her chips.&lt;/p&gt;
+&lt;p&gt;Tzipora got really into food in Vekllei. About half of the people in Vekllei came from overseas, so it was a world&amp;rsquo;s pantry. She tried stuff she&amp;rsquo;d never had before, and lots of things she didn&amp;rsquo;t like. She had this vivid memory of eating breakfast with Lin Zhi, and her dad was in his boxers and singlet like he always was, and he brought out some wet fishy rice thing that tasted like it had been scooped fresh out of the Yangtze. She hated it. She ate the whole thing, but she hated it.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -226,7 +628,13 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/vista/</guid>
-	  <description>Instafilm #445. Marked &amp;ldquo;2064&amp;rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;Instafilm #445&lt;/strong&gt;. Marked &amp;ldquo;2064&amp;rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo. But Vekllei people are far away from the world and curious and so they asked stupid questions sometimes.&lt;/p&gt;
+&lt;p&gt;Tzipora didn&amp;rsquo;t like the news so she stopped reading it. Sometimes she got people asking her about America &amp;ndash; what do you think about what they say&amp;rsquo;s going on in Dallas? Is it real or is some of it made up to sell papers? Here&amp;rsquo;s an idea &amp;ndash; how about you shut your mouth and stop asking me so many fucking questions.&lt;/p&gt;
+&lt;p&gt;Left to right: Moise, Coretti, Lin Zhi, Cobian, Tzipora. 2064.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -235,7 +643,29 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/lightbulb/</guid>
-	  <description>A New Frontier # The stars are close to Vekllei. The common availability of space travel is the most wonderful achievement of Vekllei aerospace. It lights the furthest corners of the imagination in the postwar Vekllei spirit of play and dreams. The democratisation of space travel is in fact the democratisation of space itself, and so essential to the realisation of the Vekllei dream — as on Earth, so in the stars.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h3 id=&#34;a-new-frontier&#34;&gt;
+  A New Frontier
+  &lt;a class=&#34;anchor&#34; href=&#34;#a-new-frontier&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The stars are close to Vekllei.&lt;/strong&gt; The common availability of space travel is the most wonderful achievement of Vekllei aerospace. It lights the furthest corners of the imagination in the postwar Vekllei spirit of play and dreams. The democratisation of space travel is in fact the democratisation of space itself, and so essential to the realisation of the Vekllei dream — as on Earth, so in the stars.&lt;/p&gt;
+&lt;p&gt;Vekllei is one of only a few countries in the world to offer regular, schedules flights to the moon. It is the only country in the world to completely subsidise the cost of such travel, democratising a fundamentally life-altering experience for its 20 million citizens.&lt;/p&gt;
+&lt;p&gt;These flights are operated by Vekllei Overseas Airways (VOA), the international carrier of the Vekllei Air Service. VOA does not purchase aircraft as a means of making money, nor does it operate in a fair market. It monopolises international travel in and out of Vekllei, and leverages its monopoly as a social good for the people of its home country. Vekllei people are entitled to air travel on their own terms, though personal travel requires an advance booking or some charm.&lt;/p&gt;
+&lt;p&gt;In this tradition, VOA’s interplanetary services operate as a loss-making social good, though they have a substantially reduced capacity compared to terrestrial travel. Booking a flight to the moon requires a copy of your identification and itinerary sections of your Passbook, and a medical checkup (including a mental health assessment) within a month prior to departure. There is a strict hierarchy of availability that cascades down through political and economic reasons for travel, with generally 10-20 lunar holidaymakers boarding a flight of 40. On average, you can expect to wait about two years for a ticket.&lt;/p&gt;
+&lt;p&gt;The routes are serviced by a most extraordinary spacecraft called the Aerospatiale VA-5, part of the second generation of commercial spacecraft in Vekllei. It is a machine of dreams. You are asked to exchange your shoes for slippers in the cabin, and the walls are lined with rails. Above, a glass roof shows the sky. The vehicle has three sets of engines &amp;ndash; one for takeoff, one for supersonic climb, and one for space. It takes off and lands at very high speed, and so those engines are used in reverse to brake on touchdown.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#vekllei-aerospatiale-sa&#34;&gt;Vekllei Aerospatiale S.A.&lt;/a&gt; is a municipalised aircraft manufacturing and production company in &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/&#34;&gt;Pharos&lt;/a&gt; (Vekllei’s ‘aviation borough’) and is generally considered the largest and most advanced of Vekllei’s civilian aerospace manufacturers. It is best known for the development of Vekllei’s first supersonic transport — the VA-500 “Sky Dart,” which was a clone of Boeing’s 6th-generation SSTs and resulted in accusations of corporate espionage and theft. The Interplanatery Transport programme, on the other hand, was almost entirely home-grown. It is an utterly unique category pf vehicle, pushed to the frontier of aerospace engineering with the development lightbulb-style nuclear thermal reactors in the late 2040s.&lt;/p&gt;
+&lt;h3 id=&#34;designing-a-new-kind-of-interplanetary-transport&#34;&gt;
+  Designing a New Kind of Interplanetary Transport
+  &lt;a class=&#34;anchor&#34; href=&#34;#designing-a-new-kind-of-interplanetary-transport&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The Vekllei Nuclear-Electric Commission chaired the United Nuclear Transport Working Group (NTWG) in the early 2030s, which included state industry partners like General Reactor S.A. as well as specialised nuclear energy companies like Atomic Electric S.p.M. and &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#future-fission-sqm&#34;&gt;Future Fission&lt;/a&gt;. NTWG conducted a series of experiments with nuclear rocketry in Kala in 2037, and built a technology data base of nuclear thermal reactors that were eventually incorporated into early types of atomic spacecraft (see, for example, the first interplanetary military and research vessel VS-10, a successor to the X-25).&lt;/p&gt;
+&lt;p&gt;The Vekllei nuclear thermal reactor project (NTR) was advantaged by the existing use of uranium-233 reactor fuels in civilian infrastructure and the competitive lead of Vekllei domestic material sciences, which lead the world in investment and research. Development of the NTR was based off studies conducted by the U.S. Atomic Energy Commission and the West German Atomic Authority in the decades prior. The crown jewel of Vekllei astronuclear research is the Apollo reactor, present in the VA-5 depicted here.&lt;/p&gt;
+&lt;p&gt;The Apollo-type reactor is a gaseous nuclear rocket engine which expels no fissile material. It is an extraordinary device, and stresses materials beyond any other reactor type used in the world today. The reactor core operates at a pressure of over 200 atmospheres and a temperature of 24,000 Kelvin — over four times hotter than the surface of the sun. It represents the pinnacle of Vekllei astronuclear engineering and contributed significantly to the democratisation of Vekllei lunar territories.&lt;/p&gt;
+&lt;p&gt;The Apollo uses a uranium-233 hexafluoride core, a rare isotope bred from thorium in some types of domestic civilian reactors. The uranium fuels a plasma-phase fission reaction within a transparent quartz-composite bulb that is protected from the incredible heat of the reaction by a vortex of neon laced with silica. The quartz-composite is almost completely transparent to ultraviolet radiation, which passes through the bulb into a hydrogen working fluid, which expands as it heats and is expelled through the rocket nozzle to propel the VA-5 forward.&lt;/p&gt;
+&lt;p&gt;The Apollo system uses two types of gasses — a neon-silica composite within the quartz envelope to protect the structure of the reactor core, and a hydrogen working fluid enriched with tungsten to increase radiation absorption. It is a relatively simple fission reactor mechanically, but the science of the materials required to operate it (particularly the quartz composite, developed by the Atomic Electric skunkworks) are the product of decades of research invested by the NTWG. Unlike other NTRs, the Apollo does not expel radioactive material and so is able to be used on the lunar surface — a distinct competitive advantage. It is the only closed-system nuclear thermal reactor used on a commercial spacecraft today.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -244,8 +674,42 @@ I&amp;rsquo;ve been working on this project for a while now, about five years co
 	  <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/municipal/</guid>
-	  <description>The base unit of Vekllei society are municipalities, called municipolis in their language. They occupy a uniquely intimate presence in Vekllei life as an unusual body of public affairs. Unlike other state bodies in Vekllei, which function similar to their overseas counterparts, local municipalities supersede their conventional definition as mere &amp;rsquo;local governments&amp;rsquo; and are considerably more essential to the wellbeing of Vekllei communities.
-In Vekllei, the word municipolis refers to</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;The base unit&lt;/strong&gt; of Vekllei society are municipalities, called &lt;em&gt;municipolis&lt;/em&gt; in their language. They occupy a uniquely intimate presence in Vekllei life as an unusual body of public affairs. Unlike other state bodies in Vekllei, which function similar to their overseas counterparts, local municipalities supersede their conventional definition as mere &amp;rsquo;local governments&amp;rsquo; and are considerably more essential to the wellbeing of Vekllei communities.&lt;/p&gt;
+&lt;p&gt;In Vekllei, the word &lt;em&gt;municipolis&lt;/em&gt; refers to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Local government (the ‘municipality’), as made up of assemblies, trade unions, civic organisations, chapels, and school children&lt;/li&gt;
+&lt;li&gt;The general legal authority of the municipality, including its petty legislature and local police&lt;/li&gt;
+&lt;li&gt;Features of the community that are owned by the community, like sewers, libraries, trams and public workshops&lt;/li&gt;
+&lt;li&gt;The municipal attitude of civil service and well-meaning bureaucracy&lt;/li&gt;
+&lt;li&gt;The municipal principles of localism, egalitarianism and democracy&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;The style and design language of community features (municipalist design; civic newda; socialist tectonicism)&lt;/li&gt;
+&lt;li&gt;The architecture of the national and commonwealth state as it manifests locally, like local branch offices of government companies and ministerial offices&lt;/li&gt;
+&lt;li&gt;Any sort of construction involving municipal agents or the Army Construction House (ACS)&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;All land and housing that is responsible to an agent of the Vekllei Delicture system&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ‘municipal’ in Vekllei are spaces that are both local and public. It is not just a phrase that refers to the machinery of local government, but in fact a descriptor for all aspects of the spirit of localism as an extension of Vekllei’s indigenous social anarchism. Like a lot of political concepts in Vekllei, its origins are cultural and emotional rather than legal &amp;ndash; the ‘municipalities’ of Vekllei are vessels of all goodwill afforded to community services, from schools to general practitioners. They are fundamentally ‘sun-facing’&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; and optimistic.&lt;/p&gt;
+&lt;p&gt;A &amp;lsquo;municipality&amp;rsquo; describes a Vekllei community at any scale, as well as all of its social features &amp;ndash; governance, law-making, design, civil services, infrastructure, and so on. It implies smallness and neighbourliness, but also scales up to borough-sized administrative divisions (called ‘borough municipalities’), and, to some extent, the city-state of Vekllei itself. The same principles found in the atomic communities of society grow, like trees, into every level of government and inform the Vekllei national identity. The health of the utopianism of the Floral Period is diagnosed in its communities, not its governments.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;These principles, in addition to self-mangement and self-interest, are reproduced broadly as part of &amp;lsquo;Sundress Municipalism,&amp;rsquo; a national spirit of the Vekllei state.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The ACS is a major construction firm.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;The Vekllei Delicture system refers to the brokerage of ownership between the Land Sovereign, the municipal agent and the occupier; in other words, the negotiation of land-ownership from the land itself.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;&lt;em&gt;Semoisnesne&lt;/em&gt;, or &amp;lsquo;sun-facing,&amp;rsquo; is a Vekllei phrase for positivity and general sense of wellbeing.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -254,7 +718,24 @@ In Vekllei, the word municipolis refers to</description>
 	  <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/panaderas/</guid>
-	  <description>She was in Lo, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;She was in Lo&lt;/strong&gt;, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.&lt;/p&gt;
+&lt;p&gt;She had a toothache but wouldn’t go to the dentist. For one, she did not like dentists at all. They were much like doctors. She did not trust them. It was easy to forget that Tzipora had many simple opinions that betrayed her class of person. Also, she had a medical checkup each year that lasted a couple days. It was not far away now, and she’d rather get it all out of the way at once. If it became unbearable, she thought, she could always medicate it herself.&lt;/p&gt;
+&lt;p&gt;It would soon be winter, and the days were shorter now. The sun went down at four, and soon it would be dark by the time she got out of school. She hated the dark and hated the cold.  She thought about going abroad to a place with better weather. Maybe she would go to Barcelona and learn what it meant to be continental — people always told her she looked like a gypsy. To bake bread and drink well and marry a soldier. Maybe she could ride with the gypsies, and travel in a wooden caravan, singing and dancing in a long skirt.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ya vienen las panaderas por las calles de San Juan,
+engañando a los chiquillos cuatro duros vale un pan&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dime panaderita como va el trato,
+la harina va subiendo y el pan barato&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And so on. And she would write letters back to Cobian and the rest announcing her adventures.&lt;/p&gt;
+&lt;p&gt;“This week has been difficult,” she might say, “the French have crossed the Pyrenees and have besieged Pamplona. I have decided to take up arms to rescue my beloved husband, and have found passage there with a column of volunteers. Please send prayers and money.”&lt;/p&gt;
+&lt;p&gt;The leaves were starting to turn, and you found them heaped in gutters where the water drained. Her tooth was hurting. There was an emptiness inside her.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -263,8 +744,19 @@ In Vekllei, the word municipolis refers to</description>
 	  <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/towers/</guid>
-	  <description>Merce was one of seven sisters but she didn’t know it. Like many Vekllei people in young adulthood, her parents were born overseas, and so her Spanish heritage was somewhat obscured.
-Growing up in postwar Vekllei, you develop an unusual esprit de corps which supersedes almost everything about you — a civic mission to establish a place in the world regardless of your prior circumstance or heritage. This well-intentioned internationalism cut both ways; you were not much judged about where you came from, but you also did not talk much about where you came from.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;Merce was one of seven sisters&lt;/strong&gt; but she didn’t know it. Like many Vekllei people in young adulthood, her parents were born overseas, and so her Spanish heritage was somewhat obscured.&lt;/p&gt;
+&lt;p&gt;Growing up in postwar Vekllei, you develop an unusual esprit de corps which supersedes almost everything about you — a civic mission to establish a place in the world regardless of your prior circumstance or heritage. This well-intentioned internationalism cut both ways; you were not much judged about where you came from, but you also did not talk much about where you came from.&lt;/p&gt;
+&lt;p&gt;It did not help that many immigrants in Vekllei were not particularly sentimental about where they came from — they were often outcasts or persecuted back home, and so only treacly childhood nostalgia survived integration. Foods, styles of dress, religious traditions and folk songs were all Merce knew of Spain — the actual lived memory of her father were mostly suppressed. This is how a whole other marriage and six sisters fade away. Stories like these are very common in Vekllei today.&lt;/p&gt;
+&lt;p&gt;Merce worked as a &lt;a href=&#34;https://millmint.net/posts/2022-01-11-police/&#34;&gt;constable&lt;/a&gt; in the &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/&#34;&gt;Pharos&lt;/a&gt; neighbourhood of Uclo. Uclo is a big place full of migrants, so she mostly patrolled where she lived in East Uclo, which neighboured &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#copetpek&#34;&gt;Copetpek&lt;/a&gt;. These were pleasant, poor boroughs of the Capital lighted by all corners of the world. They are also strikingly diverse in landscape — West Uclo is mostly pre-war, filled with low-rise Junta-era row houses and coffee shops. East Uclo contains some of Vekllei’s rare “towers in the park” — vertical neighbourhoods in the sky.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#uclo-experimental-social-housing-project&#34;&gt;Uclo Experimental Social Housing Project&lt;/a&gt;, called The Towers by its residents, are the result of direct intervention by the &lt;a href=&#34;https://millmint.net/utopia/society/government/#vekllei-housing-commission&#34;&gt;Vekllei Housing Commission&lt;/a&gt;. Most homes are built by municipalities with municipal-sized budgets, since they best know their neighbourhoods, but the catastrophic housing shortages of the early postwar years demanded national intervention. The Towers were built between 2022 and 2024 by innovative British contractors under the recovery lend-lease, and still dominate the landscape today. The six tower blocks are surrounded by gardens, and are closely linked to shops and transport on their periphery to other parts of the city. The &lt;a href=&#34;https://millmint.net/utopia/society/industry/rail/&#34;&gt;VNR&lt;/a&gt; Metro has a station directly beneath them.&lt;/p&gt;
+&lt;p&gt;The Towers are unlike other examples of utopian ‘radiant cities’ because they do not function like other high-rise blocks. Distinctive in their architecture are ways to provide their inhabitants with control over their homes and corridors through great streets in the sky, full of light wells and sunlight. The spaces between apartments are used and cherished, and are extensions of living space for residents Instead of narrow, anonymous corridors and sterile lobbies, the Towers have libraries and food gardens.&lt;/p&gt;
+&lt;p&gt;This ‘defensible space,’ so-called, is not an initiative of municipal benevolence but in fact a foundational aspect of Newda. Home ownership is an essential feature to the Vekllei way of life, and so apartments are designed in ways that encourage residents to retain social and physical control over their residences and shared spaces — corridors are spacious and communal in the Towers, and crime rates have remained low decades after their construction.&lt;/p&gt;
+&lt;p&gt;The Towers today are highly desirable but largely filled with owner-occupiers unwilling to vacate. They are also a kind of post-war architecture that is now exceedingly rare in Vekllei. The Housing Commission now prefers mid-rise housing from which you can view the street, and considers more carefully the density of new construction. The success of The Towers was not enough — municipal architects are continuously experimenting with new ways of building homes for the country.&lt;/p&gt;
+&lt;p&gt;This suits Merce just fine, since she hates waiting for the bloody lifts anyway.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -273,7 +765,13 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	  <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/transmission/</guid>
-	  <description>Tzipora finished most school days at two in the afternoon. Her routine looked something like this. Catch the tram home. Walk if the weather is &amp;lsquo;interesting&amp;rsquo; (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;Tzipora finished most school days&lt;/strong&gt; at two in the afternoon. Her routine looked something like this. Catch the tram home. Walk if the weather is &amp;lsquo;interesting&amp;rsquo; (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water. Blow her nose. Eat an apple with a glass of milk. Listen to the news on the radio.&lt;/p&gt;
+&lt;p&gt;Depending on what she was making for dinner, she would usually head back out sometime around three thirty and find somewhere to read in her neighbourhood. From all places in Seispri you could see its beautiful circular high-voltage transmission towers, which carried power from the 2nd Magma-Electric Cogeneration Plant to their homes, supplying them with heat and light. The neighbourhood had been bombed in the war and there were still ruins out here. You could find old paths that were abandoned, overrun with mosses and bushes. These were good places to read.&lt;/p&gt;
+&lt;p&gt;Tzipora spent most evenings alone until Baron got home. She loved Cobian, but they were quite different people and Tzipora spent a lot of time in her own head. That was probably the origin of a lot of her neuroses; she processed things slowly and inwardly; a cascading reaction of memories and identity splitting and colliding. You could hear the transmission towers hum with electricity. She felt that if her skull wasn&amp;rsquo;t so thick you could hear her brain humming, full of thoughts.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -282,8 +780,13 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	  <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/contrails/</guid>
-	  <description>Vekllei has the some of the clearest skies in the world, and they are criss-crossed by distant vapour trails of jets coming and going. They bring the world closer together. It was funny to think that Peking and Tokyo were just a few hours away &amp;ndash; it felt very cosmopolitan; very democratic. It emphasised the smallness of the world.
-Tzipora would look at the livery of the planes to figure out where they were going.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;Vekllei has the some of the clearest skies in the world&lt;/strong&gt;, and they are criss-crossed by distant vapour trails of jets coming and going. They bring the world closer together. It was funny to think that Peking and Tokyo were just a few hours away &amp;ndash; it felt very cosmopolitan; very democratic. It emphasised the smallness of the world.&lt;/p&gt;
+&lt;p&gt;Tzipora would look at the livery of the planes to figure out where they were going. Red and white was Vekllei Overseas Airways &amp;ndash; which meant anywhere, really. With quiet nuclear engines, they could fly for thirty years before deciding where they wanted to go. Blue and white was the Vekllei Air Service, which flew domestic routes between Commonwealth destinations.&lt;/p&gt;
+&lt;p&gt;It didn&amp;rsquo;t really matter what colour they were &amp;ndash; on their lonely island in the Atlantic, anywhere else seemed far away. Peking was Paris, as far as she was concerned.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -292,7 +795,18 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 	  <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/liminal/</guid>
-	  <description>Out on the branch lines there are in-between stations. Sometimes they emerge out of history as relics of dead and dying towns overlooked by the timetable. Others are a quirk of the rail company machine &amp;ndash; workshops and line junctions where people switch trains. As you get further and further out of the city, and the trains get older and older, these in-between stations become more common. Between Yana and Kotaismoyeh there is an irregular line serviced by steam trains that are over a hundred years old.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;&lt;strong&gt;Out on the branch lines&lt;/strong&gt; there are in-between stations. Sometimes they emerge out of history as relics of dead and dying towns overlooked by the timetable. Others are a quirk of the rail company machine &amp;ndash; workshops and line junctions where people switch trains. As you get further and further out of the city, and the trains get older and older, these in-between stations become more common. Between Yana and Kotaismoyeh there is an irregular line serviced by steam trains that are over a hundred years old. &lt;a href=&#34;https://millmint.net/utopia/society/industry/rail/&#34;&gt;Vekllei National Rail&lt;/a&gt; thinks in centuries.&lt;/p&gt;
+&lt;p&gt;There is, perversely, a cultural incentive in Vekllei to prioritise experiences over efficiency or productivity. In Vekllei, the company is responsible for not just a material product but an emotional service to its employees and customers, which makes up part of the bizarre social theatre of the Vekllei economy. Vekllei National Rail has the means to rework its rural timetables, modernise its rolling stock and build faster lines. These features are a straightforward economic benefit and a convenience to the people who travel with them. But that is, as the Vekllei colloquialism goes, &amp;ldquo;thinking like an American.&amp;rdquo; Companies in Vekllei, year after year, become more inefficient, apathetic, and playful. Not simply because they are badly managed or poor, but because they have a human emotional interest in cultivating the &amp;ldquo;new way of living&amp;rdquo; &amp;ndash; the Floral Period way of living.&lt;/p&gt;
+&lt;p&gt;In this system, steam trains continue to run not just because they are objects of history and sentimental to their ridership, but because they are old, easily physically conceptualised, and slow. So too are under-utilised routes serviced. It is not that Vekllei National Rail is unaware of their inefficiencies &amp;ndash; Vekllei National Rail is in fact asserting its cultural priorities on you, and expects you to weather those inconveniences. If that sounds sinister, it shouldn&amp;rsquo;t &amp;ndash; every aspect of Vekllei society is like this, and contributes to the richness of their lives. In one sense, it is manipulative and managing, but the opposite is also true &amp;ndash; to scrap old rolling stock, rebuild lines and close stations would also coerce people into new journeys and places. You only need to look at the alternative mindset in America, where wealth and accessible consumerism has, by the late 21st Century, stripped out most of what makes life worth living. Their lives are more convenient and empty than ever, which has contributed to a cultural slump that in part spurred the collapse of Ford and the Dallas Secession.&lt;/p&gt;
+&lt;p&gt;Tzipora sits at an in-between station and she understands this. This is what makes Vekllei National Rail so smart, she thinks. There is a direct, tragic parallel between the collapse of the Ford Motor Company and why she is waiting forty five minutes for the steam train to the village of Vos. Vekllei people don&amp;rsquo;t realise it because they are immersed in their own intricate ways of thinking, and they will never understand living in the shrill, hedonistic fantasy of the middle class. Being so wealthy and so empty that you&amp;rsquo;re sitting in a motel room trying to figure out if you want to&amp;ndash;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Whatchoo thinking about, Zelda?&amp;rdquo; Moise asks.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Nothing,&amp;rdquo; she says.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;This sucks. How much longer?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I dunno.&amp;rdquo;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -301,8 +815,12 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 	  <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/wine/</guid>
-	  <description>Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.
-Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.&lt;/p&gt;
+&lt;p&gt;Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions. Sometimes that occasion is a birthday or a sad night in. Sometimes that occasion is 3pm in the Ivo St Park with her friends. There was plenty to go around.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -311,7 +829,16 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	  <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/habit/</guid>
-	  <description> Tzipora doesn&amp;rsquo;t smoke anymore. She prefers Camel. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Tzipora doesn&amp;rsquo;t smoke anymore. She prefers Camel.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -320,8 +847,40 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	  <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/lunch/</guid>
-	  <description>✿ Read more: A Vekllei Breakfast In Vekllei schools, they take an hour and a half for lunch most days. Food is a complicated subject here, as a ubiquitous demonstration of the Vekllei cultural tradition and its relative scarcity compared to consumer societies.
-Food unable to be grown for the house is usually obtained from grocers. Those grocers put in orders for produce from agricultural companies or their representatives — usually ‘petty’ (informal) bureaus.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-05-09-breakfast/&#34;&gt;A Vekllei Breakfast&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In Vekllei schools, they take an hour and a half for lunch most days. Food is a complicated subject here, as a ubiquitous demonstration of the Vekllei cultural tradition and its relative scarcity compared to consumer societies.&lt;/p&gt;
+&lt;p&gt;Food unable to be grown for the house is usually obtained from grocers. Those grocers put in orders for produce from agricultural companies or their representatives — usually ‘petty’ (informal) bureaus. Some of these are farms, but more commonly in cities they are greenhouses and hydroponics factories. Rather than manage the stock of individual staples and products, most grocers elect to enrol in automated inventory management through the &lt;strong&gt;Central Product Inventories&lt;/strong&gt; (CPI) system, which are computerised and manage delivery automatically.&lt;/p&gt;
+&lt;p&gt;The problem with this system is that it is both very open-ended (it contains most commercially available foodstuffs in Vekllei) and very unreliable. Central Product Inventories have frequent backlogs for specialty products, particularly foreign foods, and so only staples are available regularly. As these delays cascade down to the consumer, they reveal a system that has no real intention of giving everyone what they want, all of the time.&lt;/p&gt;
+&lt;p&gt;Because of this, many Vekllei people in cities dine out most nights. In the context of schools, this means that the provision of hot, nutritious lunches for students was considered necessary. It is the only real way to guarantee the food intelligence and cooking ability of the postwar generation, who may not otherwise cook at home.&lt;/p&gt;
+&lt;p&gt;In some schools, parents and teachers help student volunteers cook. In others, like Tzipora’s Moshel St School, classrooms take turns cooking for the rest of the school. Depicted here is Tzipora’s packed lunch alongside an example of a lunch provided by the school.&lt;/p&gt;
+&lt;h4 id=&#34;tziporas-lunch&#34;&gt;
+  Tzipora’s Lunch
+  &lt;a class=&#34;anchor&#34; href=&#34;#tziporas-lunch&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;If not eating leftovers, Tzipora likes things that she can eat with her fingers. Processed meats and sausages are readily available in Vekllei and replace cold cuts of meat most days. The heaviness of the blood sausage and kabanos is alleviated with some fruit paste and cherry tomatoes.&lt;/p&gt;
+&lt;p&gt;Pickled foods keep for a long time and so are a great way to fill out a packed lunch. Tzipora eats her pickled onions first, otherwise her breath smells like onion for the rest of the day.&lt;/p&gt;
+&lt;p&gt;Tzipora is also sweet on soft drinks, and rotates through different flavours to keep them interesting. The carbonation suits the crackers and sausage well.&lt;/p&gt;
+&lt;p&gt;She has fruit tingles, a chalky tablet sweet, for dessert. The cake isn&amp;rsquo;t for her; it&amp;rsquo;s to trade for other sweets. She&amp;rsquo;s eaten enough of it at home already.&lt;/p&gt;
+&lt;h4 id=&#34;school-lunch&#34;&gt;
+  School Lunch
+  &lt;a class=&#34;anchor&#34; href=&#34;#school-lunch&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Stews, sometimes called casseroles in Vekllei, are a staple of local cuisine and are an easy and tasty way to feed hundreds of students. They’re made out of ingredients of abundance — the sorts of root vegetables and lab meats churned out en masse by the inflexible hydroponics system of the country. Most schools also have gardens and produce all of of their own vegetables, in this case herbs, carrots, onions, potatoes, and tomatoes.&lt;/p&gt;
+&lt;p&gt;The stew is eaten with bread, which is often shared between friends. A portion of cheese is provided for dessert — today, a semi-hard Norwegian-style cheese (called Keysmi in Vekllei) with cloves and cumin.&lt;/p&gt;
+&lt;p&gt;Most government schools serve small portions of wine with meals, even to primary school students. Milk is an available substitute.&lt;/p&gt;
+&lt;style&gt;
+.collapsible-menu-wrapper {
+	display: none;
+}
+&lt;/style&gt;
+	  </description>
 	</item>
 	
 	<item>
@@ -330,13 +889,28 @@ Food unable to be grown for the house is usually obtained from grocers. Those gr
 	  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/chapel/</guid>
-	  <description>As we come marching, marching, in the beauty of the day,
-A million darkened kitchens, a thousand mill-lofts gray
-Are touched with all the radiance that a sudden sun discloses,
-For the people hear us singing, &amp;ldquo;Bread and Roses, Bread and Roses.&amp;rdquo;
-As we come marching, marching, we battle, too, for men &amp;ndash;
-For they are women&amp;rsquo;s children and we mother them again.
-Our days shall not be sweated from birth until life closes &amp;ndash;</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote&gt;
+&lt;p&gt;As we come marching, marching, in the beauty of the day,&lt;br&gt;
+A million darkened kitchens, a thousand mill-lofts gray&lt;br&gt;
+Are touched with all the radiance that a sudden sun discloses,&lt;br&gt;
+For the people hear us singing, &amp;ldquo;Bread and Roses, Bread and Roses.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As we come marching, marching, we battle, too, for men &amp;ndash;&lt;br&gt;
+For they are women&amp;rsquo;s children and we mother them again.&lt;br&gt;
+Our days shall not be sweated from birth until life closes &amp;ndash;&lt;br&gt;
+Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Vekllei people have a right to organise in their work. This principle is expressed in the structure of the economy, in which cooperative enterprises form company ballots that go on to inform commercial and industrial practice. Collections of individual trade unions may form bureaus, massive monopolies of organised workplaces cooperating and competing under the bizarre structure of the Vekllei moneyless economy. These are expressions of a mobilised democratic workforce which sustain the country in their self-interest, and are a defining characteristic of the Floral Period.&lt;/p&gt;
+&lt;p&gt;Organisation also exists outside the workplace. Their negotiations occur with the municipal and state authorities, and are a common means by which groups of people express their grievances and strengthen each other. The most well-known of these are Vekllei’s Chapel system — the unionisation of local women.&lt;/p&gt;
+&lt;p&gt;Chapels are localised by community. Tzipora was at first very sceptical of the Chapels, which had offered her membership upon her arrival in Vekllei. You have to understand, Tzipora was in a crisis of inferiority at this time, and considered the ingratitude of the ungovernable female organisers to be naïve and entitled. She was convinced otherwise by Ayn, who was a moderate and carefully-spoken person.&lt;/p&gt;
+&lt;p&gt;“You want to integrate in Vekllei, don’t you?” She asked Tzipora. “This is what integration looks like; the Chapels are an expression of our democracy. A means of support and celebration; to have people know and care for you. There is no political commitment.”&lt;/p&gt;
+&lt;p&gt;Tzipora found Chapel meetings to be friendly and informal, characterised by shared meals and conversations of joys and grievances. Local Chapel № 23 was a social club of individuals made strong by their trust in each other. Tzipora sat silently at the end of the Chapel hall, an old concrete building with a flat roof built after the war. It had the appearance of a midcentury church. She ate her bread and sausage with her fingers and listened to the women talk amongst themselves. Children ran around, playing chasings. It was not like any place she’d been before.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Well-wishes to all this International Women’s Day&lt;/em&gt;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -345,9 +919,29 @@ Our days shall not be sweated from birth until life closes &amp;ndash;</descript
 	  <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/drawing/</guid>
-	  <description>&#34;And who is this lady?&#34; &amp;ldquo;That&amp;rsquo;s Tora, a Palace God who comes to Pachinki,&amp;rdquo; Tzipora said, stumbling over her words. &amp;ldquo;The other Goddesses don&amp;rsquo;t like her much, um, and she&amp;rsquo;s quite powerful. She goes to Pachinki to unite mortals against the Palace.&amp;rdquo;
-&amp;ldquo;I see,&amp;rdquo; Baron said, not following but nodding politely. &amp;ldquo;She looks a lot like you, doesn&amp;rsquo;t she?&amp;rdquo;
-&amp;ldquo;Oh, well, I don&amp;rsquo;t know,&amp;rdquo; Tzipora said, brushing away the question with another piece of paper pulled from her schoolbag.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;br&gt;
+&#34;And who is this lady?&#34;
+&lt;p&gt;&amp;ldquo;That&amp;rsquo;s Tora, a Palace God who comes to Pachinki,&amp;rdquo; Tzipora said, stumbling over her words. &amp;ldquo;The other Goddesses don&amp;rsquo;t like her much, um, and she&amp;rsquo;s quite powerful. She goes to Pachinki to unite mortals against the Palace.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I see,&amp;rdquo; Baron said, not following but nodding politely. &amp;ldquo;She looks a lot like you, doesn&amp;rsquo;t she?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Oh, well, I don&amp;rsquo;t know,&amp;rdquo; Tzipora said, brushing away the question with another piece of paper pulled from her schoolbag. &amp;ldquo;This is her mortal bodyguard, Hyssop.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;What kind of name is Hyssop?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s made up.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I see. Why not use normal names?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Because I keep telling you, it&amp;rsquo;s not a normal world, it&amp;rsquo;s a completely different one,&amp;rdquo; Tzipora whined in that way she did when you weren&amp;rsquo;t keeping up. &amp;ldquo;Hyssop means &amp;lsquo;Guardian of the Poor&amp;rsquo; in his language, so it&amp;rsquo;s sort of a metaphor.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;You&amp;rsquo;ve put a lot of thought into this.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Tzipora talked fast and anxiously. Pachinki was a private fantasy &amp;ndash; a dreamscape of magic and planets and monsters. She was showing Baron her drawings because she shared everything with him. But now, in his hands, her drawings looked all wrong. The people looked weird and her story seemed childish. It was embarrassing.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;hellip;The Palace only exists because they believe in themselves&amp;hellip; The moment they lose faith, they lose their powers and collapse their space in the Marble Realm,&amp;rdquo; she said, then stopped and rubbed her nose. &amp;ldquo;Sorry, I&amp;rsquo;m just going on and on. I get boring quickly.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;No, you don&amp;rsquo;t,&amp;rdquo; Baron said. &amp;ldquo;Is Tora planning to rob them of their faith?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Do you mean it?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Mean what?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;m not being tedious?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;No, of course not. I want to know.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;She looked relieved and rubbed her nose again. &amp;ldquo;Yes, she does, but it&amp;rsquo;s not that simple. You see&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;They sat there in the afternoon sun for over an hour, talking, shuffling papers.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -356,8 +950,21 @@ Our days shall not be sweated from birth until life closes &amp;ndash;</descript
 	  <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/rivers/</guid>
-	  <description>✿ This character was illustrated as a gift to my friend Qweezi. Happy Birthday! In Vekllei, you met all sorts of people. All nations passed through the Home Islands, some to visit, others to live. Tzipora met a great many of them in her time at school.
-Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we know as St Kitts and Nevis. Kosava is an independent member-state of the Kalina Islands, which describes a series of autonomous islands in the Caribbean.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ This character was illustrated as a gift to my friend &lt;a href=&#34;https://twitter.com/Qweezi1&#34;&gt;Qweezi&lt;/a&gt;. &lt;em&gt;&lt;strong&gt;Happy Birthday!&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;In Vekllei, you met all sorts of people&lt;/strong&gt;. All nations passed through the Home Islands, some to visit, others to live. Tzipora met a great many of them in her time at school.&lt;/p&gt;
+&lt;p&gt;Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we know as St Kitts and Nevis. Kosava is an independent member-state of the Kalina Islands, which describes a series of autonomous islands in the Caribbean. Together, they form the Kalina Sovereign, an independent full member of Vekllei&amp;rsquo;s &amp;ldquo;Atlantic Commonwealth,&amp;rdquo; which is something between a federation and a superstate. It was anarchism in the confusing Vekllei sense of the word &amp;ndash; self-organising, democratic, and totally dependent on bureau overproduction to furnish the gaps.&lt;/p&gt;
+&lt;p&gt;Commonwealth members, including Vekllei, are united in a belief in Floral Economics and share a lot of social features between them, including education, security, healthcare and bureau labour. A Kalinago girl is not that different from her sister in Vekllei, so it turns out. Together they represent a vanguard of island states in the Atlantic, a self-determining Commonwealth of different people resisting the hegemonies of Europe and the Americas with new ways of living.&lt;/p&gt;
+&lt;p&gt;Hitori was like Tzipora; she was not from Vekllei. Her parents were Japanese and she&amp;rsquo;d come here as a baby. It seemed like every second person was an immigrant, which indicated a shift in what &amp;ldquo;Vekllei&amp;rdquo; meant in the 21st Century. Under the various regimes of the Junta, it had been a colonial turn-of-phrase to describe the Algic-European metropole in the Home Islands. These days, it was more open-ended and democratic.&lt;/p&gt;
+&lt;p&gt;Vekllei has been multicultural since its origins as a meeting place of Scandinavian and Algic peoples. Today is no different, except its promise reaches farther and many more are arriving than before. Things are going well in Vekllei, and the quality of life can be exquisite &amp;ndash; provided you have certain expectations of what an &amp;ldquo;exquisite life&amp;rdquo; looks like. That was what kept people coming; an emerging Vekllei and the happiness of their children.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -366,9 +973,32 @@ Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we k
 	  <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/reading/</guid>
-	  <description>✿ This post announced changes made for patrons of Vekllei. Read and discuss the changes made in this post on Patreon here. Hello everyone,
-Hobart here, creator of this whole thing. For a couple years now I&amp;rsquo;ve maintained a small Patreon for those interested in supporting my work. Like most Patreons, this has operated monthly.
-From now on, patrons will only be charged on the release of a comic chapter.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This post&lt;/strong&gt; announced changes made for patrons of Vekllei. Read and discuss the changes made in this post on Patreon &lt;a href=&#34;https://www.patreon.com/posts/changes-to-61071775&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;Hobart here, creator of this whole thing. For a couple years now I&amp;rsquo;ve maintained a small &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;Patreon&lt;/a&gt; for those interested in supporting my work. Like most Patreons, this has operated monthly.&lt;/p&gt;
+&lt;p&gt;From now on, &lt;strong&gt;patrons will only be charged on the release of a comic chapter&lt;/strong&gt;. This could be once a month, but will more likely be a bit longer. This means a little less money for me, but also less anxiety about producing enough public work to earn the money pledged to me. It seems more fair, and the comic will be worth it.&lt;/p&gt;
+&lt;p&gt;So what will change? For patrons, &lt;strong&gt;nothing will change except that you will be charged less frequently&lt;/strong&gt;. You will continue to recieve precisely the same benefits I&amp;rsquo;ve promised, including future merch and roles on the Vekllei Discord.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I will continue to produce standalone posts,&lt;/strong&gt; much as I always have &amp;ndash; but instead of battling a creeping anxiety of losing patrons if I don&amp;rsquo;t meet a post quota, I&amp;rsquo;ll be working more creatively and flexibly according to the needs of the comic. My work will be better for it, I reckon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supporters will now be charged on the release of each chapter of the comic, instead of monthly.&lt;/li&gt;
+&lt;li&gt;Merch and Discord rewards will be the same.&lt;/li&gt;
+&lt;li&gt;You won&amp;rsquo;t pay as frequently and will get more for your money as chapters come out.&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;d like to support me in other ways, maybe buy a postcard when the MillMint Shop launches!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have any questions, just leave a comment below and I&amp;rsquo;ll help you out.&lt;/p&gt;
+&lt;p&gt;Thanks always,&lt;/p&gt;
+&lt;p&gt;Hobart/MelonKony&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Discuss on the Vekllei Discord&lt;/a&gt;.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -377,8 +1007,39 @@ From now on, patrons will only be charged on the release of a comic chapter.</de
 	  <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/police/</guid>
-	  <description>Police in the Epoch of Rest # Vekllei is a place divided between public and private spaces. The public markets are very public — centralised, controlled, documented and secure. The private markets are very private — anarchic, wide-ranging, interpersonal and unseen. Police in Vekllei work in both of these spaces, maintaining the peace and navigating their unique criminal topography.
-Vekllei has three police forces, one for each of its features as a country.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;police-in-the-epoch-of-rest&#34;&gt;
+  Police in the Epoch of Rest
+  &lt;a class=&#34;anchor&#34; href=&#34;#police-in-the-epoch-of-rest&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Vekllei is a place divided between public and private spaces. The public markets are very public — centralised, controlled, documented and secure. The private markets are very private — anarchic, wide-ranging, interpersonal and unseen. Police in Vekllei work in both of these spaces, maintaining the peace and navigating their unique criminal topography.&lt;/p&gt;
+&lt;p&gt;Vekllei has three police forces, one for each of its features as a country. These are the Police of the Public, Parliament, and Crown, reflecting the people, state and sovereign of Vekllei respectively. The diagram attached depicts seasonal variants of male and female uniforms, as well as some of their equipment.&lt;/p&gt;
+&lt;h3 id=&#34;cosmopor--the-police-of-the-public&#34;&gt;
+  Cosmopor — the Police of the Public
+  &lt;a class=&#34;anchor&#34; href=&#34;#cosmopor--the-police-of-the-public&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Cosmopor&lt;/strong&gt; (&lt;em&gt;comoisniyan denporitsa&lt;/em&gt;, lit. Public Police) are divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable. Each neighbourhood commission, which might comprise an area of thousands of people, is further subdivided in constabularies, which are lead by — somewhat predictably — a constable. The constable knows each person in their constabulary, and visits each residence regularly to confirm the welfare of their community and hear their grievances. Neighbourhoods in Vekllei are quite autonomous and culturally distinct, and so are its Public Police.&lt;/p&gt;
+&lt;p&gt;Their uniforms are modest and pleasant, and like other uniforms in the country have multiple components that are worn at the discretion of the officer in day-to-day duties. Uniforms depicted in this graphic are mostly fully-featured as to demonstrate full dress uniform.&lt;/p&gt;
+&lt;p&gt;Public Police carry rubber or extendable batons as well as a pistol, usually a revolver. Some choose not to carry a sidearm.&lt;/p&gt;
+&lt;h3 id=&#34;venopor--the-police-of-the-parliament&#34;&gt;
+  Venopor — the Police of the Parliament
+  &lt;a class=&#34;anchor&#34; href=&#34;#venopor--the-police-of-the-parliament&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Venopor&lt;/strong&gt; (&lt;em&gt;fedecenoayan porits&lt;/em&gt;, lit. Parliament Police) are the national police who deal with violent crime and matters of importance to the state. They have a reputation for being heavy-handed when confronted, and are widely respected. In summer, women wear a short half-cape (called a capeteht or “small cape”), and both men and women wear long wool capes in winter.&lt;/p&gt;
+&lt;p&gt;It’s worth remembering that the Venopor are servants of the state and rule of law first, and serve many police duties that are legally distinct from the Police of the Public. These include rapid response to and reinforcement of the Public Police, special persons protection, infrastructure security, and counterterrorism. The Police of the Parliament include many different branches, including Vekllei’s &lt;a href=&#34;https://millmint.net/posts/2021-11-14-coastguard/&#34;&gt;Coast Guard&lt;/a&gt; and its &lt;a href=&#34;https://millmint.net/posts/2021-04-09-sappers/&#34;&gt;Gold Sappers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;They carry sabres, which are still in use in Vekllei today — perhaps the only Western country in which they are useful equipment. All Venopor staff are trained in use of a sabre, which is fairly blunt and rarely causes deep cuts. They are used to sweep crowds, to point and command, and against people carrying blades. More common methods of subjugation are a whack with the hilt of the blade — a chance to move along before meeting the business end. Although women have the option of carrying a rubber baton in daily patrols, they don’t have the intimidation effect of the sabre.&lt;/p&gt;
+&lt;p&gt;Their uniforms are inherited from the Royal Guards of the prewar Junta years, with some floral-period modernisations. In some cases the Venopor may carry machine guns, particularly around government buildings and essential infrastructure — usually a domestic variant of the Israeli Uzi family. In these duties, they may also wear military-style helmets. They are a the floral-period descendants of a police tradition that has lasted a thousand years, and take their work seriously.&lt;/p&gt;
+&lt;h3 id=&#34;auspor--the-police-of-the-crown&#34;&gt;
+  Auspor — the Police of the Crown
+  &lt;a class=&#34;anchor&#34; href=&#34;#auspor--the-police-of-the-crown&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Auspor&lt;/strong&gt; (&lt;em&gt;ausiosmayan porits&lt;/em&gt;, lit. Police of the Land) are the police of Vekllei’s “Crown”. This means they serve a body called the Landscape Sovereign, which is not a human person but a metaphysical abstraction of all of Vekllei’s physical territory. They swear their oath to the Sovereign — not to Vekllei’s people or its government.&lt;/p&gt;
+&lt;p&gt;Like the Venopor, the Police of the Crown are a paramilitary force equipped primarily to confront crimes against the environment, the country’s biosecurity, and its immigration and customs. The military police of the Crown Armed Forces are also part of Auspor, since Vekllei’s military also serves the Sovereign. This means that Auspor polices criminal acts of and against the army, including tribunal courts.&lt;/p&gt;
+&lt;p&gt;In addition, Auspor includes several unique branches of policing relevant to environmental emergencies, including diving recovery squads, ranger units for patrolling forest and tundra alike, and remote search outfits.&lt;/p&gt;
+&lt;p&gt;Because of their variety of work, the uniforms depicted here are a sample of rangers employed in policing national parks and Crown Lands, which have natural borders with Vekllei. The appearance of Auspor officers varies wildly, since it includes both customs officers and skilled animal trackers alike.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -387,10 +1048,28 @@ Vekllei has three police forces, one for each of its features as a country.</des
 	  <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/showa/</guid>
-	  <description>Hello everyone,
-This is 2022, Year of Vekllei.
-For the next 100 days I’m going to do something for Vekllei every day. These &amp;lsquo;somethings&amp;rsquo; could be
-Posts you see, exploring Vekllei Articles on the website, including upcoming pages on Government and new character pages. Inking of comic pages &amp;ndash; leading up to a release soon. It&amp;rsquo;s been a long time coming but it&amp;rsquo;ll be worth it. New illustrations for use in merchandise(!</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;This is 2022, Year of Vekllei.&lt;/p&gt;
+&lt;p&gt;For the next 100 days I’m going to do something for Vekllei every day. These &amp;lsquo;somethings&amp;rsquo; could be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Posts you see, exploring Vekllei&lt;/li&gt;
+&lt;li&gt;Articles on &lt;a href=&#34;https://millmint.net&#34;&gt;the website&lt;/a&gt;, including upcoming pages on Government and new character pages.&lt;/li&gt;
+&lt;li&gt;Inking of comic pages &amp;ndash; leading up to a release soon. It&amp;rsquo;s been a long time coming but it&amp;rsquo;ll be worth it.&lt;/li&gt;
+&lt;li&gt;New illustrations for use in merchandise(!)&lt;/li&gt;
+&lt;li&gt;Working on new website features or the upcoming MillMint shop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2021 was a pretty bad year. I won’t go on about it much because it’s not very interesting and it’s not the point of my writing this. Let&amp;rsquo;s only hope suffering makes good art!&lt;/p&gt;
+&lt;p&gt;This last year, I haven&amp;rsquo;t finished what I&amp;rsquo;ve wanted to finish, and it&amp;rsquo;s caused some anxiety for me for months now. This is my New Year&amp;rsquo;s resolution to you all, including my &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;beloved patrons&lt;/a&gt;, who I thank sincerely for sticking with me through a really inconsistent creative period.&lt;/p&gt;
+&lt;p&gt;New Year&amp;rsquo;s resolutions are kind of corny, and they don&amp;rsquo;t work out for everyone. So don&amp;rsquo;t think of this as a resolution as such &amp;ndash; 2022 is a nice even number, and it&amp;rsquo;s a good time, arbitrary as any other, for a change in the winds.&lt;/p&gt;
+&lt;p&gt;My goal is to have something to show every other day or so. I&amp;rsquo;ve got a long list of ideas I&amp;rsquo;m going to work through. Hopefully this will provoke a change in behaviour from me.&lt;/p&gt;
+&lt;p&gt;Why not join me? Pick up a pencil and I&amp;rsquo;ll draw with you. You can come say hi at the &lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Vekllei Discord server&lt;/a&gt; and catch me drawing sometime.&lt;/p&gt;
+&lt;p&gt;Thanks again. I&amp;rsquo;m only at the start of the journey here. But this community is where it begins.&lt;/p&gt;
+&lt;p&gt;Warm regards,&lt;/p&gt;
+&lt;p&gt;Hobart/MelonKony&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -399,7 +1078,17 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	  <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/2022/</guid>
-	  <description>✿ Welcome to 2022, year of Vekllei. Here&amp;rsquo;s to a great year of art, dreams and love. Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn&amp;rsquo;s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;Welcome to 2022,&lt;/strong&gt; year of Vekllei. Here&amp;rsquo;s to a great year of art, dreams and love.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn&amp;rsquo;s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
   </channel>

@@ -1,18 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>tools on MillMint</title>
+	<title>tools</title>
 	<link>https://millmint.net/categories/tools/</link>
-	<description>Recent content in tools on MillMint</description>
+	<description>Recent content in tools </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>tools</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/categories/tools/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Dolls</title>
 	  <link>https://millmint.net/millmint/dolls/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/dolls/</guid>
-	  <description> 📂 Download Image 📋 Copy Image to Clipboard 🙂 Download Profile Picture ← → Faces ← My nav </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;div class=&#34;dolls&#34;&gt;
+	&lt;div class=&#34;canvas-wrapper&#34;&gt;
+		&lt;div class=&#34;dolls-left-side&#34;&gt;
+			&lt;div class=&#34;dolls-canvas&#34;&gt;
+				&lt;div class=&#34;dolls-canvas-inner&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;button class=&#34;article-button download-link&#34; onclick=&#34;downloadDollImage()&#34; download=&#34;Vekllei character.png&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;📂&lt;/span&gt; &lt;span class=&#34;text&#34;&gt;Download Image&lt;/span&gt;&lt;/button&gt;
+			&lt;button class=&#34;article-button copy-link hidden is-clipboard-button&#34; onclick=&#34;downloadDollImage(true)&#34; download=&#34;Vekllei character.png&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;📋&lt;/span&gt; &lt;span class=&#34;text&#34;&gt;Copy Image to Clipboard&lt;/span&gt;&lt;/button&gt;
+			&lt;button class=&#34;article-button download-pfp&#34; onclick=&#34;downloadDollFace(event)&#34; download=&#34;Vekllei character.png&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;🙂&lt;/span&gt; &lt;span class=&#34;text&#34;&gt;Download Profile Picture&lt;/span&gt;&lt;/button&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&#34;dolls-editor&#34;&gt;
+		&lt;nav class=&#34;dolls-nav&#34;&gt;
+			&lt;button class=&#34;nav-previous nav-nav-button&#34; onclick=&#34;previousNav()&#34;&gt;←&lt;/button&gt;
+			&lt;div class=&#34;nav-inner&#34;&gt;&lt;/div&gt;
+			&lt;button class=&#34;nav-next nav-nav-button&#34; onclick=&#34;nextNav()&#34;&gt;→&lt;/button&gt;
+		&lt;/nav&gt;
+		&lt;span class=&#34;current-page&#34;&gt;Faces&lt;/span&gt;
+		&lt;hr /&gt;
+		&lt;div class=&#34;color-options&#34;&gt;
+			&lt;div class=&#34;color-circle reset-circle&#34; onclick=&#34;setColor(null)&#34;&gt;&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&#34;doll-options&#34;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;dolls-templates&#34;&gt;
+	&lt;template class=&#34;dolls-nav-item-template&#34;&gt;
+		&lt;button class=&#34;dolls-nav-item&#34;&gt;
+			&lt;span class=&#34;icon&#34;&gt;←&lt;/span&gt;
+			&lt;span class=&#34;text&#34;&gt;My nav&lt;/span&gt;
+		&lt;/button&gt;
+	&lt;/template&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://millmint.net/js/dolls.js&#34;&gt;&lt;/script&gt;
+
+	  </description>
 	</item>
 	
   </channel>

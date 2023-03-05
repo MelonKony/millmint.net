@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>index on MillMint</title>
+	<title>index</title>
 	<link>https://millmint.net/tags/index/</link>
-	<description>Recent content in index on MillMint</description>
+	<description>Recent content in index </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>index</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/index/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Stories</title>
 	  <link>https://millmint.net/stories/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/</guid>
-	  <description> </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;style&gt;
+/* hide meta */
+header.info {
+  display: none;
+}
+&lt;/style&gt;
+
+	  </description>
 	</item>
 	
   </channel>

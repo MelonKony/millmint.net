@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>state on MillMint</title>
+	<title>state</title>
 	<link>https://millmint.net/tags/state/</link>
-	<description>Recent content in state on MillMint</description>
+	<description>Recent content in state </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/tags/state/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>state</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureaus</title>
 	  <link>https://millmint.net/utopia/society/industry/bureaus/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/industry/bureaus/</guid>
-	  <description>߷ Part of the industry series of articles Bureaus in Vekllei are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the private markets. As a result, bureaus are concerned primarily with the public good and industrial policy.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/industry/&#34;&gt;industry&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Bureaus&lt;/strong&gt; in Vekllei are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the &lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#domestic-markets&#34;&gt;private markets&lt;/a&gt;. As a result, bureaus are concerned primarily with the public good and industrial policy.&lt;/p&gt;
+&lt;p&gt;Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into &lt;em&gt;company ballots&lt;/em&gt;, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the &lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#international-markets&#34;&gt;Vekllei International Market&lt;/a&gt;, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.&lt;/p&gt;
+&lt;p&gt;The largest bureaus include &lt;em&gt;Electra&lt;/em&gt; and &lt;a href=&#34;https://millmint.net/universal-cotton/&#34;&gt;&lt;em&gt;Universal Cotton&lt;/em&gt;&lt;/a&gt;. Electra represents a collection of state-owned electricity generation companies, and Universal Cotton consists of over a hundred individual clothing manufacturers. Although state monopolies may form a bureau in part or as a whole, bureau membership does not necessarily imply state ownership.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -21,8 +43,20 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/consosva/</guid>
-	  <description>߷ Part of the state series of articles Consosva (a portmanteau of consivismiosn sovis, lit. &amp;ldquo;contributory service&amp;rdquo;) refers to a collection of laws that require adult citizens in Vekllei to be employed. The legal obligation is fairly straightforward and is easily avoided, and in practice acts as a form of moral pressure from the state.
-Consosva is a legal obligation to register an occupation with your municipality, which forwards its ledger to the Vekllei government.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Consosva&lt;/strong&gt; (a portmanteau of &lt;em&gt;consivismiosn sovis&lt;/em&gt;, lit. &amp;ldquo;&lt;em&gt;contributory service&lt;/em&gt;&amp;rdquo;) refers to a collection of laws that require adult citizens in Vekllei to be employed. The legal obligation is fairly straightforward and is easily avoided, and in practice acts as a form of moral pressure from the state.&lt;/p&gt;
+&lt;p&gt;Consosva is a legal obligation to register an occupation with your municipality, which forwards its ledger to the Vekllei government. This is to encourage productivity and discourage &amp;ldquo;social parasitism,&amp;rdquo; as a requirement to contribute to the wealth of society. Failure to do so is considered a crime and is usually penalised with community service.&lt;/p&gt;
+&lt;p&gt;Consosva has many recognised exemptions, including full-time study, participating in Compulsory Service, acting as the primary caregiver of children, and poor health.&lt;/p&gt;
+&lt;p&gt;Consosva applies to Vekllei citizens or permanent residents aged between 22 and 50.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -31,7 +65,18 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/corsosva/</guid>
-	  <description>߷ Part of the state series of articles Corsosva (a portmanteau of corsivis sovis, lit. &amp;ldquo;compulsory service&amp;rdquo;) is the period of civic conscription that applies to all Vekllei citizens. It requires four years of service, served between the ages of 18-32. Although administered by the Department of Compulsory Service of the Ministry of Defence, most citizens perform civilian or industrial work during Corsosva, and only a minority enter the armed forces as conscripts.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Corsosva&lt;/strong&gt; (a portmanteau of &lt;em&gt;corsivis sovis&lt;/em&gt;, lit. &amp;ldquo;&lt;em&gt;compulsory service&lt;/em&gt;&amp;rdquo;) is the period of civic conscription that applies to all Vekllei citizens. It requires four years of service, served between the ages of 18-32. Although administered by the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#department-of-compulsory-service&#34;&gt;Department of Compulsory Service&lt;/a&gt; of the &lt;a href=&#34;https://millmint.net/cosmokos/&#34;&gt;Ministry of Defence&lt;/a&gt;, most citizens perform civilian or industrial work during Corsosva, and only a minority enter the armed forces as conscripts.&lt;/p&gt;
+&lt;p&gt;Individuals entering Corsosva elect their preferences for service, which are then weighted based on experience and ability. The most common form of Corsosva is construction with the &lt;a href=&#34;https://millmint.net/ach/&#34;&gt;Army Construction House&lt;/a&gt;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -40,7 +85,16 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/industry/crown/</guid>
-	  <description> Crown Assets are a kind of state-owned enterprise subordinated to the Vekllei Sovereign, known as the Atlantic Crown or simply Crown. Crown SOEs are owned equally by all full Commonwealth member-states. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Crown Assets are a kind of state-owned enterprise subordinated to the Vekllei Sovereign, known as the &lt;em&gt;Atlantic Crown&lt;/em&gt; or simply &lt;em&gt;Crown&lt;/em&gt;. Crown SOEs are owned equally by all full Commonwealth member-states.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -49,7 +103,238 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/education/</guid>
-	  <description>Overview # ߷ This article is about Vekllei society. Education emerged as a foundational right for Vekllei people in the constitution of the 4th Commonwealth, in the spirit of postwar democratisation and the rising of all people. Education in Vekllei is a good example of the &amp;lsquo;system working backwards,&amp;rsquo; the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition &amp;ndash; children wear uniforms, are divided into school years and learning is arranged and taught in subjects.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/vekllei/&#34;&gt;Vekllei&lt;/a&gt; society.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt; emerged as a foundational right for Vekllei people in the constitution of the 4th Commonwealth, in the spirit of postwar democratisation and the rising of all people.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Education in Vekllei is a good example of the &amp;lsquo;system working backwards,&amp;rsquo; the popular phrase to describe the Floral Period moving in two different directions at once. Is it modern, supplied and robust in the Western tradition &amp;ndash; children wear uniforms, are divided into school years and learning is arranged and taught in subjects. Other aspects of the Vekllei curriculum, like its provisions for extracurricular activities and social clubs, are novel by comparison.&lt;/p&gt;
+&lt;p&gt;There is something quite interesting going on in Vekllei education that is not immediately apparent at its surface. First, compulsory schooling runs between 3-5 days a week, depending on student commitments to elective and extracurricular activities. Government schools do not employ standardised testing, and rely on subject-specific means of assessment including reviews, presentations and portfolios. The &lt;a href=&#34;#curriculum&#34;&gt;Vekllei Curriculum&lt;/a&gt; emphasises practicable and technical skills that blur the lines between school, community and home.&lt;/p&gt;
+&lt;p&gt;Education in Vekllei is considered a foundation of Vekllei democracy, and in the spirit of the Floral Period it is free, abundant and compulsory.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; &lt;a href=&#34;https://millmint.net/documents/&#34;&gt;Document No. 7&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;structure&#34;&gt;
+  Structure
+  &lt;a class=&#34;anchor&#34; href=&#34;#structure&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Download &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; &lt;a href=&#34;https://millmint.net/files/documents/7.pdf&#34;&gt;Document No. 7.pdf&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;administration-and-funding&#34;&gt;
+  Administration and Funding
+  &lt;a class=&#34;anchor&#34; href=&#34;#administration-and-funding&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;All forms of education in Vekllei are free, including for international students at a tertiary level. The system is funded by the &lt;a href=&#34;https://millmint.net/solcom/&#34;&gt;Commonwealth Education Secretariat (SOLCOM)&lt;/a&gt;, which also administers the school curriculum and some schools directly.&lt;/p&gt;
+&lt;h3 id=&#34;schools&#34;&gt;
+  Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#schools&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;There are several different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The &lt;a href=&#34;#uniform&#34;&gt;Vekllei Education Uniform&lt;/a&gt; is compulsory for all students, including at independent schools.&lt;/p&gt;
+&lt;h4 id=&#34;state-schools&#34;&gt;
+  State Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#state-schools&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;State schools (also Central Schools) are administered and funded directly by the Education Secretariat, and are common in cities and in Commonwealth member-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. Some state schools are also district colleges, meaning they serve students from &lt;a href=&#34;#preparatory-school&#34;&gt;Prep&lt;/a&gt; to Year 12 or 13.&lt;/p&gt;
+&lt;h4 id=&#34;community-schools&#34;&gt;
+  Community Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#community-schools&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Community schools are usually administered by a borough or &lt;a href=&#34;https://millmint.net/municipalities/&#34;&gt;municipality&lt;/a&gt;, and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling (called district schools), most serve only primary education. Community schools may also refer to village schools, or community-run schools in the local Vekllei tradition.&lt;/p&gt;
+&lt;h4 id=&#34;studio--technical-schools&#34;&gt;
+  Studio &amp;amp; Technical Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#studio--technical-schools&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track gifted learning. These schools may offer boarding, as only a few studio and technical schools exist across the Commonwealth and smaller member-states may send their students overseas to study there.&lt;/p&gt;
+&lt;h4 id=&#34;faith-schools&#34;&gt;
+  Faith Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#faith-schools&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the &lt;a href=&#34;#curriculum&#34;&gt;Commonwealth curriculum&lt;/a&gt; as a minimum education standard.&lt;/p&gt;
+&lt;h4 id=&#34;boarding-schools&#34;&gt;
+  Boarding Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#boarding-schools&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei offers a handful of boarding schools, which are usually specialised institutions that may operate as orphanages or for international students. Some Vekllei boarding schools include aspects of democratic education.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;
+  Education
+  &lt;a class=&#34;anchor&#34; href=&#34;#education&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/&#34;&gt;Ministry of Commerce&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei people are enrolled in 9 years of compulsory education, provided by the &lt;a href=&#34;https://millmint.net/solsec/&#34;&gt;Commonwealth Education Secretariat&lt;/a&gt; (SOLSEC). In addition, 3 years of pre-school and 3 years of senior secondary schooling are offered but not compulsory. All schools in Vekllei are funded by the state, which include community schools, state schools, studio schools, technical schools, faith schools and state boarding schools.&lt;/p&gt;
+&lt;p&gt;Compared to modern schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/mist.jpg&#34; alt=&#34;Image of Tzipora standing in front of school building&#34;  title=&#34;Misy morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Misy morning in front of the &lt;a href=&#34;https://millmint.net/moshel/&#34;&gt;Moshel St School&lt;/a&gt; | &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/mist/&#34;&gt;Heavy Mist&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised by student leadership, and offer opportunities in industry and tertiary study.&lt;/p&gt;
+&lt;p&gt;Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child&amp;rsquo;s diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.&lt;/p&gt;
+&lt;h3 id=&#34;compulsory-education&#34;&gt;
+  Compulsory Education
+  &lt;a class=&#34;anchor&#34; href=&#34;#compulsory-education&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Vekllei offers preschooling from ages 3 onwards. Garden School, or kindergarten, is for 3 &amp;amp; 4 year-olds in Vekllei, and assists with the transition from home to school, followed by preparatory school, or &amp;lsquo;prep&amp;rsquo;, which is the first year of compulsory primary education.&lt;/p&gt;
+&lt;p&gt;Vekllei primary education consists of 7 years, starting with &lt;a href=&#34;#preparatory-school&#34;&gt;Prep&lt;/a&gt; at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.&lt;/p&gt;
+&lt;p&gt;The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.&lt;/p&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Vekllei Compulsory Schooling&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;Preschool
+&lt;ul&gt;
+&lt;li&gt;Nursery School&lt;/li&gt;
+&lt;li&gt;Garden School&lt;/li&gt;
+&lt;li&gt;Preparatory School&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Primary School (Years 1-6)&lt;/li&gt;
+&lt;li&gt;Secondary School (Years 7-10)&lt;/li&gt;
+&lt;li&gt;College (Years 11-12)&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;tertiary-education&#34;&gt;
+  Tertiary Education
+  &lt;a class=&#34;anchor&#34; href=&#34;#tertiary-education&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The Commonwealth invests heavily in tertiary education as both a social good and a product marketable overseas. Vekllei universities rank highly abroad, and education as a service is a major export of Vekllei, and contributes to Vekllei&amp;rsquo;s reputation as an international capital of finance and skilled labour.&lt;/p&gt;
+&lt;p&gt;Universities in Vekllei offer places to students who have completed their Education Award and satisfy the prerequisites for their subject. These requirements differ between subjects, and usually include an interview with the admissions board.&lt;/p&gt;
+&lt;p&gt;In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time.&lt;/p&gt;
+&lt;h4 id=&#34;university&#34;&gt;
+  University
+  &lt;a class=&#34;anchor&#34; href=&#34;#university&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Vekllei International University offers&lt;/p&gt;
+&lt;h4 id=&#34;vocational-schools&#34;&gt;
+  Vocational Schools
+  &lt;a class=&#34;anchor&#34; href=&#34;#vocational-schools&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;h2 id=&#34;curriculum&#34;&gt;
+  Curriculum
+  &lt;a class=&#34;anchor&#34; href=&#34;#curriculum&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.&lt;/p&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Commonwealth International Curriculum&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;Arts&lt;/li&gt;
+&lt;li&gt;Vekllei Languages&lt;/li&gt;
+&lt;li&gt;Foreign Languages&lt;/li&gt;
+&lt;li&gt;Health and Physical Education&lt;/li&gt;
+&lt;li&gt;Civic Sciences and Stewardship&lt;/li&gt;
+&lt;li&gt;Economics and Business&lt;/li&gt;
+&lt;li&gt;World Study&lt;/li&gt;
+&lt;li&gt;Political Sciences and History&lt;/li&gt;
+&lt;li&gt;Mathematics&lt;/li&gt;
+&lt;li&gt;Material Sciences and Electronics&lt;/li&gt;
+&lt;li&gt;Work Studies&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;uniform&#34;&gt;
+  Uniform
+  &lt;a class=&#34;anchor&#34; href=&#34;#uniform&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/uniforms/&#34;&gt;Uniforms in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/generation.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Examples of Vekllei school uniform and its functional diversity&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;All schools in Vekllei share the Education Uniform, made compulsory by the &lt;a href=&#34;https://millmint.net/solsec/&#34;&gt;Education Secretariat&lt;/a&gt;. The Vekllei uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Boys&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Girls&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Top&lt;/td&gt;
+&lt;td&gt;&lt;ul&gt; &lt;li&gt;White collared shirt, tucked shirttails&lt;/li&gt; &lt;li&gt;Black school tie&lt;/li&gt; &lt;li&gt;Navy cape or mackintosh raincoat&lt;/li&gt; &lt;li&gt;Navy jumper or sweater&lt;/li&gt; &lt;li&gt;Navy blazer or sports jacket&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
+&lt;td&gt;&lt;ul&gt; &lt;li&gt;White blouse, tucked shirttails&lt;/li&gt; &lt;li&gt;Black or red school tie or floral piece&lt;/li&gt; &lt;li&gt;Navy cape, pettycape or mackintosh raincoat&lt;/li&gt; &lt;li&gt;Navy jumper or sweater&lt;/li&gt; &lt;li&gt;Navy pinafore or gymslip&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bottom&lt;/td&gt;
+&lt;td&gt;&lt;ul&gt; &lt;li&gt;Navy trousers or shorts&lt;/li&gt; &lt;li&gt;Dark or brown belt&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
+&lt;td&gt;&lt;ul&gt; &lt;li&gt;Navy skirt or trousers&lt;/li&gt; &lt;li&gt;White traditional trousers&lt;/li&gt; &lt;li&gt;Dark or brown belt&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shoes&lt;/td&gt;
+&lt;td&gt;&lt;ul&gt; &lt;li&gt;Dark or brown leather shoes&lt;/li&gt; &lt;li&gt;Dark socks&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
+&lt;td&gt;&lt;ul&gt; &lt;li&gt;Dark or brown leather shoes&lt;/li&gt; &lt;li&gt;white socks&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The colours of uniforms may vary in constituent member-states of the Commonwealth &amp;ndash; for example, the Kalina Isles use dark green in place of navy. Nonetheless, the Education Uniform standards are set at the Commonwealth level and are generally adopted in whole.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/kalinauniform.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Examples of Caribbean Commonwealth school uniform featuring local dress.&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;Although the items are not issued by individual schools, they are provided by the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/education/#all-commonwealth-school-directorate&#34;&gt;ACC&lt;/a&gt; on request and as such constitute a uniform rather than a dress code. The uniform system was designed in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.&lt;/p&gt;
+&lt;p&gt;Many schools make use of felt armbands to distinguish students or to signal membership in clubs or student councils. These are traditionally red, but may also be green or blue depending on their use.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -58,7 +343,73 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/espionage/</guid>
-	  <description>Overview # ߷ This article is about Vekllei. Espionage is a considerable strength of the 4th Commonwealth, while also incurring a growing cost. Its assertive and risky operations, some of which have ended in catastrophe, inflict considerable damage on its image abroad, and isolate it from European and American powers. But this assertiveness has also built a fearsome, modern and sprawling intelligence network that meets or surpasses even that of much greater superpowers.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#what-is-vekllei&#34;&gt;Vekllei&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Espionage&lt;/strong&gt; is a considerable strength of the 4th Commonwealth, while also incurring a growing cost. Its assertive and risky operations, some of which have ended in catastrophe, inflict considerable damage on its image abroad, and isolate it from European and American powers. But this assertiveness has also built a fearsome, modern and sprawling intelligence network that meets or surpasses even that of much greater superpowers. Unsentimental, unideological and unflinching, espionage in Vekllei is conducted constantly and vigorously with the blessing &amp;ndash; or at least willing blindness &amp;ndash; of the state.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Espionage in Vekllei is considered the &amp;lsquo;first thorn&amp;rsquo; of &amp;lsquo;assertive defence&amp;rsquo; practiced by the 4th Commonwealth. It is maintained offensively, as operations, and defensively as counterintelligence. The means by which it does are a source of endless contention in Commonwealth parliaments, the Vekllei public and foreign governments,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; but since independence in 2015 espionage has been conducted much the same &amp;ndash; and so can be assumed to be achieving strategic goals.&lt;/p&gt;
+&lt;p&gt;Overseas strategic and industrial espionage primarily falls under the control of the Commonwealth National Intelligence Directorate, usually called Noshem, which maintains several subordinate bureaus organised regionally.&lt;/p&gt;
+&lt;p&gt;Current intelligence doctrine values &amp;lsquo;signal operations&amp;rsquo; &amp;ndash; visible strategic actions that &amp;lsquo;signal&amp;rsquo; messages to public enemies of the Commonwealth state, and maintaining plausible deniability. The line between civilian and military intelligence operations is not always clear, and Noshem is implicated in assassinations and executions of state enemies overseas. The Vekllei intelligence community is known to recruit ideological and nationalist sympathisers to perform actions on behalf of the state, and to this end has among the largest networks of informants of any espionage ring in the world.&lt;/p&gt;
+&lt;h2 id=&#34;operations&#34;&gt;
+  Operations
+  &lt;a class=&#34;anchor&#34; href=&#34;#operations&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;noshem&#34;&gt;
+  Noshem
+  &lt;a class=&#34;anchor&#34; href=&#34;#noshem&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;🏹&lt;/span&gt; &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/security/#national-intelligence-directorate&#34;&gt;Noshem&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Noshem,&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; the traditional name for the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/security/#national-intelligence-directorate&#34;&gt;National Intelligence Directorate&lt;/a&gt; is the secret service of the Commonwealth and is responsible for most of its overseas espionage. It has a legendary reputation for the size and quality of its informants network, and is highly feared because of its history of ruthlessness, including extrajudicial assassinations and executions. Plausible deniability makes it difficult to tell how much of its work is sanctioned by parliaments or acted out by individual Vekllei people, and the organisation generates considerable controversy. Noshem has had several publicised tactical successes as well as failures, and is considered a critical aspect of Commonwealth security as a &amp;lsquo;jewelled sabre&amp;rsquo; of the non-aligned movement.&lt;/p&gt;
+&lt;p&gt;Noshem operates 40 outlines across 6 bureaus, which are organised regionally and contain semiautonomous command and logistics elements.&lt;/p&gt;
+&lt;h3 id=&#34;security-directorates&#34;&gt;
+  Security Directorates
+  &lt;a class=&#34;anchor&#34; href=&#34;#security-directorates&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/security/#state-secrets-office&#34;&gt;State Secrets Office&lt;/a&gt; is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by &lt;a href=&#34;#noshem&#34;&gt;Noshem&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;adsem&#34;&gt;
+  Adsem
+  &lt;a class=&#34;anchor&#34; href=&#34;#adsem&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Adsem is the military intelligence department of the Vekllei Armed Forces. It co-ordinates with the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/&#34;&gt;Interior Parliament&lt;/a&gt; via the Ministry of Defence&amp;rsquo;s &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#intelligence-liaison-office&#34;&gt;Intelligence Liasion Office&lt;/a&gt;, and is concerned primarily with counterintelligence operations and strategic information relevant to war. Like the Security Directorates, most of Adsem&amp;rsquo;s espionage is conducted by Noshem. In turn, Adsem supplies much of Noshem&amp;rsquo;s matériel, and many of its elite intelligence units are recruited from military commando and special forces sections. Adsem may also assist in the logistics of Noshem espionage operations.&lt;/p&gt;
+&lt;h3 id=&#34;recruitment&#34;&gt;
+  Recruitment
+  &lt;a class=&#34;anchor&#34; href=&#34;#recruitment&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Vekllei human intelligence is generally considered superior to that of the CIA, and may even be comparable to the KGB in scope and quality. Human intelligence is the basis of contemporary Vekllei intelligence-gathering, and the intelligence state gathers and processes massive amounts of information on foreign nationals, companies, and governments. It relies on enormous, concentric rings of highly motivated unpaid sympathisers that help Noshem in passing messages, inserting agents and obscuring information.&lt;/p&gt;
+&lt;p&gt;There are several classes of sympathiser &amp;ndash; some are ideologically motivated in the anarchist or pan-Atlanticist tradition, factions which the Vekllei government is willing to recognise or indulge publicly to stir positive and negative press and distinguish itself from the cold war dichotomy. Others are nationalists who help out of a sense of devotion to Vekllei, since several million Vekllei people fled after the Atomic War. Although many returned in the years after independence, there remains a large Vekllei diaspora throughout the world and especially in the United States and Western Europe, and many members continue to hold a sense of duty towards the country.&lt;/p&gt;
+&lt;p&gt;This network of sympathisers is aided by Vekllei&amp;rsquo;s postwar internationalism and multiracialism, emphasising political and geographic traits that appeal to young, educated people. Where duty fails, cash often suffices, and tremendous amounts of state funds are siphoned discretely from other Ministerial budgets to fund a network of paid informants. The total number of informants is impossible to know, but is estimated to number tens of thousands across the U.S., U.K., France, Russia, Yugoslavia, China and South-East Asia.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This controversy has prompted several commissions and parliamentary inquests by the Vekllei Comptroller, and continues to generate debate in Vekllei society. It is also a popular subject of conspiracy theorising.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Noshem is the name of the spirit-god of secrets in Vekllei mythology.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -67,7 +418,143 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/finance/</guid>
-	  <description>߷ This article is about Vekllei Even if they do not use money, Vekllei people do have finances and engage with markets, maintain business relations and acquire financial instruments for upward mobility. The Vekllei state, on the other hand, is an enthusiastic participant in the global financial system and uses its considerable advantages enabled by the isolated moneyless Vekllei economy to accomplish its strategic political interests. Overview # The colloquial turn-of-phrase for the domestic Vekllei economy is &amp;ldquo;functionally moneyless,&amp;rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#what-is-vekllei&#34;&gt;Vekllei&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Even if they do not use money&lt;/strong&gt;, Vekllei people do have finances and engage with markets, maintain business relations and acquire financial instruments for upward mobility. The Vekllei state, on the other hand, is an enthusiastic participant in the global financial system and uses its considerable advantages enabled by the isolated moneyless Vekllei economy to accomplish its strategic political interests.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The colloquial turn-of-phrase for the domestic Vekllei economy is &amp;ldquo;functionally moneyless,&amp;rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and has a reputation as an &amp;ldquo;Atlantic Middleman.&amp;rdquo; Vekllei&amp;rsquo;s facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.&lt;/p&gt;
+&lt;p&gt;Vekllei&amp;rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (&lt;a href=&#34;#domestic-markets&#34;&gt;domestic&lt;/a&gt;) and secondary (&lt;a href=&#34;#international-markets&#34;&gt;international&lt;/a&gt;) markets, which are the reason for its &lt;a href=&#34;#currency&#34;&gt;twin currencies&lt;/a&gt; and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the &lt;a href=&#34;https://millmint.net/cosmosol/&#34;&gt;Ministry of Commerce&lt;/a&gt;, which acts as both a financial regulator and investment bank.&lt;/p&gt;
+&lt;h2 id=&#34;markets&#34;&gt;
+  Markets
+  &lt;a class=&#34;anchor&#34; href=&#34;#markets&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/&#34;&gt;Ministry of Commerce&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;domestic-markets&#34;&gt;
+  Domestic Markets
+  &lt;a class=&#34;anchor&#34; href=&#34;#domestic-markets&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like &lt;a href=&#34;#international-markets&#34;&gt;VKIM&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa.&lt;/p&gt;
+&lt;h3 id=&#34;industrial-markets&#34;&gt;
+  Industrial Markets
+  &lt;a class=&#34;anchor&#34; href=&#34;#industrial-markets&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless &lt;a href=&#34;#domestic-markets&#34;&gt;Domestic Market&lt;/a&gt; and the &lt;a href=&#34;#international-markets&#34;&gt;VKIM&lt;/a&gt;. There are two kinds of industrial firm in Vekllei:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Senrouive&lt;/strong&gt;: private enterprises&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venrouive&lt;/strong&gt;: public enterprises with membership in an industrial &lt;a href=&#34;https://millmint.net/bureaus/&#34;&gt;bureau&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Venrouive&lt;/em&gt; (also known as public companies in Vekllei) are enterprises beholden to &lt;a href=&#34;https://millmint.net/bureaus/&#34;&gt;industrial bureaus&lt;/a&gt;, which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.&lt;/p&gt;
+&lt;p&gt;Both senrouive and venrouive companies may participate in the international market, but only bureaus (and by extension, participating venrouive companies) may trade directly with overseas governments and enterprises.&lt;/p&gt;
+&lt;h3 id=&#34;international-markets&#34;&gt;
+  International Markets
+  &lt;a class=&#34;anchor&#34; href=&#34;#international-markets&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Download &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; &lt;a href=&#34;https://millmint.net/files/documents/9.pdf&#34;&gt;Document No. 9.pdf&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the &lt;a href=&#34;https://millmint.net/cosmosol/&#34;&gt;Ministry of Commerce&lt;/a&gt; as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the state&amp;rsquo;s liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.&lt;/p&gt;
+&lt;p&gt;The International Market is the means by which the capital account&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the &lt;a href=&#34;#currency&#34;&gt;Vekllei currencies&lt;/a&gt; serves as a form of sterilisation and capital control, controlled directly by the central &lt;a href=&#34;#bank-of-vekllei&#34;&gt;Bank of Vekllei&lt;/a&gt;. Vekllei has the world&amp;rsquo;s 2nd-largest foreign currency reserves.&lt;/p&gt;
+&lt;h2 id=&#34;currency&#34;&gt;
+  Currency
+  &lt;a class=&#34;anchor&#34; href=&#34;#currency&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2020-06-24-crown/&#34;&gt;The Vekllei Crown&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei has two currencies that are more or less opposed in their use as money, known as the twin crowns system. The Vekllei Crown (❦VK) is a gold-backed, fixed-rate deflationary currency used primarily as a wealth reserve, and the Government Crown (✾AK) is a fiat, floating-exchange currency used for foreign investment and trade. This system preserves the isolation of the Vekllei primary economy, which is moneyless, while insulating state investments from shocks and from having to burn liquidity to maintain its exchange rate.&lt;/p&gt;
+&lt;p&gt;Together, the twin crowns allow for the Vekllei state to retain unprecedented control over its financial system while securing a mechanism for foreign investment and growth.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The domestic market is autarkic and does not have free capital exchange, allowing it to maintain its fixed price and independent monetary policy&lt;/li&gt;
+&lt;li&gt;The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the &lt;a href=&#34;https://millmint.net/cosmosol/&#34;&gt;Ministry of Commerce&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For a variety of political and economic reasons, the Vekllei Commonwealth state aims to be self-sufficient. The twin crowns system provides a means to isolate its productive primary economy while also allowing foreign money controlled access to it. The unmoneyed primary economy remains a popular investment for its stability.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; As capital controls have broken down in the mid-2030s, Vekllei&amp;rsquo;s current macroeconomic policy exists as a &amp;ldquo;third way&amp;rdquo; between closed autarky and recent trends towards an open economic international market.&lt;/p&gt;
+&lt;h3 id=&#34;vekllei-crown-vk&#34;&gt;
+  Vekllei Crown (❦VK)
+  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-crown-vk&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;Vekllei Kroner&lt;/em&gt; (lit. &lt;em&gt;Vekllei Crown&lt;/em&gt;) is the primary and historic currency of Vekllei. It is minted by the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/#national-mint-of-vekllei&#34;&gt;National Mint&lt;/a&gt; as a souvenir in the tradition of Vekllei &lt;em&gt;medals&lt;/em&gt;,&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the &lt;a href=&#34;#international-markets&#34;&gt;VKIM&lt;/a&gt; directly, but can be purchased as a &lt;a href=&#34;#white-bonds&#34;&gt;White Bond&lt;/a&gt; as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.&lt;/p&gt;
+&lt;h3 id=&#34;government-crown-ak&#34;&gt;
+  Government Crown (✾AK)
+  &lt;a class=&#34;anchor&#34; href=&#34;#government-crown-ak&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;Government/Commonwealth Kroner&lt;/em&gt; (also the &lt;em&gt;Atlantic Kroner&lt;/em&gt; or &lt;em&gt;Crown&lt;/em&gt;) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the &lt;a href=&#34;#international-markets&#34;&gt;VKIM&lt;/a&gt; and a means for overseas actions in the Vekllei economy.&lt;/p&gt;
+&lt;p&gt;The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK&amp;rsquo;s relative security and reliability, backed by powerful domestic institutions.&lt;/p&gt;
+&lt;h2 id=&#34;banking&#34;&gt;
+  Banking
+  &lt;a class=&#34;anchor&#34; href=&#34;#banking&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/#bank-of-vekllei&#34;&gt;Banks of Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; All banks in Vekllei are run as state-owned enterprises, and subordinated to the &amp;lsquo;&lt;em&gt;Old Lady&lt;/em&gt;,&amp;rsquo; the colloquial name for the central &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/#bank-of-vekllei&#34;&gt;Bank of Vekllei&lt;/a&gt;. &amp;lsquo;Unbanking&amp;rsquo; policy &amp;ndash; the effective demonetisation of the Vekllei domestic markets &amp;ndash; saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.&lt;/p&gt;
+&lt;p&gt;Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like &lt;a href=&#34;#international-markets&#34;&gt;VKIM&lt;/a&gt;, or provide lending and contracts for new businesses in the &lt;a href=&#34;#industrial-markets&#34;&gt;industrial market&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;bank-of-vekllei&#34;&gt;
+  Bank of Vekllei
+  &lt;a class=&#34;anchor&#34; href=&#34;#bank-of-vekllei&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The Bank of Vekllei (also &lt;em&gt;Labour Bank of Vekllei&lt;/em&gt; and &lt;em&gt;Old Lady&lt;/em&gt;) is Vekllei&amp;rsquo;s central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/&#34;&gt;Ministry of Commerce&lt;/a&gt; and sets the monetary policy of Vekllei. It is primarily a macroeconomic institution that does not deal directly with the primary or secondary markets, but does over institutional banking services and complex financing for some markets in the Commonwealth.&lt;/p&gt;
+&lt;h4 id=&#34;personal-banking&#34;&gt;
+  Personal Banking
+  &lt;a class=&#34;anchor&#34; href=&#34;#personal-banking&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Despite the functional moneylessness of the Commonwealth, banks do facilitate financial transactions with the common Vekllei person. Aside from its policy features (like holiday allowances and emigration stipends), most trade arrangements operate in the bank system, usually through the &lt;em&gt;Sisterbank&lt;/em&gt;. Sisterbank (formally the &lt;em&gt;Petty Bank of Vekllei&lt;/em&gt;) is a merchant bank that specialises in industrial brokerage, allowing small businesses to trade with others and stimulate economic activity. Vekllei persons looking to start a restaurant, workshop or store generally do so through the Sisterbank, which assigns a bank agent and enters the business in its internal market ledger. Not all small business in Vekllei is conducted through the an agent, but certain types of industries (particularly businesses involved in manufacturing) are almost all banked with Sisterbank.&lt;/p&gt;
+&lt;p&gt;In addition to government banks, money bureaus (also &lt;em&gt;Money Unions&lt;/em&gt;) are a form of cooperative credit union premised on private business associations and securitised lending, and are common in Vekllei agriculture.&lt;/p&gt;
+&lt;h4 id=&#34;institutional-banking&#34;&gt;
+  Institutional Banking
+  &lt;a class=&#34;anchor&#34; href=&#34;#institutional-banking&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for &lt;a href=&#34;https://millmint.net/bureaus/&#34;&gt;bureaus&lt;/a&gt; seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles. In addition, the Bank of Vekllei maintains several subsidiaries dedicated to special financial products, like low-interest domestic infrastructure financing or overseas trade and investment.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;An entrepôt is a port where merchandise is stored and traded, often before being exported again.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The Commonwealth capital account runs at a deficit as part of a post-war investment policy called &amp;lsquo;Handshake Accounting,&amp;rsquo; which sees tremendous surplus state capital invested overseas.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Foreign investment in the primary economy is usually made in the form of state-backed &lt;a href=&#34;#blue-bonds&#34;&gt;Blue Bonds&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;&amp;lsquo;Municipalised,&amp;rsquo; in Vekllei political lexicon.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -76,7 +563,149 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/</guid>
-	  <description>The Vekllei Government is the supranational parliamentary government of the Vekllei Islands and the members, dependent states and territories of the Vekllei Commonwealth. It is distinct from the Palace of Vekllei, the monarch and sovereign of the Vekllei Commonwealth. The Government of Vekllei 🌸Crown Parliament ⚖️Courts of the Crown (coming soon) 💼Fair Work Authority (coming soon) 🗳️Vekllei Democracy Commissariat (coming soon) 🌸Commonwealth Parliament ⚒️Commonwealth Construction Secretariat (coming soon) 🏵Commonwealth Culture Secretariat (coming soon) 🎓Commonwealth Education Secretariat (coming soon) ⚕️Commonwealth Health Secretariat (coming soon) ⛓️Commonwealth Labour Secretariat (coming soon) 🏹Commonwealth Security Secretariat 🌸Interior Parliament 🪙Ministry of Commerce 🚧Ministry of the Commons (coming soon) 🌐Ministry of the Commonwealth ⚔️Ministry of Defence 🌍Ministry of Foreign Affairs (coming soon) ⚙️Ministry of Industry (coming soon) 🌋Ministry of Landscape (coming soon) 🔌Ministry of Light &amp;amp; Water ⛏️Ministry of Syndicates &amp;amp; Chapels (coming soon) 🚃Ministry of Transport (coming soon) Overview # ߷ This article is about the Vekllei state Vekllei is positioned uniquely between the anarchy and control.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The &lt;strong&gt;Vekllei Government&lt;/strong&gt; is the supranational parliamentary government of the Vekllei Islands and the members, dependent states and territories of the Vekllei Commonwealth. It is distinct from the &lt;a href=&#34;https://millmint.net/utopia/society/state/palace&#34;&gt;&lt;strong&gt;Palace of Vekllei&lt;/strong&gt;&lt;/a&gt;, the monarch and sovereign of the Vekllei Commonwealth.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;The Government of Vekllei&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/crown/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌸&lt;/span&gt;Crown Parliament&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚖️&lt;/span&gt;Courts of the Crown (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;💼&lt;/span&gt;Fair Work Authority (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🗳️&lt;/span&gt;Vekllei Democracy Commissariat (coming soon)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌸&lt;/span&gt;Commonwealth Parliament&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚒️&lt;/span&gt;Commonwealth Construction Secretariat (coming soon)&lt;/li&gt;
+&lt;li&gt;
+&lt;!--&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/culture&#34;&gt;--&gt;&lt;span class=&#34;navicon&#34;&gt;🏵&lt;/span&gt;Commonwealth Culture Secretariat (coming soon)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;!--&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/education&#34;&gt;--&gt;&lt;span class=&#34;navicon&#34;&gt;🎓&lt;/span&gt;Commonwealth Education Secretariat (coming soon)
+&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚕️&lt;/span&gt;Commonwealth Health Secretariat (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛓️&lt;/span&gt;Commonwealth Labour Secretariat (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/security&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🏹&lt;/span&gt;Commonwealth Security Secretariat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌸&lt;/span&gt;Interior Parliament&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🪙&lt;/span&gt;Ministry of Commerce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚧&lt;/span&gt;Ministry of the Commons (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commonwealth&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌐&lt;/span&gt;Ministry of the Commonwealth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;⚔️&lt;/span&gt;Ministry of Defence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌍&lt;/span&gt;Ministry of Foreign Affairs (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚙️&lt;/span&gt;Ministry of Industry (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌋&lt;/span&gt;Ministry of Landscape (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/light-and-water&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🔌&lt;/span&gt;Ministry of Light &amp;amp; Water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛏️&lt;/span&gt;Ministry of Syndicates &amp;amp; Chapels (coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚃&lt;/span&gt;Ministry of Transport (coming soon)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint teal&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about the &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;https://millmint.net/utopia/society/state/&#34;&gt;state&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt; is positioned uniquely between the anarchy and control. This article looks at its government, which facilitates and manages these competing instincts. As the representative of the Vekllei state, and the body of its human interests, the Vekllei Government is second only to the Sovereign in its authority over Vekllei society.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;The Government of Vekllei&lt;/strong&gt; refers to both the &lt;a href=&#34;https://millmint.net/utopia/society/government/#administration-of-the-interior&#34;&gt;Administration of the Interior&lt;/a&gt; of the &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;Vekllei Islands&lt;/a&gt; and the &lt;a href=&#34;https://millmint.net/utopia/society/government/#administration-of-the-commonwealth&#34;&gt;international governing body&lt;/a&gt; of the Vekllei Commonwealth. This article and its sub-articles serve as a handbook to all departments of the Vekllei Government, and will help clarify the structure and responsibilities of its subordinate ministries and secretariats. These centralised features guide the busy and anarchic Vekllei economies to produce a standard of living unlike anywhere else in the world, celebrating local, departmentalised and democratic government in the 21st Century.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ll be damned if some jumped-up Municipal leech is going to tell me where I can and can&amp;rsquo;t make friends.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Tzipora Desmoisnes&lt;/p&gt;
+&lt;h3 id=&#34;structure&#34;&gt;
+  Structure
+  &lt;a class=&#34;anchor&#34; href=&#34;#structure&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;What we know as the &amp;lsquo;Vekllei Government&amp;rsquo; is portioned between several powerful state bodies, each representing the natural political concerns of the modern Vekllei state. These bodies are both autonomous and codependent, carving the sovereignty and authority of the state across several governing organs of varying size and scope. These are, in order of sovereignty:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Palace of the Vekllei Sovereign&lt;/strong&gt;, the metaphysical manifestation of all Vekllei territory and its collective geographic, cultural and religious features. It represents the cumulative historical essence of the physical place of Vekllei, and bridges relationships between humans, nature and spirits. The Palace, as representative of the land itself, is the true sovereign of Vekllei and as such retains control over the armed forces of the Commonwealth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Parliaments of the Vekllei Commonwealth&lt;/strong&gt; including, in order of authority:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Crown Parliament (also the &lt;em&gt;Crown Sovereign&lt;/em&gt;, &lt;em&gt;Parliament of Spirits&lt;/em&gt; and &lt;em&gt;Administration of the Crown&lt;/em&gt; interchangeably), representing the rule of the Land Sovereign and its presence in the state.&lt;/li&gt;
+&lt;li&gt;The Commonwealth Parliament (also the &lt;em&gt;Administration of the Commonwealth&lt;/em&gt;), responsible for the maintenance, development and security of the Vekllei Commonwealth, including its territories.&lt;/li&gt;
+&lt;li&gt;The Interior Parliaments (also the &lt;em&gt;Administrations of the Interior&lt;/em&gt; interchangeably), responsible for the internal governance of the Vekllei member-states, primarily used in reference to the interior parliaments of the Vekllei Home Islands.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Under this arrangement, it is clear that the sovereignty of Vekllei and its Commonwealth members is somewhat obfuscated &amp;ndash; the Crown, Commonwealth and Interior administrations all share overlapping &lt;em&gt;de jure&lt;/em&gt; control over the affairs of Vekllei territories. In addition, the word &amp;lsquo;Vekllei,&amp;rsquo; commonly used to refer to the Vekllei Home Islands, is also used interchangeably to describe states beyond its geography. For example, the &amp;lsquo;Vekllei Commonwealth&amp;rsquo; in fact refers to membership in the Crown, of which Vekllei is an equal member but does not otherwise, in principle, control as a legal metropole. The Kalina Islands, Kala, Demon and other full members of the Commonwealth are equal autonomous members, but nonetheless inherit the Vekllei name.&lt;/p&gt;
+&lt;p&gt;In this state of affairs, Vekllei can refer to the powerful member-state in the North Atlantic, the Commonwealth it belongs to, or, indeed, the Crown Sovereign itself. Unfortunately for foreigners, its use is generally dependent on context.&lt;/p&gt;
+&lt;h2 id=&#34;government-of-the-vekllei-commonwealth&#34;&gt;
+  Government of the Vekllei Commonwealth
+  &lt;a class=&#34;anchor&#34; href=&#34;#government-of-the-vekllei-commonwealth&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The Government of Vekllei is divided between three parliaments &amp;ndash; the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior&#34;&gt;Interior Parliament&lt;/a&gt;, the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth&#34;&gt;Commonwealth Parliament&lt;/a&gt; and the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/crown/&#34;&gt;Crown Parliament&lt;/a&gt;. Neither is particularly subordinate to the other, and they serve different purposes in the lives of Vekllei people.&lt;/p&gt;
+&lt;p&gt;In general, the Interior Parliament is responsible for the standard of living in the Vekllei Home Islands and dependent autonomous regions like Demon and the Aismious islands. The Commonwealth Parliament is responsible for all features of the transnational Commonwealth superstate, standardising governance and state services while advocating for &amp;lsquo;Floral Society&amp;rsquo; under the Floral Constitution.&lt;/p&gt;
+&lt;p&gt;Together, these two parliaments make up the combined Government of Vekllei. It is made up of Ministries, Offices, Departments, Bureaus, Commissions, Directorates and Secretariats depending on the size, purpose and structure of the state body. This is the government that people living in the Vekllei Home Islands vote for, via the nonpartisan representatives system.&lt;/p&gt;
+&lt;div class=&#34;section &#34;&gt;
+  &lt;div class=&#34;box &#34;&gt;
+  &lt;h3 id=&#34;parliament-of-the-interior&#34;&gt;
+  Parliament of the Interior
+  &lt;a class=&#34;anchor&#34; href=&#34;#parliament-of-the-interior&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior&#34;&gt;The Interior Parliament&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The &lt;em&gt;Administration of the Interior of the Government of Vekllei&lt;/em&gt; (also known as the &lt;em&gt;Interior Government&lt;/em&gt; or &lt;em&gt;Interior Parliament&lt;/em&gt;) represents the human state of the Vekllei Home Islands, as well as its dependent possessions. It includes all 100 &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/&#34;&gt;boroughs&lt;/a&gt; of the Home Islands and its peripheral island possessions. Independent Commonwealth member-states Demon and Aismious lack the population to govern themselves independently, and so are dependent on the Interior Government. Other members of the Commonwealth, including Kalina, Kala and Mira, have parliaments (also called Interior Administrations) similar to the Vekllei Administration of the Interior.&lt;/p&gt;
+&lt;p&gt;The Interior Government is made up of 10 ministries which retain total authority over the state in Vekllei.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;box &#34;&gt;
+  &lt;h3 id=&#34;parliament-of-the-commonwealth&#34;&gt;
+  Parliament of the Commonwealth
+  &lt;a class=&#34;anchor&#34; href=&#34;#parliament-of-the-commonwealth&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth&#34;&gt;The Commonwealth Parliament&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Although each member of the Atlantic Commonwealth is considered a full participant of equal importance, administration in practice occurs in the &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;Vekllei Islands&lt;/a&gt;, its most populous and industrious member state. Many features of Floral Society are universal among Commonwealth members, and the Administration of the Commonwealth serves, maintains and standardises the values of Floral Society across the Atlantic.
+&lt;/div&gt;
+&lt;div class=&#34;box &#34;&gt;
+  &lt;h3 id=&#34;parliament-of-the-crown&#34;&gt;
+  Parliament of the Crown
+  &lt;a class=&#34;anchor&#34; href=&#34;#parliament-of-the-crown&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/crown&#34;&gt;The Crown Parliament&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The &lt;em&gt;Commonwealth Administration of the Crown&lt;/em&gt; (also the Crown Sovereign and Parliament of Spirits interchangeably), not to be confused with the &lt;a href=&#34;https://millmint.net/utopia/society/government/#palace-of-the-vekllei-sovereign&#34;&gt;Palace of the Vekllei Sovereign&lt;/a&gt;, is the administration-level apparatus of the Commonwealth to coordinate policy with the Palace. Since the Commonwealth does not have direct authority over the features of the Sovereign, the Crown Parliament acts as its human representative in Vekllei government. Although it sits above the Commonwealth and Interior parliaments in sovereignty, its responsibilities are limited to constitutional matters and aspects of the Vekllei legal system.
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -85,7 +714,25 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/housing/</guid>
-	  <description>߷ Part of the state series of articles Housing in Vekllei is socialised in the Georgist tradition. It is a recognition that all wealth lies in land, the resources beneath it, and the people that work it. In this sense, housing in Vekllei is just as radical and striking as its moneylessness. All real estate in Vekllei is negotiated, purchased and leased at a municipal level. This system depends heavily on stewardship as a factor of ownership.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Housing&lt;/strong&gt; in Vekllei is socialised in the Georgist tradition. It is a recognition that all wealth lies in land, the resources beneath it, and the people that work it. In this sense, housing in Vekllei is just as radical and striking as its moneylessness.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;All real estate in Vekllei is negotiated, purchased and leased at a &lt;a href=&#34;https://millmint.net/municipalities/&#34;&gt;municipal&lt;/a&gt; level. This system depends heavily on stewardship as a factor of ownership. Most free homes are rented on an open market and are awarded via an interview process with the municipality, though there are many exceptions. In general, the more time a resident spends working a property, the more powerful their claim to ownership becomes. In this sense, multigenerational family homes are nearly impossible to challenge in the delicture courts.&lt;/p&gt;
+&lt;p&gt;As part of &lt;a href=&#34;https://millmint.net/metaphysics/&#34;&gt;Vekllei metaphysics&lt;/a&gt;, land has rights and owns itself. Human ownership is foremost a contract with the land, and the municipality is positioned as an intermediary. In practice, land ownership is portioned between different agents based on their relationship with the property. The municipality may retain a monopoly on real estate, but most Vekllei people own their residences. All residences are designed by architects, who are an essential agent of the municipality in Vekllei.&lt;/p&gt;
+&lt;p&gt;Real estate is also used as &lt;a href=&#34;https://millmint.net/news/essays/moneylessness/#why-do-vekllei-people-work&#34;&gt;compensation&lt;/a&gt;. Doctors are usually housed close to their place of work in homes built for that purpose. Tenancy in Vekllei is generally of this type, where homes are tied to employment. In the Vekllei delicture system, longtime employees gradually wrest ownership away from the municipality, and homes are commonly gifted after ten or fifteen years of service.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -94,8 +741,19 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/interim/</guid>
-	  <description>߷ Part of the state series of articles The Interim Vekllei Government (also the Interim Parliament and Interim Prosperity Government) was a temporary puppet state of the United Kindgom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.
-Included was a majority female council, many of whom were socialists opposed to communist unrest in British-occupied Vekllei and were seen as a strategic alternative to a hostile communist government upon British withdrawal.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;strong&gt;Interim Vekllei Government&lt;/strong&gt; (also the &lt;em&gt;Interim Parliament&lt;/em&gt; and &lt;em&gt;Interim Prosperity Government&lt;/em&gt;) was a temporary puppet state of the United Kindgom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.&lt;/p&gt;
+&lt;p&gt;Included was a majority female council, many of whom were socialists opposed to communist unrest in British-occupied Vekllei and were seen as a strategic alternative to a hostile communist government upon British withdrawal. The council were responsible for draughting the Vekllei Constitution and establishing Interim Ministries in anticipation of independence.&lt;/p&gt;
+&lt;p&gt;After independence in 2017, the Vekllei Interim Government became the 4th Commonwealth of Vekllei.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -104,7 +762,41 @@ Included was a majority female council, many of whom were socialists opposed to 
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/municipalities/</guid>
-	  <description>✿ Read more: The Good, The Municipal Municipalities are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen. Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/municipal/&#34;&gt;The Good, The Municipal&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Municipalities&lt;/strong&gt; are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community. This open-ended definition means that municipalities scale in Vekllei from tiny villages to major metropolitan areas.&lt;/p&gt;
+&lt;p&gt;Municipalities are the basis of Vekllei localism, a belief in local concern and decentralised decision-making. In general, Vekllei municipalism describes the places where society in abstract meets the individual, and so also has cultural and aesthetic qualities. The sum of a municipality is expressed in the &lt;em&gt;Atlantic Municipalist&lt;/em&gt; tradition, which consists of the following principles:&lt;/p&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;strong&gt;Principles of Atlantic Municipalism&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Local employment, or “commutelessness.”&lt;/li&gt;
+&lt;li&gt;Slumlessness, beautification, and a will to architecture.&lt;/li&gt;
+&lt;li&gt;Property stewardship.&lt;/li&gt;
+&lt;li&gt;Open air and clean water.&lt;/li&gt;
+&lt;li&gt;Land usefulness (&amp;ldquo;friendliness&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;Private ownership of private needs.&lt;/li&gt;
+&lt;li&gt;Public ownership of public needs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are 14,000 municipalities across the Commonwealth. The usage of &amp;lsquo;municipal&amp;rsquo; can refer to a political council or the spirit of Atlantic Municipalism.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -113,7 +805,16 @@ Included was a majority female council, many of whom were socialists opposed to 
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/</guid>
-	  <description> This page is an archive for content posted to the dormant Vekllei Patreon. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;This page is an archive for content posted to the dormant &lt;a href=&#34;https://patreon.com/vekllei&#34;&gt;Vekllei Patreon&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -122,8 +823,33 @@ Included was a majority female council, many of whom were socialists opposed to 
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/sagas/</guid>
-	  <description>߷ Part of the culture series of articles Sagas are a kind of historic prose narrative that recorded the oral history of early Vekllei. They are distinguished by their use of Topyas, a predecessor to modern Topet. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.
-Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/culture/&#34;&gt;culture&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Sagas&lt;/strong&gt; are a kind of historic prose narrative that recorded the oral history of early Vekllei. They are distinguished by their use of &lt;a href=&#34;https://millmint.net/utopia/culture/language/#history/&#34;&gt;Topyas&lt;/a&gt;, a predecessor to modern &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet/&#34;&gt;Topet&lt;/a&gt;. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.&lt;/p&gt;
+&lt;p&gt;Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.&lt;/p&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;strong&gt;Sagas of Old Vekllei&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;God Saga&lt;/em&gt;, c. 880AD&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Saga of Origins&lt;/em&gt; c. 940AD&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Saga of Saints&lt;/em&gt; c. 960AD&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Saga of Family&lt;/em&gt; c.1000AD&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Saga of Spirits&lt;/em&gt; c. 1200AD&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Saga of New Earth&lt;/em&gt; c. 1300AD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -132,7 +858,22 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/</guid>
-	  <description> ✿ Main article: The Government of Vekllei The start and end of the supranational Vekllei state is difficult to illustrate, since society in the 4th Commonwealth is dominated by several overlapping institutions with competing sovereignty. These articles are mostly concerned with features of the commonwealth nation-state, including the government and aspects of its laws and institutions. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/&#34;&gt;The Government of Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;The start and end&lt;/strong&gt; of the supranational Vekllei state is difficult to illustrate, since society in the 4th Commonwealth is dominated by several overlapping institutions with competing sovereignty. These articles are mostly concerned with features of the commonwealth nation-state, including the government and aspects of its laws and institutions.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -141,7 +882,158 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/industry/state/</guid>
-	  <description>߷ This article is about Vekllei Large segments of the Vekllei economy are dominated by industries of the state, as both direct ministerial privileges and state-owned enterprises. In total, they form the basis of the basic Vekllei standard of living, holding back catastrophe through reliable overproduction where gaps in the participatory economy might threaten serious shortages. Overview # There is no real distinction in Vekllei between state assets, state-owned enterprises (SOE) and government-owned corporations (GOC), and the terms are used interchangeably.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#what-is-vekllei&#34;&gt;Vekllei&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Large segments of the Vekllei economy&lt;/strong&gt; are dominated by industries of the state, as both direct ministerial privileges and state-owned enterprises. In total, they form the basis of the basic Vekllei standard of living, holding back catastrophe through reliable overproduction where gaps in the participatory economy might threaten serious shortages.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;There is no real distinction in Vekllei between &lt;em&gt;state assets&lt;/em&gt;, &lt;em&gt;state-owned enterprises&lt;/em&gt; (SOE) and &lt;em&gt;government-owned corporations&lt;/em&gt; (GOC), and the terms are used interchangeably. A state asset is distinct from bureau companies&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; or private enterprise, and is often directed by government policy via an &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/&#34;&gt;Interior Ministry&lt;/a&gt; or Parliament.&lt;/p&gt;
+&lt;p&gt;State assets make up about 40% of the &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;Vekllei Islands&lt;/a&gt; GDP, and about 25% of total Commonwealth GDP. They occupy central roles in the Vekllei economy, often as functional or constitutional monopolies, and are responsible for 65% of the &lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#international-markets&#34;&gt;VKIM&lt;/a&gt; market capitalisation.&lt;/p&gt;
+&lt;h2 id=&#34;structure&#34;&gt;
+  Structure
+  &lt;a class=&#34;anchor&#34; href=&#34;#structure&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Most large state assets are structured as &amp;lsquo;petals&amp;rsquo; around a &amp;lsquo;stem,&amp;rsquo; an official analogy that describes a centralised administrative core with decentralised, semiautonomous subsidiaries. SOE units that would be departmentalised in other countries are spun off as seperate companies in Vekllei and ruthlessly pruned, operating under a directive from the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commonwealth/#state-assets-directorate&#34;&gt;State Assets Directorate&lt;/a&gt; to reduce operating overhead and practice &amp;lsquo;professional maintenance,&amp;rsquo; a local colloquialism meaning to prevent stagnation or waste. Despite this, the vast majority of state assets in Vekllei are largely inefficient and bureaucratic, and their titanic presence in the Vekllei economy essentially produces two distinct markets in its place &amp;ndash; the inflexible, reliable and political economy of state assets and bureaus, and the innovative, agile and volatile private market. Both markets are considered critical assets in Vekllei.&lt;/p&gt;
+&lt;p&gt;The degree to which a state asset is responsible to a Vekllei parliament is obfuscated by the unique role they serve in the country. In many cases, state assets are functionally independent of their controlling &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/&#34;&gt;ministries&lt;/a&gt; or &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/&#34;&gt;secretariats&lt;/a&gt;, and their relationship to the state is simply financial, with the state serving as a controlling shareholder-equivalent. In other cases, the mission and function of the asset is directly responsible to policy goals of its operator, and its business is closely linked to political concern of the Vekllei state. These statuses fluctuate with the strategic policy goals of the government in question.&lt;/p&gt;
+&lt;p&gt;Vekllei government is highly decentralised and includes several competing parliaments at the local, national and international level. Similarly, state assets and their responsibilities are highly diverse, and municipal ownership does not equate to national control. Municipalities are not (in most cases) subordinated to national government, and so municipal enterprises do not function in the same way national enterprises do.&lt;/p&gt;
+&lt;h2 id=&#34;function--policy&#34;&gt;
+  Function &amp;amp; Policy
+  &lt;a class=&#34;anchor&#34; href=&#34;#function--policy&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commonwealth/#state-assets-directorate&#34;&gt;State Assets Directorate&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Vekllei economy is largely inefficient for a &lt;a href=&#34;https://millmint.net/posts/2020-07-13-economy/&#34;&gt;variety of poltical and cultural reasons&lt;/a&gt;, and this has resulted in an array of unique economic conditions that require different macroeconomic thinking to nations overseas. Although the Vekllei economy is functionally unmoneyed for Vekllei people, the Vekllei primary market is highly complex and involves intricate constellations of commodity markets, social factors of production, and tremendous public finance.&lt;/p&gt;
+&lt;p&gt;Rather than a direct redistribution of income and wealth, the Vekllei state uses assets to secure a basic standard of living for Vekllei people, advance industrial and commercial goals, and retain tight control over secondary and speculative markets that facilitate its liquid capital, which in turn provide mechanisms for foreign investment and trade in the country.&lt;/p&gt;
+&lt;p&gt;Vekllei does not resemble a modern consumer society, and so state assets are not geared towards consumer products. Similarly, the moneylessness of the Vekllei primary economy eliminates tremendous financial overhead that would otherwise be spent on maintaining the financial system, since these abstract relationships are usurped by direct industrial relations, company ballots, and directives given by ministerial production committees. These planned production mechanisms facilitate the reliable overproduction of essential goods that meet the needs of Vekllei population. The inflexibility of this system is supplanted by the private market of participatory labour, which produces the majority of consumer goods and products in Vekllei, if unreliably. Luxury goods are generally hyperlocalised or imported, and are scarce for most Veklei people.&lt;/p&gt;
+&lt;h2 id=&#34;types&#34;&gt;
+  Types
+  &lt;a class=&#34;anchor&#34; href=&#34;#types&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
+This list is incomplete, and serves as a reference for the evolving industrial documentation of this site.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are three broad categories of state asset in Vekllei, arranged at their level of ownership. Crown companies belong to the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/crown/&#34;&gt;Crown&lt;/a&gt; or &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/&#34;&gt;Commonwealth&lt;/a&gt; governments, and generally include unique or essential enterprises of the Vekllei state. State companies belong to national governments, including the Vekllei Islands as depicted here. Municipal companies are local and administrated by a municipality.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;crown-companies&#34;&gt;
+  Crown Companies
+  &lt;a class=&#34;anchor&#34; href=&#34;#crown-companies&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Crown Companies in Vekllei&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;Royal Mail of Vekllei
+&lt;ul&gt;
+&lt;li&gt;World Post&lt;/li&gt;
+&lt;li&gt;Universal Express&lt;/li&gt;
+&lt;li&gt;Cosma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Army Construction House&lt;/li&gt;
+&lt;li&gt;Vekllei National University&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;state-companies&#34;&gt;
+  State Companies
+  &lt;a class=&#34;anchor&#34; href=&#34;#state-companies&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;details open&gt;
+  &lt;summary&gt;State Companies in Vekllei&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/industry/rail/&#34;&gt;Vekllei National Rail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#vekllei-national-airways&#34;&gt;Vekllei National Airways&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Vekllei Overseas Airways&lt;/li&gt;
+&lt;li&gt;Atlantic Air&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vekllei National Petroleum&lt;/li&gt;
+&lt;li&gt;Vekllei National Shipping
+&lt;ul&gt;
+&lt;li&gt;Atlantic Shipbuilding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vekllei National Steel&lt;/li&gt;
+&lt;li&gt;Vekllei National Machines
+&lt;ul&gt;
+&lt;li&gt;Civic Systems&lt;/li&gt;
+&lt;li&gt;Voscom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/gr/&#34;&gt;General Reactor&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#future-fission-sqm&#34;&gt;Future Fission&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;International Rocketry&lt;/li&gt;
+&lt;li&gt;Vekllei Tobacco&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;municipal-companies&#34;&gt;
+  Municipal Companies
+  &lt;a class=&#34;anchor&#34; href=&#34;#municipal-companies&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;details open&gt;
+  &lt;summary&gt;Municipal Companies in Vekllei&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;Common Battery&lt;/li&gt;
+&lt;li&gt;Vekllei Auto
+&lt;ul&gt;
+&lt;li&gt;All-Atomic Auto Company&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Seispri Motors&lt;/li&gt;
+&lt;li&gt;Holza Textiles&lt;/li&gt;
+&lt;li&gt;Vekllei Salmon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#vekllei-aerospatiale-sa&#34;&gt;Vekllei Aerospatiale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/lola/#fiara-heavy-machines-sqm&#34;&gt;Fiara Heavy Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/mirah/&#34;&gt;Vekllei International Casino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The Vekllei phrase for a collection of private or state industrial firms organised into a council, with industrial policy and standards formed via company ballots.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Municipal companies may also include large private co-operatives that engage with the municipal government, rather than strictly state-owned assets.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -150,7 +1042,17 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/industry/crown/ach/</guid>
-	  <description>߷ Part of the industrial series of articles The Army Construction House (ACH) is the largest construction company in the Commonwealth by gross revenue and number of employees, most of whom are conscripts in the compulsory service scheme. It is a part of the Armed Forces of Vekllei, and subsequently reports directly to the palace. In practice, it consists of dozens of smaller companies that are administered by the Ministry of Defence in its local member-state.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/industry/&#34;&gt;industrial&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;The Army Construction House&lt;/strong&gt; (ACH) is the largest construction company in the Commonwealth by gross revenue and number of employees, most of whom are conscripts in the &lt;a href=&#34;https://millmint.net/corsosva/&#34;&gt;compulsory service scheme&lt;/a&gt;. It is a part of the Armed Forces of Vekllei, and subsequently reports directly to the palace. In practice, it consists of dozens of smaller companies that are administered by the Ministry of Defence in its local member-state.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -159,8 +1061,64 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/industry/bureaus/universal-cotton/</guid>
-	  <description>߷ Part of the industry series of articles Universal Cotton is a bureau based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the Commons Comfort Scheme of the Vekllei government, and has a significant presence throughout the Commonwealth.
-The flag of Universal Cotton. It trades overseas under the Universal Cotton Company brand.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/industry/&#34;&gt;industry&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Universal Cotton&lt;/strong&gt; is a &lt;a href=&#34;https://millmint.net/bureaus/&#34;&gt;bureau&lt;/a&gt; based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the &lt;em&gt;Commons Comfort Scheme&lt;/em&gt; of the Vekllei government, and has a significant presence throughout the Commonwealth.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://millmint.net/images/mastheads/flags/industry/uc.png&#34; alt=&#34;crest&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;hint caption&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The flag of Universal Cotton.&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;It trades overseas under the &lt;em&gt;Universal Cotton Company&lt;/em&gt; brand. It also owns a number of sub-brands through its industrial council, including &lt;em&gt;Mia &amp;amp; Gosfyourd&lt;/em&gt; and &lt;em&gt;Atlantic&lt;/em&gt;. Including its sub-brands, Universal Cotton is among the largest clothing manufacturers in the world and contributes billions to the &lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#international-markets&#34;&gt;VKIM&lt;/a&gt; market capitalisation.&lt;/p&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;strong&gt;Universal Cotton Organisation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Universal Cotton General Council
+&lt;ul&gt;
+&lt;li&gt;General Secretary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Universal Cotton Industrial Council
+&lt;ul&gt;
+&lt;li&gt;Vekllei Fabricworks&lt;/li&gt;
+&lt;li&gt;Sofi Textiles&lt;/li&gt;
+&lt;li&gt;Holeproof Hosiery&lt;/li&gt;
+&lt;li&gt;Disio Cottonwear&lt;/li&gt;
+&lt;li&gt;Disio Adventurewear&lt;/li&gt;
+&lt;li&gt;Vekllei National Mills&lt;/li&gt;
+&lt;li&gt;General Mills&lt;/li&gt;
+&lt;li&gt;Cava Mills&lt;/li&gt;
+&lt;li&gt;21st Century&lt;/li&gt;
+&lt;li&gt;Atomic-Atomic&lt;/li&gt;
+&lt;li&gt;Bonds Company&lt;/li&gt;
+&lt;li&gt;Atlantic Textiles&lt;/li&gt;
+&lt;li&gt;Sova &amp;amp; Gillis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
   </channel>

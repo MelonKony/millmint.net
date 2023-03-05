@@ -1,21 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>comic on MillMint</title>
+	<title>comic</title>
 	<link>https://millmint.net/categories/comic/</link>
-	<description>Recent content in comic on MillMint</description>
+	<description>Recent content in comic </description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/categories/comic/index.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>comic</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/categories/comic/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>A Vekllei Comic</title>
 	  <link>https://millmint.net/stories/comic-update/</link>
 	  <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/stories/comic-update/</guid>
-	  <description>✿ This article was featured in Issue #6 of the Atlantic Bulletin Hi everyone,
-&amp;ldquo;He not busy being born is busy dying,&amp;rdquo; — that’s off a Bob Dylan bootleg. I’ve just finished my thesis and I’m busy being born again. Sometimes I feel like I’m busy dying. Drawing’s been the way out for a long time now.
-As of today I’m starting work full-time on a Vekllei comic called Atomic Modern.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint story&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This article&lt;/strong&gt; was featured in &lt;a href=&#34;https://millmint.net/news/bulletin/2020/6&#34;&gt;&lt;strong&gt;Issue #6&lt;/strong&gt;&lt;/a&gt; of the &lt;em&gt;Atlantic Bulletin&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hi everyone,&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;He not busy being born is busy dying,&amp;rdquo; — that’s off a Bob Dylan bootleg. I’ve just finished my thesis and I’m busy being born again. Sometimes I feel like I’m busy dying. Drawing’s been the way out for a long time now.&lt;/p&gt;
+&lt;p&gt;As of today I’m starting work full-time on a Vekllei comic called Atomic Modern. The front cover looks like a textbook. The name is not that interesting. That’s okay — apparently my honours in media didn’t do anything for my marketing ability, but this project is about celebrating mundanity and restraint. Tzipora’s got a fag in her mouth but it isn’t lit. I feel like that a lot of the time. It’s a self-contained image.&lt;/p&gt;
+&lt;p&gt;Atomic Modern is about Tzipora and Vekllei. It’s about her friends and her memories and all the good and bad parts of her life. It’s about what went down in America and how you can justify living. It’ll have beautiful Vekllei landscapes and characters in muted colour. It will also include passages that act as a guide to Vekllei and society — diagrams, infographics and footnotes. It’s also an escape from everything going on right now — there’s good and bad in all stories, but at the end of the day Vekllei is a utopia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I will publish pages here for free&lt;/strong&gt;. &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;I’ll collate them into chapters available exclusively to my patrons&lt;/a&gt;. Maybe some extra stuff too. I’m a good dad to my patrons. I already made a set of postcards and sent them out. Either way, you’ll continue to see stuff here.
+This is exciting, isn’t it? This is a new chapter for me as an artist. It’s a vulnerable moment for me, because up until now it’s just sort of been “posting on reddit”. I don’t have a publisher, I’m not trained, I’m just some guy. But this is what I’ve always wanted to do, and I’m trying to get busy being born again.&lt;/p&gt;
+&lt;p&gt;There should be regular world posts here still. There’s drawings I like to do that just don’t fit into a comic format. I think during weekdays I’ll work on the comic and on weekends I’ll do a painting. We’ll see how it goes.&lt;/p&gt;
+&lt;p&gt;Also, I’ll have a nice big wiki soon with multiple language support. I’ll let you know when it’s done.&lt;/p&gt;
+&lt;p&gt;Let’s start this again, with all that off my chest.&lt;/p&gt;
+&lt;p&gt;Hi, I’m Hobart. I’m busy getting born again.&lt;/p&gt;
+&lt;p&gt;Much love,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MelonKony&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://patreon.com/vekllei&#34;&gt;Join the Vekllei Patreon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Join the Vekllei Discord&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Be “petticoat”.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
   </channel>

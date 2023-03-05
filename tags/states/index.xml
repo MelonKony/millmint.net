@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>states on MillMint</title>
+	<title>states</title>
 	<link>https://millmint.net/tags/states/</link>
-	<description>Recent content in states on MillMint</description>
+	<description>Recent content in states </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/tags/states/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>states</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/states/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Stories from the Horizon</title>
 	  <link>https://millmint.net/horizon/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/horizon/</guid>
-	  <description> Welcome to Stories from the Horizon, Tzipora&amp;rsquo;s journey through Vekllei. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Welcome to &lt;em&gt;Stories from the Horizon&lt;/em&gt;, Tzipora&amp;rsquo;s journey through Vekllei.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
 	<item>
@@ -21,8 +40,593 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/timeline/</guid>
-	  <description>This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site. Pre-War Timeline # 6000BC Earliest evidence of human settlement 1230BC Irish settlers establish fishing communities on south coast 1100BC Scandinavians settle in Smoke Cove, aka Oslola 600BC Vekllei is politically and culturally isolated from Europe 400BC Vekllei is using Vekllei logographs
-Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning of Vekllei Early Period 230 Language reforms are initiated by Queen Souisviasn 700 Beginning of Vekllei Middle Period</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;pre-war-timeline&#34;&gt;
+  Pre-War Timeline
+  &lt;a class=&#34;anchor&#34; href=&#34;#pre-war-timeline&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;section&gt;
+&lt;ol class=&#34;timeline&#34;&gt;
+	&lt;section&gt;
+		&lt;li&gt;
+			&lt;b&gt;6000BC&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Earliest evidence of human settlement&lt;/b&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1230BC&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Irish settlers establish fishing communities on south coast
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1100BC&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Scandinavians settle in Smoke Cove, aka &lt;a href=&#34;https://millmint.net/lola/&#34;&gt;Oslola&lt;/a&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;600BC&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei is politically and culturally isolated from Europe
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;400BC&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei is using &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;Vekllei logographs&lt;/a&gt;&lt;br&gt;
+				&lt;a href=&#34;https://millmint.net/religion/&#34;&gt;Upen&lt;/a&gt; is being practiced
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;500BC&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Beginning of Vekllei Common Period&lt;/b&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;200&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Beginning of Vekllei Early Period&lt;/b&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;230&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Language reforms are initiated by Queen Souisviasn
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;700&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Beginning of Vekllei Middle Period&lt;/b&gt;&lt;br&gt;
+				&lt;b&gt;Founding of the 1st Commonwealth&lt;/b&gt;&lt;br&gt;
+				Vekllei’s monarchist period
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;900&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Golden age of &lt;a href=&#34;https://millmint.net/sagas/&#34;&gt;sagas&lt;/a&gt; begins
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1200&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Founding of the 2nd Commonwealth&lt;/b&gt;&lt;br&gt;
+				Aismo Desimou becomes king&lt;br&gt;
+				Capital moved to Altanehs
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1350&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Rise of trading towns on East Coast
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1380&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Navy coup forces monarchy from power
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1350&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Rise of trading towns on East Coast
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1400&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Beginning of Period of Rest&lt;/b&gt;&lt;br&gt;
+				&lt;b&gt;Founding of the 3rd Commonwealth&lt;/b&gt;&lt;br&gt;
+				Collapse of Vekllei trading power begins
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1440&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Kala joins the Vekllei Commonwealth
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1600&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Beginning of Vekllei Late Period&lt;/b&gt;&lt;br&gt;
+				Vekllei’s republican period
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1842&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;i&gt;&lt;a href=&#34;https://millmint.net/stories/vna/&#34;&gt;The Atlantic&lt;/a&gt;&lt;/i&gt; daily newspaper is founded&lt;br&gt;
+				The Great Recession hits the metropole
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1874&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;a href=&#34;https://millmint.net/stories/learning/&#34;&gt;Montre University&lt;/a&gt; is founded
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1925&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;a href=&#34;https://millmint.net/rail/&#34;&gt;Rail transport&lt;/a&gt; in Vekllei is nationalised
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1933&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;a href=&#34;https://millmint.net/stories/fortress/&#34;&gt;Sugarhouse Mountain Fortress&lt;/a&gt; begins construction outside Montre&lt;br&gt;
+				U.K. deploys frigates to the North Atlantic
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1939&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The Second World War begins after Germany invades Poland
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1945&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Nuclear weapons used by the US against Japan
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1948&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The Second World War ends after Japan surrenders
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1954&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei invades Mauritania and Senegal
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1955&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The Atlantic Crown Expeditionary Army is founded
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1966&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Great Britain enters decolonisation talks in Edinburgh Conference
+				The Imperial Trade House in Vekllei is burnt down by arsonists
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1978&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The 1978 World’s Fair is held in Montre&lt;br&gt;
+				1978 World&#39;s Fair terror attack kills 2,300 people&lt;br&gt;
+				Atlantic Crown dissolves under republican pressure
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1986&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Government is sacked by the Governor-General after corruption inquiry&lt;br&gt;
+				Constitutional crisis begins&lt;br&gt;
+				Martial Law is declared in Vekllei
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1989&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				UK frigate sunk after tensions over VK-Faroese corridor access
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;1995&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;First Atomic War&lt;/b&gt;&lt;br&gt;
+				100 Days&#39; Grief&lt;br&gt;
+				Vekllei is occupied by the UK &amp; the US&lt;br&gt;
+				The foundation of the European Economic Community (EEC)&lt;br&gt;
+				The US establishes a lunar colony in Ocean of Storms
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2004&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Wallabies are introduced to Vekllei&lt;br&gt;
+				British Gambia border skirmish occurs&lt;br&gt;
+				The Senegalese Crisis begins&lt;br&gt;
+				British expeditionary forces invade Senegal 
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2006&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The USSR establishes a lunar colony in Eastern Sea&lt;br&gt;
+				Moon I treaty establishes protected Lunar Nullius&lt;br&gt;
+				The PRC establishes a lunar colony on East Equator
+			&lt;/span&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/section&gt;
+&lt;h2 id=&#34;post-war-timeline&#34;&gt;
+  Post-War Timeline
+  &lt;a class=&#34;anchor&#34; href=&#34;#post-war-timeline&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ol class=&#34;timeline&#34;&gt;
+	&lt;section&gt;
+		&lt;li&gt;
+			&lt;b&gt;2015&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;&lt;b&gt;Beginning of Vekllei Floral Period&lt;/b&gt;&lt;br&gt;
+				Founding of the &lt;a href=&#34;https://millmint.net/interim/&#34;&gt;Interim Government&lt;/a&gt;&lt;br&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2017&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				&lt;b&gt;Founding of the 4th Commonwealth&lt;/b&gt;&lt;br&gt;
+				UK withdraws from Vekllei&lt;br&gt;
+				Government is reesetablished&lt;br&gt;
+				Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie are federated into the Antilles Commonwealth
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2018&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei Royal Airways becomes Crown Overseas Airways&lt;br&gt;
+				Commonwealth Airways is founded&lt;br&gt;
+				Fission energy is legalised for restricted commercial use in the U.S.&lt;br&gt;
+				Vekllei postwar economic boom begins
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2020&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Aismious Islands are returned to the Commonwealth&lt;br&gt;
+				Farmer’s Syndicate is founded&lt;br&gt;
+				The International Federation of Journalists moves HQ to Vekllei
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2021&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Ou Hydroelectric Dam opens
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2022&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Ramoin-Dupont Aircraft Company founded&lt;br&gt;
+				First commercial vacuum airship flight in France
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2023&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Amelie Azela is born
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2024&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Gregori Hordiyenko, the first Gregori baby, is born
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2027&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Baron Azela is born&lt;br&gt;
+				The Soviet lunar colony is unofficially abandoned&lt;br&gt;
+				General Reactor is founded in Vekllei
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2029&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Ayn Rumouisen is born in Yana
+				Boya Chemical opens in Ada
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2030&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Newda architecture is enshrined in Vekllei’s constitution, a world-first
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2033&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The All-Atomic Auto Company (AAAC) is founded in Vekllei&lt;br&gt;
+				The Strawberry Test Site begins operations in Montre
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2034&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The first Vekllei vacuum airship is launched
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2038&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Amelie Azela, Baron’s sister, dies from TB
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2043&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei World Jetport opens
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2044&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Baron enlists in general infantry, dropping out of school
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2045&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The People’s Republic of China declares war on Taiwan&lt;br&gt;
+				2045 Sino Crisis begins&lt;br&gt;
+				Vekllei enters war against China alongside NATO
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2046&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Decolonisation of the U.K. possessions is complete&lt;br&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2047&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora Sumoisnesn is born in Ro&lt;br&gt;
+				Vekllei withdraws troops from Taiwan
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2048&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				2045 Sino Crisis ends in PRC defeat&lt;br&gt;
+				Copette Science Basin and Rocket Factory established in Vekllei&lt;br&gt;
+				U.S. announces cuts to space programme&lt;br&gt;
+				France establishes lunar colony in West Equator&lt;br&gt;
+				Cobian is born in Little Vekllei&lt;br&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2049&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Ayn and Baron meet during their AB/NI cadetship
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2050&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei establishes a colony on the South Lunar Pole&lt;br&gt;
+				Gregori Hordiyenko dies in a car accident
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2052&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Oa-class Battlecruiser is commissioned 
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2053&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Baron is assigned to Bolivia as an AB/NI Section Chief
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2055&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei sovereignty over Lunar Pole is disputed in international court&lt;br&gt;
+				Wildfires in Somalia collapse U.S.-backed Somali Democratic Party
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2056&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei establishes Moidonnet (Moon City) on the Malapert Massif &lt;br&gt;
+				Comen Aeroyards are founded&lt;br&gt;
+				Cifuentes government is overthrown with Soviet help in Colombia
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2057&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The U.S. invades Colombia to depose communist government&lt;br&gt;
+				Tzipora moves to California to study at St Mary’s Catholic College&lt;br&gt;
+				Missile attack on Panama Canal halts shipping traffic for six weeks&lt;br&gt;
+				The Second Yom Kippur War sends oil prices spiralling&lt;br&gt;
+				2057 Financial Crisis begins
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2058&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Terror attack in Cairo prompts OAPEC to restrict crude supply&lt;br&gt; 
+				The Ghawar refinery is set alight in Saudi Arabia by Iranian spies&lt;br&gt;
+				The Ford Motor Company declares bankruptcy&lt;br&gt;
+				&lt;b&gt;The Dallas Secession begins&lt;/b&gt;&lt;br&gt;
+				Open conflict with the United States begins&lt;br&gt;
+				Baron moves to Dallas America as an AB/NI operative&lt;br&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2059&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora loses contact with her mother&lt;br&gt;
+				Tzipora leaves St Mary’s and moves East&lt;br&gt;
+				Lend-lease of nuclear silos g’teed under California Amendment&lt;br&gt;
+				June ceasefire between U.S. and Dallas&lt;br&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2061&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora meets baron at Hotel Cairo&lt;br&gt;
+				Dallas government issues stand-down order after central command over secessionist militias wanes&lt;br&gt;
+				E.E.C. pledges material support to U.S. government
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2063&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Operation &lt;i&gt;Sword of Oslola&lt;/i&gt; occurs&lt;br&gt;
+				Tzipora arrives in Vekllei
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2064&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The Boy Scouts of America excludes Chinese-borns&lt;br&gt;
+				Tzipora begins study at Metro International School&lt;br&gt;
+				Tzipora visits her birth geyser&lt;br&gt;
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2065&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei celebrates 50 years of independence&lt;br&gt;
+				The &lt;i&gt;Oslola&lt;/i&gt; vacuum dirigible is launched&lt;br&gt;
+				Tzipora visits the Moon for the first time&lt;br&gt;
+				Gary Works Integrated Steel Mill is destroyed in fire&lt;br&gt;
+				Venezuelan oil nationalised&lt;br&gt;
+				Tzipora begins study at &lt;a href=&#34;https://millmint.net/moshel/&#34;&gt;Moshel St School&lt;/a&gt;&lt;br&gt;
+				Tzipora meets Cobian&lt;br&gt;
+				Jules Wynn is killed in Moscow 
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2066&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				U.S. Steel collapses&lt;br&gt;
+				Vekllei is awarded challenged South Lunar Pole sovereignty&lt;br&gt;
+				The Dallas Accords are signed
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2067&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Brazil invades Bolivia, spurring the Gum Wars 
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2068&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				The &lt;a href=&#34;https://millmint.net/stories/coup/&#34;&gt;MacMillian Incident&lt;/a&gt; kills top Dallas commander&lt;br&gt;
+				The first Yellow Purge begins in the Dallas States&lt;br&gt;
+				Chrysler Motors declares bankruptcy&lt;br&gt;
+				America First Act passed in U.S. Congress&lt;br&gt;
+				U.S. Auto assets administered by government Black Bonds
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2069&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora visits Tokyo as part of the graduation trip of Lola 6th School
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2071&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Vekllei reaffirms lunar polar sovereignty through Moon II treaty&lt;br&gt;
+				Tzipora meets fellow Gregori baby Shizuku Kobayashi
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2073&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora starts work as a librarian in Lola
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2073&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora enters conscription with the 25th Garden Company&lt;br&gt;
+				The 2074 World’s Fair is held in Vekllei&lt;br&gt;
+				The Number 7 plant (Peace Reactor) is commissioned
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2075&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora moves to Montre-Lola to study at Montre University&lt;br&gt;
+				Tzipora starts work as Editor-in-Chief of the Montre College Weekly&lt;br&gt;
+				Tzipora starts work as unofficial contributor to Kid Comix
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2075&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Moon II treaty prohibits weapons-testing on the lunar surface
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2081&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora graduates from Montre University with PhD in English&lt;br&gt;
+				Tzipora begins her Yosnupet pilgrimage 
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2081&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Tzipora begins work at the Montre-Lola district library
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2094&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Black Terror begins in O.K. under supervision of Dallas government&lt;br&gt;
+				Second Purge in Dallas States begins 
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;b&gt;2111&lt;/b&gt; 
+			&lt;span class=&#34;event&#34;&gt;
+				Second Atomic War begins&lt;br&gt;
+				Direct strikes in P.R.C., U.S., U.K., Vekllei, W. Germany, U.S.S.R.
+			&lt;/span&gt;
+		&lt;/li&gt;
+	&lt;/section&gt;
+&lt;/ol&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -31,7 +635,214 @@ Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning o
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/draft.vekllei/</guid>
-	  <description>Overview # Welcome to Vekllei. This article introduces the essential setting of this website &amp;ndash; the Commonwealth of Vekllei. Welcome to the epilogue of the &amp;ldquo;epoch of rest.&amp;rdquo; Vekllei is best conceptualised as a commonwealth of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Welcome to Vekllei.&lt;/strong&gt; This article introduces the essential setting of this website &amp;ndash; the Commonwealth of Vekllei. Welcome to the epilogue of the &amp;ldquo;epoch of rest.&amp;rdquo;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Vekllei&lt;/strong&gt; is best conceptualised as a commonwealth of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.&lt;/p&gt;
+&lt;p&gt;The 4th Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Members of this commonwealth cede aspects of national governance to the Commonwealth, like security, health and education.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Retelling of Algic legends, Verse 40, &lt;em&gt;Saga of Origins&lt;/em&gt;[^2]&lt;/p&gt;
+&lt;h2 id=&#34;territories&#34;&gt;
+  Territories
+  &lt;a class=&#34;anchor&#34; href=&#34;#territories&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;details &gt;
+  &lt;summary&gt;Vekllei Commonwealth Member-States&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vekllei Commonwealth
+&lt;ul&gt;
+&lt;li&gt;Vekllei Antarctic Territories&lt;/li&gt;
+&lt;li&gt;Vekllei Lunar Territories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dependent States&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aismious Islands (Faroe Islands)&lt;/li&gt;
+&lt;li&gt;Demon Islands (Jan Mayen)&lt;/li&gt;
+&lt;li&gt;Sude Islands (South Georgia &amp;amp; Sandwich Islands)&lt;/li&gt;
+&lt;li&gt;Santes (St Helena)&lt;/li&gt;
+&lt;li&gt;Ascension (Ascension Islands)&lt;/li&gt;
+&lt;li&gt;Tristan (Tristan de Cunha)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Constituent Member-States&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antilles Commonwealth
+&lt;ul&gt;
+&lt;li&gt;Aruba Cherish (Aruba)&lt;/li&gt;
+&lt;li&gt;Bonaire Cherish (Bonaire)&lt;/li&gt;
+&lt;li&gt;Curaçao Cherish (Curaçao)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Azores Commonwealth (Azores)&lt;/li&gt;
+&lt;li&gt;Kala Commonwealth (Greenland)&lt;/li&gt;
+&lt;li&gt;Kalina Commonwealth
+&lt;ul&gt;
+&lt;li&gt;Angua Cherish (Anguilla)&lt;/li&gt;
+&lt;li&gt;Antam Cherish (Antigua)&lt;/li&gt;
+&lt;li&gt;Barbuda Cherish (Barbuda)&lt;/li&gt;
+&lt;li&gt;Liamuiga Cherish (Saint Kitts)&lt;/li&gt;
+&lt;li&gt;Martin Cherish (Saint Martin)&lt;/li&gt;
+&lt;li&gt;Montesur Cherish (Montserrat)&lt;/li&gt;
+&lt;li&gt;Oualie Cherish (Nevis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mira Commonwealth (Madeira)&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;history&#34;&gt;
+  History
+  &lt;a class=&#34;anchor&#34; href=&#34;#history&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;h4 id=&#34;colonial-era&#34;&gt;
+  Colonial Era
+  &lt;a class=&#34;anchor&#34; href=&#34;#colonial-era&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;h4 id=&#34;occupation&#34;&gt;
+  Occupation
+  &lt;a class=&#34;anchor&#34; href=&#34;#occupation&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;h4 id=&#34;4th-commonwealth&#34;&gt;
+  4th Commonwealth
+  &lt;a class=&#34;anchor&#34; href=&#34;#4th-commonwealth&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;h4 id=&#34;former-british-territories&#34;&gt;
+  Former British Territories
+  &lt;a class=&#34;anchor&#34; href=&#34;#former-british-territories&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;The decolonisation of the British Empire occurred around ten years prior to the First Atomic War, which saw Vekllei defeated and occupied by the United Kingdom and United States between 1995 and 2017. Continued administration of the country as an overseas territory became untenable as high inflation and an overvalued pound sterling strained British interest in maintaining a military and administrative presence in the Atlantic. In 2008, the US reduced its military presence in Vekllei by half, and indicated the UK should meet its commitments to Vekllei by 2015. There was concern between the UK and the US that the Vekllei communist insurgency may be revived in independence, and that hasty decolonisation would assure a red bulwark between continents. In response, the &lt;a href=&#34;https://millmint.net/interim/&#34;&gt;Interim Government&lt;/a&gt; was established in 2015 to prepare a stable government for independence.&lt;/p&gt;
+&lt;p&gt;Vekllei regained independence in 2017, along with its expensive (and economically dependent) self-governing territories in Kala and Demon[^1]. These were followed by the Aismious islands in 2020. By the time of independence, most of the British Caribbean had decolonised, including former Vekllei colonial possessions in the West Antilles liberated by the British after the war.&lt;/p&gt;
+&lt;p&gt;Following the establishment of the 4th Commonwealth in 2017, the new republics of Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie were federated into the Antilles Commonwealth. Composed of former Vekllei and British colonial possessions, the Antilles Commonwealth joined the 4th Commonwealth as an associate state in 2019 and received full membership in 2021.&lt;/p&gt;
+&lt;p&gt;The UK further reduced its military and naval presence in the Atlantic in the 2020s. With the exception of the Falklands, most remaining small and uninhabited islands in British possession were purchased by Vekllei with funds from the US aid package in 2021, including the South Georgia and Sandwich Islands, St Helena, Ascension, and Tristan de Cunha. These were leased under a military agreement with the UK government, and British forces remained on the South Georgia and Sandwich Islands until 2046.&lt;/p&gt;
+&lt;h4 id=&#34;former-portuguese-territories&#34;&gt;
+  Former Portuguese Territories
+  &lt;a class=&#34;anchor&#34; href=&#34;#former-portuguese-territories&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;h4 id=&#34;former-spanish-territories&#34;&gt;
+  Former Spanish Territories
+  &lt;a class=&#34;anchor&#34; href=&#34;#former-spanish-territories&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;h2 id=&#34;society&#34;&gt;
+  Society
+  &lt;a class=&#34;anchor&#34; href=&#34;#society&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;state&#34;&gt;
+  State
+  &lt;a class=&#34;anchor&#34; href=&#34;#state&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The Vekllei Commonwealth is a federated superstate including &lt;a href=&#34;https://millmint.net/utopia/vekllei/#commonwealth-member-states&#34;&gt;six individual commonwealths&lt;/a&gt; which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the &lt;strong&gt;Crown Sovereign&lt;/strong&gt;. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the &lt;a href=&#34;https://millmint.net/crown/&#34;&gt;Palace of the Vekllei Commonwealth&lt;/a&gt;, which enshrines the floral constitution and retains control over the armed forces.&lt;/p&gt;
+&lt;h4 id=&#34;government&#34;&gt;
+  Government
+  &lt;a class=&#34;anchor&#34; href=&#34;#government&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;🌸&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/government/&#34;&gt;Government of Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Vekllei Government plays an active part in the lives of ordinary people. They are represented by a bicameral house system, including a parliament of nonpartisan representatives and a cabinet appointed by the Prime Minister&amp;rsquo;s office.&lt;/p&gt;
+&lt;p&gt;Vekllei has &lt;a href=&#34;https://millmint.net/stories/ministers/&#34;&gt;two prime ministers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;People in Vekllei are governed by several organisations, including local &lt;a href=&#34;https://millmint.net/municipalities/&#34;&gt;municipalities&lt;/a&gt;, their &lt;a href=&#34;https://millmint.net/interior/&#34;&gt;national governments&lt;/a&gt;, the &lt;a href=&#34;https://millmint.net/commonwealth/&#34;&gt;Commonwealth&lt;/a&gt;, and the &lt;a href=&#34;https://millmint.net/crown/&#34;&gt;Palace of the Atlantic Crown&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Beneath the Palace is the &lt;strong&gt;Commonwealth Parliament&lt;/strong&gt;, which manages affairs that concern all commonwealth member-states, including standardisation of education, protection of culture, and intelligence gathering. The Commonwealth Parliament unites the resources of individual &lt;strong&gt;Island Commonwealths&lt;/strong&gt; (called Islands here for simplicity), and standardises their political features. Island Commonwealths may have their own sovereign member-states, as in the case of Kalina and Antilles. These small nation-states are called &lt;strong&gt;Cherishes&lt;/strong&gt; and retain their own parliamentary governments.&lt;/p&gt;
+&lt;p&gt;In total, there are four national governments sharing overlapping sovereignty over individual Vekllei countries. Together, they form a tremendous superstate with control over most of the Atlantic.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The Crown&lt;/strong&gt; &amp;ndash; the physical nature of territory belonging to the Vekllei Commonwealth, represented in human affairs by the Palace&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Commonwealth Parliament&lt;/strong&gt; &amp;ndash; the highest human multinational parliament and elected cabinet&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Island Parliaments&lt;/strong&gt; &amp;ndash; self-managing regional governments, functionally similar to traditional nation-states&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;And, in the case of Cherishes, which are individual republics within island commonwealths:&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;The National Parliaments&lt;/strong&gt; &amp;ndash; local, traditionally republican governments that have further concessions to boroughs, councils, municipalities and villages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Constituent member-states of the Commonwealth (the &amp;lsquo;Island Parliaments&amp;rsquo;) have two prime ministers that represent their national governments in the Commonwealth parliament. In most Islands, prime ministers include one man and one woman, with the exception of Kala. Elections are conducted with a Hare-Clark single transferable vote system to elect the prime ministers and bicameral legislatures, usually consisting of an upper house (a &lt;em&gt;Crown Secretariat&lt;/em&gt;) and a lower house (&lt;em&gt;Assembly&lt;/em&gt;). All voting in Vekllei is participatory and the superstate does not enforce a poll tax at any level of government. However, Island Parliaments require electoral enrolment from age 16 onwards.&lt;/p&gt;
+&lt;p&gt;Since Vekllei governments are nonpartisan, they do not allow formal participation of parties within elections. Despite this, informal associations of elected representatives exist, in the form of &lt;em&gt;sociopartit&lt;/em&gt;, or &lt;em&gt;Party Associations&lt;/em&gt;. The largest of these include the Vekllei Industrial Working Concern, the Atlantic Party, and the Crown, and although membership is permitted among elected members they are otherwise disallowed within the electoral process.&lt;/p&gt;
+&lt;p&gt;Governance in almost all levels of Vekllei government can be arranged along three branches, which scale from small village municipalities to the very Crown itself.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A Parliament&lt;/strong&gt;, including bicameral houses, petty legislatures, municipalities and the Palace.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Government&lt;/strong&gt;, including prime ministers and an elected ministerial cabinet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Judiciary&lt;/strong&gt;, including both the High Court and Constitutional Court of Vekllei as well as tiny petty magistratures and council courts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;economy&#34;&gt;
+  Economy
+  &lt;a class=&#34;anchor&#34; href=&#34;#economy&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;The principle of the Vekllei is liberty in the context of a moneyless system.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ See also: &lt;em&gt;&lt;a href=&#34;https://millmint.net/news/essays/moneylessness/&#34;&gt;On Moneylessness&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei has a hybrid moneyless system called &lt;em&gt;commons&lt;/em&gt;, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs[^1]. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as &lt;a href=&#34;https://millmint.net/bureaus/&#34;&gt;&lt;em&gt;bureaus&lt;/em&gt;&lt;/a&gt;. Everything else is produced in the colloquial moneyless market, often unreliably.&lt;/p&gt;
+&lt;p&gt;Money is used in a seperate industrial and financial market called the &lt;em&gt;financialised commons&lt;/em&gt;. In this market, Vekllei uses two currencies known as &lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#vekllei-crown-vk&#34;&gt;&lt;em&gt;Vekllei&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#government-crown-ak&#34;&gt;&lt;em&gt;Government Crowns&lt;/em&gt;&lt;/a&gt;, used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial indstruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.&lt;/p&gt;
+&lt;p&gt;The commons system relies on a system of participatory work, encouraged by the simple and universal rule to be employed, called &lt;a href=&#34;https://millmint.net/consosva/&#34;&gt;Consosva&lt;/a&gt;. The standard of living in Vekllei is quite good and is unique among modern societies today.&lt;/p&gt;
+&lt;h4 id=&#34;finance&#34;&gt;
+  Finance
+  &lt;a class=&#34;anchor&#34; href=&#34;#finance&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;💵&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/finance/&#34;&gt;Finance in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;industry&#34;&gt;
+  Industry
+  &lt;a class=&#34;anchor&#34; href=&#34;#industry&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;⚙️&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/industry/&#34;&gt;Industry&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei is highly industrialised, but under&lt;/p&gt;
+&lt;h4 id=&#34;property&#34;&gt;
+  Property
+  &lt;a class=&#34;anchor&#34; href=&#34;#property&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;🏡&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/housing/&#34;&gt;Housing in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei culture and ideology values property ownership. Ownership in Vekllei is primarily a social function legalised by the delicture system.&lt;/p&gt;
+&lt;h3 id=&#34;education&#34;&gt;
+  Education
+  &lt;a class=&#34;anchor&#34; href=&#34;#education&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;📚&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/education/&#34;&gt;Education in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Education in Vekllei is universal and compulsory for children. All schools are coeducational, with the exception of a handful of faith schools.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -40,7 +851,560 @@ Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning o
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/vekllei/</guid>
-	  <description>߷ This article is about Vekllei Vekllei is a superstate in the Atlantic Ocean that demonstrates the &amp;ldquo;social dream&amp;rdquo; of its author, Hobart. Set ostensibly in Iceland, the history and geography of Vekllei is radically different from our own. It is also the home of all of Vekllei&amp;rsquo;s major characters. Overview # The Commonwealth of Vekllei, commonly Vekllei or the 4th Commonwealth, is a supranational commonwealth of constituent countries1 bound closely together by shared geographic and political features.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#what-is-vekllei&#34;&gt;Vekllei&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt; is a superstate in the Atlantic Ocean that demonstrates the &amp;ldquo;social dream&amp;rdquo; of its author, Hobart. Set ostensibly in Iceland, the history and geography of Vekllei is radically different from our own. It is also the home of all of Vekllei&amp;rsquo;s &lt;a href=&#34;https://millmint.net/utopia/characters&#34;&gt;major characters&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;Commonwealth of Vekllei&lt;/strong&gt;, commonly &lt;strong&gt;Vekllei&lt;/strong&gt; or the &lt;strong&gt;4th Commonwealth&lt;/strong&gt;, is a supranational commonwealth of constituent countries&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; bound closely together by shared geographic and political features. Most members are island countries in the Atlantic and Caribbean oceans, and are characterised by societies engaging in &lt;a href=&#34;https://millmint.net/utopia/vekllei/#economy&#34;&gt;Floral economics&lt;/a&gt;, municipalism, third-way diplomacy and utopian metaphysics. Most extraordinarily, the people of the Commonwealth do not use money.&lt;/p&gt;
+&lt;p&gt;The name &lt;em&gt;Vekllei&lt;/em&gt; refers most commonly to the country of Vekllei, situated in the North Atlantic, which is both its founder and most prosperous and populated member-state. In total, 24 million people live across its member-states. As an advanced and prosperous society, the Commonwealth represents a major regional power and maintains the ability to project power overseas. Like most countries, Vekllei is a nuclear power and employs fission in both industrial and military contexts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Retelling of Algic legends, Verse 40, &lt;em&gt;Saga of Origins&lt;/em&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The Commonwealth capital and its largest city is the city-state Vekllei in the Vekllei Islands, which is home to half of its total population. The interior plateau of the Vekllei Islands consists of sand and lava fields, flower-tundras, glaciers, and temperate rainforests, and its lowlands are home to many glacial rivers.&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;
+  Introduction
+  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/vekllei.png&#34; alt=&#34;Map of Vekllei&#34;  title=&#34;Political and strategic map of the Home Islands | *[The World’s Last Great Utopia](/stories/vekllei/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Political and strategic map of the Home Islands | &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/vekllei/&#34;&gt;The World’s Last Great Utopia&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Vekllei&lt;/em&gt;, officially the &lt;em&gt;Vekllei Commonwealth&lt;/em&gt;, is a society blossoming with contradictions and anachronisms, which reflect and fold into each other to produce new forms of living. The country advocates &lt;em&gt;laissez-faire&lt;/em&gt; market participation and soviet-style central planning simultaneously; it is the site of a healthy new democracy utterly divorced by public apathy, and a place of midcentury science-worship and automation used to bolster backwardness and agrarian living. This idea carries on and on, cascading throughout all levels of society.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On this day, the 4th Commonwealth announces the Floral Period of the 4th Commonwealth and the establishment of free commonwealths of the people of the Vekllei Islands, Kala, Demon and Aismious Islands, and the affirmation of faith in human rights, the dignity and worth of the human person, and the equal rights of men and women.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; &lt;a href=&#34;https://millmint.net/documents/&#34;&gt;Document No. 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a nation bound constitutionally to secularism and religious freedoms, described in a document only legible through indigenous spiritualism. This is a culture intent on abolishing commodity-forms through the worship of products. To foreigners, Vekllei is a wonderland of contradictions that in conventional imagination would collapse in on each other, yet Vekllei has flourished in postwar independence, quickly rising up amongst the most developed and livable countries in the world.&lt;/p&gt;
+&lt;p&gt;Such a country deserves observation, then. This document and its subarticles are dedicated to the country of Vekllei and the facts of its utopian dimensions, and hope to illustrate a definitive and contemporary understanding of Vekllei&amp;rsquo;s &lt;em&gt;Epoch of Rest&lt;/em&gt; (what they call their &amp;lsquo;floral period&amp;rsquo;). This is an illustration of how the beating systems in Vekllei look, the abstract data laid bare. Vekllei has an absurd multidimensionality about it, since it is a country in which all things are singularly perfect in their purity and good-heartedness while applying this qualifier to multiple ideas at the same time. In some ways, Vekllei thrives &lt;em&gt;because of&lt;/em&gt; rather than &lt;em&gt;in spite of&lt;/em&gt; these contradictions. This document is a good place to start.&lt;/p&gt;
+&lt;h2 id=&#34;etymology&#34;&gt;
+  Etymology
+  &lt;a class=&#34;anchor&#34; href=&#34;#etymology&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The word &lt;em&gt;Vekllei&lt;/em&gt; comes from the &lt;a href=&#34;https://millmint.net/utopia/culture/language/#history&#34;&gt;Islandi-Quutetast&lt;/a&gt; fusion dialect called &lt;em&gt;Topyas&lt;/em&gt; (&amp;lsquo;Old Vekllei&amp;rsquo; in English), which was in common use by the 1st Century AD. It comes from the &lt;em&gt;Topyas&lt;/em&gt; words for &amp;ldquo;volcanic town,&amp;rdquo; or &lt;em&gt;Vek&lt;/em&gt;, and &amp;ldquo;sea under the stars,&amp;rdquo; or &lt;em&gt;Lei&lt;/em&gt;, meaning &amp;ldquo;town of the stars by the sea&amp;rdquo;. According to sagas, the name was gifted to the country by a volcanic spirit-god called &lt;em&gt;Tipet&lt;/em&gt; (most likely present-day &lt;em&gt;Kesmi&lt;/em&gt;) in the 3rd Century, but was likely a feature of Queen Souisviasn&amp;rsquo;s language reforms during that time.&lt;/p&gt;
+&lt;p&gt;The word &amp;ldquo;Vekllei&amp;rdquo; refers to both the country and the island, and is also pluralised.&lt;/p&gt;
+&lt;p&gt;Vekllei was first known as &lt;em&gt;Islandi&lt;/em&gt;, or &amp;ldquo;Land of Ice&amp;rdquo; in an extinct Indo-European language documented under the same name in early sagas, but is likely at least partially derived from Algic-Aleutian &lt;em&gt;Quutetast&lt;/em&gt; word for &amp;ldquo;snow,&amp;rdquo; &lt;em&gt;Ismo&lt;/em&gt;. Sagas award Faroese settler Ann Sigfúsdottir with the island&amp;rsquo;s discovery and name, though little else is known of her.&lt;/p&gt;
+&lt;p&gt;The name &lt;em&gt;Vekllei&lt;/em&gt; ostensibly applies foremost to the physical landscape of the country, of which the present city-state inherits its name. In addition, the people of Vekllei, language, and all subsequent pluralisations are also &lt;em&gt;Vekllei&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;
+  History
+  &lt;a class=&#34;anchor&#34; href=&#34;#history&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Download the &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; &lt;a href=&#34;https://millmint.net/files/Pre-War%20Vekllei%20Timeline.pdf&#34;&gt;Pre-War Vekllei Timeline.pdf&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Home Island has been inhabited for at least four thousand years by Arctic peoples migrating from Kalalist.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Evidence of European settlement in Vekllei can be determined from unearthed fishing towns dated to 1230BC, when settlers from Ireland established fishing communities along the southern coast.&lt;/p&gt;
+&lt;p&gt;Subsequent centuries saw rapid growth of the local population, which was politically and culturally isolated from mainland Europe by the 6th Century BC. By the 4th Century BC, many contemporary cultural features of the country had become commonplace, including an early form of &lt;a href=&#34;https://millmint.net/utopia/culture/religion&#34;&gt;Upen&lt;/a&gt; and &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;Vekllei logographs&lt;/a&gt;. During the following millennia Vekllei developed into a major economic and military power, but saw its influence decline between the 12th and 15th Centuries AD during the Period of Rest.&lt;/p&gt;
+&lt;p&gt;During Vekllei&amp;rsquo;s Middle Period, the country was struck by civil unrest that escalated into civil war, which installed Aismo Desimou as the first King of Vekllei. The monarchy succeeded until Vekllei&amp;rsquo;s colonial Late Period, which was usurped to a navy coup d&amp;rsquo;etat that installed a military junta in government, which rapidly expanded Vekllei&amp;rsquo;s colonial holdings. A successor series of military regimes would rule the Vekllei Islands and its possessions until the 20th Century, and would spark the Africa Wars and Vekllei&amp;rsquo;s atomic bombing by the United Kingdom in 2005, which collapsed the existing regime and ushered in British occupation of the country.&lt;/p&gt;
+&lt;p&gt;Since independence in 2015, Vekllei&amp;rsquo;s Floral Period has transformed the country, and has been marked by a period of unprecedented stability and economic growth. Vekllei does not use money domestically, with most internal trade dependent on social exchange, barter and state service, but operates twin currencies (the &lt;em&gt;Government&lt;/em&gt; and &lt;em&gt;Vekllei&lt;/em&gt; Crown) in its trade internationally.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/shrine-minded.jpg&#34; alt=&#34;Picture of girls caught in a gust of wind&#34;  title=&#34;Life in coastal boroughs like [Santes](/utopia/landscape/boroughs/santes) continues much as it has for hundreds of years | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Life in coastal boroughs like &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/santes&#34;&gt;Santes&lt;/a&gt; continues much as it has for hundreds of years | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-05-06-shrine-minded/&#34;&gt;Shrine-Minded Girls&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Vekllei is a great power and has the world&amp;rsquo;s fifth highest military expenditure. The country is highly developed and has exceptional liveability, and is placed highly in key social indicators: education, healthcare, quality of life, personal safety and housing, with a home-ownership rate of nearly 96%. It is a member of the United Nations&amp;rsquo; Non-Aligned Concern League.&lt;/p&gt;
+&lt;p&gt;Since independence, Vekllei has maintained a strong position of armed neutrality, and is home to many international organisations, including the new United Nations Office, the International Federation of Journalists and the Universal Post Union. Immigrants account for 30% of the population, and multiracialism is enshrined in the constitution, and continues to shape national policies in education, housing, and politics. Vekllei has large foreign-born populations from Eastern and Southern Europe, North Africa, the British Isles, Hong Kong and Latin America.&lt;/p&gt;
+&lt;h2 id=&#34;geography&#34;&gt;
+  Geography
+  &lt;a class=&#34;anchor&#34; href=&#34;#geography&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt; is an ancient country of striking geological monument. A landscape of igneous rock and lava flows, Vekllei&amp;rsquo;s dramatic geology is tempered by its healthy abundance of rainforests and flower-tundras, which paint the country in soft mossy hues of green and yellow.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei sits atop the constructive boundary of the Mid-Atlantic ridge, bridging the North American and the Eurasian tectonic plates. The country is also found between the North Atlantic and Arctic oceans, although the entirety of the Home Island is situated beneath the arctic circle. Despite this, the extreme latitude of inhabited areas means daylight is highly seasonal in the country, with dark winters and summer solstices that provide 23 consecutive hours of daylight. This dramatic seasonal environment has ongoing political, economic and cultural relevance in the country today, and contributes to the dependence on hothouses and greenhouses for agriculture throughout the year.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I don&amp;rsquo;t understand it. When am I supposed to go to sleep?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Tzipora Desmoisnes&lt;/p&gt;
+&lt;p&gt;The unstable Atlantic pressure oscillation, of which Vekllei anchors as the Vekllei Low Pole, can pull in bitter cold from the Greenland currents, or warmth from the Azores tempestuously. This gifts the Home Islands a temperate, though subarctic climate, with average temperatures in summer of about 18-25 degrees centigrade that decline into an annual mean low of approximately 10 degrees in the Capital Region. The good weather and seasonal daylight inform Vekllei&amp;rsquo;s animistic spiritualism, with festivals to mark both solstices.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/gun.jpg&#34; alt=&#34;Picture of Tzipora and Baron hunting&#34;  title=&#34;Hunting in a ro, a flower-rich tundra characterised by volcanic pools | *[The Gun](/posts/2021-08-25-gun/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Hunting in a ro, a flower-rich tundra characterised by volcanic pools | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-08-25-gun/&#34;&gt;The Gun&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Vekllei sits between North American and Continental European territories, but is usually regarded as independent of both because of its central position in the North Atlantic and its peripheral possessions, which include &lt;em&gt;Kala&lt;/em&gt; (Greenland) and the &lt;em&gt;Aismious Islands&lt;/em&gt; (Faroe Islands). Because of its volcanic origins and position above the &lt;em&gt;Oslolan Kiss&lt;/em&gt; (the Mantle Plume), Vekllei remains highly volcanic and several volcanoes remain active in the country. The world&amp;rsquo;s newest island, &lt;em&gt;Liyra&lt;/em&gt;, was formed in 2056 off Vekllei&amp;rsquo;s South Coast.&lt;/p&gt;
+&lt;p&gt;Vekllei is the world&amp;rsquo;s 18th largest island, and has significant biological and climate diversity for a landmass of its size. Southern Vekllei is wet, seasonal and temperate, populated mostly by temperate rainforests and spruce forests. Vekllei&amp;rsquo;s glacial interior is dominated by flower-tundras, called &lt;em&gt;Ro&lt;/em&gt;, and barren vegetation consisting mostly of grasslands, plains, and isolated woodland. Lava fields, mountains and massive freshwater glaciers are also common throughout the middle and east of the country. Vekllei&amp;rsquo;s north is dry and subarctic, and receives heavy snowfall and ice in winter months. The entire Home Islands are marked by dramatic volcanic landscapes of steep igneous rock, valleys and glacial monuments. Vekllei has some of the tallest waterfalls in the world. The country has the highest number of flowers per capita in the world.&lt;/p&gt;
+&lt;h2 id=&#34;politics&#34;&gt;
+  Politics
+  &lt;a class=&#34;anchor&#34; href=&#34;#politics&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Politics&lt;/strong&gt; in Vekllei are characterised by postwar constitutional values of nonpartisan democracy and local municipalism. Political concern is aestheticised and developed along cultural and interpersonal lines &amp;ndash; a feature of life, but fundamentally participatory. In truth, at least with regards to domestic concern, Vekllei&amp;rsquo;s daily affairs are basically autonomous, and politics remains the concern of an educated, invested class of people.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Vekllei Commonwealth is a federated superstate including &lt;a href=&#34;https://millmint.net/utopia/vekllei/#commonwealth-member-states&#34;&gt;six individual commonwealths&lt;/a&gt; which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the &lt;strong&gt;Crown Sovereign&lt;/strong&gt;. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the &lt;strong&gt;Palace of the Vekllei Commonwealth&lt;/strong&gt;, which enshrines the floral constitution and retains control over the armed forces.&lt;/p&gt;
+&lt;p&gt;Beneath the Palace is the &lt;strong&gt;Commonwealth Parliament&lt;/strong&gt;, which manages affairs that concern all commonwealth member-states, including standardisation of education, protection of culture, and intelligence gathering. The Commonwealth Parliament unites the resources of individual &lt;strong&gt;Island Commonwealths&lt;/strong&gt; (called Islands here for simplicity), and standardises their political features. Island Commonwealths may have their own sovereign member-states, as in the case of Kalina and Antilles. These small nation-states are called &lt;strong&gt;Cherishes&lt;/strong&gt; and retain their own parliamentary governments.&lt;/p&gt;
+&lt;p&gt;In total, there are four national governments sharing overlapping sovereignty over individual Vekllei countries. Together, they form a tremendous superstate with control over most of the Atlantic.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The Crown&lt;/strong&gt; &amp;ndash; the physical nature of territory belonging to the Vekllei Commonwealth, represented in human affairs by the Palace&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Commonwealth Parliament&lt;/strong&gt; &amp;ndash; the highest human multinational parliament and elected cabinet&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Island Parliaments&lt;/strong&gt; &amp;ndash; self-managing regional governments, functionally similar to traditional nation-states&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;And, in the case of Cherishes, which are individual republics within island commonwealths:&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;The National Parliaments&lt;/strong&gt; &amp;ndash; local, traditionally republican governments that have further concessions to boroughs, councils, municipalities and villages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Constituent member-states of the Commonwealth (the &amp;lsquo;Island Parliaments&amp;rsquo;) have two prime ministers that represent their national governments in the Commonwealth parliament. In most Islands, prime ministers include one man and one woman, with the exception of Kala. Elections are conducted with a Hare-Clark single transferable vote system to elect the prime ministers and bicameral legislatures, usually consisting of an upper house (a &lt;em&gt;Crown Secretariat&lt;/em&gt;) and a lower house (&lt;em&gt;Assembly&lt;/em&gt;). All voting in Vekllei is participatory and the superstate does not enforce a poll tax at any level of government. However, Island Parliaments require electoral enrolment from age 16 onwards.&lt;/p&gt;
+&lt;p&gt;Since Vekllei governments are nonpartisan, they do not allow formal participation of parties within elections. Despite this, informal associations of elected representatives exist, in the form of &lt;em&gt;sociopartit&lt;/em&gt;, or &lt;em&gt;Party Associations&lt;/em&gt;. The largest of these include the Vekllei Industrial Working Concern, the Atlantic Party, and the Crown, and although membership is permitted among elected members they are otherwise disallowed within the electoral process.&lt;/p&gt;
+&lt;p&gt;Governance in almost all levels of Vekllei government can be arranged along three branches, which scale from small village municipalities to the very Crown itself.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A Parliament&lt;/strong&gt;, including bicameral houses, petty legislatures, municipalities and the Palace.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Government&lt;/strong&gt;, including prime ministers and an elected ministerial cabinet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Judiciary&lt;/strong&gt;, including both the High Court and Constitutional Court of Vekllei as well as tiny petty magistratures and council courts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--#### The Crown
+
+**The Crown** (also the *Palace of the Commonwealth*, commonly the *Sovereign*) is the 
+
+#### The Commonwealth
+
+**The Commonwealth** (also the *Commonwealth of Vekllei* or the *Atlantic Commonwealth*) is an international superstate of six Island Commonwealths, called Islands to distinguish them here.
+
+#### The Islands
+
+#### The Cherishes
+
+A **Cherish** is a type of sovereign republic that self-governing and autonomous, but generally does not retain the right to secede from its Island Commonwealth. Cherishes range in size and population dramatically, and were designed to empower cultural identities splintered by the multinational Commonwealth system. Cherishes elect their own prime ministers and retain their own ministries, but commonly are dependent on larger governments for training, staffing and some services. --&gt;
+&lt;h3 id=&#34;administrative-divisions&#34;&gt;
+  Administrative divisions
+  &lt;a class=&#34;anchor&#34; href=&#34;#administrative-divisions&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ See also: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs&#34;&gt;Boroughs of Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;details &gt;
+  &lt;summary&gt;Vekllei Commonwealth Member-States&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vekllei Commonwealth
+&lt;ul&gt;
+&lt;li&gt;Vekllei Antarctic Territories&lt;/li&gt;
+&lt;li&gt;Vekllei Lunar Territories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dependent States&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aismious Islands (Faroe Islands)&lt;/li&gt;
+&lt;li&gt;Demon Islands (Jan Mayen)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Constituent Member-States&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antilles Commonwealth
+&lt;ul&gt;
+&lt;li&gt;Aruba Cherish (Aruba)&lt;/li&gt;
+&lt;li&gt;Bonaire Cherish (Bonaire)&lt;/li&gt;
+&lt;li&gt;Curaçao Cherish (Curaçao)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Azores Commonwealth (Azores)&lt;/li&gt;
+&lt;li&gt;Kala Commonwealth (Greenland)&lt;/li&gt;
+&lt;li&gt;Kalina Commonwealth
+&lt;ul&gt;
+&lt;li&gt;Angua Cherish (Anguilla)&lt;/li&gt;
+&lt;li&gt;Antam Cherish (Antigua)&lt;/li&gt;
+&lt;li&gt;Barbuda Cherish (Barbuda)&lt;/li&gt;
+&lt;li&gt;Liamuiga Cherish (Saint Kitts)&lt;/li&gt;
+&lt;li&gt;Martin Cherish (Saint Martin)&lt;/li&gt;
+&lt;li&gt;Montesur Cherish (Montserrat)&lt;/li&gt;
+&lt;li&gt;Oualie Cherish (Nevis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mira Commonwealth (Madeira)&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Vekllei refers to both the &lt;strong&gt;Vekllei Islands&lt;/strong&gt;, a nation-state in the North Atlantic, and the &lt;strong&gt;Vekllei Commonwealth&lt;/strong&gt;, a supranational commonwealth of Atlantic states. Each Commonwealth member-state is considered a full member of equal standing, and participate equally in the Commonwealth Parliaments. The Vekllei Islands are by far the most prosperous and populous member-state, and so demonstrate tremendous influence over the Commonwealth.&lt;/p&gt;
+&lt;h4 id=&#34;vekllei-islands&#34;&gt;
+  Vekllei Islands
+  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-islands&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;The Vekllei Islands are considered a conterminous city-state, although in practice the country is divided into many distinct regions, cities and towns. The Home Island, the largest and most populous of the Vekllei Islands, are divided geographically into 100 &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs&#34;&gt;boroughs&lt;/a&gt; which act as semiautonomous local governments, and are further subdivided into local municipalities called &lt;em&gt;municipolis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Each borough is proportional to the region&amp;rsquo;s natural wealth, which accounts for its history, folklore and natural features. Because of this, the human population of boroughs is highly disproportionate, the smallest being &lt;a href=&#34;https://millmint.net/utopia/vekllei/boroughs/bakur&#34;&gt;Bakur&lt;/a&gt;, in the Afouismeh region, with a population of 7,500 people, and the largest being Vekllei proper, in the Capital Region, of 2.4 millions.&lt;/p&gt;
+&lt;p&gt;Each borough elects a &lt;strong&gt;Secretary&lt;/strong&gt; and two &lt;strong&gt;House Members&lt;/strong&gt; to the Vekllei Islands Parliament, which is lead by two prime ministers &amp;ndash; one man and one woman.&lt;/p&gt;
+&lt;h4 id=&#34;commonwealth-member-states&#34;&gt;
+  Commonwealth Member-States
+  &lt;a class=&#34;anchor&#34; href=&#34;#commonwealth-member-states&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Download the &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; &lt;a href=&#34;https://millmint.net/files/Member-States%20of%20the%20Vekllei%20Commonwealth.pdf&#34;&gt;Member-States of the Vekllei Commonwealth.pdf&lt;/a&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Constituent member-states maintain their own local parliaments in the style of the Vekllei Islands, and contribute secretaries to the Commonwealth Parliament, a supranational governing body affording equal representation to commonwealth members.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/territories.jpg&#34; alt=&#34;A map of Commonwealth overseas territories&#34;  title=&#34;A map showing Vekllei&amp;#39;s overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | *[Vekllei&amp;#39;s Sprawling Commonwealth](/posts/2021-03-10-commonwealth/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;A map showing Vekllei&amp;rsquo;s overseas territories, including claims in the Lesser Antilles, Antarctica and the Lunar South Pole | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-03-10-commonwealth/&#34;&gt;Vekllei&amp;rsquo;s Sprawling Commonwealth&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The Commonwealth Parliament maintains the features of the Commonwealth Government, which coordinates military and intelligence services, education and many other services between member-states. These shared services standardise aspects of these societies, and centralise leadership to better coordinate growth and democracy in the Commonwealth.&lt;/p&gt;
+&lt;h3 id=&#34;floral-society&#34;&gt;
+  Floral Society
+  &lt;a class=&#34;anchor&#34; href=&#34;#floral-society&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Floral Society&lt;/strong&gt; is the informal Vekllei phrase for the postwar Vekllei state, distinguishing it from the prewar junta and monarchy. The new period is characterised by democratisation and widespread personal freedoms, but has also recalled traditional cultural history into contemporary Vekllei life. Since the war, Vekllei has been marked by rapid change, and Floral Society&amp;rsquo;s growing cultural legacy, which continues to distance it from the prewar period.&lt;/p&gt;
+&lt;h4 id=&#34;petticoat-constitution&#34;&gt;
+  Petticoat constitution
+  &lt;a class=&#34;anchor&#34; href=&#34;#petticoat-constitution&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;The &lt;strong&gt;Petticoat Constitution&lt;/strong&gt; (officially the &lt;em&gt;&lt;strong&gt;Constitution of Vekllei&lt;/strong&gt;&lt;/em&gt;) is Vekllei&amp;rsquo;s founding constitutional document since independence, and remains a core political and cultural factor in the country. It provides for &amp;ldquo;Atlantic-style democracy,&amp;rdquo; free association and press, and a nonpartisan judicial system among other things.&lt;/p&gt;
+&lt;p&gt;The Constitution is underlined by four principles of postwar Vekllei life, outlined as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Self-management&lt;/strong&gt; and &lt;strong&gt;self-interest&lt;/strong&gt; through Sundress Municipalism.&lt;/li&gt;
+&lt;li&gt;Classification of property as an &lt;strong&gt;independent social organ&lt;/strong&gt; of the landscape-sovereign.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abolishment of currency&lt;/strong&gt; and currency-substitutes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Economic feminisation&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These features manifest in various forms throughout modern Vekllei, including its moneylessness, place-metaphysics, and personal freedoms. Its association with the Rebirth of Vekllei, characterised as female in &lt;a href=&#34;https://millmint.net/utopia/vekllei/religion&#34;&gt;Upen&lt;/a&gt;, gave the document its colloquial name &lt;em&gt;Petticoat Constitution&lt;/em&gt;, after its provisions for women in democratic Vekllei society.&lt;/p&gt;
+&lt;h4 id=&#34;atlantic-municipalism&#34;&gt;
+  Atlantic Municipalism
+  &lt;a class=&#34;anchor&#34; href=&#34;#atlantic-municipalism&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Atlantic Municipalism&lt;/strong&gt;, also &lt;em&gt;Sundress Municipalism&lt;/em&gt;, is the way in which Vekllei settlements are organised within boroughs, and informs the way in which cities are built. Vekllei has an indigenous architecture ideology, called &lt;em&gt;Newda&lt;/em&gt;,&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; which conforms to planning and lifestyle principles laid out in &lt;em&gt;Atlantic Municipalism&lt;/em&gt;. The principles themselves are often represented as a seven-pointed star. They are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Local employment, or &amp;ldquo;commutelessness.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Slumlessness, beautification, and a will to architecture.&lt;/li&gt;
+&lt;li&gt;Property stewardship.&lt;/li&gt;
+&lt;li&gt;Open air and clean water.&lt;/li&gt;
+&lt;li&gt;Land usefulness (&amp;quot;&lt;em&gt;friendliness&lt;/em&gt;&amp;quot;).&lt;/li&gt;
+&lt;li&gt;Private ownership of private needs.&lt;/li&gt;
+&lt;li&gt;Public ownership of public needs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Municipalism&lt;/em&gt; folds into broader conceptual ideas indigenous to Vekllei about space and ownership, found throughout its political system (as in the landscape sovereign) and its economy (as in product atheism). To this end, most ongoing construction and civic planning in the country invoke &lt;em&gt;Atlantic Municipalism&lt;/em&gt; as a framework.&lt;/p&gt;
+&lt;h2 id=&#34;economy&#34;&gt;
+  Economy
+  &lt;a class=&#34;anchor&#34; href=&#34;#economy&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt; is land of plenty and small pleasures, afforded by a post-scarcity system that positions competing systems against each other. It is made up of a startling series of contradictions &amp;ndash; one after the other, each more unusual than the last. Vekllei is a planned economy; it is also a free market. Property ownership is obfuscated by portioned sovereignty of land and product. Decommodification has devalued products in a country based on manufacturing. There are many contradictions, inefficiencies and unusual mechanisms in the Vekllei domestic market, which total to benefit the living conditions of the average person.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ See also: &lt;em&gt;&lt;a href=&#34;https://millmint.net/news/essays/moneylessness/&#34;&gt;On Moneylessness&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint red&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;💵&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/finance/&#34;&gt;Finance in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei is functionally moneyless for most of its citizens, which means they do not use money in day-to-day life, nor are they paid a salary for their work. Employment is in principle participatory, but in practice required by a system called &lt;em&gt;Consosva&lt;/em&gt; (&lt;em&gt;Contributory Service&lt;/em&gt;). Work in Vekllei is understood foremost as a social obligation, and Vekllei people generally work only a few days a week.&lt;/p&gt;
+&lt;p&gt;The country has an unusual hybrid market system called the &lt;em&gt;Vekllei Bureau System&lt;/em&gt; (known colloquially as &lt;em&gt;Petticoat Socialism&lt;/em&gt;), which incorporates state-owned socialist planned economics and deregulated syndicalist vertical &lt;em&gt;bureaus&lt;/em&gt; to benefit a free, unregulated informal market system. Most unique about the Vekllei economy is its functional moneylessness, in which domestic society has abolished currency. No widespread currency substitutes are used in ordinary life. Each citizen owns a share of the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce/#bank-of-vekllei&#34;&gt;Bank of Vekllei&lt;/a&gt;, a portion of the &lt;em&gt;Government Securities Bureau&lt;/em&gt; designed to allow emigration from the country, and so is theoretically entitled to an equal portion of the Bank.&lt;/p&gt;
+&lt;p&gt;Trade and materials are provided by biosynthetic robotics infrastructure and participatory work, and is supplemented in places by mandatory military service. Vekllei people enjoy a high standard of living and access to most consumer goods.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/momentsinlove.jpg&#34; alt=&#34;Picture of the borough of Lava&#34;  title=&#34;The borough of Lava, part of Vekllei&amp;#39;s dense, residential satellite belt | *[Moments in Love](/posts/2021-01-23-love/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;The borough of Lava, part of Vekllei&amp;rsquo;s dense, residential satellite belt | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-01-23-love/&#34;&gt;Moments in Love&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Postwar Vekllei economics champions free association, home-ownership and informal markets. Although microeconomically Vekllei is highly liberalised, most essential goods of the country are produced in vertically integrated in labour-union &lt;em&gt;Bureaus&lt;/em&gt;, which, although representative of private companies and independent from the government, are associated with the general political processes of the country.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NO REALTORS EXCEPT THE STATE, THE COUNTY THE AGENT OF THE STATE, THE ARCHITECT THE AGENT OF THE COUNTY&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Original wording of the Municipal Charter, &lt;em&gt;Constitution of Vekllei&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bureaus&lt;/em&gt; (also &lt;em&gt;Bureaus Proper&lt;/em&gt;, as distinguished from informal &lt;em&gt;Petty Bureaus&lt;/em&gt;) are trade unions that organise business in the country, and the largest of them include thousands of individual companies and concerns. Companies are generally cooperative enterprises in Vekllei, and so worker votes are consolidated into &amp;ldquo;Company Ballots&amp;rdquo; used to influence political affairs within a &lt;em&gt;Bureau&lt;/em&gt; and the country at large.&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/1.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/10.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/50.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/100.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/200.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/500.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/coins/1000.png&#34; alt=&#34;coin&#34; style=&#34;width:100%; padding: 0; background-color: transparent;&#34; &gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Although moneyless domestically, the nation maintains two currencies, known as the &lt;em&gt;Vekllei Crown&lt;/em&gt; and the &lt;em&gt;Government Crown&lt;/em&gt; for foreign trade.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#vekllei-crown-vk&#34;&gt;&lt;strong&gt;The Vekllei Crown&lt;/strong&gt;&lt;/a&gt; is representative of Vekllei&amp;rsquo;s export-import mechanism known as the *International Market. It is gold-backed, and represents the bullion value of the Market. Since the &lt;em&gt;International Market&lt;/em&gt; is completely closed and independent of the domestic economy, its value is controlled directly by the so-called Government Bank. It is one of the few gold-backed currencies in a developed nation today.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/finance/#government-crown-ak&#34;&gt;&lt;strong&gt;The Government Crown&lt;/strong&gt;&lt;/a&gt; is not minted and used only as an investment mechanism, backed by government “white bonds” which are usually measures of labour-hours or refined materials. It is, in a sense, a fiat currency alongside a gold-backed currency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both currencies are used for trade internationally, and float on the labour-power of the domestic economy. The Vekllei Crown is minted as a novelty, but otherwise no money is printed in the country, since Government Crowns are essentially labour-backed state bonds. Moneylessness benefits citizens in many ways, as Vekllei people do not typically maintain debts, have access to unlimited small commodities, and enjoy some of the shortest workdays and working weeks in the world, with all citizens afforded two months holiday each year.&lt;/p&gt;
+&lt;h3 id=&#34;employment&#34;&gt;
+  Employment
+  &lt;a class=&#34;anchor&#34; href=&#34;#employment&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Vekllei has a high unemployment rate for a developed country, reported at 12.5%. About 80% of Vekllei workers belong to a trade union, usually &lt;em&gt;Pettiburos&lt;/em&gt; or &lt;em&gt;Bureaus&lt;/em&gt;. Nearly 2 million Vekllei people are enrolled in higher education full-time, significantly reducing the nation&amp;rsquo;s labour pool. These are accounted for politically as natural fluctuations of the deregulated Bureau System, and unemployment in the country has seen a stable reduction since the initial decades of independence. Although many citizens in Vekllei are immigrants, the country has few foreign workers, and those employed in the country tend to be high-skill and high-wage workers.&lt;/p&gt;
+&lt;p&gt;Since no work is compensated by money in the country, international standard metrics for poverty and income per capita are obfuscated. It is generally understood that urban populations have easier access to consumer goods, but inferior access to local produce and genuine meat products. Rural populations are also more likely to take on informal work in their village or town, and may not necessarily hold membership in an industry bureau.&lt;/p&gt;
+&lt;h3 id=&#34;industry&#34;&gt;
+  Industry
+  &lt;a class=&#34;anchor&#34; href=&#34;#industry&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint red&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;🏬&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/assets/&#34;&gt;State Assets in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;All commercial enterprise in Vekllei is founded along two legal and cultural classifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Venrouive&lt;/strong&gt;&lt;/em&gt; is business managed by a &lt;em&gt;Bureau Proper&lt;/em&gt;, an organ consisting of trade unions in an industry. While &lt;em&gt;Bureaus&lt;/em&gt; are independent from government, they are for the most part bound to their concern, and so in practice &lt;em&gt;Venrouive&lt;/em&gt; businesses are beholden to the democratic processes of the country.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Senrouive&lt;/strong&gt;&lt;/em&gt; is business not managed by a &lt;em&gt;Bureau Proper&lt;/em&gt;, though it may still hold membership in a &lt;em&gt;Petty Bureau&lt;/em&gt;. It is analogous to private enterprise.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vekllei&amp;rsquo;s sovereign wealth fund, the Government Securities Bureau, is the largest such fund in the world with commodity and non-commodity holdings totalling over VK❦45 trillion. It is the primary investment mechanism of the Vekllei state and has generated controversy around its substantial economic power and commodity holdings abroad. Vekllei is the second-largest logistics hub in the world, and as a maritime city-state sees millions of tonnes worth of shipping traffic each year pass through its ports.&lt;/p&gt;
+&lt;p&gt;Vekllei&amp;rsquo;s Dohyo Free Port is the largest in the Atlantic and among the busiest in the world. Most of Vekllei&amp;rsquo;s liquid currency assets, denominated as Government Kroner, are generated through a shipping Goods and Services Tax (GST) on all foreign business in the country of approx. 10%, of which the Dohyo Free Port contributes VK❦12 trillion each year.&lt;/p&gt;
+&lt;p&gt;Vekllei primarily exports manufactured goods, which are produced by both human and automatic labour via commodity imports and extraterrestrial materials mining as part of the Solar Concern of the Vekllei Commonwealth Materials Bureau (or Solaburo).&lt;/p&gt;
+&lt;p&gt;Most personal or private business in Vekllei is structured as either single-person shops (&lt;strong&gt;S.p.A.&lt;/strong&gt;, or &lt;em&gt;senrouiva pettetie anaproiouya&lt;/em&gt;), co-operative businesses (&lt;strong&gt;S.q.A.&lt;/strong&gt;, or &lt;em&gt;senrouiva qualitie anaproiouya&lt;/em&gt;), or village factories (&lt;strong&gt;S.p.M.&lt;/strong&gt;, or &lt;em&gt;senrouiva persimonaya manufacturie&lt;/em&gt;). Any commercial enterprise larger than S.p.M. tends to hold membership in or is directly administered by a &lt;em&gt;Bureau Proper&lt;/em&gt;, though there are exceptions.&lt;/p&gt;
+&lt;h3 id=&#34;tourism&#34;&gt;
+  Tourism
+  &lt;a class=&#34;anchor&#34; href=&#34;#tourism&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Tourism is a major source of foreign income in Vekllei, and the country attracts some 6 million tourists annually. Although the number of tourists is low compared to popular destinations in North America and Europe, Vekllei&amp;rsquo;s strict entry requirements and state monopoly on hotels and tourist infrastructure means that most visitors are high-wealth business travellers or affluent foreigners, which together contribute around 0.5% of the country&amp;rsquo;s GDP annually.&lt;/p&gt;
+&lt;p&gt;Vekllei sponsors tourism abroad via the Social Government Bank, which allows Vekllei people to withdraw superannuated cash savings for tourism and travel abroad.&lt;/p&gt;
+&lt;h2 id=&#34;demographics&#34;&gt;
+  Demographics
+  &lt;a class=&#34;anchor&#34; href=&#34;#demographics&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;The story of Vekllei&lt;/strong&gt; is a story of rebirth, and no better is this revealed than in the country&amp;rsquo;s cultural &lt;em&gt;Aliyah&lt;/em&gt; after the Atomic War. Vekllei is an ancient place rediscovering itself and its people, and in the rapid development of the postwar Floral Period there are novel shifts in how Vekllei people talk, behave, and look.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vekllei has one of the highest population densities in the world, skewed largely by the populous Capital Region. Vekllei considers itself a city-state, and to this end fosters &amp;ldquo;commonhoods&amp;rdquo;, represented by &lt;em&gt;common practice&lt;/em&gt;, &lt;em&gt;common work&lt;/em&gt; and &lt;em&gt;common landscape&lt;/em&gt;. Although Vekllei has been settled for thousands of years, postwar advocation of &lt;em&gt;commonhoods&lt;/em&gt; emphasises &lt;em&gt;landscape&lt;/em&gt; in place of the historic &lt;em&gt;blood&lt;/em&gt; in wake of Vekllei&amp;rsquo;s growing migrant population and multiculturalism. Nearly 30% of Vekllei people were born overseas, though this number is trending down as immigration quotas (set by emigration and housing availability) restrict inflow in recent decades.&lt;/p&gt;
+&lt;p&gt;Vekllei is experiencing a slight demographic trend towards an older population, and the average age of the country stands at 35 years old.&lt;/p&gt;
+&lt;p&gt;Vekllei maintains a stable fertility rate of about 1.8 children per woman, indicating a slight decline in population. Vekllei enjoys high rates of immigration, sponsored by the government, and sees settlement from Western and Eastern Europe, Scandinavia, South-East Asia and South America. Vekllei has also experienced high rates of emigration since independence, although many expats retain citizenship and later return to residence in Vekllei at some point. To this end, Vekllei is one of the largest exporters of skilled workers and tradesmen in the world.&lt;/p&gt;
+&lt;h3 id=&#34;language&#34;&gt;
+  Language
+  &lt;a class=&#34;anchor&#34; href=&#34;#language&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint red&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;📖&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/culture/language/&#34;&gt;Language in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Modern Vekllei language (referred to simply as &lt;em&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/em&gt;) is the national language of the country and spoken universally within the Home Islands and Vekllei&amp;rsquo;s various Atlantic possessions. It is notable for its varied sublanguages, which include a signed language called &lt;a href=&#34;https://millmint.net/utopia/culture//language/#6-upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt; and various extant utility scripts.&lt;/p&gt;
+&lt;p&gt;Vekllei is spoken by around 25 million people, and a further 800,000 people around the world. Its relative complexity and provinciality lend to Vekllei&amp;rsquo;s cultural obscurity abroad, since few Vekllei people are English literate.&lt;/p&gt;
+&lt;h3 id=&#34;religion&#34;&gt;
+  Religion
+  &lt;a class=&#34;anchor&#34; href=&#34;#religion&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint red&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;💀&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/culture/religion/&#34;&gt;Religion in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Upen&lt;/em&gt; is the nondenominational animism of Vekllei, and is practiced nearly universally throughout the country in various forms and traditions. As much a secular cultural tradition as an organised religion, &lt;em&gt;Upen&lt;/em&gt; coexists alongside abrahamic and miscellaneous faiths in the country, integrating most immigrant populations in Vekllei into its scripture on landscape and &lt;em&gt;sumoismiaya&lt;/em&gt;, or the &amp;ldquo;spirit of things.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/spiritful.jpg&#34; alt=&#34;Picture of Tzipora in traditional ress&#34;  title=&#34;[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;&lt;a href=&#34;https://millmint.net/utopia/characters/#tzipora-zelda-desmoisnes&#34;&gt;Tzipora&lt;/a&gt; stands in traditional Upen dress before an offerings box. | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-06-19-spiritful/&#34;&gt;Spiritful&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;While Vekllei has no state religion, &lt;em&gt;Upen&lt;/em&gt; is thoroughly integrated with Vekllei culture and policy, and informs life and practice in this country as an agonistic feature of culture. Vekllei&amp;rsquo;s Floral Constitution prohibits governmental regulation of religion or prohibition of faith. Despite this, &lt;em&gt;Upen&lt;/em&gt; is taught in state schools and practiced frequently, reinforcing its relevance across younger generations in a broader resurgence of traditional folklore in the postwar era.&lt;/p&gt;
+&lt;p&gt;Although most people in the country observe &lt;em&gt;Upen&lt;/em&gt; apolitically, several other religious cultures hold sway in the country, including Catholicism (11%) Judaism (9%), Buddhism (4%), Islam (2%), Hinduism (1.3%) and Sikhism (0.7%). Despite this, Vekllei has some of the lowest rates of religious adherence in the world, estimated at a mere 6%, signifying &lt;em&gt;Upen&lt;/em&gt;&amp;rsquo;s cultural influence on personal practice and informal ritual.&lt;/p&gt;
+&lt;h3 id=&#34;education&#34;&gt;
+  Education
+  &lt;a class=&#34;anchor&#34; href=&#34;#education&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint red&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;span class=&#34;smallicon&#34;&gt;📚&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/education/&#34;&gt;Education in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Education in Vekllei is structured as a &lt;em&gt;State Requisite Bureau&lt;/em&gt; (rather than department) under the &lt;em&gt;requoisesiasn amourisocietie scolastie&lt;/em&gt;, or A.r.E. Schooling is mandatory and universal between the ages of 5 and 14, and most schools in the country serve all ages between these years. All schools in Vekllei, aside from a half-dozen religious schools, are coeducational and operated directly by the A.r.E.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/generation.jpg&#34; alt=&#34;Diagram of student uniforms&#34;  title=&#34;Students in the uniform of Vekllei government schools | *[A New Generation](/stories/new-generation/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Students in the uniform of Vekllei government schools | &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/new-generation/&#34;&gt;A New Generation&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;All institutions of higher learning, including universities, trade schools and adult education, are structured under the A.r.E.. &lt;a href=&#34;https://millmint.net/posts/2020-09-08-uniforms/&#34;&gt;School uniforms&lt;/a&gt; informed by &lt;a href=&#34;https://millmint.net/posts/2020-01-11-dress/&#34;&gt;traditional dress&lt;/a&gt; are provided and worn from preschool through to university, and faculty staff also often wear them.&lt;/p&gt;
+&lt;p&gt;Vekllei&amp;rsquo;s school enrolment is among the highest in the world, though this calculation includes untraditional and labour schools, including agricultural and maritime schooling.&lt;/p&gt;
+&lt;h2 id=&#34;infrastructure&#34;&gt;
+  Infrastructure
+  &lt;a class=&#34;anchor&#34; href=&#34;#infrastructure&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;If Vekllei&lt;/strong&gt; is hesitant towards formal recognition of socialist aspects within its economy, in its infrastructure those concerns are discarded entirely. Vekllei is a midcentury state of nationalised infrastructure, led by grand modernist visions of progress and affluence. When combined with &lt;em&gt;Upen&amp;rsquo;s&lt;/em&gt; spiritual emphasis on physicality and permanence, Vekllei&amp;rsquo;s affection for monuments of utility and public works are shown to be deeply embedded in the Vekllei national political spirit.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Unlike manufacturing and general industry&lt;/strong&gt;, public infrastructure in the country is almost entirely monopolised by the government Utilities (A.r.Un.) and Construction (A.r.Lo.) state requisites, organs in Vekllei analogous to nationalised government industry. Infrastructure consistently ranks among Vekllei&amp;rsquo;s greatest national expenditure, with trillions of Kroner each year poured into projects across the country.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/hydro.jpg&#34; alt=&#34;Picture of the Ou Hydro Complex&#34;  title=&#34;Sunny morning at the [Ou Hydroburo Complex](/utopia/landscape/boroughs/ou/#hydroburo-development) in [Ou](/utopia/landscape/boroughs/ou/). | *[The Ou Hydroburo Office](/stories/hydro/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;Sunny morning at the &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/ou/#hydroburo-development&#34;&gt;Ou Hydroburo Complex&lt;/a&gt; in &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/ou/&#34;&gt;Ou&lt;/a&gt;. | &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/hydro/&#34;&gt;The Ou Hydroburo Office&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Most large infrastructure projects, including transport, education, health, military and extraterrestrial interests, are completed in cyclical phases similar to Soviet half-decade plans, including production quotas and hard deadlines for completion. This system of construction has allowed the country to recover quickly from its devastation in the Atomic War and develop one of the most comprehensive public infrastructure systems in the world. Vekllei is a major transport hub for international flights and Atlantic ocean crossings, served largely by the &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#vekllei-world-jetport&#34;&gt;&lt;strong&gt;Vekllei World Jetport&lt;/strong&gt;&lt;/a&gt; and the historic &lt;strong&gt;Port of Vekllei&lt;/strong&gt; respectively.&lt;/p&gt;
+&lt;h3 id=&#34;transport&#34;&gt;
+  Transport
+  &lt;a class=&#34;anchor&#34; href=&#34;#transport&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;🚇&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/industry/rail/&#34;&gt;Railways in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Most Vekllei people do not own private autos, though they are available. Only 6% of the population possesses a driver license, and so most Vekllei people are dependent on the free and comprehensive network of transit systems that link settlement in the island, including trains of various guages, maglevs, trams, trolley busses, ferries, canal steamers, helijets, jets and light aircraft.&lt;/p&gt;
+&lt;p&gt;Vekllei has one of the highest density rail networks in the world, with some 14,000 kilometres of rail of various gauges. Trains vary from maglev hypertrains that connect Vekllei&amp;rsquo;s Five Crown Cities to steam locomotives still in use for cultural reasons in the Home Island&amp;rsquo;s rural interior. Vekllei&amp;rsquo;s smallest rail gauge used in commercial service spans fifteen inches, and is commonly found in mountainous local service. Vekllei simultaneously has the oldest passenger locomotives in regular service in the world alongside some of the newest, including regular overhauls and innovations in maglev and bullet train types.&lt;/p&gt;
+&lt;p&gt;The Vekllei coast is ringed by various rail types, including the Coastal Bullet Train Network and a series of fast trams. A coastal highway, known as Motorway One, links Vekllei&amp;rsquo;s single continuous neighbourhood by road. Motorways are not generally speed limited in Vekllei.&lt;/p&gt;
+&lt;p&gt;For most Vekllei people, automobiles are accessed via &lt;em&gt;autopools&lt;/em&gt;, shared vehicle depots that operate like rental cars for trips not easily made via public transit. Licenses are required to drive, though this is rarely enforced and few drivers renew their licenses, especially outside of Vekllei&amp;rsquo;s urban centres.&lt;/p&gt;
+&lt;p&gt;Vekllei has &lt;a href=&#34;https://millmint.net/posts/2019-11-19-stewards/&#34;&gt;five state air carriers&lt;/a&gt;, which constitute a government monopoly on all air travel in the country. The international flag carrier is &lt;strong&gt;Vekllei Overseas Airways&lt;/strong&gt;, which serves air routes internationally with a fleet of various aircraft, including nuclear monowings and supersonic jets.&lt;/p&gt;
+&lt;h3 id=&#34;housing&#34;&gt;
+  Housing
+  &lt;a class=&#34;anchor&#34; href=&#34;#housing&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;All real estate in Vekllei is negotiated, purchased and leased at a municipal level. Vekllei depends heavily on stewardship as a factor of ownership. Free homes are rented on an open market and are awarded via a complicated interview process rife with favouritism, mitigated by the mandatory circulation of real estate agents around Vekllei. The more time a landholder spends working a property, the larger their portion of ownership over it grows. If the children of a landholder continue to live in the house, they will continue to own it, and the stronger their proportion of ownership will become.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;He who works and lives above the shop, owns the shop&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;ndash; Welcome to Vekllei, &lt;em&gt;Handbook to the Atlantic&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;p&gt;Unusually, in Vekllei land has rights and owns itself, and human ownership is more or less a contract with that land. The borough positions itself as an intermediary. All land is, at its foundation, owned by the Landscape Sovereign; &amp;ndash; in other words, the land itself through Upen metaphysics.&lt;/p&gt;
+&lt;p&gt;In practice, land ownership is portioned between several different things depending on their relationship to that land. The borough has a monopoly, but most Vekllei people &amp;ldquo;own&amp;rdquo; their houses. All buildings are built by an architect with contracts from the municipality and the client. It would be nearly impossible for the Vekllei state to evict someone who has lived and worked land for generations, but a borough can intervene on the behalf of landscape or the structure if it&amp;rsquo;s being damaged.&lt;/p&gt;
+&lt;p&gt;Real estate is also used as compensation for difficult jobs. Doctors are usually housed close to their place of work in nice apartments built for that purpose. Most people who &amp;ldquo;rent&amp;rdquo; in Vekllei are in this situation, where their house depends on their work. Usually, after a certain amount of time, they naturally wrest ownership away from the company (although in common good faith the property is officially gifted). Another good example is submariners, who have good real estate near Vekllei&amp;rsquo;s naval bases. This post mentions Ayn now owns her home from her work after a decade of service.&lt;/p&gt;
+&lt;p&gt;Vekllei&amp;rsquo;s borough municipalities maintain a monopoly on real estate purchase in the country, although the national government and high court retain the right of compulsory acquisition. Most neighbourhoods are planned by municipal architects, leading some to call Vekllei an &amp;lsquo;architocracy&amp;rsquo;. Homes in planned neighbourhoods are often awarded via a lottery system in places of high demand, or are otherwise floated freely on the market. It is common for housing to be dependent on employment, especially in the Capital Region, and real estate often forms part of &lt;em&gt;viede compaszion&lt;/em&gt;, or &amp;rsquo;life compensation,&amp;rsquo; which is how most business in Vekllei rewards labour.&lt;/p&gt;
+&lt;p&gt;Land ownership is common and usually proven by stewardship. Place-metaphysics in &lt;em&gt;Upen&lt;/em&gt; also portion ownership between multiple agents simultaneously; the municipality, the land itself, architecture and the homeowner may all share ownership over land, awarded by common interest, community and utility. Although this muddies a traditional understanding of property, all homes in Vekllei are &lt;em&gt;de facto&lt;/em&gt; owned by their residents, except in certain professions.&lt;/p&gt;
+&lt;p&gt;Homes are also commonly inherited in Vekllei. All Vekllei people are guaranteed a right to home and property under the Petticoat Constitution. Some 92% of adults own their residence in Vekllei.&lt;/p&gt;
+&lt;h3 id=&#34;communications&#34;&gt;
+  Communications
+  &lt;a class=&#34;anchor&#34; href=&#34;#communications&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote class=&#34;hint mail&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;📯&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/mail/&#34;&gt;Post in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint mail&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;🖥&lt;/span&gt; &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/technology/computers/&#34;&gt;Computing in Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;strong&gt;Royal Mail of Vekllei&lt;/strong&gt; is the postal service of the country, and counts among its oldest surviving institutions. Founded in 1422, its origins as a military communications organ manifest today in its contemporary designation as a military state requisite, rather than civilian postal carrier. Despite this, the Royal Mail remains thoroughly civilian in its oversight and practice, and delivers around 50 million mail pieces a day in peak periods, including courier work abroad.&lt;/p&gt;
+&lt;p&gt;
+
+
+ 
+&lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mailtrain.jpg&#34; alt=&#34;Picture of a rural mail train&#34;  title=&#34;[Tzipora](/utopia/characters/#2-tzipora-zelda-desmoisnes) races a [Royal Mail](/mail/) rural [mail train](/utopia/society/industry/crown/mail/#fleet) to its next stop. | *[Racing the Post Office to the Station](/stories/mail-train/)*&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;figcaption&gt;&lt;a href=&#34;https://millmint.net/utopia/characters/#2-tzipora-zelda-desmoisnes&#34;&gt;Tzipora&lt;/a&gt; races a &lt;a href=&#34;https://millmint.net/mail/&#34;&gt;Royal Mail&lt;/a&gt; rural &lt;a href=&#34;https://millmint.net/utopia/society/industry/crown/mail/#fleet&#34;&gt;mail train&lt;/a&gt; to its next stop. | &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/mail-train/&#34;&gt;Racing the Post Office to the Station&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Telephones, telegrams and videophones are structured under the Mail as the Office of Telecommunications, which acts as an independent organ of the Mail A.r.&lt;/p&gt;
+&lt;h3 id=&#34;power--water&#34;&gt;
+  Power &amp;amp; Water
+  &lt;a class=&#34;anchor&#34; href=&#34;#power--water&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Utilities are provided for by the national &lt;strong&gt;Thunderburo&lt;/strong&gt; (the Hydro, Geo, Nuclear-Electric Commissions) and the &lt;strong&gt;Hydroburo&lt;/strong&gt; (Water Commission) across the country, which were reestablished upon independence in 2015, both managed as proper bureaus of majority government ownership. Vekllei operates sixteen nuclear power plants, but most nuclear energy is sold to Europe via undersea cables. All domestic electricity is supplied by Geothermal power plants and Hydroelectric dams for political and religious reasons, making Vekllei one of the only countries of its size to rely exclusively on renewable energy supply for residential and commercial services.&lt;/p&gt;
+&lt;p&gt;Vekllei has the cleanest drinking water in the world, supplied by the country&amp;rsquo;s interior freshwater glaciers. Vekllei&amp;rsquo;s Hydroburo is also responsible for sewerage treatment and processing in the country.&lt;/p&gt;
+&lt;style&gt;
+/* flags */
+.row {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+@media (max-width: 1250px) {
+  .row {
+    display: none;
+  }
+}
+&lt;/style&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The Vekllei Commonwealth includes 5 member-states, 10 Crown Cherishes, 2 territories and 2 dependent states.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The &lt;em&gt;Saga of Origins&lt;/em&gt; is Vekllei&amp;rsquo;s earliest saga (or prose narratives), and is a collection of multiple texts written in &lt;a href=&#34;https://millmint.net/utopia/culture/language/#history&#34;&gt;&lt;em&gt;Islandi&lt;/em&gt;&lt;/a&gt; dating from around the 3rd Century.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Kalalist is the Vekllei word for what we know as Greenland.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;&lt;em&gt;Newda&lt;/em&gt; refers to multiple indigenous design philosophies and architectures, including municipalist design, civic newda and socialist tectonicism.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+	  </description>
 	</item>
 	
   </channel>

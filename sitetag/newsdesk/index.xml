@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>Newsdesk on MillMint</title>
+	<title>Newsdesk</title>
 	<link>https://millmint.net/sitetag/newsdesk/</link>
-	<description>Recent content in Newsdesk on MillMint</description>
+	<description>Recent content in Newsdesk </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/sitetag/newsdesk/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>Newsdesk</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/sitetag/newsdesk/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Letters</title>
 	  <link>https://millmint.net/millmint/patreon/letters/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/letters/</guid>
-	  <description>✿ Note from the Editor I occasionally publish letters to followers and patrons of the project to keep them informed on what&amp;rsquo;s going on. Listed below are copies of the letters distributed to patrons. If you would like to support this project on Patreon, click here.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
+I occasionally publish letters to followers and patrons of the project to keep them informed on what&amp;rsquo;s going on.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Listed below are copies of the letters distributed to patrons. &lt;strong&gt;If you would like to support this project on Patreon, &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -21,7 +42,16 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/snapshots/</guid>
-	  <description> This page lists snapshots produced for patrons. </description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;This page lists snapshots produced for patrons.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+
+	  </description>
 	</item>
 	
   </channel>

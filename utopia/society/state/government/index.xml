@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>Government on MillMint</title>
+	<title>Government</title>
 	<link>https://millmint.net/utopia/society/state/government/</link>
-	<description>Recent content in Government on MillMint</description>
+	<description>Recent content in Government </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/utopia/society/state/government/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>Government</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/utopia/society/state/government/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Interim Prosperity Government</title>
 	  <link>https://millmint.net/utopia/society/state/government/interim/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/interim/</guid>
-	  <description>߷ Part of the state series of articles The Interim Vekllei Government (also the Interim Parliament and Interim Prosperity Government) was a temporary puppet state of the United Kindgom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.
-Included was a majority female council, many of whom were socialists opposed to communist unrest in British-occupied Vekllei and were seen as a strategic alternative to a hostile communist government upon British withdrawal.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;strong&gt;Interim Vekllei Government&lt;/strong&gt; (also the &lt;em&gt;Interim Parliament&lt;/em&gt; and &lt;em&gt;Interim Prosperity Government&lt;/em&gt;) was a temporary puppet state of the United Kindgom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.&lt;/p&gt;
+&lt;p&gt;Included was a majority female council, many of whom were socialists opposed to communist unrest in British-occupied Vekllei and were seen as a strategic alternative to a hostile communist government upon British withdrawal. The council were responsible for draughting the Vekllei Constitution and establishing Interim Ministries in anticipation of independence.&lt;/p&gt;
+&lt;p&gt;After independence in 2017, the Vekllei Interim Government became the 4th Commonwealth of Vekllei.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
 	<item>
@@ -22,7 +43,41 @@ Included was a majority female council, many of whom were socialists opposed to 
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/municipalities/</guid>
-	  <description>✿ Read more: The Good, The Municipal Municipalities are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen. Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/stories/municipal/&#34;&gt;The Good, The Municipal&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Municipalities&lt;/strong&gt; are the bedrock of sundress municipalism, and a physical feature of everyday Vekllei life. A municipality refers to both a local council and its services, including libraries, schools, and policemen.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Municipalities in Vekllei are the predominant form of local government, and vary dramatically in scale, power and resources. They usually refer to council municipalities, which are bodies of elected industrial and political leaders of a community. This open-ended definition means that municipalities scale in Vekllei from tiny villages to major metropolitan areas.&lt;/p&gt;
+&lt;p&gt;Municipalities are the basis of Vekllei localism, a belief in local concern and decentralised decision-making. In general, Vekllei municipalism describes the places where society in abstract meets the individual, and so also has cultural and aesthetic qualities. The sum of a municipality is expressed in the &lt;em&gt;Atlantic Municipalist&lt;/em&gt; tradition, which consists of the following principles:&lt;/p&gt;
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;&lt;strong&gt;Principles of Atlantic Municipalism&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Local employment, or “commutelessness.”&lt;/li&gt;
+&lt;li&gt;Slumlessness, beautification, and a will to architecture.&lt;/li&gt;
+&lt;li&gt;Property stewardship.&lt;/li&gt;
+&lt;li&gt;Open air and clean water.&lt;/li&gt;
+&lt;li&gt;Land usefulness (&amp;ldquo;friendliness&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;Private ownership of private needs.&lt;/li&gt;
+&lt;li&gt;Public ownership of public needs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are 14,000 municipalities across the Commonwealth. The usage of &amp;lsquo;municipal&amp;rsquo; can refer to a political council or the spirit of Atlantic Municipalism.&lt;/p&gt;
+
+	  </description>
 	</item>
 	
   </channel>

@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>Categories on MillMint</title>
+	<title>Categories</title>
 	<link>https://millmint.net/categories/</link>
-	<description>Recent content in Categories on MillMint</description>
+	<description>Recent content in Categories </description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>Categories</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>sketch</title>
 	  <link>https://millmint.net/categories/sketch/</link>
 	  <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/sketch/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -22,7 +35,10 @@
 	  <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/landscape/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -31,7 +47,10 @@
 	  <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/story/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -40,7 +59,10 @@
 	  <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/character/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -49,7 +71,10 @@
 	  <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/blog/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -58,7 +83,10 @@
 	  <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/author/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -67,7 +95,10 @@
 	  <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/comic/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -76,7 +107,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/archive/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -85,7 +119,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/commonwealth/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -94,7 +131,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/documents/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -103,7 +143,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/intro/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -112,7 +155,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/news/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -121,7 +167,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/society/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -130,7 +179,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/horizon/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -139,7 +191,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/tools/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
 	<item>
@@ -148,7 +203,10 @@
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/categories/utopia/</guid>
-	  <description></description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  
+	  </description>
 	</item>
 	
   </channel>

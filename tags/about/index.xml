@@ -1,20 +1,193 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>about on MillMint</title>
+	<title>about</title>
 	<link>https://millmint.net/tags/about/</link>
-	<description>Recent content in about on MillMint</description>
+	<description>Recent content in about </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>about</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>About</title>
 	  <link>https://millmint.net/millmint/about/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/about/</guid>
-	  <description>✿ For common questions about me or my work, please visit the FAQ. Hello, I&amp;rsquo;m Hobart. I&amp;rsquo;m an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.
-Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
-You can follow my progress on this project on Twitter, or join my subreddit.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;!--&lt;div class=&#34;section &#34;&gt;
+  &lt;figure&gt;
+  &lt;img src=&#34;https://images.millmint.net/images/mastheads/author.png&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
+  
+&lt;/figure&gt;
+&lt;/div&gt;
+--&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;✿ For common questions about me or my work, please visit the &lt;a href=&#34;https://millmint.net/intro/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Hello, &lt;a href=&#34;https://images.millmint.net/images/mastheads/author.png&#34;&gt;I&amp;rsquo;m Hobart&lt;/a&gt;&lt;/strong&gt;. I&amp;rsquo;m an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.&lt;/p&gt;
+&lt;p&gt;Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.&lt;/p&gt;
+&lt;p&gt;You can follow my progress on this project on &lt;a href=&#34;https://twitter.com/MelonKony&#34;&gt;Twitter&lt;/a&gt;, or join &lt;a href=&#34;https://www.reddit.com/r/vekllei&#34;&gt;my subreddit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can &lt;strong&gt;write to me&lt;/strong&gt; at &lt;span class=&#34;smallicon&#34;&gt;📧&lt;/span&gt; &lt;a href=&#34;mailto:hobart@millmint.net&#34;&gt;hobart@millmint.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇨&lt;/p&gt;
+&lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;Sincere thanks to &lt;a href=&#34;https://jipfr.nl&#34;&gt;Jip&lt;/a&gt; and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;news&#34;&gt;
+  News
+  &lt;a class=&#34;anchor&#34; href=&#34;#news&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Last updated: 21 Feb 2023&lt;/small&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;February 2023&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;February 21, 2023&lt;/strong&gt; Added a &lt;a href=&#34;https://millmint.net/timeline/&#34;&gt;Vekllei Timeline&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/timeline/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;February 19, 2023&lt;/strong&gt; Added a DARK MODE to millmint.net. Debugged by &lt;a href=&#34;https://jipfr.nl&#34;&gt;Jip&lt;/a&gt;. Click the lightbulb at the top of the page! &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/dolls/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;February 16, 2023&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/state-jet/&#34;&gt;&lt;em&gt;A Government Jet&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/state-jet/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;February 15, 2023&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/ruins/&#34;&gt;&lt;em&gt;New Ruins&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/ruins/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;January 2023&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;January 31, 2023&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/neko/&#34;&gt;&lt;em&gt;Sketch for a Friend&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/neko/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;January 28, 2023&lt;/strong&gt; Added an article about &lt;a href=&#34;https://millmint.net/sagas/&#34;&gt;Sagas&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/sagas/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;January 28, 2023&lt;/strong&gt; Added an article about &lt;a href=&#34;https://millmint.net/universal-cotton/&#34;&gt;Universal Cotton&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/universal-cotton/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;January 27, 2023&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/constable/&#34;&gt;&lt;em&gt;Constable Zelda&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/constable/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;January 26, 2023&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/gold/&#34;&gt;&lt;em&gt;All That Glitters&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/gold/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;January 6, 2023&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/veranda/&#34;&gt;&lt;em&gt;The Veranda&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/veranda/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;January 3, 2023&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/department/&#34;&gt;&lt;em&gt;Department Commerce&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/department/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;January 1, 2023&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/ministers/&#34;&gt;&lt;em&gt;The Prime Minister(s) of Vekllei&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/ministers/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;December 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;December 31, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/tannin/&#34;&gt;&lt;em&gt;Tannin Rivers&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/tannin/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;December 23, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/sepia/&#34;&gt;&lt;em&gt;Sepia Interests&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/sepia/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;December 20, 2022&lt;/strong&gt; Added an article about the &lt;a href=&#34;https://millmint.net/moshel/&#34;&gt;Moshel St School&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/moshel/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;✏️&lt;/span&gt; &lt;strong&gt;December 20, 2022&lt;/strong&gt; New blog post: &lt;a href=&#34;https://millmint.net/blog/utopia/&#34;&gt;&lt;em&gt;Getting Back to Basics&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/blog/utopia/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;December 10, 2022&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/friend/&#34;&gt;&lt;em&gt;The Friend&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/friend/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;December 9, 2022&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/the-look/&#34;&gt;&lt;em&gt;The Look&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/the-look/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;December 2, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/silica/&#34;&gt;&lt;em&gt;Silica Rivers&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/silica/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;November 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;November 30, 2022&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/sleep/&#34;&gt;&lt;em&gt;Sleep&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/sleep/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;November 9, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/teachers/&#34;&gt;&lt;em&gt;Teachers&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/teachers/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;October 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;October 29, 2022&lt;/strong&gt; New sketch: &lt;a href=&#34;https://millmint.net/stories/teeshirt/&#34;&gt;&lt;em&gt;Tee Shirt&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/teeshirt/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;October 26, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/watch/&#34;&gt;&lt;em&gt;The Riot&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/watch/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;October 20, 2022&lt;/strong&gt; The Vekllei character creator has entered beta! Programming contributed and debugged by &lt;a href=&#34;https://jipfr.nl&#34;&gt;Jip&lt;/a&gt;, clothing assets by me. Go check it out at &lt;a href=&#34;https://millmint.net/dolls/&#34;&gt;/dolls/&lt;/a&gt;! &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/dolls/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;October 17, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/caribbean-uniform/&#34;&gt;&lt;em&gt;Uniforms for All the Commonwealth&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/caribbean-uniform/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;October 15, 2022&lt;/strong&gt; Added the Vekllei Dictionary, a feature to show tooltips over Vekllei phrases and words (e.g. Bureau System). It&amp;rsquo;s a massive site upgrade, and once again it was contributed entirely by &lt;a href=&#34;https://jipfr.nl&#34;&gt;Jip&lt;/a&gt; in his free time. Thank you again!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;October 14, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/five-years/&#34;&gt;&lt;em&gt;Five Years&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/five-years/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;October 7, 2022&lt;/strong&gt; Added a new floating dynamic TOC with active states, coded entirely by &lt;a href=&#34;https://jipfr.nl&#34;&gt;Jip&lt;/a&gt;. It looks fantastic and works great &amp;ndash; thanks for your help!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;October 6, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/rifles/&#34;&gt;&lt;em&gt;The Rifles Section&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/rifles/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;September 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;September 29, 2022&lt;/strong&gt; New website section: &lt;a href=&#34;https://millmint.net/blog/&#34;&gt;Blog&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/blog/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;September 21, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/puffin/&#34;&gt;&lt;em&gt;The Scouts&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/puffin/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;September 19, 2022&lt;/strong&gt; Made a huge update to the colour of the site, and fixed a lot of small nav bugs and inconsistencies that had been around for a while.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;September 16, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/lola/&#34;&gt;&lt;em&gt;Lola, Borough of Genesisr&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/lola/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;September 15, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/trailer/&#34;&gt;&lt;em&gt;Story Trailer&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/trailer/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;September 1, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/stories/horizon/&#34;&gt;&lt;em&gt;Stories from the Horizon&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/stories/horizon/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;August 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;August 29, 2022&lt;/strong&gt; Added an article about the &lt;a href=&#34;https://millmint.net/finance/&#34;&gt;Finance of Vekllei&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/finance/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;August 23, 2022&lt;/strong&gt; Added an article about the &lt;a href=&#34;https://millmint.net/metaphysics/&#34;&gt;Metaphysics of Vekllei&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/metaphysics/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;August 16, 2022&lt;/strong&gt; Painstakingly moved &lt;a href=&#34;https://millmint.net/stories/&#34;&gt;all 315 posts&lt;/a&gt; from /posts/ to &lt;a href=&#34;https://millmint.net/stories/&#34;&gt;/stories/&lt;/a&gt;, complete with custom aliases (e.g. &lt;a href=&#34;https://millmint.net/stories/crown&#34;&gt;millmint.net/stories/crown&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;August 10, 2022&lt;/strong&gt; Added an article about the &lt;a href=&#34;https://millmint.net/utopia/society/state/assets/&#34;&gt;State Assets of Vekllei&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/utopia/society/state/assets/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;August 6, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/posts/2022-08-06-crown/&#34;&gt;&lt;em&gt;The Crown and the Gi&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-08-06-crown/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;August 5, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/posts/2022-08-05-sketching/&#34;&gt;&lt;em&gt;Caught Sketching&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-08-05-sketching/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;August 4, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/posts/2022-08-04-movie/&#34;&gt;&lt;em&gt;Waiting for a Movie&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-08-04-movie/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;August 3, 2022&lt;/strong&gt; Added sidenotes! On wide screens, footnotes will now appear in the right margin of an article adjacent to footnoted sentences. A really nice improvement to readability. On mobile, they appear below an article as usual.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📓&lt;/span&gt; &lt;strong&gt;August 2, 2022&lt;/strong&gt; Added a new /state/ section in &lt;a href=&#34;https://millmint.net/utopia/society&#34;&gt;/society/&lt;/a&gt; and split up the Government article into smaller pages, in preparation for its public release.&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;July 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;July 29, 2022&lt;/strong&gt; Added an article about &lt;a href=&#34;https://millmint.net/utopia/society/technology/computers/&#34;&gt;Computing in Vekllei&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/utopia/society/technology/computers/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;July 22, 2022&lt;/strong&gt; Added the first Studio Spotlight! A behind-the-scenes look at what goes into a post, accompanied by a timelapse. Visible below the &lt;a href=&#34;https://millmint.net/posts/2022-07-22-cape/&#34;&gt;School Cape&lt;/a&gt; post. &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-07-22-cape/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;July 22, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/posts/2022-07-22-cape/&#34;&gt;&lt;em&gt;The Government School Cape&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-07-22-cape/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;July 21, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/posts/2022-07-21-hyderabad/&#34;&gt;&lt;em&gt;Little Hyderabad&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-07-21-hyderabad/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;July 19, 2022&lt;/strong&gt; Overhauled the site colour system with &lt;a href=&#34;https://jipfr.nl&#34;&gt;Jip&lt;/a&gt;, who did an awesome job transforming my clunky CSS into javascript&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📗&lt;/span&gt; &lt;strong&gt;July 12, 2022&lt;/strong&gt; New post: &lt;a href=&#34;https://millmint.net/posts/2022-07-12-vista/&#34;&gt;&lt;em&gt;Café Diplomacy&lt;/em&gt;&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/posts/2022-07-12-vista/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;hint header&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;June 2022&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📄&lt;/span&gt; &lt;strong&gt;July 29, 2022&lt;/strong&gt; New borough article: &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/&#34;&gt;Pharos&lt;/a&gt; &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;June 24, 2022&lt;/strong&gt; Added lazy-loading to images on the site, improving performance.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;June 22, 2022&lt;/strong&gt; Drew a sketch of Tzipora and Cobian before their school formal. Just some fun between comic pages &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/images/sketches/formal.png&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;June 15, 2022&lt;/strong&gt; Added a swish animated cover for the home page, and moved the great existing parallax to &lt;a href=&#34;https://millmint.net/intro&#34;&gt;Intro&lt;/a&gt; in preparation for an overhaul &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/images/mastheads/millmint.png&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;June 7, 2022&lt;/strong&gt; Drew a uniform reference to keep clothing details consistent between chapters &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/images/sketches/comic/uniformref.jpg&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;🌐&lt;/span&gt; &lt;strong&gt;June 6, 2022&lt;/strong&gt; Added auto-numbering and anchors to the headers on the site for easier navigation&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;June 4, 2022&lt;/strong&gt; Drew a height reference sheet for the comic characters so I stop drawing Tzipora and Cobian the same height &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/images/sketches/comic/heightref.jpg&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;bulleticon&#34;&gt;📒&lt;/span&gt; &lt;strong&gt;June 2, 2022&lt;/strong&gt; Finished a Zelda reference sheet, now featuring eyelashes &lt;button class=&#34;bulletbutton&#34; href=&#34;https://millmint.net/images/sketches/comic/zeldaref.jpg&#34;&gt;URL →&lt;/button&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!--
+### Things I Like
+
+* _Thunderbirds_ (1965 series)
+* Studio Ghibli ([obviously](/news/essays/ghibli))
+* [Jam Sandwich police livery](https://en.wikipedia.org/wiki/Jam_sandwich_(police_car))
+* Shōwa period styles
+* Italian cars
+* [The Series-0 Shinkansen 🚅](https://en.wikipedia.org/wiki/0_Series_Shinkansen)
+* [Snags](https://www.woolworths.com.au/shop/productdetails/820196/woolworths-beef-sausage)
+* [Mtirado&#39;s wonderful work](https://www.musicauniversalis.space)
+
+### Things I Don&#39;t Like
+* Parsley
+* The C.I.A.
+* Bohos and beatniks
+* Fellas who are &#34;into history&#34;
+* Cutesy talk
+* Risotto (sorry)
+* Emirates (the airline)
+--&gt;
+
+	  </description>
 	</item>
 	
   </channel>

@@ -1,18 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
-	<title>documents on MillMint</title>
+	<title>documents</title>
 	<link>https://millmint.net/tags/documents/</link>
-	<description>Recent content in documents on MillMint</description>
+	<description>Recent content in documents </description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en</language><atom:link href="https://millmint.net/tags/documents/index.xml" rel="self" type="application/rss+xml" />
+	<language>en</language>
+	<image>
+		<url>https://millmint.netimg/profile.png</url>
+		<title>documents</title>
+		<link>https://millmint.net</link>
+	</image>
+	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/>
+	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/documents/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Documents</title>
 	  <link>https://millmint.net/utopia/society/state/documents/</link>
 	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/documents/</guid>
-	  <description>⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &amp;ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documents 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth 📄Document No.</description>
+	  <description>
+	  &lt;![CDATA[<img src="https://millmint.net"/>
+	  &lt;blockquote class=&#34;hint &#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;⚠️&lt;/span&gt; This list is evolving, and will be expanded in future.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;hint panel&#34;&gt;
+  &lt;div class=&#34;icon&#34;&gt;
+&lt;/div&gt; 
+  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;The Vekllei Document System&lt;/strong&gt; is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &amp;ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;details open&gt;
+  &lt;summary&gt;Documents&lt;/summary&gt;
+  &lt;div class=&#34;markdown-inner&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/files/documents/1.pdf&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;📄&lt;/span&gt;Document No. 1&lt;/a&gt;: Communiqué on the Establishment of the 4th Commonwealth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/files/documents/7.pdf&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;📄&lt;/span&gt;Document No. 7&lt;/a&gt;: Communiqué on the Establishment of Government Schools&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://millmint.net/files/documents/9.pdf&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;📄&lt;/span&gt;Document No. 9&lt;/a&gt;: Communiqué on the Establishment of the VKIM&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+
+	  </description>
 	</item>
 	
   </channel>
