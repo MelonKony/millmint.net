@@ -4,27 +4,26 @@
 	<title>Essays</title>
 	<link>https://millmint.net/millmint/essays/</link>
 	<description>Recent content in Essays </description>
-	<generator>Hugo -- gohugo.io</generator>
+	<generator>Hugo</generator>
 	<language>en</language>
 	<image>
-		<url>https://millmint.netimg/profile.png</url>
+		<url>https://millmint.net/favicon.png</url>
 		<title>Essays</title>
 		<link>https://millmint.net</link>
 	</image>
-	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/>
-	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/millmint/essays/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/essays/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Ghibli</title>
 	  <link>https://millmint.net/millmint/essays/ghibli/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/ghibli/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
@@ -555,12 +554,12 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 	<item>
 	  <title>On Moneylessness</title>
 	  <link>https://millmint.net/millmint/essays/moneylessness/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/moneylessness/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net/images/coast.jpg"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
@@ -688,12 +687,12 @@ This essay was written in December 2021. &lt;a href=&#34;https://millmint.net/po
 	<item>
 	  <title>Hong Kong</title>
 	  <link>https://millmint.net/millmint/essays/hongkong/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/hongkong/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
@@ -720,12 +719,12 @@ This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong
 	<item>
 	  <title>A Cashless Tokyo</title>
 	  <link>https://millmint.net/millmint/essays/tokyo/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/tokyo/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
@@ -774,12 +773,12 @@ This article was &lt;strong&gt;originally published&lt;/strong&gt; in &lt;strong
 	<item>
 	  <title>Utopie Concrète</title>
 	  <link>https://millmint.net/millmint/essays/utopie/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/utopie/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
@@ -838,12 +837,12 @@ This essay was written in June 2021. &lt;a href=&#34;https://millmint.net/posts/
 	<item>
 	  <title>Waugh</title>
 	  <link>https://millmint.net/millmint/essays/waugh/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/waugh/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;

@@ -4,27 +4,26 @@
 	<title>Utopia</title>
 	<link>https://millmint.net/utopia/</link>
 	<description>Recent content in Utopia </description>
-	<generator>Hugo -- gohugo.io</generator>
+	<generator>Hugo</generator>
 	<language>en</language>
 	<image>
-		<url>https://millmint.netimg/profile.png</url>
+		<url>https://millmint.net/favicon.png</url>
 		<title>Utopia</title>
 		<link>https://millmint.net</link>
 	</image>
-	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/>
-	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/utopia/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/utopia/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Timeline</title>
 	  <link>https://millmint.net/utopia/timeline/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/timeline/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.&lt;/div&gt;
@@ -614,12 +613,12 @@
 	<item>
 	  <title>Vekllei</title>
 	  <link>https://millmint.net/utopia/draft.vekllei/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/draft.vekllei/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;h2 id=&#34;overview&#34;&gt;
+		  <img src="https://millmint.net/images/lightbulb.jpg"/>
+		  &lt;h2 id=&#34;overview&#34;&gt;
   Overview
   &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
 &lt;/h2&gt;
@@ -830,12 +829,12 @@
 	<item>
 	  <title>Vekllei</title>
 	  <link>https://millmint.net/utopia/vekllei/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/vekllei/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net/images/missile.jpg"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#what-is-vekllei&#34;&gt;Vekllei&lt;/a&gt;&lt;/div&gt;

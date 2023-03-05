@@ -4,28 +4,27 @@
 	<title>blog</title>
 	<link>https://millmint.net/categories/blog/</link>
 	<description>Recent content in blog </description>
-	<generator>Hugo -- gohugo.io</generator>
+	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2022</lastBuildDate>
 	<image>
-		<url>https://millmint.netimg/profile.png</url>
+		<url>https://millmint.net/favicon.png</url>
 		<title>blog</title>
 		<link>https://millmint.net</link>
 	</image>
-	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/>
-	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/blog/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Back to Basics — A MillMint Blog</title>
 	  <link>https://millmint.net/blog/utopia/</link>
-	  <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+	  <pubDate>Tue, 20 Dec 2022</pubDate>
 	  
 	  <guid>https://millmint.net/blog/utopia/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;p&gt;The way I&amp;rsquo;m doing things now isn&amp;rsquo;t working &amp;ndash; I don&amp;rsquo;t enjoy social media, or marketing my work. I haven&amp;rsquo;t done much to grow my audience these last few years. And I&amp;rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.&lt;/p&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;p&gt;The way I&amp;rsquo;m doing things now isn&amp;rsquo;t working &amp;ndash; I don&amp;rsquo;t enjoy social media, or marketing my work. I haven&amp;rsquo;t done much to grow my audience these last few years. And I&amp;rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.&lt;/p&gt;
 &lt;p&gt;2022 is the end of the COVID era for me. I&amp;rsquo;m moving house again, moving around again (🇬🇧🇫🇷🇭🇷🇲🇪). These are all good things. I&amp;rsquo;m healthier when I&amp;rsquo;m learning, and I&amp;rsquo;ve learned a lot these last couple months.&lt;/p&gt;
 &lt;p&gt;
 

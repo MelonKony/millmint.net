@@ -4,27 +4,26 @@
 	<title>about</title>
 	<link>https://millmint.net/tags/about/</link>
 	<description>Recent content in about </description>
-	<generator>Hugo -- gohugo.io</generator>
+	<generator>Hugo</generator>
 	<language>en</language>
 	<image>
-		<url>https://millmint.netimg/profile.png</url>
+		<url>https://millmint.net/favicon.png</url>
 		<title>about</title>
 		<link>https://millmint.net</link>
 	</image>
-	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/>
-	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/about/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>About</title>
 	  <link>https://millmint.net/millmint/about/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/about/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;!--&lt;div class=&#34;section &#34;&gt;
+		  <img src="https://millmint.net/images/intro.gif"/>
+		  &lt;!--&lt;div class=&#34;section &#34;&gt;
   &lt;figure&gt;
   &lt;img src=&#34;https://images.millmint.net/images/mastheads/author.png&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
   

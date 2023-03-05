@@ -4,27 +4,26 @@
 	<title>utopia</title>
 	<link>https://millmint.net/tags/utopia/</link>
 	<description>Recent content in utopia </description>
-	<generator>Hugo -- gohugo.io</generator>
+	<generator>Hugo</generator>
 	<language>en</language>
 	<image>
-		<url>https://millmint.netimg/profile.png</url>
+		<url>https://millmint.net/favicon.png</url>
 		<title>utopia</title>
 		<link>https://millmint.net</link>
 	</image>
-	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/>
-	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>FAQ</title>
 	  <link>https://millmint.net/intro/faq/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/intro/faq/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;style&gt;
+		  <img src="https://millmint.net/images/drawing.jpg"/>
+		  &lt;style&gt;
 #article-info .emoji {
     margin-right: 85px;
 }
@@ -184,12 +183,12 @@ color: var(--color-red);
 	<item>
 	  <title>Characters</title>
 	  <link>https://millmint.net/utopia/characters/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/characters/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint &#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/intro/#three-utopias&#34;&gt;&lt;strong&gt;Hobart&amp;rsquo;s characters&lt;/strong&gt;&lt;/a&gt;, who live in &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
@@ -330,12 +329,12 @@ article h5 {
 	<item>
 	  <title>Culture</title>
 	  <link>https://millmint.net/utopia/culture/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/utopia/&#34;&gt;&lt;strong&gt;/Utopia/&lt;/strong&gt;&lt;/a&gt; is the wiki of &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt;, its Commonwealth, and the features of its society. It also includes articles on the &lt;a href=&#34;https://millmint.net/utopia/characters/&#34;&gt;characters&lt;/a&gt; I draw regularly.&lt;/div&gt;
@@ -348,12 +347,12 @@ article h5 {
 	<item>
 	  <title>Essays</title>
 	  <link>https://millmint.net/millmint/essays/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/essays/&#34;&gt;&lt;strong&gt;/Essays/&lt;/strong&gt;&lt;/a&gt; holds an archive of the things that I (&lt;a href=&#34;https://millmint.net/about/&#34;&gt;Hobart&lt;/a&gt;) have written over the years. I have a background in journalism and media criticism, which doesn&amp;rsquo;t bode well for the quality of the essays linked below. My favourites are &lt;a href=&#34;https://millmint.net/hong-kong/&#34;&gt;&lt;em&gt;Not Long in Hong Kong&lt;/em&gt;&lt;/a&gt;, an angry reflection on my time in Hong Kong, and &lt;a href=&#34;https://millmint.net/ghibli/&#34;&gt;&lt;em&gt;A Universal Nostalgia&lt;/em&gt;&lt;/a&gt;, my honours thesis on utopian spatiality in the films of Studio Ghibli &amp;ndash; mostly used as evidence of my love of Ghibli.&lt;/div&gt;
@@ -366,12 +365,12 @@ article h5 {
 	<item>
 	  <title>Intro – What is Vekllei?</title>
 	  <link>https://millmint.net/intro/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/intro/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;h2 id=&#34;this-is-the-epoch-of-rest&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;h2 id=&#34;this-is-the-epoch-of-rest&#34;&gt;
   This is the Epoch of Rest
   &lt;a class=&#34;anchor&#34; href=&#34;#this-is-the-epoch-of-rest&#34;&gt;#&lt;/a&gt;
 &lt;/h2&gt;
@@ -471,12 +470,12 @@ a, body article a {
 	<item>
 	  <title>MillMint</title>
 	  <link>https://millmint.net/millmint/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/millmint/&#34;&gt;&lt;strong&gt;/MillMint/&lt;/strong&gt;&lt;/a&gt; is the place for everything going on at Studio MillMint and the &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt; world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on &lt;a href=&#34;https://millmint.net/news/essays/moneylessness/&#34;&gt;functional moneylessness&lt;/a&gt; and &lt;a href=&#34;https://millmint.net/news/essays/utopie/&#34;&gt;&lt;em&gt;utopie concrète&lt;/em&gt;&lt;/a&gt;.&lt;/div&gt;
@@ -489,12 +488,12 @@ a, body article a {
 	<item>
 	  <title>Utopia</title>
 	  <link>https://millmint.net/utopia/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/utopia/&#34;&gt;&lt;strong&gt;/Utopia/&lt;/strong&gt;&lt;/a&gt; is the wiki of &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt;, its Commonwealth, and the features of its society. It also includes articles on the &lt;a href=&#34;https://millmint.net/utopia/characters/&#34;&gt;characters&lt;/a&gt; I draw regularly.&lt;/div&gt;

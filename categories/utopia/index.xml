@@ -4,27 +4,26 @@
 	<title>utopia</title>
 	<link>https://millmint.net/categories/utopia/</link>
 	<description>Recent content in utopia </description>
-	<generator>Hugo -- gohugo.io</generator>
+	<generator>Hugo</generator>
 	<language>en</language>
 	<image>
-		<url>https://millmint.netimg/profile.png</url>
+		<url>https://millmint.net/favicon.png</url>
 		<title>utopia</title>
 		<link>https://millmint.net</link>
 	</image>
-	<webfeeds:cover image="https://millmint.netimg/og-image.png" />
+	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/>
-	<webfeeds:analytics id="UA-140948948-1" engine="GoogleAnalytics"/><atom:link href="https://millmint.net/categories/utopia/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/utopia/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Landscape</title>
 	  <link>https://millmint.net/utopia/landscape/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/landscape/&#34;&gt;&lt;strong&gt;/Landscape/&lt;/strong&gt;&lt;/a&gt; documents places and territories of the Vekllei 4th Commonwealth.&lt;/div&gt;
@@ -37,12 +36,12 @@
 	<item>
 	  <title>Society</title>
 	  <link>https://millmint.net/utopia/society/</link>
-	  <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	  <pubDate>Mon, 01 Jan 0001</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/</guid>
 	  <description>
-	  &lt;![CDATA[<img src="https://millmint.net"/>
-	  &lt;blockquote class=&#34;hint panel&#34;&gt;
+		  <img src="https://millmint.net"/>
+		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
   &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/utopia/society/&#34;&gt;&lt;strong&gt;/Society/&lt;/strong&gt;&lt;/a&gt; documents features of Vekllei society, including its government, economy and technology.&lt;/div&gt;
