@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>locations</title>
 	<link>https://millmint.net/tags/locations/</link>
 	<description>Recent content in locations </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>locations</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/locations/index.xml" rel="self" type="application/rss+xml" />
@@ -21,26 +23,24 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/locations/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ Main article: &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/&#34;&gt;The Government of Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;This page catalogues single articles covering locations relevant to stories in Vekllei.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   ✿ Main article: The Government of Vekllei This page catalogues single articles covering locations relevant to stories in Vekllei. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Main article: <em><a href="/utopia/society/state/government/">The Government of Vekllei</a></em></div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">This page catalogues single articles covering locations relevant to stories in Vekllei.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

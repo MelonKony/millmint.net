@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Baron</title>
 	<link>https://millmint.net/tags/baron/</link>
 	<description>Recent content in Baron </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Baron</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/baron/index.xml" rel="self" type="application/rss+xml" />
@@ -21,20 +23,18 @@
 	  <pubDate>Fri, 09 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/the-look/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/1.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/1.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;The Look.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   The Look. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/1.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">The Look.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -43,20 +43,18 @@
 	  <pubDate>Wed, 26 Oct 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/watch/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/watch.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/watch.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/watch.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -65,33 +63,33 @@
 	  <pubDate>Mon, 14 Feb 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/drawing/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/drawing.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/drawing.jpg"/> 
-		  &lt;br&gt;
-&#34;And who is this lady?&#34;
-&lt;p&gt;&amp;ldquo;That&amp;rsquo;s Tora, a Palace God who comes to Pachinki,&amp;rdquo; Tzipora said, stumbling over her words. &amp;ldquo;The other Goddesses don&amp;rsquo;t like her much, um, and she&amp;rsquo;s quite powerful. She goes to Pachinki to unite mortals against the Palace.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;I see,&amp;rdquo; Baron said, not following but nodding politely. &amp;ldquo;She looks a lot like you, doesn&amp;rsquo;t she?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Oh, well, I don&amp;rsquo;t know,&amp;rdquo; Tzipora said, brushing away the question with another piece of paper pulled from her schoolbag. &amp;ldquo;This is her mortal bodyguard, Hyssop.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;What kind of name is Hyssop?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;It&amp;rsquo;s made up.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;I see. Why not use normal names?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Because I keep telling you, it&amp;rsquo;s not a normal world, it&amp;rsquo;s a completely different one,&amp;rdquo; Tzipora whined in that way she did when you weren&amp;rsquo;t keeping up. &amp;ldquo;Hyssop means &amp;lsquo;Guardian of the Poor&amp;rsquo; in his language, so it&amp;rsquo;s sort of a metaphor.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;You&amp;rsquo;ve put a lot of thought into this.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Tzipora talked fast and anxiously. Pachinki was a private fantasy &amp;ndash; a dreamscape of magic and planets and monsters. She was showing Baron her drawings because she shared everything with him. But now, in his hands, her drawings looked all wrong. The people looked weird and her story seemed childish. It was embarrassing.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&amp;hellip;The Palace only exists because they believe in themselves&amp;hellip; The moment they lose faith, they lose their powers and collapse their space in the Marble Realm,&amp;rdquo; she said, then stopped and rubbed her nose. &amp;ldquo;Sorry, I&amp;rsquo;m just going on and on. I get boring quickly.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;No, you don&amp;rsquo;t,&amp;rdquo; Baron said. &amp;ldquo;Is Tora planning to rob them of their faith?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Do you mean it?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Mean what?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;I&amp;rsquo;m not being tedious?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;No, of course not. I want to know.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;She looked relieved and rubbed her nose again. &amp;ldquo;Yes, she does, but it&amp;rsquo;s not that simple. You see&amp;hellip;&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;They sat there in the afternoon sun for over an hour, talking, shuffling papers.&lt;/p&gt;
-
+	  "And who is this lady?" &ldquo;That&rsquo;s Tora, a Palace God who comes to Pachinki,&rdquo; Tzipora said, stumbling over her words. &ldquo;The other Goddesses don&rsquo;t like her much, um, and she&rsquo;s quite powerful. She goes to Pachinki to unite mortals against the Palace.&rdquo;
+&ldquo;I see,&rdquo; Baron said, not following but nodding politely. &ldquo;She looks a lot like you, doesn&rsquo;t she?&rdquo;
+&ldquo;Oh, well, I don&rsquo;t know,&rdquo; Tzipora said, brushing away the question with another piece of paper pulled from her schoolbag.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/drawing.jpg"/> <br>
+"And who is this lady?"
+<p>&ldquo;That&rsquo;s Tora, a Palace God who comes to Pachinki,&rdquo; Tzipora said, stumbling over her words. &ldquo;The other Goddesses don&rsquo;t like her much, um, and she&rsquo;s quite powerful. She goes to Pachinki to unite mortals against the Palace.&rdquo;</p>
+<p>&ldquo;I see,&rdquo; Baron said, not following but nodding politely. &ldquo;She looks a lot like you, doesn&rsquo;t she?&rdquo;</p>
+<p>&ldquo;Oh, well, I don&rsquo;t know,&rdquo; Tzipora said, brushing away the question with another piece of paper pulled from her schoolbag. &ldquo;This is her mortal bodyguard, Hyssop.&rdquo;</p>
+<p>&ldquo;What kind of name is Hyssop?&rdquo;</p>
+<p>&ldquo;It&rsquo;s made up.&rdquo;</p>
+<p>&ldquo;I see. Why not use normal names?&rdquo;</p>
+<p>&ldquo;Because I keep telling you, it&rsquo;s not a normal world, it&rsquo;s a completely different one,&rdquo; Tzipora whined in that way she did when you weren&rsquo;t keeping up. &ldquo;Hyssop means &lsquo;Guardian of the Poor&rsquo; in his language, so it&rsquo;s sort of a metaphor.&rdquo;</p>
+<p>&ldquo;You&rsquo;ve put a lot of thought into this.&rdquo;</p>
+<p>Tzipora talked fast and anxiously. Pachinki was a private fantasy &ndash; a dreamscape of magic and planets and monsters. She was showing Baron her drawings because she shared everything with him. But now, in his hands, her drawings looked all wrong. The people looked weird and her story seemed childish. It was embarrassing.</p>
+<p>&ldquo;&hellip;The Palace only exists because they believe in themselves&hellip; The moment they lose faith, they lose their powers and collapse their space in the Marble Realm,&rdquo; she said, then stopped and rubbed her nose. &ldquo;Sorry, I&rsquo;m just going on and on. I get boring quickly.&rdquo;</p>
+<p>&ldquo;No, you don&rsquo;t,&rdquo; Baron said. &ldquo;Is Tora planning to rob them of their faith?&rdquo;</p>
+<p>&ldquo;Do you mean it?&rdquo;</p>
+<p>&ldquo;Mean what?&rdquo;</p>
+<p>&ldquo;I&rsquo;m not being tedious?&rdquo;</p>
+<p>&ldquo;No, of course not. I want to know.&rdquo;</p>
+<p>She looked relieved and rubbed her nose again. &ldquo;Yes, she does, but it&rsquo;s not that simple. You see&hellip;&rdquo;</p>
+<p>They sat there in the afternoon sun for over an hour, talking, shuffling papers.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -100,21 +98,19 @@
 	  <pubDate>Sat, 01 Jan 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/2022/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/newyear2022.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/newyear2022.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;Welcome to 2022,&lt;/strong&gt; year of Vekllei. Here&amp;rsquo;s to a great year of art, dreams and love.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn&amp;rsquo;s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.&lt;/p&gt;
-
+	  ✿ Welcome to 2022, year of Vekllei. Here&rsquo;s to a great year of art, dreams and love. Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn&rsquo;s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/newyear2022.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>Welcome to 2022,</strong> year of Vekllei. Here&rsquo;s to a great year of art, dreams and love.</div>
+</blockquote>
+
+<p>Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn&rsquo;s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -123,18 +119,16 @@
 	  <pubDate>Thu, 04 Nov 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/years/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/years.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/years.jpg"/> 
-		  &lt;p&gt;Kaohsiung changed hands maybe four or five times. Each time the city fell, another company of Chinese burrowed themselves into the city, and each time it took about two months to drive them back into the sea. This was mostly done by the KMT and the Americans, who had heavy equipment. In Taiwan’s mountainous interior, a rainbow coalition of former colonies, indentured states and free-world ideologues fought brutally against the invasion of 2045.&lt;/p&gt;
-&lt;p&gt;It was a real nasty kind of fighting in a real nasty kind of war. Insects and dengue fever. Most of the fighting outside of Taipei happened close-quarters, or even hand-to-hand. His time there affected the rest of his life, and changed the way he looked at the world; looked at people. It forced a reconsideration of the sort of creatures we are, and the sort of management we need to keep ourselves from doing what we’re capable of doing.&lt;/p&gt;
-&lt;p&gt;What he liked about Tzipora was that she understood what it was like to come out the other side of a thing like that. She did not want to be rehabilitated; she did not want to be treated or talked to or sympathised with. She wanted to move on and pick up where she’d left off — form some kind of life for herself in Vekllei, among decent people. The real killer of civilian life is the dysphoria of the supermarket, and the synthetic quality of domestic society in the shadow of the extraordinary hyperreality of violence.&lt;/p&gt;
-&lt;p&gt;He’d wasted the best years of his life in a jungle in Asia — that experience was now part of who he was. Tzipora understood what that meant without asking. She was not so different, after all.&lt;/p&gt;
-
+	  Kaohsiung changed hands maybe four or five times. Each time the city fell, another company of Chinese burrowed themselves into the city, and each time it took about two months to drive them back into the sea. This was mostly done by the KMT and the Americans, who had heavy equipment. In Taiwan’s mountainous interior, a rainbow coalition of former colonies, indentured states and free-world ideologues fought brutally against the invasion of 2045.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/years.jpg"/> <p>Kaohsiung changed hands maybe four or five times. Each time the city fell, another company of Chinese burrowed themselves into the city, and each time it took about two months to drive them back into the sea. This was mostly done by the KMT and the Americans, who had heavy equipment. In Taiwan’s mountainous interior, a rainbow coalition of former colonies, indentured states and free-world ideologues fought brutally against the invasion of 2045.</p>
+<p>It was a real nasty kind of fighting in a real nasty kind of war. Insects and dengue fever. Most of the fighting outside of Taipei happened close-quarters, or even hand-to-hand. His time there affected the rest of his life, and changed the way he looked at the world; looked at people. It forced a reconsideration of the sort of creatures we are, and the sort of management we need to keep ourselves from doing what we’re capable of doing.</p>
+<p>What he liked about Tzipora was that she understood what it was like to come out the other side of a thing like that. She did not want to be rehabilitated; she did not want to be treated or talked to or sympathised with. She wanted to move on and pick up where she’d left off — form some kind of life for herself in Vekllei, among decent people. The real killer of civilian life is the dysphoria of the supermarket, and the synthetic quality of domestic society in the shadow of the extraordinary hyperreality of violence.</p>
+<p>He’d wasted the best years of his life in a jungle in Asia — that experience was now part of who he was. Tzipora understood what that meant without asking. She was not so different, after all.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -143,23 +137,21 @@
 	  <pubDate>Wed, 15 Sep 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/picnic/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/picnic.png</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/picnic.png"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This post&lt;/strong&gt; is an animated PNG without sound. Download the video with sound &lt;a href=&#34;https://millmint.net/images/picnic.mov&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Such was spring&lt;/strong&gt;. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/troll/&#34;&gt;Troll&lt;/a&gt;, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.&lt;/p&gt;
-&lt;p&gt;Lemons and lemonade; Tzipora decided it was time for lunch. They ate canned salmon in the sun. She’d baked olive bread the day before and they pulled it apart with their hands. After lunch they opened a bottle and Baron had a cigarette as he figured out how he was going to get the spare out from under the luggage in the front.&lt;/p&gt;
-&lt;p&gt;Tzipora had no such concerns. They had plenty of wine and didn’t have to be in Fyori until tonight. The bonnet of the Cosme had heated up in the sun and it was warm on her back. Tzipora was getting to the good part of her favourite book. The radio had a good song on. She was living one of the best moments of her life.&lt;/p&gt;
-
+	  ✿ This post is an animated PNG without sound. Download the video with sound here. Such was spring. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into Troll, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/picnic.png"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This post</strong> is an animated PNG without sound. Download the video with sound <a href="/images/picnic.mov">here</a>.</div>
+</blockquote>
+
+<p><strong>Such was spring</strong>. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into <a href="/utopia/landscape/boroughs/troll/">Troll</a>, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.</p>
+<p>Lemons and lemonade; Tzipora decided it was time for lunch. They ate canned salmon in the sun. She’d baked olive bread the day before and they pulled it apart with their hands. After lunch they opened a bottle and Baron had a cigarette as he figured out how he was going to get the spare out from under the luggage in the front.</p>
+<p>Tzipora had no such concerns. They had plenty of wine and didn’t have to be in Fyori until tonight. The bonnet of the Cosme had heated up in the sun and it was warm on her back. Tzipora was getting to the good part of her favourite book. The radio had a good song on. She was living one of the best moments of her life.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -168,19 +160,18 @@
 	  <pubDate>Wed, 25 Aug 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/gun/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/gun.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/gun.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Baron had been working in the twilight of violence for over twenty years&lt;/strong&gt;. In that time he had not given much thought to children or family, except for those that lingered as ghosts from long ago. Despite popular misconception, Baron did on occasion daydream, and in those daydreams was an abstract picture of his heir — a dark-haired son not unlike himself.&lt;/p&gt;
-&lt;p&gt;Tzipora was not a son but she was not unlike him. She gave him a new perspective on life — a reason for going on, and a universe outside of service to the state. And how she adored him. She demonstrated that in how she talked, and how she childishly defended any casual observation or guessing of him. They were old friends — war buddies, in fact — and spent many evenings talking about the world and the things in it. Yet a paternal dimension of their relationship existed. Tzipora was young and full of questions, and wanted desperately to be taught. So he guided her when she asked for it, and answered her questions. And there were so many questions.&lt;/p&gt;
-&lt;p&gt;In his daydreams he taught his son to use the gun. There were guns in the home but Tzipora was not allowed to touch them, because she had been prescribed antipsychotics fourteen months into her life in Vekllei. She didn’t end up needing the pills; they only gave her tremors. It wasn’t until she was diagnosed properly at eighteen years of age that she as allowed to use the guns with Baron.&lt;/p&gt;
-&lt;p&gt;They went hunting for meat, since there had been more shortages that year, and in summer Vekllei is full of a most obscure pest called a Pademelon — a type of Australian wallaby that had been introduced just prior to the War by accident. Now they were all over, inoffensive as they were. The meat was tasty and the government encouraged you to cull them, so they were hunted commonly. Tzipora had some knowledge of how to use a pistol but hadn’t fired a long gun. Baron showed her how to use the sites and hold it. She didn’t kill anything, but Baron bagged two. Tzipora figured out how to skin and clean the animal and they ate wallaby steaks that night, which tasted good but were gamey. She shared the rest of the meat with a neighbour who had helped her repair the boiler.&lt;/p&gt;
-&lt;p&gt;In the echoes of Baron’s memory was a distant, youthful dream of riding a motorbike overseas, maybe across Asia or through the Middle East. Eating from street vendors and sleeping wherever you could. Was it so crazy? After twenty years of work he had plenty of money to withdraw for travel. He wondered if Tzipora would like to learn to ride a motorbike — and what she’d think of such an idea.&lt;/p&gt;
-
+	  Baron had been working in the twilight of violence for over twenty years. In that time he had not given much thought to children or family, except for those that lingered as ghosts from long ago. Despite popular misconception, Baron did on occasion daydream, and in those daydreams was an abstract picture of his heir — a dark-haired son not unlike himself.
+Tzipora was not a son but she was not unlike him.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/gun.jpg"/> <p><strong>Baron had been working in the twilight of violence for over twenty years</strong>. In that time he had not given much thought to children or family, except for those that lingered as ghosts from long ago. Despite popular misconception, Baron did on occasion daydream, and in those daydreams was an abstract picture of his heir — a dark-haired son not unlike himself.</p>
+<p>Tzipora was not a son but she was not unlike him. She gave him a new perspective on life — a reason for going on, and a universe outside of service to the state. And how she adored him. She demonstrated that in how she talked, and how she childishly defended any casual observation or guessing of him. They were old friends — war buddies, in fact — and spent many evenings talking about the world and the things in it. Yet a paternal dimension of their relationship existed. Tzipora was young and full of questions, and wanted desperately to be taught. So he guided her when she asked for it, and answered her questions. And there were so many questions.</p>
+<p>In his daydreams he taught his son to use the gun. There were guns in the home but Tzipora was not allowed to touch them, because she had been prescribed antipsychotics fourteen months into her life in Vekllei. She didn’t end up needing the pills; they only gave her tremors. It wasn’t until she was diagnosed properly at eighteen years of age that she as allowed to use the guns with Baron.</p>
+<p>They went hunting for meat, since there had been more shortages that year, and in summer Vekllei is full of a most obscure pest called a Pademelon — a type of Australian wallaby that had been introduced just prior to the War by accident. Now they were all over, inoffensive as they were. The meat was tasty and the government encouraged you to cull them, so they were hunted commonly. Tzipora had some knowledge of how to use a pistol but hadn’t fired a long gun. Baron showed her how to use the sites and hold it. She didn’t kill anything, but Baron bagged two. Tzipora figured out how to skin and clean the animal and they ate wallaby steaks that night, which tasted good but were gamey. She shared the rest of the meat with a neighbour who had helped her repair the boiler.</p>
+<p>In the echoes of Baron’s memory was a distant, youthful dream of riding a motorbike overseas, maybe across Asia or through the Middle East. Eating from street vendors and sleeping wherever you could. Was it so crazy? After twenty years of work he had plenty of money to withdraw for travel. He wondered if Tzipora would like to learn to ride a motorbike — and what she’d think of such an idea.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -189,17 +180,16 @@
 	  <pubDate>Mon, 07 Jun 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/shalom/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/shalom.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/shalom.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;When they met&lt;/strong&gt;, Tzipora told Baron she was Catholic. He thought that was hilarious — it was one of the few times she saw him laugh. Her name was “Tzipora”, and she gave herself the name “Zelda” — who did she think she was kidding? But that’s just how she was; Tzipora was an intricate person of many backgrounds and instincts.&lt;/p&gt;
-&lt;p&gt;Baron was Jewish, but he didn’t practice much. He did, however, observe shabbas as a cultural legacy of his childhood. He worked six days a week, and rested Saturdays. Sometimes, he’d put on a roast in the tradition of his late father’s recipe. Other times, Tzipora would cook some of their favourite foods. Tzipora, the insistent catholic, would respect the melakhot because she liked the idea of it. Even more unusually, she welcomed the shabbas with a prayer, even though her sabbath was Sunday. That’s just how she was; you get the idea. She was a curious and deeply spiritual person, and became more fascinated with her Jewish heritage after living with Baron.&lt;/p&gt;
-&lt;p&gt;Cobian didn’t know what a Jew was; she barely understood the concept of any god. Cobian’s family were indigenous Vekllei, descended from generations of animistic Upen observers. She was, however, more than willing to break bread with the girl she loved, and they enjoyed many meals together over the years in that picturesque, naive multiculturalism common to Vekllei.&lt;/p&gt;
-
+	  When they met, Tzipora told Baron she was Catholic. He thought that was hilarious — it was one of the few times she saw him laugh. Her name was “Tzipora”, and she gave herself the name “Zelda” — who did she think she was kidding? But that’s just how she was; Tzipora was an intricate person of many backgrounds and instincts.
+Baron was Jewish, but he didn’t practice much. He did, however, observe shabbas as a cultural legacy of his childhood.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/shalom.jpg"/> <p><strong>When they met</strong>, Tzipora told Baron she was Catholic. He thought that was hilarious — it was one of the few times she saw him laugh. Her name was “Tzipora”, and she gave herself the name “Zelda” — who did she think she was kidding? But that’s just how she was; Tzipora was an intricate person of many backgrounds and instincts.</p>
+<p>Baron was Jewish, but he didn’t practice much. He did, however, observe shabbas as a cultural legacy of his childhood. He worked six days a week, and rested Saturdays. Sometimes, he’d put on a roast in the tradition of his late father’s recipe. Other times, Tzipora would cook some of their favourite foods. Tzipora, the insistent catholic, would respect the melakhot because she liked the idea of it. Even more unusually, she welcomed the shabbas with a prayer, even though her sabbath was Sunday. That’s just how she was; you get the idea. She was a curious and deeply spiritual person, and became more fascinated with her Jewish heritage after living with Baron.</p>
+<p>Cobian didn’t know what a Jew was; she barely understood the concept of any god. Cobian’s family were indigenous Vekllei, descended from generations of animistic Upen observers. She was, however, more than willing to break bread with the girl she loved, and they enjoyed many meals together over the years in that picturesque, naive multiculturalism common to Vekllei.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -208,32 +198,31 @@
 	  <pubDate>Wed, 30 Sep 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/father/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/father.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/father.jpg"/> 
-		  &lt;blockquote class=&#34;hint story&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This article&lt;/strong&gt; was featured in &lt;a href=&#34;https://millmint.net/news/bulletin/2020/5&#34;&gt;&lt;strong&gt;Issue #5&lt;/strong&gt;&lt;/a&gt; of the &lt;em&gt;Atlantic Bulletin&lt;/em&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;People are not sure what to make of Baron&lt;/strong&gt;. They are not sure what to make of his daughter, Tzipora, either. To that end, they are lucky to have found each other.&lt;/p&gt;
-&lt;p&gt;His obscurity is part of a severe disposition, made obvious by his astonishing disinterest in friends and hobbies. When he finishes work, he listens to the radio, prepares supper, and goes to bed. His unrelenting seriousness is mitigated by his general passivity — Baron is a man totally in control, who keeps to himself and does not take issue with what goes on around him. For his seriousness he is not particularly judgemental or opinionated. To call him boring would be a poor characterisation; he simply feels he has done enough and is not looking to complicate the basic equations of his life.&lt;/p&gt;
-&lt;p&gt;Tzipora (Zelda to him) complicates this equation. She’s similar to him in many ways, with her conservative personal disposition and humble lifestyle. She does not make a very good teen-ager.&lt;/p&gt;
-&lt;p&gt;“It’s funny you say that. I was talking to her the other day, and she was talking about how nice it was to have some peace and quiet,” Baron once confided in Ayn. “Of course, she looks very young, so sometimes you have to remind yourself that she’s not a child. She’s not thirteen, she’s nineteen, and very unusual, I think. She’s very smart but she doesn’t let that on much.”&lt;/p&gt;
-&lt;p&gt;Tzipora did not really have “phases” — Tzipora was Tzipora, eternal. But she was a much more emotionally attuned person, and her highs were higher and her lowers were lower than anything Baron had felt in decades.&lt;/p&gt;
-&lt;p&gt;He was not always so unfeeling. Baron’s Ashkenazim parents were pulled straight from the bubbling diaspora of Eastern Europe. They met in the labour zionist movement, but fell out of love with professional organising and immigrated to a struggling Vekllei to &lt;a href=&#34;https://www.reddit.com/r/vekllei/comments/g4wo2w/the_ou_hydroburo_office/&#34;&gt;work in the national hydroelectricity scheme&lt;/a&gt;, among thousands of immigrants employed by the Thunderburo.&lt;/p&gt;
-&lt;p&gt;He was born in 2027 and was not very interested in school as a child. He was rebellious and obstinate, and had only vague ambitions of acquiring a trade certificate in motorcycle repair. His sister, Amelie, died of tuberculosis when he was 11. That was about the end of school ambitions for him.&lt;/p&gt;
-&lt;p&gt;He started conscription early and spent his high school years in an army college. By the time he was 18, he was transferred to military police. It was 2045. He had started dating a middle school sweetheart, Ayn, two weeks before the war in Taiwan broke out.&lt;/p&gt;
-&lt;p&gt;Young Baron died in Taiwan, and another figure in his body returned. He was transferred almost immediately to a junior post at the Americas Bureau at National Intelligence (AB/NI), where he would spend the next decade. While he was stationed abroad, his mother died and his father followed. By this time, Baron was a significant asset for Vekllei’s deep autonomous intelligence work — apolitical, unattached, unsentimental and steady on his feet. He was destined to die in Colombia, employed indefinitely and waiting to be used up. In 2063, he met a fellow Spanish-speaking Jew by name of Tzipora.&lt;/p&gt;
-&lt;p&gt;In many ways, his identity is as fractured as Tzipora’s, whose Jewish European ancestry was a novel curiosity and not much more. She considered herself a Latina-American until she was Vekllei, and since then she has not been anything more. That was how it went in Vekllei’s grand secular melting pot. Tzipora was still ta bubeleh to him, but by his mid-thirties Baron had lost most of his mother’s Yiddish.
-Tzipora is his closest friend and daughter at the same time. She is a wholly energetic and independent agent in his life, and their relationship alternates awkwardly but intuitively between father-daughter and old friends. Ayn wonders if it is not a coincidence that Tzipora looks like Amelie, his sister.&lt;/p&gt;
-&lt;p&gt;The two of them champion the redemption of losers; the adrift, empty people of the world, acting on a chance to salvage a life and family. Tzipora expected to die in America; Baron expected nothing at all. But when Christmas comes around, and Ayn visits for supper, Taiwan and America melt into air; and their apartment houses the only Jewish Christmas tree in the neighbourhood.&lt;/p&gt;
-
+	  ✿ This article was featured in Issue #5 of the Atlantic Bulletin People are not sure what to make of Baron. They are not sure what to make of his daughter, Tzipora, either. To that end, they are lucky to have found each other.
+His obscurity is part of a severe disposition, made obvious by his astonishing disinterest in friends and hobbies. When he finishes work, he listens to the radio, prepares supper, and goes to bed.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/father.jpg"/> <blockquote class="hint story">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+</blockquote>
+
+<p><strong>People are not sure what to make of Baron</strong>. They are not sure what to make of his daughter, Tzipora, either. To that end, they are lucky to have found each other.</p>
+<p>His obscurity is part of a severe disposition, made obvious by his astonishing disinterest in friends and hobbies. When he finishes work, he listens to the radio, prepares supper, and goes to bed. His unrelenting seriousness is mitigated by his general passivity — Baron is a man totally in control, who keeps to himself and does not take issue with what goes on around him. For his seriousness he is not particularly judgemental or opinionated. To call him boring would be a poor characterisation; he simply feels he has done enough and is not looking to complicate the basic equations of his life.</p>
+<p>Tzipora (Zelda to him) complicates this equation. She’s similar to him in many ways, with her conservative personal disposition and humble lifestyle. She does not make a very good teen-ager.</p>
+<p>“It’s funny you say that. I was talking to her the other day, and she was talking about how nice it was to have some peace and quiet,” Baron once confided in Ayn. “Of course, she looks very young, so sometimes you have to remind yourself that she’s not a child. She’s not thirteen, she’s nineteen, and very unusual, I think. She’s very smart but she doesn’t let that on much.”</p>
+<p>Tzipora did not really have “phases” — Tzipora was Tzipora, eternal. But she was a much more emotionally attuned person, and her highs were higher and her lowers were lower than anything Baron had felt in decades.</p>
+<p>He was not always so unfeeling. Baron’s Ashkenazim parents were pulled straight from the bubbling diaspora of Eastern Europe. They met in the labour zionist movement, but fell out of love with professional organising and immigrated to a struggling Vekllei to <a href="https://www.reddit.com/r/vekllei/comments/g4wo2w/the_ou_hydroburo_office/">work in the national hydroelectricity scheme</a>, among thousands of immigrants employed by the Thunderburo.</p>
+<p>He was born in 2027 and was not very interested in school as a child. He was rebellious and obstinate, and had only vague ambitions of acquiring a trade certificate in motorcycle repair. His sister, Amelie, died of tuberculosis when he was 11. That was about the end of school ambitions for him.</p>
+<p>He started conscription early and spent his high school years in an army college. By the time he was 18, he was transferred to military police. It was 2045. He had started dating a middle school sweetheart, Ayn, two weeks before the war in Taiwan broke out.</p>
+<p>Young Baron died in Taiwan, and another figure in his body returned. He was transferred almost immediately to a junior post at the Americas Bureau at National Intelligence (AB/NI), where he would spend the next decade. While he was stationed abroad, his mother died and his father followed. By this time, Baron was a significant asset for Vekllei’s deep autonomous intelligence work — apolitical, unattached, unsentimental and steady on his feet. He was destined to die in Colombia, employed indefinitely and waiting to be used up. In 2063, he met a fellow Spanish-speaking Jew by name of Tzipora.</p>
+<p>In many ways, his identity is as fractured as Tzipora’s, whose Jewish European ancestry was a novel curiosity and not much more. She considered herself a Latina-American until she was Vekllei, and since then she has not been anything more. That was how it went in Vekllei’s grand secular melting pot. Tzipora was still ta bubeleh to him, but by his mid-thirties Baron had lost most of his mother’s Yiddish.
+Tzipora is his closest friend and daughter at the same time. She is a wholly energetic and independent agent in his life, and their relationship alternates awkwardly but intuitively between father-daughter and old friends. Ayn wonders if it is not a coincidence that Tzipora looks like Amelie, his sister.</p>
+<p>The two of them champion the redemption of losers; the adrift, empty people of the world, acting on a chance to salvage a life and family. Tzipora expected to die in America; Baron expected nothing at all. But when Christmas comes around, and Ayn visits for supper, Taiwan and America melt into air; and their apartment houses the only Jewish Christmas tree in the neighbourhood.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -242,33 +231,31 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Mon, 20 Apr 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/spectre/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/spectre.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/spectre.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;The Americas Bureau at National Intelligence&lt;/strong&gt; (AB/NI), a semiautonomous organ of the covert operations council of the War Department, is recognised as the busiest of the continental bureaus. There is a lot to be busy with — the Dallas Secession, the Brazilian invasion of Bolivia, the Dallas nuclear lend-lease, and the reliability of Venezuelan oil production are all of some concern to Vekllei, and so AB/NI proactively has fingers in those pies.&lt;/p&gt;
-&lt;p&gt;AB/NI foreign operations are provocative and direct, often guiding or outright employing shadow contractors, criminals, mercenary groups and political action groups. This is in the spirit of Vekllei’s concentric security concerns, which are benefited by the destabilisation of major powers.&lt;/p&gt;
-&lt;p&gt;Frequently implicated and rarely rarely held accountable, AB/NI soaks up hard men returning from the previous decade of vicious fighting in Asia and puts them to work in coat and tie as servants of the Vekllei intelligence community. These include superficially respectable, decent men like Baron Desmoisnes, but also many of those whose violent tendencies and undiagnosed psychological problems are kept isolated from domestic life by their disposal in the regional bureuas.&lt;/p&gt;
-&lt;p&gt;Tzipora first met &lt;strong&gt;Wihle “Willy” Tesmehsnoisen&lt;/strong&gt; in Baron’s orbit shortly after her arrival in Vekllei in 2063. She immediately liked him. His filthy ragged hair and stache were at odds with his business attire, and his short, sharp movements carried a threat of violence. His incongruity radiated freakish charm and power — the sort of person Tzipora liked. He thought Tzipora was the funniest thing he’d ever seen, and not just for her good sense of humour. To him, her diagnosis wasn’t worth much more than a good laugh. “You haven’t changed a bit,” he’d say every time he saw her. She liked that. He also faked an American accent.&lt;/p&gt;
-&lt;p&gt;He worked as an operative at AB/NI, and she only saw him occasionally. As far as she could tell, he was not particularly close with Baron — Baron was not particularly close with anyone but her and maybe Ayn — but she thought Wihle respected him. They’d both been boys in the Asian war, and he’d clearly had a place in Baron’s history, no doubt in shadowy work to which Tzipora was not privy. When Tzipora performed in the school play as Witch #2, Wihle was in the audience with Baron and Ayn, clapping and stomping his feet.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Where he’s from?” She asked Baron.&lt;/p&gt;
-&lt;p&gt;“He said he’s from California, but that’s a lie. I don’t know where he comes from.” Like most of their conversations in his office, he was looking at his work and did not look up to answer her questions.&lt;/p&gt;
-&lt;p&gt;“California,” she said, and something about it — the spirit, if not the truth — made sense. She asked, “what does he do at work?”&lt;/p&gt;
-&lt;p&gt;“Shit all,” Baron said, and that was the end of that.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;In 2072, Wihle was killed in an altercation with his wife. The unsolved disappearances of several Americans went with him.&lt;/p&gt;
-&lt;p&gt;Willy’s loud anarchism was contrasted by &lt;strong&gt;Jiro Kondō’s&lt;/strong&gt; obsequious professionalism. Here, lo, was another AB/NI contradiction — a man dressed like a gangster with the disposition of a well-paid civil servant. Jiro had started out as a merchant navy sailor on old diesel ships in the Sino Crisis, and after the war had found work with Vekllei’s Japanese Embassy as a double agent. Soon he’d been granted citizenship and recognised as a capable regional advisor for OB/NI (Oriental Bureau at National Intelligence) and met Baron through Vekllei’s work monitoring U.S.-Japan relations.&lt;/p&gt;
-&lt;p&gt;Although many Vekllei staff in the provincial HO/NI (Home Office at National Intelligence) dismissed him as an unremarkable “import” from the East — a pretentious Japanese bureaucrat — Jiro was a fascinating character. Generally, men who’d actually seen action were unremarkable and gentle like Baron, or easy-going and irreverent like Wihle, but Jiro was neither. He was a very intense, focused man who volunteered almost any information about himself freely, though he was not a conversationalist. Baron shrugged decades of his life away in the most innocent of questions, but a simple “did you ever kill somebody?” elicited a frank, disarming admission from Jiro:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Yes… In 2056. A Korean… He was monitoring a man of interest to me… and the man in question was in a very delicate situation. I shot the Korean in his apartment. This was in Osaka.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;He was not a warm man, but he remembered every occasion of her life and delivered small gifts. Tzipora loved gifts, the the care of the gesture in a decommodifiied society, and so she reciprocated the gesture to him several times a year. So it was that Jiro’s birthday gifts consisted only of the scarves knitted by the daughter of his boss. He never married,&lt;/p&gt;
-&lt;p&gt;There were others at AB/NI whom Tzipora liked, not least of which the fabulous and loving Ayn, but few typified the eccentricity and violence associated with the regional bureaus more than Wihle and Jiro. It was a glimpse of the “real” world. Away from her Vekllei language lessons, and the superficiality of her classmates, were the spectres of real danger, mental illness and genuine intrigue. That connection, as tenuous and unjustifiable as it was, was very important to her.&lt;/p&gt;
-
+	  The Americas Bureau at National Intelligence (AB/NI), a semiautonomous organ of the covert operations council of the War Department, is recognised as the busiest of the continental bureaus. There is a lot to be busy with — the Dallas Secession, the Brazilian invasion of Bolivia, the Dallas nuclear lend-lease, and the reliability of Venezuelan oil production are all of some concern to Vekllei, and so AB/NI proactively has fingers in those pies.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/spectre.jpg"/> <p><strong>The Americas Bureau at National Intelligence</strong> (AB/NI), a semiautonomous organ of the covert operations council of the War Department, is recognised as the busiest of the continental bureaus. There is a lot to be busy with — the Dallas Secession, the Brazilian invasion of Bolivia, the Dallas nuclear lend-lease, and the reliability of Venezuelan oil production are all of some concern to Vekllei, and so AB/NI proactively has fingers in those pies.</p>
+<p>AB/NI foreign operations are provocative and direct, often guiding or outright employing shadow contractors, criminals, mercenary groups and political action groups. This is in the spirit of Vekllei’s concentric security concerns, which are benefited by the destabilisation of major powers.</p>
+<p>Frequently implicated and rarely rarely held accountable, AB/NI soaks up hard men returning from the previous decade of vicious fighting in Asia and puts them to work in coat and tie as servants of the Vekllei intelligence community. These include superficially respectable, decent men like Baron Desmoisnes, but also many of those whose violent tendencies and undiagnosed psychological problems are kept isolated from domestic life by their disposal in the regional bureuas.</p>
+<p>Tzipora first met <strong>Wihle “Willy” Tesmehsnoisen</strong> in Baron’s orbit shortly after her arrival in Vekllei in 2063. She immediately liked him. His filthy ragged hair and stache were at odds with his business attire, and his short, sharp movements carried a threat of violence. His incongruity radiated freakish charm and power — the sort of person Tzipora liked. He thought Tzipora was the funniest thing he’d ever seen, and not just for her good sense of humour. To him, her diagnosis wasn’t worth much more than a good laugh. “You haven’t changed a bit,” he’d say every time he saw her. She liked that. He also faked an American accent.</p>
+<p>He worked as an operative at AB/NI, and she only saw him occasionally. As far as she could tell, he was not particularly close with Baron — Baron was not particularly close with anyone but her and maybe Ayn — but she thought Wihle respected him. They’d both been boys in the Asian war, and he’d clearly had a place in Baron’s history, no doubt in shadowy work to which Tzipora was not privy. When Tzipora performed in the school play as Witch #2, Wihle was in the audience with Baron and Ayn, clapping and stomping his feet.</p>
+<blockquote>
+<p>“Where he’s from?” She asked Baron.</p>
+<p>“He said he’s from California, but that’s a lie. I don’t know where he comes from.” Like most of their conversations in his office, he was looking at his work and did not look up to answer her questions.</p>
+<p>“California,” she said, and something about it — the spirit, if not the truth — made sense. She asked, “what does he do at work?”</p>
+<p>“Shit all,” Baron said, and that was the end of that.</p>
+</blockquote>
+<p>In 2072, Wihle was killed in an altercation with his wife. The unsolved disappearances of several Americans went with him.</p>
+<p>Willy’s loud anarchism was contrasted by <strong>Jiro Kondō’s</strong> obsequious professionalism. Here, lo, was another AB/NI contradiction — a man dressed like a gangster with the disposition of a well-paid civil servant. Jiro had started out as a merchant navy sailor on old diesel ships in the Sino Crisis, and after the war had found work with Vekllei’s Japanese Embassy as a double agent. Soon he’d been granted citizenship and recognised as a capable regional advisor for OB/NI (Oriental Bureau at National Intelligence) and met Baron through Vekllei’s work monitoring U.S.-Japan relations.</p>
+<p>Although many Vekllei staff in the provincial HO/NI (Home Office at National Intelligence) dismissed him as an unremarkable “import” from the East — a pretentious Japanese bureaucrat — Jiro was a fascinating character. Generally, men who’d actually seen action were unremarkable and gentle like Baron, or easy-going and irreverent like Wihle, but Jiro was neither. He was a very intense, focused man who volunteered almost any information about himself freely, though he was not a conversationalist. Baron shrugged decades of his life away in the most innocent of questions, but a simple “did you ever kill somebody?” elicited a frank, disarming admission from Jiro:</p>
+<blockquote>
+<p>“Yes… In 2056. A Korean… He was monitoring a man of interest to me… and the man in question was in a very delicate situation. I shot the Korean in his apartment. This was in Osaka.”</p>
+</blockquote>
+<p>He was not a warm man, but he remembered every occasion of her life and delivered small gifts. Tzipora loved gifts, the the care of the gesture in a decommodifiied society, and so she reciprocated the gesture to him several times a year. So it was that Jiro’s birthday gifts consisted only of the scarves knitted by the daughter of his boss. He never married,</p>
+<p>There were others at AB/NI whom Tzipora liked, not least of which the fabulous and loving Ayn, but few typified the eccentricity and violence associated with the regional bureaus more than Wihle and Jiro. It was a glimpse of the “real” world. Away from her Vekllei language lessons, and the superficiality of her classmates, were the spectres of real danger, mental illness and genuine intrigue. That connection, as tenuous and unjustifiable as it was, was very important to her.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -277,32 +264,30 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Wed, 11 Dec 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sneak/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sneak.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sneak.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;He kept bad hours. Sometimes he worked so hard he came home in the early morning and fell asleep to the television with the subtitles on. Like a guerrilla sighting a commanding officer, she would approach discreetly, wearing her blanket like a cape and bouncing on her toes. With a gentle movement she&amp;rsquo;d drape it over him and listen for a break in his snoring. If he didn&amp;rsquo;t stir, she&amp;rsquo;d find a nook in his shoulder and would stay there till the sunrays woke him in the morning. Those were her favourite nights.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Hello everyone. Hobart here. We hit 1,000 subscribers only a month ago, and it gets a bit tedious to carry on thanking everyone, so I won’t. I’m not thanking the commenters who say nice things, and I’m definitely not thanking the lurkers who continue to validate my self-worth through subreddit metrics. It would be tiresome to mention that it really means a lot and I’m thankful, so I won’t.&lt;/p&gt;
-&lt;p&gt;I’ve got a few updates to share.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The new website looks really good. This doesn’t really affect anything on the subreddit aside from the fact it’s crippled my output this last week or two. It’s only in alpha, if anything, but once it’s polished it’ll be mesmerising. I really mean it. It’s so fun to play with already. It&amp;rsquo;s not like other project sites.&lt;/li&gt;
-&lt;li&gt;SkyMonth will wrap up this December. It’s taken longer than planned, but so what? There’s lots of planes to come.&lt;/li&gt;
-&lt;li&gt;I’d like to thank the handful of kind people who donate to my Patreon. I’m not much of a drinker, but I like a drop of Irish cream with my tea and coffee, and I’d have to choose between it and food if it weren’t for these nice people. I&amp;rsquo;m &amp;ldquo;between jobs,&amp;rdquo; so it really does make a difference. Thank you kindly.&lt;/li&gt;
-&lt;li&gt;I reckon January will be a free-for-all in terms of posts. I might even pull back and do a really nice, time-intensive painting like I used to. Then we&amp;rsquo;ll go in for a deep-dive themed month (to be revealed).&lt;/li&gt;
-&lt;li&gt;Comic is being written.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I’ve gotten really nice feedback on a few of the character posts. Sorry if I didn’t reply — they were all written between 3-4am to get them over and done with, and I promptly disowned them when I woke up in the morning (might happen with this post too — it’s 3:26am on my clock). It’s easy to forget most of you don’t know the characters of this world.&lt;/p&gt;
-&lt;p&gt;So let me know. What kind of posts are your favourite? What’s working and what’s not working? Or you could just say a nice thing about me or my art, those do me just fine as well.&lt;/p&gt;
-&lt;p&gt;I won&amp;rsquo;t conclude by thanking you for sticking with Vekllei.&lt;/p&gt;
-&lt;p&gt;Sleep tight, and see you in the morning,&lt;/p&gt;
-&lt;p&gt;(something about bed bugs biting)&lt;/p&gt;
-&lt;p&gt;Hobart.&lt;/p&gt;
-
+	  He kept bad hours. Sometimes he worked so hard he came home in the early morning and fell asleep to the television with the subtitles on. Like a guerrilla sighting a commanding officer, she would approach discreetly, wearing her blanket like a cape and bouncing on her toes. With a gentle movement she&rsquo;d drape it over him and listen for a break in his snoring. If he didn&rsquo;t stir, she&rsquo;d find a nook in his shoulder and would stay there till the sunrays woke him in the morning.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sneak.jpg"/> <blockquote>
+<p>He kept bad hours. Sometimes he worked so hard he came home in the early morning and fell asleep to the television with the subtitles on. Like a guerrilla sighting a commanding officer, she would approach discreetly, wearing her blanket like a cape and bouncing on her toes. With a gentle movement she&rsquo;d drape it over him and listen for a break in his snoring. If he didn&rsquo;t stir, she&rsquo;d find a nook in his shoulder and would stay there till the sunrays woke him in the morning. Those were her favourite nights.</p>
+</blockquote>
+<p>Hello everyone. Hobart here. We hit 1,000 subscribers only a month ago, and it gets a bit tedious to carry on thanking everyone, so I won’t. I’m not thanking the commenters who say nice things, and I’m definitely not thanking the lurkers who continue to validate my self-worth through subreddit metrics. It would be tiresome to mention that it really means a lot and I’m thankful, so I won’t.</p>
+<p>I’ve got a few updates to share.</p>
+<ol>
+<li>The new website looks really good. This doesn’t really affect anything on the subreddit aside from the fact it’s crippled my output this last week or two. It’s only in alpha, if anything, but once it’s polished it’ll be mesmerising. I really mean it. It’s so fun to play with already. It&rsquo;s not like other project sites.</li>
+<li>SkyMonth will wrap up this December. It’s taken longer than planned, but so what? There’s lots of planes to come.</li>
+<li>I’d like to thank the handful of kind people who donate to my Patreon. I’m not much of a drinker, but I like a drop of Irish cream with my tea and coffee, and I’d have to choose between it and food if it weren’t for these nice people. I&rsquo;m &ldquo;between jobs,&rdquo; so it really does make a difference. Thank you kindly.</li>
+<li>I reckon January will be a free-for-all in terms of posts. I might even pull back and do a really nice, time-intensive painting like I used to. Then we&rsquo;ll go in for a deep-dive themed month (to be revealed).</li>
+<li>Comic is being written.</li>
+</ol>
+<p>I’ve gotten really nice feedback on a few of the character posts. Sorry if I didn’t reply — they were all written between 3-4am to get them over and done with, and I promptly disowned them when I woke up in the morning (might happen with this post too — it’s 3:26am on my clock). It’s easy to forget most of you don’t know the characters of this world.</p>
+<p>So let me know. What kind of posts are your favourite? What’s working and what’s not working? Or you could just say a nice thing about me or my art, those do me just fine as well.</p>
+<p>I won&rsquo;t conclude by thanking you for sticking with Vekllei.</p>
+<p>Sleep tight, and see you in the morning,</p>
+<p>(something about bed bugs biting)</p>
+<p>Hobart.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -311,18 +296,17 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Sat, 09 Nov 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/beach/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/beach.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/beach.jpg"/> 
-		  &lt;p&gt;The main beach in Mumen, the nicest of the seaside districts, is constructed out of sand imported from the dunes of Africa. Where the rest of the country has black sand, a symptom of its volcanic turbulence, Mumen has nice yellow sand.&lt;/p&gt;
-&lt;p&gt;Baron doesn’t like the water, and getting him down to the sea at all was a trial. Zelda, for her part, sinks faster than lead in water and only ventures into the shallows with Ayn, who herself is afraid of the deeper ocean. She spends most of her time on the beach in her clothes, watching the other girls splash and compare suits.&lt;/p&gt;
-&lt;p&gt;Baron here is reading his paper, &lt;em&gt;The Atlantic&lt;/em&gt;. &lt;a href=&#34;https://www.reddit.com/r/vekllei/comments/cw44hm/sweat_and_ink_in_the_vekllei_news_agency/&#34;&gt;I wrote a bit about that organisation here&lt;/a&gt;. Zelda is reading a horror gazette. A naturally curious girl who enjoys newsreels and documentary, she swaps with him when they’re done. He claims he doesn’t like her horror gazettes, but he keeps taking them, and he keeps reading them.&lt;/p&gt;
-&lt;p&gt;The sunsets of Vekllei are nearly as legendary as the Aurora, and when the end of the day is at their backs it’s finally dark enough to face the sun and watch it settle. They take the tram home and finish reading in the warmth of their eighth-floor apartment.&lt;/p&gt;
-
+	  The main beach in Mumen, the nicest of the seaside districts, is constructed out of sand imported from the dunes of Africa. Where the rest of the country has black sand, a symptom of its volcanic turbulence, Mumen has nice yellow sand.
+Baron doesn’t like the water, and getting him down to the sea at all was a trial. Zelda, for her part, sinks faster than lead in water and only ventures into the shallows with Ayn, who herself is afraid of the deeper ocean.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/beach.jpg"/> <p>The main beach in Mumen, the nicest of the seaside districts, is constructed out of sand imported from the dunes of Africa. Where the rest of the country has black sand, a symptom of its volcanic turbulence, Mumen has nice yellow sand.</p>
+<p>Baron doesn’t like the water, and getting him down to the sea at all was a trial. Zelda, for her part, sinks faster than lead in water and only ventures into the shallows with Ayn, who herself is afraid of the deeper ocean. She spends most of her time on the beach in her clothes, watching the other girls splash and compare suits.</p>
+<p>Baron here is reading his paper, <em>The Atlantic</em>. <a href="https://www.reddit.com/r/vekllei/comments/cw44hm/sweat_and_ink_in_the_vekllei_news_agency/">I wrote a bit about that organisation here</a>. Zelda is reading a horror gazette. A naturally curious girl who enjoys newsreels and documentary, she swaps with him when they’re done. He claims he doesn’t like her horror gazettes, but he keeps taking them, and he keeps reading them.</p>
+<p>The sunsets of Vekllei are nearly as legendary as the Aurora, and when the end of the day is at their backs it’s finally dark enough to face the sun and watch it settle. They take the tram home and finish reading in the warmth of their eighth-floor apartment.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -331,22 +315,21 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Mon, 14 Oct 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/tattoos/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/tattoos.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/tattoos.jpg"/> 
-		  &lt;p&gt;Where tattoos had once been an indication of class and work, they were now uncommon. Both class and work had been abolished. Tattoos were almost never seen in the prism of ordinary Vekllei life, but in less savoury occupations they were found where utopian concessions collide with violence and memory.&lt;/p&gt;
-&lt;p&gt;Baron rolled up his sleeves and laid them out for her. You could accuse him of many things — he was a reticent bloke — but he was never dishonest with Tzipora. She was as much a companion as a daughter, and he treated her with the respect he’d afford any close colleague or friend. His upper arm was marked with faded illustrations from a previous chapter of life. Most obvious was a dragon that looked like it had been done professionally, or at least by a comrade who’d had some experience. It was intricate and artful. The rest were simple words or illustrations, maybe done by the man himself. Holding her tongue about the dragon tattoo, which demanded attention in its colour and scale, she asked about three dots that matched the patterns of her shirt.&lt;/p&gt;
-&lt;p&gt;“Those are for Amelie. I mentioned her, didn’t I? She was my sister — she would have liked you, too. She had a strange sense of humour.”&lt;/p&gt;
-&lt;p&gt;They marked the grave of his sister who passed as a teen-ager from tuburculosis. It was a common outbreak in the poverty that followed the First Atomic War. She was fifteen — the Vekllei lifespan is measured in sets of five. Beneath it was a dagger, or improvised military cross, listing the initials of two friends of his and his years of service. “All done,” he told her, “while black-out drunk.”&lt;/p&gt;
-&lt;p&gt;She asked about his friends, and where they were, and he told her he didn’t know. “It’s true. That’s how service overseas goes sometimes. Look how long it took for me to get back here. I wouldn&amp;rsquo;t recognise them.” He paused for a moment, and raised his eyebrows. “Most likely, they’re dead.”&lt;/p&gt;
-&lt;p&gt;Within the Chinese dragon, illustrated cleanly with improvised equipment, lay a history of sweltering heat and combat. This one was a soldier’s tattoo, proud and impossible to ignore. You don’t give much thought to scarring your skin if you’re about to die. She did not know how long he was there, or in what capacity, because he did not talk about his time in the army. She just knew he was young — maybe a few years older than her.&lt;/p&gt;
-&lt;p&gt;She liked his tattoos. For the thirty years she would know him, he was outwardly a quiet and thoroughly unextraordinary man. He took part in no great pleasures except a glass of wine on Friday evenings and a movie with Zelda on Sunday. Not once did he ever raise his voice at her. He smoked occasionally, and a pipe on weekends. But when he rolled up his sleeves after supper to smoke his pipe, and watch the evening from their eighth-floor balcony, the snake climbing the dagger was visible on his forearm. And behind that dagger, and that snake, there was a filthy room in Ariquemes, and a baby’s cry, and blood. A sinister revelation settled on the room.&lt;/p&gt;
-&lt;p&gt;As Zelda would once explain, you might go to a friend’s party or parent-teacher, and all the other dads would see hers and think he looked like a professor or bank teller. She liked to think they gave no regard to him at all — he looked like a quiet, pleasant, nothing-person. But if he reaches for his left sleeve and rolls it up, that all changes. He reveals himself to be a figure of death.&lt;/p&gt;
-
+	  Where tattoos had once been an indication of class and work, they were now uncommon. Both class and work had been abolished. Tattoos were almost never seen in the prism of ordinary Vekllei life, but in less savoury occupations they were found where utopian concessions collide with violence and memory.
+Baron rolled up his sleeves and laid them out for her. You could accuse him of many things — he was a reticent bloke — but he was never dishonest with Tzipora.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/tattoos.jpg"/> <p>Where tattoos had once been an indication of class and work, they were now uncommon. Both class and work had been abolished. Tattoos were almost never seen in the prism of ordinary Vekllei life, but in less savoury occupations they were found where utopian concessions collide with violence and memory.</p>
+<p>Baron rolled up his sleeves and laid them out for her. You could accuse him of many things — he was a reticent bloke — but he was never dishonest with Tzipora. She was as much a companion as a daughter, and he treated her with the respect he’d afford any close colleague or friend. His upper arm was marked with faded illustrations from a previous chapter of life. Most obvious was a dragon that looked like it had been done professionally, or at least by a comrade who’d had some experience. It was intricate and artful. The rest were simple words or illustrations, maybe done by the man himself. Holding her tongue about the dragon tattoo, which demanded attention in its colour and scale, she asked about three dots that matched the patterns of her shirt.</p>
+<p>“Those are for Amelie. I mentioned her, didn’t I? She was my sister — she would have liked you, too. She had a strange sense of humour.”</p>
+<p>They marked the grave of his sister who passed as a teen-ager from tuburculosis. It was a common outbreak in the poverty that followed the First Atomic War. She was fifteen — the Vekllei lifespan is measured in sets of five. Beneath it was a dagger, or improvised military cross, listing the initials of two friends of his and his years of service. “All done,” he told her, “while black-out drunk.”</p>
+<p>She asked about his friends, and where they were, and he told her he didn’t know. “It’s true. That’s how service overseas goes sometimes. Look how long it took for me to get back here. I wouldn&rsquo;t recognise them.” He paused for a moment, and raised his eyebrows. “Most likely, they’re dead.”</p>
+<p>Within the Chinese dragon, illustrated cleanly with improvised equipment, lay a history of sweltering heat and combat. This one was a soldier’s tattoo, proud and impossible to ignore. You don’t give much thought to scarring your skin if you’re about to die. She did not know how long he was there, or in what capacity, because he did not talk about his time in the army. She just knew he was young — maybe a few years older than her.</p>
+<p>She liked his tattoos. For the thirty years she would know him, he was outwardly a quiet and thoroughly unextraordinary man. He took part in no great pleasures except a glass of wine on Friday evenings and a movie with Zelda on Sunday. Not once did he ever raise his voice at her. He smoked occasionally, and a pipe on weekends. But when he rolled up his sleeves after supper to smoke his pipe, and watch the evening from their eighth-floor balcony, the snake climbing the dagger was visible on his forearm. And behind that dagger, and that snake, there was a filthy room in Ariquemes, and a baby’s cry, and blood. A sinister revelation settled on the room.</p>
+<p>As Zelda would once explain, you might go to a friend’s party or parent-teacher, and all the other dads would see hers and think he looked like a professor or bank teller. She liked to think they gave no regard to him at all — he looked like a quiet, pleasant, nothing-person. But if he reaches for his left sleeve and rolls it up, that all changes. He reveals himself to be a figure of death.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -355,18 +338,16 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Thu, 05 Sep 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/fat-lip/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/fatlip.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/fatlip.jpg"/> 
-		  &lt;p&gt;For the first six months Baron had known her, Zelda was a serious and wisened young woman who carried symptoms of her troubled past as gracefully as anyone ever could. Poverty ages a person, and she’d nurtured a calm and dispirited disposition. She did not like war films or books with unhappy endings, or loud noises or arguments. She dressed conservatively and spoke quietly and uncontroversially. She had lived a lifetime already, working in exploitation in motels and supermarkets, watching as Utah unraveled around her. She was an immigrant and uneducated, homeless and independent, and so by the time she arrived in Vekllei she was ready to settle down and live quietly.&lt;/p&gt;
-&lt;p&gt;Watching her psyche attempt to reconcile her sombre nature with her desire to be normal and socialise with people her own age was heartbreaking. She had this pathetic, mythical idea of normal girlish life, and it took her a long time to figure out that teen-age life worked differently from films. She had a group of people she hung around, but always on the periphery. She was blatantly disposable and socially innocent, and so she carried on pretending she could somehow rework her own image into the mythologised Coca-Cola teen dream she’d clung to since California.&lt;/p&gt;
-&lt;p&gt;Eventually, the idea fell apart. Where she was mousy and pitiful as a school-girl, as Zelda she was uncompromising and principled. As bullying got worse, and her school friends came to resent the parasitic relationship she&amp;rsquo;d worked her way into, things eventually came to a head and the whole thing came crashing down. She got beat up pretty bad, and ruined a new school shirt, but Zelda had fought tougher creatures than Vekllei schoolgirls and she was suspended for the rest of the semester.&lt;/p&gt;
-&lt;p&gt;Eventually, Zelda would figure out that she never really needed or wanted the sort of bubbly teen-age friends she’d imagined. Zelda was, after all, not that bubbly or teen-age. Throughout her life, her closest friends were always those that required nothing and gave her space. That was how she liked to be; loved and shown affection, but left to her own devices.&lt;/p&gt;
-
+	  For the first six months Baron had known her, Zelda was a serious and wisened young woman who carried symptoms of her troubled past as gracefully as anyone ever could. Poverty ages a person, and she’d nurtured a calm and dispirited disposition. She did not like war films or books with unhappy endings, or loud noises or arguments. She dressed conservatively and spoke quietly and uncontroversially. She had lived a lifetime already, working in exploitation in motels and supermarkets, watching as Utah unraveled around her.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fatlip.jpg"/> <p>For the first six months Baron had known her, Zelda was a serious and wisened young woman who carried symptoms of her troubled past as gracefully as anyone ever could. Poverty ages a person, and she’d nurtured a calm and dispirited disposition. She did not like war films or books with unhappy endings, or loud noises or arguments. She dressed conservatively and spoke quietly and uncontroversially. She had lived a lifetime already, working in exploitation in motels and supermarkets, watching as Utah unraveled around her. She was an immigrant and uneducated, homeless and independent, and so by the time she arrived in Vekllei she was ready to settle down and live quietly.</p>
+<p>Watching her psyche attempt to reconcile her sombre nature with her desire to be normal and socialise with people her own age was heartbreaking. She had this pathetic, mythical idea of normal girlish life, and it took her a long time to figure out that teen-age life worked differently from films. She had a group of people she hung around, but always on the periphery. She was blatantly disposable and socially innocent, and so she carried on pretending she could somehow rework her own image into the mythologised Coca-Cola teen dream she’d clung to since California.</p>
+<p>Eventually, the idea fell apart. Where she was mousy and pitiful as a school-girl, as Zelda she was uncompromising and principled. As bullying got worse, and her school friends came to resent the parasitic relationship she&rsquo;d worked her way into, things eventually came to a head and the whole thing came crashing down. She got beat up pretty bad, and ruined a new school shirt, but Zelda had fought tougher creatures than Vekllei schoolgirls and she was suspended for the rest of the semester.</p>
+<p>Eventually, Zelda would figure out that she never really needed or wanted the sort of bubbly teen-age friends she’d imagined. Zelda was, after all, not that bubbly or teen-age. Throughout her life, her closest friends were always those that required nothing and gave her space. That was how she liked to be; loved and shown affection, but left to her own devices.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -375,21 +356,20 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Sat, 17 Aug 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/cherry/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/cherry.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/cherry.jpg"/> 
-		  &lt;p&gt;A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of &lt;a href=&#34;https://millmint.net/utopia/culture/religion/&#34;&gt;Upen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display. Liberated of the desacralising effect of routine, the villages and factories you’ll zoom past take on new and extraordinary light. Removed from it, you see better how society works. The complex web of logistics, from roaring trains on adjacent rail lines to squinting at a passing nuclear flying wing through the sun roof, are now aesthetic indications of petticoat society.&lt;/p&gt;
-&lt;p&gt;The All-Atomic Auto Company betrays its name instantly by not offering a single reactor-powered vehicle in its entire catalogue. Indeed, commercial reactors are so heavy that they are only realistically mounted in truck frames, even in Vekllei’s insensitivity to cost. You simply cannot fit a fission reactor into a small auto. At least, not yet. In fact, in countries where costs are concern, it is feasible that reactor technology as we currently understand it will never be economical in the frame of a small auto.&lt;/p&gt;
-&lt;p&gt;The AAAC is actually an industrial concern of several Vekllei venrouive bureaus negotiating commercial atomics with the future. These include famous companies like &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/a64ahs/the_cosmojet/&#34;&gt;General Reactor&lt;/a&gt;, which are at the forefront of global reactor technology and compete directly with Raytheon, and Common Battery. Several lesser known, unglamorous companies also contribute to the cooperative concern. Astrotransmissions supply transmissions and Montre-Rayon Foundry provide composite steels. The AAAC has an internal design house, but most of its staff are poached from appliance manufacturers.&lt;/p&gt;
-&lt;p&gt;The result are a series of small, playful cars with colourful paints and a friendly look. They’re sleek and fun without being toylike, and recall remarkable household appliance designs like Fettener Kettles or Vekllei Supernational television sets. Although AAAC autos are not yet atomic, they are almost entirely electric and fueled by Vekllei’s atomic and geothermal plants, legitimising the concern’s name partially.&lt;/p&gt;
-&lt;p&gt;The flagship of AAAC is the Cherry, the first mass-market vehicle the company has brought to international market. Several stereotypical errors were made introducing it to the non-Vekllei world, including the unusual name and even more unusual tagline — “The Future Car for an Eternal Summer.” In Vekllei, summer is a feminine, fragrant season of warmth and rebirth. The way it was transliterated makes it seem like a reference to the world’s &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/c21zvo/hot_summers_in_the_arctic_and_newda_architecture/&#34;&gt;rapidly destabilising climate and ecosystem&lt;/a&gt;, which is inching the globe towards economic collapse.&lt;/p&gt;
-&lt;p&gt;The car was a flop in the States, but saw moderate success in Europe. In Vekllei, it is one of the most common cars you’ll find in autopools today and is a favourite among road-trippers circumnavigating Vekllei’s diverse coast.&lt;/p&gt;
-
+	  A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of Upen.
+No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/cherry.jpg"/> <p>A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of <a href="/utopia/culture/religion/">Upen</a>.</p>
+<p>No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display. Liberated of the desacralising effect of routine, the villages and factories you’ll zoom past take on new and extraordinary light. Removed from it, you see better how society works. The complex web of logistics, from roaring trains on adjacent rail lines to squinting at a passing nuclear flying wing through the sun roof, are now aesthetic indications of petticoat society.</p>
+<p>The All-Atomic Auto Company betrays its name instantly by not offering a single reactor-powered vehicle in its entire catalogue. Indeed, commercial reactors are so heavy that they are only realistically mounted in truck frames, even in Vekllei’s insensitivity to cost. You simply cannot fit a fission reactor into a small auto. At least, not yet. In fact, in countries where costs are concern, it is feasible that reactor technology as we currently understand it will never be economical in the frame of a small auto.</p>
+<p>The AAAC is actually an industrial concern of several Vekllei venrouive bureaus negotiating commercial atomics with the future. These include famous companies like <a href="https://www.reddit.com/r/worldbuilding/comments/a64ahs/the_cosmojet/">General Reactor</a>, which are at the forefront of global reactor technology and compete directly with Raytheon, and Common Battery. Several lesser known, unglamorous companies also contribute to the cooperative concern. Astrotransmissions supply transmissions and Montre-Rayon Foundry provide composite steels. The AAAC has an internal design house, but most of its staff are poached from appliance manufacturers.</p>
+<p>The result are a series of small, playful cars with colourful paints and a friendly look. They’re sleek and fun without being toylike, and recall remarkable household appliance designs like Fettener Kettles or Vekllei Supernational television sets. Although AAAC autos are not yet atomic, they are almost entirely electric and fueled by Vekllei’s atomic and geothermal plants, legitimising the concern’s name partially.</p>
+<p>The flagship of AAAC is the Cherry, the first mass-market vehicle the company has brought to international market. Several stereotypical errors were made introducing it to the non-Vekllei world, including the unusual name and even more unusual tagline — “The Future Car for an Eternal Summer.” In Vekllei, summer is a feminine, fragrant season of warmth and rebirth. The way it was transliterated makes it seem like a reference to the world’s <a href="https://www.reddit.com/r/worldbuilding/comments/c21zvo/hot_summers_in_the_arctic_and_newda_architecture/">rapidly destabilising climate and ecosystem</a>, which is inching the globe towards economic collapse.</p>
+<p>The car was a flop in the States, but saw moderate success in Europe. In Vekllei, it is one of the most common cars you’ll find in autopools today and is a favourite among road-trippers circumnavigating Vekllei’s diverse coast.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -398,15 +378,13 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Sat, 04 May 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/birthday/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/birthday.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/birthday.jpg"/> 
-		  &lt;p&gt;Dad&amp;rsquo;s Birthday.&lt;/p&gt;
-
+	  Dad&rsquo;s Birthday.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/birthday.jpg"/> <p>Dad&rsquo;s Birthday.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -415,25 +393,23 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Tue, 26 Feb 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/generations/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/family.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/family.jpg"/> 
-		  &lt;p&gt;We best know &lt;a href=&#34;https://vekllei.city/introducing-landscape/&#34;&gt;Vekllei&lt;/a&gt; as a dense society of utopia and great infrastructure today, but there was blood in that crucible. It is difficult to imagine that only fifty years ago these streets were unpaved and impassible with the rubble of old society. Shadows on concrete marked the souls lost in the arrogance of the monarchy. The nuclear fire was pregnant with a new generation of people, who, in the principles of &lt;a href=&#34;https://vekllei.city/religion/&#34;&gt;upen&lt;/a&gt;, would forge a new society out of the ruins of the old.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Back then girl’s shirts weren’t made of cotton and  you wore holes in your shoes. He was part of the &lt;em&gt;budoinetnoikotet&lt;/em&gt;, or the ‘war children’. His parents had lived through the first atomic war, and he was the born in the shadow of it.&lt;/p&gt;
-&lt;p&gt;In that time the currency had completely collapsed, and so people traded within their own communities in an awkward return to preindustrial life. Often, people’s best clothes were their uniforms, and so that was what they took photos in. This photo sits on the commode in the living room, next to a vase of lilies.&lt;/p&gt;
-&lt;p&gt;He remembered sour details of his teen-age impetuosity. How he insisted he remove his glasses for the photo, insulting his bespectacled father in doing so. How his mother argued with his sister over the appropriate length of her fountain hairpiece. The women wore their family &lt;em&gt;gi&lt;/em&gt;, ceremonial quarter-pleats, and he&amp;rsquo;d had his hair cut.&lt;/p&gt;
-&lt;p&gt;He thought a lot about his sister, Amelie. She was beautiful and clever and had a weird sense of humour. He’d loved her a lot. She confided in him as teen-agers— about problems with friends, her rampant insecurities, her dreams of the future. It turned out she’d had a beast in her lungs and it took her when she was fifteen. That was how it went back then, in the poverty of the city. To think a hundred years earlier tuberculosis had been a rumour. That is what war does to a country. He was not even afforded the dignity of anger. The English had been right to bomb them.&lt;/p&gt;
-&lt;p&gt;Life was different now, of course. Vekllei was strong, and although he was not much wealthier, there was more to be had. The country had flourished in the ruins of the old society. Now he watches his own child sport the uniform his sister once wore, and when she smiles at him she looks like Amelie.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Vekllei developed rapidly in the face of total destruction. In the space of fifty years the country consolidated infrastructure and its rural population into a powerful city-state of autonomous, rugged agrarian hamlets,  they themselves flowers of the extinct monarchy and  military junta. In some ways it was an exciting time to be alive &amp;ndash; there was now plenty to be had. No-one was hungry. But the children of those interim years have almost been erased from common memory entirely, as bastards of Vekllei&amp;rsquo;s story of utopia and violence.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Thanks for stopping by. Follow me on reddit from misc. things, and check out&lt;/em&gt; &lt;a href=&#34;https://www.vekllei.city&#34;&gt;www.vekllei.city&lt;/a&gt; &lt;em&gt;fer more&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;I love questions. thanks.&lt;/em&gt;&lt;/p&gt;
-
+	  We best know Vekllei as a dense society of utopia and great infrastructure today, but there was blood in that crucible. It is difficult to imagine that only fifty years ago these streets were unpaved and impassible with the rubble of old society. Shadows on concrete marked the souls lost in the arrogance of the monarchy. The nuclear fire was pregnant with a new generation of people, who, in the principles of upen, would forge a new society out of the ruins of the old.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/family.jpg"/> <p>We best know <a href="https://vekllei.city/introducing-landscape/">Vekllei</a> as a dense society of utopia and great infrastructure today, but there was blood in that crucible. It is difficult to imagine that only fifty years ago these streets were unpaved and impassible with the rubble of old society. Shadows on concrete marked the souls lost in the arrogance of the monarchy. The nuclear fire was pregnant with a new generation of people, who, in the principles of <a href="https://vekllei.city/religion/">upen</a>, would forge a new society out of the ruins of the old.</p>
+<blockquote>
+<p>Back then girl’s shirts weren’t made of cotton and  you wore holes in your shoes. He was part of the <em>budoinetnoikotet</em>, or the ‘war children’. His parents had lived through the first atomic war, and he was the born in the shadow of it.</p>
+<p>In that time the currency had completely collapsed, and so people traded within their own communities in an awkward return to preindustrial life. Often, people’s best clothes were their uniforms, and so that was what they took photos in. This photo sits on the commode in the living room, next to a vase of lilies.</p>
+<p>He remembered sour details of his teen-age impetuosity. How he insisted he remove his glasses for the photo, insulting his bespectacled father in doing so. How his mother argued with his sister over the appropriate length of her fountain hairpiece. The women wore their family <em>gi</em>, ceremonial quarter-pleats, and he&rsquo;d had his hair cut.</p>
+<p>He thought a lot about his sister, Amelie. She was beautiful and clever and had a weird sense of humour. He’d loved her a lot. She confided in him as teen-agers— about problems with friends, her rampant insecurities, her dreams of the future. It turned out she’d had a beast in her lungs and it took her when she was fifteen. That was how it went back then, in the poverty of the city. To think a hundred years earlier tuberculosis had been a rumour. That is what war does to a country. He was not even afforded the dignity of anger. The English had been right to bomb them.</p>
+<p>Life was different now, of course. Vekllei was strong, and although he was not much wealthier, there was more to be had. The country had flourished in the ruins of the old society. Now he watches his own child sport the uniform his sister once wore, and when she smiles at him she looks like Amelie.</p>
+</blockquote>
+<p>Vekllei developed rapidly in the face of total destruction. In the space of fifty years the country consolidated infrastructure and its rural population into a powerful city-state of autonomous, rugged agrarian hamlets,  they themselves flowers of the extinct monarchy and  military junta. In some ways it was an exciting time to be alive &ndash; there was now plenty to be had. No-one was hungry. But the children of those interim years have almost been erased from common memory entirely, as bastards of Vekllei&rsquo;s story of utopia and violence.</p>
+<p><em>Thanks for stopping by. Follow me on reddit from misc. things, and check out</em> <a href="https://www.vekllei.city">www.vekllei.city</a> <em>fer more</em>.</p>
+<p><em>I love questions. thanks.</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -442,45 +418,43 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Sun, 23 Dec 2018 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/christmas-2018/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/christmas2018.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/christmas2018.jpg"/> 
-		  &lt;p&gt;She had always been a very serious girl, from the first time he’d met her. It was more than a reflection of character; it was how she talked, how she carried herself. Her clothes were plain, her nervous tics were not that funny, and she was afflicted with all sorts of fears and anxieties. She opens her mouth in public and what comes out is usually of serious opinion — a judgement of something or a political remark. But that is not how Gregori syndrome works. It does not take young girls and make them old. As the months wore on and the length of the days reflected the passing of warm season, he learned well enough that she was a teen-ager, despite her seriousness. She was slowly domesticated into regular society, her conversation became casual, and she started to worry more about things that might have been inconceivably petty in the months before.&lt;/p&gt;
-&lt;p&gt;In late November they put up the tree, at her insistence. She was six months a citizen at this point, and not yet familiar with all the familial traditions of the country. But she knew Christmas. And that became her season. This chick, awash with anxiety and domestic terror, was fucking around with ornaments he’d left in the box for five years.&lt;/p&gt;
-&lt;p&gt;‘Do you mind if I put the angel up the top?’ She asked him. She was kneeling at the foot of the tree with a sample of tree-toppers spread out before her. He looked up from his paper.&lt;/p&gt;
-&lt;p&gt;‘Why would I mind?’&lt;/p&gt;
-&lt;p&gt;‘I just thought you might.’&lt;/p&gt;
-&lt;p&gt;‘Do what you like, I don’t mind.’&lt;/p&gt;
-&lt;p&gt;She shook her head and shifted back on her rump.&lt;/p&gt;
-&lt;p&gt;‘It’s no fun if you’re not helping. I have no idea what to do, I haven’t had a proper tree since I was eight.’&lt;/p&gt;
-&lt;p&gt;He put the paper to the side and rubbed his eyes under his spectacles. He breathed out slowly.&lt;/p&gt;
-&lt;p&gt;‘What if I make Christmas lunch and you can do the tree?’ He said.&lt;/p&gt;
-&lt;p&gt;‘No, I’m already doing lunch,’ she said, then in English: ‘Pitch in, that’s how we all do it here.’&lt;/p&gt;
-&lt;p&gt;She got up and shuffled her feet into slippers and sat next to him.&lt;/p&gt;
-&lt;p&gt;‘Did you invite Ayn?’&lt;/p&gt;
-&lt;p&gt;‘I haven’t, yet,’ he said, ‘It’s been a busy week. I’ll ask her, though. She’d be thrilled to be asked.’&lt;/p&gt;
-&lt;p&gt;‘Maybe I should make a card.’&lt;/p&gt;
-&lt;p&gt;‘That would be nice,’ he nodded. ‘She likes you a lot.’&lt;/p&gt;
-&lt;p&gt;She looked surprised and smiled at him, teeth and everything.&lt;/p&gt;
-&lt;p&gt;‘That’s sweet,’ she said, and tugged at her shirt. ‘She’s sweet. I like her too.’&lt;/p&gt;
-&lt;p&gt;As Tzipora worked her way into a Christmas fever, he began to like it too. She was better when she was happier — she smiled more, and the compulsion to pull her shirt or rub her nose abated. It was very strange to see a girl he’d known as old before her time suddenly revert five years and adopt a flurry of youth; it was a childish rekindling of the good things in her that might be more accessible if she’d grown up in her home country. He was suckered into the season’s festivities too, a holiday empty in the country of plenty without faith and family. He even attended a mass at Tzipora’s request — she was still deicidal, but she remained a Catholic and wanted to be a part of the fun.&lt;/p&gt;
-&lt;p&gt;On Christmas Eve Tzipora had put herself to sleep with sickly Winter wine and had curled up on the couch. Ayn sat with Baron at the table and they finished what was left of the bottle as the evening rolled on. He’d lost the nose but still had antlers. She was in a Santa hat and sweet with good cheer.&lt;/p&gt;
-&lt;p&gt;‘It’s funny, when you think about it,’ she said. Her smile had become small and serious. ‘It all turned out well enough, didn’t it?’&lt;/p&gt;
-&lt;p&gt;‘It’s hardly started,’ he smirked, and gestured with his thumb at the girl on the couch. His voice was very low as to not wake the girl. ‘She’s got a whole thing planned. She doesn’t want me to know what it is. She’ll happily let me clean up her wrapping paper and wash the dishes, but she won’t tell me what’s going on. She’s got something in the oven, that’s all I know.’&lt;/p&gt;
-&lt;p&gt;‘Mmhmm,’ she said, and she stretched out a hand and gently laid it across his. ‘But I mean in the scheme of things, Baron. I meant in general.’&lt;/p&gt;
-&lt;p&gt;‘Like how?’&lt;/p&gt;
-&lt;p&gt;‘Well, you and I could never marry. And I could never have a baby, you know that. I always wanted a child,’ she said. She squeezed his hand. ‘But here we are, anyway. Think about what it was like when you left for America, and then as it is now.’&lt;/p&gt;
-&lt;p&gt;He nodded.&lt;/p&gt;
-&lt;p&gt;‘I think about it,’ he said. ‘We’re lucky.’&lt;/p&gt;
-&lt;p&gt;‘Of course we are.’&lt;/p&gt;
-&lt;p&gt;He thought about it some more when he got up to carry her to bed some hours into the early morning.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Merry Christmas and thanks for a great year.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Also on the sexy website it (probably easier to read on mobile):&lt;/em&gt; &lt;a href=&#34;https://vekllei.city/christmas-with-tzipora/&#34;&gt;&lt;em&gt;https://vekllei.city/christmas-with-tzipora/&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
+	  She had always been a very serious girl, from the first time he’d met her. It was more than a reflection of character; it was how she talked, how she carried herself. Her clothes were plain, her nervous tics were not that funny, and she was afflicted with all sorts of fears and anxieties. She opens her mouth in public and what comes out is usually of serious opinion — a judgement of something or a political remark.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/christmas2018.jpg"/> <p>She had always been a very serious girl, from the first time he’d met her. It was more than a reflection of character; it was how she talked, how she carried herself. Her clothes were plain, her nervous tics were not that funny, and she was afflicted with all sorts of fears and anxieties. She opens her mouth in public and what comes out is usually of serious opinion — a judgement of something or a political remark. But that is not how Gregori syndrome works. It does not take young girls and make them old. As the months wore on and the length of the days reflected the passing of warm season, he learned well enough that she was a teen-ager, despite her seriousness. She was slowly domesticated into regular society, her conversation became casual, and she started to worry more about things that might have been inconceivably petty in the months before.</p>
+<p>In late November they put up the tree, at her insistence. She was six months a citizen at this point, and not yet familiar with all the familial traditions of the country. But she knew Christmas. And that became her season. This chick, awash with anxiety and domestic terror, was fucking around with ornaments he’d left in the box for five years.</p>
+<p>‘Do you mind if I put the angel up the top?’ She asked him. She was kneeling at the foot of the tree with a sample of tree-toppers spread out before her. He looked up from his paper.</p>
+<p>‘Why would I mind?’</p>
+<p>‘I just thought you might.’</p>
+<p>‘Do what you like, I don’t mind.’</p>
+<p>She shook her head and shifted back on her rump.</p>
+<p>‘It’s no fun if you’re not helping. I have no idea what to do, I haven’t had a proper tree since I was eight.’</p>
+<p>He put the paper to the side and rubbed his eyes under his spectacles. He breathed out slowly.</p>
+<p>‘What if I make Christmas lunch and you can do the tree?’ He said.</p>
+<p>‘No, I’m already doing lunch,’ she said, then in English: ‘Pitch in, that’s how we all do it here.’</p>
+<p>She got up and shuffled her feet into slippers and sat next to him.</p>
+<p>‘Did you invite Ayn?’</p>
+<p>‘I haven’t, yet,’ he said, ‘It’s been a busy week. I’ll ask her, though. She’d be thrilled to be asked.’</p>
+<p>‘Maybe I should make a card.’</p>
+<p>‘That would be nice,’ he nodded. ‘She likes you a lot.’</p>
+<p>She looked surprised and smiled at him, teeth and everything.</p>
+<p>‘That’s sweet,’ she said, and tugged at her shirt. ‘She’s sweet. I like her too.’</p>
+<p>As Tzipora worked her way into a Christmas fever, he began to like it too. She was better when she was happier — she smiled more, and the compulsion to pull her shirt or rub her nose abated. It was very strange to see a girl he’d known as old before her time suddenly revert five years and adopt a flurry of youth; it was a childish rekindling of the good things in her that might be more accessible if she’d grown up in her home country. He was suckered into the season’s festivities too, a holiday empty in the country of plenty without faith and family. He even attended a mass at Tzipora’s request — she was still deicidal, but she remained a Catholic and wanted to be a part of the fun.</p>
+<p>On Christmas Eve Tzipora had put herself to sleep with sickly Winter wine and had curled up on the couch. Ayn sat with Baron at the table and they finished what was left of the bottle as the evening rolled on. He’d lost the nose but still had antlers. She was in a Santa hat and sweet with good cheer.</p>
+<p>‘It’s funny, when you think about it,’ she said. Her smile had become small and serious. ‘It all turned out well enough, didn’t it?’</p>
+<p>‘It’s hardly started,’ he smirked, and gestured with his thumb at the girl on the couch. His voice was very low as to not wake the girl. ‘She’s got a whole thing planned. She doesn’t want me to know what it is. She’ll happily let me clean up her wrapping paper and wash the dishes, but she won’t tell me what’s going on. She’s got something in the oven, that’s all I know.’</p>
+<p>‘Mmhmm,’ she said, and she stretched out a hand and gently laid it across his. ‘But I mean in the scheme of things, Baron. I meant in general.’</p>
+<p>‘Like how?’</p>
+<p>‘Well, you and I could never marry. And I could never have a baby, you know that. I always wanted a child,’ she said. She squeezed his hand. ‘But here we are, anyway. Think about what it was like when you left for America, and then as it is now.’</p>
+<p>He nodded.</p>
+<p>‘I think about it,’ he said. ‘We’re lucky.’</p>
+<p>‘Of course we are.’</p>
+<p>He thought about it some more when he got up to carry her to bed some hours into the early morning.</p>
+<p><em>Merry Christmas and thanks for a great year.</em></p>
+<p><em>Also on the sexy website it (probably easier to read on mobile):</em> <a href="https://vekllei.city/christmas-with-tzipora/"><em>https://vekllei.city/christmas-with-tzipora/</em></a></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -489,25 +463,23 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Thu, 14 Jun 2018 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/blood-names/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/bloodname.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/bloodname.jpg"/> 
-		  &lt;p&gt;Each person in Vekllei has three names  —  a &lt;strong&gt;given name&lt;/strong&gt; (Tzipora), a &lt;strong&gt;surname&lt;/strong&gt; (Desmoines), and an alternative given name as part of &lt;em&gt;rapotenne&lt;/em&gt; (potenne is ‘handtalk’, upotenne is ‘spirit-talk’, and so it follows that rapotenne is the language system of names). This alternative name is a ‘key’ to the full blood name of an individual, which are given in secret by the mother traditionally, but can be gifted by any mother-figure.&lt;/p&gt;
-&lt;p&gt;For all intents and purposes, ‘&lt;strong&gt;Tzipora Desmoines&lt;/strong&gt;’ works exactly as ‘John Smith’  —  a distinguishing name and the ancestral name. In Vekllei, the men take the name of the child-bearer.&lt;/p&gt;
-&lt;p&gt;Tzipora’s blood name, her &lt;em&gt;rapotenne&lt;/em&gt;, instead reads as: &lt;strong&gt;Zelda lo Ula Desmoines&lt;/strong&gt;. This is a name she should never reveal until her death, so rites can be performed.&lt;/p&gt;
-&lt;p&gt;Although Vekllei’s monarchy is long dead, ancestors are still held sacred by these people. They hold ancient family names that tie their blood to the earth. They are also used when talking with spirits, as they are part of &lt;em&gt;upotenne&lt;/em&gt;, the external language of the soul. In this sense, blood names operate as a sacred vocal rune.&lt;/p&gt;
-&lt;p&gt;Pictured above is Tzipora receiving her blood name from a father-figure many years ago. Since she has no bloodline left alive, he fulfills the role of a father and gives her a name constructed of several parts, researched and tailored to her.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Zelda is a nickname and a moniker Tzipora has used to hide her Jewishness, and so works perfectly as a public ‘key’ to her blood name.&lt;/li&gt;
-&lt;li&gt;lo Ula (her blood of Ula in upotenne) is her ancient, sacred title. The name-giver has not been able to trace her blood to the times of spirits, so he’s traced it as far back as he could and scoured that region for a proper title. Ula is a combination of two words  —  Ura, a type of bare, wind-swept coastal shelf in Northern Vekllei, where Tzipora’s bloodlines originate, and the Vekllei word for iceberg. It also links to an ancient Vekllei saga  —  in which a proud and mighty iceberg is reduced to ice-pebbles after being dashed against the northern rocks. A story of mortality, it is a warning for Tzipora, who does not age.&lt;/li&gt;
-&lt;li&gt;Desmoines is the family name, unchanged for centuries, and is fairly common in Vekllei.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I’m really enjoying exploring more of Vekllei’s traditions. Let me know if you have any questions, about these language systems, Tzipora, or anything.&lt;/p&gt;
-
+	  Each person in Vekllei has three names — a given name (Tzipora), a surname (Desmoines), and an alternative given name as part of rapotenne (potenne is ‘handtalk’, upotenne is ‘spirit-talk’, and so it follows that rapotenne is the language system of names). This alternative name is a ‘key’ to the full blood name of an individual, which are given in secret by the mother traditionally, but can be gifted by any mother-figure.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/bloodname.jpg"/> <p>Each person in Vekllei has three names  —  a <strong>given name</strong> (Tzipora), a <strong>surname</strong> (Desmoines), and an alternative given name as part of <em>rapotenne</em> (potenne is ‘handtalk’, upotenne is ‘spirit-talk’, and so it follows that rapotenne is the language system of names). This alternative name is a ‘key’ to the full blood name of an individual, which are given in secret by the mother traditionally, but can be gifted by any mother-figure.</p>
+<p>For all intents and purposes, ‘<strong>Tzipora Desmoines</strong>’ works exactly as ‘John Smith’  —  a distinguishing name and the ancestral name. In Vekllei, the men take the name of the child-bearer.</p>
+<p>Tzipora’s blood name, her <em>rapotenne</em>, instead reads as: <strong>Zelda lo Ula Desmoines</strong>. This is a name she should never reveal until her death, so rites can be performed.</p>
+<p>Although Vekllei’s monarchy is long dead, ancestors are still held sacred by these people. They hold ancient family names that tie their blood to the earth. They are also used when talking with spirits, as they are part of <em>upotenne</em>, the external language of the soul. In this sense, blood names operate as a sacred vocal rune.</p>
+<p>Pictured above is Tzipora receiving her blood name from a father-figure many years ago. Since she has no bloodline left alive, he fulfills the role of a father and gives her a name constructed of several parts, researched and tailored to her.</p>
+<ol>
+<li>Zelda is a nickname and a moniker Tzipora has used to hide her Jewishness, and so works perfectly as a public ‘key’ to her blood name.</li>
+<li>lo Ula (her blood of Ula in upotenne) is her ancient, sacred title. The name-giver has not been able to trace her blood to the times of spirits, so he’s traced it as far back as he could and scoured that region for a proper title. Ula is a combination of two words  —  Ura, a type of bare, wind-swept coastal shelf in Northern Vekllei, where Tzipora’s bloodlines originate, and the Vekllei word for iceberg. It also links to an ancient Vekllei saga  —  in which a proud and mighty iceberg is reduced to ice-pebbles after being dashed against the northern rocks. A story of mortality, it is a warning for Tzipora, who does not age.</li>
+<li>Desmoines is the family name, unchanged for centuries, and is fairly common in Vekllei.</li>
+</ol>
+<p>I’m really enjoying exploring more of Vekllei’s traditions. Let me know if you have any questions, about these language systems, Tzipora, or anything.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -516,17 +488,15 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	  <pubDate>Thu, 19 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/spies/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/spies.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/spies.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;In Nevada about this time of year, the temperature stays steady at 45 degrees&lt;/strong&gt; (~115 in yank). The asphalt sticks to shoes. On the far right is &lt;strong&gt;Lenny the Jew&lt;/strong&gt;. The moniker is his own; he’s a Jew from New York who ended up working for the &lt;strong&gt;Vekllei Rocketry Corps&lt;/strong&gt;, the Vekllei espionage agency responsible for operations in the southern United States. Lenny the Jew is good with women, and violence. He operates as a “live” agent, hunting and eliminating Chinese and American spies when necessary, bringing radicals over the border to cause trouble, and squeezing persons of interest for information. His boss is sitting next to him. &lt;strong&gt;Michael&lt;/strong&gt; operates the Vekllei Rocketry Corps, but rarely participates “live”. His daughter, shipped over from the homeland after the death of her mother, understands the secrecy  —  but not the scope  —  of what he does. Lenny the Jew has affection for &lt;strong&gt;Tzipora&lt;/strong&gt;; she’s a strange kid that doesn’t get on well with her peers, so he brings her gifts when he calls by their house.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Vekllei espionage is chaotic&lt;/strong&gt;. Very little interest is given towards industrial espionage, unlike the Chinese, who are chasing aerospace and nuclear technology. Vekllei is interested in provoking, destabilising, disrupting, distracting and sabotaging political and economic life in the United States. The Rocketry Corps, despite its name, ferries drugs over the border, commits terrorism and murder, disappears threats, distributes agitprop and pampers people of interest. It is the largest of the localised Vekllei espionage agencies, with little judicial oversight and a nationalistic fervour that makes the Rocketry Corps one of the largest internal threats in the United States today.&lt;/p&gt;
-
+	  In Nevada about this time of year, the temperature stays steady at 45 degrees (~115 in yank). The asphalt sticks to shoes. On the far right is Lenny the Jew. The moniker is his own; he’s a Jew from New York who ended up working for the Vekllei Rocketry Corps, the Vekllei espionage agency responsible for operations in the southern United States. Lenny the Jew is good with women, and violence.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/spies.jpg"/> <p><strong>In Nevada about this time of year, the temperature stays steady at 45 degrees</strong> (~115 in yank). The asphalt sticks to shoes. On the far right is <strong>Lenny the Jew</strong>. The moniker is his own; he’s a Jew from New York who ended up working for the <strong>Vekllei Rocketry Corps</strong>, the Vekllei espionage agency responsible for operations in the southern United States. Lenny the Jew is good with women, and violence. He operates as a “live” agent, hunting and eliminating Chinese and American spies when necessary, bringing radicals over the border to cause trouble, and squeezing persons of interest for information. His boss is sitting next to him. <strong>Michael</strong> operates the Vekllei Rocketry Corps, but rarely participates “live”. His daughter, shipped over from the homeland after the death of her mother, understands the secrecy  —  but not the scope  —  of what he does. Lenny the Jew has affection for <strong>Tzipora</strong>; she’s a strange kid that doesn’t get on well with her peers, so he brings her gifts when he calls by their house.</p>
+<hr>
+<p><strong>Vekllei espionage is chaotic</strong>. Very little interest is given towards industrial espionage, unlike the Chinese, who are chasing aerospace and nuclear technology. Vekllei is interested in provoking, destabilising, disrupting, distracting and sabotaging political and economic life in the United States. The Rocketry Corps, despite its name, ferries drugs over the border, commits terrorism and murder, disappears threats, distributes agitprop and pampers people of interest. It is the largest of the localised Vekllei espionage agencies, with little judicial oversight and a nationalistic fervour that makes the Rocketry Corps one of the largest internal threats in the United States today.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

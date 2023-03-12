@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>dolls</title>
 	<link>https://millmint.net/tags/dolls/</link>
 	<description>Recent content in dolls </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>dolls</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/dolls/index.xml" rel="self" type="application/rss+xml" />
@@ -21,48 +23,46 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/dolls/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;div class=&#34;dolls&#34;&gt;
-	&lt;div class=&#34;canvas-wrapper&#34;&gt;
-		&lt;div class=&#34;dolls-left-side&#34;&gt;
-			&lt;div class=&#34;dolls-canvas&#34;&gt;
-				&lt;div class=&#34;dolls-canvas-inner&#34;&gt;&lt;/div&gt;
-			&lt;/div&gt;
-			&lt;button class=&#34;article-button download-link&#34; onclick=&#34;downloadDollImage()&#34; download=&#34;Vekllei character.png&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;📂&lt;/span&gt; &lt;span class=&#34;text&#34;&gt;Download Image&lt;/span&gt;&lt;/button&gt;
-			&lt;button class=&#34;article-button copy-link hidden is-clipboard-button&#34; onclick=&#34;downloadDollImage(true)&#34; download=&#34;Vekllei character.png&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;📋&lt;/span&gt; &lt;span class=&#34;text&#34;&gt;Copy Image to Clipboard&lt;/span&gt;&lt;/button&gt;
-			&lt;button class=&#34;article-button download-pfp&#34; onclick=&#34;downloadDollFace(event)&#34; download=&#34;Vekllei character.png&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;🙂&lt;/span&gt; &lt;span class=&#34;text&#34;&gt;Download Profile Picture&lt;/span&gt;&lt;/button&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-	&lt;div class=&#34;dolls-editor&#34;&gt;
-		&lt;nav class=&#34;dolls-nav&#34;&gt;
-			&lt;button class=&#34;nav-previous nav-nav-button&#34; onclick=&#34;previousNav()&#34;&gt;←&lt;/button&gt;
-			&lt;div class=&#34;nav-inner&#34;&gt;&lt;/div&gt;
-			&lt;button class=&#34;nav-next nav-nav-button&#34; onclick=&#34;nextNav()&#34;&gt;→&lt;/button&gt;
-		&lt;/nav&gt;
-		&lt;span class=&#34;current-page&#34;&gt;Faces&lt;/span&gt;
-		&lt;hr /&gt;
-		&lt;div class=&#34;color-options&#34;&gt;
-			&lt;div class=&#34;color-circle reset-circle&#34; onclick=&#34;setColor(null)&#34;&gt;&lt;/div&gt;
-		&lt;/div&gt;
-		&lt;div class=&#34;doll-options&#34;&gt;&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;dolls-templates&#34;&gt;
-	&lt;template class=&#34;dolls-nav-item-template&#34;&gt;
-		&lt;button class=&#34;dolls-nav-item&#34;&gt;
-			&lt;span class=&#34;icon&#34;&gt;←&lt;/span&gt;
-			&lt;span class=&#34;text&#34;&gt;My nav&lt;/span&gt;
-		&lt;/button&gt;
-	&lt;/template&gt;
-&lt;/div&gt;
-&lt;script src=&#34;https://millmint.net/js/dolls.js&#34;&gt;&lt;/script&gt;
-
+	   📂 Download Image 📋 Copy Image to Clipboard 🙂 Download Profile Picture ← → Faces ← My nav 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <div class="dolls">
+	<div class="canvas-wrapper">
+		<div class="dolls-left-side">
+			<div class="dolls-canvas">
+				<div class="dolls-canvas-inner"></div>
+			</div>
+			<button class="article-button download-link" onclick="downloadDollImage()" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📂</span> <span class="text">Download Image</span></button>
+			<button class="article-button copy-link hidden is-clipboard-button" onclick="downloadDollImage(true)" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">📋</span> <span class="text">Copy Image to Clipboard</span></button>
+			<button class="article-button download-pfp" onclick="downloadDollFace(event)" download="Vekllei character.png"><span class="smallicon" style="font-size: 14px;">🙂</span> <span class="text">Download Profile Picture</span></button>
+		</div>
+	</div>
+	<div class="dolls-editor">
+		<nav class="dolls-nav">
+			<button class="nav-previous nav-nav-button" onclick="previousNav()">←</button>
+			<div class="nav-inner"></div>
+			<button class="nav-next nav-nav-button" onclick="nextNav()">→</button>
+		</nav>
+		<span class="current-page">Faces</span>
+		<hr />
+		<div class="color-options">
+			<div class="color-circle reset-circle" onclick="setColor(null)"></div>
+		</div>
+		<div class="doll-options"></div>
+	</div>
+</div>
+<div class="dolls-templates">
+	<template class="dolls-nav-item-template">
+		<button class="dolls-nav-item">
+			<span class="icon">←</span>
+			<span class="text">My nav</span>
+		</button>
+	</template>
+</div>
+<script src="/js/dolls.js"></script>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

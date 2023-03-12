@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>July 14, 2021</title>
 	<link>https://millmint.net/sitetag/july-14-2021/</link>
 	<description>Recent content in July 14, 2021 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>July 14, 2021</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/july-14-2021/index.xml" rel="self" type="application/rss+xml" />
@@ -21,28 +23,26 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/snapshots/pyjamas/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;p&gt;
+	  Tzipora hated sleeping by herself. It wasn’t just anxiety from America, either — she’d spent half her life in dorms and didn’t much like the silence of a quiet room. When she first moved in with Baron, she would lie in her improvised bed for hours and listen to the ringing in her ears. She was most paranoid, most neurotic alone with her thoughts, with her memory wandering through everything she’d said and done.
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <p>
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/sketches/pyjamas.jpg&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/sketches/pyjamas.jpg" alt="smallimg"  loading="lazy" />
   
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tzipora hated sleeping by herself.&lt;/strong&gt; It wasn’t just anxiety from America, either — she’d spent half her life in dorms and didn’t much like the silence of a quiet room. When she first moved in with Baron, she would lie in her improvised bed for hours and listen to the ringing in her ears. She was most paranoid, most neurotic alone with her thoughts, with her memory wandering through everything she’d said and done.&lt;/p&gt;
-&lt;p&gt;Cobian would come around now and then to stay the night. Maybe once every two weeks. At the time, Cobian’s mother was hoping she’d become a medical researcher like her father. To that end, Tzipora was a pest, and threatened to become a major distraction in Cobian’s final years of high school.&lt;/p&gt;
-&lt;p&gt;Among the finest things Tzipora ever owned was a set of silk pyjamas found second-hand shortly after her arrival in Vekllei. She was never quite sure if it was synthetic silk or not; Ayn had no idea either. It was a skirt and blouse done in an oriental style. She’d never owned anything so nice — it made her feel good, like an actress in a Hollywood film. She had no idea how such an unseasonal, foreign thing ended up in Vekllei.&lt;/p&gt;
-&lt;p&gt;Cobian said, “those are lovely,” when she saw them. That mattered to Tzipora a great deal. “You look sophisticated,” Baron said. “You are very pretty in that, Tzipora,” Ayn told her.&lt;/p&gt;
-&lt;p&gt;That night, when Tzipora lay in bed listening to the ringing in her ears, she thought about how good she looked in the pyjamas.&lt;/p&gt;
-
-	  </description>
+</figure>
+</p>
+<p><strong>Tzipora hated sleeping by herself.</strong> It wasn’t just anxiety from America, either — she’d spent half her life in dorms and didn’t much like the silence of a quiet room. When she first moved in with Baron, she would lie in her improvised bed for hours and listen to the ringing in her ears. She was most paranoid, most neurotic alone with her thoughts, with her memory wandering through everything she’d said and done.</p>
+<p>Cobian would come around now and then to stay the night. Maybe once every two weeks. At the time, Cobian’s mother was hoping she’d become a medical researcher like her father. To that end, Tzipora was a pest, and threatened to become a major distraction in Cobian’s final years of high school.</p>
+<p>Among the finest things Tzipora ever owned was a set of silk pyjamas found second-hand shortly after her arrival in Vekllei. She was never quite sure if it was synthetic silk or not; Ayn had no idea either. It was a skirt and blouse done in an oriental style. She’d never owned anything so nice — it made her feel good, like an actress in a Hollywood film. She had no idea how such an unseasonal, foreign thing ended up in Vekllei.</p>
+<p>Cobian said, “those are lovely,” when she saw them. That mattered to Tzipora a great deal. “You look sophisticated,” Baron said. “You are very pretty in that, Tzipora,” Ayn told her.</p>
+<p>That night, when Tzipora lay in bed listening to the ringing in her ears, she thought about how good she looked in the pyjamas.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

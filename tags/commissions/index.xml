@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>commissions</title>
 	<link>https://millmint.net/tags/commissions/</link>
 	<description>Recent content in commissions </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>commissions</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/commissions/index.xml" rel="self" type="application/rss+xml" />
@@ -21,237 +23,236 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/commissions/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/ruins.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/ruins.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ You can contact me at &lt;span class=&#34;smallicon&#34;&gt;📧&lt;/span&gt; &lt;a href=&#34;mailto:studio@millmint.net&#34;&gt;studio@millmint.net&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;section &#34;&gt;
-  &lt;h3 id=&#34;choosing-a-commission&#34;&gt;
-  Choosing a commission
-  &lt;a class=&#34;anchor&#34; href=&#34;#choosing-a-commission&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:studio@millmint.net&#34;&gt;studio@millmint.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Discord&lt;/strong&gt;: MelonKony#2063&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Twitter&lt;/strong&gt;: @MelonKony&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You know what I draw &amp;ndash; it&amp;rsquo;s probably how you found me. It should be no surprise then that I work best in my element. Consider how your commission can use my strengths as an artist, and I&amp;rsquo;ll help you develop a concept.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Good Concepts&lt;/th&gt;
-&lt;th&gt;I will not draw&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;ul&gt; &lt;li&gt;People &amp;amp; characters&lt;/li&gt; &lt;li&gt;Uniforms &amp;amp; design&lt;/li&gt; &lt;li&gt;Architecture &amp;amp; machines&lt;/li&gt; &lt;li&gt;Scenes &amp;amp; places&lt;/li&gt; &lt;/ul&gt;&lt;/td&gt;
-&lt;td&gt;Pornographic, obscene,&lt;br&gt; immoral, or otherwise&lt;br&gt; offensive concepts&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;/div&gt;
-
-
-
-
-
-&lt;div class=&#34;tabs&#34;&gt;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)&#34; id=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)-0&#34; checked=&#34;checked&#34; /&gt;
-  &lt;label for=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)-0&#34;&gt;Sketches&lt;/label&gt;
-  &lt;div class=&#34;tabs-content&#34;&gt;&lt;h3 id=&#34;sketches--concepts-span-classtag-stylefloat-right20-50span-span-classtag-stylefloat-right-opacity-601-2-daysspan&#34;&gt;
-  Sketches &amp;amp; Concepts: &lt;span class=&#34;tag&#34; style=&#34;float: right;&#34;&gt;$20-$50&lt;/span&gt; &lt;span class=&#34;tag&#34; style=&#34;float: right; opacity: 60%;&#34;&gt;1-2 days&lt;/span&gt;
-  &lt;a class=&#34;anchor&#34; href=&#34;#sketches--concepts-span-classtag-stylefloat-right20-50span-span-classtag-stylefloat-right-opacity-601-2-daysspan&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;These are artworks that are good for developing an idea. They&amp;rsquo;re rough around the edges, usually uncoloured, and full of energy. Prices vary on their scope and colour.
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/sketches/hair.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/sketches/neko.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;&lt;/div&gt;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)&#34; id=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)-1&#34;  /&gt;
-  &lt;label for=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)-1&#34;&gt;Designs&lt;/label&gt;
-  &lt;div class=&#34;tabs-content&#34;&gt;&lt;h3 id=&#34;characters--design-span-classtag-stylefloat-right75-200span-span-classtag-stylefloat-right-opacity-602-5-daysspan&#34;&gt;
-  Characters &amp;amp; Design: &lt;span class=&#34;tag&#34; style=&#34;float: right;&#34;&gt;$75-$200&lt;/span&gt; &lt;span class=&#34;tag&#34; style=&#34;float: right; opacity: 60%;&#34;&gt;2-5 days&lt;/span&gt;
-  &lt;a class=&#34;anchor&#34; href=&#34;#characters--design-span-classtag-stylefloat-right75-200span-span-classtag-stylefloat-right-opacity-602-5-daysspan&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;These are finished artworks that realise your people, machines and objects. They&amp;rsquo;re great for showing off a character, helping you design a vehicle or visualise a machine. Prices vary on the complexity of depicted items and artwork detail.&lt;/p&gt;
-&lt;p&gt;
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/rifles.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/kalinauniform.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/statejet.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;/div&gt;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)&#34; id=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)-2&#34;  /&gt;
-  &lt;label for=&#34;tabs-%!s(&amp;lt;nil&amp;gt;)-2&#34;&gt;Paintings&lt;/label&gt;
-  &lt;div class=&#34;tabs-content&#34;&gt;&lt;h3 id=&#34;paintings--landscapes-span-classtag-stylefloat-right200-500span-span-classtag-stylefloat-right-opacity-601-2-weeksspan&#34;&gt;
-  Paintings &amp;amp; Landscapes: &lt;span class=&#34;tag&#34; style=&#34;float: right;&#34;&gt;$200-$500&lt;/span&gt; &lt;span class=&#34;tag&#34; style=&#34;float: right; opacity: 60%;&#34;&gt;1-2 weeks&lt;/span&gt;
-  &lt;a class=&#34;anchor&#34; href=&#34;#paintings--landscapes-span-classtag-stylefloat-right200-500span-span-classtag-stylefloat-right-opacity-601-2-weeksspan&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;These are complete artworks showcasing a scene or place. They&amp;rsquo;re detailed, painterly, and finished to a high standard. Prices vary depending on the detail of the scene and the number and complexity of its elements.&lt;/p&gt;
-&lt;p&gt;
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/lightbulb.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/lola.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/tannin.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/ruins.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/valin.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/coast.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;section &#34;&gt;
-  &lt;h3 id=&#34;process--delivery&#34;&gt;
-  Process &amp;amp; delivery
-  &lt;a class=&#34;anchor&#34; href=&#34;#process--delivery&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Contact me with your idea. We&amp;rsquo;ll talk about what you want and whether I&amp;rsquo;m a good fit. If you decide to commission me, I&amp;rsquo;ll give a quote in writing and an estimated completion date.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ll produce a preliminary sketch. This will be used as a reference for the finished work, and is a good time to make conceptual changes.&lt;/li&gt;
-&lt;li&gt;If you like what you see, you&amp;rsquo;ll pay ½ the price quoted as a deposit. At this point, you&amp;rsquo;re committed to the work.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ll finish the commission, and will give updates on request.&lt;/li&gt;
-&lt;li&gt;Once finished, I&amp;rsquo;ll forward a watermarked image as a preview. If you&amp;rsquo;re satisfied, you&amp;rsquo;ll receive your artwork and a &lt;strong&gt;MillMint Gift Basket™&lt;/strong&gt; upon payment of the outstanding sum.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;/div&gt;
-
-&lt;details open&gt;
-  &lt;summary&gt;Your MillMint Gift Basket™&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;ul&gt;
-&lt;li&gt;High-resolution, uncompressed image&lt;/li&gt;
-&lt;li&gt;Compressed, shareable image&lt;/li&gt;
-&lt;li&gt;Timelapse of the process&lt;/li&gt;
-&lt;li&gt;Digital Postcard&lt;/li&gt;
-&lt;li&gt;Receipt&lt;/li&gt;
-&lt;li&gt;Coupon for 10% off next order&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;details &gt;
-  &lt;summary&gt;Terms &amp;amp; Conditions&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Commissioned work is subject to the &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; &lt;a href=&#34;https://millmint.net/license/&#34;&gt;MillMint Limited Commercial License&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;1. Payment&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;These are digital goods, delivered in a digital format.&lt;/li&gt;
-&lt;li&gt;All rights and usage of the work are forfeit until payment.&lt;/li&gt;
-&lt;li&gt;By commissioning MillMint (me), you are made aware of and agree to these terms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. License&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When you commission work from me, it is licensed under &lt;a href=&#34;https://millmint.net/license/&#34;&gt;limited commercial use&lt;/a&gt;. This allows for personal and limited commercial use, but permission is required for some commercial use-cases.&lt;/li&gt;
-&lt;li&gt;MillMint retains copyright over the work under the license agreement.&lt;/li&gt;
-&lt;li&gt;All reproductions of the work must retain signatures and marks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Refunds&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Partial refunds are available after the deposit has been placed. The refund total will be adjusted based on progress completed.&lt;/li&gt;
-&lt;li&gt;In the event I am unable to complete your commission, your deposit will be refunded in full.&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;I can be contact via &lt;a href=&#34;mailto:studio@millmint.net&#34;&gt;email&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/MelonKony&#34;&gt;Twitter&lt;/a&gt;, or Discord (MelonKony#2063).&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	  ✿ You can contact me at 📧 studio@millmint.net. Choosing a commission # Email: studio@millmint.net Discord: MelonKony#2063 Twitter: @MelonKony You know what I draw &ndash; it&rsquo;s probably how you found me. It should be no surprise then that I work best in my element. Consider how your commission can use my strengths as an artist, and I&rsquo;ll help you develop a concept.
+Good Concepts I will not draw People &amp; characters Uniforms &amp; design Architecture &amp; machines Scenes &amp; places Pornographic, obscene,
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/ruins.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ You can contact me at <span class="smallicon">📧</span> <a href="mailto:studio@millmint.net">studio@millmint.net</a>.</div>
+</blockquote>
+
+<div class="section ">
+  <h3 id="choosing-a-commission">
+  Choosing a commission
+  <a class="anchor" href="#choosing-a-commission">#</a>
+</h3>
+<ul>
+<li><strong>Email</strong>: <a href="mailto:studio@millmint.net">studio@millmint.net</a></li>
+<li><strong>Discord</strong>: MelonKony#2063</li>
+<li><strong>Twitter</strong>: @MelonKony</li>
+</ul>
+<p>You know what I draw &ndash; it&rsquo;s probably how you found me. It should be no surprise then that I work best in my element. Consider how your commission can use my strengths as an artist, and I&rsquo;ll help you develop a concept.</p>
+<table>
+<thead>
+<tr>
+<th>Good Concepts</th>
+<th>I will not draw</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><ul> <li>People &amp; characters</li> <li>Uniforms &amp; design</li> <li>Architecture &amp; machines</li> <li>Scenes &amp; places</li> </ul></td>
+<td>Pornographic, obscene,<br> immoral, or otherwise<br> offensive concepts</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+
+
+
+
+<div class="tabs"><input type="radio" class="toggle" name="tabs-%!s(&lt;nil&gt;)" id="tabs-%!s(&lt;nil&gt;)-0" checked="checked" />
+  <label for="tabs-%!s(&lt;nil&gt;)-0">Sketches</label>
+  <div class="tabs-content"><h3 id="sketches--concepts-span-classtag-stylefloat-right20-50span-span-classtag-stylefloat-right-opacity-601-2-daysspan">
+  Sketches &amp; Concepts: <span class="tag" style="float: right;">$20-$50</span> <span class="tag" style="float: right; opacity: 60%;">1-2 days</span>
+  <a class="anchor" href="#sketches--concepts-span-classtag-stylefloat-right20-50span-span-classtag-stylefloat-right-opacity-601-2-daysspan">#</a>
+</h3>
+<p>These are artworks that are good for developing an idea. They&rsquo;re rough around the edges, usually uncoloured, and full of energy. Prices vary on their scope and colour.
+
+
+
+ 
+<figure>
+  <img src="/images/sketches/hair.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/sketches/neko.jpg" alt="img"  loading="lazy" />
+  
+</figure></div><input type="radio" class="toggle" name="tabs-%!s(&lt;nil&gt;)" id="tabs-%!s(&lt;nil&gt;)-1"  />
+  <label for="tabs-%!s(&lt;nil&gt;)-1">Designs</label>
+  <div class="tabs-content"><h3 id="characters--design-span-classtag-stylefloat-right75-200span-span-classtag-stylefloat-right-opacity-602-5-daysspan">
+  Characters &amp; Design: <span class="tag" style="float: right;">$75-$200</span> <span class="tag" style="float: right; opacity: 60%;">2-5 days</span>
+  <a class="anchor" href="#characters--design-span-classtag-stylefloat-right75-200span-span-classtag-stylefloat-right-opacity-602-5-daysspan">#</a>
+</h3>
+<p>These are finished artworks that realise your people, machines and objects. They&rsquo;re great for showing off a character, helping you design a vehicle or visualise a machine. Prices vary on the complexity of depicted items and artwork detail.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="/images/rifles.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/kalinauniform.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/statejet.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+</div><input type="radio" class="toggle" name="tabs-%!s(&lt;nil&gt;)" id="tabs-%!s(&lt;nil&gt;)-2"  />
+  <label for="tabs-%!s(&lt;nil&gt;)-2">Paintings</label>
+  <div class="tabs-content"><h3 id="paintings--landscapes-span-classtag-stylefloat-right200-500span-span-classtag-stylefloat-right-opacity-601-2-weeksspan">
+  Paintings &amp; Landscapes: <span class="tag" style="float: right;">$200-$500</span> <span class="tag" style="float: right; opacity: 60%;">1-2 weeks</span>
+  <a class="anchor" href="#paintings--landscapes-span-classtag-stylefloat-right200-500span-span-classtag-stylefloat-right-opacity-601-2-weeksspan">#</a>
+</h3>
+<p>These are complete artworks showcasing a scene or place. They&rsquo;re detailed, painterly, and finished to a high standard. Prices vary depending on the detail of the scene and the number and complexity of its elements.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="/images/lightbulb.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/lola.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/tannin.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/ruins.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/valin.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/coast.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+</div></div>
+
+<div class="section ">
+  <h3 id="process--delivery">
+  Process &amp; delivery
+  <a class="anchor" href="#process--delivery">#</a>
+</h3>
+<ol>
+<li>Contact me with your idea. We&rsquo;ll talk about what you want and whether I&rsquo;m a good fit. If you decide to commission me, I&rsquo;ll give a quote in writing and an estimated completion date.</li>
+<li>I&rsquo;ll produce a preliminary sketch. This will be used as a reference for the finished work, and is a good time to make conceptual changes.</li>
+<li>If you like what you see, you&rsquo;ll pay ½ the price quoted as a deposit. At this point, you&rsquo;re committed to the work.</li>
+<li>I&rsquo;ll finish the commission, and will give updates on request.</li>
+<li>Once finished, I&rsquo;ll forward a watermarked image as a preview. If you&rsquo;re satisfied, you&rsquo;ll receive your artwork and a <strong>MillMint Gift Basket™</strong> upon payment of the outstanding sum.</li>
+</ol>
+
+</div>
+
+<details open>
+  <summary>Your MillMint Gift Basket™</summary>
+  <div class="markdown-inner">
+    <ul>
+<li>High-resolution, uncompressed image</li>
+<li>Compressed, shareable image</li>
+<li>Timelapse of the process</li>
+<li>Digital Postcard</li>
+<li>Receipt</li>
+<li>Coupon for 10% off next order</li>
+</ul>
+
+  </div>
+</details>
+
+<details >
+  <summary>Terms &amp; Conditions</summary>
+  <div class="markdown-inner">
+    <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">Commissioned work is subject to the <span class="smallicon">📄</span> <a href="/license/">MillMint Limited Commercial License</a></div>
+</blockquote>
+<p><strong>1. Payment</strong></p>
+<ul>
+<li>These are digital goods, delivered in a digital format.</li>
+<li>All rights and usage of the work are forfeit until payment.</li>
+<li>By commissioning MillMint (me), you are made aware of and agree to these terms.</li>
+</ul>
+<p><strong>2. License</strong></p>
+<ul>
+<li>When you commission work from me, it is licensed under <a href="/license/">limited commercial use</a>. This allows for personal and limited commercial use, but permission is required for some commercial use-cases.</li>
+<li>MillMint retains copyright over the work under the license agreement.</li>
+<li>All reproductions of the work must retain signatures and marks.</li>
+</ul>
+<p><strong>3. Refunds</strong></p>
+<ul>
+<li>Partial refunds are available after the deposit has been placed. The refund total will be adjusted based on progress completed.</li>
+<li>In the event I am unable to complete your commission, your deposit will be refunded in full.</li>
+</ul>
+
+  </div>
+</details>
+
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">I can be contact via <a href="mailto:studio@millmint.net">email</a>, <a href="https://twitter.com/MelonKony">Twitter</a>, or Discord (MelonKony#2063).</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Coretti</title>
 	<link>https://millmint.net/tags/coretti/</link>
 	<description>Recent content in Coretti </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Coretti</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/coretti/index.xml" rel="self" type="application/rss+xml" />
@@ -21,17 +23,15 @@
 	  <pubDate>Tue, 12 Jul 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/vista/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/vista.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/vista.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Instafilm #445&lt;/strong&gt;. Marked &amp;ldquo;2064&amp;rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo. But Vekllei people are far away from the world and curious and so they asked stupid questions sometimes.&lt;/p&gt;
-&lt;p&gt;Tzipora didn&amp;rsquo;t like the news so she stopped reading it. Sometimes she got people asking her about America &amp;ndash; what do you think about what they say&amp;rsquo;s going on in Dallas? Is it real or is some of it made up to sell papers? Here&amp;rsquo;s an idea &amp;ndash; how about you shut your mouth and stop asking me so many fucking questions.&lt;/p&gt;
-&lt;p&gt;Left to right: Moise, Coretti, Lin Zhi, Cobian, Tzipora. 2064.&lt;/p&gt;
-
+	  Instafilm #445. Marked &ldquo;2064&rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/vista.jpg"/> <p><strong>Instafilm #445</strong>. Marked &ldquo;2064&rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo. But Vekllei people are far away from the world and curious and so they asked stupid questions sometimes.</p>
+<p>Tzipora didn&rsquo;t like the news so she stopped reading it. Sometimes she got people asking her about America &ndash; what do you think about what they say&rsquo;s going on in Dallas? Is it real or is some of it made up to sell papers? Here&rsquo;s an idea &ndash; how about you shut your mouth and stop asking me so many fucking questions.</p>
+<p>Left to right: Moise, Coretti, Lin Zhi, Cobian, Tzipora. 2064.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -40,23 +40,22 @@
 	  <pubDate>Sun, 24 Apr 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/towers/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/towers.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/towers.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Merce was one of seven sisters&lt;/strong&gt; but she didn’t know it. Like many Vekllei people in young adulthood, her parents were born overseas, and so her Spanish heritage was somewhat obscured.&lt;/p&gt;
-&lt;p&gt;Growing up in postwar Vekllei, you develop an unusual esprit de corps which supersedes almost everything about you — a civic mission to establish a place in the world regardless of your prior circumstance or heritage. This well-intentioned internationalism cut both ways; you were not much judged about where you came from, but you also did not talk much about where you came from.&lt;/p&gt;
-&lt;p&gt;It did not help that many immigrants in Vekllei were not particularly sentimental about where they came from — they were often outcasts or persecuted back home, and so only treacly childhood nostalgia survived integration. Foods, styles of dress, religious traditions and folk songs were all Merce knew of Spain — the actual lived memory of her father were mostly suppressed. This is how a whole other marriage and six sisters fade away. Stories like these are very common in Vekllei today.&lt;/p&gt;
-&lt;p&gt;Merce worked as a &lt;a href=&#34;https://millmint.net/posts/2022-01-11-police/&#34;&gt;constable&lt;/a&gt; in the &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/&#34;&gt;Pharos&lt;/a&gt; neighbourhood of Uclo. Uclo is a big place full of migrants, so she mostly patrolled where she lived in East Uclo, which neighboured &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#copetpek&#34;&gt;Copetpek&lt;/a&gt;. These were pleasant, poor boroughs of the Capital lighted by all corners of the world. They are also strikingly diverse in landscape — West Uclo is mostly pre-war, filled with low-rise Junta-era row houses and coffee shops. East Uclo contains some of Vekllei’s rare “towers in the park” — vertical neighbourhoods in the sky.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/pharos/#uclo-experimental-social-housing-project&#34;&gt;Uclo Experimental Social Housing Project&lt;/a&gt;, called The Towers by its residents, are the result of direct intervention by the &lt;a href=&#34;https://millmint.net/utopia/society/government/#vekllei-housing-commission&#34;&gt;Vekllei Housing Commission&lt;/a&gt;. Most homes are built by municipalities with municipal-sized budgets, since they best know their neighbourhoods, but the catastrophic housing shortages of the early postwar years demanded national intervention. The Towers were built between 2022 and 2024 by innovative British contractors under the recovery lend-lease, and still dominate the landscape today. The six tower blocks are surrounded by gardens, and are closely linked to shops and transport on their periphery to other parts of the city. The &lt;a href=&#34;https://millmint.net/utopia/society/industry/rail/&#34;&gt;VNR&lt;/a&gt; Metro has a station directly beneath them.&lt;/p&gt;
-&lt;p&gt;The Towers are unlike other examples of utopian ‘radiant cities’ because they do not function like other high-rise blocks. Distinctive in their architecture are ways to provide their inhabitants with control over their homes and corridors through great streets in the sky, full of light wells and sunlight. The spaces between apartments are used and cherished, and are extensions of living space for residents Instead of narrow, anonymous corridors and sterile lobbies, the Towers have libraries and food gardens.&lt;/p&gt;
-&lt;p&gt;This ‘defensible space,’ so-called, is not an initiative of municipal benevolence but in fact a foundational aspect of Newda. Home ownership is an essential feature to the Vekllei way of life, and so apartments are designed in ways that encourage residents to retain social and physical control over their residences and shared spaces — corridors are spacious and communal in the Towers, and crime rates have remained low decades after their construction.&lt;/p&gt;
-&lt;p&gt;The Towers today are highly desirable but largely filled with owner-occupiers unwilling to vacate. They are also a kind of post-war architecture that is now exceedingly rare in Vekllei. The Housing Commission now prefers mid-rise housing from which you can view the street, and considers more carefully the density of new construction. The success of The Towers was not enough — municipal architects are continuously experimenting with new ways of building homes for the country.&lt;/p&gt;
-&lt;p&gt;This suits Merce just fine, since she hates waiting for the bloody lifts anyway.&lt;/p&gt;
-
+	  Merce was one of seven sisters but she didn’t know it. Like many Vekllei people in young adulthood, her parents were born overseas, and so her Spanish heritage was somewhat obscured.
+Growing up in postwar Vekllei, you develop an unusual esprit de corps which supersedes almost everything about you — a civic mission to establish a place in the world regardless of your prior circumstance or heritage. This well-intentioned internationalism cut both ways; you were not much judged about where you came from, but you also did not talk much about where you came from.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/towers.jpg"/> <p><strong>Merce was one of seven sisters</strong> but she didn’t know it. Like many Vekllei people in young adulthood, her parents were born overseas, and so her Spanish heritage was somewhat obscured.</p>
+<p>Growing up in postwar Vekllei, you develop an unusual esprit de corps which supersedes almost everything about you — a civic mission to establish a place in the world regardless of your prior circumstance or heritage. This well-intentioned internationalism cut both ways; you were not much judged about where you came from, but you also did not talk much about where you came from.</p>
+<p>It did not help that many immigrants in Vekllei were not particularly sentimental about where they came from — they were often outcasts or persecuted back home, and so only treacly childhood nostalgia survived integration. Foods, styles of dress, religious traditions and folk songs were all Merce knew of Spain — the actual lived memory of her father were mostly suppressed. This is how a whole other marriage and six sisters fade away. Stories like these are very common in Vekllei today.</p>
+<p>Merce worked as a <a href="/posts/2022-01-11-police/">constable</a> in the <a href="/utopia/landscape/boroughs/pharos/">Pharos</a> neighbourhood of Uclo. Uclo is a big place full of migrants, so she mostly patrolled where she lived in East Uclo, which neighboured <a href="/utopia/landscape/boroughs/pharos/#copetpek">Copetpek</a>. These were pleasant, poor boroughs of the Capital lighted by all corners of the world. They are also strikingly diverse in landscape — West Uclo is mostly pre-war, filled with low-rise Junta-era row houses and coffee shops. East Uclo contains some of Vekllei’s rare “towers in the park” — vertical neighbourhoods in the sky.</p>
+<p>The <a href="/utopia/landscape/boroughs/pharos/#uclo-experimental-social-housing-project">Uclo Experimental Social Housing Project</a>, called The Towers by its residents, are the result of direct intervention by the <a href="/utopia/society/government/#vekllei-housing-commission">Vekllei Housing Commission</a>. Most homes are built by municipalities with municipal-sized budgets, since they best know their neighbourhoods, but the catastrophic housing shortages of the early postwar years demanded national intervention. The Towers were built between 2022 and 2024 by innovative British contractors under the recovery lend-lease, and still dominate the landscape today. The six tower blocks are surrounded by gardens, and are closely linked to shops and transport on their periphery to other parts of the city. The <a href="/utopia/society/industry/rail/">VNR</a> Metro has a station directly beneath them.</p>
+<p>The Towers are unlike other examples of utopian ‘radiant cities’ because they do not function like other high-rise blocks. Distinctive in their architecture are ways to provide their inhabitants with control over their homes and corridors through great streets in the sky, full of light wells and sunlight. The spaces between apartments are used and cherished, and are extensions of living space for residents Instead of narrow, anonymous corridors and sterile lobbies, the Towers have libraries and food gardens.</p>
+<p>This ‘defensible space,’ so-called, is not an initiative of municipal benevolence but in fact a foundational aspect of Newda. Home ownership is an essential feature to the Vekllei way of life, and so apartments are designed in ways that encourage residents to retain social and physical control over their residences and shared spaces — corridors are spacious and communal in the Towers, and crime rates have remained low decades after their construction.</p>
+<p>The Towers today are highly desirable but largely filled with owner-occupiers unwilling to vacate. They are also a kind of post-war architecture that is now exceedingly rare in Vekllei. The Housing Commission now prefers mid-rise housing from which you can view the street, and considers more carefully the density of new construction. The success of The Towers was not enough — municipal architects are continuously experimenting with new ways of building homes for the country.</p>
+<p>This suits Merce just fine, since she hates waiting for the bloody lifts anyway.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -65,16 +64,15 @@
 	  <pubDate>Tue, 15 Mar 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/wine/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/wine.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/wine.jpg"/> 
-		  &lt;p&gt;Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.&lt;/p&gt;
-&lt;p&gt;Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions. Sometimes that occasion is a birthday or a sad night in. Sometimes that occasion is 3pm in the Ivo St Park with her friends. There was plenty to go around.&lt;/p&gt;
-
+	  Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.
+Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/wine.jpg"/> <p>Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.</p>
+<p>Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions. Sometimes that occasion is a birthday or a sad night in. Sometimes that occasion is 3pm in the Ivo St Park with her friends. There was plenty to go around.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -83,32 +81,36 @@
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/chapel/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/gov.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/gov.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;As we come marching, marching, in the beauty of the day,&lt;br&gt;
-A million darkened kitchens, a thousand mill-lofts gray&lt;br&gt;
-Are touched with all the radiance that a sudden sun discloses,&lt;br&gt;
-For the people hear us singing, &amp;ldquo;Bread and Roses, Bread and Roses.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;As we come marching, marching, we battle, too, for men &amp;ndash;&lt;br&gt;
-For they are women&amp;rsquo;s children and we mother them again.&lt;br&gt;
-Our days shall not be sweated from birth until life closes &amp;ndash;&lt;br&gt;
-Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Vekllei people have a right to organise in their work. This principle is expressed in the structure of the economy, in which cooperative enterprises form company ballots that go on to inform commercial and industrial practice. Collections of individual trade unions may form bureaus, massive monopolies of organised workplaces cooperating and competing under the bizarre structure of the Vekllei moneyless economy. These are expressions of a mobilised democratic workforce which sustain the country in their self-interest, and are a defining characteristic of the Floral Period.&lt;/p&gt;
-&lt;p&gt;Organisation also exists outside the workplace. Their negotiations occur with the municipal and state authorities, and are a common means by which groups of people express their grievances and strengthen each other. The most well-known of these are Vekllei’s Chapel system — the unionisation of local women.&lt;/p&gt;
-&lt;p&gt;Chapels are localised by community. Tzipora was at first very sceptical of the Chapels, which had offered her membership upon her arrival in Vekllei. You have to understand, Tzipora was in a crisis of inferiority at this time, and considered the ingratitude of the ungovernable female organisers to be naïve and entitled. She was convinced otherwise by Ayn, who was a moderate and carefully-spoken person.&lt;/p&gt;
-&lt;p&gt;“You want to integrate in Vekllei, don’t you?” She asked Tzipora. “This is what integration looks like; the Chapels are an expression of our democracy. A means of support and celebration; to have people know and care for you. There is no political commitment.”&lt;/p&gt;
-&lt;p&gt;Tzipora found Chapel meetings to be friendly and informal, characterised by shared meals and conversations of joys and grievances. Local Chapel № 23 was a social club of individuals made strong by their trust in each other. Tzipora sat silently at the end of the Chapel hall, an old concrete building with a flat roof built after the war. It had the appearance of a midcentury church. She ate her bread and sausage with her fingers and listened to the women talk amongst themselves. Children ran around, playing chasings. It was not like any place she’d been before.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Well-wishes to all this International Women’s Day&lt;/em&gt;&lt;/p&gt;
-
+	  As we come marching, marching, in the beauty of the day,
+A million darkened kitchens, a thousand mill-lofts gray
+Are touched with all the radiance that a sudden sun discloses,
+For the people hear us singing, &ldquo;Bread and Roses, Bread and Roses.&rdquo;
+As we come marching, marching, we battle, too, for men &ndash;
+For they are women&rsquo;s children and we mother them again.
+Our days shall not be sweated from birth until life closes &ndash;
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/gov.jpg"/> <blockquote>
+<p>As we come marching, marching, in the beauty of the day,<br>
+A million darkened kitchens, a thousand mill-lofts gray<br>
+Are touched with all the radiance that a sudden sun discloses,<br>
+For the people hear us singing, &ldquo;Bread and Roses, Bread and Roses.&rdquo;</p>
+</blockquote>
+<blockquote>
+<p>As we come marching, marching, we battle, too, for men &ndash;<br>
+For they are women&rsquo;s children and we mother them again.<br>
+Our days shall not be sweated from birth until life closes &ndash;<br>
+Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
+</blockquote>
+<p>Vekllei people have a right to organise in their work. This principle is expressed in the structure of the economy, in which cooperative enterprises form company ballots that go on to inform commercial and industrial practice. Collections of individual trade unions may form bureaus, massive monopolies of organised workplaces cooperating and competing under the bizarre structure of the Vekllei moneyless economy. These are expressions of a mobilised democratic workforce which sustain the country in their self-interest, and are a defining characteristic of the Floral Period.</p>
+<p>Organisation also exists outside the workplace. Their negotiations occur with the municipal and state authorities, and are a common means by which groups of people express their grievances and strengthen each other. The most well-known of these are Vekllei’s Chapel system — the unionisation of local women.</p>
+<p>Chapels are localised by community. Tzipora was at first very sceptical of the Chapels, which had offered her membership upon her arrival in Vekllei. You have to understand, Tzipora was in a crisis of inferiority at this time, and considered the ingratitude of the ungovernable female organisers to be naïve and entitled. She was convinced otherwise by Ayn, who was a moderate and carefully-spoken person.</p>
+<p>“You want to integrate in Vekllei, don’t you?” She asked Tzipora. “This is what integration looks like; the Chapels are an expression of our democracy. A means of support and celebration; to have people know and care for you. There is no political commitment.”</p>
+<p>Tzipora found Chapel meetings to be friendly and informal, characterised by shared meals and conversations of joys and grievances. Local Chapel № 23 was a social club of individuals made strong by their trust in each other. Tzipora sat silently at the end of the Chapel hall, an old concrete building with a flat roof built after the war. It had the appearance of a midcentury church. She ate her bread and sausage with her fingers and listened to the women talk amongst themselves. Children ran around, playing chasings. It was not like any place she’d been before.</p>
+<p><em>Well-wishes to all this International Women’s Day</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -117,19 +119,18 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
 	  <pubDate>Sat, 18 Dec 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/rumba/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/rumba.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/rumba.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Coretti Adoula was a good singer but didn’t sing much&lt;/strong&gt;. Tzipora had regarded her politely but distantly for a while after Moise started dating her in 10th grade. It was an awkward thing. Tzipora was not quite sure how to strike up a conversation — maybe she was a little insecure.&lt;/p&gt;
-&lt;p&gt;Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spoke without an accent and was well-accustomed to life in Vekllei. Tzipora had been born in Vekllei, but here she stood, short and stupid with the clumsy, childish accent of a foreigner. She was very self-conscious about her foreignness.&lt;/p&gt;
-&lt;p&gt;There was also a contest of appearances. Moise was Tzipora’s first male friend, and so she paid attention to who he liked. Coretti was tall, sweet-natured, pretty and had dark skin of the kind Tzipora hadn’t seen before. Every time she saw Coretti, Tzipora was suddenly aware of how short, bad-mannered and pale she was. In some ways, they were opposed in his orbit, competing for Moise’s time and affection as satellites.&lt;/p&gt;
-&lt;p&gt;About the time Moise and Coretti started dating, Tzipora was spending a lot of time in clubs, immersing herself in the Lola jazz scene. It was a fantastic time to be in it — Lola is a neighbourhood of migrants, and you had all the sounds of the world ringing out across the borough. Tzipora loved jazz — she liked any kind of interesting, syncopated and percussive music — and Coretti’s brother was the drummer in a Congolese rumba band called &lt;em&gt;Rats de Brazzaville&lt;/em&gt;. His name was Andre. Tzipora knew him well. &lt;em&gt;Rats de Brazzaville&lt;/em&gt; were a big band with a big sound, which made them a big deal for dance clubs. She had probably seen them play a dozen times.&lt;/p&gt;
-&lt;p&gt;Talk about a small world. When Coretti brought it up, the usually quiet Tzipora looked up — &lt;em&gt;Andre Adoula? From the Brazzaville Rats? How do you know him?&lt;/em&gt; All it took was that coincidence and a love of rumba, and all of Tzipora’s misgivings about Coretti were forgotten. Why should she sit here and pity herself? It feels better to dance, doesn’t it?&lt;/p&gt;
-
+	  Coretti Adoula was a good singer but didn’t sing much. Tzipora had regarded her politely but distantly for a while after Moise started dating her in 10th grade. It was an awkward thing. Tzipora was not quite sure how to strike up a conversation — maybe she was a little insecure.
+Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spoke without an accent and was well-accustomed to life in Vekllei.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/rumba.jpg"/> <p><strong>Coretti Adoula was a good singer but didn’t sing much</strong>. Tzipora had regarded her politely but distantly for a while after Moise started dating her in 10th grade. It was an awkward thing. Tzipora was not quite sure how to strike up a conversation — maybe she was a little insecure.</p>
+<p>Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spoke without an accent and was well-accustomed to life in Vekllei. Tzipora had been born in Vekllei, but here she stood, short and stupid with the clumsy, childish accent of a foreigner. She was very self-conscious about her foreignness.</p>
+<p>There was also a contest of appearances. Moise was Tzipora’s first male friend, and so she paid attention to who he liked. Coretti was tall, sweet-natured, pretty and had dark skin of the kind Tzipora hadn’t seen before. Every time she saw Coretti, Tzipora was suddenly aware of how short, bad-mannered and pale she was. In some ways, they were opposed in his orbit, competing for Moise’s time and affection as satellites.</p>
+<p>About the time Moise and Coretti started dating, Tzipora was spending a lot of time in clubs, immersing herself in the Lola jazz scene. It was a fantastic time to be in it — Lola is a neighbourhood of migrants, and you had all the sounds of the world ringing out across the borough. Tzipora loved jazz — she liked any kind of interesting, syncopated and percussive music — and Coretti’s brother was the drummer in a Congolese rumba band called <em>Rats de Brazzaville</em>. His name was Andre. Tzipora knew him well. <em>Rats de Brazzaville</em> were a big band with a big sound, which made them a big deal for dance clubs. She had probably seen them play a dozen times.</p>
+<p>Talk about a small world. When Coretti brought it up, the usually quiet Tzipora looked up — <em>Andre Adoula? From the Brazzaville Rats? How do you know him?</em> All it took was that coincidence and a love of rumba, and all of Tzipora’s misgivings about Coretti were forgotten. Why should she sit here and pity herself? It feels better to dance, doesn’t it?</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -138,20 +139,19 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
 	  <pubDate>Sat, 21 Aug 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/new-generation/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/generation.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/generation.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Children of the children of the bomb —&lt;/strong&gt; a generation of war-babies born in peacetime. That was how they thought of themselves. Their grandparents and great-grandparents had lived through the war and the occupation, and so they had inherited the burden of Vekllei&amp;rsquo;s future as a country of long-sufferers, visionaries, and dispossessed.&lt;/p&gt;
-&lt;p&gt;Some Marxist continental intellectual had said something a half-century ago about the right way to teach children, and the idea had probably caught the ear of some commissar of the Vekllei interim government, who perhaps passed it along to some bureaucrat rebuilding the government schools. As a result, Vekllei children only go to school three or four days a week. There, they spend only a few hours a day in classrooms. There is, after all, no real workforce for which they are being primed. &lt;a href=&#34;https://millmint.net/posts/2020-07-13-economy/#play&#34;&gt;Vekllei&amp;rsquo;s labour economy is a play-fantasy&lt;/a&gt;, and so they mostly learn how to play.&lt;/p&gt;
-&lt;p&gt;It is not designed to &amp;lsquo;free&amp;rsquo; children — Vekllei schools have hierarchies, punishments and are mandatory &amp;mdash; instead, the primary goal of education is self-discovery and self-respect. It is precisely these qualities that benefit most the modern Vekllei economy, which is heavily automated and competes internationally through the product of its participatory creative thinking.&lt;/p&gt;
-&lt;p&gt;There is no grading system in Vekllei — all classes are passed or failed. The value of compulsory education through government schools, then, is the socialisation of boys and girls with others boys and girls, and the availability of equipment and facilities to participate in extracurricular activities. This is the real body of Vekllei school life — its clubs, societies, and individual associations. Many professional photographers in this country discovered an affection for photography before they turned 15 years old, through exposure to it in school. These resources, and the need to socialise children with others, are the reasons the Vekllei government continues to universalise government schooling, even alongside home-schooling or independent/religious education.&lt;/p&gt;
-&lt;p&gt;Depicted here are the good-natured youth of the new generation in school uniform — &lt;a href=&#34;https://millmint.net/posts/2020-09-08-uniforms/&#34;&gt;a topic we&amp;rsquo;ve visited before&lt;/a&gt;. All students in Vekllei wear the same uniform, including at university. The uniforms themselves are not designed specifically to regulate appearance — and to this end, schools do not have dress codes regarding hair or cultural/religious accessories including jewellery.&lt;/p&gt;
-&lt;p&gt;Discard any assumptions about the meaning behind the colour or style of their clothes — all variations depicted here can be worn by whomever, no matter their age, school or association. In fact, school uniforms are not provided directly by schools — they are found at department stores, on the rack alongside suits and dresses. Because of this fact, specific styles of shirt, trousers, socks and shoes vary between students — and are acceptable as long as they meet the basic requirements of the uniform. This intersection of control and anarchy can be found widely throughout broader Vekllei society, and is an interesting example of how the basic principles of the &amp;ldquo;Vekllei way of life&amp;rdquo; are reflected in the microscopic mundanities of life and foundations of national culture simultaneously.&lt;/p&gt;
-
+	  Children of the children of the bomb — a generation of war-babies born in peacetime. That was how they thought of themselves. Their grandparents and great-grandparents had lived through the war and the occupation, and so they had inherited the burden of Vekllei&rsquo;s future as a country of long-sufferers, visionaries, and dispossessed.
+Some Marxist continental intellectual had said something a half-century ago about the right way to teach children, and the idea had probably caught the ear of some commissar of the Vekllei interim government, who perhaps passed it along to some bureaucrat rebuilding the government schools.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/generation.jpg"/> <p><strong>Children of the children of the bomb —</strong> a generation of war-babies born in peacetime. That was how they thought of themselves. Their grandparents and great-grandparents had lived through the war and the occupation, and so they had inherited the burden of Vekllei&rsquo;s future as a country of long-sufferers, visionaries, and dispossessed.</p>
+<p>Some Marxist continental intellectual had said something a half-century ago about the right way to teach children, and the idea had probably caught the ear of some commissar of the Vekllei interim government, who perhaps passed it along to some bureaucrat rebuilding the government schools. As a result, Vekllei children only go to school three or four days a week. There, they spend only a few hours a day in classrooms. There is, after all, no real workforce for which they are being primed. <a href="https://millmint.net/posts/2020-07-13-economy/#play">Vekllei&rsquo;s labour economy is a play-fantasy</a>, and so they mostly learn how to play.</p>
+<p>It is not designed to &lsquo;free&rsquo; children — Vekllei schools have hierarchies, punishments and are mandatory &mdash; instead, the primary goal of education is self-discovery and self-respect. It is precisely these qualities that benefit most the modern Vekllei economy, which is heavily automated and competes internationally through the product of its participatory creative thinking.</p>
+<p>There is no grading system in Vekllei — all classes are passed or failed. The value of compulsory education through government schools, then, is the socialisation of boys and girls with others boys and girls, and the availability of equipment and facilities to participate in extracurricular activities. This is the real body of Vekllei school life — its clubs, societies, and individual associations. Many professional photographers in this country discovered an affection for photography before they turned 15 years old, through exposure to it in school. These resources, and the need to socialise children with others, are the reasons the Vekllei government continues to universalise government schooling, even alongside home-schooling or independent/religious education.</p>
+<p>Depicted here are the good-natured youth of the new generation in school uniform — <a href="https://millmint.net/posts/2020-09-08-uniforms/">a topic we&rsquo;ve visited before</a>. All students in Vekllei wear the same uniform, including at university. The uniforms themselves are not designed specifically to regulate appearance — and to this end, schools do not have dress codes regarding hair or cultural/religious accessories including jewellery.</p>
+<p>Discard any assumptions about the meaning behind the colour or style of their clothes — all variations depicted here can be worn by whomever, no matter their age, school or association. In fact, school uniforms are not provided directly by schools — they are found at department stores, on the rack alongside suits and dresses. Because of this fact, specific styles of shirt, trousers, socks and shoes vary between students — and are acceptable as long as they meet the basic requirements of the uniform. This intersection of control and anarchy can be found widely throughout broader Vekllei society, and is an interesting example of how the basic principles of the &ldquo;Vekllei way of life&rdquo; are reflected in the microscopic mundanities of life and foundations of national culture simultaneously.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -160,24 +160,23 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
 	  <pubDate>Mon, 24 May 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/hollywood/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/hollywood.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/hollywood.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;You know you’re near the homeland of the Magma-Electric Commission when you smell it.&lt;/strong&gt; Somewhere between cracking a rotten egg and standing downwind of a sewerage treatment plant, the volcanic heartlands of Vekllei are the playground of the Magma-Electric Commission, often shortened to just “The Magma” or “Thunderburo”. The smell is caused by Hydrogen Sulphide, a byproduct of the naked volcanic activity Vekllei is known for.&lt;/p&gt;
-&lt;p&gt;Sulphur is everywhere in Vekllei — even in the cities, the drinking water smells of it. It even overpowers the perfume of a ro, the Vekllei flower-tundras. In the places where the smell is most intense, you usually find a geothermal power plant nearby.&lt;/p&gt;
-&lt;p&gt;In Vekllei, The Magma pumps water deep into the belly of the Earth, so deep that the temperature and pressure cause the water to go supercritical, at which point it’s neither a liquid or a gas. Supercritical water carries much more energy than water or steam, and produces much more electricity — so much so that residences in Vekllei are powered entirely by geothermal (Magma-Electric Commission) and hydroelectric (Hydro-Electric Commission) facilities.&lt;/p&gt;
-&lt;p&gt;There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei. Lava is full of plants like these. A rail line runs near its injection well, where fresh glacial runoff is transformed into clean, limitless electricity through the miracle of its landscape and human ingenuity. The water is recycled, but excess waste water is dumped into the surrounding ro, forming foggy pools of light blue water. The earth here is alive; in the cold, the ponds begin to steam.&lt;/p&gt;
-&lt;p&gt;Moise had complicated ambitions of becoming a filmmaker. As with all student filmmakers, he drafted his friends to help.&lt;/p&gt;
-&lt;p&gt;His girlfriend, &lt;a href=&#34;https://www.reddit.com/r/vekllei/comments/locjnz/turning_things_around/&#34;&gt;Coretti&lt;/a&gt;, operated the compact 8mm camera. Tzipora was the production assistant, doing makeup and foley and whatever he asked of her. Cobian was going to be a star — that’s what he said to her, anyway, and he paired her up with a mate of his in what would be an epic short film about lost love.&lt;/p&gt;
-&lt;p&gt;It was Tzipora who suggested Miyatvousi, since she’d developed a good catalogue of scenic locations in her quest to find natural shrines. There was a place where the rail line crossed a small mineral lake, near the flash plant’s turbine halls. If worked out just right, you could have a shot that’d make the whole film. It was a hell of a journey — a bullet train in the morning to &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/krafla/&#34;&gt;Krafla&lt;/a&gt;, where they got breakfast, and a two-hour local train far out from the city.&lt;/p&gt;
-&lt;p&gt;As it unfolds, you never realise how good a moment is. It was maybe the second or third-best day of Tzipora’s life. She didn’t know Coretti all that well, and it was the first time they’d talked about things other than Moise. They were on a great adventure, and they all knew it. They laughed when Moise coughed out his coffee all over himself and pretended to be interested when Tzipora talked at length about how geothermal power plants work.&lt;/p&gt;
-&lt;p&gt;At first, the gig had been sort of a joke for Cobian — she was humouring the friend of her girlfriend — but as the film progressed, she realised how talented and passionate her friends were. They were deeply odd and talented people, and they believed in what they were doing — Cobian had never had friends like that before. On the train back to Lola, as the city lights of the capital loomed, Cobian turned to Tzipora and told her that she loved her for the first time.&lt;/p&gt;
-&lt;p&gt;Ambitious, arrogant, naive, laughing, well-fed, tired, and in love. Looking back, Tzipora thought the candid footage of themselves made better cinema than anything in a theatre. Lights, camera — action.&lt;/p&gt;
-
+	  You know you’re near the homeland of the Magma-Electric Commission when you smell it. Somewhere between cracking a rotten egg and standing downwind of a sewerage treatment plant, the volcanic heartlands of Vekllei are the playground of the Magma-Electric Commission, often shortened to just “The Magma” or “Thunderburo”. The smell is caused by Hydrogen Sulphide, a byproduct of the naked volcanic activity Vekllei is known for.
+Sulphur is everywhere in Vekllei — even in the cities, the drinking water smells of it.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/hollywood.jpg"/> <p><strong>You know you’re near the homeland of the Magma-Electric Commission when you smell it.</strong> Somewhere between cracking a rotten egg and standing downwind of a sewerage treatment plant, the volcanic heartlands of Vekllei are the playground of the Magma-Electric Commission, often shortened to just “The Magma” or “Thunderburo”. The smell is caused by Hydrogen Sulphide, a byproduct of the naked volcanic activity Vekllei is known for.</p>
+<p>Sulphur is everywhere in Vekllei — even in the cities, the drinking water smells of it. It even overpowers the perfume of a ro, the Vekllei flower-tundras. In the places where the smell is most intense, you usually find a geothermal power plant nearby.</p>
+<p>In Vekllei, The Magma pumps water deep into the belly of the Earth, so deep that the temperature and pressure cause the water to go supercritical, at which point it’s neither a liquid or a gas. Supercritical water carries much more energy than water or steam, and produces much more electricity — so much so that residences in Vekllei are powered entirely by geothermal (Magma-Electric Commission) and hydroelectric (Hydro-Electric Commission) facilities.</p>
+<p>There is a so-called “flash plant” in Miyatvousi, in the Lava region of Vekllei. Lava is full of plants like these. A rail line runs near its injection well, where fresh glacial runoff is transformed into clean, limitless electricity through the miracle of its landscape and human ingenuity. The water is recycled, but excess waste water is dumped into the surrounding ro, forming foggy pools of light blue water. The earth here is alive; in the cold, the ponds begin to steam.</p>
+<p>Moise had complicated ambitions of becoming a filmmaker. As with all student filmmakers, he drafted his friends to help.</p>
+<p>His girlfriend, <a href="https://www.reddit.com/r/vekllei/comments/locjnz/turning_things_around/">Coretti</a>, operated the compact 8mm camera. Tzipora was the production assistant, doing makeup and foley and whatever he asked of her. Cobian was going to be a star — that’s what he said to her, anyway, and he paired her up with a mate of his in what would be an epic short film about lost love.</p>
+<p>It was Tzipora who suggested Miyatvousi, since she’d developed a good catalogue of scenic locations in her quest to find natural shrines. There was a place where the rail line crossed a small mineral lake, near the flash plant’s turbine halls. If worked out just right, you could have a shot that’d make the whole film. It was a hell of a journey — a bullet train in the morning to <a href="/utopia/landscape/boroughs/krafla/">Krafla</a>, where they got breakfast, and a two-hour local train far out from the city.</p>
+<p>As it unfolds, you never realise how good a moment is. It was maybe the second or third-best day of Tzipora’s life. She didn’t know Coretti all that well, and it was the first time they’d talked about things other than Moise. They were on a great adventure, and they all knew it. They laughed when Moise coughed out his coffee all over himself and pretended to be interested when Tzipora talked at length about how geothermal power plants work.</p>
+<p>At first, the gig had been sort of a joke for Cobian — she was humouring the friend of her girlfriend — but as the film progressed, she realised how talented and passionate her friends were. They were deeply odd and talented people, and they believed in what they were doing — Cobian had never had friends like that before. On the train back to Lola, as the city lights of the capital loomed, Cobian turned to Tzipora and told her that she loved her for the first time.</p>
+<p>Ambitious, arrogant, naive, laughing, well-fed, tired, and in love. Looking back, Tzipora thought the candid footage of themselves made better cinema than anything in a theatre. Lights, camera — action.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -186,55 +185,57 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
 	  <pubDate>Thu, 01 Apr 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/women/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/women.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/women.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A woman has so many parts to her body, life is very hard indeed.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;— &lt;strong&gt;Lu Xun&lt;/strong&gt;, 1927&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Even from my point of view, as a woman, there is nothing attractive about such &amp;lsquo;backward elements.&amp;rsquo; Their skin is beginning to wrinkle, their hair is growing thin, and fatigue is robbing them of their last traces of attractiveness.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;— &lt;strong&gt;Ding Ling&lt;/strong&gt; on the long-marcher woman soldiers, 1942&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;When Tzipora first arrived in Vekllei in 2063&lt;/strong&gt;, she was traumatised by the foreignness of everything. It was not just that they drove on the wrong side of the road, or that the chocolate was made by someone else, but that her whole understanding of the world — the world she’d been raised in all her life — was unravelled within weeks. It did not matter if you learned the language, or dressed like them, or worked with them — the way a Vekllei person thinks seemed totally alien, as though they were tuned into a frequency that she couldn’t hear. That was very difficult for her.&lt;/p&gt;
-&lt;p&gt;Her clearest memory, out of all the emotional turmoil in her first few weeks, was the clothes. Tzipora was not fashionable or materialistic, but she’d never had nice things to wear. In Vekllei the things on the rack were simple, and often second-hand, but they were very well made and the department stores had a big variety. She picked out five shirts, nearly identical, and decided that these would be what she would wear from now on — it was her own way of establishing an identity; SHE IS THE GIRL WHO WEARS THIS TYPE OF SHIRT. Little things like that mattered a lot, because Tzipora was treated differently here. She was both ‘young’ and a ‘girl’, which had implications for how overseas people talked to her and how she was regarded. Here, almost no one seemed to notice. She had dignity by default, which was exciting and scary at the same time, so she needed something other than her appearance to claim as ‘hers’. And at that time, it was the shirt with the pleats.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Vekllei is a place that is very much radical&lt;/strong&gt; but, either intentionally or as a byproduct of its opaque culture, suppresses the &lt;em&gt;appearance&lt;/em&gt; of radicalism in its public affairs (or as they say there, ‘sun-facing space’). This is for a few reasons. First, Vekllei uses its obscurity as a weapon against its continental neighbours, who might pull it into geopolitical tensions it wants no part of. The second is that Vekllei’s failed revolutionary movements of the early 20th Century are buried with the Junta that suppressed them. The third, and most critically, is that Vekllei people themselves are unaware of just how saturated their lives are with the cultural and political ideology of the floral period, which makes “foreign” political thinking difficult and results in a lot of empty rhetoric — for example, “petticoat socialism” describes the Bureau System, which does not have much to do with either petticoats or continental socialism.&lt;/p&gt;
-&lt;p&gt;This paradigm makes more sense when you consider that there are really two Veklleis — the one that existed before the Atomic War, and the one that exists now, called the “Floral Period” or sometimes “Petticoat Society”. The one that existed before has little resemblance to the one that exists now, and that is the way people have continued to think in the decades of independence — anything prior to 2015 is, simply, history.&lt;/p&gt;
-&lt;p&gt;Make no mistake — Vekllei is tremendously radical in its culture and politics, which it tempers with conservative names and third-way politicking. Today’s post looks at how the Vekllei woman changed in the years between 2005 and 2020.&lt;/p&gt;
-&lt;p&gt;Not unlike revolutions of years past, postwar Vekllei had (for the moment, at least) lost many of its structural oppressors of women, since the structure itself had collapsed quickly. The interim government had taken an orthodox, though contrarian, communist position, which ushered a new handbook of rhetoric towards de-objectification of women and their pragmatic and social value in the workforce. The interim government had several key women figures among it, who are credited with its success in this critical, and rapidly changing period.&lt;/p&gt;
-&lt;p&gt;In the Vekllei socialist (&lt;em&gt;socialisme oa Vekllei&lt;/em&gt;) line of thinking, there are two points of attack. There was the suppression of old models of feminine beauty, which argued against women’s independence and dignity in favour of their security with men, who made up Vekllei’s economic and social caste throughout the entirety of the Junta’s rule. But there was also a very real fear that women’s liberation by Western metrics would simply evolve indentured living into a more obtuse, and in some ways more sinister, commodity-woman (&lt;em&gt;cosmavisiousnesh&lt;/em&gt;, lit. ‘plastic woman’&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;), who was free to educate herself but found her appearance subjected to permanent scrutiny — a product for a consumer, dependent on shifting fashions and complex social constellations still fundamentally controlled by men. This fear was not unfounded, as many educated women of the interim government (who made up nearly half of its members) had spent significant time in Western Europe and the United States, and were keenly aware of who was “gazing” (&lt;em&gt;lismious&lt;/em&gt;) and who was being “gazed at” (&lt;em&gt;visimett&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;The solution developed by the interim government was both political and spiritual, designed to demolish the external remnants of Vekllei’s pre-war and highly stratified society, and the looming threats of foreign investment, new wealth, and an import of the modern commodity-woman. Most importantly, it understood that present notions of empowerment or disempowerment were problematic unto themselves — whether it was sexual liberation, modesty, or indeed the economic role of women in abstract — their ability to empower was still fundamentally chained to old society, which was still dominated by the sexist cultural default.&lt;/p&gt;
-&lt;p&gt;In 2016, Cisma de Diviousmesn, First Secretary of the War Recovery Committee, described the problem as such in The &lt;em&gt;Atlantic&lt;/em&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;We are nearing a precipice that all Vekllei women may fall into, should we follow unblinkingly the Visis Plan [postwar redevelopment plan], and allow foreign investment to replace English colonial governor-generals; we should be wise enough, so to speak, to not trade a king for a master and call it recovery.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Upen&lt;/em&gt;’s discourse on womanhood, the essential virtues of a woman have always included good words, good work and good fortune — emphasising the role of women as both an alias for success/wealth and also as responsible for that fortune themselves, either in the workplace or through their innate spirituality. This has remained true throughout much of Vekllei’s history, but was obfuscated by the economic masculinity of Vekllei’s protectionist mercantile period. After the war, Upen saw a revival that would culminate in the spiritual fever of the late 2010s and early 2020s. The interim government co-opted this surge pragmatically, encouraging a shift in local perceptions of womanhood through spiritual, rather than political or ideological, methods.&lt;/p&gt;
-&lt;p&gt;“This is a New Age,” the posters said. “So become a New-Age Woman.”&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Becoming a New Age Woman involved two things — tearing down the external oppressions of the old and interim periods (harassment, domestic violence, and male interference in the affairs of women), and the interrogation of internalised sexisms (empowerment by male opinion [this included styles women found attractive, as inherited from men], abolishment of economic preoccupations, and the reconstruction of womanhood in abstract). This individual struggle was supported by the many social programmes developed by the interim government, with names like “economic feminisation” (abolishment of the male economic burden) and “abolishment of self-beautification for your man” (&lt;em&gt;scisimionze&lt;/em&gt;, or “self-adornment/self-beautification”).&lt;/p&gt;
-&lt;p&gt;The point was not to empower women by simply displacing men from male economic and social constructions — a move that was seen as disempowering because of who was setting those priorities —  but to rebuild Vekllei’s domestic understanding of “the woman” by the terms of women, legitimised by the authority of the interim government and the powerful cultural force Upen continues to have on society. Within such a culture, it was reasoned, women would be free to choose what womanhood meant to them, since it was not simply reactive to a sexist cultural default. The sum of this effort was called ‘sun-facing,’ or &lt;em&gt;semoisnesne&lt;/em&gt;, which referred to the progressive attitude of both the individual and the country.&lt;/p&gt;
-&lt;p&gt;Although Vekllei’s New Age Woman had dramatic effects and benefitted the status of women in Vekllei society tremendously, it was nonetheless fundamentally political and had obscure and surprising cultural artefacts buried within. The idea that a woman would be “free to choose” her own womanhood was a little misleading, since the interim government was rapidly developing its plan for “petticoat society,” in which Sundress Municipalism, the Bureau System and Floral Aestheticism would become such powerful cultural forces that no man nor woman would be able to escape them entirely.&lt;/p&gt;
-&lt;p&gt;As the wealth of the country grew and then exploded in the transition to Vekllei’s floral society, it was clear how the structure of petticoat society continued to influence women in Vekllei. Women can wear whatever they like — but simplicity and subtle self-decoration are common and encouraged by the uniforms system and floral aesthetics. Women can live however they like — but education is compulsory in childhood and highly valued, and young women are encouraged to fulfil ‘the female inclination for leadership’ inherited from Upen’s mother-metaphysics. And women can date whomever they like — though ideological compatibility, and not appearance, is encouraged in the &lt;em&gt;semoisnesne&lt;/em&gt; attitude.&lt;/p&gt;
-&lt;p&gt;Some of these things are easily argued as good — few would assume there are many feminists in the world who argue against the education of women — but they do betray the notion of truly “free” choice, insofar as Vekllei society is dominated by the economic and spiritual values of its structure. Vekllei considers capitalist economics, exponential growth, and gross historicism to be “masculine” — of course that sort of language trickles down into the social aspects of society. More directly, it prioritises form, colour, and purity in aesthetics — of course that aesthetic ideology affects how people dress, and contributes to its uniformed culture.&lt;/p&gt;
-&lt;p&gt;It is difficult to place where the state begins and ends in Vekllei, which is how it can be argued for as an unfree and anarchic society simultaneously. So too is it difficult to determine how much of Vekllei culture originates in the centres of power in Vekllei — either political or religious — and subsequently there are problems in clarifying how women are affected by power, especially since women participate and in some cases dominate those hierarchies. Are they externalised, or internalised? Who is gazing at who?&lt;/p&gt;
-&lt;p&gt;Regardless of Vekllei’s cultural obscurity, which affects much more than politics and many people other than women, it is clear a dramatic and liberating shift occurred in Vekllei’s interim period of independence, and that shift has contributed tremendously to the status of contemporary Vekllei women, who enjoy economic and social freedoms that were unimaginable just decades prior. Even though Vekllei has not embraced political iconography to celebrate their indigenous feminism, we can see just how radical and wide-ranging the changes made were.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The phrase &amp;ldquo;plastic woman&amp;rdquo; was coined by author John Graves, whose work found popularity in postwar Vekllei after its translation.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;&lt;em&gt;Cosmatsisosmiosne de Ne&lt;/em&gt;, lit. &amp;ldquo;Woman of the New Age&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-
+	  A woman has so many parts to her body, life is very hard indeed.
+— Lu Xun, 1927
+Even from my point of view, as a woman, there is nothing attractive about such &lsquo;backward elements.&rsquo; Their skin is beginning to wrinkle, their hair is growing thin, and fatigue is robbing them of their last traces of attractiveness.
+— Ding Ling on the long-marcher woman soldiers, 1942
+When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreignness of everything.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/women.jpg"/> <blockquote>
+<p><em>A woman has so many parts to her body, life is very hard indeed.</em></p>
+</blockquote>
+<p>— <strong>Lu Xun</strong>, 1927</p>
+<blockquote>
+<p><em>Even from my point of view, as a woman, there is nothing attractive about such &lsquo;backward elements.&rsquo; Their skin is beginning to wrinkle, their hair is growing thin, and fatigue is robbing them of their last traces of attractiveness.</em></p>
+</blockquote>
+<p>— <strong>Ding Ling</strong> on the long-marcher woman soldiers, 1942</p>
+<p><strong>When Tzipora first arrived in Vekllei in 2063</strong>, she was traumatised by the foreignness of everything. It was not just that they drove on the wrong side of the road, or that the chocolate was made by someone else, but that her whole understanding of the world — the world she’d been raised in all her life — was unravelled within weeks. It did not matter if you learned the language, or dressed like them, or worked with them — the way a Vekllei person thinks seemed totally alien, as though they were tuned into a frequency that she couldn’t hear. That was very difficult for her.</p>
+<p>Her clearest memory, out of all the emotional turmoil in her first few weeks, was the clothes. Tzipora was not fashionable or materialistic, but she’d never had nice things to wear. In Vekllei the things on the rack were simple, and often second-hand, but they were very well made and the department stores had a big variety. She picked out five shirts, nearly identical, and decided that these would be what she would wear from now on — it was her own way of establishing an identity; SHE IS THE GIRL WHO WEARS THIS TYPE OF SHIRT. Little things like that mattered a lot, because Tzipora was treated differently here. She was both ‘young’ and a ‘girl’, which had implications for how overseas people talked to her and how she was regarded. Here, almost no one seemed to notice. She had dignity by default, which was exciting and scary at the same time, so she needed something other than her appearance to claim as ‘hers’. And at that time, it was the shirt with the pleats.</p>
+<hr>
+<p><strong>Vekllei is a place that is very much radical</strong> but, either intentionally or as a byproduct of its opaque culture, suppresses the <em>appearance</em> of radicalism in its public affairs (or as they say there, ‘sun-facing space’). This is for a few reasons. First, Vekllei uses its obscurity as a weapon against its continental neighbours, who might pull it into geopolitical tensions it wants no part of. The second is that Vekllei’s failed revolutionary movements of the early 20th Century are buried with the Junta that suppressed them. The third, and most critically, is that Vekllei people themselves are unaware of just how saturated their lives are with the cultural and political ideology of the floral period, which makes “foreign” political thinking difficult and results in a lot of empty rhetoric — for example, “petticoat socialism” describes the Bureau System, which does not have much to do with either petticoats or continental socialism.</p>
+<p>This paradigm makes more sense when you consider that there are really two Veklleis — the one that existed before the Atomic War, and the one that exists now, called the “Floral Period” or sometimes “Petticoat Society”. The one that existed before has little resemblance to the one that exists now, and that is the way people have continued to think in the decades of independence — anything prior to 2015 is, simply, history.</p>
+<p>Make no mistake — Vekllei is tremendously radical in its culture and politics, which it tempers with conservative names and third-way politicking. Today’s post looks at how the Vekllei woman changed in the years between 2005 and 2020.</p>
+<p>Not unlike revolutions of years past, postwar Vekllei had (for the moment, at least) lost many of its structural oppressors of women, since the structure itself had collapsed quickly. The interim government had taken an orthodox, though contrarian, communist position, which ushered a new handbook of rhetoric towards de-objectification of women and their pragmatic and social value in the workforce. The interim government had several key women figures among it, who are credited with its success in this critical, and rapidly changing period.</p>
+<p>In the Vekllei socialist (<em>socialisme oa Vekllei</em>) line of thinking, there are two points of attack. There was the suppression of old models of feminine beauty, which argued against women’s independence and dignity in favour of their security with men, who made up Vekllei’s economic and social caste throughout the entirety of the Junta’s rule. But there was also a very real fear that women’s liberation by Western metrics would simply evolve indentured living into a more obtuse, and in some ways more sinister, commodity-woman (<em>cosmavisiousnesh</em>, lit. ‘plastic woman’<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>), who was free to educate herself but found her appearance subjected to permanent scrutiny — a product for a consumer, dependent on shifting fashions and complex social constellations still fundamentally controlled by men. This fear was not unfounded, as many educated women of the interim government (who made up nearly half of its members) had spent significant time in Western Europe and the United States, and were keenly aware of who was “gazing” (<em>lismious</em>) and who was being “gazed at” (<em>visimett</em>).</p>
+<p>The solution developed by the interim government was both political and spiritual, designed to demolish the external remnants of Vekllei’s pre-war and highly stratified society, and the looming threats of foreign investment, new wealth, and an import of the modern commodity-woman. Most importantly, it understood that present notions of empowerment or disempowerment were problematic unto themselves — whether it was sexual liberation, modesty, or indeed the economic role of women in abstract — their ability to empower was still fundamentally chained to old society, which was still dominated by the sexist cultural default.</p>
+<p>In 2016, Cisma de Diviousmesn, First Secretary of the War Recovery Committee, described the problem as such in The <em>Atlantic</em>.</p>
+<blockquote>
+<p>We are nearing a precipice that all Vekllei women may fall into, should we follow unblinkingly the Visis Plan [postwar redevelopment plan], and allow foreign investment to replace English colonial governor-generals; we should be wise enough, so to speak, to not trade a king for a master and call it recovery.</p>
+</blockquote>
+<p>In <em>Upen</em>’s discourse on womanhood, the essential virtues of a woman have always included good words, good work and good fortune — emphasising the role of women as both an alias for success/wealth and also as responsible for that fortune themselves, either in the workplace or through their innate spirituality. This has remained true throughout much of Vekllei’s history, but was obfuscated by the economic masculinity of Vekllei’s protectionist mercantile period. After the war, Upen saw a revival that would culminate in the spiritual fever of the late 2010s and early 2020s. The interim government co-opted this surge pragmatically, encouraging a shift in local perceptions of womanhood through spiritual, rather than political or ideological, methods.</p>
+<p>“This is a New Age,” the posters said. “So become a New-Age Woman.”<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>Becoming a New Age Woman involved two things — tearing down the external oppressions of the old and interim periods (harassment, domestic violence, and male interference in the affairs of women), and the interrogation of internalised sexisms (empowerment by male opinion [this included styles women found attractive, as inherited from men], abolishment of economic preoccupations, and the reconstruction of womanhood in abstract). This individual struggle was supported by the many social programmes developed by the interim government, with names like “economic feminisation” (abolishment of the male economic burden) and “abolishment of self-beautification for your man” (<em>scisimionze</em>, or “self-adornment/self-beautification”).</p>
+<p>The point was not to empower women by simply displacing men from male economic and social constructions — a move that was seen as disempowering because of who was setting those priorities —  but to rebuild Vekllei’s domestic understanding of “the woman” by the terms of women, legitimised by the authority of the interim government and the powerful cultural force Upen continues to have on society. Within such a culture, it was reasoned, women would be free to choose what womanhood meant to them, since it was not simply reactive to a sexist cultural default. The sum of this effort was called ‘sun-facing,’ or <em>semoisnesne</em>, which referred to the progressive attitude of both the individual and the country.</p>
+<p>Although Vekllei’s New Age Woman had dramatic effects and benefitted the status of women in Vekllei society tremendously, it was nonetheless fundamentally political and had obscure and surprising cultural artefacts buried within. The idea that a woman would be “free to choose” her own womanhood was a little misleading, since the interim government was rapidly developing its plan for “petticoat society,” in which Sundress Municipalism, the Bureau System and Floral Aestheticism would become such powerful cultural forces that no man nor woman would be able to escape them entirely.</p>
+<p>As the wealth of the country grew and then exploded in the transition to Vekllei’s floral society, it was clear how the structure of petticoat society continued to influence women in Vekllei. Women can wear whatever they like — but simplicity and subtle self-decoration are common and encouraged by the uniforms system and floral aesthetics. Women can live however they like — but education is compulsory in childhood and highly valued, and young women are encouraged to fulfil ‘the female inclination for leadership’ inherited from Upen’s mother-metaphysics. And women can date whomever they like — though ideological compatibility, and not appearance, is encouraged in the <em>semoisnesne</em> attitude.</p>
+<p>Some of these things are easily argued as good — few would assume there are many feminists in the world who argue against the education of women — but they do betray the notion of truly “free” choice, insofar as Vekllei society is dominated by the economic and spiritual values of its structure. Vekllei considers capitalist economics, exponential growth, and gross historicism to be “masculine” — of course that sort of language trickles down into the social aspects of society. More directly, it prioritises form, colour, and purity in aesthetics — of course that aesthetic ideology affects how people dress, and contributes to its uniformed culture.</p>
+<p>It is difficult to place where the state begins and ends in Vekllei, which is how it can be argued for as an unfree and anarchic society simultaneously. So too is it difficult to determine how much of Vekllei culture originates in the centres of power in Vekllei — either political or religious — and subsequently there are problems in clarifying how women are affected by power, especially since women participate and in some cases dominate those hierarchies. Are they externalised, or internalised? Who is gazing at who?</p>
+<p>Regardless of Vekllei’s cultural obscurity, which affects much more than politics and many people other than women, it is clear a dramatic and liberating shift occurred in Vekllei’s interim period of independence, and that shift has contributed tremendously to the status of contemporary Vekllei women, who enjoy economic and social freedoms that were unimaginable just decades prior. Even though Vekllei has not embraced political iconography to celebrate their indigenous feminism, we can see just how radical and wide-ranging the changes made were.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The phrase &ldquo;plastic woman&rdquo; was coined by author John Graves, whose work found popularity in postwar Vekllei after its translation.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><em>Cosmatsisosmiosne de Ne</em>, lit. &ldquo;Woman of the New Age&rdquo;&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -243,26 +244,25 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
 	  <pubDate>Sat, 20 Feb 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/around/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/around.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/around.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;His hand was hurting bad, but no one asked him about it the day after&lt;/strong&gt;. Moise always had a temper, and now he had a reputation. He got no words of sympathy from the other seniors of Lola 8th School.&lt;/p&gt;
-&lt;p&gt;Considering his bluntness and irritability, it was funny that he could only make good friends with women. His father was a bastard and his mother was in Greece, so his sister took their place. His closest friend was Tzipora, the boyish miracle child who helped him lose weight. His love was Coretti, his high school sweetheart and, a little further along, his wife.&lt;/p&gt;
-&lt;p&gt;Coretti was the daughter of Congolese scientists, but was born and raised in the Soviet Union. She had a typical brief for Afro-Russians — her father had worked with the Congo Water Company, and later was brought over for the Soviet Ministry of Agriculture and Food. She spent her early years in the relative wealth of the Basmanny District.&lt;/p&gt;
-&lt;p&gt;The arrangement collapsed quickly after the coup in Congo and the death of Party Secretary Shchusev. The office her father worked for disappeared, and the family emigrated to Vekllei when she was six. Vekllei was full of displaced people with displaced heritage. After all, Moise was himself the son of wealthy Greek folk, his mother a fascist in the shadow party there. The way their identities intersected brought about difficult dimensions to their character — often empowering, occasionally suffocating, and sometimes resurrecting ghosts from their past.&lt;/p&gt;
-&lt;p&gt;Moise was graduating this year with Coretti, and had already landed a gig running cameras for Dovo Studios, a big deal for someone his age. His real passion was filmmaking — the creation of dreams. That was on hold, after last night.&lt;/p&gt;
-&lt;p&gt;Some shithead assistant-to-an-assistant was mouthing off about him to the C.A., telling him he had an attitude. Moise didn’t know what this guy’s problem was, and he kept picking at him all night. Moise didn’t take shit, and got up in his face.&lt;/p&gt;
-&lt;p&gt;He looked at his right hand, which was swollen so fat he couldn’t tuck his fingers in. It’d be right in a couple days, maybe a week. But he was off the set for now.&lt;/p&gt;
-&lt;p&gt;Coretti hated his fighting. Tzipora, ever the contrarian by way of instinct, admired him for it. It was like those cartoons with the angels and devils on your shoulders.&lt;/p&gt;
-&lt;p&gt;“I hate it when you fight,” says Coretti, in a white gown and halo. “You’re a better man than that, I know it in your heart.”&lt;/p&gt;
-&lt;p&gt;“Is that right?” Tzipora says, with horns and a tail. “Seems to me he’s proved exactly who he’s better than.”&lt;/p&gt;
-&lt;p&gt;He’d lost his job and got in trouble again, but as Moise lit a cig and sat back, the whole afternoon ahead of him, he felt pretty good.&lt;/p&gt;
-&lt;p&gt;“Yeah,” he said, and took a drag. “Serves me right.”&lt;/p&gt;
-
+	  His hand was hurting bad, but no one asked him about it the day after. Moise always had a temper, and now he had a reputation. He got no words of sympathy from the other seniors of Lola 8th School.
+Considering his bluntness and irritability, it was funny that he could only make good friends with women. His father was a bastard and his mother was in Greece, so his sister took their place.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/around.jpg"/> <p><strong>His hand was hurting bad, but no one asked him about it the day after</strong>. Moise always had a temper, and now he had a reputation. He got no words of sympathy from the other seniors of Lola 8th School.</p>
+<p>Considering his bluntness and irritability, it was funny that he could only make good friends with women. His father was a bastard and his mother was in Greece, so his sister took their place. His closest friend was Tzipora, the boyish miracle child who helped him lose weight. His love was Coretti, his high school sweetheart and, a little further along, his wife.</p>
+<p>Coretti was the daughter of Congolese scientists, but was born and raised in the Soviet Union. She had a typical brief for Afro-Russians — her father had worked with the Congo Water Company, and later was brought over for the Soviet Ministry of Agriculture and Food. She spent her early years in the relative wealth of the Basmanny District.</p>
+<p>The arrangement collapsed quickly after the coup in Congo and the death of Party Secretary Shchusev. The office her father worked for disappeared, and the family emigrated to Vekllei when she was six. Vekllei was full of displaced people with displaced heritage. After all, Moise was himself the son of wealthy Greek folk, his mother a fascist in the shadow party there. The way their identities intersected brought about difficult dimensions to their character — often empowering, occasionally suffocating, and sometimes resurrecting ghosts from their past.</p>
+<p>Moise was graduating this year with Coretti, and had already landed a gig running cameras for Dovo Studios, a big deal for someone his age. His real passion was filmmaking — the creation of dreams. That was on hold, after last night.</p>
+<p>Some shithead assistant-to-an-assistant was mouthing off about him to the C.A., telling him he had an attitude. Moise didn’t know what this guy’s problem was, and he kept picking at him all night. Moise didn’t take shit, and got up in his face.</p>
+<p>He looked at his right hand, which was swollen so fat he couldn’t tuck his fingers in. It’d be right in a couple days, maybe a week. But he was off the set for now.</p>
+<p>Coretti hated his fighting. Tzipora, ever the contrarian by way of instinct, admired him for it. It was like those cartoons with the angels and devils on your shoulders.</p>
+<p>“I hate it when you fight,” says Coretti, in a white gown and halo. “You’re a better man than that, I know it in your heart.”</p>
+<p>“Is that right?” Tzipora says, with horns and a tail. “Seems to me he’s proved exactly who he’s better than.”</p>
+<p>He’d lost his job and got in trouble again, but as Moise lit a cig and sat back, the whole afternoon ahead of him, he felt pretty good.</p>
+<p>“Yeah,” he said, and took a drag. “Serves me right.”</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

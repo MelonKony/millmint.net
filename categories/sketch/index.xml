@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>sketch</title>
 	<link>https://millmint.net/categories/sketch/</link>
@@ -7,12 +15,6 @@
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 11 Mar 2023 08:00:00 EST</lastBuildDate>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>sketch</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
@@ -22,23 +24,22 @@
 	  <pubDate>Sat, 11 Mar 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/health/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/nurse.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/nurse.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Nurse of the Commonwealth Health Service.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Healthcare in Vekllei is universal, and run as a government service for the wellbeing of the public. The system is financed and governed by the Commonwealth Health Secretariat, and is provided regionally by national health authorities.&lt;/p&gt;
-&lt;p&gt;There is no cost to any treatment in the Vekllei healthcare system, and it covers all kinds of care necessary for a comfortable and dignified life. Healthcare professionals, including doctors and nurses, are highly regarded in the Commonwealth and enjoy considerable benefits provided by their health authority. All Vekllei households have an elected doctor, called a General Practitioner, who is their first point of contact with the health system.&lt;/p&gt;
-&lt;p&gt;Elective cosmetic surgery is uncommon in Vekllei and hard to receive, so medical tourism is a popular way to receive cosmetic dental treatment and other elective procedures, which occur most commonly in the US or Europe.&lt;/p&gt;
-
+	  Nurse of the Commonwealth Health Service. Healthcare in Vekllei is universal, and run as a government service for the wellbeing of the public. The system is financed and governed by the Commonwealth Health Secretariat, and is provided regionally by national health authorities.
+There is no cost to any treatment in the Vekllei healthcare system, and it covers all kinds of care necessary for a comfortable and dignified life. Healthcare professionals, including doctors and nurses, are highly regarded in the Commonwealth and enjoy considerable benefits provided by their health authority.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/nurse.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Nurse of the Commonwealth Health Service.</div>
+</blockquote>
+
+<p>Healthcare in Vekllei is universal, and run as a government service for the wellbeing of the public. The system is financed and governed by the Commonwealth Health Secretariat, and is provided regionally by national health authorities.</p>
+<p>There is no cost to any treatment in the Vekllei healthcare system, and it covers all kinds of care necessary for a comfortable and dignified life. Healthcare professionals, including doctors and nurses, are highly regarded in the Commonwealth and enjoy considerable benefits provided by their health authority. All Vekllei households have an elected doctor, called a General Practitioner, who is their first point of contact with the health system.</p>
+<p>Elective cosmetic surgery is uncommon in Vekllei and hard to receive, so medical tourism is a popular way to receive cosmetic dental treatment and other elective procedures, which occur most commonly in the US or Europe.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -47,25 +48,25 @@
 	  <pubDate>Wed, 01 Mar 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/soldier/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/soldier.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/soldier.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Officer in the Army of the Atlantic Crown.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.&lt;/p&gt;
-&lt;p&gt;General infantrymen still wear conventional fatigues.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.&lt;/p&gt;
-&lt;/blockquote&gt;
-
+	  Officer in the Army of the Atlantic Crown. Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.
+General infantrymen still wear conventional fatigues.
+Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/soldier.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Officer in the Army of the Atlantic Crown.</div>
+</blockquote>
+
+<p>Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.</p>
+<p>General infantrymen still wear conventional fatigues.</p>
+<blockquote>
+<p>Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. This convention gets applied to recent branches too, like the Rocket Navy of the Atlantic Crown.</p>
+</blockquote>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -74,20 +75,18 @@
 	  <pubDate>Tue, 28 Feb 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/mail-revised/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/post.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/post.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&amp;rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/post.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -96,20 +95,18 @@
 	  <pubDate>Sat, 25 Feb 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/caught/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/caught.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/caught.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;They both just agree to pretend they didn&amp;rsquo;t catch each other smoking on the roof.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   They both just agree to pretend they didn&rsquo;t catch each other smoking on the roof. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/caught.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">They both just agree to pretend they didn&rsquo;t catch each other smoking on the roof.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -118,20 +115,18 @@
 	  <pubDate>Fri, 24 Feb 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sand/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/sand.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/sand.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Self portrait &amp;ndash; thinking about how much I hate posting.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Self portrait &ndash; thinking about how much I hate posting. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/sand.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Self portrait &ndash; thinking about how much I hate posting.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -140,20 +135,18 @@
 	  <pubDate>Tue, 31 Jan 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/neko/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/neko.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/neko.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;A drawing for my friend Nubik, featuring his character, Neko.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   A drawing for my friend Nubik, featuring his character, Neko. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/neko.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">A drawing for my friend Nubik, featuring his character, Neko.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -162,20 +155,18 @@
 	  <pubDate>Fri, 27 Jan 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/constable/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/constable.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/constable.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Disclaimer: Tzipora has never worked for/cooperated with the police.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Disclaimer: Tzipora has never worked for/cooperated with the police. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/constable.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Disclaimer: Tzipora has never worked for/cooperated with the police.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -184,20 +175,18 @@
 	  <pubDate>Thu, 26 Jan 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/gold/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/gold.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/gold.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/gold.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -206,20 +195,18 @@
 	  <pubDate>Fri, 06 Jan 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/veranda/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/3.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/3.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Sitting out on the veranda in the sun.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Sitting out on the veranda in the sun. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/3.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Sitting out on the veranda in the sun.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -228,20 +215,18 @@
 	  <pubDate>Sat, 10 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/friend/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/2.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/2.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Trying to figure out what’s going on inside that head of hers.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Trying to figure out what’s going on inside that head of hers. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/2.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Trying to figure out what’s going on inside that head of hers.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -250,20 +235,18 @@
 	  <pubDate>Fri, 09 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/the-look/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/1.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/1.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;The Look.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   The Look. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/1.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">The Look.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -272,20 +255,18 @@
 	  <pubDate>Wed, 30 Nov 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/sleep/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/sleep.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/sleep.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Spiritual sequel to this post. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/sleep.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Spiritual sequel to <a href="/stories/peace/">this post</a>.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -294,20 +275,18 @@
 	  <pubDate>Tue, 29 Nov 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/poof/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/hair.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/hair.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Spiritual sequel to &lt;a href=&#34;https://millmint.net/stories/peace/&#34;&gt;this post&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Spiritual sequel to this post. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/hair.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Spiritual sequel to <a href="/stories/peace/">this post</a>.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -316,27 +295,26 @@
 	  <pubDate>Wed, 09 Nov 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teachers/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/teachers.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/teachers.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;From left: Ms Ninčić, Tzipora, Mr Kowalczyk.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&amp;rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.&lt;/p&gt;
-&lt;p&gt;Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&amp;rsquo;ll need to go on to university. She is very grateful to them.&lt;/p&gt;
-&lt;p&gt;There are rumours Mr Kowalczyk has a crush on Ms Ninčić.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I based Kowalczyk off Steve Gadd, my favourite session drummer of all time, and Ninčić off a woman who sold me a bus ticket in croatia, who had this wild curly hair afro but looked Slavic.
-It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their case, more of a dress code) to students.&lt;/p&gt;
-&lt;/blockquote&gt;
-
+	  From left: Ms Ninčić, Tzipora, Mr Kowalczyk. On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.
+Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&rsquo;ll need to go on to university.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/teachers.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">From left: Ms Ninčić, Tzipora, Mr Kowalczyk.</div>
+</blockquote>
+
+<p>On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.</p>
+<p>Tzipora is a somewhat poor student, but she is well-loved by these teachers, and they go above and beyond in helping Tzipora muster the grades she&rsquo;ll need to go on to university. She is very grateful to them.</p>
+<p>There are rumours Mr Kowalczyk has a crush on Ms Ninčić.</p>
+<blockquote>
+<p>I based Kowalczyk off Steve Gadd, my favourite session drummer of all time, and Ninčić off a woman who sold me a bus ticket in croatia, who had this wild curly hair afro but looked Slavic.
+It&rsquo;s also an example of teachers wearing similar uniforms (in their case, more of a dress code) to students.</p>
+</blockquote>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -345,20 +323,18 @@ It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their ca
 	  <pubDate>Sat, 29 Oct 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/teeshirt/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/teeshirt.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/teeshirt.jpg"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   Long tee shirt, the only shirt she wears out untucked. Good for painting houses in. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/teeshirt.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -367,35 +343,33 @@ It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their ca
 	  <pubDate>Sat, 06 Aug 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/crown/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/civilcrown.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/civilcrown.jpg"/> 
-		  &lt;h2 id=&#34;the-crown&#34;&gt;
-  The Crown
-  &lt;a class=&#34;anchor&#34; href=&#34;#the-crown&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;The &lt;em&gt;crown&lt;/em&gt; depicted here is not the actual crown of the Vekllei Sovereign,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; but in fact the national hat of Vekllei and is part of traditional dress. This &amp;lsquo;crown,&amp;rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#police-of-the-public&#34;&gt;Public Police&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;the-gi&#34;&gt;
-  The Gi
-  &lt;a class=&#34;anchor&#34; href=&#34;#the-gi&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;The &lt;em&gt;gi&lt;/em&gt; is a women&amp;rsquo;s &amp;lsquo;quarter-pleat,&amp;rsquo; and is one of several styles of separated &amp;lsquo;pleats&amp;rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with &lt;a href=&#34;https://millmint.net/utopia/culture/language/#rapotenne&#34;&gt;Rapotenne&lt;/a&gt; runes to communicate familial or spiritual heritage.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;Topet&lt;/a&gt; in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&amp;rsquo;s large immigrant populations and ensuring the gi&amp;rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The sovereign&amp;rsquo;s crown is only metaphysical, and reproduced as three intersecting rings in Vekllei logography.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;Traditional runes and names in Vekllei are considered to have power, and so are used for religious rather than poetric reasons on gi, though this practice has changed with time.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-
+	  The Crown # The crown depicted here is not the actual crown of the Vekllei Sovereign,1 but in fact the national hat of Vekllei and is part of traditional dress. This &lsquo;crown,&rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the Public Police.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/civilcrown.jpg"/> <h2 id="the-crown">
+  The Crown
+  <a class="anchor" href="#the-crown">#</a>
+</h2>
+<p>The <em>crown</em> depicted here is not the actual crown of the Vekllei Sovereign,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> but in fact the national hat of Vekllei and is part of traditional dress. This &lsquo;crown,&rsquo; so-called, is a felt or velvet hat with two peaks and a tall, narrow brim stitched with traditional patterns in gold thread. Historically, the crown was a work hat made of leather and wool, but today it is designed primarily for fashion and comfort, and is most commonly seen at ceremonies, schools and some professions like the <a href="/utopia/society/state/government/interior/defence/#police-of-the-public">Public Police</a>.</p>
+<h2 id="the-gi">
+  The Gi
+  <a class="anchor" href="#the-gi">#</a>
+</h2>
+<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/utopia/culture/language/#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/utopia/culture/language/#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The sovereign&rsquo;s crown is only metaphysical, and reproduced as three intersecting rings in Vekllei logography.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Traditional runes and names in Vekllei are considered to have power, and so are used for religious rather than poetric reasons on gi, though this practice has changed with time.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -404,23 +378,21 @@ It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their ca
 	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/tingles/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/tingles.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/tingles.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/billing-paused-59200270&#34;&gt;November Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Fruit Tingles&lt;/strong&gt; (&lt;em&gt;Fodsa Spas&lt;/em&gt;) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&amp;rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.&lt;/p&gt;
-&lt;p&gt;They&amp;rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.&lt;/p&gt;
-&lt;p&gt;Clockwise: &lt;strong&gt;Hen&lt;/strong&gt;, from Kus (Kala), &lt;strong&gt;Bez&lt;/strong&gt;, from Demon, &lt;strong&gt;Tzipora&lt;/strong&gt;, from Seispri (Vekllei) and &lt;strong&gt;Sydney&lt;/strong&gt;, from Montesur (Kalina).&lt;/p&gt;
-&lt;!--Quita--&gt;
+	  ✿ This image is a website-exclusive sketch produced as a masthead for the November Patreon update. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow here. Fruit Tingles (Fodsa Spas) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/tingles.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/billing-paused-59200270">November Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</div>
+</blockquote>
+
+<p><strong>Fruit Tingles</strong> (<em>Fodsa Spas</em>) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</p>
+<p>They&rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.</p>
+<p>Clockwise: <strong>Hen</strong>, from Kus (Kala), <strong>Bez</strong>, from Demon, <strong>Tzipora</strong>, from Seispri (Vekllei) and <strong>Sydney</strong>, from Montesur (Kalina).</p>
+<!--Quita-->]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -429,20 +401,18 @@ It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their ca
 	  <pubDate>Sat, 23 Oct 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/autumn-love/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/autumnlove.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/autumnlove.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; was produced as part of a series of concept art for merchandise.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   ✿ This image was produced as part of a series of concept art for merchandise. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/autumnlove.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This image</strong> was produced as part of a series of concept art for merchandise.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -451,20 +421,18 @@ It&amp;rsquo;s also an example of teachers wearing similar uniforms (in their ca
 	  <pubDate>Sun, 26 Sep 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/studio-zelda/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sketches/gymslip.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sketches/gymslip.jpg"/> 
-		  &lt;blockquote class=&#34;hint story&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This image&lt;/strong&gt; is a website-exclusive sketch produced as a masthead for the &lt;a href=&#34;https://www.patreon.com/posts/56631873&#34;&gt;september Patreon update&lt;/a&gt;. The typeface in this image is a preview version &amp;ldquo;Nay Aug&amp;rdquo; by Alex Tomlinson, who you can follow &lt;a href=&#34;https://twitter.com/hootalex&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   ✿ This image is a website-exclusive sketch produced as a masthead for the september Patreon update. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow here. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/gymslip.jpg"/> <blockquote class="hint story">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/56631873">september Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

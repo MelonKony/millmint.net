@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>isabeau</title>
 	<link>https://millmint.net/tags/isabeau/</link>
@@ -7,12 +15,6 @@
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Thu, 04 Aug 2022 08:00:00 EST</lastBuildDate>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>isabeau</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/isabeau/index.xml" rel="self" type="application/rss+xml" />
@@ -22,34 +24,32 @@
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/movie/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/movie.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/movie.jpg"/> 
-		  &lt;blockquote class=&#34;hint story&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well. Most people visit a few times a week for films and the news.&lt;/p&gt;
-&lt;p&gt;Like television, the programming depends on the time of day. After school finishes at 2pm, the movies are playing stuff for kids. After the work-day finishes at 4pm, they play normal films and television programmes. 6pm is the news &amp;ndash; Tzipora always tried to catch the news &amp;ndash; usually followed by a documentary. And afterwards came the feature films, which ran late into the night.&lt;/p&gt;
-&lt;p&gt;Tzipora, Moise and Isabeau are finishing pre-movie drinks in the ruins of &lt;a href=&#34;https://millmint.net/utopia/landscape/boroughs/lola/&#34;&gt;Lola&lt;/a&gt;, surrounded by night-shadows and stars. Ruins are common all over Vekllei, but no kids gave much thought to them. To them, the war was already history. This time of year, the moon has been up for hours. A science fiction movie Tzipora has been wanting to see again plays at the &lt;em&gt;Royal&lt;/em&gt; tonight.&lt;/p&gt;
-&lt;p&gt;It was legal to drink as a 16-year-old in Vekllei, but it didn&amp;rsquo;t mean it wasn&amp;rsquo;t a hassle. Just as they do overseas, most Vekllei teenagers drink together in the private corners of public places, away from parents and the local nuisances, the lights of Copetpek glowing beneath them.&lt;/p&gt;
-&lt;details open&gt;
-  &lt;summary&gt;JM&amp;#39;s Submission&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/fanart/jm-1.jpg&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-
+	  ✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below. Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/movie.jpg"/> <blockquote class="hint story">
+  <div class="icon">
+</div> 
+  <div class="text">✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.</div>
+</blockquote>
+
+<p>Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well. Most people visit a few times a week for films and the news.</p>
+<p>Like television, the programming depends on the time of day. After school finishes at 2pm, the movies are playing stuff for kids. After the work-day finishes at 4pm, they play normal films and television programmes. 6pm is the news &ndash; Tzipora always tried to catch the news &ndash; usually followed by a documentary. And afterwards came the feature films, which ran late into the night.</p>
+<p>Tzipora, Moise and Isabeau are finishing pre-movie drinks in the ruins of <a href="/utopia/landscape/boroughs/lola/">Lola</a>, surrounded by night-shadows and stars. Ruins are common all over Vekllei, but no kids gave much thought to them. To them, the war was already history. This time of year, the moon has been up for hours. A science fiction movie Tzipora has been wanting to see again plays at the <em>Royal</em> tonight.</p>
+<p>It was legal to drink as a 16-year-old in Vekllei, but it didn&rsquo;t mean it wasn&rsquo;t a hassle. Just as they do overseas, most Vekllei teenagers drink together in the private corners of public places, away from parents and the local nuisances, the lights of Copetpek glowing beneath them.</p>
+<details open>
+  <summary>JM&#39;s Submission</summary>
+  <div class="markdown-inner">
+    <figure>
+  <img src="/images/fanart/jm-1.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+  </div>
+</details>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

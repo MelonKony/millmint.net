@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Tags</title>
 	<link>https://millmint.net/tags/</link>
 	<description>Recent content in Tags </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Tags</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -21,14 +23,12 @@
 	  <pubDate>Sat, 11 Mar 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2023/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -37,14 +37,12 @@
 	  <pubDate>Sat, 11 Mar 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/sketch/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -53,14 +51,12 @@
 	  <pubDate>Tue, 03 Jan 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/post/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -69,14 +65,12 @@
 	  <pubDate>Sat, 31 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2022/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -85,14 +79,12 @@
 	  <pubDate>Fri, 23 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/ross/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -101,14 +93,12 @@
 	  <pubDate>Tue, 20 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/thoughts/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -117,14 +107,12 @@
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/isabeau/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -133,14 +121,12 @@
 	  <pubDate>Sun, 24 Apr 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/merce/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -149,14 +135,12 @@
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/maya/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -165,14 +149,12 @@
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/penelope/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -181,14 +163,12 @@
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/hitori/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -197,14 +177,12 @@
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/sydney/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -213,14 +191,12 @@
 	  <pubDate>Tue, 11 Jan 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/tzafi/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -229,14 +205,12 @@
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2021/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -245,14 +219,12 @@
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/art-trade/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -261,14 +233,12 @@
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/bez/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -277,14 +247,12 @@
 	  <pubDate>Sat, 18 Dec 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/andre/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -293,14 +261,12 @@
 	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/hen/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -309,14 +275,12 @@
 	  <pubDate>Mon, 01 Nov 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/willy/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -325,14 +289,12 @@
 	  <pubDate>Wed, 30 Jun 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/update/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -341,14 +303,12 @@
 	  <pubDate>Tue, 01 Jun 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/aleph/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -357,14 +317,12 @@
 	  <pubDate>Wed, 30 Dec 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2020/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -373,14 +331,12 @@
 	  <pubDate>Sat, 26 Dec 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/pachinki/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -389,14 +345,12 @@
 	  <pubDate>Sat, 14 Nov 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/guide/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -405,14 +359,12 @@
 	  <pubDate>Thu, 26 Dec 2019 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2019/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -421,14 +373,12 @@
 	  <pubDate>Mon, 31 Dec 2018 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2018/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -437,14 +387,12 @@
 	  <pubDate>Tue, 12 Dec 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/2017/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -453,14 +401,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/about/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -469,14 +415,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/ayn/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -485,14 +429,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/baron/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -501,18 +443,16 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/borough/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;h2 id=&#34;meme&#34;&gt;
-  Meme
-  &lt;a class=&#34;anchor&#34; href=&#34;#meme&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-
+	   Meme # 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <h2 id="meme">
+  Meme
+  <a class="anchor" href="#meme">#</a>
+</h2>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -521,14 +461,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/bulletin/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -537,14 +475,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/cobian/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -553,14 +489,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/comic/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -569,14 +503,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/commissions/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -585,14 +517,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/commonwealth/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -601,14 +531,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/secretariat/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -617,14 +545,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/coretti/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -633,14 +559,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/culture/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -649,14 +573,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/documents/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -665,14 +587,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/dolls/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -681,14 +601,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/essay/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -697,14 +615,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/government/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -713,14 +629,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/index/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -729,14 +643,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/industry/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -745,14 +657,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/ministry/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -761,14 +671,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/landscape/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -777,14 +685,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/license/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -793,14 +699,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/zhi/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -809,14 +713,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/locations/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -825,14 +727,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/moise/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -841,14 +741,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/palace/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -857,14 +755,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/society/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -873,14 +769,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/state/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -889,14 +783,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/states/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -905,14 +797,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/technology/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -921,14 +811,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/tzipora/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -937,14 +825,12 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/tags/utopia/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  
+	  
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

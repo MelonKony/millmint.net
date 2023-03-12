@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Commonwealth Parliament</title>
 	<link>https://millmint.net/utopia/society/state/government/commonwealth/</link>
 	<description>Recent content in Commonwealth Parliament </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Commonwealth Parliament</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/utopia/society/state/government/commonwealth/index.xml" rel="self" type="application/rss+xml" />
@@ -21,121 +23,120 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/commonwealth/education/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ This article is about a secretariat of the &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;Vekllei&lt;/a&gt; &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/&#34;&gt;Commonwealth Parliament&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;section &#34;&gt;
-  &lt;h2 id=&#34;commonwealth-education-secretariat&#34;&gt;
-  Commonwealth Education Secretariat
-  &lt;a class=&#34;anchor&#34; href=&#34;#commonwealth-education-secretariat&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;b class=&#34;boxtag teal&#34;&gt;
-  CHICOM
-&lt;/b&gt;
-&lt;p&gt;The &lt;em&gt;Commonwealth Education Secretariat&lt;/em&gt; (SOLSEC) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the &lt;a href=&#34;https://millmint.net/utopia/society/government/#accreditation-directorate&#34;&gt;COSMOCOM Accreditation Directorate&lt;/a&gt;, CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children&amp;rsquo;s and Tertiary Press.&lt;/p&gt;
-&lt;p&gt;The stated mission of CHICOM is the democratisation and celebration of knowledge and the development of technical skills.&lt;/p&gt;
-&lt;p&gt;CHICOM also oversees Vekllei&amp;rsquo;s four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.&lt;/p&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;vekllei-public-education-directorate&#34;&gt;
-  Vekllei Public Education Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-public-education-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;The &lt;em&gt;Public Education Directorate&lt;/em&gt; oversees all compulsory education across the Commonwealth, including both government and vocational schools.&lt;/p&gt;
-&lt;h4 id=&#34;vekllei-primary-education-directorate&#34;&gt;
-  Vekllei Primary Education Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-primary-education-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;h4 id=&#34;vekllei-higher-education-directorate&#34;&gt;
-  Vekllei Higher Education Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-higher-education-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;h4 id=&#34;all-commonwealth-school-directorate&#34;&gt;
-  All-Commonwealth School Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#all-commonwealth-school-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;All-Commonwealth School Directorate&lt;/em&gt; (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.&lt;/p&gt;
-&lt;h4 id=&#34;common-childrens-press&#34;&gt;
-  Common Children&amp;rsquo;s Press
-  &lt;a class=&#34;anchor&#34; href=&#34;#common-childrens-press&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;h4 id=&#34;common-tertiary-press&#34;&gt;
-  Common Tertiary Press
-  &lt;a class=&#34;anchor&#34; href=&#34;#common-tertiary-press&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;vekllei-national-laboratories&#34;&gt;
-  Vekllei National Laboratories
-  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-national-laboratories&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Vekllei National Laboratories&lt;/em&gt; (also &lt;em&gt;National Labs&lt;/em&gt;) is the administrator of the National Laboratory Complex in Amenmer, Coyenstisn, and the National Laboratory System across Commonwealth-level universities and academies in Vekllei.
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;academy-of-natural-sciences&#34;&gt;
-  Academy of Natural Sciences
-  &lt;a class=&#34;anchor&#34; href=&#34;#academy-of-natural-sciences&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;The &lt;em&gt;Crown Academy of Natural Sciences&lt;/em&gt; is the sovereign (commonwealth-level) academy of natural sciences in the Commonwealth. It functions primarily as a research institute of distinguished academicians and scientific body that advises policy. Headquartered in the Home Islands, it has hundreds of branch institutes across the Commonwealth and in Rome, London and Beijing. These branches are organised along 7 academic divisions, each subdivided into hundreds of individual departments. It is the oldest of the academies, founded by the Crown Sovereign in 1527.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;School of Chemistry&lt;/strong&gt;: Studies of atomic and molecular matter and chemical processes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Medicine&lt;/strong&gt;: Studies of anatomy, physiology and healthcare.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Mathematics and Physics&lt;/strong&gt;: Studies of the constituents of the universe, natural forces, and mathematics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Technology and Materials&lt;/strong&gt;: Studies of matter, its properties, machines and technologies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Astronomy&lt;/strong&gt;: Studies of celestial phenomena.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Geography&lt;/strong&gt;: Studies of geography, geology and oceanography.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Biology&lt;/strong&gt;: Studies of living organisms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;academy-of-engineering-sciences&#34;&gt;
-  Academy of Engineering Sciences
-  &lt;a class=&#34;anchor&#34; href=&#34;#academy-of-engineering-sciences&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;The &lt;em&gt;Crown Academy of Engineering Sciences&lt;/em&gt; is the sovereign (commonwealth-level) academy of engineering in the Commonwealth. Its membership of nearly 1,000 academicians are considered to have made invaluable contributions to engineering sciences, and hold lifelong tenure at the academy. It includes six schools, which conduct research and consultancy with the Commonwealth and Interior Administrations.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;School of Mechanical and Vehicle Engineering&lt;/strong&gt;: Studies of atomic and molecular matter and chemical processes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Electrical Engineering&lt;/strong&gt;: Studies of anatomy, physiology and healthcare.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Chemical Engineering&lt;/strong&gt;: Studies of the constituents of the universe, natural forces, and mathematics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Civil Engineering&lt;/strong&gt;: Studies of matter, its properties, machines and technologies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Agricultural Engineering&lt;/strong&gt;: Studies of celestial phenomena.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;academy-of-philosophy&#34;&gt;
-  Academy of Philosophy
-  &lt;a class=&#34;anchor&#34; href=&#34;#academy-of-philosophy&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;School of Philosophy&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School Sociology&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Theology&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;academy-of-political-sciences&#34;&gt;
-  Academy of Political Sciences
-  &lt;a class=&#34;anchor&#34; href=&#34;#academy-of-political-sciences&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;School of Law&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of Political Economics&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;School of History and Geography&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
+	  ߷ This article is about a secretariat of the Vekllei Commonwealth Parliament Commonwealth Education Secretariat # CHICOM The Commonwealth Education Secretariat (SOLSEC) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the COSMOCOM Accreditation Directorate, CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children&rsquo;s and Tertiary Press.
+The stated mission of CHICOM is the democratisation and celebration of knowledge and the development of technical skills.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about a secretariat of the <a href="/utopia/vekllei/">Vekllei</a> <a href="/utopia/society/state/government/commonwealth/">Commonwealth Parliament</a></div>
+</blockquote>
+
+<div class="section ">
+  <h2 id="commonwealth-education-secretariat">
+  Commonwealth Education Secretariat
+  <a class="anchor" href="#commonwealth-education-secretariat">#</a>
+</h2>
+<b class="boxtag teal">
+  CHICOM
+</b>
+<p>The <em>Commonwealth Education Secretariat</em> (SOLSEC) is the commonwealth body responsible for all state education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the <a href="/utopia/society/government/#accreditation-directorate">COSMOCOM Accreditation Directorate</a>, CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children&rsquo;s and Tertiary Press.</p>
+<p>The stated mission of CHICOM is the democratisation and celebration of knowledge and the development of technical skills.</p>
+<p>CHICOM also oversees Vekllei&rsquo;s four learned societies, called academies, which offer immortal membership to remarkable contributors to learning in Vekllei. The Academies of the Commonwealth are funded by a bureau tithe, mandated but otherwise seperate from Commonwealth government apparatuses.</p>
+<div class="outline ">
+  <h3 id="vekllei-public-education-directorate">
+  Vekllei Public Education Directorate
+  <a class="anchor" href="#vekllei-public-education-directorate">#</a>
+</h3>
+<p>The <em>Public Education Directorate</em> oversees all compulsory education across the Commonwealth, including both government and vocational schools.</p>
+<h4 id="vekllei-primary-education-directorate">
+  Vekllei Primary Education Directorate
+  <a class="anchor" href="#vekllei-primary-education-directorate">#</a>
+</h4>
+<h4 id="vekllei-higher-education-directorate">
+  Vekllei Higher Education Directorate
+  <a class="anchor" href="#vekllei-higher-education-directorate">#</a>
+</h4>
+<h4 id="all-commonwealth-school-directorate">
+  All-Commonwealth School Directorate
+  <a class="anchor" href="#all-commonwealth-school-directorate">#</a>
+</h4>
+<p>The <em>All-Commonwealth School Directorate</em> (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.</p>
+<h4 id="common-childrens-press">
+  Common Children&rsquo;s Press
+  <a class="anchor" href="#common-childrens-press">#</a>
+</h4>
+<h4 id="common-tertiary-press">
+  Common Tertiary Press
+  <a class="anchor" href="#common-tertiary-press">#</a>
+</h4>
+</div>
+<div class="outline ">
+  <h3 id="vekllei-national-laboratories">
+  Vekllei National Laboratories
+  <a class="anchor" href="#vekllei-national-laboratories">#</a>
+</h3>
+<p><em>Vekllei National Laboratories</em> (also <em>National Labs</em>) is the administrator of the National Laboratory Complex in Amenmer, Coyenstisn, and the National Laboratory System across Commonwealth-level universities and academies in Vekllei.
+</div>
+<div class="outline ">
+  <h3 id="academy-of-natural-sciences">
+  Academy of Natural Sciences
+  <a class="anchor" href="#academy-of-natural-sciences">#</a>
+</h3>
+<p>The <em>Crown Academy of Natural Sciences</em> is the sovereign (commonwealth-level) academy of natural sciences in the Commonwealth. It functions primarily as a research institute of distinguished academicians and scientific body that advises policy. Headquartered in the Home Islands, it has hundreds of branch institutes across the Commonwealth and in Rome, London and Beijing. These branches are organised along 7 academic divisions, each subdivided into hundreds of individual departments. It is the oldest of the academies, founded by the Crown Sovereign in 1527.</p>
+<ul>
+<li><strong>School of Chemistry</strong>: Studies of atomic and molecular matter and chemical processes.</li>
+<li><strong>School of Medicine</strong>: Studies of anatomy, physiology and healthcare.</li>
+<li><strong>School of Mathematics and Physics</strong>: Studies of the constituents of the universe, natural forces, and mathematics.</li>
+<li><strong>School of Technology and Materials</strong>: Studies of matter, its properties, machines and technologies.</li>
+<li><strong>School of Astronomy</strong>: Studies of celestial phenomena.</li>
+<li><strong>School of Geography</strong>: Studies of geography, geology and oceanography.</li>
+<li><strong>School of Biology</strong>: Studies of living organisms.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="academy-of-engineering-sciences">
+  Academy of Engineering Sciences
+  <a class="anchor" href="#academy-of-engineering-sciences">#</a>
+</h3>
+<p>The <em>Crown Academy of Engineering Sciences</em> is the sovereign (commonwealth-level) academy of engineering in the Commonwealth. Its membership of nearly 1,000 academicians are considered to have made invaluable contributions to engineering sciences, and hold lifelong tenure at the academy. It includes six schools, which conduct research and consultancy with the Commonwealth and Interior Administrations.</p>
+<ul>
+<li><strong>School of Mechanical and Vehicle Engineering</strong>: Studies of atomic and molecular matter and chemical processes.</li>
+<li><strong>School of Electrical Engineering</strong>: Studies of anatomy, physiology and healthcare.</li>
+<li><strong>School of Chemical Engineering</strong>: Studies of the constituents of the universe, natural forces, and mathematics.</li>
+<li><strong>School of Civil Engineering</strong>: Studies of matter, its properties, machines and technologies.</li>
+<li><strong>School of Agricultural Engineering</strong>: Studies of celestial phenomena.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="academy-of-philosophy">
+  Academy of Philosophy
+  <a class="anchor" href="#academy-of-philosophy">#</a>
+</h3>
+<ul>
+<li><strong>School of Philosophy</strong></li>
+<li><strong>School Sociology</strong></li>
+<li><strong>School of Theology</strong></li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="academy-of-political-sciences">
+  Academy of Political Sciences
+  <a class="anchor" href="#academy-of-political-sciences">#</a>
+</h3>
+<ul>
+<li><strong>School of Law</strong></li>
+<li><strong>School of Political Economics</strong></li>
+<li><strong>School of History and Geography</strong></li>
+</ul>
+</div>
+
+</div>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -144,190 +145,189 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/commonwealth/security/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ This article is about a secretariat of the &lt;a href=&#34;https://millmint.net/utopia/vekllei/&#34;&gt;Vekllei&lt;/a&gt; &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/&#34;&gt;Commonwealth Parliament&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;section &#34;&gt;
-  &lt;h2 id=&#34;overview&#34;&gt;
-  Overview
-  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;b class=&#34;boxtag teal&#34;&gt;
-  OPSEC
-&lt;/b&gt;
-&lt;p&gt;The &lt;em&gt;Commonwealth Security Secretariat&lt;/em&gt; (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. Its constitutional mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/&#34;&gt;Commonwealth Parliament&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;commonwealth-military-command&#34;&gt;
-  Commonwealth Military Command
-  &lt;a class=&#34;anchor&#34; href=&#34;#commonwealth-military-command&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;The &lt;em&gt;Commonwealth Military Command&lt;/em&gt; (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces. While the &lt;a href=&#34;https://millmint.net/utopia/society/state/palace/&#34;&gt;Palace&lt;/a&gt; retains direct command over the armed forces, defence activities are in practice a privilege of the Commonwealth parliaments and so the CMC exists primarily to carry out this arrangement. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a &lt;em&gt;de facto&lt;/em&gt; command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.&lt;/p&gt;
-&lt;p&gt;Commonwealth member-states usually maintain their own &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/&#34;&gt;defence ministries&lt;/a&gt;, and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;General Council&lt;/strong&gt;: CMC administration and parliament liaison.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Department of War&lt;/strong&gt;: All war-related strategic planning and activities, including preparation for operations.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Department of Peacekeeping&lt;/strong&gt;: All activities related to Vekllei peacekeeping and expeditionary operations.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Department of Training &amp;amp; Mobilisation&lt;/strong&gt;: Standardisation of training and mobilisation of troops across the Commonwealth.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Department of Communications&lt;/strong&gt;: Coordination between the parliaments and the Palace, as well as public information.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;national-intelligence-directorate&#34;&gt;
-  National Intelligence Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#national-intelligence-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;span class=&#34;smallicon&#34;&gt;🔎&lt;/span&gt; &lt;a href=&#34;https://millmint.net/espionage/&#34;&gt;Espionage in Vekllei&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The &lt;em&gt;National Intelligence Directorate&lt;/em&gt; (Noshem, or N.I.) is the secret service of the Commonwealth and Vekllei&amp;rsquo;s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.&lt;/p&gt;
-&lt;p&gt;Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.&lt;/p&gt;
-&lt;h4 id=&#34;signals-directorate&#34;&gt;
-  Signals Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#signals-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;National Signals Directorate&lt;/em&gt; is a subordinate branch of N.I. responsible for signals intelligence, as well as protection of state secrets in electronic and radio communications.&lt;/p&gt;
-&lt;h4 id=&#34;home-office-honi&#34;&gt;
-  Home Office (HO/NI)
-  &lt;a class=&#34;anchor&#34; href=&#34;#home-office-honi&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;Home Office&lt;/em&gt; at &lt;em&gt;National Intelligence&lt;/em&gt; (HO/NI) is the domestic intelligence organisation of the Vekllei Commonwealth, including the Home Islands.&lt;/p&gt;
-&lt;p&gt;It includes the following departments.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Section 1 &lt;em&gt;Atlantique&lt;/em&gt;&lt;/strong&gt;: Administration and recruitment.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 2 &lt;em&gt;Bohs&lt;/em&gt;&lt;/strong&gt;: Organisation security and democracy-advocate.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 3 &lt;em&gt;Cosette&lt;/em&gt;&lt;/strong&gt;: Politics and domestic affairs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 4 &lt;em&gt;Devon&lt;/em&gt;&lt;/strong&gt;: Democracy-Advocate command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 5 &lt;em&gt;Eusea&lt;/em&gt;&lt;/strong&gt;: Logistics and training command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 6 &lt;em&gt;Familia&lt;/em&gt;&lt;/strong&gt;: Offices and staff in South Commonwealth Intelligence Theatre.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 7 &lt;em&gt;Gem&lt;/em&gt;&lt;/strong&gt;: Offices and staff in East Commonwealth Intelligence Theatre.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 8 &lt;em&gt;Helette&lt;/em&gt;&lt;/strong&gt;: Offices and staff in West Commonwealth Intelligence Theatre.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 9 &lt;em&gt;Ioviosn&lt;/em&gt;&lt;/strong&gt;: Offices and staff in North Commonwealth Intelligence Theatre and Vekllei Islands.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 10 &lt;em&gt;Jasvere&lt;/em&gt;&lt;/strong&gt;: Offices and staff in the governments of Commonwealth member-states.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 11 &lt;em&gt;Kosmo&lt;/em&gt;&lt;/strong&gt;: Senior reporting body and command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 12 &lt;em&gt;Los&lt;/em&gt;&lt;/strong&gt;: Internal operations command.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;africa-bureau-rbni&#34;&gt;
-  Africa Bureau (RB/NI)
-  &lt;a class=&#34;anchor&#34; href=&#34;#africa-bureau-rbni&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;Africa Bureau&lt;/em&gt; at &lt;em&gt;National Intelligence&lt;/em&gt; (RB/NI) reports information and conducts operations in the African continent. Headquartered in Casablanca, Morocco, RB/NI is particularly concerned with decolonisation and influencing new democratic states under Vekllei&amp;rsquo;s &amp;ldquo;Trade Democracy&amp;rdquo; policy. It also historically seeks to destabilising American and Eastern Bloc influence in the continent, as well as ferment unrest against current colonial governments and the Apartheid regime in South Africa. It includes the following departments.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Section 13 &lt;em&gt;Abosasme&lt;/em&gt;&lt;/strong&gt;: Offices and staff in postcolonial Africa.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 14 &lt;em&gt;Bulga&lt;/em&gt;&lt;/strong&gt;: Offices and staff in colonial Africa.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 15 &lt;em&gt;Cobian&lt;/em&gt;&lt;/strong&gt;: Regional tactical operations command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 16 &lt;em&gt;Domo&lt;/em&gt;&lt;/strong&gt;: Democracy-Advocate command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 17 &lt;em&gt;Ende&lt;/em&gt;&lt;/strong&gt;: Directorate organisation and localisation command.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;americas-bureau-abni&#34;&gt;
-  Americas Bureau (AB/NI)
-  &lt;a class=&#34;anchor&#34; href=&#34;#americas-bureau-abni&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;Americas Bureau&lt;/em&gt; at &lt;em&gt;National Intelligence&lt;/em&gt; (AB/NI) reports information and conducts operations across North and South America, including overseas possessions of the United States and regional claims in the Arctic and Antarctic. AB/NI maintains major offices in Washington D.C. in the U.S., Dallas in Dallas America, and Bogotá in Colombia. It is the largest of the N.I. Bureaus, with nearly a hundred satellite offices across the Americas. Its operations are classified, but are implicated in a variety of work including regime change and guerrilla training. AB/NI also fosters positive relations with the regional neighbours of the Commonwealth, particularly in Mexico, British Belize, Venezuela and Colombia. It includes the following departments.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Section 18 &lt;em&gt;Anatole&lt;/em&gt;&lt;/strong&gt;: Offices and staff in the United States and Canada.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 19 &lt;em&gt;Bosme&lt;/em&gt;&lt;/strong&gt;: Offices and staff in Mexico and Central America.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 20 &lt;em&gt;Célestine&lt;/em&gt;&lt;/strong&gt;: Offices and staff in South America.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 21 &lt;em&gt;Désiré&lt;/em&gt;&lt;/strong&gt;: Regional tactical operations command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 22 &lt;em&gt;Eudea&lt;/em&gt;&lt;/strong&gt;: Regional logistics and training command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 23 &lt;em&gt;François&lt;/em&gt;&lt;/strong&gt;: Antifascist and separatist affairs intelligence command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 24 &lt;em&gt;Gosme&lt;/em&gt;&lt;/strong&gt;: Directorate organisation command.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;euro-bureau-ebni&#34;&gt;
-  Euro Bureau (EB/NI)
-  &lt;a class=&#34;anchor&#34; href=&#34;#euro-bureau-ebni&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;European Bureau&lt;/em&gt; at &lt;em&gt;National Intelligence&lt;/em&gt; (EB/NI) reports information and conducts operations across Europe and Eurasia, particularly in the UK, France, and the Eastern Bloc. It is second-largest of the regional N.I. bureaus, with offices in London, Paris, Prague, Moscow, and Genoa, and dozens more satellite installations throughout Europe. Its intelligence doctrine is particularly defensive, since most foreign espionage in the Commonwealth originates from Western and Communist Europe, and operates special counter-espionage units for this purpose. It includes the following departments.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Section 25 &lt;em&gt;Ana&lt;/em&gt;&lt;/strong&gt;: Offices and staff in Western Europe.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 26 &lt;em&gt;Basa&lt;/em&gt;&lt;/strong&gt;: Offices and staff in Minor Europe.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 27 &lt;em&gt;Cofa&lt;/em&gt;&lt;/strong&gt;: Offices and staff in states signatory to the Treaty of Friendship, Cooperation and Mutual Assistance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 28 &lt;em&gt;Demon&lt;/em&gt;&lt;/strong&gt;: Special counter-espionage command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 29 &lt;em&gt;Eiga&lt;/em&gt;&lt;/strong&gt;: Directorate organisation and localisation command.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;oriental-bureau-obni&#34;&gt;
-  Oriental Bureau (OB/NI)
-  &lt;a class=&#34;anchor&#34; href=&#34;#oriental-bureau-obni&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;Oriental Bureau&lt;/em&gt; at &lt;em&gt;National Intelligence&lt;/em&gt; (OB/NI) reports information and conducts operations across the Orient and West Asia, Vekllei phrases spanning from the Middle East to the Pacific Islands, including South and East Asia. It maintains offices in Tokyo, Peking, Bangkok, Delhi, and Tehran. Without vested strategic interests in the area, OB/NI&amp;rsquo;s primary mission is nation-building and observation in its region and the support of actions in its neighbouring N.I. regions.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Section 30 &lt;em&gt;Asosnia&lt;/em&gt;&lt;/strong&gt;: Offices and staff in Communist China and Taiwan.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 31 &lt;em&gt;Bouismiosn&lt;/em&gt;&lt;/strong&gt;: Offices and staff in Japan and South-East Asia.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 32 &lt;em&gt;Cismi&lt;/em&gt;&lt;/strong&gt;: Offices and staff in India.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 33 &lt;em&gt;Drosviousn&lt;/em&gt;&lt;/strong&gt;: Offices and staff in the Middle East.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 34 &lt;em&gt;Erswin&lt;/em&gt;&lt;/strong&gt;: Directorate organisation and localisation command.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 35 &lt;em&gt;Fennet&lt;/em&gt;&lt;/strong&gt;: Counter-espionage and political command.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;special-protectorate-bureau-spni&#34;&gt;
-  Special Protectorate Bureau (SP/NI)
-  &lt;a class=&#34;anchor&#34; href=&#34;#special-protectorate-bureau-spni&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;Special Protectorate Bureau&lt;/em&gt; at &lt;em&gt;National Intelligence&lt;/em&gt; (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., it serves a different function to &lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/security/#home-office-honi&#34;&gt;HO/NI&lt;/a&gt;, specialising in remote, dangerous and dirty work at the fringes of Vekllei intelligence control.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Section 36 &lt;em&gt;Arcos&lt;/em&gt;&lt;/strong&gt;: Offices and staff assigned to special counterintelligence work.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 37 &lt;em&gt;Boris&lt;/em&gt;&lt;/strong&gt;: Offices and staff assigned to the protection of individuals.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 38 &lt;em&gt;Codesta&lt;/em&gt;&lt;/strong&gt;: Offices and staff in foreign claims and Vekllei Antarctica.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 39 &lt;em&gt;Decrest&lt;/em&gt;&lt;/strong&gt;: Offices and staff in foreign delegations and international waters.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Section 40 &lt;em&gt;Endoria&lt;/em&gt;&lt;/strong&gt;: Offices and staff in Vekllei space and lunar territories.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;public-security-directorate&#34;&gt;
-  Public Security Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#public-security-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;The &lt;em&gt;Public Security Directorate&lt;/em&gt; (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of &lt;a href=&#34;#home-office-honi&#34;&gt;HO/NI&lt;/a&gt;. POSEC is a directorate that primarily services the interests of the public, which distinguishes it from &lt;a href=&#34;#national-intelligence-directorate&#34;&gt;National Intelligence&lt;/a&gt; amd &lt;a href=&#34;#state-security-directorate&#34;&gt;SESEC&lt;/a&gt;. To this end, it coordinates closely with the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence/#police-of-the-parliament&#34;&gt;Police of the Parliament&lt;/a&gt; to conduct operations against terrorism, smuggling, organised crime and civil unrest.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;General Office&lt;/strong&gt;: POSEC administration.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TERSEC Bureau&lt;/strong&gt;: Counterterrorism intelligence and operations.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;POLSEC Bureau&lt;/strong&gt;: Political intelligence and operations.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;VOCSEC Bureau&lt;/strong&gt;: Crime intelligence and operations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;outline &#34;&gt;
-  &lt;h3 id=&#34;state-security-directorate&#34;&gt;
-  State Security Directorate
-  &lt;a class=&#34;anchor&#34; href=&#34;#state-security-directorate&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;The &lt;em&gt;State Security Directorate&lt;/em&gt; (Vosevisi, or SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the &lt;a href=&#34;https://millmint.net/utopia/society/state/government/&#34;&gt;Vekllei Government&lt;/a&gt; and &lt;a href=&#34;https://millmint.net/utopia/society/state/palace/&#34;&gt;Palace&lt;/a&gt;, and controls privileged information of the Vekllei parliaments.&lt;/p&gt;
-&lt;p&gt;SESEC works closely with the &lt;a href=&#34;#home-office-honi&#34;&gt;Home Office of National Intelligence&lt;/a&gt;, the National Intelligence Directorate organ responsible for the internal security of Vekllei&amp;rsquo;s intelligence network. In cases of internal breaches of security, the SESEC acts as investigator and prosecutor. It includes the following departments.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;General Office&lt;/strong&gt;: SESEC administration.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;OPG Bureau&lt;/strong&gt;: Operational guidance section responsible for coordination of SESEC offices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;COMSEC Bureau&lt;/strong&gt;: Management of confidential communications.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DOCSEC Bureau&lt;/strong&gt;: Document archive and imaging intelligence section.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CONSEC Bureau&lt;/strong&gt;: Counterintelligence section seperate from NI.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;INTSEC Bureau&lt;/strong&gt;: Internal security and monitoring of infiltration by domestic and international threats.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;state-secrets-office&#34;&gt;
-  State Secrets Office
-  &lt;a class=&#34;anchor&#34; href=&#34;#state-secrets-office&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;The &lt;em&gt;State Secrets Office&lt;/em&gt; is responsible for the protection of classified information. It maintains a control network of security classifications, and is charged with the location and security of classified documents. It also advises and processes changes to classifications, particularly in the case of state (as opposed to military) intelligence.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1st Control Authority &lt;em&gt;Most Secret&lt;/em&gt;&lt;/strong&gt; &amp;ndash; Information that would gravely damage the Commonwealth.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2nd Control Authority &lt;em&gt;Secret&lt;/em&gt;&lt;/strong&gt; &amp;ndash; Information that would seriously damage the Commonwealth.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3rd Control Authority &lt;em&gt;Confidential&lt;/em&gt;&lt;/strong&gt; &amp;ndash; Information that would damage the Commonwealth.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;4th Control Authority &lt;em&gt;Restrict&lt;/em&gt;&lt;/strong&gt; &amp;ndash; Information of significant danger to individuals or Commonwealth activities.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;5th Control Authority &lt;em&gt;Protect&lt;/em&gt;&lt;/strong&gt; &amp;ndash; Information of danger to individuals or Commonwealth activities.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Base Control Authority &lt;em&gt;Official&lt;/em&gt;&lt;/strong&gt; &amp;ndash; Information privileged to the Commonwealth.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
+	  ߷ This article is about a secretariat of the Vekllei Commonwealth Parliament Overview # OPSEC The Commonwealth Security Secretariat (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. Its constitutional mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the Commonwealth Parliament.
+Commonwealth Military Command # The Commonwealth Military Command (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about a secretariat of the <a href="/utopia/vekllei/">Vekllei</a> <a href="/utopia/society/state/government/commonwealth/">Commonwealth Parliament</a></div>
+</blockquote>
+
+<div class="section ">
+  <h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<b class="boxtag teal">
+  OPSEC
+</b>
+<p>The <em>Commonwealth Security Secretariat</em> (OPSEC) is the mother organisation of the internal and external security organs of the Vekllei government. Its constitutional mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the <a href="/utopia/society/state/government/commonwealth/">Commonwealth Parliament</a>.</p>
+<div class="outline ">
+  <h3 id="commonwealth-military-command">
+  Commonwealth Military Command
+  <a class="anchor" href="#commonwealth-military-command">#</a>
+</h3>
+<p>The <em>Commonwealth Military Command</em> (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces. While the <a href="/utopia/society/state/palace/">Palace</a> retains direct command over the armed forces, defence activities are in practice a privilege of the Commonwealth parliaments and so the CMC exists primarily to carry out this arrangement. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a <em>de facto</em> command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.</p>
+<p>Commonwealth member-states usually maintain their own <a href="/utopia/society/state/government/interior/defence/">defence ministries</a>, and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.</p>
+<ul>
+<li><strong>General Council</strong>: CMC administration and parliament liaison.</li>
+<li><strong>Department of War</strong>: All war-related strategic planning and activities, including preparation for operations.</li>
+<li><strong>Department of Peacekeeping</strong>: All activities related to Vekllei peacekeeping and expeditionary operations.</li>
+<li><strong>Department of Training &amp; Mobilisation</strong>: Standardisation of training and mobilisation of troops across the Commonwealth.</li>
+<li><strong>Department of Communications</strong>: Coordination between the parliaments and the Palace, as well as public information.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="national-intelligence-directorate">
+  National Intelligence Directorate
+  <a class="anchor" href="#national-intelligence-directorate">#</a>
+</h3>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Read more: <span class="smallicon">🔎</span> <a href="/espionage/">Espionage in Vekllei</a></div>
+</blockquote>
+<p>The <em>National Intelligence Directorate</em> (Noshem, or N.I.) is the secret service of the Commonwealth and Vekllei&rsquo;s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.</p>
+<p>Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.</p>
+<h4 id="signals-directorate">
+  Signals Directorate
+  <a class="anchor" href="#signals-directorate">#</a>
+</h4>
+<p>The <em>National Signals Directorate</em> is a subordinate branch of N.I. responsible for signals intelligence, as well as protection of state secrets in electronic and radio communications.</p>
+<h4 id="home-office-honi">
+  Home Office (HO/NI)
+  <a class="anchor" href="#home-office-honi">#</a>
+</h4>
+<p>The <em>Home Office</em> at <em>National Intelligence</em> (HO/NI) is the domestic intelligence organisation of the Vekllei Commonwealth, including the Home Islands.</p>
+<p>It includes the following departments.</p>
+<ul>
+<li><strong>Section 1 <em>Atlantique</em></strong>: Administration and recruitment.</li>
+<li><strong>Section 2 <em>Bohs</em></strong>: Organisation security and democracy-advocate.</li>
+<li><strong>Section 3 <em>Cosette</em></strong>: Politics and domestic affairs.</li>
+<li><strong>Section 4 <em>Devon</em></strong>: Democracy-Advocate command.</li>
+<li><strong>Section 5 <em>Eusea</em></strong>: Logistics and training command.</li>
+<li><strong>Section 6 <em>Familia</em></strong>: Offices and staff in South Commonwealth Intelligence Theatre.</li>
+<li><strong>Section 7 <em>Gem</em></strong>: Offices and staff in East Commonwealth Intelligence Theatre.</li>
+<li><strong>Section 8 <em>Helette</em></strong>: Offices and staff in West Commonwealth Intelligence Theatre.</li>
+<li><strong>Section 9 <em>Ioviosn</em></strong>: Offices and staff in North Commonwealth Intelligence Theatre and Vekllei Islands.</li>
+<li><strong>Section 10 <em>Jasvere</em></strong>: Offices and staff in the governments of Commonwealth member-states.</li>
+<li><strong>Section 11 <em>Kosmo</em></strong>: Senior reporting body and command.</li>
+<li><strong>Section 12 <em>Los</em></strong>: Internal operations command.</li>
+</ul>
+<h4 id="africa-bureau-rbni">
+  Africa Bureau (RB/NI)
+  <a class="anchor" href="#africa-bureau-rbni">#</a>
+</h4>
+<p>The <em>Africa Bureau</em> at <em>National Intelligence</em> (RB/NI) reports information and conducts operations in the African continent. Headquartered in Casablanca, Morocco, RB/NI is particularly concerned with decolonisation and influencing new democratic states under Vekllei&rsquo;s &ldquo;Trade Democracy&rdquo; policy. It also historically seeks to destabilising American and Eastern Bloc influence in the continent, as well as ferment unrest against current colonial governments and the Apartheid regime in South Africa. It includes the following departments.</p>
+<ul>
+<li><strong>Section 13 <em>Abosasme</em></strong>: Offices and staff in postcolonial Africa.</li>
+<li><strong>Section 14 <em>Bulga</em></strong>: Offices and staff in colonial Africa.</li>
+<li><strong>Section 15 <em>Cobian</em></strong>: Regional tactical operations command.</li>
+<li><strong>Section 16 <em>Domo</em></strong>: Democracy-Advocate command.</li>
+<li><strong>Section 17 <em>Ende</em></strong>: Directorate organisation and localisation command.</li>
+</ul>
+<h4 id="americas-bureau-abni">
+  Americas Bureau (AB/NI)
+  <a class="anchor" href="#americas-bureau-abni">#</a>
+</h4>
+<p>The <em>Americas Bureau</em> at <em>National Intelligence</em> (AB/NI) reports information and conducts operations across North and South America, including overseas possessions of the United States and regional claims in the Arctic and Antarctic. AB/NI maintains major offices in Washington D.C. in the U.S., Dallas in Dallas America, and Bogotá in Colombia. It is the largest of the N.I. Bureaus, with nearly a hundred satellite offices across the Americas. Its operations are classified, but are implicated in a variety of work including regime change and guerrilla training. AB/NI also fosters positive relations with the regional neighbours of the Commonwealth, particularly in Mexico, British Belize, Venezuela and Colombia. It includes the following departments.</p>
+<ul>
+<li><strong>Section 18 <em>Anatole</em></strong>: Offices and staff in the United States and Canada.</li>
+<li><strong>Section 19 <em>Bosme</em></strong>: Offices and staff in Mexico and Central America.</li>
+<li><strong>Section 20 <em>Célestine</em></strong>: Offices and staff in South America.</li>
+<li><strong>Section 21 <em>Désiré</em></strong>: Regional tactical operations command.</li>
+<li><strong>Section 22 <em>Eudea</em></strong>: Regional logistics and training command.</li>
+<li><strong>Section 23 <em>François</em></strong>: Antifascist and separatist affairs intelligence command.</li>
+<li><strong>Section 24 <em>Gosme</em></strong>: Directorate organisation command.</li>
+</ul>
+<h4 id="euro-bureau-ebni">
+  Euro Bureau (EB/NI)
+  <a class="anchor" href="#euro-bureau-ebni">#</a>
+</h4>
+<p>The <em>European Bureau</em> at <em>National Intelligence</em> (EB/NI) reports information and conducts operations across Europe and Eurasia, particularly in the UK, France, and the Eastern Bloc. It is second-largest of the regional N.I. bureaus, with offices in London, Paris, Prague, Moscow, and Genoa, and dozens more satellite installations throughout Europe. Its intelligence doctrine is particularly defensive, since most foreign espionage in the Commonwealth originates from Western and Communist Europe, and operates special counter-espionage units for this purpose. It includes the following departments.</p>
+<ul>
+<li><strong>Section 25 <em>Ana</em></strong>: Offices and staff in Western Europe.</li>
+<li><strong>Section 26 <em>Basa</em></strong>: Offices and staff in Minor Europe.</li>
+<li><strong>Section 27 <em>Cofa</em></strong>: Offices and staff in states signatory to the Treaty of Friendship, Cooperation and Mutual Assistance.</li>
+<li><strong>Section 28 <em>Demon</em></strong>: Special counter-espionage command.</li>
+<li><strong>Section 29 <em>Eiga</em></strong>: Directorate organisation and localisation command.</li>
+</ul>
+<h4 id="oriental-bureau-obni">
+  Oriental Bureau (OB/NI)
+  <a class="anchor" href="#oriental-bureau-obni">#</a>
+</h4>
+<p>The <em>Oriental Bureau</em> at <em>National Intelligence</em> (OB/NI) reports information and conducts operations across the Orient and West Asia, Vekllei phrases spanning from the Middle East to the Pacific Islands, including South and East Asia. It maintains offices in Tokyo, Peking, Bangkok, Delhi, and Tehran. Without vested strategic interests in the area, OB/NI&rsquo;s primary mission is nation-building and observation in its region and the support of actions in its neighbouring N.I. regions.</p>
+<ul>
+<li><strong>Section 30 <em>Asosnia</em></strong>: Offices and staff in Communist China and Taiwan.</li>
+<li><strong>Section 31 <em>Bouismiosn</em></strong>: Offices and staff in Japan and South-East Asia.</li>
+<li><strong>Section 32 <em>Cismi</em></strong>: Offices and staff in India.</li>
+<li><strong>Section 33 <em>Drosviousn</em></strong>: Offices and staff in the Middle East.</li>
+<li><strong>Section 34 <em>Erswin</em></strong>: Directorate organisation and localisation command.</li>
+<li><strong>Section 35 <em>Fennet</em></strong>: Counter-espionage and political command.</li>
+</ul>
+<h4 id="special-protectorate-bureau-spni">
+  Special Protectorate Bureau (SP/NI)
+  <a class="anchor" href="#special-protectorate-bureau-spni">#</a>
+</h4>
+<p>The <em>Special Protectorate Bureau</em> at <em>National Intelligence</em> (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., it serves a different function to <a href="/utopia/society/state/government/commonwealth/security/#home-office-honi">HO/NI</a>, specialising in remote, dangerous and dirty work at the fringes of Vekllei intelligence control.</p>
+<ul>
+<li><strong>Section 36 <em>Arcos</em></strong>: Offices and staff assigned to special counterintelligence work.</li>
+<li><strong>Section 37 <em>Boris</em></strong>: Offices and staff assigned to the protection of individuals.</li>
+<li><strong>Section 38 <em>Codesta</em></strong>: Offices and staff in foreign claims and Vekllei Antarctica.</li>
+<li><strong>Section 39 <em>Decrest</em></strong>: Offices and staff in foreign delegations and international waters.</li>
+<li><strong>Section 40 <em>Endoria</em></strong>: Offices and staff in Vekllei space and lunar territories.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="public-security-directorate">
+  Public Security Directorate
+  <a class="anchor" href="#public-security-directorate">#</a>
+</h3>
+<p>The <em>Public Security Directorate</em> (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of <a href="#home-office-honi">HO/NI</a>. POSEC is a directorate that primarily services the interests of the public, which distinguishes it from <a href="#national-intelligence-directorate">National Intelligence</a> amd <a href="#state-security-directorate">SESEC</a>. To this end, it coordinates closely with the <a href="/utopia/society/state/government/interior/defence/#police-of-the-parliament">Police of the Parliament</a> to conduct operations against terrorism, smuggling, organised crime and civil unrest.</p>
+<ul>
+<li><strong>General Office</strong>: POSEC administration.</li>
+<li><strong>TERSEC Bureau</strong>: Counterterrorism intelligence and operations.</li>
+<li><strong>POLSEC Bureau</strong>: Political intelligence and operations.</li>
+<li><strong>VOCSEC Bureau</strong>: Crime intelligence and operations.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="state-security-directorate">
+  State Security Directorate
+  <a class="anchor" href="#state-security-directorate">#</a>
+</h3>
+<p>The <em>State Security Directorate</em> (Vosevisi, or SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the <a href="/utopia/society/state/government/">Vekllei Government</a> and <a href="/utopia/society/state/palace/">Palace</a>, and controls privileged information of the Vekllei parliaments.</p>
+<p>SESEC works closely with the <a href="#home-office-honi">Home Office of National Intelligence</a>, the National Intelligence Directorate organ responsible for the internal security of Vekllei&rsquo;s intelligence network. In cases of internal breaches of security, the SESEC acts as investigator and prosecutor. It includes the following departments.</p>
+<ul>
+<li><strong>General Office</strong>: SESEC administration.</li>
+<li><strong>OPG Bureau</strong>: Operational guidance section responsible for coordination of SESEC offices.</li>
+<li><strong>COMSEC Bureau</strong>: Management of confidential communications.</li>
+<li><strong>DOCSEC Bureau</strong>: Document archive and imaging intelligence section.</li>
+<li><strong>CONSEC Bureau</strong>: Counterintelligence section seperate from NI.</li>
+<li><strong>INTSEC Bureau</strong>: Internal security and monitoring of infiltration by domestic and international threats.</li>
+</ul>
+<h4 id="state-secrets-office">
+  State Secrets Office
+  <a class="anchor" href="#state-secrets-office">#</a>
+</h4>
+<p>The <em>State Secrets Office</em> is responsible for the protection of classified information. It maintains a control network of security classifications, and is charged with the location and security of classified documents. It also advises and processes changes to classifications, particularly in the case of state (as opposed to military) intelligence.</p>
+<ul>
+<li><strong>1st Control Authority <em>Most Secret</em></strong> &ndash; Information that would gravely damage the Commonwealth.</li>
+<li><strong>2nd Control Authority <em>Secret</em></strong> &ndash; Information that would seriously damage the Commonwealth.</li>
+<li><strong>3rd Control Authority <em>Confidential</em></strong> &ndash; Information that would damage the Commonwealth.</li>
+<li><strong>4th Control Authority <em>Restrict</em></strong> &ndash; Information of significant danger to individuals or Commonwealth activities.</li>
+<li><strong>5th Control Authority <em>Protect</em></strong> &ndash; Information of danger to individuals or Commonwealth activities.</li>
+<li><strong>Base Control Authority <em>Official</em></strong> &ndash; Information privileged to the Commonwealth.</li>
+</ul>
+</div>
+
+</div>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

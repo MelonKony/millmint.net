@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>landscape</title>
 	<link>https://millmint.net/tags/landscape/</link>
 	<description>Recent content in landscape </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>landscape</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/landscape/index.xml" rel="self" type="application/rss+xml" />
@@ -21,20 +23,18 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;a href=&#34;https://millmint.net/landscape/&#34;&gt;&lt;strong&gt;/Landscape/&lt;/strong&gt;&lt;/a&gt; documents places and territories of the Vekllei 4th Commonwealth.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   /Landscape/ documents places and territories of the Vekllei 4th Commonwealth. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><a href="/landscape/"><strong>/Landscape/</strong></a> documents places and territories of the Vekllei 4th Commonwealth.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

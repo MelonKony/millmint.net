@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>culture</title>
 	<link>https://millmint.net/tags/culture/</link>
 	<description>Recent content in culture </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>culture</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/culture/index.xml" rel="self" type="application/rss+xml" />
@@ -21,577 +23,575 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/language/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/drawing.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/drawing.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;&lt;strong&gt;Vekllei&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;The language of Vekllei&lt;/strong&gt; is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;
-  Overview
-  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Vekllei language&lt;/strong&gt;, abbreviated to just &lt;strong&gt;Vekllei&lt;/strong&gt;, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.&lt;/p&gt;
-&lt;details open&gt;
-  &lt;summary&gt;Systems of Vekllei Language&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Spoken Vekllei&lt;/strong&gt;, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called &lt;em&gt;Oa&lt;/em&gt; and &lt;em&gt;Loh&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Topet&lt;/strong&gt;, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, &lt;em&gt;Topet&lt;/em&gt; characters can be broken down into repeating components, called &lt;em&gt;Topotte&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rapotenne&lt;/strong&gt;, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Potenne&lt;/strong&gt;, lit. “&lt;em&gt;Hand-Talk&lt;/em&gt;”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upotenne&lt;/strong&gt;, lit. “&lt;em&gt;Spirit-Hand-Talk&lt;/em&gt;”, as the recreation of runes in human form, used limitedly in spiritual ritual.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vekllei Semaphore&lt;/strong&gt; is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in &lt;em&gt;Vekllei Semaphore&lt;/em&gt;, in which full sentences can be formed.&lt;/li&gt;
-&lt;/ol&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h3 id=&#34;introduction&#34;&gt;
-  Introduction
-  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2020-11-14-language/&#34;&gt;How to Speak Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;— Yoshio Nakamura&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and &lt;a href=&#34;https://millmint.net/utopia/culture/language/#spoken-vekllei&#34;&gt;&lt;em&gt;Spoken Vekllei&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;&lt;em&gt;Topet&lt;/em&gt;&lt;/a&gt; are understood universally.&lt;/p&gt;
-&lt;p&gt;
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/language.jpg&#34; alt=&#34;Infographic showing how to speak Vekllei&#34;  title=&#34;An infographic showcasing the Vekllei language, including [Potenne](/utopia/culture/language/#potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*&#34; loading=&#34;lazy&#34; /&gt;
-  &lt;figcaption&gt;An infographic showcasing the Vekllei language, including &lt;a href=&#34;https://millmint.net/utopia/culture/language/#potenne&#34;&gt;Potenne&lt;/a&gt; use. | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2020-11-14-language/&#34;&gt;How to Speak Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Other languages, often called &lt;em&gt;sub-languages&lt;/em&gt;, are informed regionally and have varying literacy across the Home Island. For example, &lt;a href=&#34;https://millmint.net/utopia/culture/language/#upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt; is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&amp;rsquo;s most complex and hermetic language systems.&lt;/p&gt;
-&lt;h3 id=&#34;history&#34;&gt;
-  History
-  &lt;a class=&#34;anchor&#34; href=&#34;#history&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Vekllei&amp;rsquo;s language genealogy can be traced back thousands of years, and is approximated in this timeline for reference throughout this article.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;6000&lt;/strong&gt; BC - &lt;strong&gt;3500&lt;/strong&gt; BC, &lt;strong&gt;Kalaallisut / Kala&lt;/strong&gt;, Proto-&lt;em&gt;Quutetast&lt;/em&gt; extinct Algic language.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3500&lt;/strong&gt; BC - &lt;strong&gt;800&lt;/strong&gt; AD,  &lt;strong&gt;Quutetast&lt;/strong&gt;,  Algic-Aleutian extinct language.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1200&lt;/strong&gt; BC - &lt;strong&gt;900&lt;/strong&gt; AD, &lt;strong&gt;Islandi&lt;/strong&gt;,  Indo-European Scandinavian language.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;900&lt;/strong&gt; AD - &lt;strong&gt;1600&lt;/strong&gt; AD, &lt;strong&gt;Topyas&lt;/strong&gt; (Old Vekllei),  fusion dialect of &lt;em&gt;Islandi&lt;/em&gt; and &lt;em&gt;Quutetast&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1600&lt;/strong&gt; AD - &lt;strong&gt;present&lt;/strong&gt;, &lt;strong&gt;Modern Vekllei&lt;/strong&gt;, evolution of &lt;em&gt;Topyas&lt;/em&gt;. Spoken today.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;spoken-vekllei&#34;&gt;
-  Spoken Vekllei
-  &lt;a class=&#34;anchor&#34; href=&#34;#spoken-vekllei&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Spoken Vekllei&lt;/strong&gt;, simply referred to as Vekllei domestically, is the common spoken language of Vekllei and official language of the country, spoken by some 25 million people worldwide, with 98% of speakers living natively in the Vekllei Home Islands. It is the first spoken language of the vast majority of the population, and has minor variance across the disparate Vekllei Home Islands and other Vekllei possessions. It is rarely spoken outside of Vekllei territories, extant abroad only through emigrant populations and small diasporic communities dispersed after the Atomic War.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Contemporary spoken Vekllei is largely descended from &lt;em&gt;Proto-Islandi&lt;/em&gt; speech that arrived with the first Danish settlers in the country, but includes &lt;em&gt;Kalaallisut&lt;/em&gt; and Proto-Algic reconstructions of an early extinct language called &lt;em&gt;Kala&lt;/em&gt;. Modern spoken Vekllei has heritage in the combined, largely extinct language hybrid of Algic-Aleutian &lt;em&gt;Quutetast&lt;/em&gt; and the Indo-European &lt;em&gt;Islandi,&lt;/em&gt; which by the 9th century had fused into common speech usually called &lt;em&gt;Topyas&lt;/em&gt;, or &amp;lsquo;Old Speech&amp;rsquo;/&amp;lsquo;Old Vekllei&amp;rsquo;. Modern Vekllei has evolved distinctively since the Atomic War as part of broader sociological trends towards informalised speech and cultivated &lt;em&gt;Loh&lt;/em&gt; vocabularies.&lt;/p&gt;
-&lt;h3 id=&#34;twin-glossaries&#34;&gt;
-  Twin Glossaries
-  &lt;a class=&#34;anchor&#34; href=&#34;#twin-glossaries&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Spoken Vekllei draws from two glossaries, called &lt;em&gt;Oa&lt;/em&gt; and &lt;em&gt;Loh&lt;/em&gt;. These glossaries date back to twin reconstructed Algic-Aleutian languages called &lt;em&gt;Quutetast&lt;/em&gt; and &lt;em&gt;Islandi&lt;/em&gt; that had been present in earlier forms since at least 1200BC. The glossaries were formalised in pagan ritual that would become present-day &lt;a href=&#34;https://millmint.net/utopia/vekllei/religion&#34;&gt;&lt;em&gt;Upen&lt;/em&gt;&lt;/a&gt;, and later recognised as the official language of the country in the reformation initiated by Queen Souisviasn in the 3rd century.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h5 id=&#34;oa-lit-sun&#34;&gt;
-  Oa (&lt;em&gt;lit.&lt;/em&gt; Sun)
-  &lt;a class=&#34;anchor&#34; href=&#34;#oa-lit-sun&#34;&gt;#&lt;/a&gt;
-&lt;/h5&gt;
-&lt;em&gt;Oa&lt;/em&gt; is considered to have &amp;lsquo;permanent&amp;rsquo; traits. It is often characterised abroad as a positive glossary, though this is not true &amp;ndash; it is in fact dedicated to inanimate and unliving organs. Although Vekllei does not gender nouns, this glossary is often gendered conceptually as masculine, and is most commonly associated with Summer and Spring. Despite its long history, Vekllei as an island is itself understood to be female &amp;ndash; mostly because its volcanic landscape, which straddles two drifting continental plates, is constantly changing.&lt;/li&gt;
-&lt;li&gt;
-&lt;h5 id=&#34;loh-lit-moon&#34;&gt;
-  Loh (&lt;em&gt;lit.&lt;/em&gt; Moon)
-  &lt;a class=&#34;anchor&#34; href=&#34;#loh-lit-moon&#34;&gt;#&lt;/a&gt;
-&lt;/h5&gt;
-&lt;em&gt;Loh&lt;/em&gt; is considered to have &amp;lsquo;cyclical&amp;rsquo; traits. Loh words are largely derived from Old Vekllei (including &lt;em&gt;Icelandic/Islandi&lt;/em&gt;), and so its glossary is considerably less defined and dependent on older linguistic artefacts. &lt;em&gt;Loh&lt;/em&gt; words incorporate sounds and grammatical artefacts from extinct languages within Vekllei&amp;rsquo;s ancient history, and so it is often associated with traditional or formal speech. It is commonly gendered as feminine, and is associated with winter and autumn.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In modernity, this binary produces bizarre psycholinguistic quirks. For example, a sailing vessel (&lt;em&gt;Siv&lt;/em&gt;) is derived from the &lt;em&gt;Oa&lt;/em&gt;, historically because the &lt;em&gt;Oa&lt;/em&gt; glossary was favoured for machines between the 10th and 16th Centuries. This genders all modern oceangoing vessels as male figures to this day, and due to &lt;em&gt;Siv&lt;/em&gt;&amp;rsquo;s linguistic derivatives, ties ships permanently to the lumber and woodlands critical to wooden shipbuilding. From the 20th century onwards, however, most vehicles are regarded impermanent through &lt;em&gt;Loh&lt;/em&gt;, and so all cars in Vekllei are conceptually female.&lt;/p&gt;
-&lt;h3 id=&#34;phonology&#34;&gt;
-  Phonology
-  &lt;a class=&#34;anchor&#34; href=&#34;#phonology&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Spoken Vekllei is phonologically homogenous, and has little variation in accent or pronunciation across the Home Island or its various possessions, although there is some evidence for differences in dialect between cultivated speech on the coast and rural phonology in the interior of the Home Islands.&lt;/p&gt;
-&lt;h4 id=&#34;monophthongs&#34;&gt;
-  Monophthongs
-  &lt;a class=&#34;anchor&#34; href=&#34;#monophthongs&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses vary across cultivated and common Vekllei dialects.&lt;/p&gt;
-&lt;details open&gt;
-  &lt;summary&gt;Pure Vowels&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Front&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Central&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Back&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Short&lt;/td&gt;
-&lt;td&gt;Long&lt;/td&gt;
-&lt;td&gt;Long (round)&lt;/td&gt;
-&lt;td&gt;Short&lt;/td&gt;
-&lt;td&gt;Long&lt;/td&gt;
-&lt;td&gt;Short&lt;/td&gt;
-&lt;td&gt;Long&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Close&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;ɪ&lt;/td&gt;
-&lt;td&gt;iː&lt;/td&gt;
-&lt;td&gt;y&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;ʉː&lt;/td&gt;
-&lt;td&gt;ʊ&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Close-Mid&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;ø&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Mid&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;e&lt;/td&gt;
-&lt;td&gt;eː&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;ə&lt;/td&gt;
-&lt;td&gt;ɜː&lt;/td&gt;
-&lt;td&gt;ɔ&lt;/td&gt;
-&lt;td&gt;oː&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Open-Mid&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;œ&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Open&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;æ&lt;/td&gt;
-&lt;td&gt;(æː)&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;ɐ&lt;/td&gt;
-&lt;td&gt;ɐː&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h4 id=&#34;diphthongs&#34;&gt;
-  Diphthongs
-  &lt;a class=&#34;anchor&#34; href=&#34;#diphthongs&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. &lt;em&gt;Oa&lt;/em&gt; typically favours modernised post-&lt;em&gt;Quutetast&lt;/em&gt; glides for its so-called &lt;em&gt;Ocean Vowels&lt;/em&gt;, which are generally long and unrounded. &lt;em&gt;Loh&lt;/em&gt; words are typically older and depicted pictographically, and are pronounced as &lt;em&gt;Floral Vowels&lt;/em&gt;. The tables below list their pronunciation.&lt;/p&gt;
-&lt;details open&gt;
-  &lt;summary&gt;Diphthongs&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;h5 id=&#34;ocean-vowels&#34;&gt;
-  Ocean Vowels
-  &lt;a class=&#34;anchor&#34; href=&#34;#ocean-vowels&#34;&gt;#&lt;/a&gt;
-&lt;/h5&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Vowel&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;æɪ, ɑɪ, oɪ, æɔ, əʉ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Centering&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;ɪə&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h5 id=&#34;floral-vowel&#34;&gt;
-  Floral Vowel
-  &lt;a class=&#34;anchor&#34; href=&#34;#floral-vowel&#34;&gt;#&lt;/a&gt;
-&lt;/h5&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Vowel&lt;/th&gt;
-&lt;th&gt;Onset glide&lt;/th&gt;
-&lt;th&gt;Onset glide&lt;/th&gt;
-&lt;th&gt;Onset glide&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Vowel&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;/j/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;/ɥ/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;/w/&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/a/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/ja/&lt;/td&gt;
-&lt;td&gt;/ɥa/&lt;/td&gt;
-&lt;td&gt;/wa/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ɑ/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jɑ/&lt;/td&gt;
-&lt;td&gt;/ɥɑ/&lt;/td&gt;
-&lt;td&gt;/wɑ/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ɑ̃/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jɑ̃/&lt;/td&gt;
-&lt;td&gt;/ɥɑ̃/&lt;/td&gt;
-&lt;td&gt;/wɑ̃/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/e/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/je/&lt;/td&gt;
-&lt;td&gt;/ɥe/&lt;/td&gt;
-&lt;td&gt;/we/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ɛ/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jɛ/&lt;/td&gt;
-&lt;td&gt;/ɥɛ/&lt;/td&gt;
-&lt;td&gt;/wɛ/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ɛ̃/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jɛ̃/&lt;/td&gt;
-&lt;td&gt;/ɥɛ̃/&lt;/td&gt;
-&lt;td&gt;/wɛ̃/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/i/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/ji/&lt;/td&gt;
-&lt;td&gt;/ɥi/&lt;/td&gt;
-&lt;td&gt;/wi/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/o/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jo/&lt;/td&gt;
-&lt;td&gt;/ɥo/&lt;/td&gt;
-&lt;td&gt;/wo/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ɔ/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jɔ/&lt;/td&gt;
-&lt;td&gt;/ɥɔ/&lt;/td&gt;
-&lt;td&gt;/wɔ/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ɔ̃/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jɔ̃/&lt;/td&gt;
-&lt;td&gt;/ɥɔ̃/&lt;/td&gt;
-&lt;td&gt;/wɔ̃/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/ø/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jø/&lt;/td&gt;
-&lt;td&gt;/ɥø/&lt;/td&gt;
-&lt;td&gt;/wø/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/œ/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jœ/&lt;/td&gt;
-&lt;td&gt;/ɥœ/&lt;/td&gt;
-&lt;td&gt;/wœ/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/u/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/ju/&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;/y/&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;/jy/&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h4 id=&#34;consonants&#34;&gt;
-  Consonants
-  &lt;a class=&#34;anchor&#34; href=&#34;#consonants&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;In Vekllei, consonants are arranged in five places of primary articulation.&lt;/p&gt;
-&lt;details open&gt;
-  &lt;summary&gt;Consonants&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Labial&lt;/th&gt;
-&lt;th&gt;Alveolar&lt;/th&gt;
-&lt;th&gt;Palatal&lt;/th&gt;
-&lt;th&gt;Velar&lt;/th&gt;
-&lt;th&gt;Uvular&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Voiceless stop&lt;/td&gt;
-&lt;td&gt;p /p/&lt;/td&gt;
-&lt;td&gt;t /t/&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;k /k/&lt;/td&gt;
-&lt;td&gt;q /q/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Voiceless fricative&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;s /s/ł /ɬ/(h /h/)&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Voiced&lt;/td&gt;
-&lt;td&gt;v /v/&lt;/td&gt;
-&lt;td&gt;l /l/&lt;/td&gt;
-&lt;td&gt;j /j/(j, r̂  /ɟ/)&lt;/td&gt;
-&lt;td&gt;g /ɡ/&lt;/td&gt;
-&lt;td&gt;r /ʁ/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nasal&lt;/td&gt;
-&lt;td&gt;m /m/&lt;/td&gt;
-&lt;td&gt;n /n/&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;ng /ŋ/&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;topet&#34;&gt;
-  Topet
-  &lt;a class=&#34;anchor&#34; href=&#34;#topet&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Topet&lt;/strong&gt;, sometimes called &lt;em&gt;Vekllei Script&lt;/em&gt; or &lt;em&gt;Vekllei hieroglyphs&lt;/em&gt; is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components, and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in &lt;em&gt;Islandi&lt;/em&gt;-era Vekllei since at least the 8th Century BC, by the time &lt;em&gt;Quutetast&lt;/em&gt; influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into proto-&lt;em&gt;Topet&lt;/em&gt;, called &lt;em&gt;Hieyeric&lt;/em&gt;. In Vekllei, &lt;em&gt;Topet&lt;/em&gt; is the national language alongside its sister-form, &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/culture/language/#rapotenne&#34;&gt;Rapotenne&lt;/a&gt;&lt;/em&gt; and &lt;a href=&#34;https://millmint.net/utopia/culture/language/#spoken-vekllei&#34;&gt;&lt;em&gt;Spoken Vekllei&lt;/em&gt;&lt;/a&gt;. Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Individual &lt;em&gt;Topet&lt;/em&gt; characters are both phonograms and semagrams, and so they support multiple readings. Many are basically figurative, and represent conceptually what they depict. Each character conforms to an abugida-type system, in which consonant-vowel pairings are written in joined notation. In &lt;em&gt;Topet&lt;/em&gt;, the consonant anchors the pairing, which is called &lt;em&gt;Lohtopet&lt;/em&gt;, and vowel notation is usually raised in superscript, called &lt;em&gt;Oatopet&lt;/em&gt;. These names are not related to the binary glossary, but do represent the upper/lower system those glossaries imply. &amp;ldquo;Oa&amp;rdquo; means &lt;em&gt;affirmative&lt;/em&gt; in Vekllei, and &lt;em&gt;Loh&lt;/em&gt; is a negating form, so their use is widespread beyond the binary glossary system.&lt;/p&gt;
-&lt;h3 id=&#34;phonetic-reading&#34;&gt;
-  Phonetic Reading
-  &lt;a class=&#34;anchor&#34; href=&#34;#phonetic-reading&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Anchoring consonant-vowel characters (&lt;em&gt;demioette&lt;/em&gt;, as opposed to double-vowels or vowel-consonants, called &lt;em&gt;hieyerette&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;) written in Topet may feature redundant adjacent characters called &lt;em&gt;phonetic complements&lt;/em&gt;, which, in a non-determinative reading, are pronounced the same way to guide the reader. This lends to a system that encourages adjacent duplicate consonant-vowel pairings in some aspects, since Vekllei words are already formed out of neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, &lt;em&gt;comoyia&lt;/em&gt;, can thus sometimes be transliterated into c-c-c&lt;sup&gt;o&lt;/sup&gt;m-m&lt;sup&gt;o&lt;/sup&gt;y&lt;sup&gt;ia&lt;/sup&gt;, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.&lt;/p&gt;
-&lt;p&gt;In the above case, &lt;em&gt;comoyia&lt;/em&gt; can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &amp;lsquo;spelling&amp;rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also &lt;em&gt;comoyia&lt;/em&gt;, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c&lt;sup&gt;o&lt;/sup&gt;m&lt;sup&gt;o&lt;/sup&gt;y&lt;sup&gt;ia&lt;/sup&gt;. In spoken Vekllei, this distinction is only communicable through the aid of &lt;a href=&#34;https://millmint.net/utopia/culture/language/#potenne&#34;&gt;&lt;em&gt;Potenne&lt;/em&gt;&lt;/a&gt;, and represents one of its primary uses.&lt;/p&gt;
-&lt;h3 id=&#34;semantic-reading&#34;&gt;
-  Semantic Reading
-  &lt;a class=&#34;anchor&#34; href=&#34;#semantic-reading&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Many &lt;em&gt;Topet&lt;/em&gt; characters are figurative; they represent their meanings pictographically, like Egyptian &lt;em&gt;Hieroglyphs&lt;/em&gt; or Chinese &lt;em&gt;Hanzi&lt;/em&gt;. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a &lt;em&gt;transcendental&lt;/em&gt;, rather than &lt;em&gt;literal&lt;/em&gt; system. Although &lt;em&gt;Topet&lt;/em&gt;&amp;rsquo;s early form, &lt;em&gt;Hieyeric&lt;/em&gt;, was explicitly pictographic, modern &lt;em&gt;Topet&lt;/em&gt; is often abstracted and decoupled from its figurative meaning via the phonetic system.&lt;/p&gt;
-&lt;p&gt;Despite common use of the phonetic system in modernity, the semantic readings of characters are taught and essential for literacy beyond literal imitation of speech. For the vast majority of &lt;em&gt;Topet&lt;/em&gt; characters, their logographic meaning determines their pronunciation, and consonant characters especially depend on this meaning to form words. The word for breakfast is &lt;em&gt;petimourgeneur&lt;/em&gt;, but it cannot be written with random literal phonetic characters; parts of the word depend on the figurative meaning of certain components, and so without its semantic traits the word would be illegible to most people. This represents a wider co-dependency on simultaneous phonetic and semantic readings of words, with the importance of each fluctuating depending on the word in question. Older words tend to be heavily figurative, whereas modern and loan words are often more phonetic. This inconsistency is part of the difficulty in learning &lt;em&gt;Topet&lt;/em&gt;, and leaves many immigrants fluent in speech but inadequately literate in reading and writing.&lt;/p&gt;
-&lt;h3 id=&#34;structure&#34;&gt;
-  Structure
-  &lt;a class=&#34;anchor&#34; href=&#34;#structure&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ Read more: &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-05-31-topet/&#34;&gt;How to Read Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Individual &lt;em&gt;Topet&lt;/em&gt; characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its &lt;em&gt;hieyerette&lt;/em&gt; characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one &lt;em&gt;demioette&lt;/em&gt; character is vocalised, called the &lt;em&gt;principle&lt;/em&gt;, and the &lt;em&gt;hieyerette&lt;/em&gt; characters are simply not written.&lt;/p&gt;
-&lt;p&gt;
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/topet.jpg&#34; alt=&#34;Infographic showing Vekllei scripts&#34;  title=&#34;An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/culture/language/#topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*&#34; loading=&#34;lazy&#34; /&gt;
-  &lt;figcaption&gt;An infographic summarising the appearance of Vekllei scripts, including &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;&lt;em&gt;Topet&lt;/em&gt;&lt;/a&gt;. | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-05-31-topet/&#34;&gt;How to Read Vekllei&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;These character groups are called &lt;em&gt;Minor Demons&lt;/em&gt;, or &lt;em&gt;pettidemion,&lt;/em&gt; and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern &lt;em&gt;Topet&lt;/em&gt;, are arranged in a quadrant with the principle arranged in the top left.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Minor Demons&lt;/em&gt; are the foundations of &lt;em&gt;Topet&lt;/em&gt; script, since they can be written phonetically or as pictographs. This also contributes to &lt;em&gt;Topet&lt;/em&gt;&amp;rsquo;s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.&lt;/p&gt;
-&lt;h2 id=&#34;rapotenne&#34;&gt;
-  Rapotenne
-  &lt;a class=&#34;anchor&#34; href=&#34;#rapotenne&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Rapotenne&lt;/strong&gt; (&lt;em&gt;lit. &amp;ldquo;Name-Talk&amp;rdquo;&lt;/em&gt;) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Today, it is most often employed as an extant language of magical staves, but is closely aligned phonologically and ethnographically with &lt;em&gt;Upotenne&lt;/em&gt;, the physical language of rune-forms and sigils.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Contemporary &lt;em&gt;Rapotenne&lt;/em&gt; is informed by pictographic proto-&lt;em&gt;Topet&lt;/em&gt; runes as well as elements of the extinct &lt;em&gt;Kala&lt;/em&gt; language, and subsequently &lt;em&gt;Quutetast&lt;/em&gt; Algic artefacts. Because &lt;em&gt;Kala&lt;/em&gt; is extinct and &lt;em&gt;Quutetast&lt;/em&gt; is a dead language, largely displaced by modern spoken Vekllei, &lt;em&gt;Rapotenne&lt;/em&gt; is unique among Vekllei&amp;rsquo;s sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and Blood Names.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Rapotenne&lt;/em&gt; has its origins in superstitious &lt;em&gt;Islandi&lt;/em&gt; magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. &lt;em&gt;Rapotenne&lt;/em&gt; today mostly employs older &lt;a href=&#34;https://millmint.net/utopia/culture/language/#diphthongs&#34;&gt;Floral Vowels&lt;/a&gt;, which themselves are likely evolutions of proto-&lt;em&gt;Quutetast&lt;/em&gt; pronunciation associated with &lt;em&gt;Kala&lt;/em&gt;. Rapotenne characters, also called &lt;em&gt;Rapotenne&lt;/em&gt;, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out &lt;a href=&#34;https://millmint.net/utopia/culture/language/#upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt; signs, which is functionally adjacent to &lt;em&gt;Rapotenne&lt;/em&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;practice&#34;&gt;
-  Practice
-  &lt;a class=&#34;anchor&#34; href=&#34;#practice&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Rapotenne&lt;/em&gt; consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in &lt;em&gt;Rapotenne&lt;/em&gt;. The shape and stroke order of characters determines the physicality of &lt;a href=&#34;https://millmint.net/utopia/culture/language/#upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt;, as their function within ritual is more or less the same. Although simplistic and literally figurative, &lt;em&gt;Rapotenne&lt;/em&gt; is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.&lt;/p&gt;
-&lt;h2 id=&#34;potenne&#34;&gt;
-  Potenne
-  &lt;a class=&#34;anchor&#34; href=&#34;#potenne&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;Try Potenne yourself!&lt;/strong&gt; Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You&amp;rsquo;ve just said &amp;ldquo;good to see you again.&amp;rdquo;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Potenne&lt;/strong&gt; (&lt;em&gt;lit. &amp;ldquo;Hand-Talk&amp;rdquo;&lt;/em&gt;) is an indigenous auxiliary sign language in Vekllei used commonly today as an aid or substitute for vocalised speech. It was originally a form of &lt;em&gt;avoidance speech&lt;/em&gt; that arose in response to social taboos in &lt;em&gt;&lt;a href=&#34;https://millmint.net/utopia/vekllei/religion.md&#34;&gt;Upen&lt;/a&gt;&lt;/em&gt;, but acquired broader use by the 16th century and is employed commonly today part of many conventions and customs within the Home Islands. &lt;em&gt;Potenne&lt;/em&gt; is also used by hearing-disabled persons in Vekllei to communicate.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Historic social taboos in Vekllei&amp;rsquo;s dominant religion, Upen, prevented speech between people for a variety of reasons, including for marital, interfamilial, penal and ascetic considerations. &lt;em&gt;Potenne&lt;/em&gt; first arose to avoid these taboos. During the first substantial immigration of Inuit-Kalaallisut peoples in the 4th century BC, proto-&lt;em&gt;Potenne&lt;/em&gt; avoidance languages developed pragmatic pidgin forms to allow for trade and communication between settlers and the original Islandi population. This rapid expansion in use saw &lt;em&gt;Potenne&lt;/em&gt; develop solidified cultural tenants, including phonologically distinct suprasegmental components like &lt;em&gt;biouspotenne&lt;/em&gt; (&lt;em&gt;lit. &amp;ldquo;Face-Talk&amp;rdquo;&lt;/em&gt;), which distinguishes facial expression from gestures in poetic, transcendental forms, and &lt;em&gt;kiouyapotenne&lt;/em&gt; (&lt;em&gt;lit. &amp;ldquo;Child-Talk&amp;rdquo;&lt;/em&gt;), which uses facial expressions to teach children individual signs.&lt;/p&gt;
-&lt;p&gt;By the 11th Century, &lt;em&gt;Potenne&lt;/em&gt; was documented alongside other critical languages like &lt;em&gt;Topet&lt;/em&gt;, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including &lt;a href=&#34;https://millmint.net/utopia/culture/language/#upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt;, today considered an independent language system within Vekllei&amp;rsquo;s varied linguistic cultures.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Potenne&lt;/em&gt; is used today as a casual substitute for simple speech and to communicate figurative meanings of words in &lt;em&gt;Topet&lt;/em&gt; otherwise uncommunicable in conventional speech.&lt;/p&gt;
-&lt;h3 id=&#34;phonology-1&#34;&gt;
-  Phonology
-  &lt;a class=&#34;anchor&#34; href=&#34;#phonology-1&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;It is important to remember that &lt;em&gt;Potenne&lt;/em&gt; is not simply a reproduction of ordinary speech in physical form; it is a language that assists the spoken word. Many Vekllei words can be simplified by incorporating &lt;em&gt;Potenne&lt;/em&gt;, which better mimics nonverbal components of &lt;em&gt;Topet&lt;/em&gt; and helps provide emotion and context to otherwise ambiguous phrases. In other cases, it replaces speech entirely, often in quiet areas or out of respect in public transit. In this sense, &lt;em&gt;Potenne&lt;/em&gt; retains a handful of the characteristics inherited from its origins as an avoidance language, but remains distinct from both spoken Vekllei and &lt;em&gt;Topet&lt;/em&gt; in its capacity to link and colour both.&lt;/p&gt;
-&lt;h4 id=&#34;location&#34;&gt;
-  Location
-  &lt;a class=&#34;anchor&#34; href=&#34;#location&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;Most &lt;em&gt;Potenne&lt;/em&gt; is acted out just below the chest, in a casual resting position. Positional and place-based signs are performed at the right shoulder, and emotion is often acted out at or just below the chin. Regional traits and dialects are common, and &lt;em&gt;Potenne&lt;/em&gt; is perhaps Vekllei&amp;rsquo;s most provincial and least documented language.&lt;/p&gt;
-&lt;h4 id=&#34;movement&#34;&gt;
-  Movement
-  &lt;a class=&#34;anchor&#34; href=&#34;#movement&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;Upen signs are generally simple, and practiced quickly and casually. The direction of the fore and ring fingers generally indicate subject, and the position of the thumb indicates tone — an outstretched thumb is casual whereas a thumb tucked inwards appears formal. Common words use simple, single-handed signs, but complete sentences and more complex words almost always require the use of both hands.&lt;/p&gt;
-&lt;h4 id=&#34;orientation&#34;&gt;
-  Orientation
-  &lt;a class=&#34;anchor&#34; href=&#34;#orientation&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;Communication in the your own voice is performed with the hand held horizontally with few exceptions. Quoting speech and reading is most often spoken with the hand held vertically, although this varies between dialects. Various orientations incorporate meaning, including casual affirmation and some emotions.&lt;/p&gt;
-&lt;h4 id=&#34;handshape&#34;&gt;
-  Handshape
-  &lt;a class=&#34;anchor&#34; href=&#34;#handshape&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;Most signs are communicated with an open palm, although fists, hooked fingers, clenched fingers and relaxation of fingers are also used in various ways. Most common &lt;em&gt;Potenne&lt;/em&gt; words are characterised by their informal, almost lazy composition, and so handshape is particularly gestural, often dependent on vocalised context to be legible. It can be difficult to determine within &lt;em&gt;Potenne&lt;/em&gt; a clear distinction between non-linguistic gestural communication and its formalised language system, and so the emotiveness and context of its signs are critical to literacy in Vekllei.&lt;/p&gt;
-&lt;h2 id=&#34;upotenne&#34;&gt;
-  Upotenne
-  &lt;a class=&#34;anchor&#34; href=&#34;#upotenne&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Upotenne&lt;/strong&gt; (&lt;em&gt;lit. &amp;ldquo;Spirit-Hand-Talk&amp;rdquo;&lt;/em&gt;) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to &lt;em&gt;Potenne&lt;/em&gt;, &lt;em&gt;Upotenne&lt;/em&gt; is more closely historically aligned with &lt;em&gt;Rapotenne&lt;/em&gt; than modern Vekllei.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Much as &lt;em&gt;Potenne&lt;/em&gt; combines semantic and verbal forms to enhance communication, &lt;em&gt;Upen&lt;/em&gt; appropriates the older pictographic &lt;a href=&#34;https://millmint.net/utopia/culture/language/#rapotenne&#34;&gt;&lt;em&gt;Rapotenne&lt;/em&gt;&lt;/a&gt; script to aid spiritual ritual and &lt;em&gt;demiosnjarnkah&lt;/em&gt; (&lt;em&gt;lit. &amp;ldquo;Old Arts&amp;rdquo;&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;). Although few Vekllei people are completely literate in it, &lt;em&gt;Upotenne&lt;/em&gt; remains a cultural force throughout society and is used commonly in ritual around the Home Islands.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Upotenne&lt;/em&gt; is characterised as a sign language in keeping with the traditions in &lt;em&gt;Potenne&lt;/em&gt;, but also incorporates complex cultural artefacts unique to &lt;em&gt;Upen&lt;/em&gt; within its symbolism as a language. It codifies the human form and reproduces it in a spiritual manner, assigning importance and symbolism to parts of the human body ignored by the secular &lt;em&gt;Potenne&lt;/em&gt;. Where much of the communication in &lt;em&gt;Potenne&lt;/em&gt; is dependent on hand-based signs and gestures, &lt;em&gt;Upotenne&lt;/em&gt; is mostly positional, using joints and angles to imitate rune-forms. These type and imitation of rune-forms vary greatly between different parts of Vekllei society, since literacy is dependent on landscape; rural persons will most likely recognise and communicate runes that benefit harvest and weather, where urban persons are more likely to participate in ceremonies to benefit employment or love.&lt;/p&gt;
-&lt;p&gt;This multidimensionality means that &lt;em&gt;Upotenne&lt;/em&gt; is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite &lt;em&gt;Upotenne&lt;/em&gt;&amp;rsquo;s capacity as a language, it is largely displaced by its use as a spiritual adjacent to &lt;em&gt;Potenne&lt;/em&gt; in modern society, leaving only &lt;em&gt;Upen&lt;/em&gt; priests and disciples fluent in one of Vekllei&amp;rsquo;s oldest cultural traditions.&lt;/p&gt;
-&lt;h2 id=&#34;vekllei-semaphore&#34;&gt;
-  Vekllei Semaphore
-  &lt;a class=&#34;anchor&#34; href=&#34;#vekllei-semaphore&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Vekllei lo da Myaiouisvah&lt;/strong&gt; (&lt;em&gt;lit. &amp;ldquo;Vekllei-Flag-System&amp;rdquo;&lt;/em&gt;) is the sixth and most unusual of the Vekllei sublanguages. It relies heavily on colour and form, and is largely abstracted from its subject matter. In this sense, &lt;em&gt;Vekllei Semaphore&lt;/em&gt; can be considered to be &lt;em&gt;asemic&lt;/em&gt;, since it has no material semantic meaning and is entirely illegible without instruction.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is most commonly used to enhance &lt;em&gt;Topet&lt;/em&gt; and communicate in public spaces, through stationary, flags, banners, painted lines, stylised infrastructure and clothing as shorthand for established &lt;em&gt;Topet&lt;/em&gt; phrases. Its association with media like television and illustration has caused some ethnographers to suggest Vekllei Semaphore as sign of evolving postliteracy&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; in Vekllei, as modern systems of media and communication make it easier for people to go without reading or writing day-to-day.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Vekllei lo da Myaiouisvah&lt;/em&gt; originated in the early 17th century in the navy, where it was largely informed by &lt;em&gt;Upotenne&lt;/em&gt;. It had an obvious practical purpose in communication between oceangoing vessels, but later saw general use among ordinary people as Vekllei developed, evolving into a sort of natural industrial sister language of &lt;em&gt;Rapotenne&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;By the 19th Century, &lt;em&gt;Vekllei Semaphore&lt;/em&gt; had lost a lot of its original connotations with military pragmatism and had started to evolve and establish itself in different roles in society, fuelled by an emerging aesthetic interest in bloodlines and colonial enterprise. Colour and formless symbolism quickly took on new meaning as a way of distinguishing class and education across the country in highly fashionable shifts in culture. As the colonial machine of Vekllei&amp;rsquo;s late monarchy and early junta developed a sprawling bureaucracy and civil service, these meanings were codified and later formalised as the language of the empire. It was rapidly revitalised during Vekllei&amp;rsquo;s independence from British occupation after the First Atomic War, and is the youngest and fastest-developing of Vekllei&amp;rsquo;s languages. It remains a unique cultural phenomenon among developed countries today.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Vekllei Semaphore&lt;/em&gt; is most useful in public, shared space as a form of mass-communication. Its relative universality within the country means that many public-facing organisations and concerns employ it as a sort of &amp;lsquo;shared symbolism;&amp;rsquo; an unspoken democratic language used in shared spaces and common forums.&lt;/p&gt;
-&lt;h3 id=&#34;symbolism&#34;&gt;
-  Symbolism
-  &lt;a class=&#34;anchor&#34; href=&#34;#symbolism&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;There are several components within &lt;em&gt;Vekllei Semaphore&lt;/em&gt; which employs types of symbolism depending on their purpose and context.&lt;/p&gt;
-&lt;h4 id=&#34;colourcoda&#34;&gt;
-  Colourcoda
-  &lt;a class=&#34;anchor&#34; href=&#34;#colourcoda&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Colourcoda&lt;/em&gt; is the means by which &lt;em&gt;Vekllei Semaphore&lt;/em&gt; reassembles colour values in social forms through patterns, colour placement and contrast. Visitors will likely have encountered &lt;em&gt;Colourcoda&lt;/em&gt; without even realising it; the transliteration of green and gold on &lt;a href=&#34;https://millmint.net/images/uniform.jpg&#34;&gt;the uniforms of Puffin Scouts&lt;/a&gt; is &amp;ldquo;peacefulness besides the land;&amp;rdquo; the red and white of &lt;a href=&#34;https://millmint.net/images/trials.jpg&#34;&gt;the Vekllei school uniform&lt;/a&gt; means &amp;ldquo;youth of Vekllei,&amp;rdquo; and &lt;a href=&#34;https://millmint.net/images/feast.jpg&#34;&gt;the blue and white of a Venopor police car&lt;/a&gt; means &amp;ldquo;royal defence&amp;rdquo;. Patterns quickly complexify this meaning, allowing for more sophisticated sentence construction, though few Vekllei people are fluent.&lt;/p&gt;
-&lt;h4 id=&#34;formsigns&#34;&gt;
-  Formsigns
-  &lt;a class=&#34;anchor&#34; href=&#34;#formsigns&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Formsigns&lt;/em&gt; are the means by which &lt;em&gt;Vekllei Semaphore&lt;/em&gt; encodes meaning in shape. Vekllei (as a landscape) is depicted by a circle within the &lt;em&gt;Loh&lt;/em&gt; glossary, and an arched point in the &lt;em&gt;Oa&lt;/em&gt; glossary. These forms are adjacent to pictographics, but &lt;em&gt;formsigns&lt;/em&gt; can also be totally abstracted. The borders on stationary and envelopes, for example, contain specific meaning when joined with specific colours. This concept saturates Vekllei society &amp;ndash; title cards in television, armbands, pinstripes, aircraft livery and basic shapes can all produce phonetic recognition in Vekllei people depending on their context and use.&lt;/p&gt;
-&lt;h4 id=&#34;semaphore&#34;&gt;
-  Semaphore
-  &lt;a class=&#34;anchor&#34; href=&#34;#semaphore&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;Flags are used heavily in Vekllei semaphore, but are distinct from traditional semaphore systems through their use and appearance. Semaphore within &lt;em&gt;da Myaiouisvah&lt;/em&gt; share more in common with &lt;em&gt;Upotenne&lt;/em&gt; than they do alphabetic semaphore, and are largely figurative of extant runes. Flags are also very common objects that incorporate &lt;em&gt;formsigns&lt;/em&gt; and &lt;em&gt;colourcoda,&lt;/em&gt; and used frequently within Vekllei as means of communication. Festivals, companies and bureaus all use their own flags as means of identifying and communicating in public space.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;em&gt;Demioette&lt;/em&gt; and &lt;em&gt;hieyerette&lt;/em&gt; meaning lit. &amp;ldquo;early lower&amp;rdquo; and &amp;ldquo;early higher&amp;rdquo; respectively.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;&lt;em&gt;Blood Names&lt;/em&gt; are traditional ancestral names carried along a mother&amp;rsquo;s genetic heritage. Traditionally kept secret until burial, this custom has mostly fallen out of practice in modern Vekllei.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;
-&lt;p&gt;&lt;em&gt;Demiosnjarnkah&lt;/em&gt;, or &amp;ldquo;old arts,&amp;rdquo; refers to the religious tradition of poetry and art-making, which to this day depends on the older extant glossaries of Vekllei&amp;rsquo;s early runic system.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;
-&lt;p&gt;&lt;em&gt;Postliteracy&lt;/em&gt; is a hypothetical concept popularised in the early 21st Century during massive upheavals in education and mass media by telescreens and the videophone. It suggests that, as reading and writing are replaced by convenient forms of visual communication, traditional literacy becomes unnecessary. Sometimes called &lt;em&gt;aliteracy&lt;/em&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-
+	  ߷ This article is about Vekllei The language of Vekllei is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other. Overview # Vekllei language, abbreviated to just Vekllei, has six core sublanguages that are used commonly today.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/drawing.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about <a href="/utopia/vekllei"><strong>Vekllei</strong></a></div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>The language of Vekllei</strong> is an important part of the project. Utopianism cascades through every part of society, and rethinking communication is a foundational part of that instinct. In this article, we look at what makes Vekllei as a language special, and give insight into how these Atlantic people communicate with each other.</div>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p><strong>Vekllei language</strong>, abbreviated to just <strong>Vekllei</strong>, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.</p>
+<details open>
+  <summary>Systems of Vekllei Language</summary>
+  <div class="markdown-inner">
+    <ol>
+<li><strong>Spoken Vekllei</strong>, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called <em>Oa</em> and <em>Loh</em>.</li>
+<li><strong>Topet</strong>, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, <em>Topet</em> characters can be broken down into repeating components, called <em>Topotte</em>.</li>
+<li><strong>Rapotenne</strong>, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.</li>
+<li><strong>Potenne</strong>, lit. “<em>Hand-Talk</em>”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.</li>
+<li><strong>Upotenne</strong>, lit. “<em>Spirit-Hand-Talk</em>”, as the recreation of runes in human form, used limitedly in spiritual ritual.</li>
+<li><strong>Vekllei Semaphore</strong> is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in <em>Vekllei Semaphore</em>, in which full sentences can be formed.</li>
+</ol>
+
+  </div>
+</details>
+
+<h3 id="introduction">
+  Introduction
+  <a class="anchor" href="#introduction">#</a>
+</h3>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Read more: <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em></div>
+</blockquote>
+
+<blockquote>
+<p><em>What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.</em></p>
+</blockquote>
+<p>— Yoshio Nakamura</p>
+<p>Let&rsquo;s take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/utopia/culture/language/#spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/utopia/culture/language/#topet"><em>Topet</em></a> are understood universally.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/language.jpg" alt="Infographic showing how to speak Vekllei"  title="An infographic showcasing the Vekllei language, including [Potenne](/utopia/culture/language/#potenne) use. | *[How to Speak Vekllei](/posts/2020-11-14-language/)*" loading="lazy" />
+  <figcaption>An infographic showcasing the Vekllei language, including <a href="/utopia/culture/language/#potenne">Potenne</a> use. | <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em></figcaption>
+</figure>
+</p>
+<p>Other languages, often called <em>sub-languages</em>, are informed regionally and have varying literacy across the Home Island. For example, <a href="/utopia/culture/language/#upotenne"><em>Upotenne</em></a> is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&rsquo;s most complex and hermetic language systems.</p>
+<h3 id="history">
+  History
+  <a class="anchor" href="#history">#</a>
+</h3>
+<p>Vekllei&rsquo;s language genealogy can be traced back thousands of years, and is approximated in this timeline for reference throughout this article.</p>
+<blockquote>
+<ul>
+<li><strong>6000</strong> BC - <strong>3500</strong> BC, <strong>Kalaallisut / Kala</strong>, Proto-<em>Quutetast</em> extinct Algic language.</li>
+<li><strong>3500</strong> BC - <strong>800</strong> AD,  <strong>Quutetast</strong>,  Algic-Aleutian extinct language.</li>
+<li><strong>1200</strong> BC - <strong>900</strong> AD, <strong>Islandi</strong>,  Indo-European Scandinavian language.</li>
+<li><strong>900</strong> AD - <strong>1600</strong> AD, <strong>Topyas</strong> (Old Vekllei),  fusion dialect of <em>Islandi</em> and <em>Quutetast</em>.</li>
+<li><strong>1600</strong> AD - <strong>present</strong>, <strong>Modern Vekllei</strong>, evolution of <em>Topyas</em>. Spoken today.</li>
+</ul>
+</blockquote>
+<h2 id="spoken-vekllei">
+  Spoken Vekllei
+  <a class="anchor" href="#spoken-vekllei">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Spoken Vekllei</strong>, simply referred to as Vekllei domestically, is the common spoken language of Vekllei and official language of the country, spoken by some 25 million people worldwide, with 98% of speakers living natively in the Vekllei Home Islands. It is the first spoken language of the vast majority of the population, and has minor variance across the disparate Vekllei Home Islands and other Vekllei possessions. It is rarely spoken outside of Vekllei territories, extant abroad only through emigrant populations and small diasporic communities dispersed after the Atomic War.</div>
+</blockquote>
+
+<p>Contemporary spoken Vekllei is largely descended from <em>Proto-Islandi</em> speech that arrived with the first Danish settlers in the country, but includes <em>Kalaallisut</em> and Proto-Algic reconstructions of an early extinct language called <em>Kala</em>. Modern spoken Vekllei has heritage in the combined, largely extinct language hybrid of Algic-Aleutian <em>Quutetast</em> and the Indo-European <em>Islandi,</em> which by the 9th century had fused into common speech usually called <em>Topyas</em>, or &lsquo;Old Speech&rsquo;/&lsquo;Old Vekllei&rsquo;. Modern Vekllei has evolved distinctively since the Atomic War as part of broader sociological trends towards informalised speech and cultivated <em>Loh</em> vocabularies.</p>
+<h3 id="twin-glossaries">
+  Twin Glossaries
+  <a class="anchor" href="#twin-glossaries">#</a>
+</h3>
+<p>Spoken Vekllei draws from two glossaries, called <em>Oa</em> and <em>Loh</em>. These glossaries date back to twin reconstructed Algic-Aleutian languages called <em>Quutetast</em> and <em>Islandi</em> that had been present in earlier forms since at least 1200BC. The glossaries were formalised in pagan ritual that would become present-day <a href="/utopia/vekllei/religion"><em>Upen</em></a>, and later recognised as the official language of the country in the reformation initiated by Queen Souisviasn in the 3rd century.</p>
+<ul>
+<li>
+<h5 id="oa-lit-sun">
+  Oa (<em>lit.</em> Sun)
+  <a class="anchor" href="#oa-lit-sun">#</a>
+</h5>
+<em>Oa</em> is considered to have &lsquo;permanent&rsquo; traits. It is often characterised abroad as a positive glossary, though this is not true &ndash; it is in fact dedicated to inanimate and unliving organs. Although Vekllei does not gender nouns, this glossary is often gendered conceptually as masculine, and is most commonly associated with Summer and Spring. Despite its long history, Vekllei as an island is itself understood to be female &ndash; mostly because its volcanic landscape, which straddles two drifting continental plates, is constantly changing.</li>
+<li>
+<h5 id="loh-lit-moon">
+  Loh (<em>lit.</em> Moon)
+  <a class="anchor" href="#loh-lit-moon">#</a>
+</h5>
+<em>Loh</em> is considered to have &lsquo;cyclical&rsquo; traits. Loh words are largely derived from Old Vekllei (including <em>Icelandic/Islandi</em>), and so its glossary is considerably less defined and dependent on older linguistic artefacts. <em>Loh</em> words incorporate sounds and grammatical artefacts from extinct languages within Vekllei&rsquo;s ancient history, and so it is often associated with traditional or formal speech. It is commonly gendered as feminine, and is associated with winter and autumn.</li>
+</ul>
+<p>In modernity, this binary produces bizarre psycholinguistic quirks. For example, a sailing vessel (<em>Siv</em>) is derived from the <em>Oa</em>, historically because the <em>Oa</em> glossary was favoured for machines between the 10th and 16th Centuries. This genders all modern oceangoing vessels as male figures to this day, and due to <em>Siv</em>&rsquo;s linguistic derivatives, ties ships permanently to the lumber and woodlands critical to wooden shipbuilding. From the 20th century onwards, however, most vehicles are regarded impermanent through <em>Loh</em>, and so all cars in Vekllei are conceptually female.</p>
+<h3 id="phonology">
+  Phonology
+  <a class="anchor" href="#phonology">#</a>
+</h3>
+<p>Spoken Vekllei is phonologically homogenous, and has little variation in accent or pronunciation across the Home Island or its various possessions, although there is some evidence for differences in dialect between cultivated speech on the coast and rural phonology in the interior of the Home Islands.</p>
+<h4 id="monophthongs">
+  Monophthongs
+  <a class="anchor" href="#monophthongs">#</a>
+</h4>
+<p>Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses vary across cultivated and common Vekllei dialects.</p>
+<details open>
+  <summary>Pure Vowels</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th></th>
+<th>Front</th>
+<th></th>
+<th></th>
+<th>Central</th>
+<th></th>
+<th>Back</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Short</td>
+<td>Long</td>
+<td>Long (round)</td>
+<td>Short</td>
+<td>Long</td>
+<td>Short</td>
+<td>Long</td>
+</tr>
+<tr>
+<td><strong>Close</strong></td>
+<td>ɪ</td>
+<td>iː</td>
+<td>y</td>
+<td></td>
+<td>ʉː</td>
+<td>ʊ</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Close-Mid</strong></td>
+<td></td>
+<td></td>
+<td>ø</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Mid</strong></td>
+<td>e</td>
+<td>eː</td>
+<td></td>
+<td>ə</td>
+<td>ɜː</td>
+<td>ɔ</td>
+<td>oː</td>
+</tr>
+<tr>
+<td><strong>Open-Mid</strong></td>
+<td></td>
+<td></td>
+<td>œ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Open</strong></td>
+<td>æ</td>
+<td>(æː)</td>
+<td></td>
+<td>ɐ</td>
+<td>ɐː</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<h4 id="diphthongs">
+  Diphthongs
+  <a class="anchor" href="#diphthongs">#</a>
+</h4>
+<p>From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. <em>Oa</em> typically favours modernised post-<em>Quutetast</em> glides for its so-called <em>Ocean Vowels</em>, which are generally long and unrounded. <em>Loh</em> words are typically older and depicted pictographically, and are pronounced as <em>Floral Vowels</em>. The tables below list their pronunciation.</p>
+<details open>
+  <summary>Diphthongs</summary>
+  <div class="markdown-inner">
+    <h5 id="ocean-vowels">
+  Ocean Vowels
+  <a class="anchor" href="#ocean-vowels">#</a>
+</h5>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Vowel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Closing</strong></td>
+<td>æɪ, ɑɪ, oɪ, æɔ, əʉ</td>
+</tr>
+<tr>
+<td><strong>Centering</strong></td>
+<td>ɪə</td>
+</tr>
+</tbody>
+</table>
+<h5 id="floral-vowel">
+  Floral Vowel
+  <a class="anchor" href="#floral-vowel">#</a>
+</h5>
+<table>
+<thead>
+<tr>
+<th>Vowel</th>
+<th>Onset glide</th>
+<th>Onset glide</th>
+<th>Onset glide</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vowel</strong></td>
+<td><strong>/j/</strong></td>
+<td><strong>/ɥ/</strong></td>
+<td><strong>/w/</strong></td>
+</tr>
+<tr>
+<td><strong>/a/</strong></td>
+<td>/ja/</td>
+<td>/ɥa/</td>
+<td>/wa/</td>
+</tr>
+<tr>
+<td><strong>/ɑ/</strong></td>
+<td>/jɑ/</td>
+<td>/ɥɑ/</td>
+<td>/wɑ/</td>
+</tr>
+<tr>
+<td><strong>/ɑ̃/</strong></td>
+<td>/jɑ̃/</td>
+<td>/ɥɑ̃/</td>
+<td>/wɑ̃/</td>
+</tr>
+<tr>
+<td><strong>/e/</strong></td>
+<td>/je/</td>
+<td>/ɥe/</td>
+<td>/we/</td>
+</tr>
+<tr>
+<td><strong>/ɛ/</strong></td>
+<td>/jɛ/</td>
+<td>/ɥɛ/</td>
+<td>/wɛ/</td>
+</tr>
+<tr>
+<td><strong>/ɛ̃/</strong></td>
+<td>/jɛ̃/</td>
+<td>/ɥɛ̃/</td>
+<td>/wɛ̃/</td>
+</tr>
+<tr>
+<td><strong>/i/</strong></td>
+<td>/ji/</td>
+<td>/ɥi/</td>
+<td>/wi/</td>
+</tr>
+<tr>
+<td><strong>/o/</strong></td>
+<td>/jo/</td>
+<td>/ɥo/</td>
+<td>/wo/</td>
+</tr>
+<tr>
+<td><strong>/ɔ/</strong></td>
+<td>/jɔ/</td>
+<td>/ɥɔ/</td>
+<td>/wɔ/</td>
+</tr>
+<tr>
+<td><strong>/ɔ̃/</strong></td>
+<td>/jɔ̃/</td>
+<td>/ɥɔ̃/</td>
+<td>/wɔ̃/</td>
+</tr>
+<tr>
+<td><strong>/ø/</strong></td>
+<td>/jø/</td>
+<td>/ɥø/</td>
+<td>/wø/</td>
+</tr>
+<tr>
+<td><strong>/œ/</strong></td>
+<td>/jœ/</td>
+<td>/ɥœ/</td>
+<td>/wœ/</td>
+</tr>
+<tr>
+<td><strong>/u/</strong></td>
+<td>/ju/</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>/y/</strong></td>
+<td>/jy/</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<h4 id="consonants">
+  Consonants
+  <a class="anchor" href="#consonants">#</a>
+</h4>
+<p>In Vekllei, consonants are arranged in five places of primary articulation.</p>
+<details open>
+  <summary>Consonants</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th></th>
+<th>Labial</th>
+<th>Alveolar</th>
+<th>Palatal</th>
+<th>Velar</th>
+<th>Uvular</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Voiceless stop</td>
+<td>p /p/</td>
+<td>t /t/</td>
+<td></td>
+<td>k /k/</td>
+<td>q /q/</td>
+</tr>
+<tr>
+<td>Voiceless fricative</td>
+<td></td>
+<td>s /s/ł /ɬ/(h /h/)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Voiced</td>
+<td>v /v/</td>
+<td>l /l/</td>
+<td>j /j/(j, r̂  /ɟ/)</td>
+<td>g /ɡ/</td>
+<td>r /ʁ/</td>
+</tr>
+<tr>
+<td>Nasal</td>
+<td>m /m/</td>
+<td>n /n/</td>
+<td></td>
+<td>ng /ŋ/</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<h2 id="topet">
+  Topet
+  <a class="anchor" href="#topet">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Topet</strong>, sometimes called <em>Vekllei Script</em> or <em>Vekllei hieroglyphs</em> is the formal writing system in Vekllei. Topet incorporates logographic and neosyllabic/abugida-type components, and has some 3,450 unique characters in modern usage. Although proto-glyphs and a primitive runic system had been used in <em>Islandi</em>-era Vekllei since at least the 8th Century BC, by the time <em>Quutetast</em> influences had arrived with Inuit settlement in the 4th Century AD the parent scripts had at least partially fused into proto-<em>Topet</em>, called <em>Hieyeric</em>. In Vekllei, <em>Topet</em> is the national language alongside its sister-form, <em><a href="/utopia/culture/language/#rapotenne">Rapotenne</a></em> and <a href="/utopia/culture/language/#spoken-vekllei"><em>Spoken Vekllei</em></a>. Topet has no clear lineage from Scandinavian or Inuit languages, and so is rarely understood outside of the territories where it is an official or significant minority language, which represents some 25 million people.</div>
+</blockquote>
+
+<p>Individual <em>Topet</em> characters are both phonograms and semagrams, and so they support multiple readings. Many are basically figurative, and represent conceptually what they depict. Each character conforms to an abugida-type system, in which consonant-vowel pairings are written in joined notation. In <em>Topet</em>, the consonant anchors the pairing, which is called <em>Lohtopet</em>, and vowel notation is usually raised in superscript, called <em>Oatopet</em>. These names are not related to the binary glossary, but do represent the upper/lower system those glossaries imply. &ldquo;Oa&rdquo; means <em>affirmative</em> in Vekllei, and <em>Loh</em> is a negating form, so their use is widespread beyond the binary glossary system.</p>
+<h3 id="phonetic-reading">
+  Phonetic Reading
+  <a class="anchor" href="#phonetic-reading">#</a>
+</h3>
+<p>Anchoring consonant-vowel characters (<em>demioette</em>, as opposed to double-vowels or vowel-consonants, called <em>hieyerette</em><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>) written in Topet may feature redundant adjacent characters called <em>phonetic complements</em>, which, in a non-determinative reading, are pronounced the same way to guide the reader. This lends to a system that encourages adjacent duplicate consonant-vowel pairings in some aspects, since Vekllei words are already formed out of neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, <em>comoyia</em>, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.</p>
+<p>In the above case, <em>comoyia</em> can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &lsquo;spelling&rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also <em>comoyia</em>, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of <a href="/utopia/culture/language/#potenne"><em>Potenne</em></a>, and represents one of its primary uses.</p>
+<h3 id="semantic-reading">
+  Semantic Reading
+  <a class="anchor" href="#semantic-reading">#</a>
+</h3>
+<p>Many <em>Topet</em> characters are figurative; they represent their meanings pictographically, like Egyptian <em>Hieroglyphs</em> or Chinese <em>Hanzi</em>. In Vekllei, this is considered an evolved rune-form, and ties into a broader conceptualisation of language as a <em>transcendental</em>, rather than <em>literal</em> system. Although <em>Topet</em>&rsquo;s early form, <em>Hieyeric</em>, was explicitly pictographic, modern <em>Topet</em> is often abstracted and decoupled from its figurative meaning via the phonetic system.</p>
+<p>Despite common use of the phonetic system in modernity, the semantic readings of characters are taught and essential for literacy beyond literal imitation of speech. For the vast majority of <em>Topet</em> characters, their logographic meaning determines their pronunciation, and consonant characters especially depend on this meaning to form words. The word for breakfast is <em>petimourgeneur</em>, but it cannot be written with random literal phonetic characters; parts of the word depend on the figurative meaning of certain components, and so without its semantic traits the word would be illegible to most people. This represents a wider co-dependency on simultaneous phonetic and semantic readings of words, with the importance of each fluctuating depending on the word in question. Older words tend to be heavily figurative, whereas modern and loan words are often more phonetic. This inconsistency is part of the difficulty in learning <em>Topet</em>, and leaves many immigrants fluent in speech but inadequately literate in reading and writing.</p>
+<h3 id="structure">
+  Structure
+  <a class="anchor" href="#structure">#</a>
+</h3>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Read more: <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em></div>
+</blockquote>
+
+<p>Individual <em>Topet</em> characters are both semantic and phonetic, and can be written in a phonetic abugida (with semantic weight carried by the initial character-group) or as a single character group. The abugida-form is phonetic and aids vocalisation through its <em>hieyerette</em> characters. The single character group-form is pictographic, and generally replaces the abugida in contexts where the pronunciation is commonly known or obvious. In these character groups, only one <em>demioette</em> character is vocalised, called the <em>principle</em>, and the <em>hieyerette</em> characters are simply not written.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/topet.jpg" alt="Infographic showing Vekllei scripts"  title="An infographic summarising the appearance of Vekllei scripts, including [*Topet*](/utopia/culture/language/#topet). | *[How to Read Vekllei](/posts/2021-05-31-topet/)*" loading="lazy" />
+  <figcaption>An infographic summarising the appearance of Vekllei scripts, including <a href="/utopia/culture/language/#topet"><em>Topet</em></a>. | <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em></figcaption>
+</figure>
+</p>
+<p>These character groups are called <em>Minor Demons</em>, or <em>pettidemion,</em> and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern <em>Topet</em>, are arranged in a quadrant with the principle arranged in the top left.</p>
+<p><em>Minor Demons</em> are the foundations of <em>Topet</em> script, since they can be written phonetically or as pictographs. This also contributes to <em>Topet</em>&rsquo;s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.</p>
+<h2 id="rapotenne">
+  Rapotenne
+  <a class="anchor" href="#rapotenne">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Rapotenne</strong> (<em>lit. &ldquo;Name-Talk&rdquo;</em>) is the Vekllei system of names, often considered in modernity to function as a distinct, though limited, language. Today, it is most often employed as an extant language of magical staves, but is closely aligned phonologically and ethnographically with <em>Upotenne</em>, the physical language of rune-forms and sigils.</div>
+</blockquote>
+
+<p>Contemporary <em>Rapotenne</em> is informed by pictographic proto-<em>Topet</em> runes as well as elements of the extinct <em>Kala</em> language, and subsequently <em>Quutetast</em> Algic artefacts. Because <em>Kala</em> is extinct and <em>Quutetast</em> is a dead language, largely displaced by modern spoken Vekllei, <em>Rapotenne</em> is unique among Vekllei&rsquo;s sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and Blood Names.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p><em>Rapotenne</em> has its origins in superstitious <em>Islandi</em> magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. <em>Rapotenne</em> today mostly employs older <a href="/utopia/culture/language/#diphthongs">Floral Vowels</a>, which themselves are likely evolutions of proto-<em>Quutetast</em> pronunciation associated with <em>Kala</em>. Rapotenne characters, also called <em>Rapotenne</em>, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out <a href="/utopia/culture/language/#upotenne"><em>Upotenne</em></a> signs, which is functionally adjacent to <em>Rapotenne</em>.</p>
+<h3 id="practice">
+  Practice
+  <a class="anchor" href="#practice">#</a>
+</h3>
+<p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/utopia/culture/language/#upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
+<h2 id="potenne">
+  Potenne
+  <a class="anchor" href="#potenne">#</a>
+</h2>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>Try Potenne yourself!</strong> Hold out your thumb and forefinger on one hand, and tuck the other fingers against your palm. You&rsquo;ve just said &ldquo;good to see you again.&rdquo;</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Potenne</strong> (<em>lit. &ldquo;Hand-Talk&rdquo;</em>) is an indigenous auxiliary sign language in Vekllei used commonly today as an aid or substitute for vocalised speech. It was originally a form of <em>avoidance speech</em> that arose in response to social taboos in <em><a href="/utopia/vekllei/religion.md">Upen</a></em>, but acquired broader use by the 16th century and is employed commonly today part of many conventions and customs within the Home Islands. <em>Potenne</em> is also used by hearing-disabled persons in Vekllei to communicate.</div>
+</blockquote>
+
+<p>Historic social taboos in Vekllei&rsquo;s dominant religion, Upen, prevented speech between people for a variety of reasons, including for marital, interfamilial, penal and ascetic considerations. <em>Potenne</em> first arose to avoid these taboos. During the first substantial immigration of Inuit-Kalaallisut peoples in the 4th century BC, proto-<em>Potenne</em> avoidance languages developed pragmatic pidgin forms to allow for trade and communication between settlers and the original Islandi population. This rapid expansion in use saw <em>Potenne</em> develop solidified cultural tenants, including phonologically distinct suprasegmental components like <em>biouspotenne</em> (<em>lit. &ldquo;Face-Talk&rdquo;</em>), which distinguishes facial expression from gestures in poetic, transcendental forms, and <em>kiouyapotenne</em> (<em>lit. &ldquo;Child-Talk&rdquo;</em>), which uses facial expressions to teach children individual signs.</p>
+<p>By the 11th Century, <em>Potenne</em> was documented alongside other critical languages like <em>Topet</em>, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including <a href="/utopia/culture/language/#upotenne"><em>Upotenne</em></a>, today considered an independent language system within Vekllei&rsquo;s varied linguistic cultures.</p>
+<p><em>Potenne</em> is used today as a casual substitute for simple speech and to communicate figurative meanings of words in <em>Topet</em> otherwise uncommunicable in conventional speech.</p>
+<h3 id="phonology-1">
+  Phonology
+  <a class="anchor" href="#phonology-1">#</a>
+</h3>
+<p>It is important to remember that <em>Potenne</em> is not simply a reproduction of ordinary speech in physical form; it is a language that assists the spoken word. Many Vekllei words can be simplified by incorporating <em>Potenne</em>, which better mimics nonverbal components of <em>Topet</em> and helps provide emotion and context to otherwise ambiguous phrases. In other cases, it replaces speech entirely, often in quiet areas or out of respect in public transit. In this sense, <em>Potenne</em> retains a handful of the characteristics inherited from its origins as an avoidance language, but remains distinct from both spoken Vekllei and <em>Topet</em> in its capacity to link and colour both.</p>
+<h4 id="location">
+  Location
+  <a class="anchor" href="#location">#</a>
+</h4>
+<p>Most <em>Potenne</em> is acted out just below the chest, in a casual resting position. Positional and place-based signs are performed at the right shoulder, and emotion is often acted out at or just below the chin. Regional traits and dialects are common, and <em>Potenne</em> is perhaps Vekllei&rsquo;s most provincial and least documented language.</p>
+<h4 id="movement">
+  Movement
+  <a class="anchor" href="#movement">#</a>
+</h4>
+<p>Upen signs are generally simple, and practiced quickly and casually. The direction of the fore and ring fingers generally indicate subject, and the position of the thumb indicates tone — an outstretched thumb is casual whereas a thumb tucked inwards appears formal. Common words use simple, single-handed signs, but complete sentences and more complex words almost always require the use of both hands.</p>
+<h4 id="orientation">
+  Orientation
+  <a class="anchor" href="#orientation">#</a>
+</h4>
+<p>Communication in the your own voice is performed with the hand held horizontally with few exceptions. Quoting speech and reading is most often spoken with the hand held vertically, although this varies between dialects. Various orientations incorporate meaning, including casual affirmation and some emotions.</p>
+<h4 id="handshape">
+  Handshape
+  <a class="anchor" href="#handshape">#</a>
+</h4>
+<p>Most signs are communicated with an open palm, although fists, hooked fingers, clenched fingers and relaxation of fingers are also used in various ways. Most common <em>Potenne</em> words are characterised by their informal, almost lazy composition, and so handshape is particularly gestural, often dependent on vocalised context to be legible. It can be difficult to determine within <em>Potenne</em> a clear distinction between non-linguistic gestural communication and its formalised language system, and so the emotiveness and context of its signs are critical to literacy in Vekllei.</p>
+<h2 id="upotenne">
+  Upotenne
+  <a class="anchor" href="#upotenne">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Upotenne</strong> (<em>lit. &ldquo;Spirit-Hand-Talk&rdquo;</em>) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to <em>Potenne</em>, <em>Upotenne</em> is more closely historically aligned with <em>Rapotenne</em> than modern Vekllei.</div>
+</blockquote>
+
+<p>Much as <em>Potenne</em> combines semantic and verbal forms to enhance communication, <em>Upen</em> appropriates the older pictographic <a href="/utopia/culture/language/#rapotenne"><em>Rapotenne</em></a> script to aid spiritual ritual and <em>demiosnjarnkah</em> (<em>lit. &ldquo;Old Arts&rdquo;</em><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>). Although few Vekllei people are completely literate in it, <em>Upotenne</em> remains a cultural force throughout society and is used commonly in ritual around the Home Islands.</p>
+<p><em>Upotenne</em> is characterised as a sign language in keeping with the traditions in <em>Potenne</em>, but also incorporates complex cultural artefacts unique to <em>Upen</em> within its symbolism as a language. It codifies the human form and reproduces it in a spiritual manner, assigning importance and symbolism to parts of the human body ignored by the secular <em>Potenne</em>. Where much of the communication in <em>Potenne</em> is dependent on hand-based signs and gestures, <em>Upotenne</em> is mostly positional, using joints and angles to imitate rune-forms. These type and imitation of rune-forms vary greatly between different parts of Vekllei society, since literacy is dependent on landscape; rural persons will most likely recognise and communicate runes that benefit harvest and weather, where urban persons are more likely to participate in ceremonies to benefit employment or love.</p>
+<p>This multidimensionality means that <em>Upotenne</em> is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite <em>Upotenne</em>&rsquo;s capacity as a language, it is largely displaced by its use as a spiritual adjacent to <em>Potenne</em> in modern society, leaving only <em>Upen</em> priests and disciples fluent in one of Vekllei&rsquo;s oldest cultural traditions.</p>
+<h2 id="vekllei-semaphore">
+  Vekllei Semaphore
+  <a class="anchor" href="#vekllei-semaphore">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Vekllei lo da Myaiouisvah</strong> (<em>lit. &ldquo;Vekllei-Flag-System&rdquo;</em>) is the sixth and most unusual of the Vekllei sublanguages. It relies heavily on colour and form, and is largely abstracted from its subject matter. In this sense, <em>Vekllei Semaphore</em> can be considered to be <em>asemic</em>, since it has no material semantic meaning and is entirely illegible without instruction.</div>
+</blockquote>
+
+<p>It is most commonly used to enhance <em>Topet</em> and communicate in public spaces, through stationary, flags, banners, painted lines, stylised infrastructure and clothing as shorthand for established <em>Topet</em> phrases. Its association with media like television and illustration has caused some ethnographers to suggest Vekllei Semaphore as sign of evolving postliteracy<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> in Vekllei, as modern systems of media and communication make it easier for people to go without reading or writing day-to-day.</p>
+<p><em>Vekllei lo da Myaiouisvah</em> originated in the early 17th century in the navy, where it was largely informed by <em>Upotenne</em>. It had an obvious practical purpose in communication between oceangoing vessels, but later saw general use among ordinary people as Vekllei developed, evolving into a sort of natural industrial sister language of <em>Rapotenne</em>.</p>
+<p>By the 19th Century, <em>Vekllei Semaphore</em> had lost a lot of its original connotations with military pragmatism and had started to evolve and establish itself in different roles in society, fuelled by an emerging aesthetic interest in bloodlines and colonial enterprise. Colour and formless symbolism quickly took on new meaning as a way of distinguishing class and education across the country in highly fashionable shifts in culture. As the colonial machine of Vekllei&rsquo;s late monarchy and early junta developed a sprawling bureaucracy and civil service, these meanings were codified and later formalised as the language of the empire. It was rapidly revitalised during Vekllei&rsquo;s independence from British occupation after the First Atomic War, and is the youngest and fastest-developing of Vekllei&rsquo;s languages. It remains a unique cultural phenomenon among developed countries today.</p>
+<p><em>Vekllei Semaphore</em> is most useful in public, shared space as a form of mass-communication. Its relative universality within the country means that many public-facing organisations and concerns employ it as a sort of &lsquo;shared symbolism;&rsquo; an unspoken democratic language used in shared spaces and common forums.</p>
+<h3 id="symbolism">
+  Symbolism
+  <a class="anchor" href="#symbolism">#</a>
+</h3>
+<p>There are several components within <em>Vekllei Semaphore</em> which employs types of symbolism depending on their purpose and context.</p>
+<h4 id="colourcoda">
+  Colourcoda
+  <a class="anchor" href="#colourcoda">#</a>
+</h4>
+<p><em>Colourcoda</em> is the means by which <em>Vekllei Semaphore</em> reassembles colour values in social forms through patterns, colour placement and contrast. Visitors will likely have encountered <em>Colourcoda</em> without even realising it; the transliteration of green and gold on <a href="/images/uniform.jpg">the uniforms of Puffin Scouts</a> is &ldquo;peacefulness besides the land;&rdquo; the red and white of <a href="/images/trials.jpg">the Vekllei school uniform</a> means &ldquo;youth of Vekllei,&rdquo; and <a href="/images/feast.jpg">the blue and white of a Venopor police car</a> means &ldquo;royal defence&rdquo;. Patterns quickly complexify this meaning, allowing for more sophisticated sentence construction, though few Vekllei people are fluent.</p>
+<h4 id="formsigns">
+  Formsigns
+  <a class="anchor" href="#formsigns">#</a>
+</h4>
+<p><em>Formsigns</em> are the means by which <em>Vekllei Semaphore</em> encodes meaning in shape. Vekllei (as a landscape) is depicted by a circle within the <em>Loh</em> glossary, and an arched point in the <em>Oa</em> glossary. These forms are adjacent to pictographics, but <em>formsigns</em> can also be totally abstracted. The borders on stationary and envelopes, for example, contain specific meaning when joined with specific colours. This concept saturates Vekllei society &ndash; title cards in television, armbands, pinstripes, aircraft livery and basic shapes can all produce phonetic recognition in Vekllei people depending on their context and use.</p>
+<h4 id="semaphore">
+  Semaphore
+  <a class="anchor" href="#semaphore">#</a>
+</h4>
+<p>Flags are used heavily in Vekllei semaphore, but are distinct from traditional semaphore systems through their use and appearance. Semaphore within <em>da Myaiouisvah</em> share more in common with <em>Upotenne</em> than they do alphabetic semaphore, and are largely figurative of extant runes. Flags are also very common objects that incorporate <em>formsigns</em> and <em>colourcoda,</em> and used frequently within Vekllei as means of communication. Festivals, companies and bureaus all use their own flags as means of identifying and communicating in public space.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><em>Demioette</em> and <em>hieyerette</em> meaning lit. &ldquo;early lower&rdquo; and &ldquo;early higher&rdquo; respectively.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><em>Blood Names</em> are traditional ancestral names carried along a mother&rsquo;s genetic heritage. Traditionally kept secret until burial, this custom has mostly fallen out of practice in modern Vekllei.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p><em>Demiosnjarnkah</em>, or &ldquo;old arts,&rdquo; refers to the religious tradition of poetry and art-making, which to this day depends on the older extant glossaries of Vekllei&rsquo;s early runic system.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><em>Postliteracy</em> is a hypothetical concept popularised in the early 21st Century during massive upheavals in education and mass media by telescreens and the videophone. It suggests that, as reading and writing are replaced by convenient forms of visual communication, traditional literacy becomes unnecessary. Sometimes called <em>aliteracy</em>.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -600,69 +600,67 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/metaphysics/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/spiritful.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/spiritful.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;This article draws on many concepts broadly, with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;span class=&#34;smallicon&#34; style=&#34;font-size: 14px;&#34;&gt;⚠️&lt;/span&gt; This article is evolving, and will be expanded in future.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;
-  Overview
-  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;In Vekllei, &amp;ldquo;history&amp;rdquo; as it is presently conceptualised is not continuous or inevitable, and the island country has been excluded from history as an invention of 19th century Europe. This article seeks to document the ways the so-called &amp;lsquo;Vekllei perspective&amp;rsquo; bucks historicist assumptions about history, progress, and many features of observable reality by depicting their differences.&lt;/p&gt;
-&lt;p&gt;It is important to remember that Vekllei was &amp;rsquo;left alone&amp;rsquo; for many centuries by the European and later American continental powers, except as an entrepôt with foreign contact restricted to trading ports. The isolationist 3rd Commonwealth, known under many names but referred to colloquially as a series of &lt;em&gt;junta parliaments&lt;/em&gt; or &lt;em&gt;juntas&lt;/em&gt;, did not really resemble a unified kingdom-state but instead a series of disparate clans with distinct cultural, ethnic and religious backgrounds with commonhoods developed in isolation. This tradition continues to exist today, to the surprise of foreigners. Vekllei uses phrases and names for its government and subordinate state ministries that, when assembled together, resemble a highly centralised and powerful city-state. In reality, the Vekllei state better resembles a thousand villages, across many islands, united in a series of timid councils and shallow departments. Many wonderful features of Vekllei are not architected but inherited from several thousand years of isolation and anger.&lt;/p&gt;
-&lt;h3 id=&#34;the-post-war-state&#34;&gt;
-  The Post-War State
-  &lt;a class=&#34;anchor&#34; href=&#34;#the-post-war-state&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;It is worth considering that nearly 40% of Vekllei people today were born overseas, and the population of the country has increased from 11 millions in 2015 to 24 millions in 2063. These new Vekllei citizens, called &lt;em&gt;rosmehn&lt;/em&gt; or &amp;rsquo;new neighbours,&amp;rsquo; are from all over the world, and mostly came to Vekllei for political or economic reasons to participate in the opportunities apparent in the building of the 4th Commonwealth. Of course, these cultures have not inherited Vekllei metaphysics or its millennia of assumptions about the world immediately. Their children, however, are taught in a Vekllei curriculum and are already becoming exposed to these ideas. It is too early to tell exactly how this dramatic shift in population will affect future metaphysics in Vekllei, but there is no evidence yet to assume total destruction or total assimilation. Likely, these cultures will be influenced by existing Vekllei ideas and will become distinct from their home cultures.&lt;/p&gt;
-&lt;p&gt;It is important to clarify then that references to the &amp;lsquo;Vekllei person&amp;rsquo; in this article assume a belief in traditional metaphysics, as well as &lt;a href=&#34;https://millmint.net/religion&#34;&gt;Upen&lt;/a&gt;. This article documents traditional beliefs rather than a total and contemporary reflection of the assumptions of all Vekllei people, who are more numerous and more diverse than ever.&lt;/p&gt;
-&lt;h2 id=&#34;cultural-landscape&#34;&gt;
-  Cultural Landscape
-  &lt;a class=&#34;anchor&#34; href=&#34;#cultural-landscape&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;At the root of realism there must be passion; without passion it is hard for there to be anything more than description for the sake of description.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;ndash; Kitamura Tokoku,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 1894&lt;/p&gt;
-&lt;p&gt;Vekllei people do not generally understand the natural world as seperate from themselves. Physical landscape is, intuitively, understood as a reflection of their interior selves, and extends outwardly and limitlessly. Unlike modern assumptions, which consider physical reality to be external and thus able to be depicted objectively and realistically, Vekllei people to not distinguish between external and internal realities, and consequently do not have default conceptualisations of exteriority and interiority. This epistemic feature means that many subsequent concepts do not really exist in Vekllei &amp;ndash; categories of human beings like &amp;lsquo;children&amp;rsquo; and &amp;lsquo;young adults,&amp;rsquo; literature and sickness.&lt;/p&gt;
-&lt;p&gt;To clarify, it is not that those things do not exist in Vekllei &amp;ndash; this article refers only to the perception of features of life and to what they are assigned. The mythologising of illness; the casting of others as characters; the categorisation of culture into movements and eras; the linearity and historicism of history and progress. It is these things, foundational and apparently timeless in Western imagination, that are absent in Vekllei.&lt;/p&gt;
-&lt;p&gt;When people talk about &amp;lsquo;alienation from nature&amp;rsquo; in a Vekllei context, they do not mean it in a physical sense (as in urbanised living) but in a transcendental sense, as the natural world being objectified and externalised. This is clear in the Vekllei tradition of poetry, or &lt;em&gt;ensaga&lt;/em&gt;, in which no distinction is given between narration and speech.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Once a landscape has been established, its origins are repressed from memory. It takes on the appearance of an &amp;ldquo;object&amp;rdquo; which has been there, outside us, from the start. [&amp;hellip;] Rather than existing prior to landscape, subject and object emerge from within it.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;ndash; Kojin Karatani, &lt;em&gt;Origins of Japanese Literature&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;These assumptions contribute to the uniqueness of Vekllei as a contemporary culture and nation-state, and significantly to its land-metaphysics. Vekllei animism, both as religious feature of &lt;a href=&#34;https://millmint.net/religion/&#34;&gt;Upen&lt;/a&gt; and a secular cultural feature, is informed by the absence of conceptual segregation of the interior and exterior, and the person and the natural world. Similarly, &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;Vekllei logographic writing&lt;/a&gt; is not subordinated to Vekllei &lt;a href=&#34;https://millmint.net/utopia/culture/language/#spoken-vekllei&#34;&gt;phonetic speech&lt;/a&gt;, and so its transcendental visual representations of concepts informs how Vekllei people consider those concepts &amp;ndash; that is, transcendental and thus personal. A mountain is depicted visually in &lt;a href=&#34;https://millmint.net/utopia/culture/language/#topet&#34;&gt;&lt;em&gt;topet&lt;/em&gt;&lt;/a&gt; as all mountains and any mountain, rather than an objective place with existing, externalised features.&lt;/p&gt;
-&lt;p&gt;Together, these facts account for many decisions made in the building of the post-war 4th Commonwealth, and also work unseen to produce the aspects of Vekllei society that are well known overseas (and are to some extent mythologised in the orientalist tradition).&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Excerpted from &lt;em&gt;Origins of Japanese Literature&lt;/em&gt;, Kojin Karatani&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-
+	  ߷ This article is about Vekllei This article draws on many concepts broadly, with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/spiritful.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about <a href="/utopia/vekllei">Vekllei</a></div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">This article draws on many concepts broadly, with meandering interest in the same way you might hold a conversation. The purpose of this article is to introduce an alternate perspective on Vekllei thinking, and provoke the buried understanding that these people understand the world in fundamentally different ways. What is history for you is not history for Vekllei, and what land means to you is not what land means in Vekllei.</div>
+</blockquote>
+
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text"><span class="smallicon" style="font-size: 14px;">⚠️</span> This article is evolving, and will be expanded in future.</div>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p>In Vekllei, &ldquo;history&rdquo; as it is presently conceptualised is not continuous or inevitable, and the island country has been excluded from history as an invention of 19th century Europe. This article seeks to document the ways the so-called &lsquo;Vekllei perspective&rsquo; bucks historicist assumptions about history, progress, and many features of observable reality by depicting their differences.</p>
+<p>It is important to remember that Vekllei was &rsquo;left alone&rsquo; for many centuries by the European and later American continental powers, except as an entrepôt with foreign contact restricted to trading ports. The isolationist 3rd Commonwealth, known under many names but referred to colloquially as a series of <em>junta parliaments</em> or <em>juntas</em>, did not really resemble a unified kingdom-state but instead a series of disparate clans with distinct cultural, ethnic and religious backgrounds with commonhoods developed in isolation. This tradition continues to exist today, to the surprise of foreigners. Vekllei uses phrases and names for its government and subordinate state ministries that, when assembled together, resemble a highly centralised and powerful city-state. In reality, the Vekllei state better resembles a thousand villages, across many islands, united in a series of timid councils and shallow departments. Many wonderful features of Vekllei are not architected but inherited from several thousand years of isolation and anger.</p>
+<h3 id="the-post-war-state">
+  The Post-War State
+  <a class="anchor" href="#the-post-war-state">#</a>
+</h3>
+<p>It is worth considering that nearly 40% of Vekllei people today were born overseas, and the population of the country has increased from 11 millions in 2015 to 24 millions in 2063. These new Vekllei citizens, called <em>rosmehn</em> or &rsquo;new neighbours,&rsquo; are from all over the world, and mostly came to Vekllei for political or economic reasons to participate in the opportunities apparent in the building of the 4th Commonwealth. Of course, these cultures have not inherited Vekllei metaphysics or its millennia of assumptions about the world immediately. Their children, however, are taught in a Vekllei curriculum and are already becoming exposed to these ideas. It is too early to tell exactly how this dramatic shift in population will affect future metaphysics in Vekllei, but there is no evidence yet to assume total destruction or total assimilation. Likely, these cultures will be influenced by existing Vekllei ideas and will become distinct from their home cultures.</p>
+<p>It is important to clarify then that references to the &lsquo;Vekllei person&rsquo; in this article assume a belief in traditional metaphysics, as well as <a href="/religion">Upen</a>. This article documents traditional beliefs rather than a total and contemporary reflection of the assumptions of all Vekllei people, who are more numerous and more diverse than ever.</p>
+<h2 id="cultural-landscape">
+  Cultural Landscape
+  <a class="anchor" href="#cultural-landscape">#</a>
+</h2>
+<blockquote>
+<p>At the root of realism there must be passion; without passion it is hard for there to be anything more than description for the sake of description.</p>
+</blockquote>
+<p>&ndash; Kitamura Tokoku,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> 1894</p>
+<p>Vekllei people do not generally understand the natural world as seperate from themselves. Physical landscape is, intuitively, understood as a reflection of their interior selves, and extends outwardly and limitlessly. Unlike modern assumptions, which consider physical reality to be external and thus able to be depicted objectively and realistically, Vekllei people to not distinguish between external and internal realities, and consequently do not have default conceptualisations of exteriority and interiority. This epistemic feature means that many subsequent concepts do not really exist in Vekllei &ndash; categories of human beings like &lsquo;children&rsquo; and &lsquo;young adults,&rsquo; literature and sickness.</p>
+<p>To clarify, it is not that those things do not exist in Vekllei &ndash; this article refers only to the perception of features of life and to what they are assigned. The mythologising of illness; the casting of others as characters; the categorisation of culture into movements and eras; the linearity and historicism of history and progress. It is these things, foundational and apparently timeless in Western imagination, that are absent in Vekllei.</p>
+<p>When people talk about &lsquo;alienation from nature&rsquo; in a Vekllei context, they do not mean it in a physical sense (as in urbanised living) but in a transcendental sense, as the natural world being objectified and externalised. This is clear in the Vekllei tradition of poetry, or <em>ensaga</em>, in which no distinction is given between narration and speech.</p>
+<blockquote>
+<p>Once a landscape has been established, its origins are repressed from memory. It takes on the appearance of an &ldquo;object&rdquo; which has been there, outside us, from the start. [&hellip;] Rather than existing prior to landscape, subject and object emerge from within it.</p>
+</blockquote>
+<p>&ndash; Kojin Karatani, <em>Origins of Japanese Literature</em></p>
+<p>These assumptions contribute to the uniqueness of Vekllei as a contemporary culture and nation-state, and significantly to its land-metaphysics. Vekllei animism, both as religious feature of <a href="/religion/">Upen</a> and a secular cultural feature, is informed by the absence of conceptual segregation of the interior and exterior, and the person and the natural world. Similarly, <a href="/utopia/culture/language/#topet">Vekllei logographic writing</a> is not subordinated to Vekllei <a href="/utopia/culture/language/#spoken-vekllei">phonetic speech</a>, and so its transcendental visual representations of concepts informs how Vekllei people consider those concepts &ndash; that is, transcendental and thus personal. A mountain is depicted visually in <a href="/utopia/culture/language/#topet"><em>topet</em></a> as all mountains and any mountain, rather than an objective place with existing, externalised features.</p>
+<p>Together, these facts account for many decisions made in the building of the post-war 4th Commonwealth, and also work unseen to produce the aspects of Vekllei society that are well known overseas (and are to some extent mythologised in the orientalist tradition).</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Excerpted from <em>Origins of Japanese Literature</em>, Kojin Karatani&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -671,61 +669,59 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/religion/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/death.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/death.jpg"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ This article is about &lt;a href=&#34;https://millmint.net/utopia/vekllei&#34;&gt;Vekllei&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
+	  ߷ This article is about Vekllei Upen is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, Upen is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country. Overview # Upen is the animistic, nondenominational dominant and historical religion of Vekllei.
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/death.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about <a href="/utopia/vekllei">Vekllei</a></div>
+</blockquote>
 
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;Upen&lt;/strong&gt; is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, &lt;em&gt;Upen&lt;/em&gt; is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.&lt;/div&gt;
-&lt;/blockquote&gt;
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Upen</strong> is the nondenominational animistic spiritualism of Vekllei. It is both an organised religious belief system and a decentralised local animism, localised regionally across the Home Islands and beyond. As a basis for Vekllei metaphysics and general belief systems, <em>Upen</em> is a central part of Vekllei cultural identity and informs most parts of life at all levels in the country.</div>
+</blockquote>
 
-&lt;h2 id=&#34;overview&#34;&gt;
+<h2 id="overview">
   Overview
-  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Upen&lt;/strong&gt; is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei&amp;rsquo;s possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because &lt;em&gt;Upen&lt;/em&gt; is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.&lt;/p&gt;
-&lt;p&gt;Upen can be practiced at natural shrines, usually designated by a cairn, at running or still water, or the seaside. Maritime living and seafood are important aspects of Vekllei life, and fishing and ocean myths are key elements in &lt;em&gt;Upen&lt;/em&gt;. Within its spiritualism, traditional folk-tales and scripture are called &lt;em&gt;sagas&lt;/em&gt;, which have also archived much of Vekllei&amp;rsquo;s early history.&lt;/p&gt;
-&lt;p&gt;Although traditionally atheist, &lt;em&gt;Upen&lt;/em&gt; is commonly adopted by immigrant populations that include Catholic, Jewish and Buddhist faiths. In these contexts, &lt;em&gt;Upen&lt;/em&gt;&amp;rsquo;s animism and dependence on landscape is held alongside traditional beliefs, which are so common postwar that both Jewish and Catholic metaphysics have appeared in mainstream &lt;em&gt;Upen&lt;/em&gt; doctrine in some cities, where large immigrant populations reside.&lt;/p&gt;
-&lt;h3 id=&#34;introduction&#34;&gt;
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p><strong>Upen</strong> is the animistic, nondenominational dominant and historical religion of Vekllei. Practiced commonly throughout the Home Islands and Vekllei&rsquo;s possessions, it is a core component of Vekllei culture and heritage, and has existed in various forms for thousands of years. Because <em>Upen</em> is fundamentally provincial and decentralised, its scripture and practice vary significantly between boroughs. Most forms emphasise object animism, impermanence, petite materialism, land dependence, existentialism and fear of nature.</p>
+<p>Upen can be practiced at natural shrines, usually designated by a cairn, at running or still water, or the seaside. Maritime living and seafood are important aspects of Vekllei life, and fishing and ocean myths are key elements in <em>Upen</em>. Within its spiritualism, traditional folk-tales and scripture are called <em>sagas</em>, which have also archived much of Vekllei&rsquo;s early history.</p>
+<p>Although traditionally atheist, <em>Upen</em> is commonly adopted by immigrant populations that include Catholic, Jewish and Buddhist faiths. In these contexts, <em>Upen</em>&rsquo;s animism and dependence on landscape is held alongside traditional beliefs, which are so common postwar that both Jewish and Catholic metaphysics have appeared in mainstream <em>Upen</em> doctrine in some cities, where large immigrant populations reside.</p>
+<h3 id="introduction">
   Introduction
-  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;You can find &lt;em&gt;Upen&lt;/em&gt; all around you in Vekllei since, by its own spiritual metaphysics, animism is not human. It exists independently of human understanding or spirit, and &lt;em&gt;Upen&lt;/em&gt; is merely the practice by which humans are cognisant and interact with the spirit of things. Wherever people and material existence collide, including man-made objects, you find &lt;em&gt;Upen&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In this sense, &lt;em&gt;Upen&lt;/em&gt; can be understood as having two distinct forms, practiced differently depending on the occasion:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Public &lt;em&gt;Upen&lt;/em&gt;, which involves priests, communities, ceremony and cultural artefacts (like &lt;a href=&#34;https://millmint.net/utopia/culture/language/#25--upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://millmint.net/utopia/culture/language/#23--rapotenne&#34;&gt;&lt;em&gt;Rapotenne&lt;/em&gt;&lt;/a&gt;). Public &lt;em&gt;Upen&lt;/em&gt; manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.&lt;/li&gt;
-&lt;li&gt;Private &lt;em&gt;Upen&lt;/em&gt;, which involves personal understanding and direct physicality with the aspects of material being &lt;em&gt;Upen&lt;/em&gt; holds sacred, namely the spirit of all things and the human form.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
+  <a class="anchor" href="#introduction">#</a>
+</h3>
+<p>You can find <em>Upen</em> all around you in Vekllei since, by its own spiritual metaphysics, animism is not human. It exists independently of human understanding or spirit, and <em>Upen</em> is merely the practice by which humans are cognisant and interact with the spirit of things. Wherever people and material existence collide, including man-made objects, you find <em>Upen</em>.</p>
+<p>In this sense, <em>Upen</em> can be understood as having two distinct forms, practiced differently depending on the occasion:</p>
+<ul>
+<li>Public <em>Upen</em>, which involves priests, communities, ceremony and cultural artefacts (like <a href="/utopia/culture/language/#25--upotenne"><em>Upotenne</em></a> and <a href="/utopia/culture/language/#23--rapotenne"><em>Rapotenne</em></a>). Public <em>Upen</em> manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.</li>
+<li>Private <em>Upen</em>, which involves personal understanding and direct physicality with the aspects of material being <em>Upen</em> holds sacred, namely the spirit of all things and the human form.</li>
+</ul>
+<p>
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/spiritful.jpg&#34; alt=&#34;Picture of Tzipora in traditional dress&#34;  title=&#34;[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*&#34; loading=&#34;lazy&#34; /&gt;
-  &lt;figcaption&gt;&lt;a href=&#34;https://millmint.net/utopia/characters/#tzipora-zelda-desmoisnes&#34;&gt;Tzipora&lt;/a&gt; stands in traditional Upen dress before an offerings box. | &lt;em&gt;&lt;a href=&#34;https://millmint.net/posts/2021-06-19-spiritful/&#34;&gt;Spiritful&lt;/a&gt;&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Although &lt;em&gt;Upen&lt;/em&gt; does retain priests informally, it lacks a hierarchical structure and is largely agnostic towards organised religion, lived and practiced instead through traditions, folklore, lifestyle and metaphysics.&lt;/p&gt;
-&lt;p&gt;As atheistic and animistic, &lt;em&gt;Upen&lt;/em&gt; shelters landscape from becoming ‘simply nature’, as it does when viewed as a product of a monotheistic creator god. Within Vekllei&amp;rsquo;s &amp;rsquo;landscape&amp;rsquo; agnosticism, nature is not ‘simply nature’; it is a spiritual vessel in itself, inalienable and inextricably linked to human purpose and satisfaction. Industry is divorced from the whole concept; it is a country of forest commons, collective stewardship, and volcanic unrest.&lt;/p&gt;
-&lt;h2 id=&#34;etymology&#34;&gt;
+<figure>
+  <img src="https://images.millmint.net/images/spiritful.jpg" alt="Picture of Tzipora in traditional dress"  title="[Tzipora](/utopia/characters/#tzipora-zelda-desmoisnes) stands in traditional Upen dress before an offerings box. | *[Spiritful](/posts/2021-06-19-spiritful/)*" loading="lazy" />
+  <figcaption><a href="/utopia/characters/#tzipora-zelda-desmoisnes">Tzipora</a> stands in traditional Upen dress before an offerings box. | <em><a href="/posts/2021-06-19-spiritful/">Spiritful</a></em></figcaption>
+</figure>
+</p>
+<p>Although <em>Upen</em> does retain priests informally, it lacks a hierarchical structure and is largely agnostic towards organised religion, lived and practiced instead through traditions, folklore, lifestyle and metaphysics.</p>
+<p>As atheistic and animistic, <em>Upen</em> shelters landscape from becoming ‘simply nature’, as it does when viewed as a product of a monotheistic creator god. Within Vekllei&rsquo;s &rsquo;landscape&rsquo; agnosticism, nature is not ‘simply nature’; it is a spiritual vessel in itself, inalienable and inextricably linked to human purpose and satisfaction. Industry is divorced from the whole concept; it is a country of forest commons, collective stewardship, and volcanic unrest.</p>
+<h2 id="etymology">
   Etymology
-  &lt;a class=&#34;anchor&#34; href=&#34;#etymology&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. &lt;em&gt;U&lt;/em&gt; (pronounced &amp;lsquo;oo&amp;rsquo;) is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of &lt;a href=&#34;https://millmint.net/utopia/culture/language/#6-upotenne&#34;&gt;&lt;em&gt;Upotenne&lt;/em&gt;&lt;/a&gt;. &lt;em&gt;Upen&lt;/em&gt; likely has origins in a proto-&lt;em&gt;Islandi&lt;/em&gt; language called &lt;em&gt;Kala&lt;/em&gt;, which later was absorbed into &lt;em&gt;Topyas&lt;/em&gt;, the predecessor to &lt;a href=&#34;https://millmint.net/utopia/culture/language&#34;&gt;Vekllei&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In modern usage, &lt;em&gt;Upen&lt;/em&gt; refers to both the faith and metaphysic of Vekllei&amp;rsquo;s local animism, as well as a general indicator for Vekllei faith, myth and traditional folklore.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This article is currently under construction, and will soon feature more information about Vekllei&amp;rsquo;s spiritualism.&lt;/em&gt;&lt;/p&gt;
-
-	  </description>
+  <a class="anchor" href="#etymology">#</a>
+</h2>
+<p>Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. <em>U</em> (pronounced &lsquo;oo&rsquo;) is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of <a href="/utopia/culture/language/#6-upotenne"><em>Upotenne</em></a>. <em>Upen</em> likely has origins in a proto-<em>Islandi</em> language called <em>Kala</em>, which later was absorbed into <em>Topyas</em>, the predecessor to <a href="/utopia/culture/language">Vekllei</a>.</p>
+<p>In modern usage, <em>Upen</em> refers to both the faith and metaphysic of Vekllei&rsquo;s local animism, as well as a general indicator for Vekllei faith, myth and traditional folklore.</p>
+<p><em>This article is currently under construction, and will soon feature more information about Vekllei&rsquo;s spiritualism.</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

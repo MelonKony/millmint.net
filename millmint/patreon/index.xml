@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Patreon</title>
 	<link>https://millmint.net/millmint/patreon/</link>
 	<description>Recent content in Patreon </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Patreon</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/patreon/index.xml" rel="self" type="application/rss+xml" />
@@ -21,24 +23,22 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/drafts/comic/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;style&gt;
+	  ✿ Note from the Editor: This draft represents the final copy used as a reference for inking &ndash; the final lines. It&rsquo;s not pretty, but it is legible, and once all the inking and lettering and tone work is done it&rsquo;ll be quite special. There are a couple of pages missing. One between the airport and the cafe, and another to fill out the conversation in the cafe. Those will arrive soon.
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <style>
 .content img {
 	width: 100%!important;
 	margin: auto!important;
 }
-&lt;/style&gt;
-&lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;Note from the Editor:&lt;/strong&gt;
-This draft represents the final copy used as a reference for inking &amp;ndash; the final lines. It&amp;rsquo;s not pretty, but it is legible, and once all the inking and lettering and tone work is done it&amp;rsquo;ll be quite special. &lt;strong&gt;There are a couple of pages missing&lt;/strong&gt;. One between the airport and the cafe, and another to fill out the conversation in the cafe. Those will arrive soon. Thank you kindly for your support.&lt;/div&gt;
-&lt;/blockquote&gt;
+</style>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>Note from the Editor:</strong>
+This draft represents the final copy used as a reference for inking &ndash; the final lines. It&rsquo;s not pretty, but it is legible, and once all the inking and lettering and tone work is done it&rsquo;ll be quite special. <strong>There are a couple of pages missing</strong>. One between the airport and the cafe, and another to fill out the conversation in the cafe. Those will arrive soon. Thank you kindly for your support.</div>
+</blockquote>
 
 
 
@@ -46,174 +46,174 @@ This draft represents the final copy used as a reference for inking &amp;ndash; 
 
   
 
-&lt;button  href=&#34;https://millmint.net/comic/&#34;   class=&#34;article-button&#34;&gt;
+<button  href="/comic/"   class="article-button">
   Back to Chapters
-&lt;buttona&gt;
+<buttona>
 
-&lt;p&gt;
-
-
- 
-&lt;figure&gt;
-  &lt;img src=&#34;https://imgur.com/lES8o3e.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
-  
-&lt;/figure&gt;
-
-
+<p>
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/1.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://imgur.com/lES8o3e.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/2.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/1.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/3.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/2.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/4.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/3.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/5.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/4.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/6.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/5.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/7.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/6.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/8.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/7.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/9.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/8.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/10.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/9.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/11.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/10.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/12.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/11.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/13.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/12.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/14.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/13.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/15.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/14.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/16.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/15.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
 
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://images.millmint.net/images/comics/drafts/17.jpg&#34; alt=&#34;img&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/16.jpg" alt="img"  loading="lazy" />
   
-&lt;/figure&gt;
-&lt;/p&gt;
+</figure>
 
-	  </description>
+
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/comics/drafts/17.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

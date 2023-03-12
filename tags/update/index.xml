@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>update</title>
 	<link>https://millmint.net/tags/update/</link>
@@ -7,12 +15,6 @@
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Wed, 30 Jun 2021 08:00:00 EST</lastBuildDate>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>update</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/update/index.xml" rel="self" type="application/rss+xml" />
@@ -22,21 +24,23 @@
 	  <pubDate>Wed, 30 Jun 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/something-new/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/june.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/june.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Thanks for a great June&lt;/strong&gt;. We&amp;rsquo;ve had a lot of different types of posts this month. About 15 in all — that&amp;rsquo;s one every two days! Not bad! I could do with some sleep.&lt;/p&gt;
-&lt;p&gt;Something very special is approaching in July. I&amp;rsquo;m very excited to share it with you all — so are Tzipora and Cobian. A new chapter in Vekllei is fast approaching.&lt;/p&gt;
-&lt;p&gt;See you soon.&lt;/p&gt;
-&lt;p&gt;Much love,&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hobart&lt;/strong&gt; // MelonKony&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;Join the Patreon&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Be &amp;ldquo;petticoat.&amp;rdquo;&lt;/p&gt;
-
+	  Thanks for a great June. We&rsquo;ve had a lot of different types of posts this month. About 15 in all — that&rsquo;s one every two days! Not bad! I could do with some sleep.
+Something very special is approaching in July. I&rsquo;m very excited to share it with you all — so are Tzipora and Cobian. A new chapter in Vekllei is fast approaching.
+See you soon.
+Much love,
+Hobart // MelonKony
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/june.jpg"/> <p><strong>Thanks for a great June</strong>. We&rsquo;ve had a lot of different types of posts this month. About 15 in all — that&rsquo;s one every two days! Not bad! I could do with some sleep.</p>
+<p>Something very special is approaching in July. I&rsquo;m very excited to share it with you all — so are Tzipora and Cobian. A new chapter in Vekllei is fast approaching.</p>
+<p>See you soon.</p>
+<p>Much love,</p>
+<p><strong>Hobart</strong> // MelonKony</p>
+<p><a href="https://www.patreon.com/vekllei">Join the Patreon</a>.</p>
+<p>Be &ldquo;petticoat.&rdquo;</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -45,35 +49,35 @@
 	  <pubDate>Tue, 27 Oct 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/comic-update/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/comic.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/comic.jpg"/> 
-		  &lt;blockquote class=&#34;hint story&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This article&lt;/strong&gt; was featured in &lt;a href=&#34;https://millmint.net/news/bulletin/2020/6&#34;&gt;&lt;strong&gt;Issue #6&lt;/strong&gt;&lt;/a&gt; of the &lt;em&gt;Atlantic Bulletin&lt;/em&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hi everyone,&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;He not busy being born is busy dying,&amp;rdquo; — that’s off a Bob Dylan bootleg. I’ve just finished my thesis and I’m busy being born again. Sometimes I feel like I’m busy dying. Drawing’s been the way out for a long time now.&lt;/p&gt;
-&lt;p&gt;As of today I’m starting work full-time on a Vekllei comic called Atomic Modern. The front cover looks like a textbook. The name is not that interesting. That’s okay — apparently my honours in media didn’t do anything for my marketing ability, but this project is about celebrating mundanity and restraint. Tzipora’s got a fag in her mouth but it isn’t lit. I feel like that a lot of the time. It’s a self-contained image.&lt;/p&gt;
-&lt;p&gt;Atomic Modern is about Tzipora and Vekllei. It’s about her friends and her memories and all the good and bad parts of her life. It’s about what went down in America and how you can justify living. It’ll have beautiful Vekllei landscapes and characters in muted colour. It will also include passages that act as a guide to Vekllei and society — diagrams, infographics and footnotes. It’s also an escape from everything going on right now — there’s good and bad in all stories, but at the end of the day Vekllei is a utopia.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;I will publish pages here for free&lt;/strong&gt;. &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;I’ll collate them into chapters available exclusively to my patrons&lt;/a&gt;. Maybe some extra stuff too. I’m a good dad to my patrons. I already made a set of postcards and sent them out. Either way, you’ll continue to see stuff here.
-This is exciting, isn’t it? This is a new chapter for me as an artist. It’s a vulnerable moment for me, because up until now it’s just sort of been “posting on reddit”. I don’t have a publisher, I’m not trained, I’m just some guy. But this is what I’ve always wanted to do, and I’m trying to get busy being born again.&lt;/p&gt;
-&lt;p&gt;There should be regular world posts here still. There’s drawings I like to do that just don’t fit into a comic format. I think during weekdays I’ll work on the comic and on weekends I’ll do a painting. We’ll see how it goes.&lt;/p&gt;
-&lt;p&gt;Also, I’ll have a nice big wiki soon with multiple language support. I’ll let you know when it’s done.&lt;/p&gt;
-&lt;p&gt;Let’s start this again, with all that off my chest.&lt;/p&gt;
-&lt;p&gt;Hi, I’m Hobart. I’m busy getting born again.&lt;/p&gt;
-&lt;p&gt;Much love,&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;MelonKony&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://patreon.com/vekllei&#34;&gt;Join the Vekllei Patreon&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://discord.gg/dCE6vSU&#34;&gt;Join the Vekllei Discord&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Be “petticoat”.&lt;/p&gt;
-
+	  ✿ This article was featured in Issue #6 of the Atlantic Bulletin Hi everyone,
+&ldquo;He not busy being born is busy dying,&rdquo; — that’s off a Bob Dylan bootleg. I’ve just finished my thesis and I’m busy being born again. Sometimes I feel like I’m busy dying. Drawing’s been the way out for a long time now.
+As of today I’m starting work full-time on a Vekllei comic called Atomic Modern.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/comic.jpg"/> <blockquote class="hint story">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></div>
+</blockquote>
+
+<p>Hi everyone,</p>
+<p>&ldquo;He not busy being born is busy dying,&rdquo; — that’s off a Bob Dylan bootleg. I’ve just finished my thesis and I’m busy being born again. Sometimes I feel like I’m busy dying. Drawing’s been the way out for a long time now.</p>
+<p>As of today I’m starting work full-time on a Vekllei comic called Atomic Modern. The front cover looks like a textbook. The name is not that interesting. That’s okay — apparently my honours in media didn’t do anything for my marketing ability, but this project is about celebrating mundanity and restraint. Tzipora’s got a fag in her mouth but it isn’t lit. I feel like that a lot of the time. It’s a self-contained image.</p>
+<p>Atomic Modern is about Tzipora and Vekllei. It’s about her friends and her memories and all the good and bad parts of her life. It’s about what went down in America and how you can justify living. It’ll have beautiful Vekllei landscapes and characters in muted colour. It will also include passages that act as a guide to Vekllei and society — diagrams, infographics and footnotes. It’s also an escape from everything going on right now — there’s good and bad in all stories, but at the end of the day Vekllei is a utopia.</p>
+<p><strong>I will publish pages here for free</strong>. <a href="https://www.patreon.com/vekllei">I’ll collate them into chapters available exclusively to my patrons</a>. Maybe some extra stuff too. I’m a good dad to my patrons. I already made a set of postcards and sent them out. Either way, you’ll continue to see stuff here.
+This is exciting, isn’t it? This is a new chapter for me as an artist. It’s a vulnerable moment for me, because up until now it’s just sort of been “posting on reddit”. I don’t have a publisher, I’m not trained, I’m just some guy. But this is what I’ve always wanted to do, and I’m trying to get busy being born again.</p>
+<p>There should be regular world posts here still. There’s drawings I like to do that just don’t fit into a comic format. I think during weekdays I’ll work on the comic and on weekends I’ll do a painting. We’ll see how it goes.</p>
+<p>Also, I’ll have a nice big wiki soon with multiple language support. I’ll let you know when it’s done.</p>
+<p>Let’s start this again, with all that off my chest.</p>
+<p>Hi, I’m Hobart. I’m busy getting born again.</p>
+<p>Much love,</p>
+<p><strong>MelonKony</strong></p>
+<p><a href="http://patreon.com/vekllei">Join the Vekllei Patreon</a>.</p>
+<p><a href="https://discord.gg/dCE6vSU">Join the Vekllei Discord</a>.</p>
+<p>Be “petticoat”.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -82,30 +86,29 @@ This is exciting, isn’t it? This is a new chapter for me as an artist. It’s 
 	  <pubDate>Thu, 27 Aug 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/2000/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/sailorzelda.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/sailorzelda.jpg"/> 
-		  &lt;blockquote class=&#34;hint story&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ &lt;strong&gt;This article&lt;/strong&gt; was featured in &lt;a href=&#34;https://millmint.net/news/bulletin/2020/4&#34;&gt;&lt;strong&gt;Issue #4&lt;/strong&gt;&lt;/a&gt; of the &lt;em&gt;Atlantic Bulletin&lt;/em&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hello,&lt;/p&gt;
-&lt;p&gt;I’m Hobart. I’ve been working on this project for a while now. It doesn’t really have a purpose or an end goal — I just want to draw and write about nice things, and I’m learning a lot on the way.
-Welcome to everyone new here. I don’t really have anything to sell, I’d just like to thank you for tuning in and checking Vekllei out.&lt;/p&gt;
-&lt;p&gt;I’ve drawn Tzipora here as a sort of Sailor Moon knock-off. Good show that. The Japanese intro is very nostalgic, I’d love to do a little animated short in that style.&lt;/p&gt;
-&lt;p&gt;I post about twice a week. I do a bit of everything — machines, maps, characters, landscapes, architecture, etc. I’m truly a master of none.&lt;/p&gt;
-&lt;p&gt;You can come join the Discord if you’d like — it’s just a quiet community to share interests and talk: discord.gg/dCE6vSU&lt;/p&gt;
-&lt;p&gt;Otherwise, I’ll keep doing what I’m doing and you can keep liking my stuff (please). If you have any questions about the project, or just want to introduce yourselves, here’s a good place to do it!
-Thank you kindly to all commenters, readers and friends of the project, whether you’ve been here for years or for six hours — it’s very special to have so many people interested in work that’s so close to my heart.&lt;/p&gt;
-&lt;p&gt;Keep on keeping on,&lt;/p&gt;
-&lt;p&gt;Hobart&lt;/p&gt;
-
+	  ✿ This article was featured in Issue #4 of the Atlantic Bulletin Hello,
+I’m Hobart. I’ve been working on this project for a while now. It doesn’t really have a purpose or an end goal — I just want to draw and write about nice things, and I’m learning a lot on the way. Welcome to everyone new here. I don’t really have anything to sell, I’d just like to thank you for tuning in and checking Vekllei out.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sailorzelda.jpg"/> <blockquote class="hint story">
+  <div class="icon">
+</div> 
+  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/4"><strong>Issue #4</strong></a> of the <em>Atlantic Bulletin</em></div>
+</blockquote>
+
+<p>Hello,</p>
+<p>I’m Hobart. I’ve been working on this project for a while now. It doesn’t really have a purpose or an end goal — I just want to draw and write about nice things, and I’m learning a lot on the way.
+Welcome to everyone new here. I don’t really have anything to sell, I’d just like to thank you for tuning in and checking Vekllei out.</p>
+<p>I’ve drawn Tzipora here as a sort of Sailor Moon knock-off. Good show that. The Japanese intro is very nostalgic, I’d love to do a little animated short in that style.</p>
+<p>I post about twice a week. I do a bit of everything — machines, maps, characters, landscapes, architecture, etc. I’m truly a master of none.</p>
+<p>You can come join the Discord if you’d like — it’s just a quiet community to share interests and talk: discord.gg/dCE6vSU</p>
+<p>Otherwise, I’ll keep doing what I’m doing and you can keep liking my stuff (please). If you have any questions about the project, or just want to introduce yourselves, here’s a good place to do it!
+Thank you kindly to all commenters, readers and friends of the project, whether you’ve been here for years or for six hours — it’s very special to have so many people interested in work that’s so close to my heart.</p>
+<p>Keep on keeping on,</p>
+<p>Hobart</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -114,36 +117,39 @@ Thank you kindly to all commenters, readers and friends of the project, whether 
 	  <pubDate>Wed, 13 May 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/postcards/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/tzipostcards.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/tzipostcards.jpg"/> 
-		  &lt;p&gt;Hello everyone. &lt;strong&gt;Just a little update&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;As a way of thanking my Patrons, I’m taking some time over the next two weeks or so to create a little set of Tzipora postcards and send them out as gifts.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How many cards will the set contain?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I’m aiming for about six cards.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;How much money would you need to have forked over to get some?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I think about $20 over your pledge lifetime would cover print and shipping, though I’ll let you know if that goes up or down. I’m hoping to cover shipping, so you’ll just need to supply an address.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;What if I haven’t yet pledged enough?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;If you’re a Patron who hasn’t yet pledged the $20 or whatever it is to cover print and shipping, just contact me and I’ll make… alternative arrangements for you. Don’t worry — if you want the cards, you won’t miss out.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Who would even want these?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;People who like cute 6x4” illustrations on nice card stock will like them.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It’s a good time to plug my Patreon if you’ve got some government stimulus bux floating around — &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;link here&lt;/a&gt;. It produces enormous pressure for me to create new work and art, so if you’re a fan of what I do it’s a good way to position yourself as an investor and get on my ass about posting more.&lt;/p&gt;
-&lt;p&gt;Speaking of posts, there’s one coming tomorrow or the day after.&lt;/p&gt;
-&lt;p&gt;Thanks always, and best wishes.&lt;/p&gt;
-&lt;p&gt;Hobart&lt;/p&gt;
-
+	  Hello everyone. Just a little update.
+As a way of thanking my Patrons, I’m taking some time over the next two weeks or so to create a little set of Tzipora postcards and send them out as gifts.
+How many cards will the set contain?
+I’m aiming for about six cards.
+How much money would you need to have forked over to get some?
+I think about $20 over your pledge lifetime would cover print and shipping, though I’ll let you know if that goes up or down.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/tzipostcards.jpg"/> <p>Hello everyone. <strong>Just a little update</strong>.</p>
+<p>As a way of thanking my Patrons, I’m taking some time over the next two weeks or so to create a little set of Tzipora postcards and send them out as gifts.</p>
+<p><strong>How many cards will the set contain?</strong></p>
+<blockquote>
+<p>I’m aiming for about six cards.</p>
+</blockquote>
+<p><strong>How much money would you need to have forked over to get some?</strong></p>
+<blockquote>
+<p>I think about $20 over your pledge lifetime would cover print and shipping, though I’ll let you know if that goes up or down. I’m hoping to cover shipping, so you’ll just need to supply an address.</p>
+</blockquote>
+<p><strong>What if I haven’t yet pledged enough?</strong></p>
+<blockquote>
+<p>If you’re a Patron who hasn’t yet pledged the $20 or whatever it is to cover print and shipping, just contact me and I’ll make… alternative arrangements for you. Don’t worry — if you want the cards, you won’t miss out.</p>
+</blockquote>
+<p><strong>Who would even want these?</strong></p>
+<blockquote>
+<p>People who like cute 6x4” illustrations on nice card stock will like them.</p>
+</blockquote>
+<p>It’s a good time to plug my Patreon if you’ve got some government stimulus bux floating around — <a href="https://www.patreon.com/vekllei">link here</a>. It produces enormous pressure for me to create new work and art, so if you’re a fan of what I do it’s a good way to position yourself as an investor and get on my ass about posting more.</p>
+<p>Speaking of posts, there’s one coming tomorrow or the day after.</p>
+<p>Thanks always, and best wishes.</p>
+<p>Hobart</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -152,24 +158,22 @@ Thank you kindly to all commenters, readers and friends of the project, whether 
 	  <pubDate>Thu, 09 Jan 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/japan/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/japan.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/japan.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;Tzipora here is wearing a simplified form of Vekllei’s national dress, which plays fast and loose with lace and showcases some of Vekllei’s more decadent iconography. Long &lt;em&gt;gi&lt;/em&gt; (decorative quarter-pleats you’ve seen around) accompany &lt;em&gt;sun petticoats&lt;/em&gt;, or Vekllei lace aprons. Flowers take the place of astrology or the Zodiac in Vekllei, and so they often accompany spiritual runes (in upotenne, or religious script) about the girl. Other aspects are just as unique, but not nearly as noticeable. The loose style of shirt, folded at the elbow, is a deliberate imitation of Vekllei agricultural fashion, and three-fold socks and soft felt or leather shoes are worn by women of many ages and professions. Much like her ecology, Vekllei is also culturally atomised, and in her isolation has developed subtle variations of what might otherwise be dismissed as plain clothing items. Every part of her outfit has heritage and symbolism, often barely detectable to a foreigner.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Hi everyone,&lt;/p&gt;
-&lt;p&gt;4 hours from now I’m off to Japan again. The last time I was in Japan (August 2019) left me inspired and enthusiastic. While I was there I started work on this subreddit. What a good time it’s been.&lt;/p&gt;
-&lt;p&gt;1.2k subscribers later, and I’m off again. It’s been a hectic week. I’m still unpacking into my new house. The house is quite nice. I’m hoping to return to my roots somewhat, featuring different folks around Vekllei in a rougher concept style. Hopefully, I’ll find the time to stick to the semidaily illustration routine, instead of the 4-5 days I’ve been operating on for the last month or so.&lt;/p&gt;
-&lt;p&gt;I’d like to invite anyone interested to the &lt;a href=&#34;https://discord.gg/gpatU6H&#34;&gt;Vekllei Discord&lt;/a&gt;, which has blossomed into really great little community full of art and fashion and photography and all sorts of things. It’s much better than the r/worldbuilding Discord.&lt;/p&gt;
-&lt;p&gt;I’m hoping to do a drawing a day while I’m over there; the one time a year I acknowledge without caveats the Japanese influence on this worldbuilding project.&lt;/p&gt;
-&lt;p&gt;Best,&lt;/p&gt;
-&lt;p&gt;Hobart&lt;/p&gt;
-
+	  Tzipora here is wearing a simplified form of Vekllei’s national dress, which plays fast and loose with lace and showcases some of Vekllei’s more decadent iconography. Long gi (decorative quarter-pleats you’ve seen around) accompany sun petticoats, or Vekllei lace aprons. Flowers take the place of astrology or the Zodiac in Vekllei, and so they often accompany spiritual runes (in upotenne, or religious script) about the girl. Other aspects are just as unique, but not nearly as noticeable.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/japan.jpg"/> <blockquote>
+<p>Tzipora here is wearing a simplified form of Vekllei’s national dress, which plays fast and loose with lace and showcases some of Vekllei’s more decadent iconography. Long <em>gi</em> (decorative quarter-pleats you’ve seen around) accompany <em>sun petticoats</em>, or Vekllei lace aprons. Flowers take the place of astrology or the Zodiac in Vekllei, and so they often accompany spiritual runes (in upotenne, or religious script) about the girl. Other aspects are just as unique, but not nearly as noticeable. The loose style of shirt, folded at the elbow, is a deliberate imitation of Vekllei agricultural fashion, and three-fold socks and soft felt or leather shoes are worn by women of many ages and professions. Much like her ecology, Vekllei is also culturally atomised, and in her isolation has developed subtle variations of what might otherwise be dismissed as plain clothing items. Every part of her outfit has heritage and symbolism, often barely detectable to a foreigner.</p>
+</blockquote>
+<p>Hi everyone,</p>
+<p>4 hours from now I’m off to Japan again. The last time I was in Japan (August 2019) left me inspired and enthusiastic. While I was there I started work on this subreddit. What a good time it’s been.</p>
+<p>1.2k subscribers later, and I’m off again. It’s been a hectic week. I’m still unpacking into my new house. The house is quite nice. I’m hoping to return to my roots somewhat, featuring different folks around Vekllei in a rougher concept style. Hopefully, I’ll find the time to stick to the semidaily illustration routine, instead of the 4-5 days I’ve been operating on for the last month or so.</p>
+<p>I’d like to invite anyone interested to the <a href="https://discord.gg/gpatU6H">Vekllei Discord</a>, which has blossomed into really great little community full of art and fashion and photography and all sorts of things. It’s much better than the r/worldbuilding Discord.</p>
+<p>I’m hoping to do a drawing a day while I’m over there; the one time a year I acknowledge without caveats the Japanese influence on this worldbuilding project.</p>
+<p>Best,</p>
+<p>Hobart</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

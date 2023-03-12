@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>2017</title>
 	<link>https://millmint.net/tags/2017/</link>
@@ -7,12 +15,6 @@
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 12 Dec 2017 08:00:00 EST</lastBuildDate>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>2017</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/2017/index.xml" rel="self" type="application/rss+xml" />
@@ -22,18 +24,17 @@
 	  <pubDate>Tue, 12 Dec 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/blossoms/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/blossoms.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/blossoms.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Tzipora Desmoines is part of Troop 45 of the Vekllei Blossoms&lt;/strong&gt;. Every adult, as part of mandatory service in the country of Vekllei, owns and operates a firearm, most commonly a handgun. Because of this hazard, the children of Vekllei learn gun safety at an early age, either through school or the Blossoms.&lt;/p&gt;
-&lt;p&gt;On the cusp of the teen years, they can also learn how to operate weapons, like eleven-year-old Tzipora is doing here. She is small, at a bit over four foot two, and she struggles with the recoil of the shotgun. She wears the uniform of the Vekllei Blossoms, and off her hip is slung a canteen pouch and binoculars. Her troop practices shooting out in a Vekllei flower-tundra, called a &lt;em&gt;ro&lt;/em&gt;, far away from civilisation.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Tzipora is pronounced Tzee-poor-a Deh-mwah-neh. Check my post history for everything Vekllei, otherwise &lt;em&gt;feel free to ask questions&lt;/em&gt;.&lt;/p&gt;
-
+	  Tzipora Desmoines is part of Troop 45 of the Vekllei Blossoms. Every adult, as part of mandatory service in the country of Vekllei, owns and operates a firearm, most commonly a handgun. Because of this hazard, the children of Vekllei learn gun safety at an early age, either through school or the Blossoms.
+On the cusp of the teen years, they can also learn how to operate weapons, like eleven-year-old Tzipora is doing here.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/blossoms.jpg"/> <p><strong>Tzipora Desmoines is part of Troop 45 of the Vekllei Blossoms</strong>. Every adult, as part of mandatory service in the country of Vekllei, owns and operates a firearm, most commonly a handgun. Because of this hazard, the children of Vekllei learn gun safety at an early age, either through school or the Blossoms.</p>
+<p>On the cusp of the teen years, they can also learn how to operate weapons, like eleven-year-old Tzipora is doing here. She is small, at a bit over four foot two, and she struggles with the recoil of the shotgun. She wears the uniform of the Vekllei Blossoms, and off her hip is slung a canteen pouch and binoculars. Her troop practices shooting out in a Vekllei flower-tundra, called a <em>ro</em>, far away from civilisation.</p>
+<hr>
+<p>Tzipora is pronounced Tzee-poor-a Deh-mwah-neh. Check my post history for everything Vekllei, otherwise <em>feel free to ask questions</em>.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -42,21 +43,19 @@
 	  <pubDate>Tue, 05 Dec 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/radiation/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/radiation.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/radiation.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;He started collecting radioactive material&lt;/strong&gt; from the clocks and electronic appliances in his house earlier in the week. The material, which included radium and americium, was placed in a compartment in the living room wall of his apartment. This exposed his wife, nine-year-old son and infant daughter to dangerous levels of radioactivity. By Wednesday that week the baby had fallen ill, and Mrs Toutan took her to Miuounne General that evening, returning with a prescription for ibuprofen. While his father was at work, and his mother was in the garden, the son rang the police the next day, hallucinating figures attempting to enter through the apartment windows.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The infant girl received a dose of 2-3 Gy, swelling soft tissues and burning parts of the skin exposed to the rear living room wall. Her brother, 10, survived, but will almost certainly suffer the effects of ARS for the rest of his life. The danger to Vekllei families is made obvious by the Toutan tragedy  —  household appliances almost universally have little resistance to tampering, and threaten to expose inquisitive children, or as we have seen here, the mentally ill, to dangerous levels of radioactive material.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Mr Toutan, a veteran of the Sino-Taiwanese war&lt;/strong&gt;, was troubled by his experiences and was diagnosed prior to this incident with &lt;em&gt;shellshock&lt;/em&gt; and &lt;em&gt;trenchsickness&lt;/em&gt;. These ideas did not capture his suffering in entirety  —  he was shattered by his experience in the war, and disabled by chemical weaponry. His paranoia, stemming from what we know as PTSD, eventually deteriorated into mania. He was convinced of a coming nuclear apocalypse, and at some point had the idea that the creation of a private nuclear reactor could keep his family safe underground when the bombs dropped. Although he had neither the training or the intellectual chops for nuclear physics, he began to collect material that would soon poison his family and kill his infant daughter.&lt;/p&gt;
-&lt;p&gt;Some 75,000 veterans are registered with the various support bureaus in Vekllei. They shuffle between home and work, their faces blank, their souls in Taiwan. By the time Mr Toutan poisoned his family, maybe he was more than ready to go.&lt;/p&gt;
-
+	  He started collecting radioactive material from the clocks and electronic appliances in his house earlier in the week. The material, which included radium and americium, was placed in a compartment in the living room wall of his apartment. This exposed his wife, nine-year-old son and infant daughter to dangerous levels of radioactivity. By Wednesday that week the baby had fallen ill, and Mrs Toutan took her to Miuounne General that evening, returning with a prescription for ibuprofen.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/radiation.jpg"/> <p><strong>He started collecting radioactive material</strong> from the clocks and electronic appliances in his house earlier in the week. The material, which included radium and americium, was placed in a compartment in the living room wall of his apartment. This exposed his wife, nine-year-old son and infant daughter to dangerous levels of radioactivity. By Wednesday that week the baby had fallen ill, and Mrs Toutan took her to Miuounne General that evening, returning with a prescription for ibuprofen. While his father was at work, and his mother was in the garden, the son rang the police the next day, hallucinating figures attempting to enter through the apartment windows.</p>
+<blockquote>
+<p>The infant girl received a dose of 2-3 Gy, swelling soft tissues and burning parts of the skin exposed to the rear living room wall. Her brother, 10, survived, but will almost certainly suffer the effects of ARS for the rest of his life. The danger to Vekllei families is made obvious by the Toutan tragedy  —  household appliances almost universally have little resistance to tampering, and threaten to expose inquisitive children, or as we have seen here, the mentally ill, to dangerous levels of radioactive material.</p>
+</blockquote>
+<hr>
+<p><strong>Mr Toutan, a veteran of the Sino-Taiwanese war</strong>, was troubled by his experiences and was diagnosed prior to this incident with <em>shellshock</em> and <em>trenchsickness</em>. These ideas did not capture his suffering in entirety  —  he was shattered by his experience in the war, and disabled by chemical weaponry. His paranoia, stemming from what we know as PTSD, eventually deteriorated into mania. He was convinced of a coming nuclear apocalypse, and at some point had the idea that the creation of a private nuclear reactor could keep his family safe underground when the bombs dropped. Although he had neither the training or the intellectual chops for nuclear physics, he began to collect material that would soon poison his family and kill his infant daughter.</p>
+<p>Some 75,000 veterans are registered with the various support bureaus in Vekllei. They shuffle between home and work, their faces blank, their souls in Taiwan. By the time Mr Toutan poisoned his family, maybe he was more than ready to go.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -65,22 +64,21 @@
 	  <pubDate>Tue, 28 Nov 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/seaside/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/seaside.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/seaside.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;About this time of year, in the place between high summer and autumn, the weather is good in Vekllei&lt;/strong&gt;. Vekllei is too cold for crickets, but insects are out and the air hums with life  —  birds, helijets, and the soft noise an ocean breeze makes as it races toward the harbour, pulling on leaves and skirt hems along the way.&lt;/p&gt;
-&lt;p&gt;The Lola monorail carries tourists and workers between the district centre and the World Expo Tower. A medihelijet buzzes the top of the hill, circling for a place to land. In the distance a supersonic jet roars off to New York. It’s a great time to be alive.
-Anchored far from the harbour is an enormous nuclear aircraft carrier. From the top of the hill you can see jets jump off and return to the deck like bees in the spring. It’s training season and the air force cadets are piloting jump-jets.&lt;/p&gt;
-&lt;p&gt;The days this time of year are almost twenty hours long  —  the nightlife is endless and exhausting. In winter Vekllei rests, sleepy, until springtime returns in late May.&lt;/p&gt;
-&lt;p&gt;The view from Lola is smaller than that of the rest of the city  —  the planned city of Vekllei is a few hillsides over, making Lola a wonderful location to raise a family. It feels quiet and small, and the city centre is only ten minutes away by hypertrain.&lt;/p&gt;
-&lt;p&gt;In this coming late autumn Vekllei will be struck by two nuclear bombs, and although Lola will be spared, the event will radically change life in the sprawling, utopian city of Vekllei.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;If you have any questions, let me know! You can see more of Vekllei &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/74l1yc/a_little_vekllei_general_store/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/75p2nt/watching_the_end_of_the_world/&#34;&gt;here&lt;/a&gt;. &lt;em&gt;Thanks for reading.&lt;/em&gt;&lt;/p&gt;
-
+	  About this time of year, in the place between high summer and autumn, the weather is good in Vekllei. Vekllei is too cold for crickets, but insects are out and the air hums with life — birds, helijets, and the soft noise an ocean breeze makes as it races toward the harbour, pulling on leaves and skirt hems along the way.
+The Lola monorail carries tourists and workers between the district centre and the World Expo Tower.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/seaside.jpg"/> <p><strong>About this time of year, in the place between high summer and autumn, the weather is good in Vekllei</strong>. Vekllei is too cold for crickets, but insects are out and the air hums with life  —  birds, helijets, and the soft noise an ocean breeze makes as it races toward the harbour, pulling on leaves and skirt hems along the way.</p>
+<p>The Lola monorail carries tourists and workers between the district centre and the World Expo Tower. A medihelijet buzzes the top of the hill, circling for a place to land. In the distance a supersonic jet roars off to New York. It’s a great time to be alive.
+Anchored far from the harbour is an enormous nuclear aircraft carrier. From the top of the hill you can see jets jump off and return to the deck like bees in the spring. It’s training season and the air force cadets are piloting jump-jets.</p>
+<p>The days this time of year are almost twenty hours long  —  the nightlife is endless and exhausting. In winter Vekllei rests, sleepy, until springtime returns in late May.</p>
+<p>The view from Lola is smaller than that of the rest of the city  —  the planned city of Vekllei is a few hillsides over, making Lola a wonderful location to raise a family. It feels quiet and small, and the city centre is only ten minutes away by hypertrain.</p>
+<p>In this coming late autumn Vekllei will be struck by two nuclear bombs, and although Lola will be spared, the event will radically change life in the sprawling, utopian city of Vekllei.</p>
+<hr>
+<p>If you have any questions, let me know! You can see more of Vekllei <a href="https://www.reddit.com/r/worldbuilding/comments/74l1yc/a_little_vekllei_general_store/">here</a> and <a href="https://www.reddit.com/r/worldbuilding/comments/75p2nt/watching_the_end_of_the_world/">here</a>. <em>Thanks for reading.</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -89,29 +87,27 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Tue, 07 Nov 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/cop/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/beatcops.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/beatcops.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;It was just like any other evening in Monouiz&lt;/strong&gt;; a no-good view of one part concrete, one part fescue, and a whole lotta quiet. He knew the broad from his days hunting smuggler types in jazz bars and street cars, a gig not worth gigging now that prohibition was over. She was a pretty little chickadee attached to a big guy of bad temper, and he guessed one night he took it too far. The girl swung her frypan into him, and on the way down he hit his head. Hard. Another sob story from the city of silence. He took another drag and breathed out, smoke filling his dingy apartment. The girl was only nineteen.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;p&gt;With &lt;em&gt;that&lt;/em&gt; bullshit out of the way, let’s talk business. Lila Ouilanan, 19, is being led away by two Vekllei cops from the home where she lived with her fiance.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Almost all crime in Vekllei, in an absence of currency and any real material value, is domestic. Police here are as much negotiators and therapists as they are detectives. Lila was engaged to her boyfriend, who beat her, when she hit him with a frying pan. He hit his head on a countertop, which killed him. She was later acquitted.&lt;/li&gt;
-&lt;li&gt;The policewoman is wearing a summer uniform. The winter uniform is similar, but they wear a blouse and can also choose to wear navy wool stockings. Female firearms officers, who are trained with heavy and automatic weapons, wear trousers and boots.&lt;/li&gt;
-&lt;li&gt;The policeman is wearing an all-season uniform with navy coat. The summer uniform looks similar to the female variant, except with a cap and trousers.&lt;/li&gt;
-&lt;li&gt;Firearms officers make up one in every four officers, and operate anti terrorist and militia duties. They are not necessarily senior to regular officers, but instead have military training and act as a form of civil defense in the event of an invasion or following a nuclear attack. They are trained to direct civilian partisans and recruit resistance movements, rendering them partially paramilitary.&lt;/li&gt;
-&lt;li&gt;All officers carry a pistol, usually a revolver, and a variant of truncheon suited to the specific officer. Mobile units, which use vehicles to patrol, carry a heavier tactical weapon, like a shotgun, in the vehicle.&lt;/li&gt;
-&lt;li&gt;Except in specific units designed for a special purpose, all officers patrol and enforce law in the district they live in. Most officers know most civilians living in an area, and they regularly drop by apartments to meet and communicate with the local population.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Forgive the sketch. If you have any &lt;strong&gt;questions or comments&lt;/strong&gt;, I’d love to hear them.&lt;/p&gt;
-
+	  It was just like any other evening in Monouiz; a no-good view of one part concrete, one part fescue, and a whole lotta quiet. He knew the broad from his days hunting smuggler types in jazz bars and street cars, a gig not worth gigging now that prohibition was over. She was a pretty little chickadee attached to a big guy of bad temper, and he guessed one night he took it too far.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/beatcops.jpg"/> <blockquote>
+<p><strong>It was just like any other evening in Monouiz</strong>; a no-good view of one part concrete, one part fescue, and a whole lotta quiet. He knew the broad from his days hunting smuggler types in jazz bars and street cars, a gig not worth gigging now that prohibition was over. She was a pretty little chickadee attached to a big guy of bad temper, and he guessed one night he took it too far. The girl swung her frypan into him, and on the way down he hit his head. Hard. Another sob story from the city of silence. He took another drag and breathed out, smoke filling his dingy apartment. The girl was only nineteen.</p>
+</blockquote>
+<hr>
+<p>With <em>that</em> bullshit out of the way, let’s talk business. Lila Ouilanan, 19, is being led away by two Vekllei cops from the home where she lived with her fiance.</p>
+<ul>
+<li>Almost all crime in Vekllei, in an absence of currency and any real material value, is domestic. Police here are as much negotiators and therapists as they are detectives. Lila was engaged to her boyfriend, who beat her, when she hit him with a frying pan. He hit his head on a countertop, which killed him. She was later acquitted.</li>
+<li>The policewoman is wearing a summer uniform. The winter uniform is similar, but they wear a blouse and can also choose to wear navy wool stockings. Female firearms officers, who are trained with heavy and automatic weapons, wear trousers and boots.</li>
+<li>The policeman is wearing an all-season uniform with navy coat. The summer uniform looks similar to the female variant, except with a cap and trousers.</li>
+<li>Firearms officers make up one in every four officers, and operate anti terrorist and militia duties. They are not necessarily senior to regular officers, but instead have military training and act as a form of civil defense in the event of an invasion or following a nuclear attack. They are trained to direct civilian partisans and recruit resistance movements, rendering them partially paramilitary.</li>
+<li>All officers carry a pistol, usually a revolver, and a variant of truncheon suited to the specific officer. Mobile units, which use vehicles to patrol, carry a heavier tactical weapon, like a shotgun, in the vehicle.</li>
+<li>Except in specific units designed for a special purpose, all officers patrol and enforce law in the district they live in. Most officers know most civilians living in an area, and they regularly drop by apartments to meet and communicate with the local population.</li>
+</ul>
+<hr>
+<p>Forgive the sketch. If you have any <strong>questions or comments</strong>, I’d love to hear them.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -120,23 +116,21 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Tue, 24 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/princess/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/princessofearth.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/princessofearth.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Barbaloh was once the spirit of a rainforest&lt;/strong&gt;, but now lives only in the world of the spirits as a merchant, selling potions, spells and other supernatural nonsense. &lt;strong&gt;Tzipora&lt;/strong&gt;, a brave human girl and fierce humanist, has gained passage to the spirit world through the bones of a derden, or “angel”. She found herself in another dimension and in total darkness, and the spirits immediately sensed her presence, taking physical and anthropomorphic forms to talk to her. A blood spirit, speaking as a deformed rodent creature, took interest in the arteries in her forearms. She would have been killed if not for Barbaloh’s customers, who drove the spirit off and demanded she meet with Barbaloh. They tell her that she is the first human to enter the spirit world in forty-five thousand years, and since Barbaloh is the defacto lord of the spirit marketplace, he shall listen to what she has to say.&lt;/p&gt;
-&lt;p&gt;A frog-like spirit called &lt;strong&gt;Woh&lt;/strong&gt; tells her to strip off the filthy school uniform she’d arrived in, and materialises a beautiful gown in front of her. He tells her to wear it, and Tzipora protests, but she begrudgingly undoes the buttons of her shirt and reaches for the gown.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“There,” Woh tells her in a voice that isn’t human, “&lt;strong&gt;you are now the Princess of the Earth&lt;/strong&gt;.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And so Tzipora, at least to the spirits, inherited the Earth. Terrified and alone, she became the ambassador of the human race, and to save them she would have to meet Barbaloh.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;There are obvious elements of spirit culture in the design of the gown. The lanterns suspended from wooden poles give her passage in this place, the left one protecting her body from the spirits and the right one ensuring her blood continues to flow. As a human with a physical form, she is vulnerable to the temperaments of these creatures. Barbaloh asks her to take off her shoes and socks and walk barefoot, to anchor her to the world. Physical beings can become detached from reality down here, forgetting their birth names, forgetting their body and finally starving a state of vegetation. The gown is embedded with crystals of the Earth, sewn out of a material like silk. Circles are a recurring motif, in reference to the Earth.&lt;/p&gt;
-&lt;p&gt;The story of Tzipora and my retrofuturistic world is a long and occasionally confusing one. It is set in the summer of 2063. If you would like to know more, just ask, or check my post history for everything Vekllei-related. &lt;em&gt;Thanks for listening&lt;/em&gt;.&lt;/p&gt;
-
+	  Barbaloh was once the spirit of a rainforest, but now lives only in the world of the spirits as a merchant, selling potions, spells and other supernatural nonsense. Tzipora, a brave human girl and fierce humanist, has gained passage to the spirit world through the bones of a derden, or “angel”. She found herself in another dimension and in total darkness, and the spirits immediately sensed her presence, taking physical and anthropomorphic forms to talk to her.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/princessofearth.jpg"/> <p><strong>Barbaloh was once the spirit of a rainforest</strong>, but now lives only in the world of the spirits as a merchant, selling potions, spells and other supernatural nonsense. <strong>Tzipora</strong>, a brave human girl and fierce humanist, has gained passage to the spirit world through the bones of a derden, or “angel”. She found herself in another dimension and in total darkness, and the spirits immediately sensed her presence, taking physical and anthropomorphic forms to talk to her. A blood spirit, speaking as a deformed rodent creature, took interest in the arteries in her forearms. She would have been killed if not for Barbaloh’s customers, who drove the spirit off and demanded she meet with Barbaloh. They tell her that she is the first human to enter the spirit world in forty-five thousand years, and since Barbaloh is the defacto lord of the spirit marketplace, he shall listen to what she has to say.</p>
+<p>A frog-like spirit called <strong>Woh</strong> tells her to strip off the filthy school uniform she’d arrived in, and materialises a beautiful gown in front of her. He tells her to wear it, and Tzipora protests, but she begrudgingly undoes the buttons of her shirt and reaches for the gown.</p>
+<blockquote>
+<p>“There,” Woh tells her in a voice that isn’t human, “<strong>you are now the Princess of the Earth</strong>.”</p>
+</blockquote>
+<p>And so Tzipora, at least to the spirits, inherited the Earth. Terrified and alone, she became the ambassador of the human race, and to save them she would have to meet Barbaloh.</p>
+<hr>
+<p>There are obvious elements of spirit culture in the design of the gown. The lanterns suspended from wooden poles give her passage in this place, the left one protecting her body from the spirits and the right one ensuring her blood continues to flow. As a human with a physical form, she is vulnerable to the temperaments of these creatures. Barbaloh asks her to take off her shoes and socks and walk barefoot, to anchor her to the world. Physical beings can become detached from reality down here, forgetting their birth names, forgetting their body and finally starving a state of vegetation. The gown is embedded with crystals of the Earth, sewn out of a material like silk. Circles are a recurring motif, in reference to the Earth.</p>
+<p>The story of Tzipora and my retrofuturistic world is a long and occasionally confusing one. It is set in the summer of 2063. If you would like to know more, just ask, or check my post history for everything Vekllei-related. <em>Thanks for listening</em>.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -145,17 +139,15 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Thu, 19 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/spies/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/spies.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/spies.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;In Nevada about this time of year, the temperature stays steady at 45 degrees&lt;/strong&gt; (~115 in yank). The asphalt sticks to shoes. On the far right is &lt;strong&gt;Lenny the Jew&lt;/strong&gt;. The moniker is his own; he’s a Jew from New York who ended up working for the &lt;strong&gt;Vekllei Rocketry Corps&lt;/strong&gt;, the Vekllei espionage agency responsible for operations in the southern United States. Lenny the Jew is good with women, and violence. He operates as a “live” agent, hunting and eliminating Chinese and American spies when necessary, bringing radicals over the border to cause trouble, and squeezing persons of interest for information. His boss is sitting next to him. &lt;strong&gt;Michael&lt;/strong&gt; operates the Vekllei Rocketry Corps, but rarely participates “live”. His daughter, shipped over from the homeland after the death of her mother, understands the secrecy  —  but not the scope  —  of what he does. Lenny the Jew has affection for &lt;strong&gt;Tzipora&lt;/strong&gt;; she’s a strange kid that doesn’t get on well with her peers, so he brings her gifts when he calls by their house.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Vekllei espionage is chaotic&lt;/strong&gt;. Very little interest is given towards industrial espionage, unlike the Chinese, who are chasing aerospace and nuclear technology. Vekllei is interested in provoking, destabilising, disrupting, distracting and sabotaging political and economic life in the United States. The Rocketry Corps, despite its name, ferries drugs over the border, commits terrorism and murder, disappears threats, distributes agitprop and pampers people of interest. It is the largest of the localised Vekllei espionage agencies, with little judicial oversight and a nationalistic fervour that makes the Rocketry Corps one of the largest internal threats in the United States today.&lt;/p&gt;
-
+	  In Nevada about this time of year, the temperature stays steady at 45 degrees (~115 in yank). The asphalt sticks to shoes. On the far right is Lenny the Jew. The moniker is his own; he’s a Jew from New York who ended up working for the Vekllei Rocketry Corps, the Vekllei espionage agency responsible for operations in the southern United States. Lenny the Jew is good with women, and violence.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/spies.jpg"/> <p><strong>In Nevada about this time of year, the temperature stays steady at 45 degrees</strong> (~115 in yank). The asphalt sticks to shoes. On the far right is <strong>Lenny the Jew</strong>. The moniker is his own; he’s a Jew from New York who ended up working for the <strong>Vekllei Rocketry Corps</strong>, the Vekllei espionage agency responsible for operations in the southern United States. Lenny the Jew is good with women, and violence. He operates as a “live” agent, hunting and eliminating Chinese and American spies when necessary, bringing radicals over the border to cause trouble, and squeezing persons of interest for information. His boss is sitting next to him. <strong>Michael</strong> operates the Vekllei Rocketry Corps, but rarely participates “live”. His daughter, shipped over from the homeland after the death of her mother, understands the secrecy  —  but not the scope  —  of what he does. Lenny the Jew has affection for <strong>Tzipora</strong>; she’s a strange kid that doesn’t get on well with her peers, so he brings her gifts when he calls by their house.</p>
+<hr>
+<p><strong>Vekllei espionage is chaotic</strong>. Very little interest is given towards industrial espionage, unlike the Chinese, who are chasing aerospace and nuclear technology. Vekllei is interested in provoking, destabilising, disrupting, distracting and sabotaging political and economic life in the United States. The Rocketry Corps, despite its name, ferries drugs over the border, commits terrorism and murder, disappears threats, distributes agitprop and pampers people of interest. It is the largest of the localised Vekllei espionage agencies, with little judicial oversight and a nationalistic fervour that makes the Rocketry Corps one of the largest internal threats in the United States today.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -164,22 +156,21 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Sat, 14 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/spirit-world/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/spiritworld.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/spiritworld.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Suddenly the blood drained from her lungs&lt;/strong&gt; and she breathed in, only to double over, hacking blood into the grass between her shoes. She wiped her bloody mouth on the back of her arm and mumbled something like ‘sorry’ before coughing again. She slipped off her shoes and made her way to the clearing.&lt;/p&gt;
-&lt;p&gt;She saw the bones and knelt in front of them, laying some flowers out for it and waiting respectfully. After a few minutes she worked up the nerve to open her mouth, and when she wasn’t attacked, she began to talk to it in a soft little voice. She said she wanted to go to the spirit world, and it did nothing. She said she needed to go there because she’d been having dreams about great monsters rising up and destroying humanity. It didn’t move, and she glanced at the forest spirits that had gathered around her. She clasped her hands together and started to introduce herself to the bones. She was Tzipora, she grew up in the city of Vekllei not far from here, her parents died when she was young and her adoptive mother was struck by a truck and killed last summer. She loves her father and country and doesn’t want it to be destroyed.&lt;/p&gt;
-&lt;p&gt;As she talked more she found herself saying aloud things she’d never said before. About being a Gregori baby, about feeling separated from the rest of the human race, about the time she went to a festival with a Japanese boy who was gone now. She said she liked to write and hadn’t ever eaten a hotdog but she wanted to, and that once the older girls molested her out the back of the school. She said she liked her hair when it was like this; bouncy and self-regulating. She didn’t know why it wouldn’t stay like this all the time, but she didn’t have a hairbrush, so it was good that it looked good today.&lt;/p&gt;
-&lt;p&gt;An hour passed and she ran out of things to say and realised her entire life could fit in a conversation on an average bus trip. She unclasped her hands but didn’t dare shift from her kneel. All of a sudden, the grass beneath her disappeared and she plummeted, shoes, flowers and all, into darkness.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;The above passage was written with this picture.&lt;/strong&gt; This is the moment that Tzipora, a &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/6xtflc/tzipora_one_of_the_children_to_stop_ageing_vekllei/&#34;&gt;Gregori baby&lt;/a&gt; enters the spirit world to stop ancient creatures called &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/752bfk/the_face_of_human_extinction/&#34;&gt;Lehmenan&lt;/a&gt; from destroying the world. The Lehmenan are restless after a &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/75p2nt/watching_the_end_of_the_world/&#34;&gt;nuclear war between China and the United States&lt;/a&gt;. Very few people, and all of them children, know that spirits exist. Alone and terrified of losing the world to the Lehmenan, Tzipora goes to the bones of the Lehmenan’s creator, the &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/752bfk/the_face_of_human_extinction/&#34;&gt;now-extinct Derden&lt;/a&gt;, and asks it to let her into the spirit world.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;I understand this is quite a lot to take in. Ask me a question, follow the links for more information on the parts of this world, or check my post history if you want more information.&lt;/em&gt; I love questions and comments.&lt;/p&gt;
-&lt;p&gt;EDIT: Sprinkled a couple more links in and decided to proofread.&lt;/p&gt;
-
+	  Suddenly the blood drained from her lungs and she breathed in, only to double over, hacking blood into the grass between her shoes. She wiped her bloody mouth on the back of her arm and mumbled something like ‘sorry’ before coughing again. She slipped off her shoes and made her way to the clearing.
+She saw the bones and knelt in front of them, laying some flowers out for it and waiting respectfully.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/spiritworld.jpg"/> <p><strong>Suddenly the blood drained from her lungs</strong> and she breathed in, only to double over, hacking blood into the grass between her shoes. She wiped her bloody mouth on the back of her arm and mumbled something like ‘sorry’ before coughing again. She slipped off her shoes and made her way to the clearing.</p>
+<p>She saw the bones and knelt in front of them, laying some flowers out for it and waiting respectfully. After a few minutes she worked up the nerve to open her mouth, and when she wasn’t attacked, she began to talk to it in a soft little voice. She said she wanted to go to the spirit world, and it did nothing. She said she needed to go there because she’d been having dreams about great monsters rising up and destroying humanity. It didn’t move, and she glanced at the forest spirits that had gathered around her. She clasped her hands together and started to introduce herself to the bones. She was Tzipora, she grew up in the city of Vekllei not far from here, her parents died when she was young and her adoptive mother was struck by a truck and killed last summer. She loves her father and country and doesn’t want it to be destroyed.</p>
+<p>As she talked more she found herself saying aloud things she’d never said before. About being a Gregori baby, about feeling separated from the rest of the human race, about the time she went to a festival with a Japanese boy who was gone now. She said she liked to write and hadn’t ever eaten a hotdog but she wanted to, and that once the older girls molested her out the back of the school. She said she liked her hair when it was like this; bouncy and self-regulating. She didn’t know why it wouldn’t stay like this all the time, but she didn’t have a hairbrush, so it was good that it looked good today.</p>
+<p>An hour passed and she ran out of things to say and realised her entire life could fit in a conversation on an average bus trip. She unclasped her hands but didn’t dare shift from her kneel. All of a sudden, the grass beneath her disappeared and she plummeted, shoes, flowers and all, into darkness.</p>
+<hr>
+<p><strong>The above passage was written with this picture.</strong> This is the moment that Tzipora, a <a href="https://www.reddit.com/r/worldbuilding/comments/6xtflc/tzipora_one_of_the_children_to_stop_ageing_vekllei/">Gregori baby</a> enters the spirit world to stop ancient creatures called <a href="https://www.reddit.com/r/worldbuilding/comments/752bfk/the_face_of_human_extinction/">Lehmenan</a> from destroying the world. The Lehmenan are restless after a <a href="https://www.reddit.com/r/worldbuilding/comments/75p2nt/watching_the_end_of_the_world/">nuclear war between China and the United States</a>. Very few people, and all of them children, know that spirits exist. Alone and terrified of losing the world to the Lehmenan, Tzipora goes to the bones of the Lehmenan’s creator, the <a href="https://www.reddit.com/r/worldbuilding/comments/752bfk/the_face_of_human_extinction/">now-extinct Derden</a>, and asks it to let her into the spirit world.</p>
+<p><em>I understand this is quite a lot to take in. Ask me a question, follow the links for more information on the parts of this world, or check my post history if you want more information.</em> I love questions and comments.</p>
+<p>EDIT: Sprinkled a couple more links in and decided to proofread.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -188,19 +179,18 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Fri, 13 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/vk-dress/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/vkdress.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/vkdress.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Vekllei people are usually buried in their national dress.&lt;/strong&gt; It marks the important stages in their way of life; of graduation, of marriage, of ceremony. The carousel of festivals and parades and holidays that these Atlantic people enjoy are all spent in uniform, their national costume, that forms the public face of their country.&lt;/p&gt;
-&lt;p&gt;Lou and Mey here, two happy young things in love, are dressed up for the National Holiday. It is the biggest event of the year. Mey wears a flower as a hairpiece and a red pinafore in the national colours. Under her &lt;strong&gt;Lawhsk Ehma&lt;/strong&gt;, which is equivalent to a “Maiden’s Apron” in English, she has a wide lace half-petticoat called a &lt;strong&gt;Doeh&lt;/strong&gt;. The Doeh is unique to each girl, and is designed for them at menarche, or her first period. The little lace patterns have special meaning that inscribe parts of her personality, her background and her work. They are always buried with the girl, either worn or folded and pocketed. In Vekllei they wear red sandals and white socks or stockings to match the flag.&lt;/p&gt;
-&lt;p&gt;They both wear the Eliese flower, and usually another pin that marks their heritage  —  the son of a shipbuilder will wear the maritime cross. Both Lou and Mey here wear the Industry Roundel Star. His father is a dyehouse foreman and her mother works as a machinist in a robot factory. Lou wears a half-cape, barely visible here, that is called a &lt;strong&gt;Toutahn&lt;/strong&gt; and is usually handed down, as opposed to the Doeh. The white cap is both part of the national dress and ceremonial dress in the armed forces. Lou smokes, which is uncommon but not unheard of for sixteen-year-olds.&lt;/p&gt;
-&lt;p&gt;On the National Holiday, which lasts a week, all of Vekllei is put on display. Aircraft carriers dock for visitors, the parliament dissolves for a week and is opens its doors to the public, and a thumping nightlife begins to introduce teenagers like Lou and Mey here to the finer things of life.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you have any questions or comments, let me know!&lt;/em&gt;&lt;/p&gt;
-
+	  Vekllei people are usually buried in their national dress. It marks the important stages in their way of life; of graduation, of marriage, of ceremony. The carousel of festivals and parades and holidays that these Atlantic people enjoy are all spent in uniform, their national costume, that forms the public face of their country.
+Lou and Mey here, two happy young things in love, are dressed up for the National Holiday.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/vkdress.jpg"/> <p><strong>Vekllei people are usually buried in their national dress.</strong> It marks the important stages in their way of life; of graduation, of marriage, of ceremony. The carousel of festivals and parades and holidays that these Atlantic people enjoy are all spent in uniform, their national costume, that forms the public face of their country.</p>
+<p>Lou and Mey here, two happy young things in love, are dressed up for the National Holiday. It is the biggest event of the year. Mey wears a flower as a hairpiece and a red pinafore in the national colours. Under her <strong>Lawhsk Ehma</strong>, which is equivalent to a “Maiden’s Apron” in English, she has a wide lace half-petticoat called a <strong>Doeh</strong>. The Doeh is unique to each girl, and is designed for them at menarche, or her first period. The little lace patterns have special meaning that inscribe parts of her personality, her background and her work. They are always buried with the girl, either worn or folded and pocketed. In Vekllei they wear red sandals and white socks or stockings to match the flag.</p>
+<p>They both wear the Eliese flower, and usually another pin that marks their heritage  —  the son of a shipbuilder will wear the maritime cross. Both Lou and Mey here wear the Industry Roundel Star. His father is a dyehouse foreman and her mother works as a machinist in a robot factory. Lou wears a half-cape, barely visible here, that is called a <strong>Toutahn</strong> and is usually handed down, as opposed to the Doeh. The white cap is both part of the national dress and ceremonial dress in the armed forces. Lou smokes, which is uncommon but not unheard of for sixteen-year-olds.</p>
+<p>On the National Holiday, which lasts a week, all of Vekllei is put on display. Aircraft carriers dock for visitors, the parliament dissolves for a week and is opens its doors to the public, and a thumping nightlife begins to introduce teenagers like Lou and Mey here to the finer things of life.</p>
+<p><em>If you have any questions or comments, let me know!</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -209,21 +199,19 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Thu, 12 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/missile/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/apocolypse.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/apocolypse.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;The sight of the missiles nearly made her sick.&lt;/strong&gt; Everything around her took on new context. It was such a peaceful afternoon, and the sirens hadn’t gone off, and here she was, watching the trails the missiles painted in the cloudless sky. And now she was blessed with a newfound psychic ability that told her that everything in this spot would be vapour in a half hour. The wheat, the forest, the road; everything. Anyone who wasn’t looking at the sky didn’t know it yet. To folks indoors or out of view of the vapour trails, it was still a beautiful spring. It took a half hour for Vekllei missiles to reach China. Theirs took about the same to get here.&lt;/p&gt;
-&lt;p&gt;The sirens didn’t go off until five minutes after the missiles launched. You could tell they were civil defense sirens because they built up to a whine and stayed there, a sound they’d all heard in drills, but it wasn’t drill season. Tzipora scrambled down the side of the ditch and took her bike with her, and sat cross-legged in the brook with her hands over her eyes. If everything became bright she’d hold her breath and lie face down until she was either dead or the sonic boom flung her downstream.&lt;/p&gt;
-&lt;p&gt;On May 6th 2064 the mid-Atlantic country of &lt;strong&gt;Vekllei&lt;/strong&gt;, &lt;strong&gt;China&lt;/strong&gt;, and the &lt;strong&gt;United States&lt;/strong&gt; participated in a confused nuclear war that nearly annihilated North America and East Asia. In Vekllei, two bombs hit, and the rest of the Chinese delivery aircraft was downed by the air force. The two small-yield ground-burst weapons killed only 20,000. Many millions were saved by the comprehensive civil defense of the country. The United States lost forty million people. China is unknown, but is likely in the hundreds of millions after the full retaliatory strike from two separate countries.&lt;/p&gt;
-&lt;p&gt;The war had wider consequences, as it awakened ancient creatures underground that were built to protect the Earth. The creatures, called &lt;strong&gt;Lehmenan&lt;/strong&gt; in a dead tongue, would in the weeks following the war attempt to wipe the surface of the world clean of human society.&lt;/p&gt;
-&lt;p&gt;You can read about Tzipora &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/6xtflc/tzipora_one_of_the_children_to_stop_ageing_vekllei/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/7249z5/tzipora_the_undying_miracle_child_vekllei/&#34;&gt;here&lt;/a&gt;. The Lehmanen, angels and spirit worlds are described in my post &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/752bfk/the_face_of_human_extinction/&#34;&gt;here&lt;/a&gt;. Learn more about the country of Vekllei &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/74l1yc/a_little_vekllei_general_store/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Or, hell, you could just ask me. I love questions and critique of my artwork, which I’m desperately trying to improve.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Thanks for listening!&lt;/em&gt;&lt;/p&gt;
-
+	  The sight of the missiles nearly made her sick. Everything around her took on new context. It was such a peaceful afternoon, and the sirens hadn’t gone off, and here she was, watching the trails the missiles painted in the cloudless sky. And now she was blessed with a newfound psychic ability that told her that everything in this spot would be vapour in a half hour. The wheat, the forest, the road; everything.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/apocolypse.jpg"/> <p><strong>The sight of the missiles nearly made her sick.</strong> Everything around her took on new context. It was such a peaceful afternoon, and the sirens hadn’t gone off, and here she was, watching the trails the missiles painted in the cloudless sky. And now she was blessed with a newfound psychic ability that told her that everything in this spot would be vapour in a half hour. The wheat, the forest, the road; everything. Anyone who wasn’t looking at the sky didn’t know it yet. To folks indoors or out of view of the vapour trails, it was still a beautiful spring. It took a half hour for Vekllei missiles to reach China. Theirs took about the same to get here.</p>
+<p>The sirens didn’t go off until five minutes after the missiles launched. You could tell they were civil defense sirens because they built up to a whine and stayed there, a sound they’d all heard in drills, but it wasn’t drill season. Tzipora scrambled down the side of the ditch and took her bike with her, and sat cross-legged in the brook with her hands over her eyes. If everything became bright she’d hold her breath and lie face down until she was either dead or the sonic boom flung her downstream.</p>
+<p>On May 6th 2064 the mid-Atlantic country of <strong>Vekllei</strong>, <strong>China</strong>, and the <strong>United States</strong> participated in a confused nuclear war that nearly annihilated North America and East Asia. In Vekllei, two bombs hit, and the rest of the Chinese delivery aircraft was downed by the air force. The two small-yield ground-burst weapons killed only 20,000. Many millions were saved by the comprehensive civil defense of the country. The United States lost forty million people. China is unknown, but is likely in the hundreds of millions after the full retaliatory strike from two separate countries.</p>
+<p>The war had wider consequences, as it awakened ancient creatures underground that were built to protect the Earth. The creatures, called <strong>Lehmenan</strong> in a dead tongue, would in the weeks following the war attempt to wipe the surface of the world clean of human society.</p>
+<p>You can read about Tzipora <a href="https://www.reddit.com/r/worldbuilding/comments/6xtflc/tzipora_one_of_the_children_to_stop_ageing_vekllei/">here</a> and <a href="https://www.reddit.com/r/worldbuilding/comments/7249z5/tzipora_the_undying_miracle_child_vekllei/">here</a>. The Lehmanen, angels and spirit worlds are described in my post <a href="https://www.reddit.com/r/worldbuilding/comments/752bfk/the_face_of_human_extinction/">here</a>. Learn more about the country of Vekllei <a href="https://www.reddit.com/r/worldbuilding/comments/74l1yc/a_little_vekllei_general_store/">here</a>.</p>
+<p>Or, hell, you could just ask me. I love questions and critique of my artwork, which I’m desperately trying to improve.</p>
+<p><em>Thanks for listening!</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -232,19 +220,17 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Mon, 09 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/face/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/face.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/face.jpg"/> 
-		  &lt;p&gt;All servants of heaven  —  called angels by most people but they belong to a much older name  —  are viciously jealous of human beings. In creation, the Earth was promised to them, but the creator God gave the Earth to the human race. In a fit of rage, the angels  —  or &lt;strong&gt;Derden&lt;/strong&gt;, as they were called before the current chapter of humanity  —  buried bioengineered monsters called &lt;strong&gt;Lehmenan&lt;/strong&gt; far below the surface of the Earth. If humanity ever became reckless and destroyed themselves, they would awaken and wipe the Earth clean with great lances of fire.&lt;/p&gt;
-&lt;p&gt;In 2063, &lt;strong&gt;Red China&lt;/strong&gt; suffered a military coup d&amp;rsquo;etat, and the ensuing Sino-American nuclear exchange consumed both countries in a great fire that destroyed vast swaths of forest and the creatures and spirits within them. The Lehmenan began to wake.&lt;/p&gt;
-&lt;p&gt;Tzipora, an unremarkable girl in the small mid-Atlantic country of &lt;strong&gt;Vekllei&lt;/strong&gt;, stands in front of the bones of an Angel, or Derden, and begs it to let her into the spirit world to stop the Lehmenan. The Derden hates human beings, and it fills her lungs with blood to try and scare her away. She stands steady.&lt;/p&gt;
-&lt;p&gt;It was in this moment, in the shadow of fallout in a wind-swept field of rural Vekllei, that a child dressed in the uniform she wore to school became an ambassador for the entire human race. Not before or since has such a remarkable image of humanism in the face of God existed.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you have any questions or comments, let me know!&lt;/em&gt;&lt;/p&gt;
-
+	  All servants of heaven — called angels by most people but they belong to a much older name — are viciously jealous of human beings. In creation, the Earth was promised to them, but the creator God gave the Earth to the human race. In a fit of rage, the angels — or Derden, as they were called before the current chapter of humanity — buried bioengineered monsters called Lehmenan far below the surface of the Earth.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/face.jpg"/> <p>All servants of heaven  —  called angels by most people but they belong to a much older name  —  are viciously jealous of human beings. In creation, the Earth was promised to them, but the creator God gave the Earth to the human race. In a fit of rage, the angels  —  or <strong>Derden</strong>, as they were called before the current chapter of humanity  —  buried bioengineered monsters called <strong>Lehmenan</strong> far below the surface of the Earth. If humanity ever became reckless and destroyed themselves, they would awaken and wipe the Earth clean with great lances of fire.</p>
+<p>In 2063, <strong>Red China</strong> suffered a military coup d&rsquo;etat, and the ensuing Sino-American nuclear exchange consumed both countries in a great fire that destroyed vast swaths of forest and the creatures and spirits within them. The Lehmenan began to wake.</p>
+<p>Tzipora, an unremarkable girl in the small mid-Atlantic country of <strong>Vekllei</strong>, stands in front of the bones of an Angel, or Derden, and begs it to let her into the spirit world to stop the Lehmenan. The Derden hates human beings, and it fills her lungs with blood to try and scare her away. She stands steady.</p>
+<p>It was in this moment, in the shadow of fallout in a wind-swept field of rural Vekllei, that a child dressed in the uniform she wore to school became an ambassador for the entire human race. Not before or since has such a remarkable image of humanism in the face of God existed.</p>
+<p><em>If you have any questions or comments, let me know!</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -253,20 +239,19 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Fri, 06 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/general-store/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/generalstore.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/generalstore.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;In the narrow streets of the Lola district in Vekllei&lt;/strong&gt;, artisans and artists hurry about, peddling art and fine goods and attracting the rest of the city to its stores. In Vekllei, there is no currency, so shopping is almost always a pragmatic affair.&lt;/p&gt;
-&lt;p&gt;Not in Lola. If you’re in Lola, you’re there to see the &lt;em&gt;good stuff&lt;/em&gt;, produced and sold in little shops like this one. The apartments of this place are small and cramped, and the streets are rarely wide enough for vehicles to pass, but many students dream of moving into the vibrant and colourful district and building lives around their creative passions. Coffee shops here are filled with notebooks and haggard young things, penning their screenplays and worrying about their existential purpose.&lt;/p&gt;
-&lt;p&gt;Vekllei is a society of restlessly educated people, looking for some greater satisfaction in their lives without the incentives of money. Many serve their country, others fall in love. This shop owner found his. He stocks books, apples, rare foodstuffs and anything that takes his fancy, like an eclectic general store. There are few supermarkets in the country. The demands of the collectivised economy for constant overproduction and total employment results in decentralised distribution like we see here. Tzipora is eleven. She doesn’t understand all that. But she understands that her mother wants spiced meats for a platter, and Lola is the best place to find seasonal or exotic foods like spiced meat.&lt;/p&gt;
-&lt;p&gt;Twelve festivals rouse creativity out of the otherwise sleepy Vekllei economy. The &lt;em&gt;festival of feasts&lt;/em&gt;, in September, halts regular production and many restaurants switch to exotic foods. During this month, cafes and restaurants are overflowing with people jawing about where they’ve been while cramming their mouths with Oriental, American and South American staples. Following September is October’s &lt;em&gt;festival of the sea&lt;/em&gt;, the climax of which includes the detonation of a nuclear bomb out at sea and a slow, luxurious media worship of the enormous warships that Vekllei operates.&lt;/p&gt;
-&lt;p&gt;Tzipora ducks under the curtain in the doorway of the store, and wipes her nose on the back of her arm. The bag full of meats is heavy for her. It’s a long walk back to her apartment building, but on warm autumn evenings like these, that’s not a bad thing. She waves goodbye and leaves.&lt;/p&gt;
-&lt;p&gt;If you have questions or comments, I love both. &lt;em&gt;Thanks for listening!&lt;/em&gt;&lt;/p&gt;
-
+	  In the narrow streets of the Lola district in Vekllei, artisans and artists hurry about, peddling art and fine goods and attracting the rest of the city to its stores. In Vekllei, there is no currency, so shopping is almost always a pragmatic affair.
+Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced and sold in little shops like this one. The apartments of this place are small and cramped, and the streets are rarely wide enough for vehicles to pass, but many students dream of moving into the vibrant and colourful district and building lives around their creative passions.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/generalstore.jpg"/> <p><strong>In the narrow streets of the Lola district in Vekllei</strong>, artisans and artists hurry about, peddling art and fine goods and attracting the rest of the city to its stores. In Vekllei, there is no currency, so shopping is almost always a pragmatic affair.</p>
+<p>Not in Lola. If you’re in Lola, you’re there to see the <em>good stuff</em>, produced and sold in little shops like this one. The apartments of this place are small and cramped, and the streets are rarely wide enough for vehicles to pass, but many students dream of moving into the vibrant and colourful district and building lives around their creative passions. Coffee shops here are filled with notebooks and haggard young things, penning their screenplays and worrying about their existential purpose.</p>
+<p>Vekllei is a society of restlessly educated people, looking for some greater satisfaction in their lives without the incentives of money. Many serve their country, others fall in love. This shop owner found his. He stocks books, apples, rare foodstuffs and anything that takes his fancy, like an eclectic general store. There are few supermarkets in the country. The demands of the collectivised economy for constant overproduction and total employment results in decentralised distribution like we see here. Tzipora is eleven. She doesn’t understand all that. But she understands that her mother wants spiced meats for a platter, and Lola is the best place to find seasonal or exotic foods like spiced meat.</p>
+<p>Twelve festivals rouse creativity out of the otherwise sleepy Vekllei economy. The <em>festival of feasts</em>, in September, halts regular production and many restaurants switch to exotic foods. During this month, cafes and restaurants are overflowing with people jawing about where they’ve been while cramming their mouths with Oriental, American and South American staples. Following September is October’s <em>festival of the sea</em>, the climax of which includes the detonation of a nuclear bomb out at sea and a slow, luxurious media worship of the enormous warships that Vekllei operates.</p>
+<p>Tzipora ducks under the curtain in the doorway of the store, and wipes her nose on the back of her arm. The bag full of meats is heavy for her. It’s a long walk back to her apartment building, but on warm autumn evenings like these, that’s not a bad thing. She waves goodbye and leaves.</p>
+<p>If you have questions or comments, I love both. <em>Thanks for listening!</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -275,20 +260,18 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Mon, 02 Oct 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/pleading/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/pleading.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/pleading.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;She saw its bones and the sight of them — that they were real and not a dream — caught in her throat. She raised her hand to cough, and suddenly her lungs heaved and blood began to pour from the spaces between her fingers. Her eyes grew wide and she cupped her hand, and she retched again and her blood sprayed out like a hose. It soaked her, but she stayed steady.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The bones of an angel&lt;/strong&gt;, either bioengineered in the kilns of an ancient civilisation before ours or fallen from the spirit world, are sacred and insanely jealous of human life. Here, the forgotten bones of an angel try to scare Tzipora by filling her lungs with blood. She knows better — she’s friends with the spirits of this place — but the trick still scares her. Many such bones litter the earth, but few are found on the surface.&lt;/p&gt;
-&lt;p&gt;Ancient creatures that lie dormant below the surface of the world have been disturbed by the nuclear war between China and the U.S. If awakened, the creatures — called Lehmenan by forgotten peoples — will use lances of fire to cleanse the Earth. In this moment, in a field of flowers in rural Vekllei, eleven-year-old Tzipora acts as an ambassador of the human race, and pleads with the spirit world to forgive the destruction of the North American and East Asian continents.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;I love questions and comments. Let me know if you have either.&lt;/em&gt;&lt;/p&gt;
-
+	  She saw its bones and the sight of them — that they were real and not a dream — caught in her throat. She raised her hand to cough, and suddenly her lungs heaved and blood began to pour from the spaces between her fingers. Her eyes grew wide and she cupped her hand, and she retched again and her blood sprayed out like a hose. It soaked her, but she stayed steady.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/pleading.jpg"/> <blockquote>
+<p>She saw its bones and the sight of them — that they were real and not a dream — caught in her throat. She raised her hand to cough, and suddenly her lungs heaved and blood began to pour from the spaces between her fingers. Her eyes grew wide and she cupped her hand, and she retched again and her blood sprayed out like a hose. It soaked her, but she stayed steady.</p>
+</blockquote>
+<p><strong>The bones of an angel</strong>, either bioengineered in the kilns of an ancient civilisation before ours or fallen from the spirit world, are sacred and insanely jealous of human life. Here, the forgotten bones of an angel try to scare Tzipora by filling her lungs with blood. She knows better — she’s friends with the spirits of this place — but the trick still scares her. Many such bones litter the earth, but few are found on the surface.</p>
+<p>Ancient creatures that lie dormant below the surface of the world have been disturbed by the nuclear war between China and the U.S. If awakened, the creatures — called Lehmenan by forgotten peoples — will use lances of fire to cleanse the Earth. In this moment, in a field of flowers in rural Vekllei, eleven-year-old Tzipora acts as an ambassador of the human race, and pleads with the spirit world to forgive the destruction of the North American and East Asian continents.</p>
+<p><em>I love questions and comments. Let me know if you have either.</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -297,23 +280,21 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Wed, 27 Sep 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/chemical-war/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/chemicalwar.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/chemicalwar.jpg"/> 
-		  &lt;blockquote&gt;
-&lt;p&gt;“We came to a town and found it scorched with mustard and the fragments of phosgene shells, and the wind whistled through the doorways that were left open. I remember being surprised by how many of them were in basements  —  probably because they thought the gas would blow away in the wind. The entire town was dead, and we were worried that the gasses were still lingering, so the unit wore their masks as we began to cremate them. The flies lay eggs in the heat and that’s all anyone talked about; lots of flies. They gave us cigarettes to mask the smell.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“I remember very clearly a man in our unit, who is dead now but was only new then, throwing up in the gutter outside what had been a grocery store. He looked up at me and saw me watching, and he said, “this fucking sucks,” and then threw up again. I had watched him execute P.O.W.s, and treat combat wounds without flinching, and he was a tough guy  —  you know; big, heavyset  —  but here I was watching him put his guts on the sidewalk. I left the crematory pit in the city square and went to relieve him, and I found the bodies of forty-five children no older than seven or eight, squished up in a corner of the basement, crushing their friends, because whatever gas had been swirling down the stairwell was so thick that they could see it coming.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;—  Excerpt from &lt;em&gt;The Cost of Chemical Warfare&lt;/em&gt; article, the New York Times, October 21st 2064.&lt;/p&gt;
-&lt;p&gt;The troops pictured form part of the Vekllei expeditionary forces, an experienced group that deals largely with war crimes and militarised espionage. They operate in coordination with the secret services and military police. A New York Times photojournalist attached with Unit 75 in northeast Taiwan documented the consequences of heavy chemical shelling in rural Taiwan, and saw just a small number of the hundreds of thousands killed in the Sino-Taiwanese war.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Forgive my shitty illustration. If you have any questions, I love &amp;rsquo;em.&lt;/em&gt;&lt;/p&gt;
-
+	  “We came to a town and found it scorched with mustard and the fragments of phosgene shells, and the wind whistled through the doorways that were left open. I remember being surprised by how many of them were in basements — probably because they thought the gas would blow away in the wind. The entire town was dead, and we were worried that the gasses were still lingering, so the unit wore their masks as we began to cremate them.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/chemicalwar.jpg"/> <blockquote>
+<p>“We came to a town and found it scorched with mustard and the fragments of phosgene shells, and the wind whistled through the doorways that were left open. I remember being surprised by how many of them were in basements  —  probably because they thought the gas would blow away in the wind. The entire town was dead, and we were worried that the gasses were still lingering, so the unit wore their masks as we began to cremate them. The flies lay eggs in the heat and that’s all anyone talked about; lots of flies. They gave us cigarettes to mask the smell.</p>
+</blockquote>
+<blockquote>
+<p>“I remember very clearly a man in our unit, who is dead now but was only new then, throwing up in the gutter outside what had been a grocery store. He looked up at me and saw me watching, and he said, “this fucking sucks,” and then threw up again. I had watched him execute P.O.W.s, and treat combat wounds without flinching, and he was a tough guy  —  you know; big, heavyset  —  but here I was watching him put his guts on the sidewalk. I left the crematory pit in the city square and went to relieve him, and I found the bodies of forty-five children no older than seven or eight, squished up in a corner of the basement, crushing their friends, because whatever gas had been swirling down the stairwell was so thick that they could see it coming.”</p>
+</blockquote>
+<p>—  Excerpt from <em>The Cost of Chemical Warfare</em> article, the New York Times, October 21st 2064.</p>
+<p>The troops pictured form part of the Vekllei expeditionary forces, an experienced group that deals largely with war crimes and militarised espionage. They operate in coordination with the secret services and military police. A New York Times photojournalist attached with Unit 75 in northeast Taiwan documented the consequences of heavy chemical shelling in rural Taiwan, and saw just a small number of the hundreds of thousands killed in the Sino-Taiwanese war.</p>
+<p><em>Forgive my shitty illustration. If you have any questions, I love &rsquo;em.</em></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -322,19 +303,19 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Sun, 24 Sep 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/undying/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/undying.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/undying.jpg"/> 
-		  &lt;p&gt;Tzipora is a &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/6xtflc/tzipora_one_of_the_children_to_stop_ageing_vekllei/&#34;&gt;Gregori baby, a child who doesn’t age&lt;/a&gt; and cannot contract cell-mutating diseases. She is the adopted daughter of Michael Desmoines, an espionage quartermaster for a foreign power in the United States.&lt;/p&gt;
-&lt;p&gt;She is clever, sensitive, and deeply humanist. Despite her shyness and her loneliness, she is remembered by the few whose lives she touched as an affectionate and exceptionally gifted girl.&lt;/p&gt;
-&lt;p&gt;She has a chronic sadness about her. She feels distinct and separated from the human race, a feeling exacerbated by her Gregori syndrome and a mild obsessive-compulsiveness that makes her feel like a freak. She turns her emotions into words and often falls asleep at her desk, writing a story about a fantasy world she calls Yellowstone.&lt;/p&gt;
-&lt;p&gt;She is conscious of the world in a way few eleven-year-olds are, and deeply patriotic. Despite her friendlessness, she carries on with good intentions and concern for the future. She bore witness to the atomic bombing of Vekllei in September of 2063.&lt;/p&gt;
-&lt;p&gt;If you have any questions, or painting tips you can give me, I’m hungry for either.&lt;/p&gt;
-
+	  Tzipora is a Gregori baby, a child who doesn’t age and cannot contract cell-mutating diseases. She is the adopted daughter of Michael Desmoines, an espionage quartermaster for a foreign power in the United States.
+She is clever, sensitive, and deeply humanist. Despite her shyness and her loneliness, she is remembered by the few whose lives she touched as an affectionate and exceptionally gifted girl.
+She has a chronic sadness about her.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/undying.jpg"/> <p>Tzipora is a <a href="https://www.reddit.com/r/worldbuilding/comments/6xtflc/tzipora_one_of_the_children_to_stop_ageing_vekllei/">Gregori baby, a child who doesn’t age</a> and cannot contract cell-mutating diseases. She is the adopted daughter of Michael Desmoines, an espionage quartermaster for a foreign power in the United States.</p>
+<p>She is clever, sensitive, and deeply humanist. Despite her shyness and her loneliness, she is remembered by the few whose lives she touched as an affectionate and exceptionally gifted girl.</p>
+<p>She has a chronic sadness about her. She feels distinct and separated from the human race, a feeling exacerbated by her Gregori syndrome and a mild obsessive-compulsiveness that makes her feel like a freak. She turns her emotions into words and often falls asleep at her desk, writing a story about a fantasy world she calls Yellowstone.</p>
+<p>She is conscious of the world in a way few eleven-year-olds are, and deeply patriotic. Despite her friendlessness, she carries on with good intentions and concern for the future. She bore witness to the atomic bombing of Vekllei in September of 2063.</p>
+<p>If you have any questions, or painting tips you can give me, I’m hungry for either.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -343,23 +324,21 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Thu, 21 Sep 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/desert-spirit/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/desertspirit.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/desertspirit.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Every natural place has a spirit that minds it&lt;/strong&gt;. Tzipora had never met a desert spirit before, and she went looking for one in Cherry, Nevada. With air force jets glinting in the sky overhead, and the temperature scorching the mesas that surround the military town, she found one inside a burrow. In an instant, it had transformed into a rattlesnake and tried to scare her, but she dropped to her knees and begged it to forgive her for waking it. She offered it a gumdrop and it returned to its natural, translucent form.&lt;/p&gt;
-&lt;p&gt;Spirits are placed on earth by whatever God watches over the Earth. Tzipora dislikes the God of the world, but she respects the spirits, and as a child she can see them in their natural state. In Vekllei and Scandinavia, they are called Faeries. In Japan, they are spirits. In the United States, there is no word for them, because they are considered to not exist.&lt;/p&gt;
-&lt;p&gt;Tzipora asked the spirit to watch over her and her father when they are in the desert. From that day on, she left an offering outside in a makeshift shrine in the backyard of their detached midcentury home.&lt;/p&gt;
-&lt;p&gt;Tzipora has no time for God; she is a zealous humanist at her core. The spirits are fair and good. Because of them, Vekllei is environmentally conscious in a way few other great powers are in 2063.&lt;/p&gt;
-&lt;p&gt;The written characters are Vekllei, and make a poem;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Tzipora is looking for all good things in the world&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The spirits are the mothers and daughters of all good things in the world&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;What a beautiful place, crafted in the love between the Earth and children&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;If you have any questions, I like to hear them. If you’ve got illustration tips, I wouldn’t mind some too ;)&lt;/p&gt;
-
+	  Every natural place has a spirit that minds it. Tzipora had never met a desert spirit before, and she went looking for one in Cherry, Nevada. With air force jets glinting in the sky overhead, and the temperature scorching the mesas that surround the military town, she found one inside a burrow. In an instant, it had transformed into a rattlesnake and tried to scare her, but she dropped to her knees and begged it to forgive her for waking it.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/desertspirit.jpg"/> <p><strong>Every natural place has a spirit that minds it</strong>. Tzipora had never met a desert spirit before, and she went looking for one in Cherry, Nevada. With air force jets glinting in the sky overhead, and the temperature scorching the mesas that surround the military town, she found one inside a burrow. In an instant, it had transformed into a rattlesnake and tried to scare her, but she dropped to her knees and begged it to forgive her for waking it. She offered it a gumdrop and it returned to its natural, translucent form.</p>
+<p>Spirits are placed on earth by whatever God watches over the Earth. Tzipora dislikes the God of the world, but she respects the spirits, and as a child she can see them in their natural state. In Vekllei and Scandinavia, they are called Faeries. In Japan, they are spirits. In the United States, there is no word for them, because they are considered to not exist.</p>
+<p>Tzipora asked the spirit to watch over her and her father when they are in the desert. From that day on, she left an offering outside in a makeshift shrine in the backyard of their detached midcentury home.</p>
+<p>Tzipora has no time for God; she is a zealous humanist at her core. The spirits are fair and good. Because of them, Vekllei is environmentally conscious in a way few other great powers are in 2063.</p>
+<p>The written characters are Vekllei, and make a poem;</p>
+<p><em>Tzipora is looking for all good things in the world</em></p>
+<p><em>The spirits are the mothers and daughters of all good things in the world</em></p>
+<p><em>What a beautiful place, crafted in the love between the Earth and children</em></p>
+<p>If you have any questions, I like to hear them. If you’ve got illustration tips, I wouldn’t mind some too ;)</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -368,32 +347,30 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Tue, 19 Sep 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/fashion/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/fashion.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/fashion.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Vekllei kids look to America as a bastion of good taste&lt;/strong&gt;; a country of fast cars and diners and sock-hops and high-school romance. Like the Koreans look to Japanese taste, and the British look to the stuff coming out of design houses in France, Vekllei is infatuated with how Americans dress in the year 2063. Like most imported culture in Vekllei, the American teen-age style is misunderstood, butchered, and then transformed into something entirely different as production lines crank out plaid skirts, two-tone shoes and baseball jerseys for Vekllei kids.&lt;/p&gt;
-&lt;p&gt;Tzipora doesn’t buy into much of that stuff. She doesn’t have any friends to show off to, but boy, &lt;em&gt;if she did&lt;/em&gt;, they’d all be jealous of her. While living in Cherry, Nevada, Tzipora experienced American life first-hand. She bought her clothes in American department stores and ate in American diners. Her nose was pulped by American fists after she stayed silent in the American national anthem. Tzipora doesn’t get on with American kids much  —  she doesn’t get along with a lot of things, it seems. &lt;strong&gt;But gee, what would the kids at her old school in Vekllei say when she turned up in jerseys and trousers?&lt;/strong&gt; Wouldn’t that just be something? They’d regret making fun of her then.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Left to right:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Trying on an all-wool sack-type dress for the first time. It’d be pretty if she didn’t live in a desert.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A Vekllei jersey patterned with blossoms, a popular motif. To the American kids, abstract prints on American-style clothes mark her out as a foreigner.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Three-quarter-length trousers with white penny loafers. Her T-shirt bears the Vekllei emblem for the moon, but to non-Vekllei it looks Japanese.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pulling her shoes back on after she was dragged around the back of the school and roughed up for ignoring the national anthem. She didn’t know the words. She knows how to get blood out of a shirt, so it&amp;rsquo;s no biggie. Besides, she got a couple good hits in. If there wasn&amp;rsquo;t five of them, she reckoned she could have fought off Yankee kids.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you’ve got any questions, I love ‘em. Thanks for listening.&lt;/p&gt;
-
+	  Vekllei kids look to America as a bastion of good taste; a country of fast cars and diners and sock-hops and high-school romance. Like the Koreans look to Japanese taste, and the British look to the stuff coming out of design houses in France, Vekllei is infatuated with how Americans dress in the year 2063. Like most imported culture in Vekllei, the American teen-age style is misunderstood, butchered, and then transformed into something entirely different as production lines crank out plaid skirts, two-tone shoes and baseball jerseys for Vekllei kids.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fashion.jpg"/> <p><strong>Vekllei kids look to America as a bastion of good taste</strong>; a country of fast cars and diners and sock-hops and high-school romance. Like the Koreans look to Japanese taste, and the British look to the stuff coming out of design houses in France, Vekllei is infatuated with how Americans dress in the year 2063. Like most imported culture in Vekllei, the American teen-age style is misunderstood, butchered, and then transformed into something entirely different as production lines crank out plaid skirts, two-tone shoes and baseball jerseys for Vekllei kids.</p>
+<p>Tzipora doesn’t buy into much of that stuff. She doesn’t have any friends to show off to, but boy, <em>if she did</em>, they’d all be jealous of her. While living in Cherry, Nevada, Tzipora experienced American life first-hand. She bought her clothes in American department stores and ate in American diners. Her nose was pulped by American fists after she stayed silent in the American national anthem. Tzipora doesn’t get on with American kids much  —  she doesn’t get along with a lot of things, it seems. <strong>But gee, what would the kids at her old school in Vekllei say when she turned up in jerseys and trousers?</strong> Wouldn’t that just be something? They’d regret making fun of her then.</p>
+<p><strong>Left to right:</strong></p>
+<ul>
+<li>
+<p>Trying on an all-wool sack-type dress for the first time. It’d be pretty if she didn’t live in a desert.</p>
+</li>
+<li>
+<p>A Vekllei jersey patterned with blossoms, a popular motif. To the American kids, abstract prints on American-style clothes mark her out as a foreigner.</p>
+</li>
+<li>
+<p>Three-quarter-length trousers with white penny loafers. Her T-shirt bears the Vekllei emblem for the moon, but to non-Vekllei it looks Japanese.</p>
+</li>
+<li>
+<p>Pulling her shoes back on after she was dragged around the back of the school and roughed up for ignoring the national anthem. She didn’t know the words. She knows how to get blood out of a shirt, so it&rsquo;s no biggie. Besides, she got a couple good hits in. If there wasn&rsquo;t five of them, she reckoned she could have fought off Yankee kids.</p>
+</li>
+</ul>
+<p>If you’ve got any questions, I love ‘em. Thanks for listening.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -402,18 +379,17 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Sun, 10 Sep 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/terror/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/terror.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/terror.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;Louenne Dehmones enlisted for two years but stayed for ten.&lt;/strong&gt; He served abroad in the war department, where he performed admirably but never rose above the rank of Junior Sergeant because of a good-natured appetite for mischief. He transferred to the military police to be close to his wife and infant daughter.&lt;/p&gt;
-&lt;p&gt;It was his daughter that he thought of as he powdered the wounds of the girl at the airport with instaskin, and it was of his daughter that he thought as he picked up the girl’s body, smoke still pouring from the cavity in her chest, and carried her to the ambulances that were wailing all over the airport. A bomb of white phosphorous had exploded in the ouisha park outside the terminal. Without his gas mask or gloves, he picked raw phosphorous out of the girl’s chest with his fingers and cauterised her wounds, saving her life.&lt;/p&gt;
-&lt;p&gt;The girl’s name was Lola Talounes, and she was one of six wounded in the blast who survived the attack, almost entirely because of the actions of Louenne. The attack at the airport preceded two more terrorist attacks on Vekllei soil, before the collapse of the United Nations Security Council and the subsequent thermonuclear war. In the aftermath of it all, in which Louenne went on to save many more lives as a civil defense authority in his apartment block, he was finally promoted to Sergeant. Lola still writes him, and wants to be an cosmonaut.&lt;/p&gt;
-&lt;p&gt;If you have any questions about the beautiful city of Vekllei, its people, or anything else that comes to mind, let me know! I love to talk.&lt;/p&gt;
-
+	  Louenne Dehmones enlisted for two years but stayed for ten. He served abroad in the war department, where he performed admirably but never rose above the rank of Junior Sergeant because of a good-natured appetite for mischief. He transferred to the military police to be close to his wife and infant daughter.
+It was his daughter that he thought of as he powdered the wounds of the girl at the airport with instaskin, and it was of his daughter that he thought as he picked up the girl’s body, smoke still pouring from the cavity in her chest, and carried her to the ambulances that were wailing all over the airport.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/terror.jpg"/> <p><strong>Louenne Dehmones enlisted for two years but stayed for ten.</strong> He served abroad in the war department, where he performed admirably but never rose above the rank of Junior Sergeant because of a good-natured appetite for mischief. He transferred to the military police to be close to his wife and infant daughter.</p>
+<p>It was his daughter that he thought of as he powdered the wounds of the girl at the airport with instaskin, and it was of his daughter that he thought as he picked up the girl’s body, smoke still pouring from the cavity in her chest, and carried her to the ambulances that were wailing all over the airport. A bomb of white phosphorous had exploded in the ouisha park outside the terminal. Without his gas mask or gloves, he picked raw phosphorous out of the girl’s chest with his fingers and cauterised her wounds, saving her life.</p>
+<p>The girl’s name was Lola Talounes, and she was one of six wounded in the blast who survived the attack, almost entirely because of the actions of Louenne. The attack at the airport preceded two more terrorist attacks on Vekllei soil, before the collapse of the United Nations Security Council and the subsequent thermonuclear war. In the aftermath of it all, in which Louenne went on to save many more lives as a civil defense authority in his apartment block, he was finally promoted to Sergeant. Lola still writes him, and wants to be an cosmonaut.</p>
+<p>If you have any questions about the beautiful city of Vekllei, its people, or anything else that comes to mind, let me know! I love to talk.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -422,20 +398,18 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	  <pubDate>Mon, 04 Sep 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/ageing/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/ageing.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/ageing.jpg"/> 
-		  &lt;p&gt;&lt;strong&gt;This is Tzipora.&lt;/strong&gt; She is eleven years old, scruffy, and a &lt;strong&gt;Gregori baby&lt;/strong&gt;. At the turn of the 21st century, Gregori Hordiyenko, a Ukrainian boy aged nine and a half, stopped aging entirely. By 2063, which is the year Tzipora turned eleven, there are about two hundred Gregori babies in the world, mostly living in secret. Certain religious sects, including Catholics, view Gregori babies as a sign of the Lord’s action and as a movement towards an approaching religious event. Other religious sects see them simply as angels, eternal beings fallen from heaven.&lt;/p&gt;
-&lt;p&gt;In reality little is known about the phenomenon. Gregori babies stop growing at the point they’d usually reach thelarche. Their cells reproduce perfectly, removing the ageing process entirely and making them theoretically immortal. The oldest Gregori baby is fifty-six and lives in Florida. Gregori himself was run down and killed in an accident in his twenties. Gregori babies have no other defining characteristic; they have been found in the Orient and in Africa and in Europe, they have different levels of wellness and many have entirely unremarkable lives.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tzipora is Vekllei’s first Gregori baby&lt;/strong&gt;, although she was abroad when she was diagnosed. She has not reached menarche and does not appear to have even begun thelarche. Other than her agelessness, she is a normal girl with her own anxieties and joys and relationships. As a child, she has not yet quite understood the magnitude of what has been stripped from her: she will never be able to maintain friends as they age without her, she will never grow up or marry, and assuming she naturally survives, she will watch everyone die before her. As a Gregori baby, she can be killed as any other human being can. The one exception to her condition is cancer and tumour-related diseases, of which she will be immune.
-Her father calls her “angel”, and the pet name took on a new meaning as her condition was realised.&lt;/p&gt;
-&lt;p&gt;Tzipora is religious and believes in a single God and spirits, but dislikes him and blames him for her own situation, shifting her faith into Vekllei and humanity.
-Let me know if you have any questions. I love to talk.&lt;/p&gt;
-
+	  This is Tzipora. She is eleven years old, scruffy, and a Gregori baby. At the turn of the 21st century, Gregori Hordiyenko, a Ukrainian boy aged nine and a half, stopped aging entirely. By 2063, which is the year Tzipora turned eleven, there are about two hundred Gregori babies in the world, mostly living in secret. Certain religious sects, including Catholics, view Gregori babies as a sign of the Lord’s action and as a movement towards an approaching religious event.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/ageing.jpg"/> <p><strong>This is Tzipora.</strong> She is eleven years old, scruffy, and a <strong>Gregori baby</strong>. At the turn of the 21st century, Gregori Hordiyenko, a Ukrainian boy aged nine and a half, stopped aging entirely. By 2063, which is the year Tzipora turned eleven, there are about two hundred Gregori babies in the world, mostly living in secret. Certain religious sects, including Catholics, view Gregori babies as a sign of the Lord’s action and as a movement towards an approaching religious event. Other religious sects see them simply as angels, eternal beings fallen from heaven.</p>
+<p>In reality little is known about the phenomenon. Gregori babies stop growing at the point they’d usually reach thelarche. Their cells reproduce perfectly, removing the ageing process entirely and making them theoretically immortal. The oldest Gregori baby is fifty-six and lives in Florida. Gregori himself was run down and killed in an accident in his twenties. Gregori babies have no other defining characteristic; they have been found in the Orient and in Africa and in Europe, they have different levels of wellness and many have entirely unremarkable lives.</p>
+<p><strong>Tzipora is Vekllei’s first Gregori baby</strong>, although she was abroad when she was diagnosed. She has not reached menarche and does not appear to have even begun thelarche. Other than her agelessness, she is a normal girl with her own anxieties and joys and relationships. As a child, she has not yet quite understood the magnitude of what has been stripped from her: she will never be able to maintain friends as they age without her, she will never grow up or marry, and assuming she naturally survives, she will watch everyone die before her. As a Gregori baby, she can be killed as any other human being can. The one exception to her condition is cancer and tumour-related diseases, of which she will be immune.
+Her father calls her “angel”, and the pet name took on a new meaning as her condition was realised.</p>
+<p>Tzipora is religious and believes in a single God and spirits, but dislikes him and blames him for her own situation, shifting her faith into Vekllei and humanity.
+Let me know if you have any questions. I love to talk.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -444,21 +418,21 @@ Let me know if you have any questions. I love to talk.&lt;/p&gt;
 	  <pubDate>Thu, 17 Aug 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/five-uniforms/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/fiveuniforms.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/fiveuniforms.jpg"/> 
-		  &lt;p&gt;These are the five basic outfits a kid in the city of Vekllei rotates between in their life. This is Tzipora. She’s sharp and a little scruffy.  She’s eleven years old.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The first&lt;/strong&gt; is her school uniform, complete with embroidered armband featuring the national crest. The skirt has a longer pleated section. She wears penny loafers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The second&lt;/strong&gt; is the uniform of the Vekllei Blossoms, equivalent to the Pioneers in the USSR and Red China, or Boy Scouts in the West. The uniforms are designed around mobility and athleticism, as the focus of these groups has drifted from militarism and centres firmly on nature, building good habits, and instilling the spiritual philosophy of Vekllei in future generations.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The third&lt;/strong&gt; is the national dress of Vekllei. It is beautiful, detailed and unique to each girl who wears it. You can find a full-colour picture of this girl in her national dress, with accompanying information, &lt;a href=&#34;https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The fourth&lt;/strong&gt; is her casual clothes. Although this is informed by the taste of the girl, this collared shirt and skirt is pretty representative of fashion in 2063. Little flamingos print her white shirt. Flamingos are a popular motif in Vekllei. She holds a magnetic tape reader in her hand that plays music, like ones found in the United States. She can clip it onto the waist of her skirt and do chores while she listens.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The fifth&lt;/strong&gt; is a hastily-assembled civil defence volunteer uniform. She is in pyjamas, dressed only in slippers and a long shirt, having awakened seconds before, but she wears the armband with the civil defence logo, a heavy helmet to protect her head and carries a high-beam torch. In the event the sirens go off, she will knock on the doors of neighbouring apartments and guide elderly residents to shelters while older and more experienced folk will tackle more complex duties.&lt;/p&gt;
-&lt;p&gt;I love to talk and I love questions, so give ‘em to me. Thanks for listening!&lt;/p&gt;
-
+	  These are the five basic outfits a kid in the city of Vekllei rotates between in their life. This is Tzipora. She’s sharp and a little scruffy. She’s eleven years old.
+The first is her school uniform, complete with embroidered armband featuring the national crest. The skirt has a longer pleated section. She wears penny loafers.
+The second is the uniform of the Vekllei Blossoms, equivalent to the Pioneers in the USSR and Red China, or Boy Scouts in the West.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fiveuniforms.jpg"/> <p>These are the five basic outfits a kid in the city of Vekllei rotates between in their life. This is Tzipora. She’s sharp and a little scruffy.  She’s eleven years old.</p>
+<p><strong>The first</strong> is her school uniform, complete with embroidered armband featuring the national crest. The skirt has a longer pleated section. She wears penny loafers.</p>
+<p><strong>The second</strong> is the uniform of the Vekllei Blossoms, equivalent to the Pioneers in the USSR and Red China, or Boy Scouts in the West. The uniforms are designed around mobility and athleticism, as the focus of these groups has drifted from militarism and centres firmly on nature, building good habits, and instilling the spiritual philosophy of Vekllei in future generations.</p>
+<p><strong>The third</strong> is the national dress of Vekllei. It is beautiful, detailed and unique to each girl who wears it. You can find a full-colour picture of this girl in her national dress, with accompanying information, <a href="https://www.reddit.com/r/worldbuilding/comments/6o1k7x/she_stands_in_the_harbour_in_national_dress_jets/">here</a>.</p>
+<p><strong>The fourth</strong> is her casual clothes. Although this is informed by the taste of the girl, this collared shirt and skirt is pretty representative of fashion in 2063. Little flamingos print her white shirt. Flamingos are a popular motif in Vekllei. She holds a magnetic tape reader in her hand that plays music, like ones found in the United States. She can clip it onto the waist of her skirt and do chores while she listens.</p>
+<p><strong>The fifth</strong> is a hastily-assembled civil defence volunteer uniform. She is in pyjamas, dressed only in slippers and a long shirt, having awakened seconds before, but she wears the armband with the civil defence logo, a heavy helmet to protect her head and carries a high-beam torch. In the event the sirens go off, she will knock on the doors of neighbouring apartments and guide elderly residents to shelters while older and more experienced folk will tackle more complex duties.</p>
+<p>I love to talk and I love questions, so give ‘em to me. Thanks for listening!</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -467,17 +441,15 @@ Let me know if you have any questions. I love to talk.&lt;/p&gt;
 	  <pubDate>Thu, 10 Aug 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/bullying/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/bullying.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/bullying.jpg"/> 
-		  &lt;p&gt;This poster circulated middle schools in 2063 as part of a wider initiative at curbing violence against women at an early age. The two Vekllei characters on the left read literally as &amp;ldquo;there is no excuse to hit a female,&amp;rdquo; but it emphasises the ‘hit’ part of it to make the idea particularly reprehensible. The girl pictured wears Vekllei middle school uniform, including a red armband with the national crest on it. The Vekllei seal, the four-petal eloise flower, sits about the text to confirm the authority of the poster. The poster is targeted at young boys; there is plenty of girl-on-girl bullying, including physical, that is not addressed by this campaign.&lt;/p&gt;
-&lt;p&gt;If you have any questions about what it’s like to grow up in Vekllei, or anything else about this idealist version of the city-state or the world as a whole, please do!&lt;/p&gt;
-&lt;p&gt;Check out my post history for other Vekllei-related things!&lt;/p&gt;
-
+	  This poster circulated middle schools in 2063 as part of a wider initiative at curbing violence against women at an early age. The two Vekllei characters on the left read literally as &ldquo;there is no excuse to hit a female,&rdquo; but it emphasises the ‘hit’ part of it to make the idea particularly reprehensible. The girl pictured wears Vekllei middle school uniform, including a red armband with the national crest on it.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/bullying.jpg"/> <p>This poster circulated middle schools in 2063 as part of a wider initiative at curbing violence against women at an early age. The two Vekllei characters on the left read literally as &ldquo;there is no excuse to hit a female,&rdquo; but it emphasises the ‘hit’ part of it to make the idea particularly reprehensible. The girl pictured wears Vekllei middle school uniform, including a red armband with the national crest on it. The Vekllei seal, the four-petal eloise flower, sits about the text to confirm the authority of the poster. The poster is targeted at young boys; there is plenty of girl-on-girl bullying, including physical, that is not addressed by this campaign.</p>
+<p>If you have any questions about what it’s like to grow up in Vekllei, or anything else about this idealist version of the city-state or the world as a whole, please do!</p>
+<p>Check out my post history for other Vekllei-related things!</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -486,18 +458,17 @@ Let me know if you have any questions. I love to talk.&lt;/p&gt;
 	  <pubDate>Wed, 19 Jul 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/national-dress/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/nationaldress.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/nationaldress.jpg"/> 
-		  &lt;p&gt;Tzipora, a recent immigrant girl of eleven years, wears the feminine national dress of Vekllei. It is a delicate, traditional and deeply spiritual costume, and is tied to Vekllei’s foundations and aspirations as a state. It has political symbolism, but it also ties the girl to the land she stands on.&lt;/p&gt;
-&lt;p&gt;Underneath her Lawtsk Ohma (an equivalent phrase might be &amp;ldquo;Maiden’s Apron, in English, but it loses the emotion of the original phrase; it insinuates youthful innocence and domesticity, industry and love) is a wide lace half-petticoat that sits over her skirt. These are extraordinarily detailed and extremely delicate. Each one is different and is tailored to the girl who wears it, and usually builds its patterns from the girl’s birth month and accompanying festival, demeanour and year of her birth. An entire industry exists to produce these lace garments and Vekllei women are traditionally buried with them.&lt;/p&gt;
-&lt;p&gt;A recurring symbol is a stylised image of the Eliese Orchid, a four-petal flower that naturally grows in Vekllei and represents the seat of power in the city-state and the blood of the citizenry. On her left side she wears the Industry Roundel Star, a common collectivist symbol. Today she wears a black armband on her left arm in mourning, after the atomic bombings of the Lola and Leh Moleneis prefectures, which killed many thousands of her countrymen.&lt;/p&gt;
-&lt;p&gt;The year is 2063 and the world is unravelling. Tzipora trusts her country. But she worries for it, too; if Europe falls to the Soviets and China seizes Japan, Vekllei won’t have many friends in the world left.&lt;/p&gt;
-
+	  Tzipora, a recent immigrant girl of eleven years, wears the feminine national dress of Vekllei. It is a delicate, traditional and deeply spiritual costume, and is tied to Vekllei’s foundations and aspirations as a state. It has political symbolism, but it also ties the girl to the land she stands on.
+Underneath her Lawtsk Ohma (an equivalent phrase might be &ldquo;Maiden’s Apron, in English, but it loses the emotion of the original phrase; it insinuates youthful innocence and domesticity, industry and love) is a wide lace half-petticoat that sits over her skirt.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/nationaldress.jpg"/> <p>Tzipora, a recent immigrant girl of eleven years, wears the feminine national dress of Vekllei. It is a delicate, traditional and deeply spiritual costume, and is tied to Vekllei’s foundations and aspirations as a state. It has political symbolism, but it also ties the girl to the land she stands on.</p>
+<p>Underneath her Lawtsk Ohma (an equivalent phrase might be &ldquo;Maiden’s Apron, in English, but it loses the emotion of the original phrase; it insinuates youthful innocence and domesticity, industry and love) is a wide lace half-petticoat that sits over her skirt. These are extraordinarily detailed and extremely delicate. Each one is different and is tailored to the girl who wears it, and usually builds its patterns from the girl’s birth month and accompanying festival, demeanour and year of her birth. An entire industry exists to produce these lace garments and Vekllei women are traditionally buried with them.</p>
+<p>A recurring symbol is a stylised image of the Eliese Orchid, a four-petal flower that naturally grows in Vekllei and represents the seat of power in the city-state and the blood of the citizenry. On her left side she wears the Industry Roundel Star, a common collectivist symbol. Today she wears a black armband on her left arm in mourning, after the atomic bombings of the Lola and Leh Moleneis prefectures, which killed many thousands of her countrymen.</p>
+<p>The year is 2063 and the world is unravelling. Tzipora trusts her country. But she worries for it, too; if Europe falls to the Soviets and China seizes Japan, Vekllei won’t have many friends in the world left.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -506,18 +477,17 @@ Let me know if you have any questions. I love to talk.&lt;/p&gt;
 	  <pubDate>Sat, 01 Jul 2017 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/youth/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/youthmeet.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/youthmeet.jpg"/> 
-		  &lt;p&gt;Tzipora is smiling in the photo because she has won the competition for multilingual spelling. She is a recent citizen of &lt;strong&gt;Vekllei&lt;/strong&gt;, a postcollectivist country in what we know as Iceland. She beat American boy scouts, Australian girl guides, Chinese and Soviet Pioneers and other youth organisations to win top prize.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;International Youth Meet&lt;/strong&gt; is a games hosted biannually. Tzipora is representing the Vekllei Occupation Zone in Germany with a half-dozen other girls from the O.Z. The games of 2063 are hosted in Bremen, Germany, less than 80 kilometres from the Polish border and the site of a brief nuclear exchange between the U.S. occupation zones and Soviet Poland eight days after this photo was taken.&lt;/p&gt;
-&lt;p&gt;Tzipora wears the uniform of the &lt;strong&gt;Vekllei Blossoms&lt;/strong&gt;, the female youth wing of Vekllei. She is eleven years old. The hammer and sickle pin she wears is not standard issue; it was pulled from a Soviet submariner hat she was given. The international community generally does not trust Vekllei. At the games, in their pastel cardigans, the Vekllei Blossom girls are targets for suspicion and bullying from the rest of the youth groups.&lt;/p&gt;
-&lt;p&gt;I’m an Aussie world builder. My world is one stuck in the nuclear age forever. Things are unravelling. Tzipora is worried about the safety of her parents and the future of the world. I haven’t posted before, so if you’re interested, ask me anything!&lt;/p&gt;
-
+	  Tzipora is smiling in the photo because she has won the competition for multilingual spelling. She is a recent citizen of Vekllei, a postcollectivist country in what we know as Iceland. She beat American boy scouts, Australian girl guides, Chinese and Soviet Pioneers and other youth organisations to win top prize.
+The International Youth Meet is a games hosted biannually. Tzipora is representing the Vekllei Occupation Zone in Germany with a half-dozen other girls from the O.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/youthmeet.jpg"/> <p>Tzipora is smiling in the photo because she has won the competition for multilingual spelling. She is a recent citizen of <strong>Vekllei</strong>, a postcollectivist country in what we know as Iceland. She beat American boy scouts, Australian girl guides, Chinese and Soviet Pioneers and other youth organisations to win top prize.</p>
+<p>The <strong>International Youth Meet</strong> is a games hosted biannually. Tzipora is representing the Vekllei Occupation Zone in Germany with a half-dozen other girls from the O.Z. The games of 2063 are hosted in Bremen, Germany, less than 80 kilometres from the Polish border and the site of a brief nuclear exchange between the U.S. occupation zones and Soviet Poland eight days after this photo was taken.</p>
+<p>Tzipora wears the uniform of the <strong>Vekllei Blossoms</strong>, the female youth wing of Vekllei. She is eleven years old. The hammer and sickle pin she wears is not standard issue; it was pulled from a Soviet submariner hat she was given. The international community generally does not trust Vekllei. At the games, in their pastel cardigans, the Vekllei Blossom girls are targets for suspicion and bullying from the rest of the youth groups.</p>
+<p>I’m an Aussie world builder. My world is one stuck in the nuclear age forever. Things are unravelling. Tzipora is worried about the safety of her parents and the future of the world. I haven’t posted before, so if you’re interested, ask me anything!</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Newsdesk</title>
 	<link>https://millmint.net/sitetag/newsdesk/</link>
 	<description>Recent content in Newsdesk </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Newsdesk</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/newsdesk/index.xml" rel="self" type="application/rss+xml" />
@@ -21,22 +23,20 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/letters/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;strong&gt;✿ Note from the Editor&lt;/strong&gt;
-I occasionally publish letters to followers and patrons of the project to keep them informed on what&amp;rsquo;s going on.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Listed below are copies of the letters distributed to patrons. &lt;strong&gt;If you would like to support this project on Patreon, &lt;a href=&#34;https://www.patreon.com/vekllei&#34;&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-
+	  ✿ Note from the Editor I occasionally publish letters to followers and patrons of the project to keep them informed on what&rsquo;s going on. Listed below are copies of the letters distributed to patrons. If you would like to support this project on Patreon, click here.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>✿ Note from the Editor</strong>
+I occasionally publish letters to followers and patrons of the project to keep them informed on what&rsquo;s going on.</div>
+</blockquote>
+
+<p>Listed below are copies of the letters distributed to patrons. <strong>If you would like to support this project on Patreon, <a href="https://www.patreon.com/vekllei">click here</a>.</strong></p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -45,20 +45,18 @@ I occasionally publish letters to followers and patrons of the project to keep t
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/patreon/snapshots/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;This page lists snapshots produced for patrons.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   This page lists snapshots produced for patrons. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">This page lists snapshots produced for patrons.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

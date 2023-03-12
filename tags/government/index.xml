@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>government</title>
 	<link>https://millmint.net/tags/government/</link>
 	<description>Recent content in government </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>government</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/government/index.xml" rel="self" type="application/rss+xml" />
@@ -21,45 +23,43 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/commonwealth/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;details open&gt;
-  &lt;summary&gt;Secretariats of the Commonwealth Parliament&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚒️&lt;/span&gt;Commonwealth Construction Secretariat (coming soon)&lt;/li&gt;
-&lt;li&gt;
-&lt;!--&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/culture&#34;&gt;--&gt;&lt;span class=&#34;navicon&#34;&gt;🏵&lt;/span&gt;Commonwealth Culture Secretariat (coming soon)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;!--&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/education&#34;&gt;--&gt;&lt;span class=&#34;navicon&#34;&gt;🎓&lt;/span&gt;Commonwealth Education Secretariat (coming soon)
-&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚕️&lt;/span&gt;Commonwealth Health Secretariat (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛓️&lt;/span&gt;Commonwealth Labour Secretariat (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/commonwealth/security&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🏹&lt;/span&gt;Commonwealth Security Secretariat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-
+	   ߷ Part of the state series of articles The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states. Secretariats of the Commonwealth Parliament ⚒️Commonwealth Construction Secretariat (coming soon) 🏵Commonwealth Culture Secretariat (coming soon) 🎓Commonwealth Education Secretariat (coming soon) ⚕️Commonwealth Health Secretariat (coming soon) ⛓️Commonwealth Labour Secretariat (coming soon) 🏹Commonwealth Security Secretariat 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.</div>
+</blockquote>
+
+<details open>
+  <summary>Secretariats of the Commonwealth Parliament</summary>
+  <div class="markdown-inner">
+    <ul>
+<li><span class="navicon">⚒️</span>Commonwealth Construction Secretariat (coming soon)</li>
+<li>
+<!--<a href="/utopia/society/state/government/commonwealth/culture">--><span class="navicon">🏵</span>Commonwealth Culture Secretariat (coming soon)
+</li>
+<li>
+<!--<a href="/utopia/society/state/government/commonwealth/education">--><span class="navicon">🎓</span>Commonwealth Education Secretariat (coming soon)
+</li>
+<li><span class="navicon">⚕️</span>Commonwealth Health Secretariat (coming soon)</li>
+<li><span class="navicon">⛓️</span>Commonwealth Labour Secretariat (coming soon)</li>
+<li><a href="/utopia/society/state/government/commonwealth/security"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a></li>
+</ul>
+
+  </div>
+</details>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -68,38 +68,36 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/crown/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;details open&gt;
-  &lt;summary&gt;Secretariats of the Commonwealth Parliament&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚖️&lt;/span&gt;Courts of the Crown (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;💼&lt;/span&gt;Fair Work Authority (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🗳️&lt;/span&gt;Vekllei Democracy Commissariat (coming soon)&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-
+	   ߷ Part of the state series of articles The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states. Secretariats of the Commonwealth Parliament ⚖️Courts of the Crown (coming soon) 💼Fair Work Authority (coming soon) 🗳️Vekllei Democracy Commissariat (coming soon) 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.</div>
+</blockquote>
+
+<details open>
+  <summary>Secretariats of the Commonwealth Parliament</summary>
+  <div class="markdown-inner">
+    <ul>
+<li><span class="navicon">⚖️</span>Courts of the Crown (coming soon)</li>
+<li><span class="navicon">💼</span>Fair Work Authority (coming soon)</li>
+<li><span class="navicon">🗳️</span>Vekllei Democracy Commissariat (coming soon)</li>
+</ul>
+
+  </div>
+</details>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -108,45 +106,43 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/society/state/government/interior/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;߷ Part of the &lt;em&gt;&lt;a href=&#34;https://millmint.net/state/&#34;&gt;state&lt;/a&gt;&lt;/em&gt; series of articles&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;The Vekllei Interior Parliaments are national political chambers of members of the Commonwealth. The ministries below belong to the Vekllei Islands Parliament, but most other full members of the Commonwealth maintain identical government structure.&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;details open&gt;
-  &lt;summary&gt;Ministries of the Interior Parliament&lt;/summary&gt;
-  &lt;div class=&#34;markdown-inner&#34;&gt;
-    &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commerce&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🪙&lt;/span&gt;Ministry of Commerce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚧&lt;/span&gt;Ministry of the Commons (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/commonwealth&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🌐&lt;/span&gt;Ministry of the Commonwealth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/defence&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;⚔️&lt;/span&gt;Ministry of Defence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌍&lt;/span&gt;Ministry of Foreign Affairs (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⚙️&lt;/span&gt;Ministry of Industry (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🌋&lt;/span&gt;Ministry of Landscape (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://millmint.net/utopia/society/state/government/interior/light-and-water&#34;&gt;&lt;span class=&#34;navicon&#34;&gt;🔌&lt;/span&gt;Ministry of Light &amp;amp; Water&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;⛏️&lt;/span&gt;Ministry of Syndicates &amp;amp; Chapels (coming soon)&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;navicon&#34;&gt;🚃&lt;/span&gt;Ministry of Transport (coming soon)&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/details&gt;
-
-
+	   ߷ Part of the state series of articles The Vekllei Interior Parliaments are national political chambers of members of the Commonwealth. The ministries below belong to the Vekllei Islands Parliament, but most other full members of the Commonwealth maintain identical government structure. Ministries of the Interior Parliament 🪙Ministry of Commerce 🚧Ministry of the Commons (coming soon) 🌐Ministry of the Commonwealth ⚔️Ministry of Defence 🌍Ministry of Foreign Affairs (coming soon) ⚙️Ministry of Industry (coming soon) 🌋Ministry of Landscape (coming soon) 🔌Ministry of Light &amp; Water ⛏️Ministry of Syndicates &amp; Chapels (coming soon) 🚃Ministry of Transport (coming soon) 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">The Vekllei Interior Parliaments are national political chambers of members of the Commonwealth. The ministries below belong to the Vekllei Islands Parliament, but most other full members of the Commonwealth maintain identical government structure.</div>
+</blockquote>
+
+<details open>
+  <summary>Ministries of the Interior Parliament</summary>
+  <div class="markdown-inner">
+    <ul>
+<li><a href="/utopia/society/state/government/interior/commerce"><span class="navicon">🪙</span>Ministry of Commerce</a></li>
+<li><span class="navicon">🚧</span>Ministry of the Commons (coming soon)</li>
+<li><a href="/utopia/society/state/government/interior/commonwealth"><span class="navicon">🌐</span>Ministry of the Commonwealth</a></li>
+<li><a href="/utopia/society/state/government/interior/defence"><span class="navicon">⚔️</span>Ministry of Defence</a></li>
+<li><span class="navicon">🌍</span>Ministry of Foreign Affairs (coming soon)</li>
+<li><span class="navicon">⚙️</span>Ministry of Industry (coming soon)</li>
+<li><span class="navicon">🌋</span>Ministry of Landscape (coming soon)</li>
+<li><a href="/utopia/society/state/government/interior/light-and-water"><span class="navicon">🔌</span>Ministry of Light &amp; Water</a></li>
+<li><span class="navicon">⛏️</span>Ministry of Syndicates &amp; Chapels (coming soon)</li>
+<li><span class="navicon">🚃</span>Ministry of Transport (coming soon)</li>
+</ul>
+
+  </div>
+</details>
+
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

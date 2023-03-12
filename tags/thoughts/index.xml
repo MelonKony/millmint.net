@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>thoughts</title>
 	<link>https://millmint.net/tags/thoughts/</link>
@@ -7,12 +15,6 @@
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 20 Dec 2022 08:00:00 EST</lastBuildDate>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>thoughts</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,34 +24,33 @@
 	  <pubDate>Tue, 20 Dec 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/blog/utopia/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;p&gt;The way I&amp;rsquo;m doing things now isn&amp;rsquo;t working &amp;ndash; I don&amp;rsquo;t enjoy social media, or marketing my work. I haven&amp;rsquo;t done much to grow my audience these last few years. And I&amp;rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.&lt;/p&gt;
-&lt;p&gt;2022 is the end of the COVID era for me. I&amp;rsquo;m moving house again, moving around again (🇬🇧🇫🇷🇭🇷🇲🇪). These are all good things. I&amp;rsquo;m healthier when I&amp;rsquo;m learning, and I&amp;rsquo;ve learned a lot these last couple months.&lt;/p&gt;
-&lt;p&gt;
+	  The way I&rsquo;m doing things now isn&rsquo;t working &ndash; I don&rsquo;t enjoy social media, or marketing my work. I haven&rsquo;t done much to grow my audience these last few years. And I&rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.
+2022 is the end of the COVID era for me. I&rsquo;m moving house again, moving around again (🇬🇧🇫🇷🇭🇷🇲🇪). These are all good things. I&rsquo;m healthier when I&rsquo;m learning, and I&rsquo;ve learned a lot these last couple months.
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <p>The way I&rsquo;m doing things now isn&rsquo;t working &ndash; I don&rsquo;t enjoy social media, or marketing my work. I haven&rsquo;t done much to grow my audience these last few years. And I&rsquo;m surrounded by unfinished projects; difficult and wonderful things that refuse to move.</p>
+<p>2022 is the end of the COVID era for me. I&rsquo;m moving house again, moving around again (🇬🇧🇫🇷🇭🇷🇲🇪). These are all good things. I&rsquo;m healthier when I&rsquo;m learning, and I&rsquo;ve learned a lot these last couple months.</p>
+<p>
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/blog/screenshots/1.png&#34; alt=&#34;screenshot of the about section of the millmint website&#34;  title=&#34;Website activity view over the last few months&#34; loading=&#34;lazy&#34; /&gt;
-  &lt;figcaption&gt;Website activity view over the last few months&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;I have a plan for 2023:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Treat this work as work.&lt;/li&gt;
-&lt;li&gt;Draw all of the time, especially when I don&amp;rsquo;t have time.&lt;/li&gt;
-&lt;li&gt;Focus on key goals.&lt;/li&gt;
-&lt;li&gt;Realise the projects I love.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Those four points are straightforward. I need to commit to a personal schedule, work as though I&amp;rsquo;m being paid for it, find moments to draw between other commitments, and finish the comic and work on some merchandise.&lt;/p&gt;
-&lt;p&gt;This all adds up to be maintenance. It&amp;rsquo;s not very interesting, but it is important, and it&amp;rsquo;s what I&amp;rsquo;m most in need of at the moment. Two years of COVID and stagnation has left me listless and a little burnt out. I need to take back the initiative and meet my ten years in the sun.&lt;/p&gt;
-
-	  </description>
+<figure>
+  <img src="/images/blog/screenshots/1.png" alt="screenshot of the about section of the millmint website"  title="Website activity view over the last few months" loading="lazy" />
+  <figcaption>Website activity view over the last few months</figcaption>
+</figure>
+</p>
+<p>I have a plan for 2023:</p>
+<ol>
+<li>Treat this work as work.</li>
+<li>Draw all of the time, especially when I don&rsquo;t have time.</li>
+<li>Focus on key goals.</li>
+<li>Realise the projects I love.</li>
+</ol>
+<p>Those four points are straightforward. I need to commit to a personal schedule, work as though I&rsquo;m being paid for it, find moments to draw between other commitments, and finish the comic and work on some merchandise.</p>
+<p>This all adds up to be maintenance. It&rsquo;s not very interesting, but it is important, and it&rsquo;s what I&rsquo;m most in need of at the moment. Two years of COVID and stagnation has left me listless and a little burnt out. I need to take back the initiative and meet my ten years in the sun.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>license</title>
 	<link>https://millmint.net/tags/license/</link>
 	<description>Recent content in license </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>license</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/license/index.xml" rel="self" type="application/rss+xml" />
@@ -21,54 +23,54 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/commissions/license/</guid>
-	  <image>
-	  	<url>https://millmint.net</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net"/> 
-		  &lt;blockquote class=&#34;hint &#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;✿ Download the &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; &lt;a href=&#34;https://millmint.net/files/MillMint%20Limited%20Commercial%20License.pdf&#34;&gt;MillMint Limited Commercial License.pdf&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;When you commission work from MillMint, it is licensed for limited commercial use use.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;You may adapt the work for personal use or for gifts as many times as you like with no permission required.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you plan on using commissioned work for commercial purposes, including selling it or adapting it into a commercial product, it is licensed under these terms.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;hint panel&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;&lt;p&gt;LICENSE INFORMATION:&lt;/p&gt;
-&lt;p&gt;The &lt;span class=&#34;smallicon&#34;&gt;📄&lt;/span&gt; MillMint Limited Commercial License applies to commissioned work from MillMint. Uses that exceed these terms require the permission of MillMint.&lt;/p&gt;
-&lt;p&gt;Any questions about this license or commissioned work can be forwarded to &lt;span class=&#34;smallicon&#34;&gt;📧&lt;/span&gt; &lt;a href=&#34;mailto:studio@millmint.net&#34;&gt;studio@millmint.net&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;LICENSE IS REQUIRED WHEN:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You are planning to use the work up to 500 times on commercial products, e.g. prints or novelties.&lt;/li&gt;
-&lt;li&gt;You are planning to use the work in a commercial product, e.g. books, video games etc. that has sold up to 1,000 units.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;LICENSE CONDITIONS:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MillMint retains copyright of the work.&lt;/li&gt;
-&lt;li&gt;Signatures on the work must maintain intact in reproductions.&lt;/li&gt;
-&lt;li&gt;You cannot claim to have created commissioned work (i.e. to have drawn it).&lt;/li&gt;
-&lt;li&gt;You cannot resell artwork in its original digital format.&lt;/li&gt;
-&lt;li&gt;You cannot use the work in a pornographic, obscene, illegal, immoral, libellous or defamatory manner.&lt;/li&gt;
-&lt;li&gt;You cannot incorporate the work into trademarks, logos, or service marks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Under NO circumstances may you sell, or otherwise commercialise the actual digital files in their original format.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;button href=&#34;mailto:studio@millmint.net&#34;&gt;Contact me &lt;span class=&#34;smallicon&#34;&gt;✉️&lt;/span&gt;&lt;/button&gt;&lt;/p&gt;
-
+	  ✿ Download the 📄 MillMint Limited Commercial License.pdf When you commission work from MillMint, it is licensed for limited commercial use use.
+You may adapt the work for personal use or for gifts as many times as you like with no permission required.
+If you plan on using commissioned work for commercial purposes, including selling it or adapting it into a commercial product, it is licensed under these terms.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Download the <span class="smallicon">📄</span> <a href="/files/MillMint%20Limited%20Commercial%20License.pdf">MillMint Limited Commercial License.pdf</a></div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p>When you commission work from MillMint, it is licensed for limited commercial use use.</p>
+<p><strong>You may adapt the work for personal use or for gifts as many times as you like with no permission required.</strong></p>
+<p>If you plan on using commissioned work for commercial purposes, including selling it or adapting it into a commercial product, it is licensed under these terms.</p>
+</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p>LICENSE INFORMATION:</p>
+<p>The <span class="smallicon">📄</span> MillMint Limited Commercial License applies to commissioned work from MillMint. Uses that exceed these terms require the permission of MillMint.</p>
+<p>Any questions about this license or commissioned work can be forwarded to <span class="smallicon">📧</span> <a href="mailto:studio@millmint.net">studio@millmint.net</a>.</p>
+<p>LICENSE IS REQUIRED WHEN:</p>
+<ul>
+<li>You are planning to use the work up to 500 times on commercial products, e.g. prints or novelties.</li>
+<li>You are planning to use the work in a commercial product, e.g. books, video games etc. that has sold up to 1,000 units.</li>
+</ul>
+<p>LICENSE CONDITIONS:</p>
+<ul>
+<li>MillMint retains copyright of the work.</li>
+<li>Signatures on the work must maintain intact in reproductions.</li>
+<li>You cannot claim to have created commissioned work (i.e. to have drawn it).</li>
+<li>You cannot resell artwork in its original digital format.</li>
+<li>You cannot use the work in a pornographic, obscene, illegal, immoral, libellous or defamatory manner.</li>
+<li>You cannot incorporate the work into trademarks, logos, or service marks.</li>
+</ul>
+<p><strong>Under NO circumstances may you sell, or otherwise commercialise the actual digital files in their original format.</strong></p>
+</div>
+</blockquote>
+
+<p><button href="mailto:studio@millmint.net">Contact me <span class="smallicon">✉️</span></button></p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>

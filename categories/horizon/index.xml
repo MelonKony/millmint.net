@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Stories from the Horizon</title>
 	<link>https://millmint.net/categories/horizon/</link>
 	<description>Recent content in Stories from the Horizon </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<image>
-		<url>https://millmint.net/favicon.png</url>
-		<title>Stories from the Horizon</title>
-		<link>https://millmint.net/stories/</link>
-	</image>
-	<webfeeds:cover image="https://millmint.net/images/missile.jpg" />
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/horizon/index.xml" rel="self" type="application/rss+xml" />
@@ -21,47 +23,45 @@
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/lola/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/lola.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/lola.jpg"/> 
-		  &lt;h2 id=&#34;genesis-of-utopia&#34;&gt;
+	  Genesis of Utopia # Vekllei did not originate in Lola &ndash; according to the Saga of Origins, Vekllei emerged from the corpse of a petty creator god named Oslola. But there was some truth in casting Lola as the genesis of the Vekllei nation-state, since this is where Scandinavian settlers first landed over three thousand years ago, and was where the 1st and 2nd Commonwealths consolidated their power and united the Vekllei Islands.
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/lola.jpg"/> <h2 id="genesis-of-utopia">
   Genesis of Utopia
-  &lt;a class=&#34;anchor&#34; href=&#34;#genesis-of-utopia&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Vekllei did not originate in &lt;a href=&#34;https://millmint.net/lola/&#34;&gt;Lola&lt;/a&gt; &amp;ndash; according to the &lt;em&gt;Saga of Origins&lt;/em&gt;, Vekllei emerged from the corpse of a petty creator god named &lt;em&gt;Oslola&lt;/em&gt;. But there was some truth in casting Lola as the genesis of the Vekllei nation-state, since this is where Scandinavian settlers first landed over three thousand years ago, and was where the 1st and 2nd Commonwealths consolidated their power and united the Vekllei Islands.&lt;/p&gt;
-&lt;p&gt;In its peak, Lola was a colonial metropole that rivalled any of the European capitals in wealth and monument. It was the jewel of the 3rd Commonwealth &amp;ndash; the military government &amp;ndash; and retained the splendid summer palaces and elaborate roman baths of the old monarchies.&lt;/p&gt;
-&lt;p&gt;
+  <a class="anchor" href="#genesis-of-utopia">#</a>
+</h2>
+<p>Vekllei did not originate in <a href="/lola/">Lola</a> &ndash; according to the <em>Saga of Origins</em>, Vekllei emerged from the corpse of a petty creator god named <em>Oslola</em>. But there was some truth in casting Lola as the genesis of the Vekllei nation-state, since this is where Scandinavian settlers first landed over three thousand years ago, and was where the 1st and 2nd Commonwealths consolidated their power and united the Vekllei Islands.</p>
+<p>In its peak, Lola was a colonial metropole that rivalled any of the European capitals in wealth and monument. It was the jewel of the 3rd Commonwealth &ndash; the military government &ndash; and retained the splendid summer palaces and elaborate roman baths of the old monarchies.</p>
+<p>
 
 
  
-&lt;figure&gt;
-  &lt;img src=&#34;https://millmint.net/images/mastheads/flags/lola.png&#34; alt=&#34;smallimg&#34;  loading=&#34;lazy&#34; /&gt;
+<figure>
+  <img src="/images/mastheads/flags/lola.png" alt="smallimg"  loading="lazy" />
   
-&lt;/figure&gt;
+</figure>
 
-&lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;Flag of the borough of &lt;a href=&#34;https://millmint.net/lola/&#34;&gt;Lola&lt;/a&gt;.&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;The war destroyed Lola and its ancient capital district, Reykjavic. Two 5 megaton fission bombs struck near its harbour, and the blasts rushed up its surrounding plains and steep hills, poisoning its earth with radiation and wiping clean a thousand years of history. Nearly 500,000 people died.&lt;/p&gt;
-&lt;p&gt;One genesis folds into another; the 4th Commonwealth, the &amp;lsquo;Floral Government&amp;rsquo; of democracy and gentleness, was founded in its ashes. The new Vekllei has a new capital, and with it has moved its commerce and shipping. The new Lola, still lush with ruins and roofless homes, has been relieved of the burden of wealth. The borough has emerged as a home for immigrants, particularly Yiddish, Irish and Poles. They are building a new life in Lola; they are building a new Lola.&lt;/p&gt;
-&lt;h2 id=&#34;an-essential-journey&#34;&gt;
+<blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Flag of the borough of <a href="/lola/">Lola</a>.</div>
+</blockquote>
+</p>
+<p>The war destroyed Lola and its ancient capital district, Reykjavic. Two 5 megaton fission bombs struck near its harbour, and the blasts rushed up its surrounding plains and steep hills, poisoning its earth with radiation and wiping clean a thousand years of history. Nearly 500,000 people died.</p>
+<p>One genesis folds into another; the 4th Commonwealth, the &lsquo;Floral Government&rsquo; of democracy and gentleness, was founded in its ashes. The new Vekllei has a new capital, and with it has moved its commerce and shipping. The new Lola, still lush with ruins and roofless homes, has been relieved of the burden of wealth. The borough has emerged as a home for immigrants, particularly Yiddish, Irish and Poles. They are building a new life in Lola; they are building a new Lola.</p>
+<h2 id="an-essential-journey">
   An Essential Journey
-  &lt;a class=&#34;anchor&#34; href=&#34;#an-essential-journey&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Tzipora lived in Lola with Baron. Baron was an institutionalised person and had spend many years overseas, and government realtors had reclaimed his apartment. When he returned to Vekllei for good, he moved into a late uncle&amp;rsquo;s apartment in the tired neighbourhood of Seispri, a terraced community of light industry, workshops and immigrant families.&lt;/p&gt;
-&lt;p&gt;Seispri was Tzipora&amp;rsquo;s first home in Vekllei, and would always be close to her heart. It was a different kind of living to what she knew. Vekllei people were much poorer in some ways, but the quality of their lives was much better. There was a real sense of contributing to a different way of living; of improving their lot honestly; of shared burdens. Many immigrants to Vekllei arrived to participate in this project &amp;ndash; whether they were Labour Zionists or Pan-Atlanticists, they all had their reasons for being here and made good use of their lives.&lt;/p&gt;
-&lt;p&gt;Baron&amp;rsquo;s apartment was above a garage and down the road from a canvas factory, but the houses were full of families with children. That was very nice, to see kids playing in the street. A creek ran behind the street, and you could catch little fish there sometimes.&lt;/p&gt;
-&lt;p&gt;Tzipora was a shadow of a girl by the time she finished high school. She was not good at anything in particular and did not have an immediate interest in university. Unresolved memories of the past were lurking in her mind&amp;rsquo;s periphery, and she was starting to worry they would kill her if she thought too long or too hard. On different days she felt her friends were leaving her behind or that she was holding them back. She was unravelling.&lt;/p&gt;
-&lt;p&gt;Rather than implode in Seispri, she decided she would renew her vows to the country she loved by touring its entirety on foot. This was actually a very old Vekllei tradition called the &lt;em&gt;Visa Con&lt;/em&gt;, or &amp;lsquo;private pilgrimage.&amp;rsquo; Like many such traditions, it was once a spiritual practice that has secularised in the postwar period. Tzipora had made her way from California to Utah on foot &amp;ndash; so what was a hundred boroughs? She was good at walking.&lt;/p&gt;
-&lt;p&gt;Cobian had graduated school with good marks and had started a nursing residency at a Lola clinic. Tzipora had made up her mind quickly about the whole thing and wanted to say her goodbyes before she left. She called the clinic and met Cobian down by the tram station, near the busy heart of Seispri. It was nice here; the sun was out. They talked for a long while and held hands. After Tzipora said her goodbyes and Cobian had said her well-wishes they asked a passing girl to take their picture.&lt;/p&gt;
-
-	  </description>
+  <a class="anchor" href="#an-essential-journey">#</a>
+</h2>
+<p>Tzipora lived in Lola with Baron. Baron was an institutionalised person and had spend many years overseas, and government realtors had reclaimed his apartment. When he returned to Vekllei for good, he moved into a late uncle&rsquo;s apartment in the tired neighbourhood of Seispri, a terraced community of light industry, workshops and immigrant families.</p>
+<p>Seispri was Tzipora&rsquo;s first home in Vekllei, and would always be close to her heart. It was a different kind of living to what she knew. Vekllei people were much poorer in some ways, but the quality of their lives was much better. There was a real sense of contributing to a different way of living; of improving their lot honestly; of shared burdens. Many immigrants to Vekllei arrived to participate in this project &ndash; whether they were Labour Zionists or Pan-Atlanticists, they all had their reasons for being here and made good use of their lives.</p>
+<p>Baron&rsquo;s apartment was above a garage and down the road from a canvas factory, but the houses were full of families with children. That was very nice, to see kids playing in the street. A creek ran behind the street, and you could catch little fish there sometimes.</p>
+<p>Tzipora was a shadow of a girl by the time she finished high school. She was not good at anything in particular and did not have an immediate interest in university. Unresolved memories of the past were lurking in her mind&rsquo;s periphery, and she was starting to worry they would kill her if she thought too long or too hard. On different days she felt her friends were leaving her behind or that she was holding them back. She was unravelling.</p>
+<p>Rather than implode in Seispri, she decided she would renew her vows to the country she loved by touring its entirety on foot. This was actually a very old Vekllei tradition called the <em>Visa Con</em>, or &lsquo;private pilgrimage.&rsquo; Like many such traditions, it was once a spiritual practice that has secularised in the postwar period. Tzipora had made her way from California to Utah on foot &ndash; so what was a hundred boroughs? She was good at walking.</p>
+<p>Cobian had graduated school with good marks and had started a nursing residency at a Lola clinic. Tzipora had made up her mind quickly about the whole thing and wanted to say her goodbyes before she left. She called the clinic and met Cobian down by the tram station, near the busy heart of Seispri. It was nice here; the sun was out. They talked for a long while and held hands. After Tzipora said her goodbyes and Cobian had said her well-wishes they asked a passing girl to take their picture.</p>
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -70,20 +70,18 @@
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/trailer/</guid>
-	  <image>
-	  	<url>https://millmint.net/video/trailer.mp4</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/video/trailer.mp4"/> 
-		  &lt;blockquote class=&#34;hint caption&#34;&gt;
-  &lt;div class=&#34;icon&#34;&gt;
-&lt;/div&gt; 
-  &lt;div class=&#34;text&#34;&gt;No, I&amp;rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&amp;rsquo;d like to. &lt;a href=&#34;https://millmint.net/video/trailer.mp4/&#34;&gt;Click here to watch with sound.&lt;/a&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-
-
+	   No, I&rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&rsquo;d like to. Click here to watch with sound. 
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/video/trailer.mp4"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">No, I&rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&rsquo;d like to. <a href="/video/trailer.mp4/">Click here to watch with sound.</a></div>
+</blockquote>
+
+]]>
+  	</content:encoded>
 	</item>
 	
 	<item>
@@ -92,28 +90,27 @@
 	  <pubDate>Thu, 01 Sep 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/horizon/</guid>
-	  <image>
-	  	<url>https://millmint.net/images/stories.jpg</url>
-	  	<title>Illustration</title>
-	  </image>
 	  <description>
-		  <img src="https://millmint.net/images/stories.jpg"/> 
-		  &lt;h2 id=&#34;a-new-format-for-stories-from-vekllei&#34;&gt;
-  A New Format for Stories from Vekllei
-  &lt;a class=&#34;anchor&#34; href=&#34;#a-new-format-for-stories-from-vekllei&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Vekllei has &lt;a href=&#34;https://millmint.net/boroughs/&#34;&gt;one hundred boroughs&lt;/a&gt; that are usually characterised as the foundation of the Vekllei city-state. Some, like Bakur, have only a few thousand people in them. Others, like the Great Coast, have over a million.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been working on this project for a while now, about five years counting backwards, and in that time what Vekllei means to me has matured. In some ways, things have calcified &amp;ndash; a gift and a curse &amp;ndash; but it&amp;rsquo;s also true that the project is more complicated now than it ever was. I think it&amp;rsquo;s more sophisticated, and it reflects a more complete person.&lt;/p&gt;
-&lt;p&gt;For a long time now, Vekllei has existed first as a series of pictures with stories attached &amp;ndash; this very format you&amp;rsquo;re reading now, which number about 315 posts since 2017. They&amp;rsquo;re all on this site, check them out. Today, I&amp;rsquo;m announcing &lt;em&gt;Stories from the Horizon&lt;/em&gt;, a new approach to this format that will depict Vekllei&amp;rsquo;s 100 boroughs in a series of 100 landscape pictures, woven together as a great journey featuring Tzipora.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In 2066, Tzipora is drifting between moments. Since high school, nothing has really worked out the way she&amp;rsquo;d hoped &amp;ndash; not university, not work, and not love. She is waiting for the shape of her life to make sense. The past seems further away and more relevant than ever before, and her future is uncertain. Rather than confront these things directly, she meets the universe on her terms, and starts a journey in the great Vekllei tradition &amp;ndash; the &lt;em&gt;Visa Con&lt;/em&gt;, or Private Pilgrimage. The Visa Con is a winding path throughout the island of Vekllei, reaching all corners of its great Atlantic landscapes. It is a testament to the goodness of living in this world.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;Stories from the Horizon&lt;/em&gt; isn&amp;rsquo;t the upcoming &amp;lsquo;Vekllei comic,&amp;rsquo; but it will help me create it. The comic is a big deal for me, and it&amp;rsquo;s forced me to rethink many aspects of how I depict Vekllei. Five years since the first Vekllei post, I&amp;rsquo;m replacing the burden of an established format with the lightness of being a beginner again. These stories will resemble the posts you&amp;rsquo;re familiar with, but will be more considerate in how they depict landscape and architecture in Vekllei, and will altogether produce a really important album of Vekllei landscapes that I can draw on for future projects. You&amp;rsquo;ll notice some of my online presence changing to reflect this &amp;ndash; new banners for social media and that sort of thing. Who knows, maybe &lt;em&gt;Stories from the Horizon&lt;/em&gt; could be turned into a little picture-book when it&amp;rsquo;s done.&lt;/p&gt;
-&lt;p&gt;It won&amp;rsquo;t be fast &amp;ndash; pictures will (probably) come out at the same pace as they do now (I want to make them faster, I really do, I&amp;rsquo;m always trying). It won&amp;rsquo;t be consistent &amp;ndash; I&amp;rsquo;ll still want to do other concepts occasionally. And I can&amp;rsquo;t guarantee they&amp;rsquo;ll all be good. But I want to enjoy doing something new, from a new perspective and spirit, and I hope you&amp;rsquo;ll enjoy it too.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve always loved journeys, so let&amp;rsquo;s see where this takes us.&lt;/p&gt;
-&lt;p&gt;&amp;ndash; Hobart&lt;/p&gt;
-
+	  A New Format for Stories from Vekllei # Vekllei has one hundred boroughs that are usually characterised as the foundation of the Vekllei city-state. Some, like Bakur, have only a few thousand people in them. Others, like the Great Coast, have over a million.
+I&rsquo;ve been working on this project for a while now, about five years counting backwards, and in that time what Vekllei means to me has matured.
 	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/stories.jpg"/> <h2 id="a-new-format-for-stories-from-vekllei">
+  A New Format for Stories from Vekllei
+  <a class="anchor" href="#a-new-format-for-stories-from-vekllei">#</a>
+</h2>
+<p>Vekllei has <a href="/boroughs/">one hundred boroughs</a> that are usually characterised as the foundation of the Vekllei city-state. Some, like Bakur, have only a few thousand people in them. Others, like the Great Coast, have over a million.</p>
+<p>I&rsquo;ve been working on this project for a while now, about five years counting backwards, and in that time what Vekllei means to me has matured. In some ways, things have calcified &ndash; a gift and a curse &ndash; but it&rsquo;s also true that the project is more complicated now than it ever was. I think it&rsquo;s more sophisticated, and it reflects a more complete person.</p>
+<p>For a long time now, Vekllei has existed first as a series of pictures with stories attached &ndash; this very format you&rsquo;re reading now, which number about 315 posts since 2017. They&rsquo;re all on this site, check them out. Today, I&rsquo;m announcing <em>Stories from the Horizon</em>, a new approach to this format that will depict Vekllei&rsquo;s 100 boroughs in a series of 100 landscape pictures, woven together as a great journey featuring Tzipora.</p>
+<blockquote>
+<p>In 2066, Tzipora is drifting between moments. Since high school, nothing has really worked out the way she&rsquo;d hoped &ndash; not university, not work, and not love. She is waiting for the shape of her life to make sense. The past seems further away and more relevant than ever before, and her future is uncertain. Rather than confront these things directly, she meets the universe on her terms, and starts a journey in the great Vekllei tradition &ndash; the <em>Visa Con</em>, or Private Pilgrimage. The Visa Con is a winding path throughout the island of Vekllei, reaching all corners of its great Atlantic landscapes. It is a testament to the goodness of living in this world.</p>
+</blockquote>
+<p><em>Stories from the Horizon</em> isn&rsquo;t the upcoming &lsquo;Vekllei comic,&rsquo; but it will help me create it. The comic is a big deal for me, and it&rsquo;s forced me to rethink many aspects of how I depict Vekllei. Five years since the first Vekllei post, I&rsquo;m replacing the burden of an established format with the lightness of being a beginner again. These stories will resemble the posts you&rsquo;re familiar with, but will be more considerate in how they depict landscape and architecture in Vekllei, and will altogether produce a really important album of Vekllei landscapes that I can draw on for future projects. You&rsquo;ll notice some of my online presence changing to reflect this &ndash; new banners for social media and that sort of thing. Who knows, maybe <em>Stories from the Horizon</em> could be turned into a little picture-book when it&rsquo;s done.</p>
+<p>It won&rsquo;t be fast &ndash; pictures will (probably) come out at the same pace as they do now (I want to make them faster, I really do, I&rsquo;m always trying). It won&rsquo;t be consistent &ndash; I&rsquo;ll still want to do other concepts occasionally. And I can&rsquo;t guarantee they&rsquo;ll all be good. But I want to enjoy doing something new, from a new perspective and spirit, and I hope you&rsquo;ll enjoy it too.</p>
+<p>I&rsquo;ve always loved journeys, so let&rsquo;s see where this takes us.</p>
+<p>&ndash; Hobart</p>
+]]>
+  	</content:encoded>
 	</item>
 	
   </channel>
