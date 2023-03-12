@@ -26,7 +26,7 @@
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net/images/drawing.jpg"/> 
+		  <img src="https://millmint.net/images/drawing.jpg"/> 
 		  &lt;style&gt;
 #article-info .emoji {
     margin-right: 85px;
@@ -195,7 +195,7 @@ color: var(--color-red);
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net"/> 
+		  <img src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -345,7 +345,7 @@ article h5 {
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net"/> 
+		  <img src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -367,7 +367,7 @@ article h5 {
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net"/> 
+		  <img src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -389,7 +389,7 @@ article h5 {
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net"/> 
+		  <img src="https://millmint.net"/> 
 		  &lt;h2 id=&#34;this-is-the-epoch-of-rest&#34;&gt;
   This is the Epoch of Rest
   &lt;a class=&#34;anchor&#34; href=&#34;#this-is-the-epoch-of-rest&#34;&gt;#&lt;/a&gt;
@@ -498,7 +498,7 @@ a, body article a {
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net"/> 
+		  <img src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
@@ -520,7 +520,7 @@ a, body article a {
 	  	<title>Illustration</title>
 	  </image>
 	  <description>
-		  <image src="https://millmint.net"/> 
+		  <img src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
   &lt;div class=&#34;icon&#34;&gt;
 &lt;/div&gt; 
