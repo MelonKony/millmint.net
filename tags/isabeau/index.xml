@@ -22,7 +22,10 @@
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/movie/</guid>
-	  <media src="https://millmint.net/images/movie.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/movie.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/movie.jpg"/> 
 		  &lt;blockquote class=&#34;hint story&#34;&gt;

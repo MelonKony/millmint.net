@@ -21,7 +21,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/language/</guid>
-	  <media src="https://millmint.net/images/drawing.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/drawing.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/drawing.jpg"/> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
@@ -597,7 +600,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/metaphysics/</guid>
-	  <media src="https://millmint.net/images/spiritful.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/spiritful.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/spiritful.jpg"/> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
@@ -665,7 +671,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/religion/</guid>
-	  <media src="https://millmint.net/images/death.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/death.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/death.jpg"/> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;

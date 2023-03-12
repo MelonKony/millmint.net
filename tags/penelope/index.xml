@@ -22,7 +22,10 @@
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/chapel/</guid>
-	  <media src="https://millmint.net/images/gov.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/gov.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/gov.jpg"/> 
 		  &lt;blockquote&gt;
@@ -53,7 +56,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.&lt;/p&gt;
 	  <pubDate>Sat, 21 Aug 2021 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/new-generation/</guid>
-	  <media src="https://millmint.net/images/generation.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/generation.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/generation.jpg"/> 
 		  &lt;p&gt;&lt;strong&gt;Children of the children of the bomb —&lt;/strong&gt; a generation of war-babies born in peacetime. That was how they thought of themselves. Their grandparents and great-grandparents had lived through the war and the occupation, and so they had inherited the burden of Vekllei&amp;rsquo;s future as a country of long-sufferers, visionaries, and dispossessed.&lt;/p&gt;

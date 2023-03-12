@@ -21,7 +21,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/landscape/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;

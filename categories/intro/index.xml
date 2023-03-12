@@ -21,7 +21,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/intro/faq/</guid>
-	  <media src="https://millmint.net/images/drawing.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/drawing.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/drawing.jpg"/> 
 		  &lt;style&gt;
@@ -187,7 +190,10 @@ color: var(--color-red);
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/characters/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;
@@ -334,7 +340,10 @@ article h5 {
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/culture/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
@@ -353,7 +362,10 @@ article h5 {
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/essays/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
@@ -372,7 +384,10 @@ article h5 {
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/intro/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;h2 id=&#34;this-is-the-epoch-of-rest&#34;&gt;
@@ -478,7 +493,10 @@ a, body article a {
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/millmint/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
@@ -497,7 +515,10 @@ a, body article a {
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;

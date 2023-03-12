@@ -21,7 +21,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/timeline/</guid>
-	  <media src="https://millmint.net"/> 
+	  <image>
+	  	<url>https://millmint.net</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net"/> 
 		  &lt;blockquote class=&#34;hint panel&#34;&gt;
@@ -617,7 +620,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/draft.vekllei/</guid>
-	  <media src="https://millmint.net/images/lightbulb.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/lightbulb.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/lightbulb.jpg"/> 
 		  &lt;h2 id=&#34;overview&#34;&gt;
@@ -834,7 +840,10 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/utopia/vekllei/</guid>
-	  <media src="https://millmint.net/images/missile.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/missile.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/missile.jpg"/> 
 		  &lt;blockquote class=&#34;hint &#34;&gt;

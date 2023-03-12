@@ -22,7 +22,10 @@
 	  <pubDate>Tue, 27 Oct 2020 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/comic-update/</guid>
-	  <media src="https://millmint.net/images/comic.jpg"/> 
+	  <image>
+	  	<url>https://millmint.net/images/comic.jpg</url>
+	  	<title>Illustration</title>
+	  </image>
 	  <description>
 		  <image src="https://millmint.net/images/comic.jpg"/> 
 		  &lt;blockquote class=&#34;hint story&#34;&gt;
