@@ -19,6 +19,27 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/2023/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>On the Stair</title>
+	  <link>https://millmint.net/stories/stair/</link>
+	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/stair/</guid>
+	  <description>
+	  <![CDATA[Tzipora and Cobian on the staircase of Tzipora&rsquo;s apartment after school. Tzipora doesn&rsquo;t sleep that well, so her energy plummets in the early afternoon. After school, she loads up on soft drinks to keep her going until dinner. There is a marked change in her spirits after she&rsquo;s got some sugar in her system.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/stair.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora and Cobian on the staircase of Tzipora&rsquo;s apartment after school.</div>
+</blockquote>
+
+<p>Tzipora doesn&rsquo;t sleep that well, so her energy plummets in the early afternoon. After school, she loads up on soft drinks to keep her going until dinner. There is a marked change in her spirits after she&rsquo;s got some sugar in her system.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Sketch of Coretti Adoula</title>
 	  <link>https://millmint.net/stories/coretti/</link>
 	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>
