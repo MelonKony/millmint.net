@@ -486,9 +486,6 @@ I thought it was Hell.</p>
     display: none;
   }
 }
-a, body article a {
-  color: var(--color-millmint);
-}
 </style>
 <div class="footnotes" role="doc-endnotes">
 <hr>

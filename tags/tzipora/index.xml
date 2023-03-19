@@ -18,6 +18,55 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Grey on the Mind</title>
+	  <link>https://millmint.net/stories/grey/</link>
+	  <pubDate>Sun, 19 Mar 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/grey/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora in all-grey. Tzipora has conservative tastes in fashion that fuse with her playful instincts. The result is something between shyness and postmodern rebellion.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/grey.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora in all-grey.</div>
+</blockquote>
+
+<p>Tzipora has conservative tastes in fashion that fuse with her playful instincts. The result is something between shyness and postmodern rebellion.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Hats</title>
+	  <link>https://millmint.net/stories/hats/</link>
+	  <pubDate>Sat, 18 Mar 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/hats/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A) the beret B) the sunhat and C) the crown ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/hats.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">A) the beret B) the sunhat and C) the <a href="/stories/crown">crown</a></div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>On the Stair</title>
 	  <link>https://millmint.net/stories/stair/</link>
 	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>

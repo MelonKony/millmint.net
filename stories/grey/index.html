@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+    
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Grey on the Mind - MillMint</title>
+
+    
+
+    
+    <meta name="keywords" content="2023" />
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.2efeda2e0b29de845d0d18677ee59faa6294a65f1d15db9e5872ea53d751c7c7f66d7f1d14603869d727639b093fcc4cd35884635daac678c104b92b1f47898a.css" integrity="sha512-Lv7aLgsp3oRdDRhnfuWfqmKUpl8dFdueWHLqU9dRx8f2bX8dFGA4adcnY5sJP8xM01iEY12qxnjBBLkrH0eJig==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Grey on the Mind &middot; MillMint" />
+    <meta property="og:description" content="The home of well-intentioned utopian fiction, illustrated by Studio MillMint." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/stories/grey/" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/sketches/grey.jpg" />
+    <meta property="og:image:secure_url" content="https://millmint.net/images/sketches/grey.jpg" />
+    
+    
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/stories/grey/" />
+    <meta property="og:title" content="Grey on the Mind" />
+    <meta property="og:description" content=" The home of well-intentioned utopian fiction, illustrated by Studio MillMint. - Grey on the Mind " />
+    <meta property="og:image" content="/images/sketches/grey.jpg" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.79e585255e363d7eb401bbeb830c97b6c13b4ecf2f2bf4028f99f8bce2596334.js" integrity="sha256-eeWFJV42PX60AbvrgwyXtsE7Ts8vK/QCj5n4vOJZYzQ=" crossorigin="anonymous"></script>
+    
+    
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    
+    
+    
+    
+    <link rel="stylesheet" id="commentscss" href="/css/comments.css" ></head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span>Intro</a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/utopia/" class="menu-link"><span class="navicon">📓</span>Utopia</a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/vekllei/" class="menu-link"><span class="navicon">🏠</span>Home</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span>MillMint</a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item insection">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span>Stories</a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        <li class="navbar-item ">
+          <a
+            href="https://www.patreon.com/vekllei"
+            class="menu-link"
+            ><img class="navicon" src="/icons/patreon.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="https://discord.gg/dCE6vSU"
+            class="menu-link"
+            ><img class="navicon" src="/icons/discord.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="https://twitter.com/melonkony"
+            class="menu-link"
+            ><img class="navicon" src="/icons/twitter.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="/stories/index.xml"
+            type="application/rss+xml"
+            class="menu-link"
+            ><img class="navicon" src="/icons/rss.svg"></a>
+        </li>
+      </ul>
+    </nav>
+</nav>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">Grey on the Mind</h1>
+  <div class="date" style="margin-right: .25rem;">Sunday, Mar 19, 2023</div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/stories/">
+			Stories</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/stories/grey/">
+			Grey on the Mind</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;"></span>
+  <div class="emoji" id="whirlybat"></div>
+</header>
+
+
+  <div data-page-color="83, 88, 94" style="display: none"></div>
+
+
+
+  <img class="page" alt="feature image" src=/images/sketches/grey.jpg />
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers" >
+
+
+
+
+
+
+
+
+
+
+
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none;
+    }
+    .pill {
+      display: none;
+    }
+  </style>
+
+    
+    <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora in all-grey.</div>
+</blockquote>
+
+<p>Tzipora has conservative tastes in fashion that fuse with her playful instincts. The result is something between shyness and postmodern rebellion.</p>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+  
+
+
+<nav class="story">
+  <div class="next-post leftlink">
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post rightlink">
+    
+      <a class="link-reverse" href="https://millmint.net/stories/hats/">Hats →</a>
+    
+  </div>
+</nav>
+
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/stories/">Stories</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/stories/grey/">Grey on the Mind</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 19/03/2023</span>
+    <span class="pill">
+      <div class="pill-category">
+  
+  
+    <a href="https://millmint.net/categories/sketch/">sketch</a>
+  
+  
+
+</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Grey on the Mind</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.d69d26e3e04dc111e80ed55d306bf3f57d89afe87618ebf790f107a4f95007df.js" type="module"></script>
+</body>
+
+</html>
