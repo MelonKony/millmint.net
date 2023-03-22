@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Short</title>
+	  <link>https://millmint.net/stories/short/</link>
+	  <pubDate>Wed, 22 Mar 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/short/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[From left: Tzipora and Fitri. Fitri is the shortest girl in Moshel St School&rsquo;s 10th Grade. Tzipora is the second-shortest. It is for this reason that Tzipora likes Fitri.
+Tzipora doesn&rsquo;t mix with her crowd much, and doesn&rsquo;t really know much about her. They&rsquo;d talked a couple times when they were paired up in science class, but Fitri was shy and closed off. There was something about her timidness and appearance that made her seem obscure and impossible to learn from.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/sketches/short.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">From left: Tzipora and Fitri.</div>
+</blockquote>
+
+<p>Fitri is the shortest girl in <a href="/moshel/">Moshel St School&rsquo;s</a> 10th Grade. Tzipora is the second-shortest. It is for this reason that Tzipora likes Fitri.</p>
+<p>Tzipora doesn&rsquo;t mix with her crowd much, and doesn&rsquo;t really know much about her. They&rsquo;d talked a couple times when they were paired up in science class, but Fitri was shy and closed off. There was something about her timidness and appearance that made her seem obscure and impossible to learn from. That wasn&rsquo;t Fitri&rsquo;s fault, Tzipora supposed, but it did nothing to change her opinion. Sometimes people just don&rsquo;t connect.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Grey on the Mind</title>
 	  <link>https://millmint.net/stories/grey/</link>
 	  <pubDate>Sun, 19 Mar 2023 08:00:00 EST</pubDate>
