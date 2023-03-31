@@ -1,0 +1,611 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+    
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>General Infantry, General Issue - MillMint</title>
+
+    
+
+    
+    <meta name="keywords" content="2023" />
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.bc47d64c066e76e20480010127290cae8d9c64c15c39998824e2b80b87f77c22409fb057aab44ed1793772022180a2725cbf3bc4de0bd85805db45e4af2c6984.css" integrity="sha512-vEfWTAZuduIEgAEBJykMro2cZMFcOZmIJOK4C4f3fCJAn7BXqrRO0Xk3cgIhgKJyXL87xN4L2FgF20XkryxphA==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="General Infantry, General Issue &middot; MillMint" />
+    <meta property="og:description" content="The home of well-intentioned utopian fiction, illustrated by Studio MillMint." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/stories/infantry/" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/infantry.jpg" />
+    <meta property="og:image:secure_url" content="https://millmint.net/images/infantry.jpg" />
+    
+    
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/stories/infantry/" />
+    <meta property="og:title" content="General Infantry, General Issue" />
+    <meta property="og:description" content=" The home of well-intentioned utopian fiction, illustrated by Studio MillMint. - General Infantry, General Issue " />
+    <meta property="og:image" content="/images/infantry.jpg" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.0c7aed189fd9c088e33912fa0cc6e535dbd585aab0e6b4642c8a656744a94bb6.js" integrity="sha256-DHrtGJ/ZwIjjORL6DMblNdvVhaqw5rRkLIplZ0SpS7Y=" crossorigin="anonymous"></script>
+    
+    
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    
+    
+    
+    
+    <link rel="stylesheet" id="commentscss" href="/css/comments.css" ></head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span>Intro</a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/utopia/" class="menu-link"><span class="navicon">📓</span>Utopia</a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/vekllei/" class="menu-link"><span class="navicon">🏠</span>Home</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span>MillMint</a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item insection">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span>Stories</a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        <li class="navbar-item ">
+          <a
+            href="https://www.patreon.com/vekllei"
+            class="menu-link"
+            ><img class="navicon" src="/icons/patreon.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="https://discord.gg/dCE6vSU"
+            class="menu-link"
+            ><img class="navicon" src="/icons/discord.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="https://twitter.com/melonkony"
+            class="menu-link"
+            ><img class="navicon" src="/icons/twitter.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="/stories/index.xml"
+            type="application/rss+xml"
+            class="menu-link"
+            ><img class="navicon" src="/icons/rss.svg"></a>
+        </li>
+      </ul>
+    </nav>
+</nav>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">General Infantry, General Issue</h1>
+  <div class="date" style="margin-right: .25rem;">Friday, Mar 31, 2023</div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/stories/">
+			Stories</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/stories/infantry/">
+			General Infantry, General Issue</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;"></span>
+  <div class="emoji" id="whirlybat"></div>
+</header>
+
+
+  <div data-page-color="174, 119, 114" style="display: none"></div>
+
+
+
+  <img class="page" alt="feature image" src=/images/infantry.jpg />
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers" >
+
+
+
+
+
+
+
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none;
+    }
+    .pill {
+      display: none;
+    }
+  </style>
+
+
+
+
+
+    
+    <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Uniforms from left: Day Fatigues, Battle Fatigues, Barracks Dress, Social Dress</div>
+</blockquote>
+
+<blockquote>
+<p>It had not even occurred to Coretti that she would see combat. She had never intended to enlist with with the infrantry at all &ndash; her life plan, so it was in 2066, was fairly conventional. She would do her four years in <a href="/corsosva/">Compulsory Service</a>, studying while working as an administrator or circuit technician, and leave with some experience and civil awards (and with luck, a honeymoon). But the call went out that year: the government had pledged to save democracy in the Congo, and the infantry needed soldiers with a good grasp of French to fight a nasty little bush war to prevent a Soviet or American regime.</p>
+</blockquote>
+<blockquote>
+<p>Coretti had grown up in Russia, and couldn&rsquo;t remember Zaire. But nonetheless, she was Congolese, wasn&rsquo;t she? She could be Vekllei, Russian, and Congolese simultaneously, such was the enlightened age of the 21st Century. And if she was Congolese, as she felt she was, wasn&rsquo;t it a terrible thing to turn your back on your country? Everyone gave four years &ndash; there was no getting around it. If she chose to stay out of the army, she had a feeling she&rsquo;d regret it for the rest of her life.</p>
+</blockquote>
+<h2 id="women-in-the-army">
+  Women in the Army
+  <a class="anchor" href="#women-in-the-army">#</a>
+</h2>
+<p>Vekllei accepts women into its armed forces and has done so since independence in 2015.</p>
+<p>All Vekllei people have to give four years to their country as part of <a href="/corsosva/">Compulsory Service</a>, including women. The majority of people enter civilian service in construction, medicine, administration or in overseas postings. About 20% enter the armed forces, and about 15% of those enter combat units.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Of the Commonwealth women that enter the Atlantic Armed Forces, only 15% enlist with the army. This minority is visible in striking contrast with the Navy, in which nearly half of sailors are women, and the Air Force, which is majority women. The Air Force has historically been an opportune place for female conscripts to demonstrate their bravery and fighting skill, because they make excellent pilots and the male physical and cultural advantages are not apparent there. More Vekllei women serve in combat roles in the Vekllei Air Force than American women do in the entire US military.</p>
+<p>Women were poorly represented in the Army for most of its existence, which was a result of the preference and paternalism of army command. Women face unique threats of violence in combat that their male comrades do not, and this risk was generally not acceptable to the military chiefs. Even now, there is a general hesitation among the Army to rotate female-majority units into frontline service, and are often preferred as home guards and training staff instead. This attitude is changing slowly, but it is changing, spurred by the success of female soldiers on the ground, which has demonstrated irrefutably that female soldiers are not weaker, more prone to injury, or less cohesive than men.</p>
+<p>The Army has made efforts to support self-selecting women interested in frontline combat roles by making available leadership positions in special brigades, and altering previously unpopular rules. For example, until 2044, female volunteers were expected to shave their heads like their male comrades. With new recognition and effective policy, there are more women in the Army now than at any point in its history.</p>
+<h2 id="uniform">
+  Uniform
+  <a class="anchor" href="#uniform">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p>Enlisted infantry receive summer and winter versions of each uniform. At home, infantry wear &ldquo;coffee colours;&rdquo; the colour of the Army. Depending on their station overseas, these colours are covered or replaced with local camouflage. There are four basic uniforms for infantry of all kinds.</p>
+<ol>
+<li>Day fatigues are worn around the barracks and for most types of service outside of combat. The trousers are bloused in regulation coffee brown, but the cotton-sateen shirt is a dusty brown as part of civilian hybridisation common in Vekllei armed forces. It is always tucked. Day fatigues can be worn with or without a helmet or slouch hat, depending on duty. Soldiers also train in day fatigues.</li>
+<li>Battle dress sees a field jacket worn over or replacing the day fatigues shirt, which can be tucked or left out. The equipment of a soldier varies from mission to mission, but No. 3 harnesses and No. 6 packs are most common. Coretti here is carrying a No. 16 small battle rifle, called a &ldquo;midge.&rdquo;</li>
+<li>Soldiers are issued with two sets of seasonal full dress uniform in Vekllei, which is worn in parades and outside of base overseas. It sacrifices some of the attractive tailoring of foreign parade dress for comfort and breathability, since it is generally worn more often than strict parade uniform overseas. This version depicted here, called a No. 4, also demonstrates many indigenous Vekllei features. These include:
+<ol>
+<li>The Army slouch hat, basically unchanged in appearance since independence.</li>
+<li>A white “Sam Browne” belt with a silver buckle plate embossed with the Army’s crown, which supports a No. 6 service revolver with a personalised synthetic pearl handle.</li>
+<li>A ceremonial sword gifted to the soldier upon completing basic training, worn at the side. Soldiers also receive training for use of a sword, and some even wear it on patrol.</li>
+<li>Slacks or a skirt, paired with brown oxfords. A <a href="/stories/crown/">Gi</a> is worn with the skirt.</li>
+</ol>
+</li>
+<li>Social dress is analogous to “mess dress” overseas, and is worn at social or semi-formal functions after 6pm. Before 6pm, parade dress is worn in its place. It also features Vekllei cultural items, like the cape and <a href="/stories/crown/">Gi</a>.</li>
+</ol>
+</div>
+</blockquote>
+
+<h2 id="equipment-guide">
+  Equipment Guide
+  <a class="anchor" href="#equipment-guide">#</a>
+</h2>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p>This index is not comprehensive &ndash; many standard patrol items are not depicted here.</p>
+<ol>
+<li>Unit Patch</li>
+<li>Camouflage paint tube</li>
+<li>No. 2 Emergency radio</li>
+<li>Canteen and cooking implements</li>
+<li>Nylon rope</li>
+<li>Division Epaulette</li>
+<li>A lensatic compass</li>
+<li>Can of serum albumin blood-volume expander</li>
+<li>No. 12 WP Smoke</li>
+<li>No. 6 Tear Smoke</li>
+<li>Machete</li>
+<li>Diamond and ruby deployment pin</li>
+<li>Name plate</li>
+<li>No. 6 Service Revolver</li>
+<li>Award for overseas deployment</li>
+<li>Award for gallantry under fire</li>
+</ol>
+</div>
+</blockquote>
+
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>All Vekllei people undergo combat training as per its ungovernable doctrine, but only a small minority of people enter the armed forces as soldiers.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+  
+
+
+<nav class="story">
+  <div class="next-post leftlink">
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post rightlink">
+    
+      <a class="link-reverse" href="https://millmint.net/stories/short/">Short →</a>
+    
+  </div>
+</nav>
+
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/stories/">Stories</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/stories/infantry/">General Infantry, General Issue</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 31/03/2023</span>
+    <span class="pill">
+      <div class="pill-category">
+  
+  
+    <a href="https://millmint.net/categories/landscape/">landscape</a>
+  
+  
+  
+    <a href="https://millmint.net/categories/story/">story</a>
+  
+  
+
+</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">General Infantry, General Issue</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.d69d26e3e04dc111e80ed55d306bf3f57d89afe87618ebf790f107a4f95007df.js" type="module"></script>
+</body>
+
+</html>
