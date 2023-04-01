@@ -66,7 +66,7 @@
     <meta property="og:description" content=" Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction. " />
     <meta property="og:image" content="/images/intro.gif" />
     <script defer src="/flexsearch.min.js"></script>
-    <script defer src="/en.search.min.339cd5e50b79020df6ec9ad099d8afad5ab5dc3af631f316c6a3f9f9ada26c58.js" integrity="sha256-M5zV5Qt5Ag327JrQmdivrVq13Dr2MfMWxqP5&#43;a2ibFg=" crossorigin="anonymous"></script>
+    <script defer src="/en.search.min.2c7e84253ae8a4b3d5eab6b5a6fc53246a07dac9b23690ac21567cc192a25951.js" integrity="sha256-LH6EJTropLPV6ra1pvxTJGoH2smyNpCsIVZ8wZKiWVE=" crossorigin="anonymous"></script>
     
     
     <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
@@ -101,11 +101,11 @@
     
 </header><nav><ul class="navbar left"><li class="navbar-item ">
                   
-                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span>Intro</a>
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
                   
                 </li><li class="navbar-item navbar-dropdown allow-hover ">
                     
-                       <a href="/utopia/" class="menu-link"><span class="navicon">📓</span>Utopia</a>
+                       <a href="/utopia/" class="menu-link"><span class="navicon">📓</span><span>Utopia</span></a>
                     
                     <ul class="menu-dropdown">
     
@@ -229,7 +229,7 @@
 </ul>
                 </li><li class="navbar-item navbar-dropdown allow-hover insection">
                     
-                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span>MillMint</a>
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
                     
                     <ul class="menu-dropdown">
     
@@ -301,7 +301,7 @@
 </ul>
                 </li><li class="navbar-item ">
                   
-                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span>Stories</a>
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
                   
                 </li></ul>
     <ul class="navbar right">
@@ -333,64 +333,82 @@
       </ul>
 </nav>
     
-    
-  <style>
-    
-    .close-btn {
-      color: var(--hightlight);
-      float: right;
-      cursor: pointer;
-      font-size: 14px;
-      margin-left: auto;
-    }
-    
-    #notice {
-      margin-top: 1rem;
-      display: flex;
-      align-items: center;
-    }
+    <style>
+  .close-btn {
+    color: var(--hightlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
 
-    .close-btn:hover {
-      opacity: .5;
-    }
-  </style>
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  .new-tag {
+    margin-right: 5px; 
+    line-height: .8rem;
+  }
+</style>
 
 
-  <blockquote id="notice" class="hint">
-    
-      <span class="tag" style="margin-right: 5px; line-height: .8rem;">NEW</span> <a style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/infantry/"><span class="navicon">📗</span>General Infantry</a>
-      <span id="close-btn" class="navicon close-btn">❌</span>
-  </blockquote>
-    
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/infantry/"><span class="navicon">📗</span>General Infantry</a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
 
-  <script>
-    
-    if (localStorage.getItem("notice") === "closed") {
-      document.getElementById("notice").style.display = "none";
-    }
 
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
     
-    document.getElementById("close-btn").addEventListener("click", function() {
+    if(location.pathname.startsWith('/stories/')) {
       
-      document.getElementById("notice").style.display = "none";
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
       
-      localStorage.setItem("notice", "closed");
-    });
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[1])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
 
     
-    let lastClosed = localStorage.getItem("lastClosed");
-    if (lastClosed) {
-      let now = new Date().getTime();
-      let diff = now - lastClosed;
-      let hours = diff / (1000 * 60 * 60);
-      if (hours >= 24) {
-        
-        localStorage.removeItem("notice");
-        localStorage.removeItem("lastClosed");
-      }
-    }
-    
-  </script>
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
 <section class="page">
                 
     
