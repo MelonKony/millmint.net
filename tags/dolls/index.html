@@ -330,8 +330,63 @@
             ><img class="navicon" src="/icons/rss.svg"></a>
         </li>
       </ul>
-    </nav>
 </nav>
+    
+    
+  <style>
+    
+    .close-btn {
+      color: var(--hightlight);
+      float: right;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    
+    #notice {
+      margin-top: 1rem;
+    }
+
+    .close-btn:hover {
+      opacity: .5;
+    }
+  </style>
+
+
+  <blockquote id="notice" class="hint">
+    
+      <span class="tag">NEW</span> Story: <a href="https://millmint.net/stories/infantry/"><span class="navicon">📗</span>General Infantry, General Issue</a>
+      <span id="close-btn" class="navicon close-btn">❌</span>
+  </blockquote>
+    
+
+  <script>
+    
+    if (localStorage.getItem("notice") === "closed") {
+      document.getElementById("notice").style.display = "none";
+    }
+
+    
+    document.getElementById("close-btn").addEventListener("click", function() {
+      
+      document.getElementById("notice").style.display = "none";
+      
+      localStorage.setItem("notice", "closed");
+    });
+
+    
+    let lastClosed = localStorage.getItem("lastClosed");
+    if (lastClosed) {
+      let now = new Date().getTime();
+      let diff = now - lastClosed;
+      let hours = diff / (1000 * 60 * 60);
+      if (hours >= 24) {
+        
+        localStorage.removeItem("notice");
+        localStorage.removeItem("lastClosed");
+      }
+    }
+    
+  </script>
 <section class="page">
                 <div>
     <h1>dolls</h1>
