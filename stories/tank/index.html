@@ -1,0 +1,627 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+    
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Atomic Main Battle Tank - MillMint</title>
+
+    
+
+    
+    <meta name="keywords" content="2023" />
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.4f24dc33a96388b939aef3cacbee47250f34cefcb6e12cc81e950b308dfd9e51147b5bb3cb2d745e2d495681332d8f2df84e51b46c459dc9f83213a501dafbc5.css" integrity="sha512-TyTcM6ljiLk5rvPKy&#43;5HJQ80zvy24SzIHpULMI39nlEUe1uzyy10Xi1JVoEzLY8t&#43;E5RtGxFncn4MhOlAdr7xQ==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Atomic Main Battle Tank &middot; MillMint" />
+    <meta property="og:description" content="The home of well-intentioned utopian fiction, illustrated by Studio MillMint." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/stories/tank/" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/tank.jpg" />
+    <meta property="og:image:secure_url" content="https://millmint.net/images/tank.jpg" />
+    
+    
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/stories/tank/" />
+    <meta property="og:title" content="Atomic Main Battle Tank" />
+    <meta property="og:description" content=" The home of well-intentioned utopian fiction, illustrated by Studio MillMint. - Atomic Main Battle Tank " />
+    <meta property="og:image" content="/images/tank.jpg" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.4ad97835862a9c65b887fd95ba92f7c6d9bec41cba1696480a78ac0b69786b9f.js" integrity="sha256-Stl4NYYqnGW4h/2VupL3xtm&#43;xBy6FpZICnisC2l4a58=" crossorigin="anonymous"></script>
+    
+    
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    
+    
+    
+    
+    <link rel="stylesheet" id="commentscss" href="/css/comments.css" ></head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/utopia/" class="menu-link"><span class="navicon">📓</span><span>Utopia</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/vekllei/" class="menu-link"><span class="navicon">🏠</span>Home</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/utopia/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/utopia/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/utopia/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item insection">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        <li class="navbar-item ">
+          <a
+            href="https://www.patreon.com/vekllei"
+            class="menu-link"
+            ><img class="navicon" src="/icons/patreon.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="https://discord.gg/dCE6vSU"
+            class="menu-link"
+            ><img class="navicon" src="/icons/discord.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="https://twitter.com/melonkony"
+            class="menu-link"
+            ><img class="navicon" src="/icons/twitter.svg"></a>
+        </li>
+        <li class="navbar-item ">
+          <a
+            href="/stories/index.xml"
+            type="application/rss+xml"
+            class="menu-link"
+            ><img class="navicon" src="/icons/rss.svg"></a>
+        </li>
+      </ul>
+</nav>
+    
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px; 
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/tank/"><span class="navicon">📗</span>Story: <i>Atomic Main Battle Tank</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+    
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">Atomic Main Battle Tank</h1>
+  <div class="date" style="margin-right: .25rem;">Tuesday, Apr 18, 2023</div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/stories/">
+			Stories</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/stories/tank/">
+			Atomic Main Battle Tank</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;"></span>
+  
+  
+</header>
+
+
+  <div data-page-color="74, 124, 66" style="display: none"></div>
+
+
+
+  <img class="page" alt="feature image" src=/images/tank.jpg />
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers" >
+
+
+
+
+
+
+
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none;
+    }
+    .pill {
+      display: none;
+    }
+  </style>
+
+
+
+
+
+    
+    <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">The &ldquo;Sekhmet&rdquo; No. 4 MBT, with commander in <a href="/stories/infantry/">Day Fatigues</a></div>
+</blockquote>
+
+<p>The experience of Commonwealth Expeditionary forces in West Africa exposed many weakness in existing equipment and strategy. Vehicles designed primarily to defend urban environments after a nuclear war found their weak points ruthlessly targeted in close-quarters asymmetric fighting. If the Commonwealth was truly going to become a great democratic power, with a hand in the affairs of its allies, that meant assembling a force trained for all climates in all theatres of the world.</p>
+<p>These lessons became more important as we approached the middle of the 21st Century, after the Africa Wars intensified and the scope of Commonwealth peacekeeping expanded. The Army of the Atlantic Crown, as it is still called, needed to professionalise. The decision was made to separate the existing fighting servicemen &ndash; the traditional Army, made up of hundreds of thousands of Atlantic conscripts and dedicated militias and reservists, would remain as a defensive force across the Commonwealth. The new Expeditionary Corps would be an elite, professional Army trained for specialised and extended war-fighting overseas, to meet the moral and political commitments the Commonwealth had made to the 21st Century. Counted in regiments rather than divisions, the Expeditionary Corps is the tip of the spear of Commonwealth warfare, fighting short and surgical wars that leverage the country&rsquo;s technological and equipment advantage.</p>
+<p>Expeditionary Corps units are made up of tactical brigades that are assembled out of strategic regiments for special purposes. The 23rd, 24th and 25th Armoured Regiments are the elite armoured shock units of the Commonwealth&rsquo;s armed forces, and use its latest tank platform, the No. 4 &ldquo;Sekhmet.&rdquo;</p>
+<p>Military equipment is numbered consecutively in Vekllei, so the No. 4 MBT is the 4th domestic MBT in service. It is a distinctive tank, with a pronounced bustle that overhangs the domed molten salt fission microreactor and V12 steam turbine engine. The bustle houses the armoured munitions magazine, which feeds 100mm shells into the stabilised cannon. Another distinctive feature is its &ldquo;panoramic&rdquo; vision blocks and periscopes, which give the driver and gunner much improved visibility while turned in. This was an evolution from the No. 3 MBT, which in exercises demonstrated the superior accuracy of fighting with hatches open.</p>
+<p>The reactor is highly armoured, and additional anti-rocket slat armour is often mounted to further protect the turbine and transmission from shoulder-launched missiles and rockets. There are currently 480 No. 4s in service, which have replaced No. 3s in the Expeditionary Corps. A previous-generation export version is also in service in Yugoslavia and the DR Congo.</p>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+  
+
+
+<nav class="story">
+  <div class="next-post leftlink">
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post rightlink">
+    
+      <a class="link-reverse" href="https://millmint.net/stories/infantry/">General Infantry →</a>
+    
+  </div>
+</nav>
+
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/stories/">Stories</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/stories/tank/">Atomic Main Battle Tank</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 18/04/2023</span>
+    <span class="pill">
+      <div class="pill-category">
+  
+  
+    <a href="https://millmint.net/categories/landscape/">landscape</a>
+  
+  
+  
+    <a href="https://millmint.net/categories/story/">story</a>
+  
+  
+
+</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Atomic Main Battle Tank</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.d69d26e3e04dc111e80ed55d306bf3f57d89afe87618ebf790f107a4f95007df.js" type="module"></script>
+</body>
+
+</html>
