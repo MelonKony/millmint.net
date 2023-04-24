@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Tzipora, the Wanderer</title>
+	  <link>https://millmint.net/stories/field-portrait/</link>
+	  <pubDate>Mon, 24 Apr 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/field-portrait/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Portait of Tzipora wearing school clothes in the Vekllei Highlands. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/field-portrait.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Portait of Tzipora wearing school clothes in the Vekllei Highlands.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Short</title>
 	  <link>https://millmint.net/stories/short/</link>
 	  <pubDate>Wed, 22 Mar 2023 08:00:00 EST</pubDate>
