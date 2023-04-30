@@ -18,24 +18,6 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/society/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Armed Forces of the Atlantic Crown</title>
-	  <link></link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid></guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>Bureaus</title>
 	  <link>https://millmint.net/utopia/society/industry/bureaus/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -257,31 +239,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	</item>
 	
 	<item>
-	  <title>Crown Industry</title>
-	  <link>https://millmint.net/utopia/society/industry/crown/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/utopia/society/industry/crown/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[ Crown Assets are a kind of state-owned enterprise subordinated to the Vekllei Sovereign, known as the Atlantic Crown or simply Crown. Crown SOEs are owned equally by all full Commonwealth member-states. ]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint panel">
-  <div class="icon">
-</div> 
-  <div class="text">Crown Assets are a kind of state-owned enterprise subordinated to the Vekllei Sovereign, known as the <em>Atlantic Crown</em> or simply <em>Crown</em>. Crown SOEs are owned equally by all full Commonwealth member-states.</div>
-</blockquote>
-
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Crown Parliament</title>
+	  <title>Crown</title>
 	  <link>https://millmint.net/utopia/society/state/government/crown/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -317,6 +275,30 @@ Consosva is a legal obligation to register an occupation with your municipality,
 
   </div>
 </details>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Crown Industry</title>
+	  <link>https://millmint.net/utopia/society/industry/crown/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/society/industry/crown/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Crown Assets are a kind of state-owned enterprise subordinated to the Vekllei Sovereign, known as the Atlantic Crown or simply Crown. Crown SOEs are owned equally by all full Commonwealth member-states. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">Crown Assets are a kind of state-owned enterprise subordinated to the Vekllei Sovereign, known as the <em>Atlantic Crown</em> or simply <em>Crown</em>. Crown SOEs are owned equally by all full Commonwealth member-states.</div>
+</blockquote>
 
 ]]>
   	</content:encoded>
@@ -440,7 +422,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Faith Schools
   <a class="anchor" href="#faith-schools">#</a>
 </h4>
-<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="#curriculum">Commonwealth curriculum</a> as a minimum education standard.</p>
+<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
 <h4 id="boarding-schools">
   Boarding Schools
   <a class="anchor" href="#boarding-schools">#</a>
@@ -463,11 +445,11 @@ Consosva is a legal obligation to register an occupation with your municipality,
 
  
 <figure>
-  <img src="/images/mist.jpg" alt="Image of Tzipora standing in front of school building"  title="Misy morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*" loading="lazy" />
-  <figcaption>Misy morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/mist/">Heavy Mist</a></em></figcaption>
+  <img src="/images/mist.jpg" alt="Image of Tzipora standing in front of school building"  title="Misty morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*" loading="lazy" />
+  <figcaption>Misty morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/mist/">Heavy Mist</a></em></figcaption>
 </figure>
 </p>
-<p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised by student leadership, and offer opportunities in industry and tertiary study.</p>
+<p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.</p>
 <p>Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child&rsquo;s diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.</p>
 <h3 id="compulsory-education">
   Compulsory Education
@@ -2253,6 +2235,85 @@ Included was a majority female council, many of whom were socialists opposed to 
 	</item>
 	
 	<item>
+	  <title>Military</title>
+	  <link>https://millmint.net/utopia/society/state/government/crown/military/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/society/state/government/crown/military/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ߷ This article is about a privilege of the Vekllei Sovereign Royal Armed Forces of Vekllei # Crown Army of Vekllei # Crown Army Construction House # Crown Navy of Vekllei # Crown Air Service of Vekllei # Crown Rocket Navy of Vekllei # Crown Mail of Vekllei # ✿ Main article: The Crown Mail of Vekllei General Office # Office of the Postmistress # ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about a privilege of the Vekllei Sovereign</div>
+</blockquote>
+
+<div class="section ">
+  <h2 id="royal-armed-forces-of-vekllei">
+  Royal Armed Forces of Vekllei
+  <a class="anchor" href="#royal-armed-forces-of-vekllei">#</a>
+</h2>
+<div class="outline ">
+  <h3 id="crown-army-of-vekllei">
+  Crown Army of Vekllei
+  <a class="anchor" href="#crown-army-of-vekllei">#</a>
+</h3>
+<h4 id="crown-army-construction-house">
+  Crown Army Construction House
+  <a class="anchor" href="#crown-army-construction-house">#</a>
+</h4>
+</div>
+<div class="outline ">
+  <h3 id="crown-navy-of-vekllei">
+  Crown Navy of Vekllei
+  <a class="anchor" href="#crown-navy-of-vekllei">#</a>
+</h3>
+</div>
+<div class="outline ">
+  <h3 id="crown-air-service-of-vekllei">
+  Crown Air Service of Vekllei
+  <a class="anchor" href="#crown-air-service-of-vekllei">#</a>
+</h3>
+</div>
+<div class="outline ">
+  <h3 id="crown-rocket-navy-of-vekllei">
+  Crown Rocket Navy of Vekllei
+  <a class="anchor" href="#crown-rocket-navy-of-vekllei">#</a>
+</h3>
+</div>
+<div class="outline ">
+  <h3 id="crown-mail-of-vekllei">
+  Crown Mail of Vekllei
+  <a class="anchor" href="#crown-mail-of-vekllei">#</a>
+</h3>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Main article: <em><a href="/utopia/society/mail">The Crown Mail of Vekllei</a></em></div>
+</blockquote>
+<h4 id="general-office">
+  General Office
+  <a class="anchor" href="#general-office">#</a>
+</h4>
+<h4 id="office-of-the-postmistress">
+  Office of the Postmistress
+  <a class="anchor" href="#office-of-the-postmistress">#</a>
+</h4>
+</div>
+
+</div>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Ministry of Commerce</title>
 	  <link>https://millmint.net/utopia/society/state/government/interior/commerce/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -3831,6 +3892,31 @@ The flag of Universal Cotton. It trades overseas under the Universal Cotton Comp
 </div>
 </blockquote>
 
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Veletia</title>
+	  <link>https://millmint.net/utopia/culture/veletia/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/culture/veletia/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the culture series of articles Veletia is the national personification of Vekllei. She is most commonly depicted as a young Algic woman with a canopia spear, but is considerably more contemporaneous than overseas female personifications and is used widely in Vekllei as a shorthand for the 4th Commonwealth.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/culture/">culture</a></em> series of articles</div>
+</blockquote>
+
+<p><strong>Veletia</strong> is the national personification of <strong>Vekllei</strong>. She is most commonly depicted as a young Algic woman with a <em>canopia</em> spear, but is considerably more contemporaneous than overseas female personifications and is used widely in Vekllei as a shorthand for the 4th Commonwealth.</p>
 ]]>
   	</content:encoded>
 	</item>

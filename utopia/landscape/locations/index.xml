@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/utopia/landscape/locations/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Comet</title>
+	  <link>https://millmint.net/utopia/landscape/locations/comet/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/landscape/locations/comet/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ This article is about a location in Vekllei The Comet Administration Assembly is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality and cultural neutrality, and is accessible to Commonwealth staff and emissaries by air or sea.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about a <a href="/utopia/landscape/locations"><strong>location</strong></a> in <a href="/utopia/vekllei/"><strong>Vekllei</strong></a></div>
+</blockquote>
+
+<p><strong>The Comet Administration Assembly</strong> is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality and cultural neutrality, and is accessible to Commonwealth staff and emissaries by air or sea.</p>
+<p>The complex consists of the Superior Assembly and Chambers, as well as accomodation, recreation facilities and offices for staff.</p>
+<p>The island of Meteor makes up part of the Western Azores archipelago, situated West of the Azores Commownealth Republic. Most of the island is a Crown Land outside of the administrative complex and support facilities. The island is served by Port Vekllei and Jetport Vekllei.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Moshel School</title>
 	  <link>https://millmint.net/utopia/landscape/locations/moshel/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>

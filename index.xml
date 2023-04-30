@@ -2039,6 +2039,30 @@ We had a few posts this month, but I’ve also been working on larger things —
 	</item>
 	
 	<item>
+	  <title>Natural Corners</title>
+	  <link>https://millmint.net/stories/corner/</link>
+	  <pubDate>Sun, 30 Apr 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/corner/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Portait of Tzipora wearing school clothes in the Vekllei Highlands. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/corner.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Portait of Tzipora wearing school clothes in the Vekllei Highlands.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Tzipora, the Wanderer</title>
 	  <link>https://millmint.net/stories/field-portrait/</link>
 	  <pubDate>Mon, 24 Apr 2023 08:00:00 EST</pubDate>
@@ -13812,17 +13836,44 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 	</item>
 	
 	<item>
-	  <title>Commonwealth</title>
-	  <link>https://millmint.net/utopia/commonwealth/</link>
+	  <title>Comet</title>
+	  <link>https://millmint.net/utopia/landscape/locations/comet/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/utopia/commonwealth/</guid>
+	  <guid>https://millmint.net/utopia/landscape/locations/comet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Overview # Welcome to Vekllei. This article introduces the essential setting of this website &ndash; the Commonwealth of Vekllei. Welcome to the epilogue of the &ldquo;epoch of rest.&rdquo; What is the Commonwealth? The Commonwealth is a country that consists of many island republics in the Atlantic. The largest of these is called the Vekllei Islands, which is its most populous constituent. The Commonwealth is the setting of this fiction, and is the home of most of its characters.]]>
+	  <![CDATA[߷ This article is about a location in Vekllei The Comet Administration Assembly is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality and cultural neutrality, and is accessible to Commonwealth staff and emissaries by air or sea.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about a <a href="/utopia/landscape/locations"><strong>location</strong></a> in <a href="/utopia/vekllei/"><strong>Vekllei</strong></a></div>
+</blockquote>
+
+<p><strong>The Comet Administration Assembly</strong> is the capital complex of the Commownealth, located on the island of Meteor in the North Atlantic ocean. Originally home to only a few hundred people, Comet was established in 2036 as an administrative centre for the vast Commonwealth, which spans the Atlantic and Caribbean oceans. It was chosen for its centrality and cultural neutrality, and is accessible to Commonwealth staff and emissaries by air or sea.</p>
+<p>The complex consists of the Superior Assembly and Chambers, as well as accomodation, recreation facilities and offices for staff.</p>
+<p>The island of Meteor makes up part of the Western Azores archipelago, situated West of the Azores Commownealth Republic. Most of the island is a Crown Land outside of the administrative complex and support facilities. The island is served by Port Vekllei and Jetport Vekllei.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Commonwealth</title>
+	  <link>https://millmint.net/utopia/new.vekllei/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/new.vekllei/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Overview # Welcome to Vekllei. This article introduces the essential setting of this website &ndash; the Commonwealth of Vekllei. This is how it works, and how its people live. Welcome to the epilogue of the epoch of rest. Vekllei is best conceptualised as a union of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <h2 id="overview">
@@ -13832,71 +13883,77 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 <blockquote class="hint panel">
   <div class="icon">
 </div> 
-  <div class="text"><strong>Welcome to Vekllei.</strong> This article introduces the essential setting of this website &ndash; the Commonwealth of Vekllei. Welcome to the epilogue of the &ldquo;epoch of rest.&rdquo;</div>
+  <div class="text"><strong>Welcome to Vekllei.</strong> This article introduces the essential setting of this website &ndash; the Commonwealth of Vekllei. This is how it works, and how its people live. Welcome to the epilogue of the <a href="/intro/faq/#why-utopia"><em>epoch of rest</em></a>.</div>
 </blockquote>
 
-<p><details >
-  <summary>What is the Commonwealth?</summary>
-  <div class="markdown-inner">
-    The Commonwealth is a country that consists of many island republics in the Atlantic. The largest of these is called the <em>Vekllei Islands</em>, which is its most populous constituent. The Commonwealth is the setting of this fiction, and is the home of most of its characters.
-  </div>
-</details>
-
-<details >
-  <summary>Where is the Commonwealth?</summary>
-  <div class="markdown-inner">
-    The Commonwealth consists of many islands across the Atlantic oceans, but most of its constituent nations are found in the North Atlantic and Caribbean seas. Its northernmost territory is Helvasia (Svalbard) and its southernmost territories are on the Antarctic continent.
-  </div>
-</details>
-
-<details >
-  <summary>When was the Commonwealth founded?</summary>
-  <div class="markdown-inner">
-    The Commonwealth of Nations is the 4th in a succession of historic Commonwealths based in the Kalan and Vekllei Islands. The 1st, known as the Nord Commonwealth, was the world&rsquo;s first parliament and was among the first democracies in the world.
-  </div>
-</details>
-</p>
-<p><strong>The Commonwealth of Nations</strong> is best conceptualised as a union of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Vekllei, of 16 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.</p>
-<p>The 4th Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Members of this commonwealth cede aspects of national governance to the Commonwealth, like security, health and education.</p>
-<p>The capital of the Commonwealth is [Comet], located west of the Azores Commonwealth in the Meteor Islands.</p>
+<p><strong>Vekllei</strong> is best conceptualised as a union of islands across the Atlantic Ocean. This commonwealth, the fourth in a series, consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 14 million. Together, they amount to a single superstate that spans the entirety of the Atlantic as a great power.</p>
+<p>The Commonwealth which unites them is highly centralised and built on common systems of governance and economic management. Members of this commonwealth cede aspects of governance like security, health and education to the Commonwealth. The country is colloquially known as <em>Vekllei</em>, an Algic <em>corcidi</em> word meaning <em>people of the sea and stars</em>.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>The capital of Vekllei is <a href="/comet/">Comet</a>, located west of the Azores Commonwealth in the Meteor Islands.</p>
+<p>Vekllei is often regarded a nation by will, rather than of culture or geography. It consists of distant autonomous republics with many cultures and languages, and it has attracted millions of immigrants since independence looking to participate in building the unique aspects of its governance and society.</p>
 <blockquote>
 <p>Oslola, raging and now blinded, drew deep wounds into the Earth. Out of these wounds came fire, and out of fire came Vekllei.</p>
 </blockquote>
-<p>&ndash; Retelling of Algic legends, Verse 40, <em>Saga of Origins</em>[^2]</p>
-<h2 id="title">
-  Title
-  <a class="anchor" href="#title">#</a>
+<p>&ndash; Retelling of Algic legends, Verse 40, <em>Saga of Origins</em></p>
+<details >
+  <summary>What is Vekllei?</summary>
+  <div class="markdown-inner">
+    The Vekllei Commonwealth is a country that consists of many island republics in the Atlantic. The largest of these is called the <em>Vekllei Islands</em>, which is its most populous constituent. The Commonwealth is the setting of this fiction, and is the home of most of its characters.
+  </div>
+</details>
+
+<details >
+  <summary>Where is Vekllei?</summary>
+  <div class="markdown-inner">
+    The Vekllei Commonwealth consists of many islands across the Atlantic oceans, but most of its constituent nations are found in the North Atlantic and Caribbean seas. Its northernmost territory is Helvasia (Svalbard) and its southernmost territories are on the Antarctic continent.
+  </div>
+</details>
+
+<details >
+  <summary>When was the Vekllei Commonwealth founded?</summary>
+  <div class="markdown-inner">
+    The Vekllei Commonwealth of Oceans is the 4th in a succession of historic Commonwealths based in the Kalan and Vekllei Islands. The first, known as the Nord Commonwealth, was the world&rsquo;s first parliament and among the first democracies in the world.
+  </div>
+</details>
+
+<h2 id="history">
+  History
+  <a class="anchor" href="#history">#</a>
 </h2>
-<p>Officially the 4th Vekllei Commonwealth, it is commonly referred to as the Vekllei Commonwealth or simply the Commonwealth. Use of the name <em>Vekllei</em> usually refers to the <em>Vekllei Islands</em>, its founding constituent member.</p>
-<p>The 4th Vekllei Commonwealth draws its name from <em>Vekllei</em>, an Algic <em>corcidi</em> word meaning <em>people of the sea, people of the stars</em> or <em>people of the sea and stars</em>. It succeeds the <em>Nord</em> Commonwealth, which existed until the 1600s, and implies a cultural lineage back to the Vekllei Islands.</p>
-<p>is a federal state directed by the</p>
-<p>The Commonwealth is lead equally by a cabinet of the prime ministers of constituent parliaments, known as the directory.</p>
-<p>Directory of the Commonwealth Parliament, the h</p>
-<p>The full</p>
-<h2 id="structure">
-  Structure
-  <a class="anchor" href="#structure">#</a>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Main article: <span class="smallicon">📖</span> <em><a href="/history/">History of Vekllei</a></em></div>
+</blockquote>
+
+<h2 id="society">
+  Society
+  <a class="anchor" href="#society">#</a>
 </h2>
-<h2 id="territories">
+<p>Opinionated foreign policy</p>
+<p>Immigration requires the adoption of Vekllei beliefs, values and behaviours, rooted in political ambitions of independence and the 4th Floral Commonwealth. Immigration is closely controlled and migrants are integrated into diverse neighbourhoods to minimise monocultural enclaves. The accession to the Commonwealth of Caribbean nations has also seen migration between Vekllei North Atlantic territories and the Caribbean.</p>
+<p>Armed Neutrality</p>
+<h2 id="state">
+  State
+  <a class="anchor" href="#state">#</a>
+</h2>
+<p>The Vekllei Commonwealth is a federated superstate including <a href="/utopia/vekllei/#commonwealth-member-states">six individual commonwealths</a> which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the <strong>Crown Sovereign</strong>. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the <a href="/crown/">Palace of the Vekllei Commonwealth</a>, which enshrines the floral constitution and retains control over the armed forces.</p>
+<h3 id="territories">
   Territories
   <a class="anchor" href="#territories">#</a>
-</h2>
+</h3>
 <details >
-  <summary>Commonwealth Member-States</summary>
+  <summary>Commonwealth Republics</summary>
   <div class="markdown-inner">
-    <p><strong>Vekllei</strong></p>
-<ul>
-<li>Vekllei Commonwealth
+    <p><strong>Vekllei Federal Territories</strong></p>
 <ul>
 <li>Vekllei Antarctic Territories</li>
 <li>Vekllei Lunar Territories</li>
-</ul>
-</li>
 </ul>
 <p><strong>Dependent States</strong></p>
 <ul>
 <li>Aismious Islands (Faroe Islands)</li>
 <li>Demon Islands (Jan Mayen)</li>
+<li>Helvasia (Svalbard)</li>
 <li>Sude Islands (South Georgia &amp; Sandwich Islands)</li>
 <li>Santes (St Helena)</li>
 <li>Ascension (Ascension Islands)</li>
@@ -13925,62 +13982,43 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 </ul>
 </li>
 <li>Mira Commonwealth (Madeira)</li>
+<li>Oslola Commonwealth (Iceland)</li>
 </ul>
 
   </div>
 </details>
 
-<h3 id="history">
-  History
-  <a class="anchor" href="#history">#</a>
-</h3>
-<h4 id="colonial-era">
-  Colonial Era
-  <a class="anchor" href="#colonial-era">#</a>
-</h4>
-<h4 id="occupation">
-  Occupation
-  <a class="anchor" href="#occupation">#</a>
-</h4>
-<h4 id="4th-commonwealth">
-  4th Commonwealth
-  <a class="anchor" href="#4th-commonwealth">#</a>
-</h4>
-<h4 id="former-british-territories">
-  Former British Territories
-  <a class="anchor" href="#former-british-territories">#</a>
-</h4>
-<p>The decolonisation of the British Empire occurred around ten years prior to the First Atomic War, which saw Vekllei defeated and occupied by the United Kingdom and United States between 1995 and 2017. Continued administration of the country as an overseas territory became untenable as high inflation and an overvalued pound sterling strained British interest in maintaining a military and administrative presence in the Atlantic. In 2008, the US reduced its military presence in Vekllei by half, and indicated the UK should meet its commitments to Vekllei by 2015. There was concern between the UK and the US that the Vekllei communist insurgency may be revived in independence, and that hasty decolonisation would assure a red bulwark between continents. In response, the <a href="/interim/">Interim Government</a> was established in 2015 to prepare a stable government for independence.</p>
-<p>Vekllei regained independence in 2017, along with its expensive (and economically dependent) self-governing territories in Kala and Demon[^1]. These were followed by the Aismious islands in 2020. By the time of independence, most of the British Caribbean had decolonised, including former Vekllei colonial possessions in the West Antilles liberated by the British after the war.</p>
-<p>Following the establishment of the 4th Commonwealth in 2017, the new republics of Angua, Antam, Barbuda, Liamuiga, Martin, Montesur and Oualie were federated into the Antilles Commonwealth. Composed of former Vekllei and British colonial possessions, the Antilles Commonwealth joined the 4th Commonwealth as an associate state in 2019 and received full membership in 2021.</p>
-<p>The UK further reduced its military and naval presence in the Atlantic in the 2020s. With the exception of the Falklands, most remaining small and uninhabited islands in British possession were purchased by Vekllei with funds from the US aid package in 2021, including the South Georgia and Sandwich Islands, St Helena, Ascension, and Tristan de Cunha. These were leased under a military agreement with the UK government, and British forces remained on the South Georgia and Sandwich Islands until 2046.</p>
-<h4 id="former-portuguese-territories">
-  Former Portuguese Territories
-  <a class="anchor" href="#former-portuguese-territories">#</a>
-</h4>
-<h4 id="former-spanish-territories">
-  Former Spanish Territories
-  <a class="anchor" href="#former-spanish-territories">#</a>
-</h4>
-<h2 id="society">
-  Society
-  <a class="anchor" href="#society">#</a>
-</h2>
-<h3 id="state">
-  State
-  <a class="anchor" href="#state">#</a>
-</h3>
-<p>The Vekllei Commonwealth is a federated superstate including <a href="/utopia/vekllei/#commonwealth-member-states">six individual commonwealths</a> which share political features modelled after the Vekllei Islands. Sovereignty is afforded to the territory of Vekllei through an indigenous land-metaphysic called the <strong>Crown Sovereign</strong>. The physical representative of the Crown Sovereign, an intangible metaphysical constant, is called the <a href="/crown/">Palace of the Vekllei Commonwealth</a>, which enshrines the floral constitution and retains control over the armed forces.</p>
-<h4 id="government">
+<h3 id="government">
   Government
   <a class="anchor" href="#government">#</a>
-</h4>
+</h3>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text">The Vekllei government</div>
+</blockquote>
+
 <blockquote class="hint ">
   <div class="icon">
 </div> 
   <div class="text">✿ Main article: <span class="smallicon">🌸</span> <em><a href="/government/">Government of Vekllei</a></em></div>
 </blockquote>
 
+<p>The Vekllei government plays an active role in the lives of ordinary people. Each commonwealth republic is represented by two people<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of equal standing called Prime Ministers. These ministers represent the bicameral parliaments and assembled cabinets of their homes, and participate equally in a council of leaders called the Commonwealth Directory.</p>
+<p>There are different levels of elected government in Vekllei.</p>
+<ol>
+<li>The <em>Vekllei Commonwealth</em> is the supranational governing body and federal parliament of its constituents.</li>
+<li>The <em>National Commonwealths</em> are smaller governments located regionally that manage home affairs.</li>
+</ol>
+<ul>
+<li>The <strong>Crown Senate</strong>, or the upper house, is made up 100 senators with special powers to approve and appeal legislation.</li>
+<li>The <strong>Crown Assembly</strong>, or the lower house, is made up of 200 regional ministers.</li>
+</ul>
+<ol start="3">
+<li>The <em>Municipal Commonwealths</em> are local administrative areas or boroughs that manage local services.</li>
+</ol>
+<p>Vekllei elections do not allow political parties, a system called <em>nonpartisan democracy</em>. Ministers from the</p>
+<hr>
 <p>The Vekllei Government plays an active part in the lives of ordinary people. They are represented by a bicameral house system, including a parliament of nonpartisan representatives and a cabinet appointed by the Prime Minister&rsquo;s office.</p>
 <p>Vekllei has <a href="/stories/ministers/">two prime ministers</a></p>
 <p>People in Vekllei are governed by several organisations, including local <a href="/municipalities/">municipalities</a>, their <a href="/interior/">national governments</a>, the <a href="/commonwealth/">Commonwealth</a>, and the <a href="/crown/">Palace of the Atlantic Crown</a>.</p>
@@ -14020,8 +14058,8 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 </blockquote>
 
 <p>The Commonwealth has a hybrid moneyless system called <em>commons</em>, in which money is not used in daily life. In the place of money, the commons system exists as a series of social economies and usufructs. Rather than purchasing products as consumers, staples like food and clothing are subsidised by groups of companies known as <a href="/bureaus/"><em>bureaus</em></a>. Everything else is produced in the colloquial moneyless market, often unreliably.</p>
-<p>Money is used in a seperate industrial and financial market called the <em>financialised commons</em>. In this market, Vekllei uses two currencies known as <a href="/utopia/society/state/finance/#vekllei-crown-vk"><em>Vekllei</em></a> and <a href="/utopia/society/state/finance/#government-crown-ak"><em>Government Crowns</em></a>, used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial indstruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.</p>
-<p>The commons system relies on a system of participatory work, encouraged by the simple and universal rule to be employed, called <a href="/consosva/">Consosva</a>. The standard of living in Vekllei is quite good and is unique among modern societies today.</p>
+<p>Money is used in a seperate industrial and financial market called the <em>financialised commons</em>. In this market, Vekllei uses two currencies known as <a href="/utopia/society/state/finance/#vekllei-crown-vk"><em>Vekllei</em></a> and <a href="/utopia/society/state/finance/#government-crown-ak"><em>Government Crowns</em></a>, used by the government, industry and foreigners to interact with the Vekllei economy and purchase securities and financial instruments. Money is also used as a means of exchange between Commonwealth republics as a privilege of the state.</p>
+<p>The commons economy relies on a system of participatory work, encouraged by the simple and universal rule to be employed, called <a href="/consosva/">Consosva</a>. The standard of living in Vekllei is quite good and is unique among modern societies today.</p>
 <h4 id="finance">
   Finance
   <a class="anchor" href="#finance">#</a>
@@ -14032,6 +14070,13 @@ This draft represents the final copy used as a reference for inking &ndash; the 
   <div class="text">✿ Main article: <span class="smallicon">💵</span> <em><a href="/finance/">Finance in Vekllei</a></em></div>
 </blockquote>
 
+<p>Vekllei separates its markets to allow for money to be used by industry and the government as part of trade and business.</p>
+<ul>
+<li><strong>The Commons</strong> is the moneyless and participatory domestic market.</li>
+<li><strong>The Financialised Commons</strong> are the moneyed industrial and international markets.</li>
+</ul>
+<p>Most Vekllei people never interact with the financialised commons, but it plays a significant role in the global economy. Vekllei&rsquo;s extended history as an entrepôt and its international neutrality have made it desirable as a place of business and investment, and many foreign companies bank in Vekllei. The Commonwealth is a major commodities and securities exchange, via the Vekllei International Market.</p>
+<p>Despite its international investment and freedom, the Commonwealth government is a major participant in the financialised commons and contributes significantly to its currency pool. Vekllei has the second-largest foreign currency reserves in the world.</p>
 <h4 id="industry">
   Industry
   <a class="anchor" href="#industry">#</a>
@@ -14043,6 +14088,7 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 </blockquote>
 
 <p>Vekllei is highly industrialised, but under</p>
+<p>Vekllei has a reputation as a reliable and efficient entrepôt</p>
 <h4 id="property">
   Property
   <a class="anchor" href="#property">#</a>
@@ -14064,7 +14110,18 @@ This draft represents the final copy used as a reference for inking &ndash; the 
   <div class="text">✿ Main article: <span class="smallicon">📚</span> <em><a href="/education/">Education in Vekllei</a></em></div>
 </blockquote>
 
-<p>Education in Vekllei is universal and compulsory for children. All schools are coeducational, with the exception of a handful of faith schools.</p>
+<p>Education in Vekllei is universal and compulsory for children until the age of 16. All schools are coeducational, with the exception of a handful of <a href="/utopia/society/state/education/#faith-schools">faith schools</a>.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The <em>corcodi</em> is actually a combination of two poetic phrases, and is usually transliterated seperately as <em>people of the sea, people of the stars</em>, though the meaning is the same.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>In all Commonwealths except for Kala, the prime ministers are required to be one man and one woman.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 ]]>
   	</content:encoded>
 	</item>
@@ -14440,7 +14497,7 @@ Etymology # History # Geography # Politics # The Vekllei Commonwealth # Petticoa
   Faith Schools
   <a class="anchor" href="#faith-schools">#</a>
 </h4>
-<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="#curriculum">Commonwealth curriculum</a> as a minimum education standard.</p>
+<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
 <h4 id="boarding-schools">
   Boarding Schools
   <a class="anchor" href="#boarding-schools">#</a>
@@ -14463,11 +14520,11 @@ Etymology # History # Geography # Politics # The Vekllei Commonwealth # Petticoa
 
  
 <figure>
-  <img src="/images/mist.jpg" alt="Image of Tzipora standing in front of school building"  title="Misy morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*" loading="lazy" />
-  <figcaption>Misy morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/mist/">Heavy Mist</a></em></figcaption>
+  <img src="/images/mist.jpg" alt="Image of Tzipora standing in front of school building"  title="Misty morning in front of the [Moshel St School](/moshel/) | *[Heavy Mist](/stories/mist/)*" loading="lazy" />
+  <figcaption>Misty morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/mist/">Heavy Mist</a></em></figcaption>
 </figure>
 </p>
-<p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are often highly organised by student leadership, and offer opportunities in industry and tertiary study.</p>
+<p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.</p>
 <p>Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child&rsquo;s diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.</p>
 <h3 id="compulsory-education">
   Compulsory Education
@@ -18935,7 +18992,7 @@ Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning o
 		<li>
 			<b>1440</b> 
 			<span class="event">
-				Kala joins the Vekllei Commonwealth
+				Kala enters a union with the 3rd Commonwealth
 			</span>
 		</li>
 		<li>
@@ -18961,7 +19018,7 @@ Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning o
 		<li>
 			<b>1925</b> 
 			<span class="event">
-				<a href="/rail/">Rail transport</a> in Vekllei is nationalised
+				<a href="/rail/">Rail transport</a> in Oslola is nationalised
 			</span>
 		</li>
 		<li>
@@ -18972,40 +19029,40 @@ Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning o
 			</span>
 		</li>
 		<li>
-			<b>1939</b> 
+			<b>1944</b> 
 			<span class="event">
-				The Second World War begins after Germany invades Poland
+				The Second World War begins
 			</span>
 		</li>
 		<li>
 			<b>1945</b> 
 			<span class="event">
+				Oslola achieves independence from Denmark. Beginning of the Late Commonwealth.
+			</span>
+		</li>
+		<li>
+			<b>1951</b> 
+			<span class="event">
 				Nuclear weapons used by the US against Japan
-			</span>
-		</li>
-		<li>
-			<b>1948</b> 
-			<span class="event">
-				The Second World War ends after Japan surrenders
-			</span>
-		</li>
-		<li>
-			<b>1954</b> 
-			<span class="event">
-				Vekllei invades Mauritania and Senegal
 			</span>
 		</li>
 		<li>
 			<b>1955</b> 
 			<span class="event">
-				The Atlantic Crown Expeditionary Army is founded
+				The Second World War ends after Japan surrenders
+			</span>
+		</li>
+		<li>
+			<b>1956</b> 
+			<span class="event">
+				United Nations is founded
 			</span>
 		</li>
 		<li>
 			<b>1966</b> 
 			<span class="event">
-				Great Britain enters decolonisation talks in Edinburgh Conference
-				The Imperial Trade House in Vekllei is burnt down by arsonists
+				United Kingdom enters decolonisation talks in Edinburgh Conference
+				The Imperial Trade House in Oslola is burnt down by arsonists
 			</span>
 		</li>
 		<li>
@@ -19028,6 +19085,18 @@ Upen is being practiced 500BC Beginning of Vekllei Common Period 200 Beginning o
 			<b>1989</b> 
 			<span class="event">
 				UK frigate sunk after tensions over VK-Faroese corridor access
+			</span>
+		</li>
+		<li>
+			<b>1992</b> 
+			<span class="event">
+				Oslolan Civil War begins
+			</span>
+		</li>
+		<li>
+			<b>1994</b> 
+			<span class="event">
+				Collapse of the junta
 			</span>
 		</li>
 		<li>
@@ -20121,6 +20190,180 @@ A **Cherish** is a type of sovereign republic that self-governing and autonomous
 	</item>
 	
 	<item>
+	  <title>Vekllei Expeditionary Corps</title>
+	  <link>https://millmint.net/utopia/society/state/government/crown/military/army/expeditionary/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/society/state/government/crown/military/army/expeditionary/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the Military series of articles Overview # The Expeditionary Corps is Vekllei&rsquo;s tip of the spear in combat. It is experienced, well-equipped, and highly mobile. It is also completely professionalised on a volunteer basis, unlike the Home Army.
+Commonwealth Legion # The Commonwealth Legion is the regular expeditionary army of Vekllei. It consists mostly of special forces designed for overseas and asymmetric fighting, and generally consists of the most elite Commonwealth units.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/military/">Military</a></em> series of articles</div>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p>The Expeditionary Corps is Vekllei&rsquo;s tip of the spear in combat. It is experienced, well-equipped, and highly mobile. It is also completely professionalised on a volunteer basis, unlike the Home Army.</p>
+<h2 id="commonwealth-legion">
+  Commonwealth Legion
+  <a class="anchor" href="#commonwealth-legion">#</a>
+</h2>
+<p>The Commonwealth Legion is the regular expeditionary army of Vekllei. It consists mostly of special forces designed for overseas and asymmetric fighting, and generally consists of the most elite Commonwealth units. It is presently a volunteer army, though conscripts can be mobilised from the Home Army in times of war.</p>
+<p>During peacetime and low-intensity expeditionary fighting, the Commonwealth Legion consists of 32 regiments numbering around 35,000 men. Each regiment contains sustainment support units, but large tactical groups are supported by materiel from the Home Army. Like all offensively-postured Vekllei units, Commonwealth Legion regiments are ungrouped until they are assembled into tactical brigades for combat.</p>
+<h3 id="commando-regiments">
+  Commando Regiments
+  <a class="anchor" href="#commando-regiments">#</a>
+</h3>
+<div class="section ">
+  <h4 id="commandos-regiments">
+  Commandos Regiments
+  <a class="anchor" href="#commandos-regiments">#</a>
+</h4>
+<ul>
+<li><span class="navicon">🪖</span> 1st &ldquo;Vekllei&rdquo; Commandos</li>
+<li><span class="navicon">🪖</span> 2nd &ldquo;Oslola&rdquo; Commandos</li>
+<li><span class="navicon">🪖</span> 3rd &ldquo;Orgos&rdquo; Commandos</li>
+<li><span class="navicon">🪖</span> 4th &ldquo;Herized&rdquo; Commandos</li>
+<li><span class="navicon">🪖</span> 5th &ldquo;Commonwealth&rdquo; Commandos</li>
+</ul>
+<h4 id="airborne-commandos-regiments">
+  Airborne Commandos Regiments
+  <a class="anchor" href="#airborne-commandos-regiments">#</a>
+</h4>
+<ul>
+<li><span class="navicon">🪂</span> 6th &ldquo;Dragon&rdquo; Airborne Commandos</li>
+<li><span class="navicon">🪂</span> 7th &ldquo;Vasne&rdquo; Airborne Commandos</li>
+</ul>
+<h4 id="marine-commandos-regiments">
+  Marine Commandos Regiments
+  <a class="anchor" href="#marine-commandos-regiments">#</a>
+</h4>
+<ul>
+<li><span class="navicon">⚓️</span> 8th &ldquo;Lola&rdquo; Marine Commandos</li>
+<li><span class="navicon">⚓️</span> 9th &ldquo;Arision&rdquo; Marine Commandos</li>
+</ul>
+<h4 id="special-operations-regiments">
+  Special Operations Regiments
+  <a class="anchor" href="#special-operations-regiments">#</a>
+</h4>
+<ul>
+<li><span class="navicon">🔱</span> 10th &ldquo;Corodia&rdquo; Marine Commandos</li>
+</ul>
+
+</div>
+
+<h3 id="regional-special-forces-regiments">
+  Regional Special Forces Regiments
+  <a class="anchor" href="#regional-special-forces-regiments">#</a>
+</h3>
+<div class="section ">
+  <ul>
+<li><span class="navicon">🪖</span> 11th &ldquo;Veletia&rdquo; Arctic Regiment</li>
+<li><span class="navicon">🪖</span> 12th &ldquo;Torto&rdquo; North Atlantic Regiment</li>
+<li><span class="navicon">🪖</span> 13th &ldquo;Hammer&rdquo; Africa Regiment</li>
+<li><span class="navicon">🪖</span> 14th &ldquo;Edisin&rdquo; Equatorial Regiments</li>
+<li><span class="navicon">🪖</span> 15th &ldquo;Capricorn&rdquo; Equatorial Regiments</li>
+<li><span class="navicon">🪖</span> 16th &ldquo;Ret&rdquo; Equatorial Regiments</li>
+<li><span class="navicon">🪖</span> 17th &ldquo;Kolkotia&rdquo; Antarctic Regiment</li>
+<li><span class="navicon">🪖</span> 18th &ldquo;Cosmos&rdquo; Lunar Regiment</li>
+</ul>
+
+</div>
+
+<h3 id="guards">
+  Guards
+  <a class="anchor" href="#guards">#</a>
+</h3>
+<div class="section ">
+  <ul>
+<li><span class="navicon">⚔️</span> 19th &ldquo;Crown&rdquo; Guards</li>
+<li><span class="navicon">⚔️</span> 20th &ldquo;Parliament&rdquo; Guards</li>
+<li><span class="navicon">⚔️</span> 21st &ldquo;Ordianessa&rdquo; Guards</li>
+<li><span class="navicon">⚔️</span> 22nd &ldquo;Askap&rdquo; Guards</li>
+</ul>
+
+</div>
+
+<h3 id="armoured-regiments">
+  Armoured Regiments
+  <a class="anchor" href="#armoured-regiments">#</a>
+</h3>
+<div class="section ">
+  <ul>
+<li><span class="navicon">⚡️</span> 23rd &ldquo;Zombie&rdquo; Armoured Regiment</li>
+<li><span class="navicon">⚡️</span> 24th &ldquo;Torto&rdquo; North Atlantic Regiment</li>
+<li><span class="navicon">⚡️</span> 25th &ldquo;Torto&rdquo; North Atlantic Regiment</li>
+</ul>
+
+</div>
+
+<h3 id="artillery">
+  Artillery
+  <a class="anchor" href="#artillery">#</a>
+</h3>
+<div class="section ">
+  <ul>
+<li><span class="navicon">💥</span> 26th &ldquo;Ardian&rdquo; Cannons Regiment</li>
+<li><span class="navicon">⚔️</span> 27th &ldquo;Torto&rdquo; Cannons Regiment</li>
+<li><span class="navicon">⚔️</span> 28th &ldquo;Torto&rdquo; Cannons Regiment</li>
+<li><span class="navicon">⚔️</span> 29th &ldquo;Torto&rdquo; Cannons Regiment</li>
+<li><span class="navicon">⚔️</span> 30th &ldquo;Torto&rdquo; Cannons Regiment</li>
+<li><span class="navicon">⚔️</span> 31st &ldquo;Torto&rdquo; Cannons Regiment</li>
+<li><span class="navicon">⚔️</span> 32nd &ldquo;Torto&rdquo; Cannons Regiment</li>
+</ul>
+
+</div>
+
+<h2 id="foreign-legion">
+  Foreign Legion
+  <a class="anchor" href="#foreign-legion">#</a>
+</h2>
+<div class="section ">
+  <h3 id="foreign-rifles">
+  Foreign Rifles
+  <a class="anchor" href="#foreign-rifles">#</a>
+</h3>
+<ul>
+<li><span class="navicon">🪖</span> 1st Foreign Rifles</li>
+<li><span class="navicon">🪖</span> 2nd Foreign Rifles</li>
+<li><span class="navicon">🪖</span> 3rd Foreign Rifles</li>
+<li><span class="navicon">🪖</span> 4th Foreign Rifles</li>
+</ul>
+<h3 id="foreign-armour">
+  Foreign Armour
+  <a class="anchor" href="#foreign-armour">#</a>
+</h3>
+<ul>
+<li><span class="navicon">⚡️</span> 5th Foreign Armour</li>
+<li><span class="navicon">⚡️</span> 6th Foreign Armour</li>
+</ul>
+<h3 id="foreign-engineers">
+  Foreign Engineers
+  <a class="anchor" href="#foreign-engineers">#</a>
+</h3>
+<ul>
+<li><span class="navicon">⚒️</span> 7th Foreign Sappers</li>
+<li><span class="navicon">⚒️</span> 8th Foreign Engineers</li>
+</ul>
+
+</div>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Vekllei Islands</title>
 	  <link>https://millmint.net/utopia/landscape/territories/vekllei/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -20140,6 +20383,31 @@ A **Cherish** is a type of sovereign republic that self-governing and autonomous
   <div class="text">߷ This article is about a <a href="/utopia/landscape/locations"><strong>territory</strong></a> of the <a href="/utopia/commonwealth/"><strong>Commonwealth</strong></a></div>
 </blockquote>
 
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Veletia</title>
+	  <link>https://millmint.net/utopia/culture/veletia/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/utopia/culture/veletia/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the culture series of articles Veletia is the national personification of Vekllei. She is most commonly depicted as a young Algic woman with a canopia spear, but is considerably more contemporaneous than overseas female personifications and is used widely in Vekllei as a shorthand for the 4th Commonwealth.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/culture/">culture</a></em> series of articles</div>
+</blockquote>
+
+<p><strong>Veletia</strong> is the national personification of <strong>Vekllei</strong>. She is most commonly depicted as a young Algic woman with a <em>canopia</em> spear, but is considerably more contemporaneous than overseas female personifications and is used widely in Vekllei as a shorthand for the 4th Commonwealth.</p>
 ]]>
   	</content:encoded>
 	</item>
