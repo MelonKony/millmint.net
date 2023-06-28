@@ -1,0 +1,800 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Security Secretariat - MillMint</title>
+
+    
+    <meta name="description" content="Vekllei is a utopia created by Hobart Phillips." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.460a6608d93de07bbff898199da1d74e315133b26624e11fa350f87d17a900d0dd6378335ee9677e10253f54d18eb73868fb2c3849932234ab0ef01ae4b2a2e0.css" integrity="sha512-RgpmCNk94Hu/&#43;JgZnaHXTjFRM7JmJOEfo1D4fRepANDdY3gzXulnfhAlP1TRjrc4aPssOEmTIjSrDvAa5LKi4A==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Security Secretariat &middot; MillMint" />
+    <meta property="og:description" content="Vekllei is a utopia created by Hobart Phillips." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/society/state/government/councils/security/" />
+    <meta property="og:locale" content="en">
+    
+
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/factbook/society/state/government/councils/security/" />
+    <meta property="og:title" content="Security Secretariat" />
+    <meta property="og:description" content=" Vekllei is a utopia created by Hobart Phillips. " />
+    <meta property="og:image" content="YourDefaultImage" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.29c27463a73a574f0bd52d4eb591ecc38da8fa553fa3cfcb16a444f7bafb643c.js" integrity="sha256-KcJ0Y6c6V08L1S1OtZHsw42o&#43;lU/o8/LFqRE97r7ZDw=" crossorigin="anonymous"></script>
+    
+
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    
+    
+    </head><body data-color="purple"  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span>Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/portrait/"><span class="navicon">📗</span>Story: <i>Portrait</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">Commonwealth Security Secretariat</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/">
+			Society</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/state/">
+			State</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/state/government/">
+			Government</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/state/government/councils/">
+			Councils</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/society/state/government/councils/security/">
+			Security Secretariat</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;">🏹</span>
+  <div class="emoji" id="whirlybat">Ζ</div>
+  
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+</blockquote>
+
+<div class="section ">
+  <h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<b class="boxtag teal">
+  OPSEC
+</b>
+<p>The <em>Commonwealth Security Secretariat</em> (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the <a href="/factbook/society/state/government/commonwealth/">Commonwealth Parliament</a>.</p>
+<div class="outline ">
+  <h3 id="commonwealth-military-command">
+  Commonwealth Military Command
+  <a class="anchor" href="#commonwealth-military-command">#</a>
+</h3>
+<p>The <em>Commonwealth Military Command</em> (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces. While the <a href="/factbook/society/state/palace/">Palace</a> retains direct command over the armed forces, defence activities are in practice a privilege of the Commonwealth parliaments and so the CMC exists primarily to carry out this arrangement. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a <em>de facto</em> command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.</p>
+<p>Commonwealth member-states usually maintain their own <a href="/factbook/society/state/government/interior/defence/">defence ministries</a>, and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.</p>
+<ul>
+<li><strong>General Council</strong>: CMC administration and parliament liaison.</li>
+<li><strong>Department of War</strong>: All war-related strategic planning and activities, including preparation for operations.</li>
+<li><strong>Department of Peacekeeping</strong>: All activities related to Vekllei peacekeeping and expeditionary operations.</li>
+<li><strong>Department of Training &amp; Mobilisation</strong>: Standardisation of training and mobilisation of troops across the Commonwealth.</li>
+<li><strong>Department of Communications</strong>: Coordination between the parliaments and the Palace, as well as public information.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="national-intelligence-directorate">
+  National Intelligence Directorate
+  <a class="anchor" href="#national-intelligence-directorate">#</a>
+</h3>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Read more: <span class="smallicon">🔎</span> <a href="/espionage/">Espionage in Vekllei</a></div>
+</blockquote>
+<p>The <em>National Intelligence Directorate</em> (Noshem, or N.I.) is the secret service of the Commonwealth and Vekllei&rsquo;s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and comprehensive intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.</p>
+<p>Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.</p>
+<h4 id="signals-directorate">
+  Signals Directorate
+  <a class="anchor" href="#signals-directorate">#</a>
+</h4>
+<p>The <em>National Signals Directorate</em> is a subordinate branch of N.I. responsible for signals intelligence, as well as protection of state secrets in electronic and radio communications.</p>
+<h4 id="home-office-honi">
+  Home Office (HO/NI)
+  <a class="anchor" href="#home-office-honi">#</a>
+</h4>
+<p>The <em>Home Office</em> at <em>National Intelligence</em> (HO/NI) is the domestic intelligence organisation of the Vekllei Commonwealth, including the Home Islands.</p>
+<p>It includes the following departments.</p>
+<ul>
+<li><strong>Section 1 <em>Atlantique</em></strong>: Administration and recruitment.</li>
+<li><strong>Section 2 <em>Bohs</em></strong>: Organisation security and democracy-advocate.</li>
+<li><strong>Section 3 <em>Cosette</em></strong>: Politics and domestic affairs.</li>
+<li><strong>Section 4 <em>Devon</em></strong>: Democracy-Advocate command.</li>
+<li><strong>Section 5 <em>Eusea</em></strong>: Logistics and training command.</li>
+<li><strong>Section 6 <em>Familia</em></strong>: Offices and staff in South Commonwealth Intelligence Theatre.</li>
+<li><strong>Section 7 <em>Gem</em></strong>: Offices and staff in East Commonwealth Intelligence Theatre.</li>
+<li><strong>Section 8 <em>Helette</em></strong>: Offices and staff in West Commonwealth Intelligence Theatre.</li>
+<li><strong>Section 9 <em>Ioviosn</em></strong>: Offices and staff in North Commonwealth Intelligence Theatre and Vekllei Islands.</li>
+<li><strong>Section 10 <em>Jasvere</em></strong>: Offices and staff in the governments of Commonwealth member-states.</li>
+<li><strong>Section 11 <em>Kosmo</em></strong>: Senior reporting body and command.</li>
+<li><strong>Section 12 <em>Los</em></strong>: Internal operations command.</li>
+</ul>
+<h4 id="africa-bureau-rbni">
+  Africa Bureau (RB/NI)
+  <a class="anchor" href="#africa-bureau-rbni">#</a>
+</h4>
+<p>The <em>Africa Bureau</em> at <em>National Intelligence</em> (RB/NI) reports information and conducts operations in the African continent. Headquartered in Casablanca, Morocco, RB/NI is particularly concerned with decolonisation and influencing new democratic states under Vekllei&rsquo;s &ldquo;Trade Democracy&rdquo; policy. It also historically seeks to destabilising American and Eastern Bloc influence in the continent, as well as ferment unrest against current colonial governments and the Apartheid regime in South Africa. It includes the following departments.</p>
+<ul>
+<li><strong>Section 13 <em>Abosasme</em></strong>: Offices and staff in postcolonial Africa.</li>
+<li><strong>Section 14 <em>Bulga</em></strong>: Offices and staff in colonial Africa.</li>
+<li><strong>Section 15 <em>Cobian</em></strong>: Regional tactical operations command.</li>
+<li><strong>Section 16 <em>Domo</em></strong>: Democracy-Advocate command.</li>
+<li><strong>Section 17 <em>Ende</em></strong>: Directorate organisation and localisation command.</li>
+</ul>
+<h4 id="americas-bureau-abni">
+  Americas Bureau (AB/NI)
+  <a class="anchor" href="#americas-bureau-abni">#</a>
+</h4>
+<p>The <em>Americas Bureau</em> at <em>National Intelligence</em> (AB/NI) reports information and conducts operations across North and South America, including overseas possessions of the United States and regional claims in the Arctic and Antarctic. AB/NI maintains major offices in Washington D.C. in the U.S., Dallas in Dallas America, and Bogotá in Colombia. It is the largest of the N.I. Bureaus, with nearly a hundred satellite offices across the Americas. Its operations are classified, but are implicated in a variety of work including regime change and guerrilla training. AB/NI also fosters positive relations with the regional neighbours of the Commonwealth, particularly in Mexico, British Belize, Venezuela and Colombia. It includes the following departments.</p>
+<ul>
+<li><strong>Section 18 <em>Anatole</em></strong>: Offices and staff in the United States and Canada.</li>
+<li><strong>Section 19 <em>Bosme</em></strong>: Offices and staff in Mexico and Central America.</li>
+<li><strong>Section 20 <em>Célestine</em></strong>: Offices and staff in South America.</li>
+<li><strong>Section 21 <em>Désiré</em></strong>: Regional tactical operations command.</li>
+<li><strong>Section 22 <em>Eudea</em></strong>: Regional logistics and training command.</li>
+<li><strong>Section 23 <em>François</em></strong>: Antifascist and separatist affairs intelligence command.</li>
+<li><strong>Section 24 <em>Gosme</em></strong>: Directorate organisation command.</li>
+</ul>
+<h4 id="euro-bureau-ebni">
+  Euro Bureau (EB/NI)
+  <a class="anchor" href="#euro-bureau-ebni">#</a>
+</h4>
+<p>The <em>European Bureau</em> at <em>National Intelligence</em> (EB/NI) reports information and conducts operations across Europe and Eurasia, particularly in the UK, France, and the Eastern Bloc. It is second-largest of the regional N.I. bureaus, with offices in London, Paris, Prague, Moscow, and Genoa, and dozens more satellite installations throughout Europe. Its intelligence doctrine is particularly defensive, since most foreign espionage in the Commonwealth originates from Western and Communist Europe, and operates special counter-espionage units for this purpose. It includes the following departments.</p>
+<ul>
+<li><strong>Section 25 <em>Ana</em></strong>: Offices and staff in Western Europe.</li>
+<li><strong>Section 26 <em>Basa</em></strong>: Offices and staff in Minor Europe.</li>
+<li><strong>Section 27 <em>Cofa</em></strong>: Offices and staff in states signatory to the Treaty of Friendship, Cooperation and Mutual Assistance.</li>
+<li><strong>Section 28 <em>Demon</em></strong>: Special counter-espionage command.</li>
+<li><strong>Section 29 <em>Eiga</em></strong>: Directorate organisation and localisation command.</li>
+</ul>
+<h4 id="oriental-bureau-obni">
+  Oriental Bureau (OB/NI)
+  <a class="anchor" href="#oriental-bureau-obni">#</a>
+</h4>
+<p>The <em>Oriental Bureau</em> at <em>National Intelligence</em> (OB/NI) reports information and conducts operations across the Orient and West Asia, Vekllei phrases spanning from the Middle East to the Pacific Islands, including South and East Asia. It maintains offices in Tokyo, Peking, Bangkok, Delhi, and Tehran. Without vested strategic interests in the area, OB/NI&rsquo;s primary mission is nation-building and observation in its region and the support of actions in its neighbouring N.I. regions.</p>
+<ul>
+<li><strong>Section 30 <em>Asosnia</em></strong>: Offices and staff in Communist China and Taiwan.</li>
+<li><strong>Section 31 <em>Bouismiosn</em></strong>: Offices and staff in Japan and South-East Asia.</li>
+<li><strong>Section 32 <em>Cismi</em></strong>: Offices and staff in India.</li>
+<li><strong>Section 33 <em>Drosviousn</em></strong>: Offices and staff in the Middle East.</li>
+<li><strong>Section 34 <em>Erswin</em></strong>: Directorate organisation and localisation command.</li>
+<li><strong>Section 35 <em>Fennet</em></strong>: Counter-espionage and political command.</li>
+</ul>
+<h4 id="special-protectorate-bureau-spni">
+  Special Protectorate Bureau (SP/NI)
+  <a class="anchor" href="#special-protectorate-bureau-spni">#</a>
+</h4>
+<p>The <em>Special Protectorate Bureau</em> at <em>National Intelligence</em> (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., it serves a different function to <a href="/factbook/society/state/government/commonwealth/security/#home-office-honi">HO/NI</a>, specialising in remote, dangerous and dirty work at the fringes of Vekllei intelligence control.</p>
+<ul>
+<li><strong>Section 36 <em>Arcos</em></strong>: Offices and staff assigned to special counterintelligence work.</li>
+<li><strong>Section 37 <em>Boris</em></strong>: Offices and staff assigned to the protection of individuals.</li>
+<li><strong>Section 38 <em>Codesta</em></strong>: Offices and staff in foreign claims and Vekllei Antarctica.</li>
+<li><strong>Section 39 <em>Decrest</em></strong>: Offices and staff in foreign delegations and international waters.</li>
+<li><strong>Section 40 <em>Endoria</em></strong>: Offices and staff in Vekllei space and lunar territories.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="public-security-directorate">
+  Public Security Directorate
+  <a class="anchor" href="#public-security-directorate">#</a>
+</h3>
+<p>The <em>Public Security Directorate</em> (Cosevac, or POSEC) is primarily tasked with intelligence related to public security, and is closely linked to the domestic intelligence-gathering activities of <a href="#home-office-honi">HO/NI</a>. POSEC is a directorate that primarily services the interests of the public, which distinguishes it from <a href="#national-intelligence-directorate">National Intelligence</a> amd <a href="#state-security-directorate">SESEC</a>. To this end, it coordinates closely with the <a href="/factbook/society/state/government/interior/defence/#police-of-the-parliament">Police of the Parliament</a> to conduct operations against terrorism, smuggling, organised crime and civil unrest.</p>
+<ul>
+<li><strong>General Office</strong>: POSEC administration.</li>
+<li><strong>TERSEC Bureau</strong>: Counterterrorism intelligence and operations.</li>
+<li><strong>POLSEC Bureau</strong>: Political intelligence and operations.</li>
+<li><strong>VOCSEC Bureau</strong>: Crime intelligence and operations.</li>
+</ul>
+</div>
+<div class="outline ">
+  <h3 id="state-security-directorate">
+  State Security Directorate
+  <a class="anchor" href="#state-security-directorate">#</a>
+</h3>
+<p>The <em>State Security Directorate</em> (Vosevisi, or SESEC) is primarily responsible for the security of the state itself, including all Vekllei parliaments, its ministries, secretariats and features, and its civil service and employees. It monitors, investigates and eliminates threats within and without the <a href="/factbook/society/state/government/">Vekllei Government</a> and <a href="/factbook/society/state/palace/">Palace</a>, and controls privileged information of the Vekllei parliaments.</p>
+<p>SESEC works closely with the <a href="#home-office-honi">Home Office of National Intelligence</a>, the National Intelligence Directorate organ responsible for the internal security of Vekllei&rsquo;s intelligence network. In cases of internal breaches of security, the SESEC acts as investigator and prosecutor. It includes the following departments.</p>
+<ul>
+<li><strong>General Office</strong>: SESEC administration.</li>
+<li><strong>OPG Bureau</strong>: Operational guidance section responsible for coordination of SESEC offices.</li>
+<li><strong>COMSEC Bureau</strong>: Management of confidential communications.</li>
+<li><strong>DOCSEC Bureau</strong>: Document archive and imaging intelligence section.</li>
+<li><strong>CONSEC Bureau</strong>: Counterintelligence section seperate from NI.</li>
+<li><strong>INTSEC Bureau</strong>: Internal security and monitoring of infiltration by domestic and international threats.</li>
+</ul>
+<h4 id="state-secrets-office">
+  State Secrets Office
+  <a class="anchor" href="#state-secrets-office">#</a>
+</h4>
+<p>The <em>State Secrets Office</em> is responsible for the protection of classified information. It maintains a control network of security classifications, and is charged with the location and security of classified documents. It also advises and processes changes to classifications, particularly in the case of state (as opposed to military) intelligence.</p>
+<ul>
+<li><strong>1st Control Authority <em>Most Secret</em></strong> &ndash; Information that would gravely damage the Commonwealth.</li>
+<li><strong>2nd Control Authority <em>Secret</em></strong> &ndash; Information that would seriously damage the Commonwealth.</li>
+<li><strong>3rd Control Authority <em>Confidential</em></strong> &ndash; Information that would damage the Commonwealth.</li>
+<li><strong>4th Control Authority <em>Restrict</em></strong> &ndash; Information of significant danger to individuals or Commonwealth activities.</li>
+<li><strong>5th Control Authority <em>Protect</em></strong> &ndash; Information of danger to individuals or Commonwealth activities.</li>
+<li><strong>Base Control Authority <em>Official</em></strong> &ndash; Information privileged to the Commonwealth.</li>
+</ul>
+</div>
+
+</div>
+
+
+</article>
+
+                
+                
+                
+            </section><footer>
+
+  
+  
+  
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/">Society</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/state/">State</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/state/government/">Government</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/state/government/councils/">Councils</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/society/state/government/councils/security/">Security Secretariat</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 28/06/2023</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Security Secretariat</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.d69d26e3e04dc111e80ed55d306bf3f57d89afe87618ebf790f107a4f95007df.js" type="module"></script>
+</body>
+
+</html>

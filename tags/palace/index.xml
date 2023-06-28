@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/palace/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Military</title>
-	  <link>https://millmint.net/utopia/society/state/government/crown/military/</link>
+	  <link>https://millmint.net/factbook/society/state/government/crown/military/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/utopia/society/state/government/crown/military/</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/crown/military/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -78,7 +78,7 @@
 <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">✿ Main article: <em><a href="/utopia/society/mail">The Crown Mail of Vekllei</a></em></div>
+  <div class="text">✿ Main article: <em><a href="/factbook/society/mail">The Crown Mail of Vekllei</a></em></div>
 </blockquote>
 <h4 id="general-office">
   General Office

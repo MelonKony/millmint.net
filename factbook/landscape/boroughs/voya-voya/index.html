@@ -1,0 +1,772 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Voya Voya - MillMint</title>
+
+    
+    <meta name="description" content="The borough of Voya Voya is an administrative region of Vekllei, a utopian country created by Hobart Phillips." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.460a6608d93de07bbff898199da1d74e315133b26624e11fa350f87d17a900d0dd6378335ee9677e10253f54d18eb73868fb2c3849932234ab0ef01ae4b2a2e0.css" integrity="sha512-RgpmCNk94Hu/&#43;JgZnaHXTjFRM7JmJOEfo1D4fRepANDdY3gzXulnfhAlP1TRjrc4aPssOEmTIjSrDvAa5LKi4A==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Voya Voya &middot; MillMint" />
+    <meta property="og:description" content="The borough of Voya Voya is an administrative region of Vekllei, a utopian country created by Hobart Phillips." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/landscape/boroughs/voya-voya/" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/rivers.jpg" />
+    <meta property="og:image:secure_url" content="https://millmint.net/images/rivers.jpg" />
+    
+
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/factbook/landscape/boroughs/voya-voya/" />
+    <meta property="og:title" content="Voya Voya" />
+    <meta property="og:description" content=" The borough of Voya Voya is an administrative region of Vekllei, a utopian country created by Hobart Phillips. " />
+    <meta property="og:image" content="/images/rivers.jpg" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.29c27463a73a574f0bd52d4eb591ecc38da8fa553fa3cfcb16a444f7bafb643c.js" integrity="sha256-KcJ0Y6c6V08L1S1OtZHsw42o&#43;lU/o8/LFqRE97r7ZDw=" crossorigin="anonymous"></script>
+    
+
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    
+    
+    </head><body data-color="green"  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span>Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/portrait/"><span class="navicon">📗</span>Story: <i>Portrait</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">The Borough of Voya Voya</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/landscape/">
+			Landscape</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/landscape/boroughs/">
+			Boroughs</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/landscape/boroughs/voya-voya/">
+			Voya Voya</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;">💧</span>
+  <div class="emoji" id="whirlybat">g</div>
+  
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+  <img class="page" alt="feature image" src=/images/rivers.jpg />
+
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="toc-title">
+                        <span>Voya Voya</span>
+                        <span class="toc-emoji">💧</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#etymology">Etymology</a></li>
+    <li><a href="#history">History</a>
+      <ul>
+        <li><a href="#postwar-development">Postwar Development</a></li>
+      </ul>
+    </li>
+    <li><a href="#geography">Geography</a>
+      <ul>
+        <li><a href="#crown-land">Crown Land</a></li>
+        <li><a href="#cusi-lake">Cusi Lake</a></li>
+      </ul>
+    </li>
+    <li><a href="#infrastructure">Infrastructure</a>
+      <ul>
+        <li><a href="#the-water-commission-aqueduct-pumpworks">The Water Commission Aqueduct Pumpworks</a></li>
+        <li><a href="#botanical-gardens-of-voya-voya">Botanical Gardens of Voya Voya</a></li>
+        <li><a href="#hydroburo-aqueduct-beautification-scheme">Hydroburo Aqueduct Beautification Scheme</a></li>
+        <li><a href="#all-smiles-ice-cream-factory">All-Smiles Ice Cream Factory</a></li>
+      </ul>
+    </li>
+    <li><a href="#towns">Towns</a></li>
+    <li><a href="#posts">Posts</a></li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+    
+    <div class="mobile-toc">
+        <details>
+          <summary>
+           <span class="navicon">📑</span>Table of Contents
+          </summary>
+          <div>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#etymology">Etymology</a></li>
+    <li><a href="#history">History</a>
+      <ul>
+        <li><a href="#postwar-development">Postwar Development</a></li>
+      </ul>
+    </li>
+    <li><a href="#geography">Geography</a>
+      <ul>
+        <li><a href="#crown-land">Crown Land</a></li>
+        <li><a href="#cusi-lake">Cusi Lake</a></li>
+      </ul>
+    </li>
+    <li><a href="#infrastructure">Infrastructure</a>
+      <ul>
+        <li><a href="#the-water-commission-aqueduct-pumpworks">The Water Commission Aqueduct Pumpworks</a></li>
+        <li><a href="#botanical-gardens-of-voya-voya">Botanical Gardens of Voya Voya</a></li>
+        <li><a href="#hydroburo-aqueduct-beautification-scheme">Hydroburo Aqueduct Beautification Scheme</a></li>
+        <li><a href="#all-smiles-ice-cream-factory">All-Smiles Ice Cream Factory</a></li>
+      </ul>
+    </li>
+    <li><a href="#towns">Towns</a></li>
+    <li><a href="#posts">Posts</a></li>
+  </ul>
+</nav>
+          </div>
+        </details>
+    </div>
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about a <a href="/factbook/landscape/boroughs"><strong>borough</strong></a> of <a href="/factbook/vekllei/"><strong>Vekllei</strong></a></div>
+</blockquote>
+
+<p><strong>The borough of Voya Voya</strong> is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital&rsquo;s extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital&rsquo;s satellite belt of boroughs, characterised by green space and mixed-use residential planning. Voya Voya is often referred to as the capital&rsquo;s &ldquo;garden borough&rdquo; for its density and quality of parkland and forest reserves.</p>
+<blockquote>
+<p><em>Out in Voya Voya, the gardens light the people, and distill human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing.</em></p>
+</blockquote>
+<p>&ndash; <a href="/posts/2021-03-27-rivers/">City Rivers</a></p>
+<h2 id="etymology">
+  Etymology
+  <a class="anchor" href="#etymology">#</a>
+</h2>
+<p><strong>Voya Voya</strong> is transliterated as &ldquo;Good Good,&rdquo; through in practice is better translated as &ldquo;Good Place,&rdquo; analogous to English towns like &ldquo;Goodwood.&rdquo; It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern <a href="/factbook/vekllei/#administrative-divisions">Crown Land</a>. It is only one of a handful of Vekllei cities to use <em>Topyas</em> emphasis through repetition, which has more or less been superseded in modern Vekllei by <a href="/factbook/society/culture/language/#phonetic-reading">duplicate consonants</a>.</p>
+<h2 id="history">
+  History
+  <a class="anchor" href="#history">#</a>
+</h2>
+<blockquote>
+<p>What&rsquo;s that smell? Smell it. It smells like the freshest thing I&rsquo;ve ever smelled.</p>
+</blockquote>
+<p>&ndash; Tzipora Desmoisnes, after visiting Voya Voya for the first time</p>
+<p>Voya Voya&rsquo;s area originally included several small villages founded in the early Middle Period, which by the 19th Century had developed into satellite suburbs of the industrious capital area. This expansion was encouraged by the Atlantic Junta from the mid-1850s through to the early 1930s, during which Voya Voya tripled in population. By the mid-20th Century, it had become apparent that the sprawling Capital metro area had become overextended, and threatened to link up further with boroughs in Vekllei&rsquo;s interior, beyond the glaciers. A &lsquo;green belt&rsquo; programme was announced in 1956, and saw significant portions of Voya Voya and its nearby boroughs preserved as untouchable forests. During this period, Voya Voya was known mostly as a working-class satellite to the wealthier coastal boroughs of the capital.</p>
+<p>During the Atomic War, the area&rsquo;s permanent rainforest was protected from firestorms by the scorched impact craters in the neighbouring boroughs of Coyenstisn and Lava, and nearby Cusi Lake.</p>
+<h3 id="postwar-development">
+  Postwar Development
+  <a class="anchor" href="#postwar-development">#</a>
+</h3>
+<p>The Atomic War collapsed the capital area, and dramatically reduced the population of Voya Voya&rsquo;s neighbouring boroughs. Although the borough itself did not receive direct strikes, the subsequent fallout and social collapse saw starvation and emigration from the borough throughout occupation and into independence.</p>
+<p>In the Floral Period, protections first developed by the Junta for Voya Voya&rsquo;s green belt were extended by the Floral Government, including the establishment of a <a href="/factbook/vekllei/#administrative-divisions">Crown Land</a> in its north and the clearing of rubble and replanting of rainforest throughout its inhabited interior. The architects of early independence reduced the density of the borough dramatically, clearing land for parks that now characterise the city.</p>
+<p>In 2076, Voya Voya was named Borough of the Year by the Festival Commission, which saw it heavily reported by documentary films and tourism material.</p>
+<h2 id="geography">
+  Geography
+  <a class="anchor" href="#geography">#</a>
+</h2>
+<p>Voya Voya is flat and low-lying, though its border extends to the dramatic hills of the southern Thanveler Glacier. It is cool and wet, and has large areas of temperate rainforest typical of Vekllei&rsquo;s southern coast. Rainforest flora are also found in the city of Voya Voya, where tree ferns grow in alleys and in roundabouts. The city itself is medium-rise, like much of the capital, but checkered into planned areas of habitation and parkland. Aqueducts carrying water from the Hydroburo collectors in Thanveler criss-cross its streets and parks.</p>
+<h3 id="crown-land">
+  Crown Land
+  <a class="anchor" href="#crown-land">#</a>
+</h3>
+<p>Voya Voya&rsquo;s Crown Land is an area of forbidden rainforest north of the city area, and was officially struck from Floral Government sovereignty in 2025. It remains a densely forested area belonging to the Land Sovereign, and has tremendous influence on both the culture and composition of the city.</p>
+<h3 id="cusi-lake">
+  Cusi Lake
+  <a class="anchor" href="#cusi-lake">#</a>
+</h3>
+<p>Cusi Lake is a natural body of water to Voya Voya&rsquo;s southwest, which has doubled in size since the construction of the Cusi Hydroelectric Dam in 1965. Its area is split between the boroughs of Voya Voya, Lo, Coyenstisn, and Lava. As a controlled lake, it is popular for watercraft and swimming, though is extremely cold throughout the year due to runoff from distant glaciers.</p>
+<h2 id="infrastructure">
+  Infrastructure
+  <a class="anchor" href="#infrastructure">#</a>
+</h2>
+<p>Although Voya Voya is best known for its parks, it is also highly accessible from the capital, linked by a variety of rail lines including bullet trains to the South Coast, Lonne and Thanveler. It is also the origin of the capital area&rsquo;s aqueduct system, a network of open-air water bridges originating in southern Voya Voya, which were first built in the 19th Century and rebuilt in the 21st. Although tourist infrastructure is sparse, it remains a popular borough for day-trips from coastal hotels, a trip made trivial by the density of the capital&rsquo;s rail network.</p>
+<h3 id="the-water-commission-aqueduct-pumpworks">
+  The Water Commission Aqueduct Pumpworks
+  <a class="anchor" href="#the-water-commission-aqueduct-pumpworks">#</a>
+</h3>
+<p>The Water Commission (Hydroburo) Pumpworks in Voya Voya supplies pressure for aqueducts in the city and its neighbouring boroughs. It pulls water from both Cusi Lake and open aqueducts from Thanveler, and pushes water through an elevated network of bridges across the area. After its elevation, water is pulled by gravity with pressure from water towers. The aqueduct system provides water for all parkland in Voya Voya. The Pumpworks is a large brick/Newda facility on Cusi Lake, and its pumps are powered by on-site geothermal steam wells, as they have for a century. Small railcars called Microsweeps run along the open-air aqueducts to clear blockages and sediment.</p>
+<h3 id="botanical-gardens-of-voya-voya">
+  Botanical Gardens of Voya Voya
+  <a class="anchor" href="#botanical-gardens-of-voya-voya">#</a>
+</h3>
+<p>The Voya Voya Botanical Gardens are a complex of green areas covering about 12 city blocks, housing mostly indigenous flora. While the Royal Botanical Gardens in Vekllei Proper feature international gardens sampling every continent on Earth, Voya Voya&rsquo;s Gardens are managed as educational public spaces celebrating local landscapes and rainforest. Its facilities include a fair and parade ground, Newda parks, lakes and ponds, rainforests, and greenhouse infrastructure. The Botanical Gardens are the site of festivals in Voya Voya, and often celebrate live music and theatre.</p>
+<h3 id="hydroburo-aqueduct-beautification-scheme">
+  Hydroburo Aqueduct Beautification Scheme
+  <a class="anchor" href="#hydroburo-aqueduct-beautification-scheme">#</a>
+</h3>
+<p>In celebration of 50 years of independence, in 2065 the Hydroburo embarked on an ambitious public art project to celebrate the South Coast&rsquo;s ancient aqueduct network. Coordinated from Voya Voya, the site of the Aqueduct Pumpworks, Voya Voya&rsquo;s aqueducts were embossed with tiled murals over the course of about ten years, and were finally completed in March 2076. Its contruction employed nearly 1,500 artists and locals in its peak. Voya Voya&rsquo;s aqueducts are widely recognised as some of the most beautiful pieces of civic infrastructure in the world.</p>
+<h3 id="all-smiles-ice-cream-factory">
+  All-Smiles Ice Cream Factory
+  <a class="anchor" href="#all-smiles-ice-cream-factory">#</a>
+</h3>
+<p>All-Smiles Ice Cream, the second-most consumed brand in Vekllei, are headquartered in Voya Voya. Its manufactory, A.S. Ice Cream S.p.M., is located in the heart of Voya Voya and is a popular local attraction, since it gives tours and samples to visitors on Sundays.</p>
+<h2 id="towns">
+  Towns
+  <a class="anchor" href="#towns">#</a>
+</h2>
+<ul>
+<li>Voya Voya</li>
+</ul>
+<h2 id="posts">
+  Posts
+  <a class="anchor" href="#posts">#</a>
+</h2>
+<ul>
+<li><a href="/posts/2021-03-27-rivers/">City Rivers</a></li>
+</ul>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+
+  
+  
+  
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/landscape/">Landscape</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/landscape/boroughs/">Boroughs</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/landscape/boroughs/voya-voya/">Voya Voya</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 28/06/2023</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Voya Voya</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.d69d26e3e04dc111e80ed55d306bf3f57d89afe87618ebf790f107a4f95007df.js" type="module"></script>
+</body>
+
+</html>

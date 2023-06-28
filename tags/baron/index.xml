@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>The News</title>
+	  <link>https://millmint.net/stories/news/</link>
+	  <pubDate>Sun, 11 Jun 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/news/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ &ldquo;Tzipora, I&rsquo;m not going to read it if it&rsquo;s another article about airlines.&rdquo; ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/news.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">&ldquo;Tzipora, I&rsquo;m not going to read it if it&rsquo;s another article about airlines.&rdquo;</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The Look</title>
 	  <link>https://millmint.net/stories/the-look/</link>
 	  <pubDate>Fri, 09 Dec 2022 08:00:00 EST</pubDate>
@@ -171,7 +195,7 @@
   <div class="text">✿ <strong>This post</strong> is an animated PNG without sound. Download the video with sound <a href="/images/picnic.mov">here</a>.</div>
 </blockquote>
 
-<p><strong>Such was spring</strong>. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into <a href="/utopia/landscape/boroughs/troll/">Troll</a>, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.</p>
+<p><strong>Such was spring</strong>. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into <a href="/factbook/landscape/boroughs/troll/">Troll</a>, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.</p>
 <p>Lemons and lemonade; Tzipora decided it was time for lunch. They ate canned salmon in the sun. She’d baked olive bread the day before and they pulled it apart with their hands. After lunch they opened a bottle and Baron had a cigarette as he figured out how he was going to get the spare out from under the luggage in the front.</p>
 <p>Tzipora had no such concerns. They had plenty of wine and didn’t have to be in Fyori until tonight. The bonnet of the Cosme had heated up in the sun and it was warm on her back. Tzipora was getting to the good part of her favourite book. The radio had a good song on. She was living one of the best moments of her life.</p>
 ]]>
@@ -421,7 +445,7 @@ Baron rolled up his sleeves and laid them out for her. You could accuse him of m
 No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net/images/cherry.jpg"/> <p>A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of <a href="/utopia/culture/religion/">Upen</a>.</p>
+	 	<![CDATA[<img src="https://millmint.net/images/cherry.jpg"/> <p>A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of <a href="/factbook/society/culture/religion/">Upen</a>.</p>
 <p>No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display. Liberated of the desacralising effect of routine, the villages and factories you’ll zoom past take on new and extraordinary light. Removed from it, you see better how society works. The complex web of logistics, from roaring trains on adjacent rail lines to squinting at a passing nuclear flying wing through the sun roof, are now aesthetic indications of petticoat society.</p>
 <p>The All-Atomic Auto Company betrays its name instantly by not offering a single reactor-powered vehicle in its entire catalogue. Indeed, commercial reactors are so heavy that they are only realistically mounted in truck frames, even in Vekllei’s insensitivity to cost. You simply cannot fit a fission reactor into a small auto. At least, not yet. In fact, in countries where costs are concern, it is feasible that reactor technology as we currently understand it will never be economical in the frame of a small auto.</p>
 <p>The AAAC is actually an industrial concern of several Vekllei venrouive bureaus negotiating commercial atomics with the future. These include famous companies like <a href="https://www.reddit.com/r/worldbuilding/comments/a64ahs/the_cosmojet/">General Reactor</a>, which are at the forefront of global reactor technology and compete directly with Raytheon, and Common Battery. Several lesser known, unglamorous companies also contribute to the cooperative concern. Astrotransmissions supply transmissions and Montre-Rayon Foundry provide composite steels. The AAAC has an internal design house, but most of its staff are poached from appliance manufacturers.</p>

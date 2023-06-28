@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>characters</title>
+	<link>https://millmint.net/categories/characters/</link>
+	<description>Recent content in characters </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<lastBuildDate>Fri, 23 Jun 2023 08:00:00 EST</lastBuildDate>
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/characters/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Portrait</title>
+	  <link>https://millmint.net/stories/portrait/</link>
+	  <pubDate>Fri, 23 Jun 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/portrait/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Portrait of Tzipora &amp; Cobian finished in a painterly style. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/portrait.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Portrait of Tzipora &amp; Cobian finished in a painterly style.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Weirdo</title>
+	  <link>https://millmint.net/stories/weirdo/</link>
+	  <pubDate>Fri, 16 Jun 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/weirdo/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Zelda&rsquo;s a weirdo, but she&rsquo;s a friend. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/weirdo.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Zelda&rsquo;s a weirdo, but she&rsquo;s a friend.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Friends</title>
+	  <link>https://millmint.net/stories/friends-draft/</link>
+	  <pubDate>Mon, 12 Jun 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/friends-draft/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Paint-sketch of the girls together I never ended up finishing. Clockwise:
+Cobian is an Algic girl, which means she&rsquo;s indigenous to Iceland in my world, which is called Oslola. She comes from a mixed indigenous Arctic background. Her mother is kind of crazy and Cobian is a bit insecure, but she&rsquo;s very close with Tzipora. They drift between friends and girlfriends, it&rsquo;s complicated.
+Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zaire in my world) she grew up in the USSR and immigrated to Oslola later on.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/draft.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Paint-sketch of the girls together I never ended up finishing.</div>
+</blockquote>
+
+<p>Clockwise:</p>
+<p>Cobian is an Algic girl, which means she&rsquo;s indigenous to Iceland in my world, which is called Oslola. She comes from a mixed indigenous Arctic background. Her mother is kind of crazy and Cobian is a bit insecure, but she&rsquo;s very close with Tzipora. They drift between friends and girlfriends, it&rsquo;s complicated.</p>
+<p>Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zaire in my world) she grew up in the USSR and immigrated to Oslola later on. She&rsquo;s very patient and graceful, and is dating Tzipora&rsquo;s best friend Moise.</p>
+<p>Lin Zhi is Chinese and always goes by her full name. She doesn&rsquo;t speak much of their language and she&rsquo;s kind of a hothead so she&rsquo;s a bit of a mystery to them. But Tzipora attracts eccentric characters and Lin Zhi doesn&rsquo;t have any other friends so she hangs out with them.</p>
+<p>Finally, Tzipora (being held) is the main character of the story. Her mother was Spanish Roma and her father was Yiddish. She&rsquo;s very friendly but intense and she&rsquo;s sort of the focus point which the friendship group is centred around. She&rsquo;s got more going on with her (she doesn&rsquo;t live with her parents and how she came to Vekllei is ambiguous) but she&rsquo;s just trying her best.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

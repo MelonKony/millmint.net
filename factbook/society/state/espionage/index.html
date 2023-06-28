@@ -1,0 +1,711 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Hobart Phillips">
+
+    <title>Espionage - MillMint</title>
+
+    
+    <meta name="description" content="Vekllei is a utopia created by Hobart Phillips." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.460a6608d93de07bbff898199da1d74e315133b26624e11fa350f87d17a900d0dd6378335ee9677e10253f54d18eb73868fb2c3849932234ab0ef01ae4b2a2e0.css" integrity="sha512-RgpmCNk94Hu/&#43;JgZnaHXTjFRM7JmJOEfo1D4fRepANDdY3gzXulnfhAlP1TRjrc4aPssOEmTIjSrDvAa5LKi4A==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Espionage &middot; MillMint" />
+    <meta property="og:description" content="Vekllei is a utopia created by Hobart Phillips." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/society/state/espionage/" />
+    <meta property="og:locale" content="en">
+    
+
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/factbook/society/state/espionage/" />
+    <meta property="og:title" content="Espionage" />
+    <meta property="og:description" content=" Vekllei is a utopia created by Hobart Phillips. " />
+    <meta property="og:image" content="YourDefaultImage" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.29c27463a73a574f0bd52d4eb591ecc38da8fa553fa3cfcb16a444f7bafb643c.js" integrity="sha256-KcJ0Y6c6V08L1S1OtZHsw42o&#43;lU/o8/LFqRE97r7ZDw=" crossorigin="anonymous"></script>
+    
+
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    
+    
+    </head><body data-color="pink"  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span>Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/portrait/"><span class="navicon">📗</span>Story: <i>Portrait</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">Espionage in Vekllei</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="headcrumbs">
+    
+    <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/">
+			Society</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/state/">
+			State</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/society/state/espionage/">
+			Espionage</a>
+  </li>
+
+</ul>
+
+    
+  </div>
+  
+  <div class="article-category">MillMint</div>
+  
+  <span class="icon" style="line-height: 1.2;">🔎</span>
+  <div class="emoji" id="whirlybat">Γ</div>
+  
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="toc-title">
+                        <span>Espionage</span>
+                        <span class="toc-emoji">🔎</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#operations">Operations</a>
+      <ul>
+        <li><a href="#noshem">Noshem</a></li>
+        <li><a href="#security-directorates">Security Directorates</a></li>
+        <li><a href="#adsem">Adsem</a></li>
+        <li><a href="#recruitment">Recruitment</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+    
+    <div class="mobile-toc">
+        <details>
+          <summary>
+           <span class="navicon">📑</span>Table of Contents
+          </summary>
+          <div>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#operations">Operations</a>
+      <ul>
+        <li><a href="#noshem">Noshem</a></li>
+        <li><a href="#security-directorates">Security Directorates</a></li>
+        <li><a href="#adsem">Adsem</a></li>
+        <li><a href="#recruitment">Recruitment</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+          </div>
+        </details>
+    </div>
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This article is about <a href="/intro/#what-is-vekllei">Vekllei</a>.</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><strong>Espionage</strong> is a considerable strength of the 4th Commonwealth, while also incurring a growing cost. Its assertive and risky operations, some of which have ended in catastrophe, inflict considerable damage on its image abroad, and isolate it from European and American powers. But this assertiveness has also built a fearsome, modern and sprawling intelligence network that meets or surpasses even that of much greater superpowers. Unsentimental, unideological and unflinching, espionage in Vekllei is conducted constantly and vigorously with the blessing &ndash; or at least willing blindness &ndash; of the state.</div>
+</blockquote>
+
+<p>Espionage in Vekllei is considered the &lsquo;first thorn&rsquo; of &lsquo;assertive defence&rsquo; practiced by the 4th Commonwealth. It is maintained offensively, as operations, and defensively as counterintelligence. The means by which it does are a source of endless contention in Commonwealth parliaments, the Vekllei public and foreign governments,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> but since independence in 2015 espionage has been conducted much the same &ndash; and so can be assumed to be achieving strategic goals.</p>
+<p>Overseas strategic and industrial espionage primarily falls under the control of the Commonwealth National Intelligence Directorate, usually called Noshem, which maintains several subordinate bureaus organised regionally.</p>
+<p>Current intelligence doctrine values &lsquo;signal operations&rsquo; &ndash; visible strategic actions that &lsquo;signal&rsquo; messages to public enemies of the Commonwealth state, and maintaining plausible deniability. The line between civilian and military intelligence operations is not always clear, and Noshem is implicated in assassinations and executions of state enemies overseas. The Vekllei intelligence community is known to recruit ideological and nationalist sympathisers to perform actions on behalf of the state, and to this end has among the largest networks of informants of any espionage ring in the world.</p>
+<h2 id="operations">
+  Operations
+  <a class="anchor" href="#operations">#</a>
+</h2>
+<h3 id="noshem">
+  Noshem
+  <a class="anchor" href="#noshem">#</a>
+</h3>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Read more: <span class="smallicon">🏹</span> <a href="/factbook/society/state/government/commonwealth/security/#national-intelligence-directorate">Noshem</a></div>
+</blockquote>
+
+<p>Noshem,<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> the traditional name for the <a href="/factbook/society/state/government/commonwealth/security/#national-intelligence-directorate">National Intelligence Directorate</a> is the secret service of the Commonwealth and is responsible for most of its overseas espionage. It has a legendary reputation for the size and quality of its informants network, and is highly feared because of its history of ruthlessness, including extrajudicial assassinations and executions. Plausible deniability makes it difficult to tell how much of its work is sanctioned by parliaments or acted out by individual Vekllei people, and the organisation generates considerable controversy. Noshem has had several publicised tactical successes as well as failures, and is considered a critical aspect of Commonwealth security as a &lsquo;jewelled sabre&rsquo; of the non-aligned movement.</p>
+<p>Noshem operates 40 outlines across 6 bureaus, which are organised regionally and contain semiautonomous command and logistics elements.</p>
+<h3 id="security-directorates">
+  Security Directorates
+  <a class="anchor" href="#security-directorates">#</a>
+</h3>
+<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="#noshem">Noshem</a>.</p>
+<h3 id="adsem">
+  Adsem
+  <a class="anchor" href="#adsem">#</a>
+</h3>
+<p>Adsem is the military intelligence department of the Vekllei Armed Forces. It co-ordinates with the <a href="/factbook/society/state/government/interior/">Interior Parliament</a> via the Ministry of Defence&rsquo;s <a href="/factbook/society/state/government/interior/defence/#intelligence-liaison-office">Intelligence Liasion Office</a>, and is concerned primarily with counterintelligence operations and strategic information relevant to war. Like the Security Directorates, most of Adsem&rsquo;s espionage is conducted by Noshem. In turn, Adsem supplies much of Noshem&rsquo;s matériel, and many of its elite intelligence units are recruited from military commando and special forces sections. Adsem may also assist in the logistics of Noshem espionage operations.</p>
+<h3 id="recruitment">
+  Recruitment
+  <a class="anchor" href="#recruitment">#</a>
+</h3>
+<p>Vekllei human intelligence is generally considered superior to that of the CIA, and may even be comparable to the KGB in scope and quality. Human intelligence is the basis of contemporary Vekllei intelligence-gathering, and the intelligence state gathers and processes massive amounts of information on foreign nationals, companies, and governments. It relies on enormous, concentric rings of highly motivated unpaid sympathisers that help Noshem in passing messages, inserting agents and obscuring information.</p>
+<p>There are several classes of sympathiser &ndash; some are ideologically motivated in the anarchist or pan-Atlanticist tradition, factions which the Vekllei government is willing to recognise or indulge publicly to stir positive and negative press and distinguish itself from the cold war dichotomy. Others are nationalists who help out of a sense of devotion to Vekllei, since several million Vekllei people fled after the Atomic War. Although many returned in the years after independence, there remains a large Vekllei diaspora throughout the world and especially in the United States and Western Europe, and many members continue to hold a sense of duty towards the country.</p>
+<p>This network of sympathisers is aided by Vekllei&rsquo;s postwar internationalism and multiracialism, emphasising political and geographic traits that appeal to young, educated people. Where duty fails, cash often suffices, and tremendous amounts of state funds are siphoned discretely from other Ministerial budgets to fund a network of paid informants. The total number of informants is impossible to know, but is estimated to number tens of thousands across the U.S., U.K., France, Russia, Yugoslavia, China and South-East Asia.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>This controversy has prompted several commissions and parliamentary inquests by the Vekllei Comptroller, and continues to generate debate in Vekllei society. It is also a popular subject of conspiracy theorising.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Noshem is the name of the spirit-god of secrets in Vekllei mythology.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+
+  
+  
+  
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/">Society</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/state/">State</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/society/state/espionage/">Espionage</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 28/06/2023</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Espionage</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.d69d26e3e04dc111e80ed55d306bf3f57d89afe87618ebf790f107a4f95007df.js" type="module"></script>
+</body>
+
+</html>
