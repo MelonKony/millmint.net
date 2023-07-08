@@ -18,6 +18,84 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Cola Comic</title>
+	  <link>https://millmint.net/stories/cola/</link>
+	  <pubDate>Thu, 06 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/cola/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/comics/cola/feature.png"/> <p>
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/1.png" alt="comic page 1"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/2.png" alt="comic page 2"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/3.png" alt="comic page 3"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/4.png" alt="comic page 4"  loading="lazy" />
+  
+</figure>
+</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Portrait for Nico</title>
+	  <link>https://millmint.net/stories/nico/</link>
+	  <pubDate>Mon, 03 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/nico/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A portrait for my friend Nico. Happy birthday, dear friend! 🌺 ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/nico.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">A portrait for my friend Nico. Happy birthday, dear friend! 🌺</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Portrait</title>
 	  <link>https://millmint.net/stories/portrait/</link>
 	  <pubDate>Fri, 23 Jun 2023 08:00:00 EST</pubDate>

@@ -2039,6 +2039,84 @@ We had a few posts this month, but I’ve also been working on larger things —
 	</item>
 	
 	<item>
+	  <title>Cola Comic</title>
+	  <link>https://millmint.net/stories/cola/</link>
+	  <pubDate>Thu, 06 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/cola/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/comics/cola/feature.png"/> <p>
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/1.png" alt="comic page 1"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/2.png" alt="comic page 2"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/3.png" alt="comic page 3"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/cola/4.png" alt="comic page 4"  loading="lazy" />
+  
+</figure>
+</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Portrait for Nico</title>
+	  <link>https://millmint.net/stories/nico/</link>
+	  <pubDate>Mon, 03 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/nico/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A portrait for my friend Nico. Happy birthday, dear friend! 🌺 ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/nico.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">A portrait for my friend Nico. Happy birthday, dear friend! 🌺</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Portrait</title>
 	  <link>https://millmint.net/stories/portrait/</link>
 	  <pubDate>Fri, 23 Jun 2023 08:00:00 EST</pubDate>
@@ -16359,6 +16437,24 @@ The stated mission of CHICOM is the democratisation and celebration of knowledge
 	</item>
 	
 	<item>
+	  <title>Home</title>
+	  <link>https://millmint.net/old._index/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/old._index/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Housing</title>
 	  <link>https://millmint.net/factbook/society/state/housing/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -21208,11 +21304,12 @@ This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click he
 <p><strong>Dependent States &amp; Territories</strong></p>
 <ul>
 <li>Aismious Islands (<em>Faroe Islands</em>)</li>
+<li>Caimanas (<em>Cayman Islands</em>)</li>
 <li>Demon Islands (<em>Jan Mayen</em>)</li>
 <li>Helvasia (<em>Svalbard</em>)</li>
 <li>Sude Islands (<em>South Georgia &amp; Sandwich Islands</em>)</li>
 <li>Falklands Islands (<em>Falklands Islands</em>)</li>
-<li>Santes (<em>St Helena</em>)</li>
+<li>Helena (<em>St Helena</em>)</li>
 <li>Ascension (<em>Ascension Islands</em>)</li>
 <li>Tristan (<em>Tristan de Cunha</em>)</li>
 <li>Bermuda (<em>Bermuda</em>)</li>
@@ -21231,14 +21328,21 @@ This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click he
 <li>Kala Commonwealth (<em>Greenland</em>)</li>
 <li>Kalina Commonwealth
 <ul>
-<li>Angua Republic (<em>Anguilla</em>)</li>
+<li>Anguis Republic (<em>Anguilla</em>)</li>
 <li>Antam Republic (<em>Antigua</em>)</li>
 <li>Barbuda Republic (<em>Barbuda</em>)</li>
+<li>Barbados Republic (<em>Barbados</em>)</li>
+<li>Kubuli Republic (<em>Dominica</em>)</li>
+<li>Karukera Republic (<em>Guadeloupe</em>)</li>
+<li>Cama Republic (<em>Grenada</em>)</li>
 <li>Liamuiga Republic (<em>Saint Kitts</em>)</li>
-<li>Martin Republic (<em>Saint Martin</em>)</li>
-<li>Montesur Republic (<em>Montserrat</em>)</li>
+<li>Soualiga Republic (<em>Saint Martin Island</em>)</li>
+<li>Lucia Republic (<em>Saint Lucia</em>)</li>
+<li>Allia Republic (<em>Montserrat</em>)</li>
 <li>Oualie Republic (<em>Nevis</em>)</li>
 <li>Saba Republic (<em>Saba</em>)</li>
+<li>Youloumain Republic (<em>Saint Vincent and the Grenadines</em>)</li>
+<li>Virgin Republic (<em>British and US Virgin Islands</em>)</li>
 <li>Kairi Republic (<em>Trinidad &amp; Tobago</em>)</li>
 </ul>
 </li>

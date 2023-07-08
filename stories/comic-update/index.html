@@ -66,7 +66,7 @@
     <meta property="og:description" content=" The home of well-intentioned utopian fiction, illustrated by Studio MillMint. - A Vekllei Comic " />
     <meta property="og:image" content="/images/comic.jpg" />
     <script defer src="/flexsearch.min.js"></script>
-    <script defer src="/en.search.min.c8fb04fe84d03de6d1ce78a1312cc4d973ce7497af63670e609cfd9e4866706e.js" integrity="sha256-yPsE/oTQPebRznihMSzE2XPOdJevY2cOYJz9nkhmcG4=" crossorigin="anonymous"></script>
+    <script defer src="/en.search.min.28590dd6fe17f3871656c9303a563e53899d774e7ccdf47b535e0091011b49ae.js" integrity="sha256-KFkN1v4X84cWVskwOlY&#43;U4mdd058zfR7U14AkQEbSa4=" crossorigin="anonymous"></script>
     
 
     <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
@@ -354,7 +354,7 @@
 <blockquote id="notice" class="hint">
   
   <span class="tag new-tag">NEW</span> <a
-    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/portrait/"><span class="navicon">📗</span>Story: <i>Portrait</i></a>
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/cola/"><span class="navicon">📗</span>Story: <i>Cola Comic</i></a>
   <span id="close-btn" class="navicon close-btn">❌</span>
 </blockquote>
 
@@ -492,6 +492,27 @@
 
 
 
+
+
+
+
+  <style>
+    .article-tag {
+      display: none;
+    }
+    .article-category {
+      display: none;
+    }
+    .headcrumbs {
+      display: none!important;
+    }
+    .pill {
+      display: none;
+    }
+    img.page {
+      display: none;
+    }
+  </style>
 
     
     <blockquote class="hint story">
@@ -667,6 +688,148 @@ This is exciting, isn’t it? This is a new chapter for me as an artist. It’s 
 
   
   
+  
+  
+  
+
+
+<nav class="story">
+  <div class="next-post leftlink">
+    
+      <a class="link-reverse" href="https://millmint.net/stories/witch/">← 21st Century Witch</a>
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post rightlink">
+    
+      <a class="link-reverse" href="https://millmint.net/stories/melting/">All That’s Solid Melts into Zelda →</a>
+    
+  </div>
+</nav>
+
+
+
+
+
+
+
+
+ 
+
+
+<details class="commentbox">
+<summary class="commentbox">
+  <span id="welcomments__comment-count-title" class="welcomments__comments-title">Leave a comment</span>
+<span class="smallicon" style="font-size: 18px; float: right;">💬</span></summary>
+
+<div id="welcomments__container" class="welcomments__container">
+
+  <section id="welcomments__comment-container" class="welcomments__comment-container"></section><form id="welcomments__form" class="welcomments__comment-form" action="https://welcomments.io/api/comments" method="post">
+  <input type="hidden" name="website-id" id="website-id" value="Tk3nqvhuOj8UOA100cAvFxVlP"/>
+  <input type="hidden" name="replying-to" id="replying-to"/>
+  <input type="hidden" name="permalink" id="permalink" value="https://millmint.net/stories/comic-update/"/>
+  <input type="hidden" name="page-slug" id="page-slug" value="comic-update"/>
+  <div class="welcomments__form-group">
+    <textarea rows="10" name="message" id="message" required spellcheck="true" placeholder="Type here..."></textarea>
+    <p class="welcomments__markdown-notice">Supports Markdown & some HTML.</p>
+  </div>
+  <div class="welcomments__form-group">
+    <label for="author-name">Name</label>
+    <input type="text" id="author-name" name="author-name" required spellcheck="false" placeholder="Your name"/>
+  </div>
+  <div class="welcomments__form-group welcomments__flex">
+    <div class="welcomments__column-left">
+      <label for="author-url">Website <span class="welcomments__optional-notice">(optional)</span></label>
+      <input type="url" id="author-url" name="author-url" placeholder="https://example.com"/>
+    </div>
+    <div class="welcomments__column-right">
+      <label for="author-email">Email <span class="welcomments__optional-notice">(optional)</span></label>
+      <input type="email" id="author-email" name="author-email" placeholder="johndoe@example.com"/>
+    </div>
+  </div>
+  <p class="welcomments__email-notice">Fill in your email address if you want to get notified when someone replies to your comment. Your email address is safely stored with strong 256-bit AES encryption. You can unsubscribe from notification emails any time by following a link on the bottom of a reply notification email.</p>
+  <button type="submit" class="welcomments__submit-button" id="welcomments__submit-button">Send comment</button>
+</form>
+
+</div>
+</details>
+
+
+<link rel="stylesheet" href="/style.css/" />
+
+
+<script defer id="welcomments__script" src="https://cdn.welcomments.io/welcomments.js" type="text/javascript"></script>
+<script type="text/javascript">
+  welcomments = {
+    apiUrl: "https://welcomments.io/api",
+
+    
+    
+    
+    commentCountTitleFactory: function (commentCount) {
+      if (commentCount === 0) {
+        return "No comments yet!";
+      }
+
+      return commentCount === 1 ? "One comment" : `${commentCount} comments`;
+    },
+
+    
+    
+    
+    
+    placeholderCommentFactory: function (comment) {
+      var year = new Intl.DateTimeFormat("en", {year: "numeric"}).format(comment.date);
+      var month = new Intl.DateTimeFormat("en", {month: "long"}).format(comment.date);
+      var day = new Intl.DateTimeFormat("en", {day: "2-digit"}).format(comment.date);
+      var avatarUrl = comment.author.avatar_url ||
+        "https://eu.ui-avatars.com/api/?background=random&name=" + comment.author.name;
+
+
+      return `<article
+  id="welcomments__comment-${comment.id}"
+  class="welcomments__comment"
+  data-comment-id="${comment.id}"
+  data-author-name="${comment.author.name}"
+  data-nesting-level="0"
+  itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+  <div class="welcomments__comment-header">
+    <div class="welcomments__author-avatar">
+      <img class="welcomments__author-avatar-img" src="${avatarUrl}" alt="${comment.author.name}"/>
+    </div>
+    <div class="welcomments__author-information">
+      <div class="welcomments__author-name-and-time">
+        <h3 class="welcomments__author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <span itemprop="name">${comment.author.name}</span>
+        </h3>
+        <p class="welcomments__comment-time">
+          <a href="#welcomments__comment-${comment.id}" itemprop="url">
+            <time datetime="${comment.date}" itemprop="datePublished">
+              ${month} ${day}, ${year}
+            </time>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div itemprop="text" class="welcomments__comment-message">${comment.message}</div>
+  <a class="welcomments__comment-reply-link"
+     href="https://welcomments.io/api/websites/Tk3nqvhuOj8UOA100cAvFxVlP/comments/${comment.id}/reply">
+    Reply to ${comment.author.name}
+  </a>
+</article>
+`;
+    },
+  };
+</script>
+
+
+
+
+
   
 
   <ul  class="breadcrumbs">
