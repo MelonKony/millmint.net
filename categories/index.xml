@@ -14,10 +14,46 @@
 	<description>Recent content in Categories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Thu, 06 Jul 2023 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Mon, 10 Jul 2023 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>character</title>
+	  <link>https://millmint.net/categories/character/</link>
+	  <pubDate>Mon, 10 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/categories/character/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>story</title>
+	  <link>https://millmint.net/categories/story/</link>
+	  <pubDate>Mon, 10 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/categories/story/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>comic</title>
 	  <link>https://millmint.net/categories/comic/</link>
@@ -73,47 +109,11 @@
 	</item>
 	
 	<item>
-	  <title>story</title>
-	  <link>https://millmint.net/categories/story/</link>
-	  <pubDate>Fri, 23 Jun 2023 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/categories/story/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>landscape</title>
 	  <link>https://millmint.net/categories/landscape/</link>
 	  <pubDate>Wed, 21 Jun 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/categories/landscape/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>character</title>
-	  <link>https://millmint.net/categories/character/</link>
-	  <pubDate>Tue, 16 May 2023 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/categories/character/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
