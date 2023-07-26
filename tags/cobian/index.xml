@@ -18,6 +18,60 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Jump Comic</title>
+	  <link>https://millmint.net/stories/jump/</link>
+	  <pubDate>Wed, 26 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/jump/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/comics/jump/feature.png"/> <p>
+
+
+ 
+<figure>
+  <img src="/images/comics/jump/1.jpg" alt="comic page 1"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/jump/2.jpg" alt="comic page 2"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/jump/3.jpg" alt="comic page 3"  loading="lazy" />
+  
+</figure>
+
+
+
+
+ 
+<figure>
+  <img src="/images/comics/jump/4.jpg" alt="comic page 4"  loading="lazy" />
+  
+</figure>
+</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Cola Comic</title>
 	  <link>https://millmint.net/stories/cola/</link>
 	  <pubDate>Thu, 06 Jul 2023 08:00:00 EST</pubDate>
