@@ -14,10 +14,34 @@
 	<description>Recent content in sketch </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Mon, 03 Jul 2023 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Sat, 29 Jul 2023 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Good Morning</title>
+	  <link>https://millmint.net/stories/good-morning/</link>
+	  <pubDate>Sat, 29 Jul 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/good-morning/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Waking up to bed hair. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/gm.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Waking up to bed hair.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Portrait for Nico</title>
 	  <link>https://millmint.net/stories/nico/</link>
