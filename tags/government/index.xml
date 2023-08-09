@@ -77,7 +77,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the state series of articles The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states. Secretariats of the Commonwealth Parliament ⚒️Commonwealth Construction Secretariat (coming soon) 🏵Commonwealth Culture Secretariat (coming soon) 🎓Commonwealth Education Secretariat (coming soon) ⚕️Commonwealth Health Secretariat (coming soon) ⛓️Commonwealth Labour Secretariat (coming soon) 🏹Commonwealth Security Secretariat ]]>
+	  <![CDATA[ ߷ Part of the state series of articles The Commonwealth councils, known as secretariats in Vekllei, are a superior kind of ministry headed by a secretary. Vekllei Ministries answer to the Commonwealth Parliament, whereas councils report directly to the Commonwealth Council. In practice, councils are federalised and so carry out their roles directly, unlike the devolved ministries. ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
@@ -89,27 +89,8 @@
 <blockquote class="hint panel">
   <div class="icon">
 </div> 
-  <div class="text">The Commonwealth Parliament is the supranational governing body of the Vekllei Commonwealth and its member-states.</div>
+  <div class="text">The Commonwealth <em>councils</em>, known as <em>secretariats</em> in Vekllei, are a superior kind of ministry headed by a secretary. Vekllei Ministries answer to the Commonwealth Parliament, whereas <em>councils</em> report directly to the <a href="/council/">Commonwealth Council</a>. In practice, <em>councils</em> are federalised and so carry out their roles directly, unlike the devolved ministries.</div>
 </blockquote>
-
-<details open>
-  <summary>Secretariats of the Commonwealth Parliament</summary>
-  <div class="markdown-inner">
-    <ul>
-<li><span class="navicon">⚒️</span>Commonwealth Construction Secretariat (coming soon)</li>
-<li>
-<!--<a href="/factbook/society/state/government/commonwealth/culture">--><span class="navicon">🏵</span>Commonwealth Culture Secretariat (coming soon)
-</li>
-<li>
-<!--<a href="/factbook/society/state/government/commonwealth/education">--><span class="navicon">🎓</span>Commonwealth Education Secretariat (coming soon)
-</li>
-<li><span class="navicon">⚕️</span>Commonwealth Health Secretariat (coming soon)</li>
-<li><span class="navicon">⛓️</span>Commonwealth Labour Secretariat (coming soon)</li>
-<li><a href="/opsec/"><span class="navicon">🏹</span>Commonwealth Security Secretariat</a></li>
-</ul>
-
-  </div>
-</details>
 
 ]]>
   	</content:encoded>
