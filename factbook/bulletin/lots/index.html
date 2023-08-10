@@ -1,0 +1,629 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>One Person One Factory - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.be1aa8e794021e1afaab842993a166bd75a5af307b8a774498e167069985af7959ff89a461fa82e0450760291de2938688678d461596e8e218800cf2f7cfcd27.css" integrity="sha512-vhqo55QCHhr6q4Qpk6FmvXWlrzB7indEmOFnBpmFr3lZ/4mkYfqC4EUHYCkd4pOGiGeNRhWW6OIYgAzy98/NJw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="One Person One Factory &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. 20th-Century worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/bulletin/lots/" />
+    <meta property="og:locale" content="en">
+    
+
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/factbook/bulletin/lots/" />
+    <meta property="og:title" content="One Person One Factory" />
+    <meta property="og:description" content=" The home of Vekllei. 20th-Century worldbuilding, with good intentions. - One Person One Factory " />
+    <meta property="og:image" content="YourDefaultImage" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.2572acc6592fad874878c84b36a29c18f0a2310255c59e9970abda36e6bf1f69.js" integrity="sha256-JXKsxlkvrYdIeMhLNqKcGPCiMQJVxZ6ZcKvaNua/H2k=" crossorigin="anonymous"></script>
+    
+
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span>Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/seispri/"><span class="navicon">📗</span>Story: <i>Streets of Seispri</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">One Person One Factory</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">🏭</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/bulletin/">
+			Bulletin</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/bulletin/lots/">
+			One Person One Factory</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+    
+  </div>
+  
+  
+</header>
+
+
+  <div data-page-color="90, 193, 143" style="display: none"></div>
+
+
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Automated small and medium-sized factories are called <em>Lots</em> in Vekllei. They are generally operated by a few people, or even a single person.</li>
+<li><em>Lots</em> can develop their own production processes or (more commonly in certain industries) license them from the Commons Industrial Bureau.</li>
+<li>In most cases, these small factories are established by the municipality and then &ldquo;sold&rdquo; to individuals, usually with housing attached. Existing enterprises in recently-federalised <a href="/polis/">republics</a> are also upgraded into <em>lots</em>.</li>
+<li>These sole-proprietor factory supervisors generally only have a few hours of work to do in the morning, unloading raw material from trains and calibrating the machines. The intensity of work varies greatly by industry.</li>
+<li>In the afternoon, the machines have to be checked and the goods are loaded into half-size rail sidings which feed into the main automatic freight system.</li>
+<li><em>Lots</em> are the foundation of Vekllei manufacturing.</li>
+</ul>
+</div>
+</blockquote>
+
+<p>What sort of thing do <em>lots</em> produce? Small factories generally produce essential products that are ubiquitous, or otherwise specialty craft items.</p>
+<p>Examples of ubiquitous &ldquo;essential products&rdquo; include:</p>
+<ul>
+<li>Clothing items like underwear and shoes</li>
+<li>Stationary like paper and pencils</li>
+<li>Recycled construction materials like rebar</li>
+</ul>
+<p>And so on. Essential products are almost always produced on a licensed design &ndash; for example, <a href="/universal-cotton/">Universal Cotton</a> creates factory diagrams to produce cotton shirts of a certain specification. These diagrams are licensed through the Commons Industrial Bureau to allow factories all over the Commonwealth to produce identical shirts.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Examples of &ldquo;specialty craft items&rdquo; include:</p>
+<ul>
+<li>Industries with signature or unique product types, including coloured pencils and paints</li>
+<li>Enthusiast and hobbyist products like plastic moulds for model toys</li>
+<li>Artistic and design industries including specialty textiles and fabrics</li>
+</ul>
+<p>In each case, the <em>lot</em> does most of the work &lsquo;itself.&rsquo; Raw materials, some of which has been pulled from space in the miracle of 21st-Century resource exploitation, are sorted and delivered on half-size freight wagons everywhere in the country. Almost every <em>lot</em> has a rail siding for import and export.</p>
+<p>The primary role of the sole-proprietor is factory stewardship<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> and to improve the production processes. Labour-saving innovations are especially prized. Even though the factory may have been built and designed by the municipality or national government, it is now his factory and it is the responsibility of the proprietor to ensure smooth production and efficient operations.</p>
+<p>Since <em>lots</em> are part of the commons, they do not use commercial accounting.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Instead, they use commons <em>resource accounting</em>, which does not determine money value but labour value. So long as the steward is good at his job, the factory will be supplied with whatever it needs to assist its existing processes. In rare cases, a factory may even be expanded. In effect, small business is subsidised by the commercially-accounted and money-costed <a href="/bureaus/">bureaus</a>.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>A lot of Vekllei products are monopolised by a single design. There is a belief in the country, warranted or not, that at some point a well-made cotton shirt is good enough for a certain use, and so does not require fifteen competing designs to improve it. This applies particularly to simple consumer items like toothbrushes, underwear and notebooks. Consequently, &ldquo;staple goods&rdquo; might only have minor regional variations, since Vekllei&rsquo;s <em>commons</em> society requires the overproduction of simple, quality goods to furnish a standard of living.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Factory stewardship means to be the point of contact and representative of the <em>lot</em>, as well as the primary operator of its machines and processes. A steward is familiar with his factory and understands how to diagnose problems, which can be fixed by himself or outside specialists.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Large-scale enterprise in Vekllei uses <em>commercial accounting</em>, which uses costing exercises to determine a theoretical money-value and calculate efficiency. This is a concern for government budgets and large industry which interacts with foreign economies. In the commons, which is anarchic and does not use capital, <em>commercial accounting</em> is much rarer and is generally costed instead by <em>resource accounting</em>.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+
+  
+  
+  
+  
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/bulletin/">Bulletin</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/bulletin/lots/">One Person One Factory</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 10/08/2023</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">One Person One Factory</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.8a6fe187601e96c4d7642c23e0655b29e41f0824a12487b054bb02fb86447a62.js" type="module"></script>
+</body>
+
+</html>
