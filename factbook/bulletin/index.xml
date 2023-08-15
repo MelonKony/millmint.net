@@ -18,6 +18,67 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/bulletin/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Government Ownership</title>
+	  <link>https://millmint.net/factbook/bulletin/government-ownership/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/bulletin/government-ownership/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the bulletin series of articles Summary
+Government-owned corporations (GOCs) are owned by the Vekllei government, which in practice often means each of the republics simultaneously. The share capital of GOCs is governed by preferred-privileged shares, which are available only to government ministries, departments and occasionally industry councils. Rather than consisting of thousands or millions of shares, GOCs have their share capital pegged to the number of relevant authorities (in most cases republic governments).]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Summary</strong></p>
+<ul>
+<li><a href="/assets/">Government-owned corporations</a> (GOCs) are owned by the Vekllei government, which in practice often means each of the republics simultaneously.</li>
+<li>The share capital of GOCs is governed by preferred-privileged shares, which are available only to government ministries, departments and occasionally industry councils.</li>
+<li>Rather than consisting of thousands or millions of shares, GOCs have their share capital pegged to the number of relevant authorities (in most cases republic governments).</li>
+<li>As such, nationalised corporations like <a href="/air/">Commonwealth Airways</a> have issued only 9 shares, each being owned by a republic&rsquo;s Ministry of Transport.</li>
+</ul>
+</div>
+</blockquote>
+
+<p>The unusual ownership structure of Commonwealth GOCs<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> are a result of the federalised <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> system. While the commonwealth <a href="/councils/">councils</a> do own some corporations directly, the vast majority of Vekllei state-owned assets fall under the portfolio of the <a href="/ministries/">ministries</a> of constituent republics.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>Each republic has the same suite of ministries responsible for its own affairs. Because ministries in Vekllei are decentralised (but identical),<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> they own corporations that would be nationalised overseas jointly, as a means of representing one collective owner. This stake can be attributed a money-value but there is no legal mechanism for any one republic to exploit or leverage that value.</p>
+<p>There are generally three levels of government-owned corporation in Vekllei:</p>
+<ul>
+<li>Federalised corporations, owned by the Commonwealth government</li>
+<li>Nationalised corporations, owned jointly or singularly constituent republics</li>
+<li>Municipalised corporations, owned by a Polis, territory or municipality</li>
+</ul>
+<p>Issued preferred-privilege shares in the case of jointly-owned GOCs do confer limited voting rights. Jointly-owned GOCs have a governing council that helps unify the policy of the individual ministries. In most cases, these GOCs operate as independent businesses within the mandate of their governing portfolio, but ministries can call votes on policy in certain cases. In this sense, the ministerial councils operate similarly to a board of directors.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&lsquo;Government-owned corporation&rsquo; (GOC) is the preferred Vekllei term, and is interchangeable with state-owned or nationalised enterprise.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>A &lsquo;republic&rsquo; in Vekllei is similar to a state or canton overseas. They are not traditionally sovereign, but enjoy significant autonomy through standards established by the Commonwealth government.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Vekllei republics have the same set of ministries. These are functionally independent, but are also united into an organisation of mutual association called a Commonwealth Ministry, lead by a Commonwealth cabinet member. As such, the individual ministries of republics are called Republic Ministries.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>One Person, One Factory</title>
 	  <link>https://millmint.net/factbook/bulletin/lots/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>

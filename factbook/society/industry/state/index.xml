@@ -18,6 +18,47 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Commonwealth Airways</title>
+	  <link>https://millmint.net/factbook/society/industry/state/air/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/industry/state/air/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the industry series of articles Commonwealth Airways (formerly Commonwealth Royal Airways) is the flag carrier of Vekllei and its largest airline. It is a government-owned corporation jointly owned by the Republic Ministries of Transport, and operates most of the country&rsquo;s civil air infrastructure.
+The Commonwealth Airways corporation is the parent of several airlines that serve different roles. Commonwealth Overseas Airways, for example, provides international services and specialises in foreign bookings and money-handling.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+</blockquote>
+
+<p><strong>Commonwealth Airways</strong> (formerly <em>Commonwealth Royal Airways</em>) is the flag carrier of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its largest airline. It is a <a href="/assets/">government-owned corporation</a> <a href="/bulletin/government-ownership/">jointly owned</a> by the Republic Ministries of Transport, and operates most of the country&rsquo;s civil air infrastructure.</p>
+<p>The Commonwealth Airways corporation is the parent of several airlines that serve different roles. Commonwealth Overseas Airways, for example, provides international services and specialises in foreign bookings and money-handling. Commonwealth Airlink on the other hand is a domestic service, primarily serving routes between Vekllei&rsquo;s many small islands with light aircraft.</p>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Commonwealth Airways</strong></p>
+<ul>
+<li>Commonwealth Airways</li>
+<li>Commonwealth Overseas Airways</li>
+<li>Commonwealth Airlink</li>
+<li>Commonwealth Airfreight</li>
+</ul>
+</div>
+</blockquote>
+
+<!-- TODO: Add fleet -->
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Rail</title>
 	  <link>https://millmint.net/factbook/society/industry/state/rail/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
