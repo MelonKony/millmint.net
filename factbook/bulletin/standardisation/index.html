@@ -1,0 +1,631 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Standardisation - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.556e9f387aee2e94fb35ecddc03090765f1fb3419707c7ba02c6ac53e24426445424592b371d58cb9f4a8e0d28b590dc41efb05b334d29b75ba1b2a60769991e.css" integrity="sha512-VW6fOHruLpT7NezdwDCQdl8fs0GXB8e6AsasU&#43;JEJkRUJFkrNx1Yy59Kjg0otZDcQe&#43;wWzNNKbdbobKmB2mZHg==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Standardisation &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. 20th-Century worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/bulletin/standardisation/" />
+    <meta property="og:locale" content="en">
+    
+
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/factbook/bulletin/standardisation/" />
+    <meta property="og:title" content="Standardisation" />
+    <meta property="og:description" content=" The home of Vekllei. 20th-Century worldbuilding, with good intentions. - Standardisation " />
+    <meta property="og:image" content="YourDefaultImage" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.05ddde6ac0af4ee50c8896a4cb4e44104d050438d76102419e789ed787b8f538.js" integrity="sha256-Bd3easCvTuUMiJaky05EEE0FBDjXYQJBnnie14e49Tg=" crossorigin="anonymous"></script>
+    
+
+    
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span>Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span>Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span>MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span>Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/integration/"><span class="navicon">📗</span>Story: <i>Picture of Integration</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">A Common Identity</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">🏳️</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/bulletin/">
+			Bulletin</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/bulletin/standardisation/">
+			Standardisation</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+    
+  </div>
+  
+  
+</header>
+
+
+  <div data-page-color="236, 92, 27" style="display: none"></div>
+
+
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>In some aspects, the republics and island-states that make up Vekllei are decentralised and retain control over their own affairs.</li>
+<li>This is not the case for the visual identity of its institutions &ndash; the federal government retains significant control over how the Commonwealth looks and feels.</li>
+<li>This control is wide-ranging, and includes flags, government logos and shields, typefaces and document standards, and uniforms.</li>
+<li>This level of control is practically unseen even in unitary countries, and its public nature makes it very apparent in society.</li>
+<li>The Commonwealth understands the power of a strong visual identity and the importance it has in supporting <a href="/civic-commons/">civic commonhoods</a>.</li>
+</ul>
+</div>
+</blockquote>
+
+<p>Upon acceding to the Commonwealth, swarms of federal officials will arrive in the new <a href="/constituents/">constituent</a> and develop a process for federalisation.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Their work includes critical changes including the revision of laws and the careful (and painful) restructuring of government to suit the Commonwealth. Other changes appear less material, but ultimately represent an essential feature of Commonwealth society: the standardisation of its systems.</p>
+<p>Design rules supreme in Vekllei government. It is a dictatorship of a single organisation &ndash; the Commonwealth Design Bureau of the Council of Home Affairs (CDB). The CDB has studios in every <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> republic, and draws its employees from industry. Rather than a traditional department, the CDB is better thought of as a council of specialists in industry, who volunteer their time to maintain the corporate image of the Vekllei state.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> To designers and architects, it is an irresistible opportunity.</p>
+<p>The axiom is this &ndash; if design matters, which it does, then the government should take seriously design as it does other aspects of government. It is not enough that design should simply be the paint used to dress up the work of government; it should be a core aspect of the Vekllei identity.</p>
+<p>This is especially true in the Vekllei Commonwealth, which is a unique country. It has no common landmass, language, race or culture. It is made up of many islands that have common values. As such, standardisation is a way of reinforcing those values, and making its islands seem geographically closer together than they are.</p>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Rules of the Commonwealth Design Bureau</strong></p>
+<ol>
+<li>All work must be in good taste.</li>
+<li>Work must be universal within its scope.</li>
+</ol>
+</div>
+</blockquote>
+
+<p>You can expect the same language of design used across all levels of Vekllei government, from its federal chambers in <a href="/comet/">Comet</a> to its <a href="/polis/">autonomous cities</a> and municipalities.</p>
+<p>In a country as diverse as Vekllei, standards need to be flexible. As such, aspects of dozens of local cultures are integrated into the design language of the Commonwealth, and standardised into systems that give the impression of localism while being part of a larger whole. Government shields, for example, maintain a common shape and palette of colours<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> while consisting of many types of imagery and graphics, drawn in a single style.</p>
+<p>This diversity-within-systems is apparent in other aspects of government too. New flags have unique colours and imagery, but are designed in relation to each other, retaining both an individual identity and their shared membership as part of a larger country. Uniforms of government, even within government schools, demonstrate common principles expressed in a shared design language that incorporate regional cultural elements.</p>
+<p>The effect is obvious and acclaimed. Despite Vekllei&rsquo;s political inscrutability to foreigners, its visual motifs are widely recognisable and the careful management of its visual design has given the Vekllei government a strong and unique identity domestically and overseas. This is also effective in design&rsquo;s essential function across its many republics, as it helps familiarise disparate peoples with their common government, and allows Vekllei people feel comfortable in others parts of the country. Standardisation in Vekllei is a tremendous success.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&lsquo;Federalisation&rsquo; is the term for integration of a new country into the Vekllei Commonwealth. It is a shorthand for all aspects of integration, including the construction of new buildings, ratification of new laws and accession to the <a href="/constitution/">Vekllei Constitution</a> and the restructuring of the government. It concludes the establishment of a commons and the abolishment of common money through a process of hyperinflation.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>The Commonwealth Design Bureau performs work only for government organisations. <a href="/assets/">State-owned enterprises</a> generally retain their own design systems as independent companies, or fuse aspects of systems as the situation requires.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>The &lsquo;Commonwealth Palette&rsquo; is a swatch of 80 colours used across almost all government design. They include both practical, political and cultural colours that draw semantic connections with real-world culture, like &lsquo;Kalina Blue&rsquo; for its Caribbean seas and &lsquo;Kalan Cream&rsquo; for its snow.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+
+  
+  
+  
+  
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/bulletin/">Bulletin</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/bulletin/standardisation/">Standardisation</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 21/08/2023</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Standardisation</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+
+  
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.8a6fe187601e96c4d7642c23e0655b29e41f0824a12487b054bb02fb86447a62.js" type="module"></script>
+</body>
+
+</html>
