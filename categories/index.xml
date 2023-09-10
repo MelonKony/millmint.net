@@ -73,24 +73,6 @@
 	</item>
 	
 	<item>
-	  <title>sketch</title>
-	  <link>https://millmint.net/categories/sketch/</link>
-	  <pubDate>Sat, 29 Jul 2023 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/categories/sketch/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>comic</title>
 	  <link>https://millmint.net/categories/comic/</link>
 	  <pubDate>Wed, 26 Jul 2023 08:00:00 EST</pubDate>
@@ -235,6 +217,24 @@
 	</item>
 	
 	<item>
+	  <title>Sketch</title>
+	  <link>https://millmint.net/categories/sketch/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/categories/sketch/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>society</title>
 	  <link>https://millmint.net/categories/society/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -276,24 +276,6 @@
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/categories/tools/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>utopia</title>
-	  <link>https://millmint.net/categories/utopia/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/categories/utopia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

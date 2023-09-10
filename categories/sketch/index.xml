@@ -9,12 +9,11 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>sketch</title>
+	<title>Sketch</title>
 	<link>https://millmint.net/categories/sketch/</link>
-	<description>Recent content in sketch </description>
+	<description>Recent content in Sketch </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Sat, 29 Jul 2023 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
