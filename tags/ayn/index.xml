@@ -18,6 +18,31 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/ayn/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Heatwave</title>
+	  <link>https://millmint.net/stories/heatwave/</link>
+	  <pubDate>Wed, 06 Sep 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/heatwave/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Oslolans when the temperature hits 25°C. Oslola is part of Vekllei, and is known as Iceland in our own world. In this setting, the North Atlantic is a bit more temperate thanks to the Oslolan Low Pole and strong ocean currents. Still, they&rsquo;re acclimatised to cool air, and 25°C (77°F) is hot weather for them.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/heatwave.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Oslolans when the temperature hits 25°C.</div>
+</blockquote>
+
+<p>Oslola is part of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and is known as Iceland in our own world. In this setting, the North Atlantic is a bit more temperate thanks to the Oslolan Low Pole and strong ocean currents. Still, they&rsquo;re acclimatised to cool air, and 25°C (77°F) is hot weather for them.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The Analyst</title>
 	  <link>https://millmint.net/stories/analyst/</link>
 	  <pubDate>Fri, 02 Jun 2023 08:00:00 EST</pubDate>
