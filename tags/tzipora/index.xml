@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Ham Comic</title>
+	  <link>https://millmint.net/stories/ham-comic/</link>
+	  <pubDate>Mon, 11 Sep 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/ham-comic/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/comics/ham.jpg"/> <p>
+
+
+ 
+<figure>
+  <img src="/images/comics/ham.jpg" alt="comic page 1"  loading="lazy" />
+  
+</figure>
+</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Airships for Tomorrow</title>
 	  <link>https://millmint.net/stories/atlantic-airship/</link>
 	  <pubDate>Sun, 10 Sep 2023 08:00:00 EST</pubDate>
@@ -40,7 +67,7 @@ In Vekllei, all passenger airships are operated by Commonwealth Airways.]]>
 
 <p>Airships have seen some resurgence in the mid-21st Century as an alternate means of air travel, occupying a travel niche somewhere between the ocean-liner and a passenger jet. Although relatively uncommon compared to fixed-wing aircraft, airships do fly busy routes in certain parts of the world where their capacity and leisurely speeds are preferred.</p>
 <p>In <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, all passenger airships are operated by <a href="/air/">Commonwealth Airways</a>. Airships can dock without a runway, making them ideal for Vekllei&rsquo;s many archipelagos and Caribbean island belts, where they are most commonly seen. There are daily airship routes between Kalina&rsquo;s republics, the Bahamas, and between the Verde, Mira and Azores Commonwealths. Other routes link Vekllei&rsquo;s remote islands weekly, or commute passengers between Oslola and Kala. International routes are also common, especially to the US and UK. Since airships can only fly in certain weather, their routes are often seasonal.</p>
-<p>The smallest Vekllei airship, CNV <em>Astrid</em> has a capcity of just twenty-six. The largest, pictured here, is the CNV <em>Comet</em> with capacity for nearly 500 people. With helidocks, internal elevators and a sky-lounge with panoramic windows, Vekllei&rsquo;s larger airships are a far cry from the gondola-balloons of yesteryear. In total, there are 16 airships in service with Commonwealth Airways. They are machines of enormous prestige, and they carry the Commonwealth flag wherever they go.</p>
+<p>The smallest Vekllei airship, CNV <em>Astrid</em> has a capacity of just twenty-six. The largest, pictured here, is the CNV <em>Comet</em> with capacity for nearly 500 people. With helidocks, internal elevators and a sky-lounge with panoramic windows, Vekllei&rsquo;s larger airships are a far cry from the gondola-balloons of yesteryear. In total, there are 16 airships in service with Commonwealth Airways. They are machines of enormous prestige, and they carry the Commonwealth flag wherever they go.</p>
 <p>The largest airship in Vekllei service, however, belongs to the Vekllei Air Force. Originally a command centre that could spend the summer months over the Arctic circle, it is undergoing conversion to become a flying aircraft carrier.</p>
 ]]>
   	</content:encoded>

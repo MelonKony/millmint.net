@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Ham Comic</title>
+	  <link>https://millmint.net/stories/ham-comic/</link>
+	  <pubDate>Mon, 11 Sep 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/ham-comic/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/comics/ham.jpg"/> <p>
+
+
+ 
+<figure>
+  <img src="/images/comics/ham.jpg" alt="comic page 1"  loading="lazy" />
+  
+</figure>
+</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Heatwave</title>
 	  <link>https://millmint.net/stories/heatwave/</link>
 	  <pubDate>Wed, 06 Sep 2023 08:00:00 EST</pubDate>
