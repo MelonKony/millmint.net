@@ -41,5 +41,34 @@
   	</content:encoded>
 	</item>
 	
+	<item>
+	  <title>Verde</title>
+	  <link>https://millmint.net/factbook/landscape/territories/verde/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/landscape/territories/verde/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the territories series of articles Overview # The Island Commonwealth of Mira (also Madeira in Portuguese) is an island archipelago situated in the Atlantic, 520km west of Morocco. Originally a Portuguese overseas territory, Mira became an independent member of the Council of Oceans in 2025 and united with Commonwealth of Oceans as a Constituent in 2030. As such, its primary languages are Portuguese and English, and as of the mid-21st Century it is still integrating with Commonwealth government.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint green">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/territories/">territories</a></em> series of articles</div>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p>The <strong>Island Commonwealth of Mira</strong> (also <em><strong>Madeira</strong></em> in Portuguese) is an island archipelago situated in the Atlantic, 520km west of Morocco. Originally a Portuguese overseas territory, Mira became an independent member of the <a href="/oceans-council/">Council of Oceans</a> in 2025 and united with <a href="/vekllei/">Commonwealth of Oceans</a> as a <a href="/constituents/">Constituent</a> in 2030. As such, its primary languages are Portuguese and English, and as of the mid-21st Century it is still integrating with Commonwealth government.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>
