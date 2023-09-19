@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Drip</title>
+	  <link>https://millmint.net/stories/drip/</link>
+	  <pubDate>Tue, 19 Sep 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/drip/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora wearing the chiton from yesterday. I added a hat. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/drip.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora wearing the <a href="/stories/national-dress/">chiton</a> from yesterday. I added a hat.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The Veletian Chiton</title>
 	  <link>https://millmint.net/stories/national-dress/</link>
 	  <pubDate>Mon, 18 Sep 2023 08:00:00 EST</pubDate>
