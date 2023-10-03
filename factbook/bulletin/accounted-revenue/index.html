@@ -1,0 +1,595 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Accounted Revenue - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.ff73b146a73223ae03d1a48ce00c5ad2be6bb9668b4a890f2e57f7c6e813a6875c5cdf3941e517b3bd00ae7a4de2d128db25d2f4a8955847396954f7bafd9936.css" integrity="sha512-/3OxRqcyI64D0aSM4Axa0r5ruWaLSokPLlf3xugTpodcXN85QeUXs70ArnpN4tEo2yXS9KiVWEc5aVT3uv2ZNg==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Accounted Revenue &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/bulletin/accounted-revenue/" />
+    <meta property="og:locale" content="en">
+    
+
+    
+    <meta name="twitter:card" content="Illustrations from Studio MillMint" />
+    <meta name="twitter:site" content="MillMint" />
+    <meta name="twitter:creator" content="Hobart Phillips" />
+    <meta property="og:url" content="https://millmint.net/factbook/bulletin/accounted-revenue/" />
+    <meta property="og:title" content="Accounted Revenue" />
+    <meta property="og:description" content=" The home of Vekllei. Retro worldbuilding, with good intentions. - Accounted Revenue " />
+    <meta property="og:image" content="YourDefaultImage" />
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.aa3b2826b7773ddc190a2a1705b8f64182835d6be9dc207d955289fc61f18f9f.js" integrity="sha256-qjsoJrd3PdwZCioXBbj2QYKDXWvp3CB9lVKJ/GHxj58=" crossorigin="anonymous"></script>
+    
+
+    
+    <script async defer src="https://analytics.umami.is/script.js" data-website-id="f91bc5c9-a876-43b2-8ac3-713dd8d7d41e"></script>
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="brand-title" href="/">MillMint</a>
+        <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+    
+    
+    
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+        <span id="light_mode_btn" class="navicon hidden toolbox-btn">💡</span>
+    </button>
+    
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header><nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/culture" class="menu-link"><span class="navicon">🏵</span>Culture</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/culture/language" class="menu-link"><span class="navicon">📖</span>Language</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/metaphysics" class="menu-link"><span class="navicon">🪬</span>Metaphysics</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/religion" class="menu-link"><span class="navicon">💀</span>Religion</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/culture/sagas" class="menu-link"><span class="navicon">🕯️</span>Sagas</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/landscape" class="menu-link"><span class="navicon">🌿</span>Landscape</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/landscape/boroughs" class="menu-link"><span class="navicon">🌐</span>Boroughs</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/tokyo" class="menu-link"><span class="navicon">🍜</span>A Cashless Tokyo</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="hint">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/grocer-girls/"><span class="navicon">📗</span>Story: <i>Grocer Girls</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                
+    
+    <header class="info">
+  <h1 class="title">Calculating Revenue Without Money</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">💸</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/bulletin/">
+			Bulletin</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/bulletin/accounted-revenue/">
+			Accounted Revenue</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  
+  
+</header>
+
+
+  <div data-page-color="170, 143, 31" style="display: none"></div>
+
+
+
+    
+
+
+
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei businesses that operate in <a href="/factbook/society/state/finance/#domestic-markets">domestic markets</a> do not generally use money.</li>
+<li>This includes government corporations and departments.</li>
+<li>Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics.</li>
+<li>This is known as &ldquo;accounted revenue,&rdquo; and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values.</li>
+</ul>
+</div>
+</blockquote>
+
+<p>Although <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy. Physical product has a tangible presence and consequently a tangible cost, even if it not assigned a money-value. As such, Vekllei simply calculates the money-value of everything in its society, from homes to wages to toothbrushes, and uses those figures as a means to determine the health of its economy.</p>
+<p>How they arrive at these figures is complicated and detached from real-world money-value. The &ldquo;accounted value&rdquo; figure, as it is called, is a combination of labour-hours at a wage calculation, exchange rates, comparative pricing in major international currencies, and scarcity. To this end, the Commonwealth uses commercial accounting practices to target waste and maintain the <em>commons</em> moneyless system.</p>
+<p>&ldquo;Accounted value,&rdquo; or more specifically, &ldquo;accounted revenue&rdquo; is also used as a means of budgeting, especially for government departments. So even though Vekllei at face value appears to suppress ordinary money-value and by extension financialised markets, it is in fact deeply financialised and is closely monitored and controlled by the <a href="/cosmosol/">Ministries of Commerce</a>.</p>
+
+</article>
+
+                
+                
+                
+            </section><footer>
+
+  
+  
+  
+  
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/bulletin/">Bulletin</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/bulletin/accounted-revenue/">Accounted Revenue</a>
+</li>
+
+</ul>
+
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 04/10/2023</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Accounted Revenue</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.8a6fe187601e96c4d7642c23e0655b29e41f0824a12487b054bb02fb86447a62.js" type="module"></script>
+</body>
+
+</html>

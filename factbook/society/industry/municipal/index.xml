@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Municipal Industry</title>
+	<link>https://millmint.net/factbook/society/industry/municipal/</link>
+	<description>Recent content in Municipal Industry </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/municipal/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>United Grocers</title>
+	  <link>https://millmint.net/factbook/society/industry/municipal/united-grocers/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/industry/municipal/united-grocers/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the industry series of articles United Grocers is an inter-municipal co-operative business that sells agricultural surplus through its network of franchised groceries. It can be found in one form or another across all of Vekllei. United Grocers is a signatory to the Living Standards Scheme, and so can be compelled by the government to distribute appropriated food in times of need.
+The franchise is ubiquitous throughout most Vekllei cities, and is the most common place to shop for household groceries by accounted revenue.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/united-grocers.jpg"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+</blockquote>
+
+<p>United Grocers is an inter-municipal co-operative business that sells agricultural surplus through its network of franchised groceries. It can be found in one form or another across all of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. United Grocers is a signatory to the Living Standards Scheme, and so can be compelled by the government to distribute appropriated food in times of need.</p>
+<p>The franchise is ubiquitous throughout most Vekllei cities, and is the most common place to shop for household groceries by <a href="/bulletin/accounted-revenue/">accounted revenue</a>. There are some 7,500 locations across Vekllei republics.</p>
+<p>United Grocers stock local produce and agriculture surplus, as well as factory foods like <a href="/stories/breakfast/">synthesised meats</a>. They also stock domestic items like cleaning products and home essentials. They are heavily automated through a central stock database, and have stock robots to shelve and track products.</p>
+<p>As co-operative enterprises in a franchise system, local franchises are usually owned by a few members of their surrounding communities, and are maintained by their owners or volunteer labour.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

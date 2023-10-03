@@ -18,6 +18,47 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/bulletin/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Accounted Revenue</title>
+	  <link>https://millmint.net/factbook/bulletin/accounted-revenue/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/bulletin/accounted-revenue/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the bulletin series of articles Summary
+Vekllei businesses that operate in domestic markets do not generally use money. This includes government corporations and departments. Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics. This is known as &ldquo;accounted revenue,&rdquo; and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values. Although Vekllei does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei businesses that operate in <a href="/factbook/society/state/finance/#domestic-markets">domestic markets</a> do not generally use money.</li>
+<li>This includes government corporations and departments.</li>
+<li>Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics.</li>
+<li>This is known as &ldquo;accounted revenue,&rdquo; and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values.</li>
+</ul>
+</div>
+</blockquote>
+
+<p>Although <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy. Physical product has a tangible presence and consequently a tangible cost, even if it not assigned a money-value. As such, Vekllei simply calculates the money-value of everything in its society, from homes to wages to toothbrushes, and uses those figures as a means to determine the health of its economy.</p>
+<p>How they arrive at these figures is complicated and detached from real-world money-value. The &ldquo;accounted value&rdquo; figure, as it is called, is a combination of labour-hours at a wage calculation, exchange rates, comparative pricing in major international currencies, and scarcity. To this end, the Commonwealth uses commercial accounting practices to target waste and maintain the <em>commons</em> moneyless system.</p>
+<p>&ldquo;Accounted value,&rdquo; or more specifically, &ldquo;accounted revenue&rdquo; is also used as a means of budgeting, especially for government departments. So even though Vekllei at face value appears to suppress ordinary money-value and by extension financialised markets, it is in fact deeply financialised and is closely monitored and controlled by the <a href="/cosmosol/">Ministries of Commerce</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Airline Travel</title>
 	  <link>https://millmint.net/factbook/bulletin/airline-travel/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
