@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Seinfeld</title>
+	  <link>https://millmint.net/stories/seinfeld/</link>
+	  <pubDate>Sat, 07 Oct 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/seinfeld/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Drawn to celebrate 500 followers on Twitter. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/seinfeld.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Drawn to celebrate 500 followers on <a href="https://x.com/vekllei">Twitter</a>.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Grocer Girls</title>
 	  <link>https://millmint.net/stories/grocer-girls/</link>
 	  <pubDate>Tue, 03 Oct 2023 08:00:00 EST</pubDate>

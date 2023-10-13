@@ -14,16 +14,16 @@
 	<description>Recent content in Categories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 03 Oct 2023 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Mon, 09 Oct 2023 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>story</title>
-	  <link>https://millmint.net/categories/story/</link>
-	  <pubDate>Tue, 12 Sep 2023 08:00:00 EST</pubDate>
+	  <title>comic</title>
+	  <link>https://millmint.net/categories/comic/</link>
+	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/story/</guid>
+	  <guid>https://millmint.net/categories/comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -37,11 +37,11 @@
 	</item>
 	
 	<item>
-	  <title>comic</title>
-	  <link>https://millmint.net/categories/comic/</link>
-	  <pubDate>Mon, 11 Sep 2023 08:00:00 EST</pubDate>
+	  <title>story</title>
+	  <link>https://millmint.net/categories/story/</link>
+	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/comic/</guid>
+	  <guid>https://millmint.net/categories/story/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

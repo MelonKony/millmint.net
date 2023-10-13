@@ -2,7 +2,7 @@
 title: Bureau of Conservation
 fulltitle: Bureau of Conservation
 icon: 🏛️
-rgb: 155, 67, 199
+rgb: 85, 177, 55
 
 aliases:
 - /bureau-of-conservation/
