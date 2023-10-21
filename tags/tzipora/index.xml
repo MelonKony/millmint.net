@@ -18,9 +18,58 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Southbound Express</title>
+	  <link>https://millmint.net/stories/115/</link>
+	  <pubDate>Fri, 20 Oct 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/115/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ The Mustard 49 series is Tzipora&rsquo;s favourite train. They&rsquo;ve mostly been replaced by the 51 series, so they&rsquo;re a rare find these days. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/115.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">The Mustard 49 series is Tzipora&rsquo;s favourite train. They&rsquo;ve mostly been replaced by the 51 series, so they&rsquo;re a rare find these days.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Weird Energy</title>
+	  <link>https://millmint.net/stories/weird-energy/</link>
+	  <pubDate>Wed, 18 Oct 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/weird-energy/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[This is Tzipora&rsquo;s default expression and people tell her she has &ldquo;weird energy.&rdquo; Sketch. The Commonwealth school uniform can be reduced to just a few items bought off the rack at a department store, but it can also be very resplendent, with capes and gold stitching.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/slump.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">This is Tzipora&rsquo;s default expression and people tell her she has &ldquo;weird energy.&rdquo;</div>
+</blockquote>
+
+<p>Sketch. The Commonwealth school uniform can be reduced to just a few items bought off the rack at a department store, but it can also be very resplendent, with capes and gold stitching.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>A Social Economy</title>
 	  <link>https://millmint.net/stories/a-social-economy/</link>
-	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
+	  <pubDate>Thu, 12 Oct 2023 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/stories/a-social-economy/</guid>
 	  <author>
