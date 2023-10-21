@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Futility</title>
+	  <link>https://millmint.net/stories/futility/</link>
+	  <pubDate>Sat, 21 Oct 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/futility/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora is thinking about that umbrella she passed when she went out the door. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/futility.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora is thinking about that umbrella she passed when she went out the door.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Southbound Express</title>
 	  <link>https://millmint.net/stories/115/</link>
 	  <pubDate>Fri, 20 Oct 2023 08:00:00 EST</pubDate>
