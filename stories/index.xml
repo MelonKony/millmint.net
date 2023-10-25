@@ -18,6 +18,35 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Raincoats</title>
+	  <link>https://millmint.net/stories/raincoats/</link>
+	  <pubDate>Tue, 24 Oct 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/raincoats/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora has a dry head. Moise does not. Commonwealth islands get a lot of rain, and raincoats are issued by the Ministry of Education. They vary slightly by region, but in Oslola they look like this.
+Girls get plastic hoods that snap onto their wool capes, which also have a rayon overslip for weatherproofing.
+Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The girls need to keep their hair dry, the reasoning goes &ndash; such is the wisdom of the education ministry.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/mackintosh.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora has a dry head. Moise does not.</div>
+</blockquote>
+
+<p>Commonwealth islands get a lot of rain, and raincoats are issued by the Ministry of Education. They vary slightly by region, but in Oslola they look like this.</p>
+<p>Girls get plastic hoods that snap onto their wool capes, which also have a rayon overslip for weatherproofing.</p>
+<p>Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The girls need to keep their hair dry, the reasoning goes &ndash; such is the wisdom of the education ministry.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Futility</title>
 	  <link>https://millmint.net/stories/futility/</link>
 	  <pubDate>Sat, 21 Oct 2023 08:00:00 EST</pubDate>
