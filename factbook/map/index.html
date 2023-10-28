@@ -479,11 +479,9 @@
 
 <script src="https://unpkg.com/iv-viewer/dist/iv-viewer.js"></script>
 
-<script>
-  import ImageViewer from 'dist/iv-viewer.js';
-
+<script type="module">
   const image = document.querySelector('#image');
-  const viewer = new ImageViewer(image, options); 
+  const viewer = new ImageViewer(image, {}); 
 </script>
 
 <style>
