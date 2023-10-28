@@ -66,8 +66,9 @@
 
     </head><link rel="stylesheet" href="https://unpkg.com/iv-viewer/dist/iv-viewer.css">
 
-<body data-color="pink"  class="show-all-images">
-  <main><header>
+<body data-color="blue"  class="show-all-images">
+  <main>
+    <div class="map-nav"><header>
     <div class="brand">
         <a class="brand-title" href="/">MillMint</a>
         <a class="brand-emoji" id="whirlybat" href="/">-millmint</a>
@@ -98,6 +99,14 @@
                        <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
                     
                     <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/map/" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
     
         <li>
             
@@ -443,9 +452,10 @@
 
   checkNewStories()
 </script>
-</main>
+</div>
 
-  <img id="image" src="/svg/maps/world.png" data-high-res-src="/svg/maps/world.png" />
+      <img id="image" src="/svg/maps/world.png" data-high-res-src="/svg/maps/world.png" />
+  </main>
 <script src="/js/header.7a2a109ec3782c57bad0332b662f8a5f41765505936b69868eb8bd5241de9daf23c388e82ca1831f6d09935013dcb9f71bfa7face3975880c1076028b7b0a6e1.js" integrity="sha512-eioQnsN4LFe60DMrZi&#43;KX0F2VQWTa2mGjri9UkHena8jw4joLKGDH20Jk1AT3Ln3G/p/rOOXWIDBB2Aot7Cm4Q=="></script>
 
 
@@ -481,10 +491,85 @@
 
 <script type="module">
   const image = document.querySelector('#image');
-  const viewer = new ImageViewer(image, {}); 
+  const viewer = new ImageViewer(image, {maxScale: 500, refreshOnResize: false}); 
 </script>
 
 <style>
+  .iv-snap-image-wrap {
+    width: 100%;
+  }
+
+  .iv-image-view {
+    background: #e2f3fd;
+    padding: .5rem var(--body-background);
+  }
+
+  img.iv-snap-image {
+    margin-top: 0;
+    margin-bottom: 0;
+    visibility: visible !important;
+    width: 100% !important;
+    height: 75px !important;
+  }
+
+  .iv-snap-image-wrap {
+     border-top-left-radius: .25rem;
+     border-top-right-radius: .25rem;
+  }
+
+  .iv-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 100vh;
+    width: 100vw;  
+    margin-left: calc((100% - 100vw) / 2);   
+  }
+
+  .iv-snap-view {
+      width: 150px;
+      height: 60px;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      border: 1px solid var(--body-background);
+      border-radius: .25rem;
+      background: black;
+      z-index: 100;
+      box-sizing: content-box;
+      transition: opacity ease 400ms;
+      opacity: 0;
+  }
+
+  .iv-zoom-slider {
+      width: 100%;
+      box-sizing: content-box;
+      border: 1px solid var(--body-background);
+      border-top: 0;
+      background: rgba(0, 0, 0, 0.3);
+      height: 15px;
+      position: absolute;
+      top: 67px;
+      left: -1px;
+  }
+
+  main {
+    position: relative;
+    z-index: 1;
+  }
+
+  .map-nav {
+    outline: 15px solid var(--body-background);
+    background: var(--body-background);
+    border-radius: .25rem;
+  }
+
+  #notice {
+    margin: 1rem 0 0 0;
+    display: flex;
+    align-items: center;
+  }
 
 </style>
 
