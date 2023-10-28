@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>The Exchange Student</title>
+	  <link>https://millmint.net/stories/exchange-student/</link>
+	  <pubDate>Fri, 27 Oct 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/exchange-student/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ I&rsquo;ve gotten a few new Thai followers recently. Here&rsquo;s Tzipora with her Thai friend. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/thai.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">I&rsquo;ve gotten a few new Thai followers recently. Here&rsquo;s Tzipora with her Thai friend.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Futility</title>
 	  <link>https://millmint.net/stories/futility/</link>
 	  <pubDate>Sat, 21 Oct 2023 08:00:00 EST</pubDate>
