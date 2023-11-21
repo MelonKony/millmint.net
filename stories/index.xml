@@ -18,6 +18,36 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Officebound</title>
+	  <link>https://millmint.net/stories/office/</link>
+	  <pubDate>Thu, 16 Nov 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/office/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Leftward man and woman: meeting dress; rightward man and woman: everyday dress. If you work in a Vekllei office, there are two types of attire. You have a suit for meetings and clients, and professional daily-wear for office and clerical work.
+This dress code is typical for private offices, since government clerks are often given a uniform.
+For men, a &ldquo;suit&rdquo; means a garment cut from the same cloth and a necktie.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/office.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Leftward man and woman: meeting dress; rightward man and woman: everyday dress.</div>
+</blockquote>
+
+<p>If you work in a <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> office, there are two types of attire. You have a suit for meetings and clients, and professional daily-wear for office and clerical work.</p>
+<p>This dress code is typical for private offices, since government clerks are often given a uniform.</p>
+<p>For men, a &ldquo;suit&rdquo; means a garment cut from the same cloth and a necktie. It doesn&rsquo;t have to be black, but it should be neutral. For everyday office work though, a sports coat, slacks and leather shoes is fine. Depending on the office you can push this further, with newer styles.</p>
+<p>For women, things are bit more unusual. Since the &ldquo;Dunlop Revolution&rdquo; (named for the sneaker company popular in postwar Vekllei), it is acceptable in some businesses for female clerks to wear clean tennis shoes in the office as an alternative to heels or flats. Proper professional attire must be retained for meetings, however.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Warm Singapore Evening</title>
 	  <link>https://millmint.net/stories/south-east-asia/</link>
 	  <pubDate>Thu, 09 Nov 2023 08:00:00 EST</pubDate>
