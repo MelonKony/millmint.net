@@ -18,6 +18,32 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/commons/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Bureau of Aerospace</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ This bureau is part of the Ministry of the Commons. The Bureau of Aerospace is an office of the Ministry of the Commons responsible for policy, administration and operation of aerospace transport in Vekllei. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
+</blockquote>
+
+<p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Aerospace</strong> is an office of the <a href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> responsible for policy, administration and operation of aerospace transport in <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.</p>
+<p>The Bureau of Aerospace</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Bureau of Nature</title>
 	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-oceans/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -28,13 +54,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles ]]>
+	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
 </blockquote>
 
 ]]>
@@ -52,13 +78,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles ]]>
+	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
 </blockquote>
 
 ]]>
@@ -76,13 +102,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles ]]>
+	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
 </blockquote>
 
 ]]>
@@ -100,37 +126,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles ]]>
+	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
-</blockquote>
-
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Bureau of Skies</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-skies/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-skies/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles ]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
-  <div class="icon">
-</div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
 </blockquote>
 
 ]]>
@@ -148,13 +150,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles Planning Commission # Department for Architecture # Department for Gardens # Housing Commission # Media Authority # ]]>
+	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. Planning Commission # Department for Architecture # Department for Gardens # Housing Commission # Media Authority # ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
 </blockquote>
 
 <h2 id="planning-commission">
@@ -182,6 +184,55 @@
 	</item>
 	
 	<item>
+	  <title>Bureau of Space</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-space/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-space/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Commonwealth Space Research Directorate</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-space-research-directorate/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-space-research-directorate/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ This directorate is part of the Ministry of the Commons. CSRD]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This directorate is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
+</blockquote>
+
+<p>CSRD</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Commonwealth Transport Laboratories</title>
 	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-transport-laboratories/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -192,13 +243,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ Part of the government series of articles ]]>
+	  <![CDATA[ ߷ This laboratory is part of the Ministry of the Commons. ]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/government/">government</a></em> series of articles</div>
+  <div class="text">߷ This laboratory is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
 </blockquote>
 
 ]]>
