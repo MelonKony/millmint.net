@@ -109,7 +109,7 @@ Standards in education for teachers and staff are generally developed and audite
 	  </author>
 	  <description>
 	  <![CDATA[߷ This bureau is part of the Ministry of the Commonwealth. The Bureau of Policy Research conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the Civil Service Academy and other civil service training organisations.
-Department of General Research: Flexible, reactive policy and long-term research objectives. Department of Stability: Reactive and timely analysis of current affairs and events threatening the mandate and stability of the Commonwealth.]]>
+Departments # Department of General Research: Flexible, reactive policy and long-term research objectives. Department of Stability: Reactive and timely analysis of current affairs and events threatening the mandate and stability of the Commonwealth.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
@@ -118,16 +118,20 @@ Department of General Research: Flexible, reactive policy and long-term research
   <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmocom)" href="/cosmocom/"><span class="fi fi-min-commonwealth fis"></span> Ministry of the Commonwealth</a>.</div>
 </blockquote>
 
-<p>The <em>Bureau of Policy Research</em> conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the <a href="/civil-service-academy">Civil Service Academy</a> and other civil service training organisations.</p>
+<p>The <em>Bureau of Policy Research</em> conducts research and prepares policy objectives for use in Commonwealth governance, and determines the curriculum of the <a style="color: var(--color-cosmocom)" href="/civil-service-academy/"><span class="fi fi-min-commonwealth fis"></span> Civil Service Academy</a> and other civil service training organisations.</p>
 <blockquote class="hint panel">
   <div class="icon">
 </div> 
-  <div class="text"><ul>
+  <div class="text"><h4 id="departments">
+  Departments
+  <a class="anchor" href="#departments">#</a>
+</h4>
+<ul>
 <li><strong>Department of General Research</strong>: Flexible, reactive policy and long-term research objectives.</li>
 <li><strong>Department of Stability</strong>: Reactive and timely analysis of current affairs and events threatening the mandate and stability of the Commonwealth.</li>
 <li><strong>Department of Democracy</strong>: Research that contributes to floral democracy, particularly as it operates at the borough and canton levels of government.</li>
 <li><strong>Department of Civil Affairs</strong>: Research related to civil rights, demography and culture policy.</li>
-<li><strong>Department of Commonwealth Economics and Trade</strong>: Macroeconomic research in Commonwealth trade.</li>
+<li><strong>Department of Commonwealth Economics and Trade</strong>: Macroeconomic research in Commonwealth trade in conjunction with the Institute of Economics Research of the <a style="color: var(--color-cosmosol)" href="/commonwealth-treasury/"><span class="fi fi-min-commerce fis"></span> Treasury</a>.</li>
 <li><strong>Department of Reform</strong>: Research related to Vekllei bureaucracy and the efficiency of its government.</li>
 </ul>
 </div>
