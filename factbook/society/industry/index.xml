@@ -17,5 +17,39 @@
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Atlantic</title>
+	  <link>https://millmint.net/factbook/society/industry/private/atlantic-store/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/industry/private/atlantic-store/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the industry series of articles ✿ Read more: Department Commerce The Atlantic Department Company S.A., trading as Atlantic, is the largest mainland department store chain in Vekllei. It is among the few companies to survive the transition to the social economy with its ownership intact, and remains within the family of the Kolot family that founded the chain in 1830.
+Atlantic&rsquo;s flagship store is in Lonne, Oslola, but has expanded in the postwar period to have stores in most populous Vekllei republics.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+</blockquote>
+
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">✿ Read more: <em><a href="/stories/department/">Department Commerce</a></em></div>
+</blockquote>
+
+<p>The <span class="fi fi-min-atlantic-store fis"></span> <strong>Atlantic Department Company</strong> S.A., trading as <span class="fi fi-min-atlantic-store fis"></span> <strong>Atlantic</strong>, is the largest mainland department store chain in <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is among the few companies to survive the transition to the <a href="/social-economy/">social economy</a> with its ownership intact, and remains within the family of the Kolot family that founded the chain in 1830.</p>
+<p>Atlantic&rsquo;s flagship store is in Lonne, <a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, but has expanded in the postwar period to have stores in most populous Vekllei republics. It stocks a variety of dry goods, most commonly apparel and cosmetics but also homewares and furniture. Atlantic has a concierge system that allows longtime customers to book fittings and select a preferred attendant and tailor.</p>
+<p>Atlantic is listed as ATL on the <a style="color: var(--color-commsec)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> and is the 12th largest company listed in the <a href="/ratings/">CRC/CSX 50</a>. It is a preferred distributor of the Vekllei government.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>
