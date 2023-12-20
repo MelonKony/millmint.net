@@ -718,14 +718,19 @@ header.info, footer {
       margin-left: calc((100% - 100vw) / 2);
   }
   .volcanic-nav {
-    position: absolute;
-    outline: 15px solid var(--body-background);
-    background: var(--body-background);
-    border-radius: .25rem;
-    width: inherit;
-    height: inherit;
-    box-sizing: border-box;
-    margin-top: 2.5rem;
+  position: absolute;
+  outline: 15px solid var(--body-background);
+  background: var(--body-background);
+  border-radius: .075rem;
+  margin-top: 2.5rem;
+  box-sizing: border-box;
+  width: calc(100% - 3rem);
+   
+  z-index: 1;
+  left: 50%;
+   
+  transform: translateX(-50%);
+   
   }
 </style>
 
