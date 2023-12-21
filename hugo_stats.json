@@ -151,6 +151,7 @@
       "fi-un",
       "fi-verde",
       "fis",
+      "floating-nav",
       "footer",
       "footnote-backref",
       "footnote-ref",
@@ -162,7 +163,6 @@
       "hint",
       "home-grid",
       "home-main",
-      "home-nav",
       "home-parallax",
       "hug-top",
       "icon",
@@ -250,7 +250,6 @@
       "toc",
       "toggle",
       "tombstone",
-      "volcanic-nav",
       "volcanic-parallax"
     ],
     "ids": [
