@@ -18,6 +18,102 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Just Tzipora</title>
+	  <link>https://millmint.net/stories/frog-girl/</link>
+	  <pubDate>Fri, 29 Dec 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/frog-girl/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ just, like, Tzipora 🐸 ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/frog-girl.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">just, like, Tzipora 🐸</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Christmas Lamb</title>
+	  <link>https://millmint.net/stories/christmas-lamb/</link>
+	  <pubDate>Thu, 28 Dec 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/christmas-lamb/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ It is December 28th. Baron is the only one still trying to finish the Christmas lamb. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/lamb.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">It is December 28th. Baron is the only one still trying to finish the Christmas lamb.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Starched</title>
+	  <link>https://millmint.net/stories/starched/</link>
+	  <pubDate>Sun, 24 Dec 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/starched/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ She accidentally starched her hat. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/starched.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">She accidentally starched her hat.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Novel</title>
+	  <link>https://millmint.net/stories/novel/</link>
+	  <pubDate>Sat, 23 Dec 2023 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/novel/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora suspects that the novel she thought was poorly translated may in fact just be a piece of shit. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/lingua.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora suspects that the novel she thought was poorly translated may in fact just be a piece of shit.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Commission</title>
 	  <link>https://millmint.net/stories/commission-by-lecanard/</link>
 	  <pubDate>Sat, 09 Dec 2023 08:00:00 EST</pubDate>
