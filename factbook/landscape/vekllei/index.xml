@@ -18,6 +18,31 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/landscape/vekllei/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Caimanas</title>
+	  <link>https://millmint.net/factbook/landscape/vekllei/caimanas/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/landscape/vekllei/caimanas/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the territories series of articles The Republic of Caimanas is a constituent country of Vekllei consisting of three island city-states in the West Caribbean.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint green">
+  <div class="icon">
+</div> 
+  <div class="text">߷ Part of the <em><a href="/territories/">territories</a></em> series of articles</div>
+</blockquote>
+
+<p>The <strong>Republic of Caimanas</strong> is a constituent country of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> consisting of three island city-states in the West Caribbean.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Mira</title>
 	  <link>https://millmint.net/factbook/landscape/vekllei/mira/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -107,13 +132,13 @@ Originally a Portuguese overseas territory, Mira became an independent member of
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the territories series of articles Overview # The Island Commonwealth of Oslola is an island republic in the North Atlantic, and part of the country of Vekllei. Originally settled by Algic peoples indigenous to the Arctic, Oslola has been inhabited in some form for over 4,000 years. Oslola is a major Vekllei island and is home to nearly 8 million of the 24 million Vekllei people. Its advanced development and high quality of infrastructure contribute significantly to Vekllei&rsquo;s overall resources, of which it is a founding member.]]>
+	  <![CDATA[߷ Oslola is an island commonwealth of Vekllei Overview # The Island Commonwealth of Oslola is an island republic in the North Atlantic, and part of the country of Vekllei. Originally settled by Algic peoples indigenous to the Arctic, Oslola has been inhabited in some form for over 4,000 years. Oslola is a major Vekllei island and is home to nearly 8 million of the 24 million Vekllei people. Its advanced development and high quality of infrastructure contribute significantly to Vekllei&rsquo;s overall resources, of which it is a founding member.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint green">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/territories/">territories</a></em> series of articles</div>
+  <div class="text">߷ Oslola is an island commonwealth of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></div>
 </blockquote>
 
 <h2 id="overview">
@@ -126,7 +151,6 @@ Originally a Portuguese overseas territory, Mira became an independent member of
   History
   <a class="anchor" href="#history">#</a>
 </h2>
-<p>Oslola has seen</p>
 <h3 id="geography--climate">
   Geography &amp; Climate
   <a class="anchor" href="#geography--climate">#</a>
