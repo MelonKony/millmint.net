@@ -1923,6 +1923,25 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 <blockquote class="hint panel">
   <div class="icon">
 </div> 
+  <div class="text"><h4 id="coastal-artillery">
+  Coastal Artillery
+  <a class="anchor" href="#coastal-artillery">#</a>
+</h4>
+<details >
+  <summary>Littoral Service Equipment</summary>
+  <div class="markdown-inner">
+    <h5 id="coastal-artillery">
+  Coastal Artillery
+  <a class="anchor" href="#coastal-artillery">#</a>
+</h5>
+  </div>
+</details>
+</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
   <div class="text"><h4 id="rocket-navy">
   Rocket Navy
   <a class="anchor" href="#rocket-navy">#</a>
@@ -1988,9 +2007,41 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </ul>
 </div>
 </blockquote>
-<h6 id="no-3-marine-combat-wing">
-  No. 3 Marine Combat Wing
-  <a class="anchor" href="#no-3-marine-combat-wing">#</a>
+<h6 id="no-3-aeroweapons-wing">
+  No. 3 Aeroweapons Wing
+  <a class="anchor" href="#no-3-aeroweapons-wing">#</a>
+</h6>
+<p>The Aeroweapons Wing consists of the attack helicopter and helijets squadrons of the Air Service, which are organised with Aeroscouts and Aerorifles to produce air-mobile platoons.</p>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text"><ul>
+<li>No. 17 Aeroweapons Squadron <span class="hollowtag">Ascension</span></li>
+<li>No. 18 Aeroweapons Squadron <span class="hollowtag">Summers</span></li>
+<li>No. 19 Aeroweapons Squadron <span class="hollowtag">Caimanas</span></li>
+<li>No. 20 Aeroweapons Squadron <span class="hollowtag">Oslola</span></li>
+</ul>
+</div>
+</blockquote>
+<h6 id="no-4-aeroscouts-wing">
+  No. 4 Aeroscouts Wing
+  <a class="anchor" href="#no-4-aeroscouts-wing">#</a>
+</h6>
+<p>The Aeroscouts Wing provides reconnaissance services to the Territorial Service and the interarmes air-mobile platoons.</p>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text"><ul>
+<li>No. 21 Aeroweapons Squadron <span class="hollowtag">Ascension</span></li>
+<li>No. 22 Aeroweapons Squadron <span class="hollowtag">Summers</span></li>
+<li>No. 23 Aeroweapons Squadron <span class="hollowtag">Caimanas</span></li>
+<li>No. 24 Aeroweapons Squadron <span class="hollowtag">Oslola</span></li>
+</ul>
+</div>
+</blockquote>
+<h6 id="no-5-marine-combat-wing">
+  No. 5 Marine Combat Wing
+  <a class="anchor" href="#no-5-marine-combat-wing">#</a>
 </h6>
 <p>The No. 3 Marine Combat Wing provides equipment and crew for the Commonwealth Fleet, and comprises the largest naval aviation force in the Air Service.</p>
 <blockquote class="hint ">
@@ -2006,9 +2057,9 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </ul>
 </div>
 </blockquote>
-<h6 id="no-4-marine-combat-wing">
-  No. 4 Marine Combat Wing
-  <a class="anchor" href="#no-4-marine-combat-wing">#</a>
+<h6 id="no-6-marine-combat-wing">
+  No. 6 Marine Combat Wing
+  <a class="anchor" href="#no-6-marine-combat-wing">#</a>
 </h6>
 <blockquote class="hint ">
   <div class="icon">
@@ -2019,9 +2070,9 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </ul>
 </div>
 </blockquote>
-<h6 id="no-5-marine-combat-wing">
-  No. 5 Marine Combat Wing
-  <a class="anchor" href="#no-5-marine-combat-wing">#</a>
+<h6 id="no-7-marine-combat-wing">
+  No. 7 Marine Combat Wing
+  <a class="anchor" href="#no-7-marine-combat-wing">#</a>
 </h6>
 <blockquote class="hint ">
   <div class="icon">
@@ -2032,9 +2083,9 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </ul>
 </div>
 </blockquote>
-<h6 id="no-6-marine-combat-wing">
-  No. 6 Marine Combat Wing
-  <a class="anchor" href="#no-6-marine-combat-wing">#</a>
+<h6 id="no-8-marine-combat-wing">
+  No. 8 Marine Combat Wing
+  <a class="anchor" href="#no-8-marine-combat-wing">#</a>
 </h6>
 <blockquote class="hint ">
   <div class="icon">
@@ -2045,10 +2096,11 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </ul>
 </div>
 </blockquote>
-<h6 id="no-7-marine-helicopter-wing">
-  No. 7 Marine Helicopter Wing
-  <a class="anchor" href="#no-7-marine-helicopter-wing">#</a>
+<h6 id="no-9-marine-helicopter-wing">
+  No. 9 Marine Helicopter Wing
+  <a class="anchor" href="#no-9-marine-helicopter-wing">#</a>
 </h6>
+<p>The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Marine squadrons may be subdivided into Marine sections depending on the needs of the <a href="#maritime-service">Maritime Service</a>.</p>
 <blockquote class="hint ">
   <div class="icon">
 </div> 
@@ -2112,11 +2164,12 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
   Air Transport Command
   <a class="anchor" href="#air-transport-command">#</a>
 </h5>
+<p>The Air Transport Command supports other services, particularly the Territorial Service, and provides air mobility to Rifles regiments as part of its flexible and rapid-manoeuvre doctrine. When mounted in helicopters and helijets, Rifles regiments are known as Aerorifles, and combine with the crew and equipment of an Aerorifles squadron to form a complete air-mobile platoon.</p>
 <h6 id="no-1-transport-wing">
   No. 1 Transport Wing
   <a class="anchor" href="#no-1-transport-wing">#</a>
 </h6>
-<p>The No. 1 Transport Wing</p>
+<p>The No. 1 Transport Wing services the transport aircraft fleet. No. 1 &amp; 2 Squadrons are land-based and 3 &amp; 4 specialise in maritime transport, and include flying boats.</p>
 <blockquote class="hint ">
   <div class="icon">
 </div> 
@@ -2128,19 +2181,49 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </ul>
 </div>
 </blockquote>
-<h6 id="no-2-transport-wing">
-  No. 2 Transport Wing
-  <a class="anchor" href="#no-2-transport-wing">#</a>
+<h6 id="no-2-aerorifles-wing">
+  No. 2 Aerorifles Wing
+  <a class="anchor" href="#no-2-aerorifles-wing">#</a>
 </h6>
-<p>The No. 2 Transport Wing services the transport helicopter fleet. No. 5 &amp; 6 Squadrons are land-based and 7 &amp; 8 specialise in maritime helicopter transport.</p>
+<p>The Aerorifles are the aircraft and crew component of an interarmes air-mobile platoon, and transport individual infantry regiments.</p>
 <blockquote class="hint ">
   <div class="icon">
 </div> 
   <div class="text"><ul>
-<li>No. 5 Transport Squadron</li>
-<li>No. 6 Transport Squadron</li>
-<li>No. 7 Transport Squadron</li>
-<li>No. 8 Transport Squadron</li>
+<li>No. 5 Aerorifles Squadron</li>
+<li>No. 6 Aerorifles Squadron</li>
+<li>No. 7 Aerorifles Squadron</li>
+<li>No. 8 Aerorifles Squadron</li>
+</ul>
+</div>
+</blockquote>
+<h6 id="no-3-aerorifles-wing">
+  No. 3 Aerorifles Wing
+  <a class="anchor" href="#no-3-aerorifles-wing">#</a>
+</h6>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text"><ul>
+<li>No. 9 Aerorifles Squadron</li>
+<li>No. 10 Aerorifles Squadron</li>
+<li>No. 11 Aerorifles Squadron</li>
+<li>No. 12 Aerorifles Squadron</li>
+</ul>
+</div>
+</blockquote>
+<h6 id="no-4-aerorifles-wing">
+  No. 4 Aerorifles Wing
+  <a class="anchor" href="#no-4-aerorifles-wing">#</a>
+</h6>
+<blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text"><ul>
+<li>No. 13 Aerorifles Squadron</li>
+<li>No. 14 Aerorifles Squadron</li>
+<li>No. 15 Aerorifles Squadron</li>
+<li>No. 16 Aerorifles Squadron</li>
 </ul>
 </div>
 </blockquote>
@@ -2148,11 +2231,14 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
   Air Replenishment Command
   <a class="anchor" href="#air-replenishment-command">#</a>
 </h5>
+<h6 id="no-1-air-replenishment-wing">
+  No. 1 Air Replenishment Wing
+  <a class="anchor" href="#no-1-air-replenishment-wing">#</a>
+</h6>
 <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text"><p><strong>No. 1 Air Replenishment Wing</strong></p>
-<ul>
+  <div class="text"><ul>
 <li>No. 1 Air Replenishment Squadron <span class="hollowtag">Oslola</span></li>
 <li>No. 2 Air Replenishment Squadron <span class="hollowtag">Barbados</span></li>
 </ul>
@@ -2207,7 +2293,8 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
   <a class="anchor" href="#helicopters">#</a>
 </h5>
 <ul>
-<li>40 Attack Helicopters</li>
+<li>42 Attack Helicopters</li>
+<li>52 Scout Helicopters</li>
 <li>40 Heavy-lift/Utility</li>
 <li>20 Anti-Submarine Warfare/Search and Rescue</li>
 <li>10 Transport/Utility</li>
@@ -2326,6 +2413,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
   <a class="anchor" href="#rifle-regiments">#</a>
 </h5>
 <p>Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. Rifles are mechanised with armoured cars.  Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regiments are activated as they are combat-ready, and so the 50th and 49th are often deactivated between training.</p>
+<p>All Rifles are trained as both marine infantry and air assault regiments, and are</p>
 <h6 id="1st-25th-rifles-regiments">
   1st-25th Rifles Regiments
   <a class="anchor" href="#1st-25th-rifles-regiments">#</a>
@@ -2478,16 +2566,16 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 <blockquote class="hint panel">
   <div class="icon">
 </div> 
-  <div class="text"><h4 id="artillery-service">
-  Artillery Service
-  <a class="anchor" href="#artillery-service">#</a>
+  <div class="text"><h4 id="field-artillery-service">
+  Field Artillery Service
+  <a class="anchor" href="#field-artillery-service">#</a>
 </h4>
 <details >
-  <summary>Artillery Service Structure</summary>
+  <summary>Field Artillery Service Structure</summary>
   <div class="markdown-inner">
-    <h5 id="artillery">
-  Artillery
-  <a class="anchor" href="#artillery">#</a>
+    <h5 id="field-artillery">
+  Field Artillery
+  <a class="anchor" href="#field-artillery">#</a>
 </h5>
 <ul>
 <li>1st-5th Cannons Regiments</li>
