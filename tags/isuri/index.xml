@@ -14,10 +14,37 @@
 	<description>Recent content in isuri </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 03 Oct 2023 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jan 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/isuri/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Grocery Robot</title>
+	  <link>https://millmint.net/stories/grocery-robot/</link>
+	  <pubDate>Fri, 05 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/grocery-robot/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora isn&rsquo;t on speaking terms with the Big Man upstairs, but she loves Maria. Robots are used to subsidise rather than multiply productivity in Vekllei.
+This stock bot was built for United Grocers by National Machines to do the busywork of shelf-stocking. Now the grocer girls just sit outside the shop and chat.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/robot.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Tzipora isn&rsquo;t on speaking terms with the Big Man upstairs, but she loves Maria.</div>
+</blockquote>
+
+<p>Robots are used to subsidise rather than multiply productivity in Vekllei.</p>
+<p>This stock bot was built for <a style="color: rgb(98, 186, 85)" href="/united-grocers/"><span class="fi fi-min-united-grocers fis"></span> United Grocers</a> by <a style="color: rgb(224, 40, 35)" href="/national-machines/"><span class="fi fi-min-national-machines fis"></span> National Machines</a> to do the busywork of shelf-stocking. Now the grocer girls just sit outside the shop and chat.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Grocer Girls</title>
 	  <link>https://millmint.net/stories/grocer-girls/</link>
