@@ -18,31 +18,6 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Commonwealth Council</title>
-	  <link>https://millmint.net/factbook/society/state/council/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/factbook/society/state/council/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[߷ Part of the state series of articles The Commonwealth Council is the supreme executive of the Vekllei Commonwealth. It consists of the Directory, an assembly of prime ministers from Commonwealth Constituents, and the Cabinet, which is an advisory body of experts and notable persons from politics, the arts, science and industry.]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
-  <div class="icon">
-</div> 
-  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
-</blockquote>
-
-<p>The <strong>Commonwealth Council</strong> is the supreme executive of the Vekllei Commonwealth. It consists of the Directory, an assembly of prime ministers from Commonwealth <a href="/constituents/">Constituents</a>, and the Cabinet, which is an advisory body of experts and notable persons from politics, the arts, science and industry.</p>
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>Community of Oceans</title>
 	  <link>https://millmint.net/factbook/society/state/oceans-community/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -141,8 +116,8 @@ Consosva is a legal obligation to register an occupation with your municipality,
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the state series of articles A Constituent of Vekllei is an autonomous republic within the confederated commonwealth. It is distinguished from territories, dependencies and autonomous regions by having a National Assembly, which supplies Sorda to the Commonwealth Council.
-Constituents # Antilles Commonwealth # The Antilles Commonwealth consists of three republics in the Leeward Antilles, located north of Venezuala. It gained full membership in the Commonwealth in 2024.]]>
+	  <![CDATA[߷ Part of the state series of articles A constituent (also constituent commonwealth) is a type regional government in Vekllei that exercises control over multiple republics. It is an intermediate administrative body with special privileges and responsibilities.
+Constituent commonwealths have their own suite of ministries and a National Assembly, and exercise power comparable to a state in other federal countries. In practice, they are represent common regional interests of individual republics in the Commonwealth government.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
@@ -151,67 +126,8 @@ Constituents # Antilles Commonwealth # The Antilles Commonwealth consists of thr
   <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
 </blockquote>
 
-<p>A <strong>Constituent</strong> of Vekllei is an autonomous republic within the confederated commonwealth. It is distinguished from <a href="/territories/">territories, dependencies and autonomous regions</a> by having a <a href="/assembly/">National Assembly</a>, which supplies <a href="/sorda/">Sorda</a> to the <a href="/council/">Commonwealth Council</a>.</p>
-<h2 id="constituents">
-  Constituents
-  <a class="anchor" href="#constituents">#</a>
-</h2>
-<h3 id="antilles-commonwealth">
-  Antilles Commonwealth
-  <a class="anchor" href="#antilles-commonwealth">#</a>
-</h3>
-<p>The Antilles Commonwealth consists of three republics in the Leeward Antilles, located north of Venezuala. It gained full membership in the Commonwealth in 2024. It includes the following republics:</p>
-<ul>
-<li>Aruba Republic (<em>Aruba</em>)</li>
-<li>Bonaire Republic (<em>Bonaire</em>)</li>
-<li>Curaçao Republic (<em>Curaçao</em>)</li>
-</ul>
-<h3 id="azores-commonwealth-azores">
-  Azores Commonwealth (Azores)
-  <a class="anchor" href="#azores-commonwealth-azores">#</a>
-</h3>
-<p>The Azores Commonwealth consists of many islands in the East Atlantic Ocean. It inherited Commonwealth membership upon Vekllei independence in 2015, which was formalised in 2017.</p>
-<h3 id="kala-commonwealth-greenland">
-  Kala Commonwealth (Greenland)
-  <a class="anchor" href="#kala-commonwealth-greenland">#</a>
-</h3>
-<p>Kala is the largest Commonwealth by land area, and inherited membership in 2017.</p>
-<h3 id="kalina-commonwealth">
-  Kalina Commonwealth
-  <a class="anchor" href="#kalina-commonwealth">#</a>
-</h3>
-<p>The Kalina Commonwealth consists of most of the islands in the Lesser Antilles. It also administrated the most republics of any Constituent. It gained Commonwealth membership in 2022. It consists of the following republics:</p>
-<ul>
-<li>Angua Republic (<em>Anguilla</em>)</li>
-<li>Antam Republic (<em>Antigua</em>)</li>
-<li>Barbuda Republic (<em>Barbuda</em>)</li>
-<li>Liamuiga Republic (<em>Saint Kitts</em>)</li>
-<li>Martin Republic (<em>Saint Martin</em>)</li>
-<li>Montesur Republic (<em>Montserrat</em>)</li>
-<li>Oualie Republic (<em>Nevis</em>)</li>
-<li>Saba Republic (<em>Saba</em>)</li>
-<li>Kairi Republic (<em>Trinidad &amp; Tobago</em>)</li>
-</ul>
-<h3 id="bahamas-commonwealth-bahamas">
-  Bahamas Commonwealth (Bahamas)
-  <a class="anchor" href="#bahamas-commonwealth-bahamas">#</a>
-</h3>
-<p>The Bahamas Commonwealth formed part of the former British Atlantic Territories, and as such inherited Commonwealth membership via referendum in 2017.</p>
-<h3 id="mira-commonwealth-madeira">
-  Mira Commonwealth (Madeira)
-  <a class="anchor" href="#mira-commonwealth-madeira">#</a>
-</h3>
-<p>The Mira Commonwealth includes the islands of Madeira, Port Santo, Desertas and the Savage Islands, and gain membership in 2030.</p>
-<h3 id="oslola-commonwealth-iceland">
-  Oslola Commonwealth (Iceland)
-  <a class="anchor" href="#oslola-commonwealth-iceland">#</a>
-</h3>
-<p>The Oslolan Commonwealth was part of the original British Atlantic Territories dominion from which the present Commonwealth is descended. It inherited membership in 2017.</p>
-<h3 id="verde-commonwealth-cabo-verde">
-  Verde Commonwealth (Cabo Verde)
-  <a class="anchor" href="#verde-commonwealth-cabo-verde">#</a>
-</h3>
-<p>Cabo Verde, or the Verde Commonwealth is the most recent Constituent of the Commonwealth, gaining membership in 2038. It consists of the former Portuguese archipelago located off the westernmost point of Africa.</p>
+<p>A <strong>constituent</strong> (also <em>constituent commonwealth</em>) is a type regional government in <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> that exercises control over multiple <a href="/republics/">republics</a>. It is an intermediate administrative body with special privileges and responsibilities.</p>
+<p>Constituent commonwealths have their own suite of <a href="/ministries/">ministries</a> and a <a style="color: var(--color-purple)" href="/assembly/"><span class="fi fi-min-vekllei-purple fis"></span> National Assembly</a>, and exercise power comparable to a state in other federal countries. In practice, they are represent common regional interests of individual <a href="/republics">republics</a> in the <a href="/government/">Commonwealth government</a>.</p>
 <h2 id="public-policy">
   Public Policy
   <a class="anchor" href="#public-policy">#</a>
@@ -322,17 +238,17 @@ to bring peace to Commonwealth realms twice destroyed in the pursuit of war, and
 </h3>
 <ol>
 <li>
-<p>The principle of government is a federal Directory of elected peers called the <a href="/directory/">Commonwealth Directorate</a>, representing the disparate communities that make up the unitary Commonwealth.</p>
+<p>The principle of government is a federal Directory of elected peers called the <a style="color: var(--color-millmint)" href="/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a>, representing the disparate communities that make up the unitary Commonwealth.</p>
 <ol>
 <li>The Directory consists of representatives of each <a href="/constituents/">Constituent</a> as free republics, and <a href="/territories/">dependent or autonomous territories</a>.</li>
 <li>Other territories retain permanent status in the Directory and may table motions with agreement of a Constituent.</li>
 </ol>
 </li>
 <li>
-<p>The Commonwealth Directorate is advised by a Cabinet of peers to provide opinion and expertise, called the <a href="/cabinet/">Commonwealth Cabinet</a>.</p>
+<p>The Commonwealth Directorate is advised by a Cabinet of peers to provide opinion and expertise, called the <a style="color: var(--color-millmint)" href="/cabinet/"><span class="fi fi-min-vekllei fis"></span> Cabinet</a>.</p>
 </li>
 <li>
-<p>The Commonwealth Directorate and Cabinet combined form the <a href="/council/">Commonwealth Council</a>, which is the supreme executive of the Commonwealth.</p>
+<p>The Commonwealth Directorate and Cabinet combined form the <a style="color: var(--color-millmint)" href="/council/"><span class="fi fi-min-council fis"></span> Council</a>, which is the supreme executive of the Commonwealth.</p>
 </li>
 <li>
 <p>The Commonwealth is a State under the rule of law, committed to fundamental freedoms and rights.</p>
@@ -2778,7 +2694,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the state series of articles A Republic (Vekllei: Polis) is type of city-state that make up the country of Vekllei. They consist of island city-states known as Polisa which together form a Constituent Commonwealth. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.
+	  <![CDATA[߷ Part of the state series of articles A Republic (Vekllei: Polis) is type of city-state that make up the country of Vekllei. They consist of island city-states known as Polisa which together form a constituent commonwealth. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.
 Diagram of the a Polis administration and its structure There are a few criteria separating Polisa from regular city councils.]]>
 	  </description>
 	 <content:encoded>
@@ -2788,7 +2704,7 @@ Diagram of the a Polis administration and its structure There are a few criteria
   <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
 </blockquote>
 
-<p>A <strong>Republic</strong> (Vekllei: <em>Polis</em>) is type of city-state that make up the country of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. They consist of island city-states known as <em>Polisa</em> which together form a <a href="/constituents/">Constituent Commonwealth</a>. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.</p>
+<p>A <strong>Republic</strong> (Vekllei: <em>Polis</em>) is type of city-state that make up the country of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. They consist of island city-states known as <em>Polisa</em> which together form a <a href="/constituents/">constituent commonwealth</a>. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.</p>
 <p>
 
 
@@ -2940,7 +2856,7 @@ Diagram of the a Polis administration and its structure There are a few criteria
 	  </author>
 	  <description>
 	  <![CDATA[߷ Part of the state series of articles Territories, dependencies and autonomous regions are administrative areas of the Commonwealth that are not considered Constituent members. This is usually because they lack a large permanent population able to form its own Assembly, or otherwise form part of a special administrative territory that has been federalised.
-As non-constituents, they are unable to form Sords and have permanent observer status in the Commownealth Council.]]>
+As non-constituents, they are unable to form Sords and have permanent observer status in the Council.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
@@ -2950,7 +2866,7 @@ As non-constituents, they are unable to form Sords and have permanent observer s
 </blockquote>
 
 <p>Territories, dependencies and autonomous regions are administrative areas of the Commonwealth that are not considered <a href="/constituents/">Constituent</a> members. This is usually because they lack a large permanent population able to form its own <a href="/assembly/">Assembly</a>, or otherwise form part of a special administrative territory that has been federalised.</p>
-<p>As non-constituents, they are unable to form Sords and have permanent observer status in the <a href="/council/">Commownealth Council</a>. These territories include:</p>
+<p>As non-constituents, they are unable to form Sords and have permanent observer status in the <a style="color: var(--color-millmint)" href="/council/"><span class="fi fi-min-council fis"></span> Council</a>. These territories include:</p>
 <p><strong>Vekllei Federal Territories</strong></p>
 <ul>
 <li>Vekllei Antarctic Territories</li>

@@ -18,7 +18,39 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/parliaments/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Culture Council</title>
+	  <title>Community Council</title>
+	  <link>https://millmint.net/factbook/society/state/government/parliaments/community/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/parliaments/community/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ߷ This parliament is part of Vekllei. Overview # LABSEC ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This <em><a href="/parliaments/">parliament</a></em> is part of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</div>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<b class="boxtag teal">
+  LABSEC
+</b>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Culture Parliament</title>
 	  <link>https://millmint.net/factbook/society/state/government/parliaments/culture/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -28,14 +60,14 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the state series of articles Overview # COLSEC The Commonwealth Culture Secretariat (COLSEC) is concerned primarily with &lsquo;cultural values and beliefs&rsquo; of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
+	  <![CDATA[߷ This parliament is part of Vekllei. Overview # COLSEC The Commonwealth Culture Secretariat (COLSEC) is concerned primarily with &lsquo;cultural values and beliefs&rsquo; of the Commonwealth, their protection, and foreign relations. Its subordinate offices are dedicated to key areas of concern designed to assist its smaller member-states which may lack the political infrastructure to maintain their own offices.
 Commonwealth Central Archives # The COLSEC Commonwealth Affairs Office (COLSA) is responsible for the documentation of the general disposition, welfare, culture and demography of the people of the Commonwealth.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+  <div class="text">߷ This <em><a href="/parliaments/">parliament</a></em> is part of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</div>
 </blockquote>
 
 <h2 id="overview">
@@ -142,6 +174,41 @@ Commonwealth Central Archives # The COLSEC Commonwealth Affairs Office (COLSA) i
 	</item>
 	
 	<item>
+	  <title>Democracy Council</title>
+	  <link>https://millmint.net/factbook/society/state/government/parliaments/democracy/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/parliaments/democracy/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ߷ This parliament is part of Vekllei. Overview # CONSEC The Commonwealth Democracy Council is a secretariat of national administration, and a forum of Polises throughout the country. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This <em><a href="/parliaments/">parliament</a></em> is part of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</div>
+</blockquote>
+
+<div class="section ">
+  <h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<b class="boxtag teal">
+  CONSEC
+</b>
+<p>The Commonwealth Democracy Council is a secretariat of national administration, and a forum of <a href="/polis/">Polises</a> throughout the country.
+</div>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Education Parliament</title>
 	  <link>https://millmint.net/factbook/society/state/government/parliaments/education/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -152,14 +219,14 @@ Commonwealth Central Archives # The COLSEC Commonwealth Affairs Office (COLSA) i
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the state series of articles Overview # CHICOM The Commonwealth Education Secretariat (SOLSEC) is the commonwealth body responsible for all education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the COSMOCOM Accreditation Directorate, CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children&rsquo;s and Tertiary Press.
+	  <![CDATA[߷ This parliament is part of Vekllei. Overview # CHICOM The Commonwealth Education Secretariat (SOLSEC) is the commonwealth body responsible for all education across the Commonwealth, including compulsory primary, vocational and tertiary schooling. Alongside the COSMOCOM Accreditation Directorate, CHICOM certifies teachers and the Commonwealth curriculum, and publishes textbooks and learning materials via the Children&rsquo;s and Tertiary Press.
 The stated mission of CHICOM is the democratisation and celebration of knowledge and the development of technical skills.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+  <div class="text">߷ This <em><a href="/parliaments/">parliament</a></em> is part of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</div>
 </blockquote>
 
 <h2 id="overview">
@@ -298,14 +365,14 @@ The stated mission of CHICOM is the democratisation and celebration of knowledge
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the state series of articles Overview # HELSEC ❀ Read more: ⚕️ Healthcare in Vekllei The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the Commonwealth Directory. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.
+	  <![CDATA[߷ This parliament is part of Vekllei. Overview # HELSEC ❀ Read more: ⚕️ Healthcare in Vekllei The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the Cabinet. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.
 The system is highly centralised, with rigid care and administrative standards that are applied across all levels of public health.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+  <div class="text">߷ This <em><a href="/parliaments/">parliament</a></em> is part of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</div>
 </blockquote>
 
 <h2 id="overview">
@@ -322,7 +389,7 @@ The system is highly centralised, with rigid care and administrative standards t
   <div class="text">❀ Read more: <span class="smallicon">⚕️</span> <em><a href="/health/">Healthcare in Vekllei</a></em></div>
 </blockquote>
 
-<p>The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the <a href="/directory/">Commonwealth Directory</a>. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.</p>
+<p>The Commonwealth Health Parliament is a secretariat of the Vekllei Commonwealth Government. It is lead by a First Secretary, who reports directly to the <a style="color: var(--color-millmint)" href="/cabinet/"><span class="fi fi-min-vekllei fis"></span> Cabinet</a>. In general, the Health Parliament legislates, finances and administers healthcare in Vekllei, particularly its comprehensive and universal public healthcare scheme.</p>
 <p>The system is highly centralised, with rigid care and administrative standards that are applied across all levels of public health. Innovations in healthcare, including a digital nationwide patient database, help efficiency and ease the burden of care on ward staff. Vekllei public health is recognised as a quality and equitable system, with good outcomes for patients in its care. Its accessibility and universality of care contribute greatly to standards of health and quality of life in Commonwealth society.</p>
 <blockquote class="hint panel">
   <div class="icon">
@@ -556,7 +623,7 @@ The system is highly centralised, with rigid care and administrative standards t
 	</item>
 	
 	<item>
-	  <title>Security Council</title>
+	  <title>Security Parliament</title>
 	  <link>https://millmint.net/factbook/society/state/government/parliaments/security/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -566,14 +633,14 @@ The system is highly centralised, with rigid care and administrative standards t
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the state series of articles Overview # OPSEC The Commonwealth Security Secretariat (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the Commonwealth Directory.
+	  <![CDATA[߷ This parliament is part of Vekllei. Overview # OPSEC The Commonwealth Security Secretariat (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the Directory.
 Commonwealth Military Command # The Commonwealth Military Command (CMC) is the unifying command organisation for the Crown Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
-  <div class="text">߷ Part of the <em><a href="/state/">state</a></em> series of articles</div>
+  <div class="text">߷ This <em><a href="/parliaments/">parliament</a></em> is part of <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</div>
 </blockquote>
 
 <h2 id="overview">
@@ -584,7 +651,7 @@ Commonwealth Military Command # The Commonwealth Military Command (CMC) is the u
   OPSEC
 </b>
 
-<p>The <em>Commonwealth Security Secretariat</em> (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the <a href="/directory/">Commonwealth Directory</a>.</p>
+<p>The <em>Commonwealth Security Secretariat</em> (OPSEC) is the mother organisation of the internal and external security organs of the Commonwealth government. Its mission includes intelligence gathering, espionage, special policing, and state security. It is headed by the Secretary of Security, and reports directly to the <a style="color: var(--color-millmint)" href="/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a>.</p>
 <blockquote class="hint panel">
   <div class="icon">
 </div> 
