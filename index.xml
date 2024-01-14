@@ -15751,7 +15751,7 @@ Atlantic&rsquo;s flagship store is in Lonne, Oslola, but has expanded in the pos
   <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
 </blockquote>
 
-<blockquote class="hint ">
+<blockquote class="hint link">
   <div class="icon">
 </div> 
   <div class="text">✿ Read more: <em><a href="/stories/department/">Department Commerce</a></em></div>
@@ -16988,13 +16988,88 @@ Departments # Department of General Research: Flexible, reactive policy and long
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons. ]]>
+	  <![CDATA[߷ This bureau is part of the Ministry of the Commons. The Bureau of Rail maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across Vekllei republics, it is among the largest of the transport bureaus.
+In addition to rail planning, safety and regulation, the bureau also controls National Rail as an independent commission, for which it fulfils a general executive and advisory role.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
   <div class="icon">
 </div> 
   <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
+</blockquote>
+
+<p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Rail</strong> maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> <a href="/republics">republics</a>, it is among the largest of the transport bureaus.</p>
+<p>In addition to rail planning, safety and regulation, the bureau also controls <a style="color: rgb(255, 86, 79)" href="/rail/"><span class="fi fi-min-rail fis"></span> National Rail</a> as an independent commission, for which it fulfils a general executive and advisory role.</p>
+<p>Including VNR, the Bureau of Rail is consequently one of the largest rail transport organisations in the world, rivalling much larger countries with the density and ubiquity of Vekllei track. Almost every Vekllei republic maintains some kind of rail service, ranging from miniature trams and industrial sidings to bullet trains and maglevs.</p>
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><h2 id="executive-council">
+  Executive Council
+  <a class="anchor" href="#executive-council">#</a>
+</h2>
+<ul>
+<li><strong>Director</strong>, <a style="color: var(--color-cosmotran)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a>
+<ul>
+<li>Chief Architect</li>
+<li>Chief Engineer</li>
+<li>Secretary for Rail Service</li>
+</ul>
+</li>
+<li><strong>Minister</strong>, <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></li>
+<li><strong>Chairman</strong>, <a style="color: rgb(255, 86, 79)" href="/commonwealth-transport-commission/"><span class="fi fi-min-transport-commission fis"></span> Commonwealth Transport Commission</a>
+<ul>
+<li>Secretary for Interservice Operations</li>
+<li>Secretary for Metropolitan Transport</li>
+</ul>
+</li>
+<li><strong>Chief Scientist</strong>, <a style="color: rgb(234, 29, 46)" href="/commonwealth-transport-laboratories/"><span class="fi fi-min-transport-labs fis"></span> Commonwealth Transport Laboratories</a></li>
+</ul>
+</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><h2 id="departments">
+  Departments
+  <a class="anchor" href="#departments">#</a>
+</h2>
+<ul>
+<li><strong>General Council</strong>: Advisory board to the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</li>
+<li><strong>Department of Infrastructure</strong>
+<ul>
+<li>Office of Track</li>
+<li>Office of Signals and Telecommunications</li>
+<li>Office of Automatic Service</li>
+</ul>
+</li>
+<li><strong>Department of Traction &amp; Rolling Stock</strong>
+<ul>
+<li>Office of Engineering</li>
+</ul>
+</li>
+<li><strong>Department of Service &amp; Operations</strong>
+<ul>
+<li>Office of Rail Heritage</li>
+</ul>
+</li>
+</ul>
+</div>
+</blockquote>
+
+<blockquote class="hint panel">
+  <div class="icon">
+</div> 
+  <div class="text"><h4 id="boards--commissions">
+  Boards &amp; Commissions
+  <a class="anchor" href="#boards--commissions">#</a>
+</h4>
+<ul>
+<li><strong><a style="color: rgb(255, 86, 79)" href="/rail/"><span class="fi fi-min-rail fis"></span> National Rail</a></strong>: National rail company and service operator.</li>
+<li><strong>Passenger Amenities Committee</strong>: Advisory board for passenger comfort and satisfaction.</li>
+</ul>
+</div>
 </blockquote>
 
 ]]>
@@ -18161,10 +18236,10 @@ Membership in the senate is proportional to the number of constituent commonweal
 	
 	<item>
 	  <title>Commonwealth Space Research Directorate</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-space-research-directorate/</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/space-research-directorate/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-space-research-directorate/</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/space-research-directorate/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -18180,30 +18255,6 @@ Membership in the senate is proportional to the number of constituent commonweal
 </blockquote>
 
 <p>CSRD</p>
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Commonwealth Transport Laboratories</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-transport-laboratories/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/commonwealth-transport-laboratories/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[ ߷ This laboratory is part of the Ministry of the Commons. ]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
-  <div class="icon">
-</div> 
-  <div class="text">߷ This laboratory is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
-</blockquote>
-
 ]]>
   	</content:encoded>
 	</item>
@@ -26772,6 +26823,54 @@ Upen is being practiced 500BC Beginning of Oslolan Common Period 200 Beginning o
 		</li>
 	</section>
 </ol>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Transport Commission</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/transport-commission/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/transport-commission/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ߷ This commission is part of the Ministry of the Commons. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This commission is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Transport Laboratories</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/transport-laboratories/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/transport-laboratories/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ߷ This laboratory is part of the Ministry of the Commons. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This laboratory is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</div>
+</blockquote>
+
 ]]>
   	</content:encoded>
 	</item>
