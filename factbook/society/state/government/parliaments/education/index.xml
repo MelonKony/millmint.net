@@ -17,5 +17,77 @@
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/parliaments/education/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Bureau of Public Education</title>
+	  <link>https://millmint.net/factbook/society/state/government/parliaments/education/bureau-of-public-education/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/parliaments/education/bureau-of-public-education/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ This bureau is part of the Parliament of Education The Bureau of Public Education oversees all compulsory education across the Commonwealth, including both government and vocational schools.
+Vekllei Primary Education Directorate # Vekllei Higher Education Directorate # All-Commonwealth School Directorate # The All-Commonwealth School Directorate (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This bureau is part of the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a></div>
+</blockquote>
+
+<p>The <span class="fi fi-min-education fis"></span> <strong>Bureau of Public Education</strong> oversees all compulsory education across the Commonwealth, including both government and vocational schools.</p>
+<h4 id="vekllei-primary-education-directorate">
+  Vekllei Primary Education Directorate
+  <a class="anchor" href="#vekllei-primary-education-directorate">#</a>
+</h4>
+<h4 id="vekllei-higher-education-directorate">
+  Vekllei Higher Education Directorate
+  <a class="anchor" href="#vekllei-higher-education-directorate">#</a>
+</h4>
+<h4 id="all-commonwealth-school-directorate">
+  All-Commonwealth School Directorate
+  <a class="anchor" href="#all-commonwealth-school-directorate">#</a>
+</h4>
+<p>The <em>All-Commonwealth School Directorate</em> (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.</p>
+<h4 id="common-childrens-press">
+  Common Children&rsquo;s Press
+  <a class="anchor" href="#common-childrens-press">#</a>
+</h4>
+<h4 id="common-tertiary-press">
+  Common Tertiary Press
+  <a class="anchor" href="#common-tertiary-press">#</a>
+</h4>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Commonwealth Laboratories</title>
+	  <link>https://millmint.net/factbook/society/state/government/parliaments/education/commonwealth-laboratories/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/parliaments/education/commonwealth-laboratories/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ This laboratory is part of the Parliament of Education Commonwealth Laboratories (also National Labs) is the primary government research organisation in Vekllei. It operates out of two research complexes in Oslola and Kalina.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="hint ">
+  <div class="icon">
+</div> 
+  <div class="text">߷ This laboratory is part of the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a></div>
+</blockquote>
+
+<p><span class="fi fi-min-commonwealth-labs fis"></span> <strong>Commonwealth Laboratories</strong> (also <em>National Labs</em>) is the primary government research organisation in <a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It operates out of two research complexes in <a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and Kalina.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>
