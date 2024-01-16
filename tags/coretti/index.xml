@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/coretti/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>A Vekllei Student</title>
+	  <link>https://millmint.net/stories/vekllei-student/</link>
+	  <pubDate>Mon, 15 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/vekllei-student/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Just a sketch that took too long, but I like her sneakers. I find the idea of government sneakers with little flags on them really funny. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.nethttps://images.millmint.net/fullres/student.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Just a sketch that took too long, but I like her sneakers. I find the idea of government sneakers with little flags on them really funny.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>High-Speed Rail</title>
 	  <link>https://millmint.net/stories/high-speed-rail/</link>
 	  <pubDate>Wed, 03 Jan 2024 08:00:00 EST</pubDate>
