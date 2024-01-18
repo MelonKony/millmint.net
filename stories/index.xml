@@ -18,6 +18,54 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Tree Fern</title>
+	  <link>https://millmint.net/stories/fern/</link>
+	  <pubDate>Wed, 17 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/fern/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ In Tzipora&rsquo;s yard there are tree ferns twice her size. Oslola is an island of temperate, mossy rainforests. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.nethttps://images.millmint.net/fullres/fern.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">In Tzipora&rsquo;s yard there are tree ferns twice her size. Oslola is an island of temperate, mossy rainforests.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Sorbet</title>
+	  <link>https://millmint.net/stories/sorbet/</link>
+	  <pubDate>Tue, 16 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/sorbet/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Come on, man. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.nethttps://images.millmint.net/fullres/sorbet.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Come on, man.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>A Vekllei Student</title>
 	  <link>https://millmint.net/stories/vekllei-student/</link>
 	  <pubDate>Mon, 15 Jan 2024 08:00:00 EST</pubDate>
