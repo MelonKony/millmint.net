@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>laura</title>
+	<link>https://millmint.net/tags/laura/</link>
+	<description>Recent content in laura </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<lastBuildDate>Fri, 19 Jan 2024 08:00:00 EST</lastBuildDate>
+	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/laura/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Inspectors</title>
+	  <link>https://millmint.net/stories/inspectors/</link>
+	  <pubDate>Fri, 19 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/inspectors/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University. Astrid and Laura are junior inspectors for the Bureau of Housing, which fields concerns from homeowners in municipalised homes.
+In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.nethttps://images.millmint.net/fullres/inspectors.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.</div>
+</blockquote>
+
+<p>Astrid and Laura are junior inspectors for the <a style="color: var(--color-cosmotran)" href="/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a>, which fields concerns from homeowners in municipalised homes.</p>
+<p>In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.</p>
+<p>Inspectors like these assist courts by reporting the condition and stewardship of land, since stewardship (i.e. use, improvement and care of land) is often a determining factor of ownership.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

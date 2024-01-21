@@ -18,6 +18,61 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Grunt</title>
+	  <link>https://millmint.net/stories/grunt/</link>
+	  <pubDate>Sat, 20 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/grunt/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[This guy is from Demon (what they call Jan Mayen), and he&rsquo;s a long way from home. Sketch of summer fatigues of the Territorial Service, wearing iconic coffee colours.
+They have uniforms for all climates from the tropics to the polar regions, but most of their fighting is in Africa and the Caribbean these days, so the summer kit is most common.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.nethttps://images.millmint.net/fullres/grunt.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">This guy is from <a style="color: rgb(87, 92, 111)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (what they call Jan Mayen), and he&rsquo;s a long way from home.</div>
+</blockquote>
+
+<p>Sketch of summer fatigues of the Territorial Service, wearing iconic coffee colours.</p>
+<p>They have uniforms for all climates from the tropics to the polar regions, but most of their fighting is in Africa and the Caribbean these days, so the summer kit is most common.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Inspectors</title>
+	  <link>https://millmint.net/stories/inspectors/</link>
+	  <pubDate>Fri, 19 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/inspectors/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University. Astrid and Laura are junior inspectors for the Bureau of Housing, which fields concerns from homeowners in municipalised homes.
+In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.nethttps://images.millmint.net/fullres/inspectors.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.</div>
+</blockquote>
+
+<p>Astrid and Laura are junior inspectors for the <a style="color: var(--color-cosmotran)" href="/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a>, which fields concerns from homeowners in municipalised homes.</p>
+<p>In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.</p>
+<p>Inspectors like these assist courts by reporting the condition and stewardship of land, since stewardship (i.e. use, improvement and care of land) is often a determining factor of ownership.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Police of the Parliament</title>
 	  <link>https://millmint.net/stories/parliament-police/</link>
 	  <pubDate>Thu, 18 Jan 2024 08:00:00 EST</pubDate>
