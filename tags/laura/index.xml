@@ -14,10 +14,37 @@
 	<description>Recent content in laura </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Fri, 19 Jan 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jan 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/laura/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Company Car</title>
+	  <link>https://millmint.net/stories/company-car/</link>
+	  <pubDate>Tue, 23 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/company-car/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Laura drives an Avro GTV for work. Less than 10% of Vekllei people have drivers licenses. The only good thing about working for the Bureau of Housing, as far as Laura is concerned, is that she gets a company car.
+Because government cars are made to the same standard as police cruisers, they&rsquo;re actually really sporty little things beneath their plain exterior.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/housing.jpg"/> <blockquote class="hint caption">
+  <div class="icon">
+</div> 
+  <div class="text">Laura drives an Avro GTV for work. Less than 10% of Vekllei people have drivers licenses.</div>
+</blockquote>
+
+<p>The only good thing about working for the <a style="color: var(--color-cosmotran)" href="/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a>, as far as Laura is concerned, is that she gets a company car.</p>
+<p>Because government cars are made to the same standard as police cruisers, they&rsquo;re actually really sporty little things beneath their plain exterior.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Inspectors</title>
 	  <link>https://millmint.net/stories/inspectors/</link>
