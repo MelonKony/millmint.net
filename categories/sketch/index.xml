@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Cable Car</title>
+	  <link>https://millmint.net/stories/cable-car/</link>
+	  <pubDate>Wed, 31 Jan 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/cable-car/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ If Tzipora was a cable car. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/cablecar.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">If Tzipora was a cable car.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>High-Speed Rail</title>
 	  <link>https://millmint.net/stories/high-speed-rail/</link>
 	  <pubDate>Wed, 03 Jan 2024 08:00:00 EST</pubDate>
