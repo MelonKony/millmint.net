@@ -5,7 +5,9 @@ icon: 💫
 emoji: a
 color: blue
 
-tags: 
+draft: false
+
+tags:
   - comic
 categories:
   - story
@@ -14,5 +16,3 @@ categories:
 {{<note>}}
 ✿ ***Atomic Moderne*** **is coming soon**. This page is a placeholder for where it will eventually arrive.
 {{</note>}}
-
-{{< button relref="/comic/draft.md" >}}2021 Draft{{< /button >}}

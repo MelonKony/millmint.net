@@ -18,6 +18,60 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>The Greek</title>
+	  <link>https://millmint.net/stories/greek/</link>
+	  <pubDate>Mon, 19 Feb 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/greek/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora was previously learning about the Romans. Tzipora is learning about the Greeks now.
+She&rsquo;s disillusioned with Roman mythology, so she&rsquo;s going to the source. She learns about the Greeks from library terminals after school, so she can share the best facts over dinner.
+Vekllei actually borrows a lot from Greek myths and iconography, because it is a deeply multicultural society that tries not to favour any single group.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/greek.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora was <a href="/stories/library-terminal/">previously learning about the Romans</a>.</div>
+</blockquote>
+
+<p>Tzipora is learning about the Greeks now.</p>
+<p>She&rsquo;s disillusioned with Roman mythology, so she&rsquo;s going to the source. She learns about the Greeks from library terminals after school, so she can share the best facts over dinner.</p>
+<p><a style="color: var(--color-millmint)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> actually borrows a lot from Greek myths and iconography, because it is a deeply multicultural society that tries not to favour any single group.</p>
+<p>Consequently, at a national level they employ a lot of abstract and placeless civic culture, including their <a href="/stories/national-dress/">national dress</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>A Nice Moment</title>
+	  <link>https://millmint.net/stories/sneeze/</link>
+	  <pubDate>Tue, 13 Feb 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/sneeze/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A sneeze is like a long-distance kiss. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/sneeze.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">A sneeze is like a long-distance kiss.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Cable Car</title>
 	  <link>https://millmint.net/stories/cable-car/</link>
 	  <pubDate>Wed, 31 Jan 2024 08:00:00 EST</pubDate>
@@ -1519,10 +1573,10 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 	
 	<item>
 	  <title>Jump Comic</title>
-	  <link>https://millmint.net/stories/jump/</link>
+	  <link>https://millmint.net/stories/jump-comic/</link>
 	  <pubDate>Wed, 26 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jump/</guid>
+	  <guid>https://millmint.net/stories/jump-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

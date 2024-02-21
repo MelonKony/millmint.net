@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>A Nice Moment</title>
+	  <link>https://millmint.net/stories/sneeze/</link>
+	  <pubDate>Tue, 13 Feb 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/sneeze/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A sneeze is like a long-distance kiss. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/sneeze.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">A sneeze is like a long-distance kiss.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Friends</title>
 	  <link>https://millmint.net/stories/friends-photo/</link>
 	  <pubDate>Mon, 22 Jan 2024 08:00:00 EST</pubDate>
@@ -355,10 +379,10 @@ Cobian is a ward nurse at Seispri Hospital in the nuclear medicine wing.]]>
 	
 	<item>
 	  <title>Jump Comic</title>
-	  <link>https://millmint.net/stories/jump/</link>
+	  <link>https://millmint.net/stories/jump-comic/</link>
 	  <pubDate>Wed, 26 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jump/</guid>
+	  <guid>https://millmint.net/stories/jump-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
