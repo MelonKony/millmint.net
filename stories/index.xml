@@ -18,6 +18,95 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>The Fountain</title>
+	  <link>https://millmint.net/stories/the-fountain/</link>
+	  <pubDate>Sun, 03 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/the-fountain/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Locked in a broom closet before class, Tzipora thinks to herself: &lsquo;I could have made that jump.&rsquo; ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/fountain.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Locked in a broom closet before class, Tzipora thinks to herself: &lsquo;I could have made that jump.&rsquo;</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Algic Fashion</title>
+	  <link>https://millmint.net/stories/algic-fashion/</link>
+	  <pubDate>Thu, 29 Feb 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/algic-fashion/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[On the way home from work. This is an &lsquo;Algic&rsquo; woman, what Vekllei people call the arctic Inuits that make up much of the population of Oslola and Kala.
+Traditional jewellery is in vogue across the country, used to contrast their otherwise democratic, international styles.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/algic-fashion.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">On the way home from work.</div>
+</blockquote>
+
+<p>This is an &lsquo;Algic&rsquo; woman, what Vekllei people call the arctic Inuits that make up much of the population of <a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and Kala.</p>
+<p>Traditional jewellery is in vogue across the country, used to contrast their otherwise democratic, international styles.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Volcanic Moderne</title>
+	  <link>https://millmint.net/stories/volcanic-moderne/</link>
+	  <pubDate>Mon, 26 Feb 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/volcanic-moderne/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora is meeting her friend for coffee before school. Cobian&rsquo;s house is a hundred years old, and built in the Volcanic Moderne style out of precast concrete bricks. It&rsquo;s much bigger and nicer than Tzipora&rsquo;s apartment.
+Note
+I wanted something modernist but appropriate to their climate which is tricky since modernists love flat roofs.
+It&rsquo;s actually similar to the prairie style done by Frank Lloyd Wright, in particular his mayan inspired homes]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/volcanic-moderne.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora is meeting her friend for coffee before school.</div>
+</blockquote>
+
+<p>Cobian&rsquo;s house is a hundred years old, and built in the <em>Volcanic Moderne</em> style out of precast concrete bricks. It&rsquo;s much bigger and nicer than <a href="/stories/apartment-diagram/">Tzipora&rsquo;s apartment</a>.</p>
+<blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text"><p><strong>Note</strong></p>
+<p>I wanted something modernist but appropriate to their climate which is tricky since modernists love flat roofs.</p>
+<p>It&rsquo;s actually similar to the prairie style done by Frank Lloyd Wright, in particular his mayan inspired homes</p>
+<p>I think that style works well in <a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> because it&rsquo;s very solid and monumental, which reflects their landscape well. There&rsquo;s a lot of details in masonry and murals etc too</p>
+</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The Greek</title>
 	  <link>https://millmint.net/stories/greek/</link>
 	  <pubDate>Mon, 19 Feb 2024 08:00:00 EST</pubDate>

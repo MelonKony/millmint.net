@@ -18,6 +18,44 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Volcanic Moderne</title>
+	  <link>https://millmint.net/stories/volcanic-moderne/</link>
+	  <pubDate>Mon, 26 Feb 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/volcanic-moderne/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora is meeting her friend for coffee before school. Cobian&rsquo;s house is a hundred years old, and built in the Volcanic Moderne style out of precast concrete bricks. It&rsquo;s much bigger and nicer than Tzipora&rsquo;s apartment.
+Note
+I wanted something modernist but appropriate to their climate which is tricky since modernists love flat roofs.
+It&rsquo;s actually similar to the prairie style done by Frank Lloyd Wright, in particular his mayan inspired homes]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/volcanic-moderne.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora is meeting her friend for coffee before school.</div>
+</blockquote>
+
+<p>Cobian&rsquo;s house is a hundred years old, and built in the <em>Volcanic Moderne</em> style out of precast concrete bricks. It&rsquo;s much bigger and nicer than <a href="/stories/apartment-diagram/">Tzipora&rsquo;s apartment</a>.</p>
+<blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text"><p><strong>Note</strong></p>
+<p>I wanted something modernist but appropriate to their climate which is tricky since modernists love flat roofs.</p>
+<p>It&rsquo;s actually similar to the prairie style done by Frank Lloyd Wright, in particular his mayan inspired homes</p>
+<p>I think that style works well in <a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> because it&rsquo;s very solid and monumental, which reflects their landscape well. There&rsquo;s a lot of details in masonry and murals etc too</p>
+</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>A Nice Moment</title>
 	  <link>https://millmint.net/stories/sneeze/</link>
 	  <pubDate>Tue, 13 Feb 2024 08:00:00 EST</pubDate>
