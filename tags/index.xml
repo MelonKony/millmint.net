@@ -1058,10 +1058,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[]]>
+	  <![CDATA[Hello]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
+	 	<![CDATA[<img src=""/> <p>Hello</p>
+]]>
   	</content:encoded>
 	</item>
 	
