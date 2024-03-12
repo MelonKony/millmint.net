@@ -18,6 +18,57 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Aurora</title>
+	  <link>https://millmint.net/stories/aurora/</link>
+	  <pubDate>Fri, 08 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/aurora/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[All Commonwealth equipment is marked &ldquo;NAVY&rdquo; thanks to a quirk of history. It&rsquo;s a shorthand for military, and doesn&rsquo;t necessarily imply maritime aviation. Originally designed as a jet trainer, the Military found the Aurora&rsquo;s glider-like manoeuvrability made it a great strafing jet.
+While advanced fighters are useful for peer adversaries, more combat is taking place in remote, asymmetric bush wars that need different kinds of weapons.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/aurora.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">All Commonwealth equipment is marked &ldquo;NAVY&rdquo; thanks to a quirk of history. It&rsquo;s a shorthand for military, and doesn&rsquo;t necessarily imply maritime aviation.</div>
+</blockquote>
+
+<p>Originally designed as a jet trainer, the <a style="color: var(--color-cosmokos)" href="/military/"><span class="fi fi-min-defence fis"></span> Military</a> found the Aurora&rsquo;s glider-like manoeuvrability made it a great strafing jet.</p>
+<p>While <a href="/stories/casemate/">advanced fighters</a> are useful for peer adversaries, more combat is taking place in remote, asymmetric bush wars that need different kinds of weapons.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Chief Inspector</title>
+	  <link>https://millmint.net/stories/patrol/</link>
+	  <pubDate>Tue, 05 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/patrol/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/patrol.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The Fountain</title>
 	  <link>https://millmint.net/stories/the-fountain/</link>
 	  <pubDate>Sun, 03 Mar 2024 08:00:00 EST</pubDate>
@@ -31,7 +82,7 @@
 	  <![CDATA[ Locked in a broom closet before class, Tzipora thinks to herself: &lsquo;I could have made that jump.&rsquo; ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/fountain.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/fountain.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Locked in a broom closet before class, Tzipora thinks to herself: &lsquo;I could have made that jump.&rsquo;</div>
@@ -56,7 +107,7 @@
 Traditional jewellery is in vogue across the country, used to contrast their otherwise democratic, international styles.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/algic-fashion.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/algic-fashion.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">On the way home from work.</div>
@@ -85,7 +136,7 @@ I wanted something modernist but appropriate to their climate which is tricky si
 It&rsquo;s actually similar to the prairie style done by Frank Lloyd Wright, in particular his mayan inspired homes]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/volcanic-moderne.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/volcanic-moderne.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Tzipora is meeting her friend for coffee before school.</div>

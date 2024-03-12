@@ -14,10 +14,34 @@
 	<description>Recent content in merce </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Fri, 22 Dec 2023 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Tue, 05 Mar 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/merce/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Chief Inspector</title>
+	  <link>https://millmint.net/stories/patrol/</link>
+	  <pubDate>Tue, 05 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/patrol/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/patrol.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Nabbed</title>
 	  <link>https://millmint.net/stories/nabbed/</link>
