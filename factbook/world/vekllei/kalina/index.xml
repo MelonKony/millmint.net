@@ -37,7 +37,7 @@
   <div class="text">߷ Allia is part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/ms.svg);"></span> Allia Republic</th>
 	</tr>
@@ -135,7 +135,7 @@ Aloubaera has a tropical climate cooled substantially by its exposure to the sea
   <div class="text">߷ Aloubaera is part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/aloubaera.svg);"></span> Aloubaera Republic</th>
 	</tr>
@@ -231,7 +231,7 @@ Aloubaera has a tropical climate cooled substantially by its exposure to the sea
   <div class="text">߷ Kairi is part of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> Kalina</div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/kairi.svg);"></span> Kairi Republic</th>
 	</tr>
@@ -328,7 +328,7 @@ Aloubaera has a tropical climate cooled substantially by its exposure to the sea
   <div class="text">߷ Virgin is part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/vg.svg);"></span> Virgin Republic</th>
 	</tr>

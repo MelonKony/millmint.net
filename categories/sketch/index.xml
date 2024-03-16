@@ -18,6 +18,30 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Shorts</title>
+	  <link>https://millmint.net/stories/shorts/</link>
+	  <pubDate>Wed, 13 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/shorts/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora can&rsquo;t swim, but she has new shorts ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/shorts.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora can&rsquo;t swim, but she has new shorts</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Cable Car</title>
 	  <link>https://millmint.net/stories/cable-car/</link>
 	  <pubDate>Wed, 31 Jan 2024 08:00:00 EST</pubDate>

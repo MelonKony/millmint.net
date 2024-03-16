@@ -38,7 +38,7 @@ Ascension is home to around 14,000 people, most of whom work for or are associat
   <div class="text">߷ Ascension is part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/ac.svg);"></span> Ascension Republic</th>
 	</tr>
@@ -140,7 +140,7 @@ Ascension is home to around 14,000 people, most of whom work for or are associat
   <div class="text">߷ The Falklands are part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/fk.svg);"></span> Falklands Republic</th>
 	</tr>
@@ -234,7 +234,7 @@ Ascension is home to around 14,000 people, most of whom work for or are associat
   <div class="text">߷ Helena is part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/sh.svg);"></span> Helena Republic</th>
 	</tr>
@@ -331,7 +331,7 @@ Ascension is home to around 14,000 people, most of whom work for or are associat
   <div class="text">߷ Helena is part of <a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
 		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/santes.svg);"></span> Santes Republic</th>
 	</tr>

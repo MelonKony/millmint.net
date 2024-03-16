@@ -18,6 +18,81 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Family</title>
+	  <link>https://millmint.net/stories/shorts/family/</link>
+	  <pubDate>Thu, 14 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/shorts/family/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ They may not be related, but they are a family. Visit characters to read more about them. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/family.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">They may not be related, but they are a family. Visit <a href="/characters/">characters</a> to read more about them.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Shorts</title>
+	  <link>https://millmint.net/stories/shorts/</link>
+	  <pubDate>Wed, 13 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/shorts/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora can&rsquo;t swim, but she has new shorts ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/shorts.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora can&rsquo;t swim, but she has new shorts</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Cab-Forward</title>
+	  <link>https://millmint.net/stories/steam/</link>
+	  <pubDate>Tue, 12 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/steam/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora likes machines, and she especially likes trains. She follows them around to find rare ones. Thanks to her new book, Tzipora has found one of the few remaining steam locomotives still in regular passenger service in Vekllei.
+This one has been running for 110 years. She had to take a superconducting maglev to find it. Vekllei has a social economy, and so high and low tech coexists simultaneously, bucking technocratic logic.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/steam.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora likes machines, and she especially likes trains. She follows them around to find rare ones.</div>
+</blockquote>
+
+<p>Thanks to her new book, Tzipora has found one of the few remaining steam locomotives still in regular passenger service in Vekllei.</p>
+<p>This one has been running for 110 years. She had to take a superconducting maglev to find it. Vekllei has a <a href="/social-economy/">social economy</a>, and so <a href="/bulletin/technology/">high and low tech coexists simultaneously</a>, bucking technocratic logic.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The Fountain</title>
 	  <link>https://millmint.net/stories/the-fountain/</link>
 	  <pubDate>Sun, 03 Mar 2024 08:00:00 EST</pubDate>

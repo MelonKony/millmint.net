@@ -43,7 +43,7 @@
   <div class="text">✿ Read more: <em><a href="/stories/department/">Department Commerce</a></em></div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
  	<tr>
  		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/atlantic-store.svg);"></span> Atlantic Department Company</th>
  	</tr>
@@ -177,7 +177,7 @@
   <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
 </blockquote>
 
-<table style="float: right; border-radius: .25rem; padding: .25rem;">
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
  	<tr>
  		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/cateral.svg);"></span> Cateral</th>
  	</tr>

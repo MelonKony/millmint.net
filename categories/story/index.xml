@@ -14,10 +14,61 @@
 	<description>Recent content in story </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Fri, 08 Mar 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Thu, 14 Mar 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/story/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Family</title>
+	  <link>https://millmint.net/stories/shorts/family/</link>
+	  <pubDate>Thu, 14 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/shorts/family/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ They may not be related, but they are a family. Visit characters to read more about them. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/family.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">They may not be related, but they are a family. Visit <a href="/characters/">characters</a> to read more about them.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Cab-Forward</title>
+	  <link>https://millmint.net/stories/steam/</link>
+	  <pubDate>Tue, 12 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/steam/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora likes machines, and she especially likes trains. She follows them around to find rare ones. Thanks to her new book, Tzipora has found one of the few remaining steam locomotives still in regular passenger service in Vekllei.
+This one has been running for 110 years. She had to take a superconducting maglev to find it. Vekllei has a social economy, and so high and low tech coexists simultaneously, bucking technocratic logic.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/steam.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora likes machines, and she especially likes trains. She follows them around to find rare ones.</div>
+</blockquote>
+
+<p>Thanks to her new book, Tzipora has found one of the few remaining steam locomotives still in regular passenger service in Vekllei.</p>
+<p>This one has been running for 110 years. She had to take a superconducting maglev to find it. Vekllei has a <a href="/social-economy/">social economy</a>, and so <a href="/bulletin/technology/">high and low tech coexists simultaneously</a>, bucking technocratic logic.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Aurora</title>
 	  <link>https://millmint.net/stories/aurora/</link>
@@ -33,7 +84,7 @@
 While advanced fighters are useful for peer adversaries, more combat is taking place in remote, asymmetric bush wars that need different kinds of weapons.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/aurora.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/aurora.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">All Commonwealth equipment is marked &ldquo;NAVY&rdquo; thanks to a quirk of history. It&rsquo;s a shorthand for military, and doesn&rsquo;t necessarily imply maritime aviation.</div>
@@ -59,7 +110,7 @@ While advanced fighters are useful for peer adversaries, more combat is taking p
 	  <![CDATA[ Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/patrol.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/patrol.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them.</div>
@@ -1141,7 +1192,7 @@ Ayn is part thai and was raised buddhist, Moise is Greek Orthodox, Lin Zhi is a 
 	  </author>
 	  <description>
 	  <![CDATA[Let&rsquo;s call it &ldquo;convergent evolution&hellip;&rdquo; The Casemate fighter is the latest atomic fighter in Commonwealth service. It continues the tradition of straightforward fighter aircraft with excellent flight characteristics in the Atlantic.
-The ongoing evolution of the nuclear fighter is obvious compared to its predecessor here, which has its reactor mounted beneath the reactor for easy servicing.
+The ongoing evolution of the nuclear fighter is obvious compared to its predecessor here, which has its reactor mounted beneath the fuselage for easy servicing, as is typical of small Vekllei nuclear jets.
 Notes on Safety A century of miniaturisation of fission has improved safety in vehicles but it&rsquo;s still not perfect.]]>
 	  </description>
 	 <content:encoded>
@@ -1152,7 +1203,7 @@ Notes on Safety A century of miniaturisation of fission has improved safety in v
 </blockquote>
 
 <p>The Casemate fighter is the latest atomic fighter in Commonwealth service. It continues the tradition of straightforward fighter aircraft with excellent flight characteristics in the Atlantic.</p>
-<p>The ongoing evolution of the nuclear fighter is obvious compared to its predecessor <a href="/stories/fighter/">here</a>, which has its reactor mounted beneath the reactor for easy servicing.</p>
+<p>The ongoing evolution of the nuclear fighter is obvious compared to its predecessor <a href="/stories/fighter/">here</a>, which has its reactor mounted beneath the fuselage for easy servicing, as is typical of small Vekllei nuclear jets.</p>
 <blockquote class="note panel">
   <div class="icon">
 </div>
