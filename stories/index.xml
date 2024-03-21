@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Sami</title>
+	  <link>https://millmint.net/stories/shorts/sami/</link>
+	  <pubDate>Tue, 19 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/shorts/sami/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Some seniors carry rifles to protect against polar bears. Student uniform of the northernmost town in the world, mixing Sámi cultural elements with the typical Vekllei uniform. The Arctic Sámi comprise most of the 7,500 people who live in Svalbard, which they call Helvasia.
+It says a lot about Vekllei&rsquo;s attention to detail that, even in minor republics of a few thousand people, they have a complete uniform designed to your climate and culture that still conforms to the broader Commonwealth public education system.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/sami.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Some seniors carry rifles to protect against polar bears.</div>
+</blockquote>
+
+<p>Student uniform of the northernmost town in the world, mixing Sámi cultural elements with the typical <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> uniform. The Arctic Sámi comprise most of the 7,500 people who live in Svalbard, which they call <a style="color: rgb(219, 2, 3)" href="/helvasia/"><span class="fi fi-sj"></span> Helvasia</a>.</p>
+<p>It says a lot about Vekllei&rsquo;s attention to detail that, even in minor republics of a few thousand people, they have a complete uniform designed to your climate and culture that still conforms to the broader Commonwealth public education system.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Family</title>
 	  <link>https://millmint.net/stories/shorts/family/</link>
 	  <pubDate>Thu, 14 Mar 2024 08:00:00 EST</pubDate>
