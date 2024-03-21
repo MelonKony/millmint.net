@@ -4,7 +4,7 @@ fulltitle: Republic of Demon
 icon: ⛪️
 logo: /svg/flags/1x1/demon.svg
 
-rgb: 87, 92, 111
+rgb: 229, 156, 54
 
 draft: false
 
@@ -12,7 +12,7 @@ aliases:
 - /demon/
 ---
 {{<note>}}
-߷ Demon is part of {{<link/vekllei>}} Oslola
+߷ Demon is part of the {{<link/volcanic>}}
 {{</note>}}
 
 {{<infobox/country
