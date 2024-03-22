@@ -135,12 +135,12 @@ Constituent commonwealths have their own suite of ministries and a National Asse
 <ul>
 <li><a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></li>
 <li>Commonwealth Antilles</li>
-<li>Commonwealth Arctic</li>
+<li><a style="color: var(--color-blue)" href="/arctic/"><span class="fi fi-arctic"></span> Commonwealth Arctic</a></li>
 <li>Commonwealth Atlantic</li>
-<li>Commonwealth Oslola</li>
 <li><a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></li>
 <li>Commonwealth Bahamas</li>
 <li>Commonwealth Verde</li>
+<li><a style="color: var(--color-blue)" href="/volcanic/"><span class="fi fi-volcanic"></span> Commonwealth Volcanic</a></li>
 </ul>
 </div>
 </blockquote>
@@ -2658,7 +2658,7 @@ Diagram of the a Polis administration and its structure There are a few criteria
 <li><a style="color: rgb(60, 122, 184)" href="/falklands/"><span class="fi fi-fk"></span></span> Falklands</a> (<em>Falklands</em>)</li>
 <li><a style="color: rgb(24, 117, 71)" href="/helena/"><span class="fi fi-sh"></span> Helena</a> (<em>Saint Helena</em>)</li>
 <li><a style="color: rgb(211, 45, 71)" href="/santes/"><span class="fi fi-santes"></span> Santes</a> (<em>Tristan da Cunha</em>)</li>
-<li>Sude Republic (<em>South Georgia &amp; South Sandwich Islands</em>)</li>
+<li><a style="color: rgb(60, 122, 184)" href="/sude/"><span class="fi fi-gs"></span></span> Sude</a> (<em>South Georgia &amp; South Sandwich Islands</em>)</li>
 </ul>
 </li>
 <li>
@@ -2739,48 +2739,24 @@ Diagram of the a Polis administration and its structure There are a few criteria
 <li>
 <p><strong>Verde Commonwealth</strong></p>
 <ul>
-<li>
-<p>Boa Vista Republic (<em>Boa Vista</em>)</p>
-</li>
-<li>
-<p>Brava Republic (<em>Brava</em>)</p>
-</li>
-<li>
-<p>Covoada Republic (<em>Sao Nicolau</em>)</p>
-</li>
-<li>
-<p>Fogo Republic (<em>Fogo</em>)</p>
-</li>
-<li>
-<p>Maio Republic (<em>Maio</em>)</p>
-</li>
-<li>
-<p>Moroços Republic (<em>Santo Antao</em>)</p>
-</li>
-<li>
-<p>Praia Republic (<em>Santiago</em>)</p>
-</li>
-<li>
-<p>Principe Republic (<em>Sao Tome &amp; Principe</em>)</p>
-</li>
-<li>
-<p>Sal Republic (<em>Sal</em>)</p>
-</li>
-<li>
-<p>Viana Republic (<em>Sao Vicente</em>)</p>
+<li>Boa Vista Republic (<em>Boa Vista</em>)</li>
+<li>Brava Republic (<em>Brava</em>)</li>
+<li>Covoada Republic (<em>Sao Nicolau</em>)</li>
+<li>Fogo Republic (<em>Fogo</em>)</li>
+<li>Maio Republic (<em>Maio</em>)</li>
+<li>Moroços Republic (<em>Santo Antao</em>)</li>
+<li>Praia Republic (<em>Santiago</em>)</li>
+<li>Principe Republic (<em>Sao Tome &amp; Principe</em>)</li>
+<li>Sal Republic (<em>Sal</em>)</li>
+<li>Viana Republic (<em>Sao Vicente</em>)</li>
+</ul>
 </li>
 <li>
 <p><strong>Volcanic Commonwealth</strong></p>
-</li>
-<li>
-<p>Aismious Republic (<em>Faroe</em>)</p>
-</li>
-<li>
-<p><a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (<em>Jan Mayen</em>)</p>
-</li>
-<li>
-<p><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (<em>Iceland</em>)</p>
-</li>
+<ul>
+<li><a style="color: rgb(67, 101, 187)" href="/aismious/"><span class="fi fi-fo"></span> Aismious</a> (<em>Faroe</em>)</li>
+<li><a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (<em>Jan Mayen</em>)</li>
+<li><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (<em>Iceland</em>)</li>
 </ul>
 </li>
 </ul>
