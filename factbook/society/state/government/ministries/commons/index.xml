@@ -18,6 +18,31 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/commons/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>ASRE</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/asre/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/asre/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ ASRD is part of the Ministry of the Commons and SIRO The Commonwealth Astro Science Research Establishment (ASRE) is a research organisation of the Ministry of the Commons.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text">߷ ASRD is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+</blockquote>
+
+<p>The <span class="fi fi-min-asre fis"></span> <strong>Commonwealth Astro Science Research Establishment</strong> (ASRE) is a research organisation of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Bureau of Aerospace</title>
 	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -37,7 +62,7 @@
   <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
 </blockquote>
 
-<p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Aerospace</strong> is a bureau of the <a href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> responsible for policy, administration and operation of aerospace transport in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.</p>
+<p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Aerospace</strong> is a bureau of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> responsible for policy, administration and operation of aerospace transport in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.</p>
 <p>The bureau has a large stake in the development and manufacture of Vekllei aircraft through its constituent corporations and commissions. In addition, the bureau monitors and manages Vekllei airspace as part of the National Airspace System, and licenses civilian and commercial pilots through the Civil Aviation Register.</p>
 <blockquote class="note panel">
   <div class="icon">
@@ -117,7 +142,8 @@
 <ul>
 <li><strong><a style="color: rgb(245, 60, 89)" href="/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a></strong>: Flag carrier and national airline of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</li>
 <li><strong><a style="color: rgb(44, 81, 177)" href="/starlines/"><span class="fi fi-min-starlines fis"></span> Commonwealth Starlines</a></strong>: Subsidiary of Commonwealth Airways providing space transport services.</li>
-<li><strong><a style="color: rgb(247, 85, 85)" href="/GAF/"><span class="fi fi-min-gaf fis"></span> Government Aircraft Factories</a></strong>: Major aircraft manufacturer.</li>
+<li><strong><a style="color: rgb(247, 85, 85)" href="/GAF/"><span class="fi fi-min-gaf fis"></span> Government Aircraft Factories</a></strong>: Major (civilian) aircraft manufacturer.</li>
+<li><strong><a style="color: rgb(49, 80, 250)" href="/CAC/"><span class="fi fi-min-cac fis"></span> Commonwealth Aircraft</a></strong>: Major (military) aircraft manufacturer.</li>
 <li><strong>Commonwealth Air Traffic Services</strong>: National traffic control services.</li>
 <li><strong>Commonwealth Civil Flight Squadron</strong>: Civilian flying unit for equipment calibration, testing, aerial photography and inspection.</li>
 <li><strong>Commonwealth Air Safety Authority</strong>: Independent aerospace safety regulator and incident investigator.</li>
@@ -538,31 +564,6 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
   <div class="text">߷ This bureau is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
 </blockquote>
 
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Commonwealth Space Research Directorate</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/space-research-directorate/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/space-research-directorate/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[߷ This directorate is part of the Ministry of the Commons CSRD]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This directorate is part of the <a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
-</blockquote>
-
-<p>CSRD</p>
 ]]>
   	</content:encoded>
 	</item>

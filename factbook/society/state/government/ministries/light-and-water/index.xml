@@ -124,5 +124,30 @@ In Oslola and Kala, most drinking water comes from fresh glacial runoff that req
   	</content:encoded>
 	</item>
 	
+	<item>
+	  <title>NSRE</title>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/light-and-water/nsre/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/light-and-water/nsre/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ NSRD is part of the Ministry of Light &amp; Water and SIRO The Commonwealth Nuclear Science Research Establishment (NSRE) is a research organisation of the Ministry of Light & Water.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text">߷ NSRD is part of the <a style="color: var(--color-cosmolit)" href="/cosmolit/"><span class="fi fi-min-light-and-water fis"></span> Ministry of Light &amp; Water</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+</blockquote>
+
+<p>The <span class="fi fi-min-nsre fis"></span> <strong>Commonwealth Nuclear Science Research Establishment</strong> (NSRE) is a research organisation of the <a style="color: var(--color-cosmolit)" href="/cosmolit/"><span class="fi fi-min-light-and-water fis"></span> Ministry of Light & Water</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>

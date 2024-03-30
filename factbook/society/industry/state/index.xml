@@ -18,6 +18,152 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Commonwealth Aircraft</title>
+	  <link>https://millmint.net/factbook/society/industry/state/cac/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/industry/state/cac/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the industry series of articles Commonwealth Aircraft State Corporation of Vekllei Parent Ministry of the Commons Bureau Bureau of Aerospace Industry Aerospace Manufacturing Headquarters Oslola Founded 2025 Employees 7,500 Traded as CAC Accounted Revenue AK ✾ 30 billion S.c.L. The Commonwealth Aircraft Corporation (known as Commonwealth Aircraft or The Shop) is a military aircraft manufacturer owned by the government of Vekllei. It is the second-largest aerospace manufacturer in Vekllei, and produces a range of aircraft and avionics for the Vekllei military and export.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/cac.svg);"></span> Commonwealth Aircraft</th>
+	</tr>
+
+	
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="/svg/logos/cac.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-aerospace/"><span class="fi fi-min-commons fis"></span> Bureau of Aerospace</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Industry</th>
+		<td>Aerospace Manufacturing</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Founded</th>
+		<td>2025</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Employees</th>
+		<td>7,500</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/commsec/">Traded as</a></th>
+		<td><span class="fi fi-min-commsec fis"></span> CAC</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/bulletin/accounted-revenue/">Accounted Revenue</a></th>
+		<td>AK ✾ 30 billion</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.c.L.</td>
+	</tr>
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-min-cac fis"></span>  <strong>Commonwealth Aircraft Corporation</strong> (known as <em>Commonwealth Aircraft</em> or <em>The Shop</em>) is a military aircraft manufacturer owned by the government of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is the second-largest aerospace manufacturer in Vekllei, and produces a range of aircraft and avionics for the Vekllei <a href="/military/">military</a> and export.</p>
+<p>It operates adjacent to but independently from the <a style="color: rgb(247, 85, 85)" href="/GAF/"><span class="fi fi-min-gaf fis"></span> Government Aircraft Factories</a>, and is centralised around federal plants in <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and <a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a> rather than devolved among many <a href="/republics/">republics</a>. It conducts advanced research into emerging aircraft technologies with a primarily military mission. It is the preferred contractor of the Air Service.</p>
+<p>It trades on the <a style="color: rgb(2, 121, 190)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> as CAC, and is the eleventh largest aircraft manufacturer in the world by market cap.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Commonwealth Airways</title>
 	  <link>https://millmint.net/factbook/society/industry/state/air/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -86,6 +232,8 @@
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-aerospace/"><span class="fi fi-min-commons fis"></span> Bureau of Aerospace</a></td>
 	</tr>
+	
+
 	
 
 	
@@ -176,6 +324,212 @@
 	</item>
 	
 	<item>
+	  <title>Commonwealth Bank</title>
+	  <link>https://millmint.net/factbook/society/industry/state/commonwealth-bank/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/industry/state/commonwealth-bank/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Part of the industry series of articles Commonwealth Bank State Corporation of Vekllei Parent Ministry of Commerce Bureau Treasury Industry Banking and financial services Headquarters Oslola Founded 1642 Employees 35,000 Traded as CBC Accounted Revenue AK ✾ 82.2 billion S.c.L. The Commonwealth Bank (also Bank of Vekllei) is the central bank and currency store of Vekllei. It is operated by the Ministry of Commerce and maintains branches in all Vekllei republics and in many countries around the world.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/commonwealth-bank.svg);"></span> Commonwealth Bank</th>
+	</tr>
+
+	
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="/svg/logos/commonwealth-bank.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-cosmosol)" href="/cosmosol/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-cosmosol)" href="/treasury/"><span class="fi fi-min-commerce fis"></span> Treasury</a></td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Industry</th>
+		<td>Banking and financial services</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Founded</th>
+		<td>1642</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Employees</th>
+		<td>35,000</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/commsec/">Traded as</a></th>
+		<td><span class="fi fi-min-commsec fis"></span> CBC</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/bulletin/accounted-revenue/">Accounted Revenue</a></th>
+		<td>AK ✾ 82.2 billion</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.c.L.</td>
+	</tr>
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-min-combank fis"></span> <strong>Commonwealth Bank</strong> (also <em>Bank of Vekllei</em>) is the central bank and currency store of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is operated by the <a style="color: var(--color-cosmosol)" href="/cosmosol/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> and maintains branches in all Vekllei republics and in many countries around the world. It is not autonomous and is beholden to the policy decisions of Ministry of Commerce and, in certain cases, the republic and commonwealth parliaments. Its sworn purpose, as instructed by the Floral Constitution, is to advocate for encourage growth and benefit Vekllei people.</p>
+<p>The Commonwealth Bank was founded 1642 as the Royal Bank in <a href="/lola/">Lola</a>, and is the fifth oldest bank in the world.</p>
+<p>Most banks in Vekllei are institutional or industrial, since the average Vekllei person is unmoneyed and, in a conventional definition, unbanked. Nonetheless, Vekllei maintains several commercial banks under the Bank of Vekllei umbrella, tasked primarily with:</p>
+<ul>
+<li>Cashing and underwriting White and Blue bonds.</li>
+<li>Selling government and financial (bureau) bonds internationally.</li>
+<li>International placement and borrowing services.</li>
+<li>Trading, settling and selling foreign currencies.</li>
+</ul>
+<p>Vekllei citizens are entitled to an equal share of the money stored in the Labour Bank, and in certain circumstances may withdraw their balance to emigrate or travel abroad.</p>
+<p>Despite foreign perception of Vekllei economics, the liquid and asset holdings of the Bank of Vekllei make it the second-largest bank in the world.</p>
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h4 id="commonwealth-atlantic-bank">
+  Commonwealth Atlantic Bank
+  <a class="anchor" href="#commonwealth-atlantic-bank">#</a>
+</h4>
+<p>The <em>Commonwealth Atlantic Bank</em> (COMMBANK) is an international investment subsidiary of the Bank of Vekllei, tasked primarily with banking in Commonwealth members and international markets. It has branches across every Commonwealth member-state and in most major economic hubs around the world, including throughout Europe, the Americas, and Asia. It also serves as the Central Bank of the Kalina Isles.</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h4 id="commonwealth-import-export-bank">
+  Commonwealth Import-Export Bank
+  <a class="anchor" href="#commonwealth-import-export-bank">#</a>
+</h4>
+<p>The <em>Commonwealth Import-Export Bank</em> (VEKEXIM) is a state policy investment bank used to fund projects outside of the Commonwealth, particularly in developing countries. It is the primary investment mechanism of Vekllei foreign aid system, which uses export credits and low-interest bureau loans to build infrastructure overseas. It is among the most influential export banks in the world, and contributed to the Pan-African Railway and Hundred Dams projects as part of Vekllei&rsquo;s ongoing Trade Democracy economic scheme.</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h4 id="commonwealth-development-bank">
+  Commonwealth Development Bank
+  <a class="anchor" href="#commonwealth-development-bank">#</a>
+</h4>
+<p>The <em>Commonwealth Development Bank</em> (DEVBANK) is a policy bank designed to organise and allocate funding for large-scale political projects, particularly in infrastructure. The Development Bank works as the engine of the Commonwealth&rsquo;s policies, funded mostly with White Bonds issued internationally and labour-guaranteed certificates (a type of Blue Bond). It also creates loan arrangements, evaluates, and underwrites national government projects.</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h4 id="commonwealth-commercial-bank">
+  Commonwealth Commercial Bank
+  <a class="anchor" href="#commonwealth-commercial-bank">#</a>
+</h4>
+<p>The <em>Commonwealth Commercial Bank</em> (SISTERBANK) is the commercial lending bank of &lsquo;petty bureau&rsquo; company syndicates and their workers. Its primary function is bureau negotiation and lending in order to facilitate the economic development of private business in Vekllei. It also acts as an intermediary between petty bureau companies and other banks or government financial apparatuses.</p>
+<p>Sisterbank is the primary mechanism by which private business is done in Vekllei, facilitating loans, placement and logistics for small to medium-sized businesses.</p>
+</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h4 id="commonwealth-industrial-bank">
+  Commonwealth Industrial Bank
+  <a class="anchor" href="#commonwealth-industrial-bank">#</a>
+</h4>
+<p>The <em>Commonwealth Industrial Bank</em> (MOTHERBANK) is the industrial lending bank of &lsquo;bureau proper&rsquo; company syndicates and their workers. Similar to the Sisterbank, it facilitates economic activity of bureaus and private industry primarily through asset management and mediation with the government and the Commonwealth Bank.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Commonwealth Starlines</title>
 	  <link>https://millmint.net/factbook/society/industry/state/starlines/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -227,6 +581,8 @@
  	<td style="font-weight: 500; width: 50%;">Parent</th>
  	<td><a style="color: rgb(245, 60, 89)" href="/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a></td>
  	</tr>
+ 	
+ 
  	
  
  	
@@ -324,7 +680,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the industry series of articles Government Aircraft Factories State Corporation of Vekllei Parent Ministry of the Commons Bureau Bureau of Aerospace Industry Aerospace Manufacturing Headquarters Oslola Founded 2015 Employees 19,000 Traded as GAF Accounted Revenue AK ✾ 44.6 billion S.c.L. Government Aircraft Factories (known as GA, Government Aircraft or The Factory) is an aircraft manufacturer owned by the Government of Vekllei. It comprises the majority of aircraft research, development, testing and manufacturing in the country, and dominates civilian and miitary contracts in the.]]>
+	  <![CDATA[߷ Part of the industry series of articles Government Aircraft Factories State Corporation of Vekllei Parent Ministry of the Commons Bureau Bureau of Aerospace Industry Aerospace Manufacturing Headquarters Oslola Founded 2015 Employees 19,000 Traded as GAF Accounted Revenue AK ✾ 44.6 billion S.c.L. Government Aircraft Factories (known as GA, Government Aircraft or The Factory) is an aircraft manufacturer owned by the government of Vekllei. It comprises the majority of aircraft research, development, testing and manufacturing in the country, and dominates civilian aerospace construction in Vekllei.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
@@ -382,6 +738,8 @@
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-aerospace/"><span class="fi fi-min-commons fis"></span> Bureau of Aerospace</a></td>
 	</tr>
+	
+
 	
 
 	
@@ -450,7 +808,7 @@
 
 	
 </table>
-<p><span class="fi fi-min-gaf fis"></span>  <strong>Government Aircraft Factories</strong> (known as <em>GA</em>, <em>Government Aircraft</em> or <em>The Factory</em>) is an aircraft manufacturer owned by the <a style="color: var(--color-millmint)" href="/government/"><span class="fi fi-min-vekllei fis"></span> Government</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It comprises the majority of aircraft research, development, testing and manufacturing in the country, and dominates civilian and miitary contracts in the. It is also the oldest and most prestigious of the postwar aircraft development firms.</p>
+<p><span class="fi fi-min-gaf fis"></span>  <strong>Government Aircraft Factories</strong> (known as <em>GA</em>, <em>Government Aircraft</em> or <em>The Factory</em>) is an aircraft manufacturer owned by the government of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It comprises the majority of aircraft research, development, testing and manufacturing in the country, and dominates civilian aerospace construction in Vekllei. It is also the oldest and most prestigious of the postwar aircraft development firms. It is a devolved corporation with plants and offices around Vekllei. It is independent from <a style="color: rgb(49, 80, 250)" href="/CAC/"><span class="fi fi-min-cac fis"></span> Commonwealth Aircraft</a> and has a general focus on civilian aerospace, and the two companies have a historic rivalry.</p>
 <p>It trades on the <a style="color: rgb(2, 121, 190)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> as GAF, and is the fourth largest aircraft manufacturer in the world by market cap.</p>
 ]]>
   	</content:encoded>
@@ -533,6 +891,8 @@
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-public-works/"><span class="fi fi-min-commons fis"></span> Bureau of Public Works</a></td>
 	</tr>
+	
+
 	
 
 	
@@ -668,6 +1028,8 @@
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a></td>
 	</tr>
+	
+
 	
 
 	
@@ -1078,6 +1440,8 @@
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
 	<td><a style="color: var(--color-cosmosol)" href="/bureau-of-securities/"><span class="fi fi-min-commerce fis"></span> Bureau of Securities</a></td>
 	</tr>
+	
+
 	
 
 	
