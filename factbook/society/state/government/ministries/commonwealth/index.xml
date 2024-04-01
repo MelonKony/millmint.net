@@ -360,12 +360,12 @@ The Statistics Press is a publishing house responsible for preparing materials r
 </ul>
 <p><strong>Constituent Establishments</strong></p>
 <ul>
-<li><a style="color: var(--color-cosmokos)" href="/DSRE/"><span class="fi fi-min-dsre fis"></span> DSRE</a></li>
 <li><a style="color: var(--color-cosmotran)" href="/ASRE/"><span class="fi fi-min-asre fis"></span> ASRE</a></li>
-<li><a style="color: var(--color-cosmolit)" href="/NSRE/"><span class="fi fi-min-nsre fis"></span> NSRE</a></li>
 <li><a style="color: var(--color-cosmosec)" href="/CSRE/"><span class="fi fi-min-csre fis"></span> CSRE</a></li>
-<li><a style="color: var(--color-health)" href="/MSRE/"><span class="fi fi-min-msre fis"></span> MSRE</a></li>
+<li><a style="color: var(--color-cosmokos)" href="/DSRE/"><span class="fi fi-min-dsre fis"></span> DSRE</a></li>
 <li><a style="color: var(--color-cosmogos)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a></li>
+<li><a style="color: var(--color-health)" href="/MSRE/"><span class="fi fi-min-msre fis"></span> MSRE</a></li>
+<li><a style="color: var(--color-cosmolit)" href="/NSRE/"><span class="fi fi-min-nsre fis"></span> NSRE</a></li>
 </ul>
 <p><strong>Constituent Laboratories</strong></p>
 <ul>
@@ -383,23 +383,20 @@ The Statistics Press is a publishing house responsible for preparing materials r
   <a class="anchor" href="#executive-council">#</a>
 </h2>
 <ul>
-<li><strong>Director</strong>, <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a>
-<ul>
+<li><strong>Director</strong>, <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></li>
 <li>Secretary for Research
 <ul>
-<li>Officer for Science Policy</li>
 <li>Officer for Research Democracy</li>
+<li>Officer for Science Policy</li>
 </ul>
 </li>
-</ul>
-</li>
-<li><strong>Chief Scientist</strong>, <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></li>
-<li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmokos)" href="/DSRE/"><span class="fi fi-min-dsre fis"></span> DSRE</a></li>
 <li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmotran)" href="/ASRE/"><span class="fi fi-min-asre fis"></span> ASRE</a></li>
-<li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmolit)" href="/NSRE/"><span class="fi fi-min-nsre fis"></span> NSRE</a></li>
 <li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmosec)" href="/CSRE/"><span class="fi fi-min-csre fis"></span> CSRE</a></li>
-<li><strong>Chief Scientist</strong>, <a style="color: var(--color-health)" href="/MSRE/"><span class="fi fi-min-msre fis"></span> MSRE</a></li>
+<li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmokos)" href="/DSRE/"><span class="fi fi-min-dsre fis"></span> DSRE</a></li>
 <li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmogos)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a></li>
+<li><strong>Chief Scientist</strong>, <a style="color: var(--color-health)" href="/MSRE/"><span class="fi fi-min-msre fis"></span> MSRE</a></li>
+<li><strong>Chief Scientist</strong>, <a style="color: var(--color-cosmolit)" href="/NSRE/"><span class="fi fi-min-nsre fis"></span> NSRE</a></li>
+<li><strong>Chief Scientist</strong>, <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></li>
 <li><strong>Chairman</strong>, Public Science Board</li>
 <li><strong>Executive</strong>, Government Scientists Group</li>
 </ul>

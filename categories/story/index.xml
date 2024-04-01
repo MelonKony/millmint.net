@@ -14,16 +14,68 @@
 	<description>Recent content in story </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 19 Mar 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Sat, 30 Mar 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/story/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Magma</title>
+	  <link>https://millmint.net/stories/volcanology/</link>
+	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/volcanology/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Amka drives a company utility vehicle made in Vekllei and licensed from Toyota. Amka works as a glacial volcanologist, sleeps on a mattress in the back of her utility vehicle, eats military rations out of a bag for dinner and LOVES her job.
+She is one of many volcanologists across Vekllei working for the LSRE (Land Science Research Establishment), which is a part of the national council of science establishments called SIRO.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/magma.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Amka drives a company utility vehicle made in Vekllei and licensed from Toyota.</div>
+</blockquote>
+
+<p>Amka works as a glacial volcanologist, sleeps on a mattress in the back of her utility vehicle, eats military rations out of a bag for dinner and LOVES her job.</p>
+<p>She is one of many volcanologists across <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> working for the <a style="color: var(--color-cosmogos)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a> (Land Science Research Establishment), which is a part of the national council of science establishments called <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a>. They do valuable work across Vekllei&rsquo;s many volcanic republics, and are integral to both Vekllei geoscience as well as protecting the lives of the millions of Vekllei people who live amidst volcanic activity.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Submarine</title>
+	  <link>https://millmint.net/stories/submarine/</link>
+	  <pubDate>Thu, 28 Mar 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/submarine/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Diagram of a Commonwealth ballistic missile submarine, with crew uniforms. The No. 3 Mantle Ballistic Missile Submarines have hydromagnetic drives that operate in total silence, and in their disappearance guarantee the safety of even the smallest Vekllei islands through the threat of nuclear annihilation. You might get Reykjavik, but you&rsquo;ll never get them.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/submarine.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Diagram of a Commonwealth ballistic missile submarine, with crew uniforms.</div>
+</blockquote>
+
+<p>The No. 3 <em>Mantle</em> Ballistic Missile Submarines have hydromagnetic drives that operate in total silence, and in their disappearance guarantee the safety of even the smallest Vekllei islands through the threat of nuclear annihilation. You might get Reykjavik, but you&rsquo;ll never get them.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Sami</title>
-	  <link>https://millmint.net/stories/shorts/sami/</link>
+	  <link>https://millmint.net/stories/sami/</link>
 	  <pubDate>Tue, 19 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shorts/sami/</guid>
+	  <guid>https://millmint.net/stories/sami/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -47,10 +99,10 @@ It says a lot about Vekllei&rsquo;s attention to detail that, even in minor repu
 	
 	<item>
 	  <title>Family</title>
-	  <link>https://millmint.net/stories/shorts/family/</link>
+	  <link>https://millmint.net/stories/family/</link>
 	  <pubDate>Thu, 14 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shorts/family/</guid>
+	  <guid>https://millmint.net/stories/family/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
