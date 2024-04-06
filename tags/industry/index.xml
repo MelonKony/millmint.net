@@ -440,7 +440,7 @@
 	
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Parent</th>
-	<td><a style="color: var(--color-cosmotran)" href="/cosmotran/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></td>
+	<td><a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></td>
 	</tr>
 	
 
@@ -451,7 +451,7 @@
 	
 	<tr>
 	<td style="font-weight: 500; width: 50%;">Bureau</th>
-	<td><a style="color: var(--color-cosmotran)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a></td>
+	<td><a style="color: var(--color-commons)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a></td>
 	</tr>
 	
 

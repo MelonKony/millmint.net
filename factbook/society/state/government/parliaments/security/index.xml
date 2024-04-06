@@ -17,5 +17,236 @@
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/parliaments/security/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Commonwealth Military Command</title>
+	  <link>https://millmint.net/factbook/society/state/government/parliaments/security/cmc/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/parliaments/security/cmc/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Noshem is part of the Parliament of Security The Commonwealth Military Command (CMC) is the unifying command organisation for the Military, responsible ultimately for facilitating Commonwealth control of the armed forces. While republics retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in Vekllei. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a de facto command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text">߷ Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></div>
+</blockquote>
+
+<p>The <em>Commonwealth Military Command</em> (CMC) is the unifying command organisation for the <a style="color: var(--color-defence)" href="/military/"><span class="fi fi-min-defence fis"></span> Military</a>, responsible ultimately for facilitating Commonwealth control of the armed forces. While <a href="/republics/">republics</a> retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a <em>de facto</em> command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.</p>
+<p>Commonwealth member-states usually maintain their own <a href="/factbook/society/state/government/interior/defence/">defence ministries</a>, and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.</p>
+<ul>
+<li><strong>General Council</strong>: CMC administration and parliament liaison.</li>
+<li><strong>Department of War</strong>: All war-related strategic planning and activities, including preparation for operations.</li>
+<li><strong>Department of Peacekeeping</strong>: All activities related to Vekllei peacekeeping and expeditionary operations.</li>
+<li><strong>Department of Training &amp; Mobilisation</strong>: Standardisation of training and mobilisation of troops across the Commonwealth.</li>
+<li><strong>Department of Communications</strong>: Coordination between the parliaments and the Palace, as well as public information.</li>
+</ul>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Noshem</title>
+	  <link>https://millmint.net/factbook/society/state/government/parliaments/security/noshem/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/society/state/government/parliaments/security/noshem/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[߷ Noshem is part of the Parliament of Security The Commonwealth Intelligence Service (National Intelligence, or Noshem) is the secret service of Vekllei and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and broad-mandated intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note ">
+  <div class="icon">
+</div>
+  <div class="text">߷ Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></div>
+</blockquote>
+
+<p>The <span class="fi fi-min-noshem fis"></span> <strong>Commonwealth Intelligence Service</strong> (<em>National Intelligence</em>, or <em>Noshem</em>) is the secret service of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It comprises of 40 semiautonomous outlines, which each may operate several offices. This complex and broad-mandated intelligence organisation contributes to its legendary reputation abroad, and conspiracies of its presence in almost every country.</p>
+<p>Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.</p>
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h2 id="executive-council">
+  Executive Council
+  <a class="anchor" href="#executive-council">#</a>
+</h2>
+<ul>
+<li><strong>The <a style="color: var(--color-millmint)" href="/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a></strong>, <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></li>
+<li><strong>Minister</strong>, <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></li>
+<li><strong>Intelligence Director</strong>, <a style="color: var(--color-security)" href="/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a>
+<ul>
+<li>Senior Analyst
+<ul>
+<li>Officer for General Policy</li>
+</ul>
+</li>
+<li>Secretary for Intelligence Sections</li>
+<li>Secretary for Control Authority</li>
+</ul>
+</li>
+<li><strong>Senior Analyst</strong>, <a style="color: var(--color-defence)" href="/commonwealth-imagery-establishment/"><span class="fi fi-min-defence fis"></span> Commonwealth Imagery Establishment</a></li>
+</ul>
+</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h2 id="general-headquarters">
+  General Headquarters
+  <a class="anchor" href="#general-headquarters">#</a>
+</h2>
+<ul>
+<li><strong>Department of Analysis</strong>
+<ul>
+<li>Office of General Policy</li>
+<li>Office of the Intelligence Director</li>
+</ul>
+</li>
+<li><strong>Department of Espionage</strong>
+<ul>
+<li>General Office of Counter-Espionage</li>
+<li>General Office of Security &amp; Risk Mitigation</li>
+</ul>
+</li>
+<li><strong>Department of Intelligence Sections</strong>
+<ul>
+<li>General Training Section</li>
+<li>Sections Council</li>
+<li>Office of Section Coordination</li>
+</ul>
+</li>
+<li><strong>Department of Finance</strong>
+<ul>
+<li>General Office of Accounts &amp; Payments</li>
+</ul>
+</li>
+<li><strong>Department of Control Authority</strong>
+<ul>
+<li>Office of the Intelligence Press</li>
+<li>Office of Personnel &amp; Culture</li>
+<li>Office of Secrets</li>
+<li>Office of Control Authority</li>
+</ul>
+</li>
+<li><strong>Department of Government Intelligence</strong>
+<ul>
+<li>Office of the Military Liaison</li>
+<li>Office of the Security Cabinet</li>
+<li>Office of the Security Parliament</li>
+</ul>
+</li>
+</ul>
+</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h2 id="intelligence-outlines--sections">
+  Intelligence Outlines &amp; Sections
+  <a class="anchor" href="#intelligence-outlines--sections">#</a>
+</h2>
+<ul>
+<li>
+<p><strong>Home Office (HO/NI)</strong>: The <em>Home Office</em> at <em>National Intelligence</em> (HO/NI) is the domestic intelligence organisation of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, including the Home Islands.</p>
+<ul>
+<li><strong>Section 1 <em>Atlantique</em></strong>: Administration and recruitment.</li>
+<li><strong>Section 2 <em>Bohs</em></strong>: Organisation security and democracy-advocate.</li>
+<li><strong>Section 3 <em>Cosette</em></strong>: Domestic affairs, political threats and extremism section.</li>
+<li><strong>Section 4 <em>Devon</em></strong>: Democracy-Advocate command.</li>
+<li><strong>Section 5 <em>Eusea</em></strong>: Logistics and training command.</li>
+<li><strong>Section 6 <em>Familia</em></strong>: Coercion and blackmail section.</li>
+<li><strong>Section 7 <em>Gem</em></strong>: Foreign military intelligence section.</li>
+<li><strong>Section 8 <em>Helette</em></strong>: Financial intelligence section.</li>
+<li><strong>Section 9 <em>Ioviosn</em></strong>: Offices and staff in North Commonwealth Intelligence Theatre and Vekllei Islands.</li>
+<li><strong>Section 10 <em>Jasvere</em></strong>: Offices and staff in the governments of Commonwealth member-states.</li>
+<li><strong>Section 11 <em>Kosmo</em></strong>: Senior reporting body and command.</li>
+<li><strong>Section 12 <em>Los</em></strong>: Internal operations command.</li>
+</ul>
+</li>
+<li>
+<p><strong>Africa Bureau (RB/NI)</strong>: The <em>Africa Bureau</em> at <em>National Intelligence</em> (RB/NI) reports information and conducts operations in the African continent. Headquartered in Casablanca, Morocco, RB/NI is particularly concerned with decolonisation and influencing new democratic states under Vekllei&rsquo;s &ldquo;Trade Democracy&rdquo; policy. It also historically seeks to destabilising American and Eastern Bloc influence in the continent, as well as ferment unrest against current colonial governments and the Apartheid regime in South Africa. It includes the following departments.</p>
+<ul>
+<li><strong>Section 13 <em>Abosasme</em></strong>: Offices and staff in postcolonial Africa.</li>
+<li><strong>Section 14 <em>Bulga</em></strong>: Offices and staff in colonial Africa.</li>
+<li><strong>Section 15 <em>Cobian</em></strong>: Regional tactical operations command.</li>
+<li><strong>Section 16 <em>Domo</em></strong>: Democracy-Advocate command.</li>
+<li><strong>Section 17 <em>Ende</em></strong>: Directorate organisation and localisation command.</li>
+</ul>
+</li>
+<li>
+<p><strong>Americas Bureau (AB/NI)</strong>: The <em>Americas Bureau</em> at <em>National Intelligence</em> (AB/NI) reports information and conducts operations across North and South America, including overseas possessions of the United States and regional claims in the Arctic and Antarctic. AB/NI maintains major offices in Washington D.C. in the U.S., Dallas in Dallas America, and Bogotá in Colombia. It is the largest of the N.I. Bureaus, with nearly a hundred satellite offices across the Americas. Its operations are classified, but are implicated in a variety of work including regime change and guerrilla training. AB/NI also fosters positive relations with the regional neighbours of the Commonwealth, particularly in Mexico, British Belize, Venezuela and Colombia. It includes the following departments.</p>
+<ul>
+<li><strong>Section 18 <em>Anatole</em></strong>: Offices and staff in the United States and Canada.</li>
+<li><strong>Section 19 <em>Bosme</em></strong>: Offices and staff in Mexico and Central America.</li>
+<li><strong>Section 20 <em>Célestine</em></strong>: Offices and staff in South America.</li>
+<li><strong>Section 21 <em>Désiré</em></strong>: Regional tactical operations command.</li>
+<li><strong>Section 22 <em>Eudea</em></strong>: Regional logistics and training command.</li>
+<li><strong>Section 23 <em>François</em></strong>: Antifascist and separatist affairs intelligence command.</li>
+<li><strong>Section 24 <em>Gosme</em></strong>: Directorate organisation command.</li>
+</ul>
+</li>
+<li>
+<p><strong>Euro Bureau (EB/NI)</strong>: The <em>European Bureau</em> at <em>National Intelligence</em> (EB/NI) reports information and conducts operations across Europe and Eurasia, particularly in the UK, France, and the Eastern Bloc. It is second-largest of the regional N.I. bureaus, with offices in London, Paris, Prague, Moscow, and Genoa, and dozens more satellite installations throughout Europe. Its intelligence doctrine is particularly defensive, since most foreign espionage in the Commonwealth originates from Western and Communist Europe, and operates special counter-espionage units for this purpose. It includes the following departments.</p>
+<ul>
+<li><strong>Section 25 <em>Ana</em></strong>: Offices and staff in Western Europe.</li>
+<li><strong>Section 26 <em>Basa</em></strong>: Offices and staff in Minor Europe.</li>
+<li><strong>Section 27 <em>Cofa</em></strong>: Offices and staff in states signatory to the Treaty of Friendship, Cooperation and Mutual Assistance.</li>
+<li><strong>Section 28 <em>Demon</em></strong>: Special counter-espionage command.</li>
+<li><strong>Section 29 <em>Eiga</em></strong>: Directorate organisation and localisation command.</li>
+</ul>
+</li>
+<li>
+<p><strong>Oriental Bureau (OB/NI)</strong>: The <em>Orient Bureau</em> at <em>National Intelligence</em> (OB/NI) reports information and conducts operations across the Orient and West Asia, Vekllei phrases spanning from the Middle East to the Pacific Islands, including South and East Asia. It maintains offices in Tokyo, Peking, Bangkok, Delhi, and Tehran. Without vested strategic interests in the area, OB/NI&rsquo;s primary mission is nation-building and observation in its region and the support of actions in its neighbouring N.I. regions.</p>
+<ul>
+<li><strong>Section 30 <em>Asosnia</em></strong>: Offices and staff in Communist China and Taiwan.</li>
+<li><strong>Section 31 <em>Bouismiosn</em></strong>: Offices and staff in Japan and South-East Asia.</li>
+<li><strong>Section 32 <em>Cismi</em></strong>: Offices and staff in India.</li>
+<li><strong>Section 33 <em>Drosviousn</em></strong>: Offices and staff in the Middle East.</li>
+<li><strong>Section 34 <em>Erswin</em></strong>: Directorate organisation and localisation command.</li>
+<li><strong>Section 35 <em>Fennet</em></strong>: Counter-espionage and political command.</li>
+</ul>
+</li>
+<li>
+<p><strong>Special Protectorate Bureau (SP/NI)</strong>: The <em>Special Protectorate Bureau</em> at <em>National Intelligence</em> (SP/NI) reports information and conducts operations across special territories and possessions of the Commonwealth, including military sites, the Vekllei Antarctic Claims, and the Lunar Territories. Although its home office is in Vekllei Proper at N.I., it serves a different function to <a href="/factbook/society/state/government/commonwealth/security/#home-office-honi">HO/NI</a>, specialising in remote, dangerous and dirty work at the fringes of Vekllei intelligence control.</p>
+<ul>
+<li><strong>Section 36 <em>Arcos</em></strong>: Offices and staff assigned to special counterintelligence work.</li>
+<li><strong>Section 37 <em>Boris</em></strong>: Offices and staff assigned to the protection of individuals.</li>
+<li><strong>Section 38 <em>Codesta</em></strong>: Offices and staff in foreign claims and Vekllei Antarctica.</li>
+<li><strong>Section 39 <em>Decrest</em></strong>: Offices and staff in foreign delegations and international waters.</li>
+<li><strong>Section 40 <em>Endoria</em></strong>: Offices and staff in Vekllei space and lunar territories.</li>
+</ul>
+</li>
+</ul>
+</div>
+</blockquote>
+
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><h2 id="boards--commissions">
+  Boards &amp; Commissions
+  <a class="anchor" href="#boards--commissions">#</a>
+</h2>
+<ul>
+<li><strong>Intelligence Audit Authority</strong>: Secure independent intelligence watchdog with high control access.</li>
+</ul>
+</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>
