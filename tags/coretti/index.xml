@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/coretti/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Radio</title>
+	  <link>https://millmint.net/stories/radio/</link>
+	  <pubDate>Mon, 08 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/radio/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears. Vekllei people don&rsquo;t own televisions, washing machines, or really any other consumer appliances. By American or European standards their lives are austere. But in place of TV is a vibrant soundscape of radio broadcasting. It&rsquo;s a tool of the state and counter-culture; hobbyists and industry alike. Pocket radios are popular, and her model was designed by Adelectrics.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/radio.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears.</div>
+</blockquote>
+
+<p>Vekllei people don&rsquo;t own televisions, washing machines, or really any other consumer appliances. By American or European standards their lives are austere. But in place of TV is a vibrant soundscape of radio broadcasting. It&rsquo;s a tool of the state and counter-culture; hobbyists and industry alike. Pocket radios are popular, and her model was designed by <a style="color: rgb(182, 34, 71)" href="/adelectrics/"><span class="fi fi-min-adelectrics fis"></span> Adelectrics</a>.</p>
+<p>Coretti was born in Zaire, but was raised in the USSR and now lives in Vekllei. The AM stations in Brazzaville are her link to the distant place of her birth.</p>
+<p>She likes rumba music just fine, but that&rsquo;s not why she tunes in. She&rsquo;s not really sure why she tunes in.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>A Vekllei Student</title>
 	  <link>https://millmint.net/stories/vekllei-student/</link>
 	  <pubDate>Mon, 15 Jan 2024 08:00:00 EST</pubDate>

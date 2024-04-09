@@ -18,6 +18,58 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Smoke</title>
+	  <link>https://millmint.net/stories/smoke/</link>
+	  <pubDate>Sat, 06 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/smoke/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora wants to be a conformist but she&rsquo;s too much of a weirdo. Tzipora&rsquo;s smoking habit upsets Cobian because she&rsquo;s a square, but Tzipora is a nonconformist by nature, not by choice.
+She keeps some smokes in her purse because it&rsquo;s good for the nerves. It was a bad habit she picked up in America working at Hotel Zion.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/smoke.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora wants to be a conformist but she&rsquo;s too much of a weirdo.</div>
+</blockquote>
+
+<p>Tzipora&rsquo;s smoking habit upsets Cobian because she&rsquo;s a square, but Tzipora is a nonconformist by nature, not by choice.</p>
+<p>She keeps some smokes in her <a href="/stories/purse/">purse</a> because it&rsquo;s good for the nerves. It was a bad habit she picked up in America working at Hotel Zion.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Coffee</title>
+	  <link>https://millmint.net/stories/coffee/</link>
+	  <pubDate>Fri, 05 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/coffee/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment. Oslola, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/coffee.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment.</div>
+</blockquote>
+
+<p><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Pistol</title>
 	  <link>https://millmint.net/stories/pistol/</link>
 	  <pubDate>Tue, 26 Mar 2024 08:00:00 EST</pubDate>
@@ -31,7 +83,7 @@
 	  <![CDATA[ Sketch of Tzipora and Baron ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/pistol.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/pistol.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Sketch of Tzipora and Baron</div>

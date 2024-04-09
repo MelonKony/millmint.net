@@ -14,16 +14,34 @@
 	<description>Recent content in Categories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Sat, 30 Mar 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Mon, 08 Apr 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>story</title>
 	  <link>https://millmint.net/categories/story/</link>
-	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
+	  <pubDate>Fri, 05 Apr 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>https://millmint.net/categories/story/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>commission</title>
+	  <link>https://millmint.net/categories/commission/</link>
+	  <pubDate>Thu, 04 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/categories/commission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -18,6 +18,109 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Radio</title>
+	  <link>https://millmint.net/stories/radio/</link>
+	  <pubDate>Mon, 08 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/radio/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears. Vekllei people don&rsquo;t own televisions, washing machines, or really any other consumer appliances. By American or European standards their lives are austere. But in place of TV is a vibrant soundscape of radio broadcasting. It&rsquo;s a tool of the state and counter-culture; hobbyists and industry alike. Pocket radios are popular, and her model was designed by Adelectrics.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/radio.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears.</div>
+</blockquote>
+
+<p>Vekllei people don&rsquo;t own televisions, washing machines, or really any other consumer appliances. By American or European standards their lives are austere. But in place of TV is a vibrant soundscape of radio broadcasting. It&rsquo;s a tool of the state and counter-culture; hobbyists and industry alike. Pocket radios are popular, and her model was designed by <a style="color: rgb(182, 34, 71)" href="/adelectrics/"><span class="fi fi-min-adelectrics fis"></span> Adelectrics</a>.</p>
+<p>Coretti was born in Zaire, but was raised in the USSR and now lives in Vekllei. The AM stations in Brazzaville are her link to the distant place of her birth.</p>
+<p>She likes rumba music just fine, but that&rsquo;s not why she tunes in. She&rsquo;s not really sure why she tunes in.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Smoke</title>
+	  <link>https://millmint.net/stories/smoke/</link>
+	  <pubDate>Sat, 06 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/smoke/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora wants to be a conformist but she&rsquo;s too much of a weirdo. Tzipora&rsquo;s smoking habit upsets Cobian because she&rsquo;s a square, but Tzipora is a nonconformist by nature, not by choice.
+She keeps some smokes in her purse because it&rsquo;s good for the nerves. It was a bad habit she picked up in America working at Hotel Zion.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/smoke.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Tzipora wants to be a conformist but she&rsquo;s too much of a weirdo.</div>
+</blockquote>
+
+<p>Tzipora&rsquo;s smoking habit upsets Cobian because she&rsquo;s a square, but Tzipora is a nonconformist by nature, not by choice.</p>
+<p>She keeps some smokes in her <a href="/stories/purse/">purse</a> because it&rsquo;s good for the nerves. It was a bad habit she picked up in America working at Hotel Zion.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Coffee</title>
+	  <link>https://millmint.net/stories/coffee/</link>
+	  <pubDate>Fri, 05 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/coffee/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment. Oslola, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/coffee.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment.</div>
+</blockquote>
+
+<p><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Maja (Commission)</title>
+	  <link>https://millmint.net/stories/maja/</link>
+	  <pubDate>Thu, 04 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/maja/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Commission for a TTRPG. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/maja.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Commission for a TTRPG.</div>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Magma</title>
 	  <link>https://millmint.net/stories/volcanology/</link>
 	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
@@ -32,7 +135,7 @@
 She is one of many volcanologists across Vekllei working for the LSRE (Land Science Research Establishment), which is a part of the national council of science establishments called SIRO.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/magma.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/magma.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Amka drives a company utility vehicle made in Vekllei and licensed from Toyota.</div>
@@ -83,7 +186,7 @@ She is one of many volcanologists across Vekllei working for the LSRE (Land Scie
 	  <![CDATA[ Sketch of Tzipora and Baron ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/pistol.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/pistol.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Sketch of Tzipora and Baron</div>

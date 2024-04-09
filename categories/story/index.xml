@@ -14,10 +14,35 @@
 	<description>Recent content in story </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Sat, 30 Mar 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Fri, 05 Apr 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/story/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Coffee</title>
+	  <link>https://millmint.net/stories/coffee/</link>
+	  <pubDate>Fri, 05 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/coffee/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment. Oslola, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/coffee.jpg"/> <blockquote class="note caption">
+  <div class="icon">
+</div>
+  <div class="text">Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment.</div>
+</blockquote>
+
+<p><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Magma</title>
 	  <link>https://millmint.net/stories/volcanology/</link>
@@ -33,7 +58,7 @@
 She is one of many volcanologists across Vekllei working for the LSRE (Land Science Research Establishment), which is a part of the national council of science establishments called SIRO.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/magma.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/magma.jpg"/> <blockquote class="note caption">
   <div class="icon">
 </div>
   <div class="text">Amka drives a company utility vehicle made in Vekllei and licensed from Toyota.</div>
