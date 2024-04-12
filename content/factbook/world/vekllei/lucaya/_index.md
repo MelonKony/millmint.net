@@ -1,11 +1,12 @@
 ---
-title: Bahamas
-fulltitle: Commonwealth of the Bahamas
+title: Lucaya
+fulltitle: Commonwealth of Lucaya
 icon: 🌹
 logo: /svg/flags/4x3/com.svg
 color: pink
 
 aliases:
+- /lucayan/
 - /bahamas/
 ---
 {{<note>}}
