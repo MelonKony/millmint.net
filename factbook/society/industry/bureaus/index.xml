@@ -18,7 +18,7 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/bureaus/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Atlantis Commodities</title>
+	  <title>Atlantis</title>
 	  <link>https://millmint.net/factbook/society/industry/bureaus/atlantis/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -28,7 +28,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the industry series of articles Atlantis Commodities International (ACI) is a commodities merchant bureau operating in in Vekllei.]]>
+	  <![CDATA[߷ Part of the industry series of articles Atlantis Bureau Corporation of Vekllei Industry Shipping &amp; logistics Headquarters Cama Founded 2025 Employees 7,470 Traded as ATS Accounted Revenue AK ✾ 120 billion S.p.A. The Atlantis Company S.p.A. is a bureau corporation in Vekllei comprising most maritime logistics and shipping business in the country. Its member corporations, including state-owned Commonwealth Lines, represent nearly monopoly power over the Vekllei shipping industry.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
@@ -37,7 +37,141 @@
   <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
 </blockquote>
 
-<p><span class="fi fi-min-atlantis fis"></span> <strong>Atlantis Commodities International</strong> (ACI) is a commodities merchant bureau operating in in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</p>
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/atlantis-shipping.svg);"></span> Atlantis</th>
+	</tr>
+
+	
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="/svg/logos/atlantis-shipping.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/bureaus/">Bureau Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Industry</th>
+		<td>Shipping &amp; logistics</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb 2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Founded</th>
+		<td>2025</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Employees</th>
+		<td>7,470</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/commsec/">Traded as</a></th>
+		<td><span class="fi fi-min-commsec fis"></span> ATS</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/bulletin/accounted-revenue/">Accounted Revenue</a></th>
+		<td>AK ✾ 120 billion</td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.p.A.</td>
+	</tr>
+	
+
+	
+</table>
+<p>The <span class="fi fi-min-atlantis fis"></span> <strong>Atlantis Company</strong> S.p.A. is a bureau corporation in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> comprising most maritime logistics and shipping business in the country. Its member corporations, including state-owned <a style="color: rgb(232, 163, 12)" href="/commonwealth-lines/"><span class="fi fi-min-CL fis"></span> Commonwealth Lines</a>, represent nearly monopoly power over the Vekllei shipping industry.</p>
+<p>Headquarted at the deepwater port in <a style="color: rgb(2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a>, Atlantis is heavily decentralised across Vekllei, and its fleet ranges from wooden trawlers to suezmax container flagships. Unlike other bureaus, constituent corporate branding usually takes precedence over the bureau, and the individual company flag flies above the Atlantis flag.</p>
+<p>Atlantis is listed on the <a style="color: rgb(2, 121, 190)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> as NMC, and is ranked 7th on the <a href="/ratings/">CRC/CSX 50</a>.</p>
+<blockquote class="note panel">
+  <div class="icon">
+</div>
+  <div class="text"><p><strong>Constituent Corporations of Atlantis S.p.A.</strong></p>
+<ul>
+<li><a style="color: rgb(232, 163, 12)" href="/commonwealth-lines/"><span class="fi fi-min-CL fis"></span> Commonwealth Lines</a></li>
+<li>Kairi Marine</li>
+<li>Atlantic International Shipping Company</li>
+<li>Roma</li>
+</ul>
+</div>
+</blockquote>
+
 ]]>
   	</content:encoded>
 	</item>
@@ -114,10 +248,14 @@
 	
 
 	
+
+	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Industry</th>
 		<td>Computing &amp; Robotics</td>
 	</tr>
+	
+
 	
 
 	
