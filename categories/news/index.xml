@@ -9,12 +9,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>news</title>
+	<title>News</title>
 	<link>https://millmint.net/categories/news/</link>
-	<description>Recent content in news </description>
+	<description>Recent content in News </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/news/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -32,10 +32,8 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-This thesis was completed in partial fulfillment of Bachelor of Media (Honours). It remains a good testament to my love of Ghibli. It was originally submitted in <strong>October 2020</strong> and published in <strong>December 2020</strong>.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This thesis was completed in partial fulfillment of Bachelor of Media (Honours). It remains a good testament to my love of Ghibli. It was originally submitted in <strong>October 2020</strong> and published in <strong>December 2020</strong>.</span>
 </blockquote>
 
 <div style="background-color: var(--gray-light); border-radius: 5px;">
@@ -46,12 +44,10 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
   <a class="anchor" href="#abstract">#</a>
 </h2>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p>This thesis looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.</p>
+  <span class="text"><p>This thesis looks to argue for the value of spatiality in several films of the Studio Ghibli franchise in Japan. Literary space, much like the cartography of the real world, helps map meaning and locate the human body in the contemporary, postmodern displacement of old constructions. In this sense, there is a functional analogy in the physical map of a town, in which a reader is able to orient themselves and locate features of note around them. So too do the spaces of film provide functional markers of value, language, behaviour, style and story against space, recalling spatiotemporality as a vessel for each of them.</p>
 <p>If all films are spatial, then many of Ghibli’s films are often utopian spaces. This is found within and without traditional utopian study — there are exemplary glimpses of pastoral, elegant <em>utopia</em> in <em>My Neighbour Totoro</em> (Tonari no Totoro, 1988), replicated in whimsy in other Miyazaki works like <em>Kiki’s Delivery Service</em> (Majo no Takkyūbin, 1989). There are however, more complicated utopias in the Ghibli catalogue that stray from orthodox imagination. Relevant to media inquiry, there are what this thesis recognises as <em>utopias-by-appropriation</em> in which the painterly depictions of urban Tokyo in <em>Whisper of the Heart</em> (Mimi o Sumaseba, 1995) or the beautiful illustrations of agrarian whimsy in <em>Only Yesterday</em> (Omoide Poro Poro, 1991) are decontextualised abroad and suspended in a traditional <em>utopian</em> ‘no-place’, where they are reinterpreted and rebuilt as fantasy. So it is that the real-world apartments of Tama Hills and the fields of Yamagata can become fictitious, spatial utopias.</p>
 <p>And so, there are two questions of interest here. First, there is the question of employing the ‘spatial turn’ of textual analysis to Ghibli films, and whether this literary framework provides value in animation. Then, there is the question of how utopia-spaces manifest in Ghibli’s catalogue of films, and how the physical heritage and landscape of cinema is misplaced and then emerges anew in fantasy form for foreign (in the scope of this study, Western) audiences, where such works remain popular, thus manufacturing utopias where, perhaps, none exist in Japan.</p>
-</div>
+</span>
 </blockquote>
 
 <h2 id="introduction">
@@ -466,10 +462,8 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/coast.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-This essay was written in December 2021. <a href="/posts/2021-12-09-moneylessness">Click here to see it as a post</a>.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This essay was written in December 2021. <a href="/posts/2021-12-09-moneylessness">Click here to see it as a post</a>.</span>
 </blockquote>
 
 <h2 id="the-vekllei-person">
@@ -605,10 +599,8 @@ This essay was written in December 2021. <a href="/posts/2021-12-09-moneylessnes
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-This article was <strong>originally published</strong> in <strong>October 2019</strong>. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This article was <strong>originally published</strong> in <strong>October 2019</strong>. This article was written shortly after my return from Hong Kong, where I got caught up in the pro-democracy protests and is a broad response to Australian coverage of the ongoing events.</span>
 </blockquote>
 
 <p><strong>Hong Kong is a loud, bustling jewel of a city.</strong> It is perhaps my favourite city in the world. On sweltering days, what sounds like raindrops smack the pavement as hundreds of air-conditioning units drip liquid into the streets below. In North Point, you might as well be fifty years back in time. Thin double-decker trams ding-ding-ding their way through crowded market streets with smells pungent enough to turn your stomach in the humid air. New tower blocks develop a run-down patina in a matter of years. Everyone is shouting, all of the time.</p>
@@ -643,10 +635,8 @@ This article was <strong>originally published</strong> in <strong>October 2019</
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-This article was <strong>originally published</strong> in <strong>December 2018</strong>. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This article was <strong>originally published</strong> in <strong>December 2018</strong>. Yes, it’s painfully self-concerned and a little difficult to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.</span>
 </blockquote>
 
 <p><strong>I did not come to Tokyo to find a reference for the Petticoat Project</strong>, because utopia does not exist there for me. In fact, by nearly every Vekllei metric, Tokyo is positively dystopian — a consumer paradise of the crushing, isolating modernity Vekllei is supposed to escape. And yet, marks of this city (and this country) are prevalent through Vekllei as a constructed country and my aesthetic as a writer and an artist. I can’t bring myself to love all of Japanese society, but I do love the country and its people. This intersection between traditional utopian world-building (along the lines of <em>News from Nowhere</em> or even the original <em>Utopia</em>) and the emotional, linear fragments of utopian storytelling which realise the cold encyclopaedia of a utopian world were the focus of my expedition to Japan. The premise of Vekllei society is at odds with so much of Japanese society — yet the emotional, aesthetic culture of the country (what I call the ‘character’ of utopianism) has influenced my media creation tremendously.</p>
@@ -703,10 +693,8 @@ This article was <strong>originally published</strong> in <strong>December 2018<
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click here to see it as a post</a>.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click here to see it as a post</a>.</span>
 </blockquote>
 
 <div style="background-color: var(--gray-light); border-radius: 5px;">
@@ -773,10 +761,8 @@ This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click he
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-This article was <strong>originally published</strong> in <strong>October 2019</strong>. It offers an analysis of Evelyn Waugh&rsquo;s <em>Handful of Dust</em> through an anti-utopian prism.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This article was <strong>originally published</strong> in <strong>October 2019</strong>. It offers an analysis of Evelyn Waugh&rsquo;s <em>Handful of Dust</em> through an anti-utopian prism.</span>
 </blockquote>
 
 <h3 id="waughs-handful-of-dust-as-anti-utopia">

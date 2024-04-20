@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>amka</title>
+	<title>Amka</title>
 	<link>https://millmint.net/tags/amka/</link>
-	<description>Recent content in amka </description>
+	<description>Recent content in Amka </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 30 Mar 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/amka/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -34,9 +34,7 @@ She is one of many volcanologists across Vekllei working for the LSRE (Land Scie
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/magma.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Amka drives a company utility vehicle made in Vekllei and licensed from Toyota.</div>
+  <span class="text">Amka drives a company utility vehicle made in Vekllei and licensed from Toyota.</span>
 </blockquote>
 
 <p>Amka works as a glacial volcanologist, sleeps on a mattress in the back of her utility vehicle, eats military rations out of a bag for dinner and LOVES her job.</p>

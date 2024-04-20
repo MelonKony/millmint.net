@@ -14,7 +14,7 @@
 	<description>Recent content in Health Parliament </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/parliaments/health/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ MSRE is part of the Parliament of Health and SIRO The Commonwealth Medical Science Research Establishment (MSRE) is a research organisation of the Parliament of Health.]]>
+	  <![CDATA[MSRE is part of the Parliament of Health and SIRO The Commonwealth Medical Science Research Establishment (MSRE) is a research organisation of the Parliament of Health.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ MSRE is part of the <a style="color: var(--color-health)" href="/helsec/"><span class="fi fi-min-health fis"></span> Parliament of Health</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">MSRE is part of the <a style="color: var(--color-health)" href="/helsec/"><span class="fi fi-min-health fis"></span> Parliament of Health</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-health fis"></span> <strong>Commonwealth Medical Science Research Establishment</strong> (MSRE) is a research organisation of the  <a style="color: var(--color-health)" href="/helsec/"><span class="fi fi-min-health fis"></span> Parliament of Health</a>.</p>

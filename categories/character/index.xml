@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>character</title>
+	<title>Character</title>
 	<link>https://millmint.net/categories/character/</link>
-	<description>Recent content in character </description>
+	<description>Recent content in Character </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 10 Jul 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/character/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -34,9 +34,7 @@ It is easy to lose track of who comes from where in Vekllei. About half of peopl
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/dress.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Tzipora&rsquo;s only party dress.</div>
+  <span class="text">Tzipora&rsquo;s only party dress.</span>
 </blockquote>
 
 <p>Tzipora was a foreigner. It was hard to pick out a distinct cultural background amidst her school uniform and wardrobe of modest, secular dailywear, which is typical of Vekllei. But she was a foreigner, and on a few days a year, when she wore her only party dress, you remembered that fact.</p>
@@ -64,9 +62,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/hardware.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">&ldquo;Throw out the hardware. Let&rsquo;s do it right.&rdquo;</div>
+  <span class="text">&ldquo;Throw out the hardware. Let&rsquo;s do it right.&rdquo;</span>
 </blockquote>
 
 ]]>
@@ -88,9 +84,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/downpour.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Where warm oceanic currents meet arctic air, a downpour catches Cobian on her way home.</div>
+  <span class="text">Where warm oceanic currents meet arctic air, a downpour catches Cobian on her way home.</span>
 </blockquote>
 
 ]]>
@@ -112,9 +106,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/corner.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">If you can find a natural corner, they make a good place to read away from all the noise.</div>
+  <span class="text">If you can find a natural corner, they make a good place to read away from all the noise.</span>
 </blockquote>
 
 ]]>
@@ -136,9 +128,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/field-portrait.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Portait of Tzipora wearing school clothes in the Vekllei Highlands.</div>
+  <span class="text">Portait of Tzipora wearing school clothes in the Vekllei Highlands.</span>
 </blockquote>
 
 ]]>
@@ -190,9 +180,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/watch.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer.</div>
+  <span class="text">All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer.</span>
 </blockquote>
 
 ]]>
@@ -214,9 +202,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketching.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring.</div>
+  <span class="text">He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring.</span>
 </blockquote>
 
 ]]>
@@ -355,9 +341,7 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/habit.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Tzipora doesn&rsquo;t smoke anymore. She prefers Camel.</div>
+  <span class="text">Tzipora doesn&rsquo;t smoke anymore. She prefers Camel.</span>
 </blockquote>
 
 ]]>
@@ -600,9 +584,7 @@ You were not allowed to smoke in government schools.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/picnic.png"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This post</strong> is an animated PNG without sound. Download the video with sound <a href="/images/picnic.mov">here</a>.</div>
+  <span class="text">✿ <strong>This post</strong> is an animated PNG without sound. Download the video with sound <a href="/images/picnic.mov">here</a>.</span>
 </blockquote>
 
 <p><strong>Such was spring</strong>. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into <a href="/factbook/landscape/boroughs/troll/">Troll</a>, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.</p>
@@ -997,7 +979,7 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/puffling.jpg"/> <p><strong>She joined the Puffin Scouts to make friends</strong>. Tzipora was not especially rugged or outdoorsy, but she was a fresh patriot, and the idea of collecting awards for conservation, in her mind, was much like Baron collecting medals for killing reds in the War.</p>
-<p>The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in <a href="/factbook/society/culture/language#7-vekllei-semaphore">Vekllei Semaphore</a>. Puffin Scout troops are based out of a region with a <a href="/posts/2020-12-05-gods/"><em>Kronaismioudelfia</em></a> (Crown Land), which are abandoned wild areas the Vekllei state has relinquished to the natural spirits worshiped in <a href="/factbook/society/culture/religion/">Upen</a>. Hikes aren’t done in Crown Lands because if someone gets hurt or goes missing it can be very difficult to get them out.</p>
+<p>The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in <a href="/factbook/society/culture/language/#7-vekllei-semaphore">Vekllei Semaphore</a>. Puffin Scout troops are based out of a region with a <a href="/posts/2020-12-05-gods/"><em>Kronaismioudelfia</em></a> (Crown Land), which are abandoned wild areas the Vekllei state has relinquished to the natural spirits worshiped in <a href="/factbook/society/culture/religion/">Upen</a>. Hikes aren’t done in Crown Lands because if someone gets hurt or goes missing it can be very difficult to get them out.</p>
 <p>These wildernesses captured Tzipora’s imagination, since they are often the site of gods and extranatural features. The animals you saw out there seemed deeply disturbed by the presence of people, as though they were the vessels of spirits, irritated that a human girl had made her way in.</p>
 <p>School-aged Puffin Scouts are called Pufflings. In Vekllei, puffin birds are as common as gulls, and nest in cliffs where they raise their young in burrows. Tzipora, despite being a Puffling, never had much luck with puffins. They seemed to exempt her from their natural friendliness and curiosity — they flew away whenever she came close, and when they didn’t fly away they attacked her. She joined the Puffin Scouts to make friends, and yet here she was, cast out from both the Human and Animal Kingdoms.</p>
 <p>In this picture, Tzipora watches a puffin in full scout regalia, wary of its intent. The birds make cute novelties for some, but Tzipora knows better. Just like Baron in the war, she sits still and watches closely, listening for movement on the wind. They are locked in a battle of the wits, waiting to see who will make the first move.</p>
@@ -1121,9 +1103,7 @@ The wind had died and it seemed that she would follow it. Crazy shadows distorte
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/melting.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <blockquote>
@@ -1154,9 +1134,7 @@ The wind had died and it seemed that she would follow it. Crazy shadows distorte
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/waterfront.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>For a brief period of time</strong>, Zelda and Cobian took it upon themselves to make something of their youth. Cobian fancied herself a gymnast, and though this ambition arrived too late and left too soon, she was quite good at it for a while. Tzipora was better suited on the trampoline, where her stiff leg didn’t give her as much trouble.</p>
@@ -1186,9 +1164,7 @@ His obscurity is part of a severe disposition, made obvious by his astonishing d
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/father.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>People are not sure what to make of Baron</strong>. They are not sure what to make of his daughter, Tzipora, either. To that end, they are lucky to have found each other.</p>
@@ -1223,9 +1199,7 @@ Her death deeply disturbed Tzipora, who was keenly aware of how sentimental peop
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/death.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>It was their first hike after Maya’s funeral</strong>. She had found adult life completely disappointing, and never moved out of home. In her last summer, she developed a desperate fascination with her receding childhood, and eventually took her own life outside of the classroom she’d studied in as a third-grade student.</p>
@@ -1251,9 +1225,7 @@ Her death deeply disturbed Tzipora, who was keenly aware of how sentimental peop
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/love.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>make love not lore</strong></p>
@@ -1278,9 +1250,7 @@ They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora reg
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/matchstick.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><em>Another paint-sketch — a painting done fast. I’m trying to learn to a) paint and b) paint on an industrial scale.</em></p>
@@ -1308,9 +1278,7 @@ They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora reg
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/roadtrip.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>They showed up at the autopool</strong>, and someone had just returned a brand new AAAC Voya Voya — incredible. It was like Christ himself had blessed them. It only (barely) seat five, and there were six of them, but it wasn’t a problem. Moise would drive, Tzipora bunked with Cobian in the passenger seat and Alise, Zo and Jerome could cram into the back. It was a squeeze but with the top down and on the coastal highway it couldn’t have mattered less. It was the car of late summer.</p>
@@ -1336,9 +1304,7 @@ The throbbing machinery of another world began turning, and anyone who saw the b
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/missile.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/4"><strong>Issue #4</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/4"><strong>Issue #4</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p>There were plumes in the sky, sent from bunkers buried deep in the well of the Earth, killing with switches. Vekllei went to war, and so Tzipora went to war with it.</p>
@@ -1366,9 +1332,7 @@ She has a lot of endearing characteristics that give great character to her mann
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/tziporacon.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <h2 id="unique-among-girls">
@@ -1401,9 +1365,7 @@ The Krafla high-energy communications tower was visible from all over the region
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/basecamp.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p>Just a paint-sketch.</p>
@@ -1430,9 +1392,7 @@ She was also naturally obsessive and material-oriented, keenly aware of the impo
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/edc.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>Like a lot of girls of poverty</strong>, Tzipora was very possessive of her things. No food was ever left on her plate. There was a deep anxiety that whatever wasn’t claimed would be lost.</p>
@@ -1466,9 +1426,7 @@ It wasn’t just her features or figure that captured Tzipora’s attention — 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/ayn.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>When Tzipora first laid eyes on Ayn</strong>, hours after her arrival in the country, she thought, “that’s the most beautiful woman I’ve ever seen.”</p>
@@ -1497,9 +1455,7 @@ Five days prior, Baron hailed an EB/NI company car and it pulled up beside him. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/rain.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>Tzipora had been ejected</strong> from the operations room once the guys arrived. She knew what was going down, anyway. No specifics. But you didn’t bring in uniformed soldiers for regular business. National Intelligence liked to work with their own people.</p>
@@ -1542,9 +1498,7 @@ There was not much to say about this, between the two of them.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/missedtrain.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>They both watched as train 416 pulled away from the platform.</strong> And that was that — there would be no school in the morning. That was how it worked in rural Vekllei, a million miles from the automatic trains on endless timetables. Out here, you paced life around the station.</p>
@@ -1570,9 +1524,7 @@ Tzipora never considered herself particularly tragic. It seemed straightforward,
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/trials.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>According to her friends</strong>, Tzipora’s contemporary afflictions were tragic.  Her medical problems; her violent childhood; her sensitivity and melancholy — you could feel sorry for her, because a lot of her problems were not her fault. She invoked sympathy.</p>

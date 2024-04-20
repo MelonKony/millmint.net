@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>merce</title>
+	<title>Merce</title>
 	<link>https://millmint.net/tags/merce/</link>
-	<description>Recent content in merce </description>
+	<description>Recent content in Merce </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 05 Mar 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/merce/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -33,9 +33,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/patrol.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them.</div>
+  <span class="text">Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them.</span>
 </blockquote>
 
 ]]>
@@ -59,21 +57,17 @@ Their police reflects this; local cops have broad informal powers unthinkable ov
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/nabbed.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">This dumbass got caught setting off fireworks in a bin with some boys behind the school.</div>
+  <span class="text">This dumbass got caught setting off fireworks in a bin with some boys behind the school.</span>
 </blockquote>
 
 <p>Constables in Vekllei are servants of their community, and know everyone by name. Misdemeanours are usually punished by something much worse than the courts: the shame and embarrassment.</p>
 <p>Vekllei is a federal country that spans the Atlantic, so self reliance and localism are essential aspects of their way of life.</p>
 <p>Their police reflects this; local cops have broad informal powers unthinkable overseas, but are kept in check by community and social codependence.</p>
 <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><p>The Vekllei policing system is informal locally, and so municipal constables have autonomy to fulfil their charter to their community. In this case, Tzipora wasn&rsquo;t breaking a law, but she should be in class so the constable is within her rights to drag her back to it.</p>
+  <span class="text"><p>The Vekllei policing system is informal locally, and so municipal constables have autonomy to fulfil their charter to their community. In this case, Tzipora wasn&rsquo;t breaking a law, but she should be in class so the constable is within her rights to drag her back to it.</p>
 <p>The village raises the child, and municipal cops are very much a part of the community, similar to how neighbourhood general practitioners form the bedrock of Vekllei healthcare. They serve important and diverse roles in the community. Most Vekllei neighbourhoods have very low crime, so a lot of what they do is community organising and mediation.</p>
 <p>As such, a constable&rsquo;s word on a matter is often a social contract you&rsquo;re expected to obey before it gets litigated formally in court, i.e. disputes between neighbours.</p>
-</div>
+</span>
 </blockquote>
 
 ]]>

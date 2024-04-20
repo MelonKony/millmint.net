@@ -14,7 +14,7 @@
 	<description>Recent content in Newsdesk </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/newsdesk/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -32,10 +32,8 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><strong>✿ Note from the Editor</strong>
-I occasionally publish letters to followers and patrons of the project to keep them informed on what&rsquo;s going on.</div>
+  <span class="text"><strong>✿ Note from the Editor</strong>
+I occasionally publish letters to followers and patrons of the project to keep them informed on what&rsquo;s going on.</span>
 </blockquote>
 
 <p>Listed below are copies of the letters distributed to patrons. <strong>If you would like to support this project on Patreon, <a href="https://www.patreon.com/vekllei">click here</a>.</strong></p>
@@ -58,9 +56,7 @@ I occasionally publish letters to followers and patrons of the project to keep t
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text">This page lists snapshots produced for patrons.</div>
+  <span class="text">This page lists snapshots produced for patrons.</span>
 </blockquote>
 
 ]]>

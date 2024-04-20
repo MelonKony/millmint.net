@@ -14,7 +14,7 @@
 	<description>Recent content in Ministry of Industry </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/industry/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of Industry ]]>
+	  <![CDATA[ This bureau is part of the Ministry of Industry ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></span>
 </blockquote>
 
 ]]>
@@ -52,13 +50,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of Industry ]]>
+	  <![CDATA[ This bureau is part of the Ministry of Industry ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></span>
 </blockquote>
 
 ]]>
@@ -76,13 +72,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of Industry Workplace Safety Commission # Workplace Democracy Commission # ]]>
+	  <![CDATA[ This bureau is part of the Ministry of Industry Workplace Safety Commission # Workplace Democracy Commission # ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></span>
 </blockquote>
 
 <h2 id="workplace-safety-commission">
@@ -108,13 +102,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ CSRE is part of the Ministry of Industry and SIRO The Commonwealth Computer Science Research Establishment (CSRE) is a research organisation of the Ministry of Industry.]]>
+	  <![CDATA[CSRE is part of the Ministry of Industry and SIRO The Commonwealth Computer Science Research Establishment (CSRE) is a research organisation of the Ministry of Industry.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ CSRE is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">CSRE is part of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-csre fis"></span> <strong>Commonwealth Computer Science Research Establishment</strong> (CSRE) is a research organisation of the <a style="color: var(--color-industry)" href="/ministry-of-industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a>.</p>

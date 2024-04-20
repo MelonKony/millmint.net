@@ -9,12 +9,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>intro</title>
+	<title>Intro</title>
 	<link>https://millmint.net/categories/intro/</link>
-	<description>Recent content in intro </description>
+	<description>Recent content in Intro </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/intro/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -55,15 +55,11 @@ I thought it was Hell.</p>
 <details open>
   <summary>Studio MillMint</summary>
   <div class="markdown-inner">
-    <ul>
-<li><a href="/"><strong>millmint.net</strong></a>
-<ul>
-<li><a href="/factbook/"><strong>/factbook/</strong></a> is an online wiki of Vekllei its people</li>
-<li><a href="/millmint/"><strong>/millmint/</strong></a> is for everything outside of it</li>
-<li><a href="/posts/"><strong>/stories/</strong></a> is for illustrated snapshots of life in Vekllei</li>
-</ul>
-</li>
-</ul>
+    
+* [**millmint.net**](/)
+  * [**/factbook/**](/factbook/) is an online wiki of Vekllei its people
+  * [**/millmint/**](/millmint/) is for everything outside of it
+  * [**/stories/**](/posts/) is for illustrated snapshots of life in Vekllei
 
   </div>
 </details>
@@ -73,9 +69,7 @@ I thought it was Hell.</p>
   <a class="anchor" href="#what-is-vekllei">#</a>
 </h2>
 <blockquote class="note millmint">
-  <div class="icon">
-</div>
-  <div class="text">✿ Main article: <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></div>
+  <span class="text">✿ Main article: <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
 </blockquote>
 
 <blockquote>
@@ -97,9 +91,7 @@ I thought it was Hell.</p>
   <a class="anchor" href="#why-utopia">#</a>
 </h2>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p>Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money &ndash; a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.</p>
+  <span class="text"><p>Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money &ndash; a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.</p>
 <p>Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It&rsquo;s filled with things I value and people I admire. You&rsquo;ll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.</p>
 <p>Just a few things to keep in mind:</p>
 <ul>
@@ -114,7 +106,7 @@ I thought it was Hell.</p>
 <li><strong>I draw in certain styles</strong>, but Vekllei isn&rsquo;t based off any one country.</li>
 <li><strong>Vekllei is mostly self-contained stories</strong>, but I experiment with mediums and methods all the time.</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <h2 id="faq">
@@ -124,59 +116,52 @@ I thought it was Hell.</p>
 <details open>
   <summary>Frequently Asked Questions</summary>
   <div class="markdown-inner">
-    <h4 id="who-are-you">
-  Who are you?
-  <a class="anchor" href="#who-are-you">#</a>
-</h4>
-<p><a href="/about/">A Tasmanian illustrator.</a></p>
-<h4 id="why-is-vekllei-a-utopia">
-  Why is Vekllei a utopia?
-  <a class="anchor" href="#why-is-vekllei-a-utopia">#</a>
-</h4>
-<p>It makes me feel better about my life and the world. It’s escapism; it’s a dream.</p>
-<h4 id="its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think">
-  It’s a bit cringe to grandstand your political beliefs, doncha think?
-  <a class="anchor" href="#its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think">#</a>
-</h4>
-<p>Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.</p>
-<h4 id="wheres-the-tension-if-its-perfect">
-  Where’s the tension if it’s perfect?
-  <a class="anchor" href="#wheres-the-tension-if-its-perfect">#</a>
-</h4>
-<p>Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.</p>
-<h4 id="is-there-a-novel-a-story-a-comic">
-  Is there a novel? A story? A comic?
-  <a class="anchor" href="#is-there-a-novel-a-story-a-comic">#</a>
-</h4>
-<p>I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.</p>
-<h4 id="where-is-vekllei">
-  Where is Vekllei?
-  <a class="anchor" href="#where-is-vekllei">#</a>
-</h4>
-<p>Iceland.</p>
-<h4 id="is-your-alt-history-thought-out">
-  Is your alt-history thought out?
-  <a class="anchor" href="#is-your-alt-history-thought-out">#</a>
-</h4>
-<p>Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.</p>
-<h4 id="why-does-vekllei-call-itself-petticoat-socialist">
-  Why does Vekllei call itself “petticoat socialist”?
-  <a class="anchor" href="#why-does-vekllei-call-itself-petticoat-socialist">#</a>
-</h4>
-<p>Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It&rsquo;s almost anarchic in that sense.</p>
-<h4 id="why-the-petticoat">
-  Why the &ldquo;petticoat&rdquo;?
-  <a class="anchor" href="#why-the-petticoat">#</a>
-</h4>
-<p>Vekllei is a female country. Womanhood is decommodified. It&rsquo;s maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.</p>
-<h4 id="who-is-zelda">
-  Who is Zelda?
-  <a class="anchor" href="#who-is-zelda">#</a>
-</h4>
-<p>Zelda is another name for <a href="/factbook/characters/">Tzipora</a>. She has two names specifically to confuse you.</p>
-<p><a href="https://www.patreon.com/vekllei">Join the Patreon</a>.</p>
-<p><a href="https://discord.gg/dCE6vSU">Join the Discord</a>.</p>
-<p>Be &ldquo;petticoat&rdquo;.</p>
+    
+#### Who are you?
+
+[A Tasmanian illustrator.](/about/)
+
+#### Why is Vekllei a utopia?
+
+It makes me feel better about my life and the world. It’s escapism; it’s a dream.
+
+#### It’s a bit cringe to grandstand your political beliefs, doncha think?
+
+Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.
+
+#### Where’s the tension if it’s perfect?
+
+Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.
+
+#### Is there a novel? A story? A comic?
+
+I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.
+
+#### Where is Vekllei?
+
+Iceland.
+
+#### Is your alt-history thought out?
+
+Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.
+
+#### Why does Vekllei call itself “petticoat socialist”?
+
+Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It's almost anarchic in that sense.
+
+#### Why the "petticoat"?
+
+Vekllei is a female country. Womanhood is decommodified. It's maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.
+
+#### Who is Zelda?
+
+Zelda is another name for [Tzipora](/factbook/characters/). She has two names specifically to confuse you.
+
+[Join the Patreon](https://www.patreon.com/vekllei).
+
+[Join the Discord](https://discord.gg/dCE6vSU).
+
+Be "petticoat".
 
   </div>
 </details>
@@ -187,39 +172,31 @@ I thought it was Hell.</p>
 </h2>
 <p>For those curious about what sort of things go into a place like Vekllei, these are some of my favourite books. I&rsquo;ve been asked about them before, so I&rsquo;ve included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you&rsquo;re interested, <a href="/about/">contact me</a>. I&rsquo;ll update this list periodically as more occur to me.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><em><strong>On the Origins of Modern Japanese Literature</strong></em></p>
+  <span class="text"><p><em><strong>On the Origins of Modern Japanese Literature</strong></em></p>
 <p><strong>Karatani Kojin</strong> | 1993</p>
 <p>Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.</p>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><em><strong>Starting Point <em>&amp;</em> Turning Point</strong></em></p>
+  <span class="text"><p><em><strong>Starting Point <em>&amp;</em> Turning Point</strong></em></p>
 <p><strong>Miyazaki Hayao</strong> | 2009 &amp; 2014</p>
 <p>These books are essentially a compilation of essays from Miyazaki&rsquo;s years as a filmmaker. He&rsquo;s an incredibly smart and insightful creative force whose work <a href="/news/essays/ghibli">I have written at length about</a> before. For me, it&rsquo;s all really powerful, affecting stuff.</p>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><em><strong>Three Faces of Utopianism Revisited</strong></em></p>
+  <span class="text"><p><em><strong>Three Faces of Utopianism Revisited</strong></em></p>
 <p><strong>Lyman Sargent</strong> | 1994</p>
 <p>This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of &lsquo;utopia&rsquo; into both dystopian and eutopian elements is also my preffered descriptor and use of &lsquo;utopia&rsquo; as a concept.</p>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><em><strong>Towards a New Architecture</strong></em></p>
+  <span class="text"><p><em><strong>Towards a New Architecture</strong></em></p>
 <p><strong>Le Corbusier</strong> | 1936</p>
 <p>Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that &lsquo;utopian&rsquo; futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.</p>
-</div>
+</span>
 </blockquote>
 
 <div class="footnotes" role="doc-endnotes">
@@ -249,9 +226,7 @@ I thought it was Hell.</p>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><a href="/factbook/"><strong>/factbook/</strong></a> is the wiki of <a href="/factbook/vekllei">Vekllei</a>, its Commonwealth, and the features of its society. It also includes articles on the <a href="/factbook/characters/">characters</a> I draw regularly.</div>
+  <span class="text"><a href="/factbook/"><strong>/factbook/</strong></a> is the wiki of <a href="/factbook/vekllei">Vekllei</a>, its Commonwealth, and the features of its society. It also includes articles on the <a href="/factbook/characters/">characters</a> I draw regularly.</span>
 </blockquote>
 
 ]]>
@@ -273,9 +248,7 @@ I thought it was Hell.</p>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><a href="/essays/"><strong>/Essays/</strong></a> holds an archive of the things that I (<a href="/about/">Hobart</a>) have written over the years. I have a background in journalism and media criticism, which doesn&rsquo;t bode well for the quality of the essays linked below. My favourites are <a href="/hong-kong/"><em>Not Long in Hong Kong</em></a>, an angry reflection on my time in Hong Kong, and <a href="/ghibli/"><em>A Universal Nostalgia</em></a>, my honours thesis on utopian spatiality in the films of Studio Ghibli &ndash; mostly used as evidence of my love of Ghibli.</div>
+  <span class="text"><a href="/essays/"><strong>/Essays/</strong></a> holds an archive of the things that I (<a href="/about/">Hobart</a>) have written over the years. I have a background in journalism and media criticism, which doesn&rsquo;t bode well for the quality of the essays linked below. My favourites are <a href="/hong-kong/"><em>Not Long in Hong Kong</em></a>, an angry reflection on my time in Hong Kong, and <a href="/ghibli/"><em>A Universal Nostalgia</em></a>, my honours thesis on utopian spatiality in the films of Studio Ghibli &ndash; mostly used as evidence of my love of Ghibli.</span>
 </blockquote>
 
 ]]>
@@ -297,9 +270,7 @@ I thought it was Hell.</p>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><a href="/millmint/"><strong>/MillMint/</strong></a> is the place for everything going on at Studio MillMint and the <a href="/factbook/vekllei">Vekllei</a> world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on <a href="/news/essays/moneylessness/">functional moneylessness</a> and <a href="/news/essays/utopie/"><em>utopie concrète</em></a>.</div>
+  <span class="text"><a href="/millmint/"><strong>/MillMint/</strong></a> is the place for everything going on at Studio MillMint and the <a href="/factbook/vekllei">Vekllei</a> world-building project. It also includes essays written by author Hobart Phillips relevant to the project, particularly on <a href="/news/essays/moneylessness/">functional moneylessness</a> and <a href="/news/essays/utopie/"><em>utopie concrète</em></a>.</span>
 </blockquote>
 
 ]]>

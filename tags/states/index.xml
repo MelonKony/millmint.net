@@ -9,12 +9,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>states</title>
+	<title>States</title>
 	<link>https://millmint.net/tags/states/</link>
-	<description>Recent content in states </description>
+	<description>Recent content in States </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/states/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -32,9 +32,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">Welcome to <em>Stories from the Horizon</em>, Tzipora&rsquo;s journey through Vekllei.</div>
+  <span class="text">Welcome to <em>Stories from the Horizon</em>, Tzipora&rsquo;s journey through Vekllei.</span>
 </blockquote>
 
 ]]>
@@ -57,9 +55,7 @@ Upen is being practiced 500BC Beginning of Oslolan Common Period 200 Beginning o
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text">This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.</div>
+  <span class="text">This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.</span>
 </blockquote>
 
 <h2 id="pre-war-timeline">

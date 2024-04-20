@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>guide</title>
+	<title>Guide</title>
 	<link>https://millmint.net/tags/guide/</link>
-	<description>Recent content in guide </description>
+	<description>Recent content in Guide </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 14 Nov 2020 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/guide/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -34,9 +34,7 @@ This post will briefly discuss some elements shown in this infographic, but a la
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/language.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/7"><strong>Issue #7</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/7"><strong>Issue #7</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>For all you&rsquo;ve seen of Vekllei and her characters</strong>, you&rsquo;ve never heard a single one of them speak. This post marks a little exploration into the Vekllei language, and a &lsquo;soft launch&rsquo; of my website, <a href="https://millmint.net">https://millmint.net</a>. The proper launch will come at the end of the month.</p>
@@ -84,9 +82,7 @@ She has a lot of endearing characteristics that give great character to her mann
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/tziporacon.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <h2 id="unique-among-girls">
@@ -120,9 +116,7 @@ So Vekllei is a utopia — what does this mean?]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/whatisvekllei.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>What is Vekllei?</strong></p>
@@ -200,9 +194,7 @@ The largest division of any portion of Vekllei land is the borough; a region of 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/railmap.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>Map Key</strong></p>
@@ -246,9 +238,7 @@ The largest division of any portion of Vekllei land is the borough; a region of 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/crown.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>Vekllei, legendarily, does not use circulate currency</strong>. Goods and services are moved and offered arbitrarily, provided amply in abundance. Anything that is not abundant is manufactured and distributed directly under the control of a bureau, which is a trade organ responsible to the affairs of the country. At no point do coins or paper currency change hands in the day-to-day affairs of the country.</p>

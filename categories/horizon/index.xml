@@ -14,7 +14,7 @@
 	<description>Recent content in Stories from the Horizon </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/horizon/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -47,9 +47,7 @@
 </figure>
 
 <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Flag of the borough of <a href="/lola/">Lola</a>.</div>
+  <span class="text">Flag of the borough of <a href="/lola/">Lola</a>.</span>
 </blockquote>
 </p>
 <p>The war destroyed Lola and its ancient capital district, Reykjavic. Two 5 megaton fission bombs struck near its harbour, and the blasts rushed up its surrounding plains and steep hills, poisoning its earth with radiation and wiping clean a thousand years of history. Nearly 500,000 people died.</p>
@@ -83,9 +81,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="/video/trailer.mp4"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">No, I&rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&rsquo;d like to. <a href="/video/trailer.mp4/">Click here to watch with sound.</a></div>
+  <span class="text">No, I&rsquo;m not making an low-budget 1980s television anime (yet). Yes, I&rsquo;d like to. <a href="/video/trailer.mp4/">Click here to watch with sound.</a></span>
 </blockquote>
 
 ]]>

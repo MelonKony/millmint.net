@@ -14,7 +14,7 @@
 	<description>Recent content in Education Parliament </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/parliaments/education/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,14 +28,12 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Parliament of Education The Bureau of Public Education oversees all compulsory education across the Commonwealth, including both government and vocational schools.
+	  <![CDATA[This bureau is part of the Parliament of Education The Bureau of Public Education oversees all compulsory education across the Commonwealth, including both government and vocational schools.
 Vekllei Primary Education Directorate # Vekllei Higher Education Directorate # All-Commonwealth School Directorate # The All-Commonwealth School Directorate (ACC) manages the local production of school materials, particularly uniforms and textbooks, and ensures their availability and quality for students. The ACC is not involved in teaching or study itself, and instead serves learning infrastructure, including the maintenance and renewal of existing school buildings.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-education fis"></span> <strong>Bureau of Public Education</strong> oversees all compulsory education across the Commonwealth, including both government and vocational schools.</p>
@@ -75,13 +73,11 @@ Vekllei Primary Education Directorate # Vekllei Higher Education Directorate # A
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ National Labs are part of the Parliament of Education and SIRO Commonwealth Laboratories (also National Labs) is the primary government research complex in Vekllei. It operates out of two main campuses complexes in Oslola and Kairi, and has auxiliary campuses in the Bahamas, Verde, and Sude. It is a part of SIRO.]]>
+	  <![CDATA[National Labs are part of the Parliament of Education and SIRO Commonwealth Laboratories (also National Labs) is the primary government research complex in Vekllei. It operates out of two main campuses complexes in Oslola and Kairi, and has auxiliary campuses in the Bahamas, Verde, and Sude. It is a part of SIRO.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ National Labs are part of the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">National Labs are part of the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
 <p><span class="fi fi-min-commonwealth-labs fis"></span> <strong>Commonwealth Laboratories</strong> (also <em>National Labs</em>) is the primary government research complex in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It operates out of two main campuses complexes in <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and <a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a>, and has auxiliary campuses in the Bahamas, Verde, and <a style="color: rgb(60, 122, 184)" href="/sude/"><span class="fi fi-gs"></span></span> Sude</a>. It is a part of <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a>.</p>

@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>catia</title>
+	<title>Catia</title>
 	<link>https://millmint.net/tags/catia/</link>
-	<description>Recent content in catia </description>
+	<description>Recent content in Catia </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 06 Jan 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/catia/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -35,21 +35,17 @@ Notes on Headscarves in Vekllei Schools Under the uniform code, only &ldquo;veil
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/hijab.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Vekllei has large Muslim populations in <a href="/mira/">Mira</a>.</div>
+  <span class="text">Vekllei has large Muslim populations in <a href="/mira/">Mira</a>.</span>
 </blockquote>
 
 <p>Revision of the Vekllei school uniform hijab. It now fastens with a school crest pin.</p>
 <p>Mostly for use among the Portuguese muslim community across <a style="color: rgb(91, 67, 138)" href="/mira/"><span class="fi fi-mira"></span> Mira</a> (Madeira) and the Azores. I&rsquo;m not quite happy with this sketch, and I would like to include more Miran elements in future.</p>
 <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><p><strong>Notes on Headscarves in Vekllei Schools</strong>
+  <span class="text"><p><strong>Notes on Headscarves in Vekllei Schools</strong>
 <br>
 Under the uniform code, only &ldquo;veils&rdquo; are permitted, which encompasses a range of headwear for various groups including Christian and Jewish orthodox communities. No face coverings are allowed.</p>
 <p>Regarding Islamic head coverings, it&rsquo;s not a common issue because Miran muslims do not generally wear a Niqab or similar.</p>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -71,9 +67,7 @@ Under the uniform code, only &ldquo;veils&rdquo; are permitted, which encompasse
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/united-grocers.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">The Miranese islanders <a href="/stories/isuri/">Isuri and Catia</a> return.</div>
+  <span class="text">The Miranese islanders <a href="/stories/isuri/">Isuri and Catia</a> return.</span>
 </blockquote>
 
 <p>As they approached adulthood, <a href="/corsosva/">compulsory service</a> loomed large in their futures like a great wall. The thing about compulsory service (or &lsquo;corsosva,&rsquo; as it was called) was that it could be dice toss, which was a hell of a thing for something that took four years of your life. You applied for jobs you might like to do, but if they were full or you didn&rsquo;t make the cut, you could find yourself on the other side of the country doing clerical work or working construction in the Arctic.</p>
@@ -100,9 +94,7 @@ Isuri (right) was born on Mira to Sinhalese parents and Catia (left) is also Mir
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/isuri.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">From left: Catia, Isuri.</div>
+  <span class="text">From left: Catia, Isuri.</span>
 </blockquote>
 
 <p>This drawing depicts girls wearing school uniforms on the <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> republic of  <a href="/mira/"><span class="fi fi-mira"></span> Mira</a> (real-life Madeira), a former Portuguese territory that now has a large population of immigrants from <a href="/ceylon/"><span class="fi fi-lk"></span> Ceylon</a>.</p>

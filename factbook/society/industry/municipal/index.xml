@@ -14,7 +14,7 @@
 	<description>Recent content in Municipal Industry </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/municipal/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the industry series of articles United Grocers Municipal Corporation of Vekllei Industry Food &amp; Retail Headquarters Virgin Founded 2018 Employees 82,900 Traded as UNG Accounted Revenue AK ✾ 70 billion United Grocers is an inter-municipal co-operative business that sells agricultural surplus through its network of franchised groceries. It can be found in one form or another across all of Vekllei. United Grocers is a signatory to the Living Standards Scheme, and so can be compelled by the government to distribute appropriated food in times of need.]]>
+	  <![CDATA[Part of the industry series of articles United Grocers Municipal Corporation of Vekllei Industry Food &amp; Retail Headquarters Virgin Founded 2018 Employees 82,900 Traded as UNG Accounted Revenue AK ✾ 70 billion United Grocers is an inter-municipal co-operative business that sells agricultural surplus through its network of franchised groceries. It can be found in one form or another across all of Vekllei. United Grocers is a signatory to the Living Standards Scheme, and so can be compelled by the government to distribute appropriated food in times of need.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/united-grocers.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/united-grocers.jpg"/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">

@@ -9,12 +9,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>documents</title>
+	<title>Documents</title>
 	<link>https://millmint.net/tags/documents/</link>
-	<description>Recent content in documents </description>
+	<description>Recent content in Documents </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/documents/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,29 +28,26 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documents 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth 📄Document No.]]>
+	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documents - 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth - 📄Document No.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text"><span class="smallicon" style="font-size: 14px;">⚠️</span> This list is evolving, and will be expanded in future.</div>
+  <span class="text"><span class="smallicon" style="font-size: 14px;">⚠️</span> This list is evolving, and will be expanded in future.</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><strong>The Vekllei Document System</strong> is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions.</div>
+  <span class="text"><strong>The Vekllei Document System</strong> is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions.</span>
 </blockquote>
 
 <details open>
   <summary>Documents</summary>
   <div class="markdown-inner">
-    <ul>
-<li><a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth</li>
-<li><a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools</li>
-<li><a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM</li>
-</ul>
+    
+- <a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth
+- <a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools
+- <a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM
+
+
 
   </div>
 </details>

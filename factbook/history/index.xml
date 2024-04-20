@@ -14,7 +14,7 @@
 	<description>Recent content in History </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/history/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the history series of articles The Council of Roses was the informal cabinet of the Interim Prosperity Government, formed in 2015 to the establish the shape of a future independent Vekllei Commonwealth. Made of up of so-called &ldquo;loveable radicals,&rdquo; the council was created by British administrators as a strategic concession to rising communist activity in Vekllei. For this reason, the Council was majority-women, since they were poorly represented among communist leadership, and consisted mostly of leaders in arts, science and industry.]]>
+	  <![CDATA[Part of the history series of articles The Council of Roses was the informal cabinet of the Interim Prosperity Government, formed in 2015 to the establish the shape of a future independent Vekllei Commonwealth. Made of up of so-called &ldquo;loveable radicals,&rdquo; the council was created by British administrators as a strategic concession to rising communist activity in Vekllei. For this reason, the Council was majority-women, since they were poorly represented among communist leadership, and consisted mostly of leaders in arts, science and industry.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/history/">history</a></em> series of articles</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/history/">history</a></em> series of articles</span>
 </blockquote>
 
 <p><strong>The Council of Roses</strong> was the informal cabinet of the <a href="/interim/">Interim Prosperity Government</a>, formed in 2015 to  the establish the shape of a future independent Vekllei Commonwealth. Made of up of so-called &ldquo;loveable radicals,&rdquo; the council was created by British administrators as a strategic concession to rising communist activity in Vekllei. For this reason, the Council was majority-women, since they were poorly represented among communist leadership, and consisted mostly of leaders in arts, science and industry.</p>
@@ -54,14 +52,12 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the history series of articles The Interim Vekllei Government (also the Interim Parliament and Interim Prosperity Government) was a temporary puppet state of the United Kingdom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.
+	  <![CDATA[Part of the history series of articles The Interim Vekllei Government (also the Interim Parliament and Interim Prosperity Government) was a temporary puppet state of the United Kingdom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.
 Included was a majority female Council of Roses, many of whom were socialists opposed to communist unrest in British-occupied Vekllei and were seen as a strategic alternative to a hostile communist government upon British withdrawal.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/history/">history</a></em> series of articles</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/history/">history</a></em> series of articles</span>
 </blockquote>
 
 <p>The <strong>Interim Vekllei Government</strong> (also the <em>Interim Parliament</em> and <em>Interim Prosperity Government</em>) was a temporary puppet state of the United Kingdom, established in 2015 as a means to Vekllei independence after twenty years of British occupation in the country. It consisted of approved leaders in the arts and industry, who developed proposals for a new democratic Vekllei state.</p>

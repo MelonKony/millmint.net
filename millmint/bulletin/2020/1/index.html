@@ -1,0 +1,1038 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Issue 1 | May 2020 - MillMint</title>
+
+    
+    <meta name="description" content="Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.9abdecaa73b400bb4ff2be7221f01081b72e070bd6d7f48a28c520f69e8aabc35a790b4edbec233ce3ca1cb94dc2b2eb1f915e09f2170013649148728c974bec.css" integrity="sha512-mr3sqnO0ALtP8r5yIfAQgbcuBwvW1/SKKMUg9p6Kq8NaeQtO2&#43;wjPOPKHLlNwrLrH5FeCfIXABNkkUhyjJdL7A==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Issue 1 | May 2020 &middot; MillMint" />
+    <meta property="og:description" content="Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/millmint/bulletin/2020/1/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.56108f7e1bc7c016e690c1ce84911292e635f6702d45b1db15138952e926f983.js" integrity="sha256-VhCPfhvHwBbmkMHOhJESkuY19nAtRbHbFROJUukm&#43;YM=" crossorigin="anonymous"></script>
+    
+
+    </head><body data-color="yellow"  class="show-all-images">
+    <main>
+        <article class="notebook"><header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/map/" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/world" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/world/countries" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/social-economy" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="/stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/radio/"><span class="navicon">📗</span>Story: <i>Radio</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+                    
+    <header class="info">
+  <h1 class="title">The Atlantic Bulletin</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">🌼</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/millmint/">
+			MillMint</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="">
+			Bulletin</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/millmint/bulletin/2020/">
+			The Atlantic Bulletin Archive</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/millmint/bulletin/2020/1/">
+			Issue 1 | May 2020</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  <div class="emoji" id="whirlybat">f</div>
+  
+
+  <div class="emoji" id="whirlybat">f</div>
+  
+
+    
+    
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="title">
+                        <span>Issue 1 | May 2020</span>
+                        <span class="icon">🌼</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
+    <li><a href="#i-news--announcements">I. News &amp; Announcements</a></li>
+    <li><a href="#ii-tzipora-watch">II. Tzipora-watch</a></li>
+    <li><a href="#iii-vekllei-fact-of-the-month">III. Vekllei Fact of the Month</a></li>
+    <li><a href="#iv-the-bulletin">IV. The Bulletin</a>
+      <ul>
+        <li><a href="#fission-cloud-at-veklleis-50th-anniversary">Fission Cloud at Vekllei&rsquo;s 50th Anniversary</a></li>
+        <li><a href="#hot-rain-in-the-arctic-circle">Hot Rain in the Arctic Circle</a></li>
+        <li><a href="#the-last-train-out-of-ada">The Last Train Out of Ada</a></li>
+        <li><a href="#winter-uniforms-in-vekllei">Winter Uniforms in Vekllei</a></li>
+        <li><a href="#2031-apartment-diagram">2031 Apartment Diagram</a></li>
+        <li><a href="#fiery-peaks">Fiery Peaks</a></li>
+        <li><a href="#the-chemical-feast">The Chemical Feast</a></li>
+        <li><a href="#the-trials-of-cobian">The Trials of Cobian</a></li>
+      </ul>
+    </li>
+    <li><a href="#v-the-book-club">V. The Book Club</a>
+      <ul>
+        <li><a href="#a-cashless-tokyo">A Cashless Tokyo</a></li>
+      </ul>
+    </li>
+    <li><a href="#vi-gallery">VI. Gallery</a>
+      <ul>
+        <li><a href="#cat-2852020">Cat [28.5.2020]</a></li>
+        <li><a href="#redhead-2452020">Redhead [24.5.2020]</a></li>
+        <li><a href="#spirit-1852020">Spirit [18.5.2020]</a></li>
+        <li><a href="#salt-nip-752020">Salt Nip [7.5.2020]</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<details class="mobile toc">
+  <summary>
+    <span class="navicon">📑</span>Table of Contents
+  </summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
+    <li><a href="#i-news--announcements">I. News &amp; Announcements</a></li>
+    <li><a href="#ii-tzipora-watch">II. Tzipora-watch</a></li>
+    <li><a href="#iii-vekllei-fact-of-the-month">III. Vekllei Fact of the Month</a></li>
+    <li><a href="#iv-the-bulletin">IV. The Bulletin</a>
+      <ul>
+        <li><a href="#fission-cloud-at-veklleis-50th-anniversary">Fission Cloud at Vekllei&rsquo;s 50th Anniversary</a></li>
+        <li><a href="#hot-rain-in-the-arctic-circle">Hot Rain in the Arctic Circle</a></li>
+        <li><a href="#the-last-train-out-of-ada">The Last Train Out of Ada</a></li>
+        <li><a href="#winter-uniforms-in-vekllei">Winter Uniforms in Vekllei</a></li>
+        <li><a href="#2031-apartment-diagram">2031 Apartment Diagram</a></li>
+        <li><a href="#fiery-peaks">Fiery Peaks</a></li>
+        <li><a href="#the-chemical-feast">The Chemical Feast</a></li>
+        <li><a href="#the-trials-of-cobian">The Trials of Cobian</a></li>
+      </ul>
+    </li>
+    <li><a href="#v-the-book-club">V. The Book Club</a>
+      <ul>
+        <li><a href="#a-cashless-tokyo">A Cashless Tokyo</a></li>
+      </ul>
+    </li>
+    <li><a href="#vi-gallery">VI. Gallery</a>
+      <ul>
+        <li><a href="#cat-2852020">Cat [28.5.2020]</a></li>
+        <li><a href="#redhead-2452020">Redhead [24.5.2020]</a></li>
+        <li><a href="#spirit-1852020">Spirit [18.5.2020]</a></li>
+        <li><a href="#salt-nip-752020">Salt Nip [7.5.2020]</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</details>
+
+
+
+    
+
+<article class="line-numbers"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <h2 id="from-the-editor">
+  <strong>From the Editor</strong>
+  <a class="anchor" href="#from-the-editor">#</a>
+</h2>
+<p>Welcome to the inaugural issue of The Atlantic, a monthly bulletin for enthusiasts and fans of the Petticoat Project, Vekllei, Tzipora and its constellation of interests and affairs. For the benefit of compatibility, The Atlantic is published in websafe typography to keep this bulletin looking great on any screen.</p>
+<p>If you would like to contribute to The Atlantic with writing, art or reviews relevant to the spirit of petticoat ideology, please contact Hobart at <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a> before the <strong>31st of June</strong>.</p>
+<p>Thank you for supporting Vekllei, and I hope you find value in this bulletin.</p>
+<p><strong>Enjoy — 楽しんで</strong></p>
+<hr>
+<h2 id="i-news--announcements">
+  I. News &amp; Announcements
+  <a class="anchor" href="#i-news--announcements">#</a>
+</h2>
+<ol>
+<li>To celebrate reaching $50 a month on Patreon, Hobart plans to illustrate, print and ship six full-colour postcards and ship them to Patrons whose total lifetime pledge comes to $20 or more. Contact <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a> for inquiries and eligibility (or through any other available contact). Currently 2 out of 4 are completed, with several others in various states of completion. <strong>They will be done by the end of June and printed in July.</strong></li>
+<li>The Studio MillMint site is undergoing major renovations thanks to the contributions of Ben_R_R#2574, a longtime patron and friend of the project. Changes to the site will be announced as they come in this bulletin, the #lounge and Patreon.</li>
+<li>The Atlantic bulletin is launched. There will be twelve issues a year. They will feature content of interest to fans of the Petticoat Project.</li>
+<li>Hobart has his final assessment task due on the 12th of June. Post schedule may suffer leading up to this period.</li>
+<li>The Patreon has hit $80 a month. That’s an incredibly amount of interest and I’d like to thank all patrons for their financial support — it helps keep the lights on and gives me hope that I can work full-time on the project some day.</li>
+</ol>
+<hr>
+<h2 id="ii-tzipora-watch">
+  II. Tzipora-watch
+  <a class="anchor" href="#ii-tzipora-watch">#</a>
+</h2>
+<p>May 5th is Tzipora’s birthday. She spends her birthday with Baron and Ayn; her friends are relegated to the day after.</p>
+<hr>
+<h2 id="iii-vekllei-fact-of-the-month">
+  III. Vekllei Fact of the Month
+  <a class="anchor" href="#iii-vekllei-fact-of-the-month">#</a>
+</h2>
+<p>You might be aware of venrouive and senrouive property, which mark ‘essential’ and ‘personal’ business respectively, but there is also a rarely-used third classification called uousinasenrouive. This means, roughly, “property-obligation”. These places require a physical obligation from their owners, usually a debt owed to the history of the place. For example, an apartment above a bakery would usually fall under such a category, since living there would require operation and maintenance of the business also. Uousinasenrouive are very common in Vekllei, and many older residences involve these work obligations.</p>
+<hr>
+<h2 id="iv-the-bulletin">
+  IV. The Bulletin
+  <a class="anchor" href="#iv-the-bulletin">#</a>
+</h2>
+<h3 id="fission-cloud-at-veklleis-50th-anniversary">
+  Fission Cloud at Vekllei&rsquo;s 50th Anniversary
+  <a class="anchor" href="#fission-cloud-at-veklleis-50th-anniversary">#</a>
+</h3>
+<p><strong>📖 Published 31st May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gu0nwj/fission_cloud_at_veklleis_50th_anniversary/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/fission.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>In an unprecedented event</strong>, during Vekllei’s 50th Sea Festival since Independence in 2065, an 8 kiloton fission bomb was sunk to a depth of 150 meters and detonated at midday. It was an incredible sight on a day so clear you could see the gentle curve of the earth where it met the horizon. A flash of light and a spray dome surged outwards into the quiet Atlantic, which was broken apart by plumes that formed a column of water that climbed high into the sky. The lateral plumes, the “mushroom”, reached far across the horizon, forming thick clouds that would begin to rain into the sea. From the coast, fifteen kilometres away, a warm light bathed observers and was followed a moment later by a bang that deeply shook you and those around you. In this instance it seemed that the whole universe was their domain.</p>
+<p>The plume would rise nearly 1,500 metres into the sky before falling away. It stayed that way for a while. Almost nobody moved for a long time after — people stood on cars and tables. You could only recognise the scale and the feeling of the fission bomb by seeing it in person.
+It seemed incomprehensible, in the face of such a device, that wars could still be fought at all. What use is a battleship in the face of a cloud like that?</p>
+<blockquote>
+<p>Tzipora and Elise, covering the detonation for Lola 7th School’s student newspaper, found themselves not quite sure what to say. Elise wrote, captioning Tziproa’s photograph, “The Independence bomb filled our sky with our sea for a half-hour on Sunday, and with it rose the thoughts of every person in attendance, who considered the awesome power now shouldered by each of us.”</p>
+</blockquote>
+<p>There was indeed some sense that they had contributed to the bomb, and that they had more at their disposal. Few would fly the planes to deliver them, and fewer still had the brains to develop them, but participating in a nuclear century contributed to, in some effect, a nuclear horizon.</p>
+<hr>
+<h3 id="hot-rain-in-the-arctic-circle">
+  Hot Rain in the Arctic Circle
+  <a class="anchor" href="#hot-rain-in-the-arctic-circle">#</a>
+</h3>
+<p><strong>📖 Published 27th May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gqy57h/hot_rain_in_the_arctic_circle/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/rain.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>Tzipora had been ejected</strong> from the operations room once the guys arrived. She knew what was going down, anyway. No specifics. But you didn’t bring in uniformed soldiers for regular business. National Intelligence liked to work with their own people.</p>
+<p>Five days prior, Baron hailed an EB/NI company car and it pulled up beside him. The electric passenger window slid down. Baron nodded at the passenger.</p>
+<p>“Everything’s in here. There’s more if you need it. I’d appreciate a call, I’m in my office all next week, okay?” He passed over a white postage envelope. “Take care.”
+The British man opened the letter and read it twice as the car approached the <a href="/factbook/landscape/boroughs/pharos/#vekllei-world-jetport">Vekllei World Jetport</a>.</p>
+<blockquote>
+<p>JULES WYNN IS YOUR 3RD MAN. “JEREMY” APPEARS IN ARCHIVES 2046 — ALMOST CERTAINLY WYNN. NEARLY 20 YEARS. NOTES TO USSR THRU CYPHER CLERK (UNKNOWN). RECALLED TO MOSCOW — GREAT SUSPICION OF HIM FROM CONTROLLER DOWSETT-CLARK (OXFORD). THIS IS GOOD INFO FROM PARIS ASSET. WYNN WILL DIE IN RUSSIA. GET HIM AND ANOTHER RING SURFACES. CIA KNOWS WHERE BUT NOT WHO. DO US BOTH A FAVOUR.</p>
+</blockquote>
+<p>Tzipora went for a walk to clear her head. She had a lot going on in her life — though she was sure it seemed small compared to whatever was going on in the operations room.
+It began to rain an hour into the walk. She’d left her umbrella with the rest of her things in Baron&rsquo;s office. That was okay. She didn’t mind the shower, anyway — it was mid-summer, and the rain was warm. What a novelty that was, at 60 degrees north. This was weather from the sunny Azores, pulled north by the wind currents over the Atlantic. Within minutes her skirt was heavy and her camisole was showing at the shoulders. She blinked heavy streams of water out of her eyes.
+She passed the soldiers on their way out as she returned to AB/NI reception. A friendly receptionist had cloaked her in a towel by the time Baron had found her.</p>
+<blockquote>
+<p>“Did you have a good meeting?” She asked.
+“Sure,” and characteristically, he considered that a satisfactory answer. He pulled the towel off her head. “You’re completely soaked.”
+“It doesn’t matter. Are you with those guys? About that other guy?”
+“Watch it,” he said. “Keep that talk past security. But I’m going to fly out tomorrow. I’ll be back in the evening.”
+“No cooking for me, then. Where are you going? Or can’t you say?”
+“England.”
+“Oh,” Tzipora said, forming a gun with her fingers. “Like James Bond.”</p>
+</blockquote>
+<p>Her life was a nexus of various global ambitions, it seemed — imagined only through the dreamy lens of a teen-ager too small for the world’s problems.</p>
+<hr>
+<h3 id="the-last-train-out-of-ada">
+  The Last Train Out of Ada
+  <a class="anchor" href="#the-last-train-out-of-ada">#</a>
+</h3>
+<p><strong>📖 Published 20th May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gndpwo/the_last_train_out_of_ada/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/missedtrain.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>They both watched as train 416 pulled away from the platform.</strong> And that was that — there would be no school in the morning. That was how it worked in rural Vekllei, a million miles from the automatic trains on endless timetables. Out here, you paced life around the station.</p>
+<p>There was not much to say about this, between the two of them. Tzipora looked at Cobian and pulled a froggy smile that tried to express that it was nobody’s fault. Sure — it was Tzipora who had misplaced her purse, and it was also true that it was Tzipora who’d stopped by the orchard to steal a peach, but as to how they’d missed the train? It was simply impossible to say.</p>
+<p>“You’re a complete idiot,” Cobian said matter-of-factly, and Tzipora wilted. They watched 416 trundle into the sunset. A picturesque vision of rural utopia — if only they were a part of it.</p>
+<hr>
+<h3 id="winter-uniforms-in-vekllei">
+  Winter Uniforms in Vekllei
+  <a class="anchor" href="#winter-uniforms-in-vekllei">#</a>
+</h3>
+<p><strong>📖 Published 16th May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gkuij7/winter_uniforms_in_vekllei/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/winteruniforms.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>When I paint Vekllei, I usually depict the warmer months.</strong> Hems are shorter, days are longer, and the destabilisation of the world’s climate has only benefited these arctic people. At the gift end of the Vekllei low pressure system, Scandinavian misery has become Mediterranean pleasure, with warm summers and a mild Autumn and Spring.</p>
+<p>Still, by late October, the the earth is hard with cold and the days are short. The world may be warmer, but Vekllei’s polar latitude is unchanged, and in the depths of winter the sun only rises for an hour a day. These are Vekllei’s “moon months”, and they announce some of the most important spiritual festivals in Upen.</p>
+<blockquote>
+<p>Although school hours are reduced in winter, life carries on and Vekllei fashion becomes traditionally utilitarian. Tzipora has poor circulation and cold hands even in the warm months, and by November she’s traded the skirt and gi for traditional rouisha trousers and a cloak. Rouisha, like a lot of traditional clothing, have origins in agriculture and are characterised by a loose, baggy fit and insulated lining. Cobian is wearing a heavy wool sack-type dress, which is worn like an apron over other clothing. Winter brings forth “petticoat society” literally. Note the leather plate on her shoulder, to which her christmas aiguillette is attached.</p>
+</blockquote>
+<p>In this sense, Winter’s revival of traditional clothing and customs further evidences its practice as the most traditional season of the year. Although the warm calendar flourishes with the futurist sympathies of a modernist Vekllei, not even the atomic age has been able to dispense with its hard-worked pragmatism developed in a millennia of bitter cold.</p>
+<hr>
+<h3 id="2031-apartment-diagram">
+  2031 Apartment Diagram
+  <a class="anchor" href="#2031-apartment-diagram">#</a>
+</h3>
+<p><strong>📖 Published 15th May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gjpcha/2031_apartment_diagram/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/apartment.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>Baron had inherited the apartment from his uncle</strong>, who passed in the year following his parents. It was in a mixed residential-industrial neighbourhood, adjacent to a canvas factory. Out back was a rivulet, which roared in the long rainstorms of early April.</p>
+<blockquote>
+<p>Each January, the Colour Bureau of the Architecture Assembly announces the year’s colours, and tradition in mainstream architecture and interior design is to incorporate the announced palettes, which usually contain a hundred or so colours. His uncle’s apartment had been built and furnished in 2031, and so it had a #2031 Colour Profile.</p>
+</blockquote>
+<p>In some ways, it was a very conventional apartment in the Vekllei tradition. It had a sauna and bath in the wetroom, a bidet, a sunken living room and a bread oven. In others, it was more peculiar. The apartment was bizarrely allocated across three levels. You alighted the entrance light well into a sunken living space, then climbed back up into the kitchen. The main living room and master bedroom were another step above the kitchen. Adjacent to the main living area was a closet and study, which overlooked the entrance from a half-meter mezzanine.</p>
+<p>It was in this study that Tzipora set up shop when she arrived in March 2063. Baron had been reluctant to take her even provisionally, not least because it would mean searching for a new apartment in his busy return period after being abroad for ten years. Tzipora, however, had lived in a dormitory for much of her life and had settled in the alcove once she acquired a dresser screen. She refused outright the master bedroom, which sparked a sleepy agoraphobia. By the time Baron had made other accomodations, Tzipora had entrenched herself in the neighbourhood and had developed a severe sentimentality about the apartment and its rivulet, and so that was where he lived for the rest of his life.</p>
+<p>In this sense, Tzipora had a strange kinship with the apartment. Baron sealed himself off in the master bedroom each night, but she never left the main living space. It was warm in there, especially in the flickering light of the enormous oven and fireplace, and when she moved the screen aside in the morning her little corner became part of the living area.</p>
+<p>She had a lot of good memories of that apartment.</p>
+<hr>
+<h3 id="fiery-peaks">
+  Fiery Peaks
+  <a class="anchor" href="#fiery-peaks">#</a>
+</h3>
+<p><strong>📖 Published 7th May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gel3e9/fiery_peaks/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/peaks.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>After three days in Ada</strong>, Tzipora set off towards Mt Miya. She made good time, and after three hours had happened upon the shoulders of the bright Volouisnesnkull Glacier. It was about here that she heard a morbid industrial siren, echoing up the valleys from far away.</p>
+<p>At first she thought it might have come from Ada, since Boya Chemical had a large plant there, but as she lay out her things for lunch she heard the distinct whine of a turbojet. It grew louder, and deeper, until a National Fire VTOL tanker roared across the sky, swirling powdered snow on nearby peaks as it arced across the glacier. It was close enough to catch the sun ablaze in the reflection of its glass nosecone.</p>
+<p>She later learned that lava streams had opened up not far from where she’d hiked, and had been making their way towards a geothermal power plant nestled in the highlands. In the evening, on her way back, she saw a long line of fire supertankers and pumpers spraying water in beautiful arcs, where it caught hisses from bright streams of melted rock. It was a common enough sight in Vekllei — hoses were the only defence you could reasonably make against the the fracturing earth.</p>
+<p>Still, it was not often you saw jets flying so low. It was funny to her that even the barren glaciers were tamed in this age.</p>
+<hr>
+<h3 id="the-chemical-feast">
+  The Chemical Feast
+  <a class="anchor" href="#the-chemical-feast">#</a>
+</h3>
+<p><strong>📖 Published 6th May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/ge1gmw/the_chemical_feast/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/feast.jpg" alt="img"  loading="lazy" />
+  
+</figure>
+</p>
+<p><strong>East of Montre, West of Tjornes, waits a rare sight among Vekllei’s hard igneous slopes</strong> — a crown of gentle sedimentary cliffs packed with ruddy sandstone, which melt glacially into the sea chasing blue-sky bergs.</p>
+<p>Tzipora was, at the time, making her way on foot from Montre-Lola to Ada, which was a coastal town in the North-East known for its luxurious health spas. Tzipora was not much interested in health, but she was interested in walking, and she made a pilgrimage along the coast every few years to make sense of the world. She was going whichaway and destined for nowhere in particular. Tzipora was very much Baron’s daughter, in the end.</p>
+<p>She had stopped to see the Red Cliffs forty kilometres out from Tjornes when she saw a cruiser of the constabulary parked unusually by the shore. The constabulary were not local police — they were a national outfit tasked with policing government and “bureau business”. You found them at power plants, outside universities, guarding the prime minister and providing bodies for HO/NI (Home Office at National Intelligence) when they needed doors kicked.</p>
+<p>Tzipora was not the sort of girl to be intimidated by a badge, and she wandered innocently to the shore where she found the cruiser empty. She looked across a beach of black sand and saw some sort of operation playing out — there was a gun boat not too far from the shore, and a police hydrofoil beached on the sand. She counted maybe a dozen officers. She wondered if they’d arrest her if she walked down to see what was happening. She climbed onto the hood of the cruiser to get a better look. Perhaps it was immigrants — or smugglers.</p>
+<p>It only took another moment to spot the smashed crates broken across the rocks before she knew what was going on. She was witnessing the dying days of the countercultural decade, and its chemical fuel was now smashed open before her.</p>
+<blockquote>
+<p>The 2070s were a wild time for the so-called “pink years” in Vekllei, and for the first time in Tzipora’s memory she started seeing “pleasure drugs” on the streets. There had always been plenty of sin carrying on in Vekllei, even in her early days — hallucinogenics, alcohol, and synthesised highs were legal and easy. But you didn’t see much of the exotic stuff, which grew in a better climate. Hash, coke, H — it was all underground stuff for personal use. These drugs were listed among many others in the class-A import prohibition orders, which made them hard to find and illegal to import. These were “pleasure drugs” — the Vekllei phrase for overseas narcotics that didn’t have a place in Upen or a preexisting cultural history. Comparatively, they were just ‘for pleasure’.</p>
+</blockquote>
+<blockquote>
+<p>H for heroin was a big news item for a long time, and with it you had one the largest moral panics in modern Vekllei cultural memory. Crackdowns came soon after. Tzipora found it difficult to describe the feeling of the time. It was a new generation — one she didn’t belong to, despite her appearance — and she didn’t have much sympathy for hedonists. They might tell her different, but she never thought the pink years were about much more than feeling good all of the time. She wondered if she was growing old and grumpy inside.</p>
+</blockquote>
+<p>She wondered how the crates had got there. Had the coast guard sunk another smugger? You heard about the navy firing shots in the news sometimes.</p>
+<p>Ruined with seawater and picked over by constables, the chemical feast of Vekllei’s pink years died with the times. Tzipora wouldn’t miss it.</p>
+<p>She stepped off the hood and set off back towards the road, where a warm inn and hot food awaited her.</p>
+<hr>
+<h3 id="the-trials-of-cobian">
+  The Trials of Cobian
+  <a class="anchor" href="#the-trials-of-cobian">#</a>
+</h3>
+<p><strong>📖 Published 2nd May 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/gbknfu/the_trials_of_cobian/">Read here</a>.</p>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/trials.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<p>According to her friends, Tzipora’s contemporary afflictions were tragic. Her medical problems; her violent childhood; her sensitivity and melancholy — you could feel sorry for her, because a lot of her problems were not her fault. She invoked sympathy.
+Tzipora never considered herself particularly tragic. It seemed straightforward, if difficult; she continued to live — and so she lived. Tzipora&rsquo;s sympathy was instead reserved for her first and closest friend: Cobian.</p>
+<p>Cobian was not well-liked at school, and it did not take long for Tzipora to find out why. She had a childish edge for a sixteen-year-old, and bitterly hated losing. She was not good at school or sports, was not particularly charming, and came across as desperately lonely. She was a quiet misandrist, which would have been fine if she could play the part of a self-assured social matriarch, but her mother’s despotic conservatism struck out that possibility early on. Such is life.</p>
+<p>And because her world was predicated on being liked and living a normal life, her psyche prohibited self-reflection. That was the great difference between Cobian and Tzipora. They may both have been young and neurotic, but Tzipora’s relentless self-interrogation left great space for personal growth. Cobian was instead trapped in a domestic play-fantasy, in which she could live out a mythical high-school life, and shattering that illusion would collapse her whole reason for being.</p>
+<blockquote>
+<p>Tzipora recalled visiting Cobian’s home for the first time. Cobian’s mother asked Tzipora to remove her shoes and socks and wash her feet before going to play inside. By the time Tzipora found Cobian in her room, the girl had already changed and handed over her uniform to be laundered. Tzipora, in her tomboyish indigence, had never encountered such a brutally hygienic regime.</p>
+</blockquote>
+<blockquote>
+<p>Cobian was a different girl at home. Her anxiety and neurosis washed out a little, and her confidence was propped up by the routines her mother had set out for her since she was a child. There was a friendly, curious girl buried under a decade of loneliness.</p>
+</blockquote>
+<p>Tzipora wondered what Cobian thought about lying in bed at night, and why the girl worried so much about things that didn’t matter. And it was precisely in the smallness of those things and the tremendous anxiety Cobian owed toward them that made Tzipora want to hug her. To be so worked up over something so pathetic was startlingly moving. The idea that the girl had deluded herself into a corner of hopelessness seemed sad — and the fact that no one would reasonably care about such a feeble, meaningless, self-inflicted state of affairs made it tragic.</p>
+<p>Through Tzipora’s friendship and the world it opened up for her, some of Cobian’s edges were sanded down. Some of it was a late maturity — some of it was Tzipora’s dismantling of the scaffolding the girl’s mother had shoved in there. With that effort, and obvious love, Cobian’s reason for being changed too. One day, in Tzipora’s presence, it didn’t seem so important to be liked by everybody anymore.</p>
+<hr>
+<h2 id="v-the-book-club">
+  V. The Book Club
+  <a class="anchor" href="#v-the-book-club">#</a>
+</h2>
+<h3 id="a-cashless-tokyo">
+  A Cashless Tokyo
+  <a class="anchor" href="#a-cashless-tokyo">#</a>
+</h3>
+<p><strong>📖 Published 28th December 2018</strong></p>
+<blockquote class="note info">
+  <span class="text"><strong>✿ Note from the Editor</strong>
+This essay was published on the original Vekllei site in February 2019. Since it will not be coming back, it is being reprinted here in a desperate attempt to fill out this issue. Yes, it’s painfully self-concerned and a little painful to read back, but for newcomers to the project you might find some “obvious truths” about Vekllei you have not yet encountered.</span>
+</blockquote>
+
+<hr>
+<p>I did not come to Tokyo to find a reference for the Petticoat Project, because utopia does not exist there for me. In fact, by nearly every Vekllei metric, Tokyo is positively dystopian — a consumer paradise of the crushing, isolating modernity Vekllei is supposed to escape. And yet, marks of this city (and this country) are prevalent through Vekllei as a constructed country and my aesthetic as a writer and an artist. I can’t bring myself to love all of Japanese society, but I do love the country and its people. This intersection between traditional utopian world-building (along the lines of News from Nowhere or even the original Utopia) and the emotional, linear fragments of utopian storytelling which realise the cold encyclopaedia of a utopian world were the focus of my expedition to Japan. The premise of Vekllei society is at odds with so much of Japanese society — yet the emotional, aesthetic culture of the country (what I call the ‘character’ of utopianism) has influenced my media creation tremendously.</p>
+<p>As a supplementary preface, I would like to note that it would be terrible of me to dismiss Japan as an oriental wonder of salarymen and neo-Zaibatsu. That approach has more in common with Frank Capra’s wartime propaganda piece Know Your Enemy: Japan than it does with real structural criticism. It is all too easy to dismiss the social and economic conditions of the country today as the natural inclination of a Japanese caricature — a homogenous hive-mind of enormously productive and obedient people. This is of course a terrible attack on the proud and long-standing tradition of dissent and progressiveness in the country — which is also home to one of the world’s largest opposition communist parties. It is a country of student mobilisation, protests and intense factionalism between the left and right-wing radicals (Andrews, W., 2016). It is important not to conflate the impersonal structures of a society with the orientalist idea of cultural predisposition.</p>
+<p>A love of Studio Ghibli films and a desire for material and emotional escapism is what drives my utopian world-building. Where co-founder Isao Takahata had a penchant for artful emotional realism and domestic drama, Hayao Miyazaki has found tremendous success in Japan and abroad with his fantastical stories rich with nostalgia and warmth. They have obvious recurring themes — childhood, environmentalism, aircraft, etc., but it is no real secret (at least to media critics and Ghibli superfans) that these overt recurrences are symptomatic of more serious and grounded beliefs. In a fantastic analysis of My Neighbour Totoro, Phillip E. Wegner makes use of Kojin Karatani’s works (another great influence of mine) to illustrate Miyazaki’s uniquely Japanese pre-Meiji cross-generational nostalgia evident in the film.</p>
+<blockquote>
+<p>What Miyazaki presents us with in My Neighbor Totoro is a vision in which the classic &ldquo;what if&rdquo; question of the genre has been proposed: that is, what if the Meiji revolution did not happen? Moreover, since it is the dramatic and rapid modernization of the Meiji period that gives rise to the virulent imperialist nationalism and militarism that ultimately results in the Second World War, Miyazaki also offers in his film us a glimpse of a Japan in which the catastrophe of World War II did not occur (Wegner, P.E., 2010).</p>
+</blockquote>
+<p>Japan’s spectre of modernity is a recurring character in many of Miyazaki’s films, just as the villain of war revives itself time and time again — from the steel production of Iron Town in Princess Mononoke to the death of the golden age of aviation in The Wind Rises. Karatani’s landmark work, Origins of Japanese Literature, makes clear that basic premises of modern society — from children to history to nature — are not immutable items atomised by scientific fact, but instead products of modern society that have not always existed (Karatani, K., 1993. pp. 12-44, 113-135). Vekllei reflects this concept, at least superficially — children are represented as independent agents desegregated from modern age-based schooling, nature is regarded as a fellow social organ, and work is largely self-satisfying and decommodified. These are things that are important to me and it makes sense enough that Vekllei reflects that.</p>
+<p>Similarly, even supposedly less political Ghibli films like Kiki’s Delivery Service carry powerful images of the ‘spectre of modernity’. Regarding the climax of the film in which a zeppelin soars hopelessly out of control over a city, A.J. Rocca hauntingly writes:</p>
+<blockquote>
+<p>[We] find that this is not truly a witch’s story, but a ghost story. The ghost died in a fire on 6 May 1937, foreshadowing the fires of a war that would change the world forever. The ghost is called the Spirit of Freedom in the film, but its true name is LZ 129 Hindenburg, and it’s not the spirit of freedom but the ghost of modernity (Rocca, 2017).</p>
+</blockquote>
+<p>So the material manifestation of Japanese society for me— despite all the glory of her bright packaging and dense infrastructure — is an aesthetic and satirical media culture that saturates the Petticoat Project. Vekllei is a &lsquo;poor man’s Utopia&rsquo;, inspired in part by my superficial understanding of a ‘poor man’s Japan&rsquo;. Vekllei, like media representations of postwar Shōwa Japan, has a shadow of pacifism and shame about it (that idea that &lsquo;all politics is sexual pathology’ occurs to me). These are deliberate aesthetic choices that reflect not landscape utopianism but character utopianism — the real colour of a constructed world that acts out the structure of mean ideology and culture-constructs. These ill-defined images of utopian society, and a rejection of landscape world-building, are excellent vehicles for utopian writing. After all, it is sustained engagement with utopia that betrays the totality of it (Wegner, P.E., 1998). What fascinates me particularly about Miyazaki’s unique utopian instincts is his recurring premise is essentially nostalgic and escapist — the aesthetic of a Miyazaki film is almost always midcentury or earlier, illustrating a time before Japan’s ‘modern century’. This is in stark contrast to the saccharine optimism of utopian socialists like Morris, Chernyshevsky, and Bellemy, telling stories of a future yet to come.</p>
+<p>And that is to say nothing of the aesthetic qualities of a Japanese city!  Tokyo is a wonderful glimpse of a retro-future as imagined by the 1980s — as though the economic crisis of the 1990s has since suspended time. Japan is clean and modern, but also retrofuturistic. The lifeblood of the city is in rebar and concrete as infrastructure. The people on the street are dressed in conservative items that go without the prudish connotations of similar Western fashion. Working men and women are suited traditionally, many with waistcoats. Such is the visual language of modern Japan. Young men sport tech-wear or innovative types of street-wear dominated by colour and comfort. General women’s fashion leans heavily on items popularly discarded in Western markets, at least until recently. Pleat or patterned skirts, blouses, cardigans, hosiery and socks, loafers and brogues, etc. are very common and provide a wonderful anecdotal rebuff to the outrageous images of ‘Harajuku girls’ and Lolita style that epitomise some ideas of Japanese fashion. The famous ‘sailor uniform’ has been largely phased out of junior and senior high schooling, replaced with Western-style blazers and ties. Tokyo is not ‘behind’ the rest of the world; that is not what it means to be retrofuturistic. In my eyes, it has disembarked from Western technological and fashion attitudes some time ago and has since progressed on its own collective cultural intuition, and has subsequently spent the last few decades exporting media, fashion and culture into the West. It’s a great thing to see in person, at the heart of it all.</p>
+<p>Despite my qualms with modern Japanese consumer society, Vekllei is perched on a romanticised and fictitious Japanese aesthetic, and the country is enormously influential on the way I go about world-construction. With one sentence I will denounce the complexity of Japanese honorific language systems and in the other fawn over the mixed agricultural-residential suburbs that make up so much of the land outside of Tokyo’s city limits. Koka parks were inspired by these displays of community food production. The Vekllei Constabulary were created after research and experience with the Japanese Police Box system. Vekllei’s knotted network of trains and streetcars are reminiscent of Tokyo and Hiroshima. For all my public rejection of modern consumer society, and my begrudging participation in it, the Japanese qualities of Vekllei are valuable and are utopian in their own right — and so Tokyo remains one of the most important inspirations of Petticoat Society in the world.</p>
+<p>So what of that dichotomy? Of deep ideological incongruities with Japanese consumer society, but an embarrassing affection for the mythological post-war aesthetic and Japanese culture? The truth of it is that Vekllei is first and foremost a collection of stories, and stories are the domain of the emotional. Wonderful, vague images of utopia — like washing corn in My Neighbour Totoro or an all-night writing session in Whisper of the Heart. My time in Tokyo introduced me to a wealth of these nostalgic feelings — of curiosity in a cauldron of social atomisation. Life in Tokyo is not without problems, and it is certainly not my perfect idea of utopia, but the intersection of the culture and promise of Japanese society, either in the past as alt-history or in the future as science fiction, has me coming back time and time again to better realise my own projects of utopia.</p>
+<p><strong>Works cited above:</strong></p>
+<pre><code>Andrews, W., 2016. Dissenting Japan: A History of Japanese Radicalism and Counterculture from 1945 to Fukushima. Oxford University Press.
+
+Karatani, K., 1993. Origins of modern Japanese literature. Duke University Press.
+
+Rocca, A. (2017). Miyazaki’s Haunted Utopia: The Ghost of Modernity in 'Kiki’s Delivery Service'. [online] PopMatters. Available at: https://www.popmatters.com/miyazakis-haunted-utopia-ghost-modernity-kikis-delivery-service-2495410503.html [Accessed 24 Dec. 2018].
+
+Wegner, P.E., 2010. &quot; An Unfinished Project that was Also a Missed Opportunity&quot;: Utopia and Alternate History in Hayao Miyazaki's My Neighbor Totoro. ImageTexT: Interdisciplinary Comics Studies, 5(2).
+
+Wegner, P.E., 1998. Horizons, Figures, and Machines: The Dialectic of Utopia in the Work of Fredric Jameson [with Comments]. Utopian Studies, 9(2), pp.58-77.
+</code></pre>
+<hr>
+<h2 id="vi-gallery">
+  VI. Gallery
+  <a class="anchor" href="#vi-gallery">#</a>
+</h2>
+<p>This month’s sketches, presented without context or or standards of quality. Contact Hobart at <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a> for full-res versions of any images received in this bulletin.</p>
+<h3 id="cat-2852020">
+  Cat [28.5.2020]
+  <a class="anchor" href="#cat-2852020">#</a>
+</h3>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/sketches/cat.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<h3 id="redhead-2452020">
+  Redhead [24.5.2020]
+  <a class="anchor" href="#redhead-2452020">#</a>
+</h3>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/sketches/redhead.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<h3 id="spirit-1852020">
+  Spirit [18.5.2020]
+  <a class="anchor" href="#spirit-1852020">#</a>
+</h3>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/sketches/spirit.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<h3 id="salt-nip-752020">
+  Salt Nip [7.5.2020]
+  <a class="anchor" href="#salt-nip-752020">#</a>
+</h3>
+<p>
+
+
+ 
+<figure>
+  <img src="https://images.millmint.net/images/sketches/dog.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
+<hr>
+<p><em>Published by MillMint Press. Copyright 2020. To stop receiving these emails send UNSUBSCRIBE to <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a>.</em></p>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/millmint/">MillMint</a>
+</li>
+
+
+<li
+>
+    <a href="">Bulletin</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/millmint/bulletin/2020/">The Atlantic Bulletin Archive</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/millmint/bulletin/2020/1/">Issue 1 | May 2020</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 20/04/2024</span>
+    <span class="pill">
+      <div class="pill-category">millmint</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Issue 1 | May 2020</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2023 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.906898e8f8f4e3a062a2857f9d0d2fcf8166467fa878d1e38d3bfb375d2f0421.js"></script>
+</body>
+
+</html>

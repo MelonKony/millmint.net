@@ -14,7 +14,7 @@
 	<description>Recent content in Ministry of Defence </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/defence/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of Defence The Bureau of Supply is a specialised defence organ that coordinates supply and logistics for the Crown Armed Forces and security services of Vekllei, including its policing and intelligence services. The Bureau of Supply also administrates the network of Crown Ordnance Factories and the production and acquisition of aircraft and vehicles. It is not responsible for strategic decisions about the make and type of supply, only the facilitation and distribution of the purchase.]]>
+	  <![CDATA[This bureau is part of the Ministry of Defence The Bureau of Supply is a specialised defence organ that coordinates supply and logistics for the Crown Armed Forces and security services of Vekllei, including its policing and intelligence services. The Bureau of Supply also administrates the network of Crown Ordnance Factories and the production and acquisition of aircraft and vehicles. It is not responsible for strategic decisions about the make and type of supply, only the facilitation and distribution of the purchase.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <p>The <em>Bureau of Supply</em> is a specialised defence organ that coordinates supply and logistics for the Crown Armed Forces and security services of Vekllei, including its policing and intelligence services. The Bureau of Supply also administrates the network of Crown Ordnance Factories and the production and acquisition of aircraft and vehicles. It is not responsible for strategic decisions about the make and type of supply, only the facilitation and distribution of the purchase.</p>
@@ -53,16 +51,14 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of Defence The Armed Forces of Vekllei, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the Crown Armed Forces, are a sovereign feature of the country and as such are placed under direct supervision of the Palace of Vekllei &ndash; seperate from the Vekllei and Commonwealth governments.]]>
+	  <![CDATA[This bureau is part of the Ministry of Defence The Armed Forces of Vekllei, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the Crown Armed Forces, are a sovereign feature of the country and as such are placed under direct supervision of the Palace of Vekllei &ndash; seperate from the Vekllei and Commonwealth governments.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
-<p>The <em>Armed Forces of Vekllei</em>, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a>, are a sovereign feature of the country and as such are placed under direct supervision of the <a href="/factbook/society/state/palace/">Palace of Vekllei</a> &ndash; seperate from the Vekllei and Commonwealth governments.</p>
+<p>The <em>Armed Forces of Vekllei</em>, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a>, are a sovereign feature of the country and as such are placed under direct supervision of the <a>Palace of Vekllei</a> &ndash; seperate from the Vekllei and Commonwealth governments.</p>
 <p>The purpose of the Armed Forces of Vekllei, an agency-level body under control of COSMOKOS, is to integrate the Crown Armed Forces with the interior government, and facilitate the employ of Vekllei people in the Armed Forces.</p>
 <h2 id="department-of-communications">
   Department of Communications
@@ -73,7 +69,7 @@
   Department of Compulsory Service
   <a class="anchor" href="#department-of-compulsory-service">#</a>
 </h2>
-<p>The <em>Department of Compulsory Service</em> (DoCS, also CS) oversees the Vekllei Compulsory Service Scheme, a hybrid civilian/military conscription law that requires four years from each Commonwealth citizen between the ages of 18 and 32. Despite reporting to the Armed Forces of COSMOKOS, the DoCS does not facilitate widespread conscription and mobilisation of the civilian population, a role served by the <a href="#department-of-mobilisation">DoM</a>. Instead, it is responsible primarily for supervising the fulfilment of the Compulsory Service Scheme, and administrating the conscription and training of Vekllei citizens, including in civilian and industrial roles.</p>
+<p>The <em>Department of Compulsory Service</em> (DoCS, also CS) oversees the Vekllei Compulsory Service Scheme, a hybrid civilian/military conscription law that requires four years from each Commonwealth citizen between the ages of 18 and 32. Despite reporting to the Armed Forces of COSMOKOS, the DoCS does not facilitate widespread conscription and mobilisation of the civilian population, a role served by the <a href="/factbook/society/state/government/ministries/defence/bureau-of-war/#department-of-mobilisation">DoM</a>. Instead, it is responsible primarily for supervising the fulfilment of the Compulsory Service Scheme, and administrating the conscription and training of Vekllei citizens, including in civilian and industrial roles.</p>
 <h2 id="department-of-expeditionary-affairs">
   Department of Expeditionary Affairs
   <a class="anchor" href="#department-of-expeditionary-affairs">#</a>
@@ -83,7 +79,7 @@
   Department of Mobilisation
   <a class="anchor" href="#department-of-mobilisation">#</a>
 </h2>
-<p>The <em>Department of Mobilisation</em> (DoM) is responsible for recruitment in peacetime, and conscription in the outbreak of war. In the Floral Period, Vekllei defensive doctrine aims to make the country &ldquo;ungovernable,&rdquo; requiring widespread mobilisation and training of the civilian population. Unlike the <a href="#department-of-compulsory-service">DoCS</a>, the DoM is concerned primarily with the combat effectiveness of the mobilised population, and is generally distinguished in its strategic military thinking.</p>
+<p>The <em>Department of Mobilisation</em> (DoM) is responsible for recruitment in peacetime, and conscription in the outbreak of war. In the Floral Period, Vekllei defensive doctrine aims to make the country &ldquo;ungovernable,&rdquo; requiring widespread mobilisation and training of the civilian population. Unlike the <a href="/factbook/society/state/government/ministries/defence/bureau-of-war/#department-of-compulsory-service">DoCS</a>, the DoM is concerned primarily with the combat effectiveness of the mobilised population, and is generally distinguished in its strategic military thinking.</p>
 <h2 id="department-of-peacekeeping">
   Department of Peacekeeping
   <a class="anchor" href="#department-of-peacekeeping">#</a>
@@ -119,13 +115,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of Defence The Defence Imagery Establishment provides geospatial and topographic intelligence to Vekllei and its intelligence community, including the Military. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.]]>
+	  <![CDATA[This bureau is part of the Ministry of Defence The Defence Imagery Establishment provides geospatial and topographic intelligence to Vekllei and its intelligence community, including the Military. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-defence fis"></span> <strong>Defence Imagery Establishment</strong> provides geospatial and topographic intelligence to <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its intelligence community, including the <a style="color: var(--color-defence)" href="/military/"><span class="fi fi-min-defence fis"></span> Military</a>. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.</p>
@@ -144,22 +138,18 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ DSRE is part of the Ministry of Defence and SIRO The Commonwealth Defence Science Research Establishment (DSRE) is a research organisation of the Ministry of Defence. It is a part of SIRO and is the primary government military research organisation in Vekllei. It is also the largest constituent research establishment of SIRO, and has nearly 25,000 employees across many offices, research complexes, and secure facilities.
+	  <![CDATA[DSRE is part of the Ministry of Defence and SIRO The Commonwealth Defence Science Research Establishment (DSRE) is a research organisation of the Ministry of Defence. It is a part of SIRO and is the primary government military research organisation in Vekllei. It is also the largest constituent research establishment of SIRO, and has nearly 25,000 employees across many offices, research complexes, and secure facilities.
 The DSRE has extensive connections throughout the Commonwealth defence industry, and regularly collaborates with industry here and abroad.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ DSRE is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">DSRE is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-dsre fis"></span> <strong>Commonwealth Defence Science Research Establishment</strong> (DSRE) is a research organisation of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. It is a part of <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a> and is the primary government military research organisation in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is also the largest constituent research establishment of <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a>, and has nearly 25,000 employees across many offices, research complexes, and secure facilities.</p>
 <p>The DSRE has extensive connections throughout the Commonwealth defence industry, and regularly collaborates with industry here and abroad. It is a major contributor to Vekllei sciences and several DSRE inventions have trickled down to the public, including the permanent pleat and instaskin.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="executive-council">
+  <span class="text"><h2 id="executive-council">
   Executive Council
   <a class="anchor" href="#executive-council">#</a>
 </h2>
@@ -176,13 +166,11 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 <li><strong>Director</strong>, Defence Research Intelligence Establishment</li>
 <li><strong>Director</strong>, <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="departments">
+  <span class="text"><h2 id="departments">
   Departments
   <a class="anchor" href="#departments">#</a>
 </h2>
@@ -257,13 +245,11 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="boards--commissions">
+  <span class="text"><h2 id="boards--commissions">
   Boards &amp; Commissions
   <a class="anchor" href="#boards--commissions">#</a>
 </h2>
@@ -271,7 +257,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 <li><strong>DSRE Industry Board</strong>: Partner representatives from industry for public-private research.</li>
 <li><strong>Defence Research Intelligence Establishment</strong>: Counter-espionage organisation joined with the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -289,27 +275,21 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ The Police of the Parliament are part of the Ministry of Defence ✿ Read more: The Police of the Parliament The Police of the Parliament (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the Police of the Public.]]>
+	  <![CDATA[The Police of the Parliament are part of the Ministry of Defence ✿ Read more: The Police of the Parliament The Police of the Parliament (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the Police of the Public.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ The Police of the Parliament are part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">The Police of the Parliament are part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/stories/police/">The Police of the Parliament</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/stories/police/">The Police of the Parliament</a></em></span>
 </blockquote>
 
-<p>The <em>Police of the Parliament</em> (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the <a href="#police-of-the-public">Police of the Public</a>. As a paramilitary force, the VENOPOR are also trained to support the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a> in wartime, and coordinate broad mobilisation in the event of a defensive war.</p>
+<p>The <em>Police of the Parliament</em> (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the <a href="/factbook/society/state/government/ministries/defence/police-of-the-parliament/#police-of-the-public">Police of the Public</a>. As a paramilitary force, the VENOPOR are also trained to support the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a> in wartime, and coordinate broad mobilisation in the event of a defensive war.</p>
 <p>VENOPOR jurisdiction is organised within the individual theatre commands of the Crown Armed Forces. Kala, the Antilles and the Vekllei and Kalina Islands maintain their own VENOPOR police forces, and other Commonwealth members and territories are dependent on Vekllei Islands policing.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h3 id="sections">
+  <span class="text"><h3 id="sections">
   Sections
   <a class="anchor" href="#sections">#</a>
 </h3>
@@ -319,9 +299,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <a class="anchor" href="#companies-section-of-the-parliament-police">#</a>
 </h4>
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/stories/compor/">Compor, Vekllei&rsquo;s Special Police</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/stories/compor/">Compor, Vekllei&rsquo;s Special Police</a></em></span>
 </blockquote>
 <p>The <em>Companies Section</em> (Compor) is a paramilitary and riot control unit concerned with maintaining public peace. Compor moves to meet riots, participate in counter-terrorism and counter-espionage operations, and support the Crown Armed Forces in wartime.</p>
 <h4 id="rifles-section-of-the-parliament-police">
@@ -329,9 +307,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <a class="anchor" href="#rifles-section-of-the-parliament-police">#</a>
 </h4>
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/stories/rifles/">The Rifles Section</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/stories/rifles/">The Rifles Section</a></em></span>
 </blockquote>
 <p>The <em>Rifles Section</em> is a special weapons unit employing specially-trained officers and tactical vehicles for high-risk situations. They are tasked primarily with counter-terrorism, hostage and weapons situations.</p>
 <h4 id="animals-section-of-the-parliament-police">
@@ -339,25 +315,21 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <a class="anchor" href="#animals-section-of-the-parliament-police">#</a>
 </h4>
 <p>The <em>Animals Section</em> employs officers trained in animal-handling and their animal companions, usually dogs and horses. It is the oldest of the National Police sections, as the successor of an animals support unit of the Royal Armed Forces in the 16th Century.</p>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h3 id="guards">
+  <span class="text"><h3 id="guards">
   Guards
   <a class="anchor" href="#guards">#</a>
 </h3>
-<p><em>Guards</em> are semiautonomous units that operate independently of VENOPOR situational command. They are not independent policing branches, and are generally supplied and trained within existing VENOPOR systems, but serve distinct and specialised policing functions outside of the conventional policing duties of VENOPOR <a href="#sections">sections</a>.</p>
+<p><em>Guards</em> are semiautonomous units that operate independently of VENOPOR situational command. They are not independent policing branches, and are generally supplied and trained within existing VENOPOR systems, but serve distinct and specialised policing functions outside of the conventional policing duties of VENOPOR <a href="/#sections">sections</a>.</p>
 <h4 id="coast-guard-of-the-parliament-police">
   Coast Guard of the Parliament Police
   <a class="anchor" href="#coast-guard-of-the-parliament-police">#</a>
 </h4>
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/posts/2021-11-14-coastguard/">The Vekllei Coast Guard</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/posts/2021-11-14-coastguard/">The Vekllei Coast Guard</a></em></span>
 </blockquote>
 <p>The <em>Vekllei Coast Guard</em> (also the <em>Navy of the Parliament</em> or the <em>Coast Guard of the Parliament Police</em>) is the maritime naval police of Vekllei responsible for search and rescue and law enforcement in the territorial waters of Vekllei.</p>
 <p>As part of the Commonwealth Security Concordat, the Vekllei Coast Guard also provides maritime policing services to members of the Commonwealth. It is among the most well-equipped and militarised coast guards in the world, and assists in rigorous protection of Vekllei&rsquo;s Atlantic claims and oceanic exclusive economic zones.</p>
@@ -371,9 +343,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <a class="anchor" href="#mint-guard-of-the-parliament-police">#</a>
 </h4>
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/posts/2021-04-09-sappers/">Gold Sappers</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/posts/2021-04-09-sappers/">Gold Sappers</a></em></span>
 </blockquote>
 <p>The <em>Mint Guard</em> (also <em>Gold Sappers</em>) are responsible for the security of financial assets in Vekllei, particularly currency and gold reserves minted and held by the Vekllei National Mint. In addition to providing security for Mint sites and infrastructure, the Mint Guard also escorts the transfer of Vekllei currency and gold internationally.</p>
 <h4 id="judicial-guard-of-the-parliament-police">
@@ -391,7 +361,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <a class="anchor" href="#militia-of-the-parliament-police">#</a>
 </h4>
 <p>The <em>Militia</em> of the Parliament Police are an auxiliary and reserve force of the VENOPOR, and serve a similarly paramilitary function in Vekllei society. Although the miltia report to the Crown Armed Forces as part of the VENOPOR, they similarly serve a primarily policing role in peacetime consisting mostly of crowd control and support of conventional policing outfits. Militia units in Vekllei may consist of volunteers, as per the Army Reserves, or conscripts in Compulsory Service.</p>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -409,20 +379,16 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ The Police of the Public are part of the Ministry of Defence ✿ Read more: The Police of the Public The Police of the Public (COSMOPOR) are the local police in Vekllei, consisting mostly of constabulary responsible for local policing. COSMOPOR are retained on a municipal level, and divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable.
+	  <![CDATA[The Police of the Public are part of the Ministry of Defence ✿ Read more: The Police of the Public The Police of the Public (COSMOPOR) are the local police in Vekllei, consisting mostly of constabulary responsible for local policing. COSMOPOR are retained on a municipal level, and divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable.
 Municipal (public) vs Commonwealth (parliament) police.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ The Police of the Public are part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">The Police of the Public are part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/stories/police/">The Police of the Public</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/stories/police/">The Police of the Public</a></em></span>
 </blockquote>
 
 <p>The <em>Police of the Public</em> (COSMOPOR) are the local police in Vekllei, consisting mostly of constabulary responsible for local policing. COSMOPOR are retained on a municipal level, and divided between municipalities in neighbourhoods known as commissions. A commission is lead by an Inspector or Qualified Constable.</p>

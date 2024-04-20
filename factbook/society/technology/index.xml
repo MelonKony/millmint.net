@@ -14,7 +14,7 @@
 	<description>Recent content in Technology </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/technology/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,19 +28,15 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This article is about Vekllei computing, but most of these technologies are available world-over Computers are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people &ndash; only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness.]]>
+	  <![CDATA[This article is about computing in Vekllei, but most of these technologies are available world-over Computers are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people &ndash; only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This article is about <a href="/intro/#what-is-vekllei">Vekllei</a> computing, but most of these technologies are available world-over</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This article is about computing in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, but most of these technologies are available world-over</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><strong>Computers</strong> are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people &ndash; only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness. Vekllei is working towards participatory work, and computers are among the dream&rsquo;s most valuable means in which it is being realised.</div>
+  <span class="text"><strong>Computers</strong> are used to subsidise rather than multiply productivity in Vekllei. This does not mean that they do not make commerce or industry more efficient, or open new means of communication between people &ndash; only that they are understood foremost as a social benefit that enables the more idealistic features of the Floral Period and its functional moneylessness. Vekllei is working towards participatory work, and computers are among the dream&rsquo;s most valuable means in which it is being realised.</span>
 </blockquote>
 
 <h2 id="overview">
@@ -71,9 +67,7 @@
   <a class="anchor" href="#fabricated-live-robotics">#</a>
 </h3>
 <blockquote class="note link">
-  <div class="icon">
-</div>
-  <div class="text">✿ Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></div>
+  <span class="text">✿ Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></span>
 </blockquote>
 
 <p>Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called <em>automasiosn</em> or &lsquo;automen,&rsquo; combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.</p>

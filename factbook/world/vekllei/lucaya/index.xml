@@ -14,7 +14,7 @@
 	<description>Recent content in Lucaya </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/world/vekllei/lucaya/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Rum is part of the Lucayan Commonwealth Rum Republic Constituent Republic of Vekllei Capital Conception Population 4,910 Languages English, Lucayan Area 241 km2 Vekllei Accession 1930, as part of the Alford Agreement The Rum Republic (also Rummy) is a constituent republic of Vekllei in the Lucayan archipelago. It comprises two inhabited islands, San Salvador and Rum Island, the islet of Conception (now a Commonwealth Preservation) as well as some minor islets and rocks.]]>
+	  <![CDATA[Rum is part of the Lucayan Commonwealth Rum Republic Constituent Republic of Vekllei Capital Conception Population 4,910 Languages English, Lucayan Area 241 km2 Vekllei Accession 1930, as part of the Alford Agreement The Rum Republic (also Rummy) is a constituent republic of Vekllei in the Lucayan archipelago. It comprises two inhabited islands, San Salvador and Rum Island, the islet of Conception (now a Commonwealth Preservation) as well as some minor islets and rocks.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Rum is part of the Lucayan Commonwealth</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Rum is part of the Lucayan Commonwealth</span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
@@ -112,11 +110,10 @@
 <details >
   <summary>Points of Interest</summary>
   <div class="markdown-inner">
-    <ul>
-<li>Salvador Research Centre, Commonwealth University of the West Indies</li>
-<li>Salvador Naval Station</li>
-<li>Conception Island Research Station, <a style="color: var(--color-landscape)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a></li>
-</ul>
+    
+* Salvador Research Centre, Commonwealth University of the West Indies
+* Salvador Naval Station
+* Conception Island Research Station, <a style="color: var(--color-landscape)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a>
 
   </div>
 </details>

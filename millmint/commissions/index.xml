@@ -14,7 +14,7 @@
 	<description>Recent content in Commissions </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/commissions/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -35,24 +35,18 @@ LICENSE INFORMATION:]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ Download the <span class="smallicon">📄</span> <a href="/files/MillMint%20Limited%20Commercial%20License.pdf">MillMint Limited Commercial License.pdf</a></div>
+  <span class="text">✿ Download the <span class="smallicon">📄</span> <a href="/files/MillMint%20Limited%20Commercial%20License.pdf">MillMint Limited Commercial License.pdf</a></span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p>When you commission work from MillMint, it is licensed for limited commercial use.</p>
+  <span class="text"><p>When you commission work from MillMint, it is licensed for limited commercial use.</p>
 <p><strong>You may adapt the work for personal use or for gifts as many times as you like with no permission required.</strong></p>
 <p>If you plan on using commissioned work for commercial purposes, including selling it or adapting it into a commercial product, it is licensed under these terms.</p>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p>LICENSE INFORMATION:</p>
+  <span class="text"><p>LICENSE INFORMATION:</p>
 <p>The <span class="smallicon">📄</span> MillMint Limited Commercial License applies to commissioned work from MillMint. Uses that exceed these terms require the permission of MillMint.</p>
 <p>Any questions about this license or commissioned work can be forwarded to <span class="smallicon">📧</span> <a href="mailto:studio@millmint.net">studio@millmint.net</a>.</p>
 <p>LICENSE IS REQUIRED WHEN:</p>
@@ -70,7 +64,7 @@ LICENSE INFORMATION:]]>
 <li>You cannot incorporate the work into trademarks, logos, or service marks.</li>
 </ul>
 <p><strong>Under NO circumstances may you sell, or otherwise commercialise the actual digital files in their original format.</strong></p>
-</div>
+</span>
 </blockquote>
 
 <p><button href="mailto:studio@millmint.net">Contact me <span class="smallicon">✉️</span></button></p>

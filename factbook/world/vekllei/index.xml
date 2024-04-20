@@ -14,7 +14,7 @@
 	<description>Recent content in Vekllei </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/world/vekllei/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the territories series of articles The Republic of Caimanas is a constituent country of Vekllei consisting of three island city-states in the West Caribbean.]]>
+	  <![CDATA[Part of the territories series of articles The Republic of Caimanas is a constituent country of Vekllei consisting of three island city-states in the West Caribbean.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/territories/">territories</a></em> series of articles</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/territories/">territories</a></em> series of articles</span>
 </blockquote>
 
 <p>The <strong>Republic of Caimanas</strong> is a constituent country of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> consisting of three island city-states in the West Caribbean.</p>

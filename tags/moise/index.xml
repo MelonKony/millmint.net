@@ -14,7 +14,7 @@
 	<description>Recent content in Moise </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/moise/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -32,9 +32,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/hs.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Sketch I won&rsquo;t finish of Oslolan high-speed rail snaking out to the fast routes that cross the island&rsquo;s glaciers.</div>
+  <span class="text">Sketch I won&rsquo;t finish of Oslolan high-speed rail snaking out to the fast routes that cross the island&rsquo;s glaciers.</span>
 </blockquote>
 
 ]]>
@@ -58,9 +56,7 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/mackintosh.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Tzipora has a dry head. Moise does not.</div>
+  <span class="text">Tzipora has a dry head. Moise does not.</span>
 </blockquote>
 
 <p>Commonwealth islands get a lot of rain, and raincoats are issued by the Ministry of Education. They vary slightly by region, but in <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> they look like this.</p>
@@ -85,17 +81,13 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/prairie.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Tzipora has baked a baguette in class. Their school was designed the revivalist mayan-prairie style.</div>
+  <span class="text">Tzipora has baked a baguette in class. Their school was designed the revivalist mayan-prairie style.</span>
 </blockquote>
 
 <p>This illustration accompanies an essay, called <a href="/social-economy/"><em>A Social Economy</em></a>. It was written as an introduction to Vekllei&rsquo;s essential premise &ndash; its moneyless economy. It is about as brief as I can make it, but it is also a work in progress that can hopefully be updated in future, as I refine not just the ideas involved but how I communicate them.</p>
 <p>Moneylessness is maybe the most fantastical aspect of Vekllei, and so it is particularly interesting to me. I&rsquo;m well aware it&rsquo;s a bit crazy, but taking it seriously and engaging with it is the joy of this project. My drawings help depict what a society based on these ideas might look like. All these things contribute to Vekllei&rsquo;s immersive and unique qualities.</p>
 <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">❀ Read here: <em><a href="/social-economy/">A Social Economy</a></em></div>
+  <span class="text">❀ Read here: <em><a href="/social-economy/">A Social Economy</a></em></span>
 </blockquote>
 
 ]]>
@@ -119,9 +111,7 @@ Here is her original sketch:]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/corettibg.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Coretti Adoula, with her boyfriend Moise behind her.</div>
+  <span class="text">Coretti Adoula, with her boyfriend Moise behind her.</span>
 </blockquote>
 
 <p>Pictured here is Coretti Adoula, Moise&rsquo;s sweet-natured girlfriend. Originally from the USSR, she moves to Vekllei and enters Tzipora&rsquo;s orbit of friends via Moise after they start dating.</p>
@@ -155,9 +145,7 @@ Here is her original sketch:]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/movie.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.</div>
+  <span class="text">✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.</span>
 </blockquote>
 
 <p>Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well. Most people visit a few times a week for films and the news.</p>
@@ -167,10 +155,9 @@ Here is her original sketch:]]>
 <details open>
   <summary>JM&#39;s Submission</summary>
   <div class="markdown-inner">
-    <figure>
-  <img src="/images/fanart/jm-1.jpg" alt="smallimg"  loading="lazy" />
-  
-</figure>
+    
+![smallimg](/images/fanart/jm-1.jpg)
+
   </div>
 </details>
 
@@ -240,9 +227,7 @@ Here is her original sketch:]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/valin.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This image</strong> was a gift to my friend Bez. Thank you Bez.</div>
+  <span class="text">✿ <strong>This image</strong> was a gift to my friend Bez. Thank you Bez.</span>
 </blockquote>
 
 <p><strong>Occasionally I&rsquo;ll join an &ldquo;art trade&rdquo;</strong> to change things up and break the repetition of working in one universe with one set of characters. Bez is a friend of mine and a talented artist, and so for Christmas we decided to produce secret works involving characters and places we don&rsquo;t usually draw. There&rsquo;s nothing more exciting as an artist than seeing through new eyes &ndash; that&rsquo;s the magic of having someone illustrate your people and places.</p>
@@ -257,9 +242,7 @@ Here is her original sketch:]]>
 </figure>
 
 <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">I love the composition of it, it&rsquo;s very optimistic. Very cute.</div>
+  <span class="text">I love the composition of it, it&rsquo;s very optimistic. Very cute.</span>
 </blockquote>
 </p>
 <p>I like the attention to detail on Tzipora and the golden wattle on the right. Vekllei has wattle as canon &ndash; it doesn&rsquo;t make much sense, but who cares? It&rsquo;s too lovely to exclude from utopia. Bez also shared a preliminary sketch with me, seen below.</p>
@@ -273,9 +256,7 @@ Here is her original sketch:]]>
 </figure>
 
 <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Bonus Tzipora with a bird. Bez likes birds.</div>
+  <span class="text">Bonus Tzipora with a bird. Bez likes birds.</span>
 </blockquote>
 </p>
 <p>Thank you Bez &ndash; let&rsquo;s do it again sometime!</p>
@@ -412,9 +393,7 @@ This post will briefly discuss some elements shown in this infographic, but a la
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/language.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/7"><strong>Issue #7</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/7"><strong>Issue #7</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>For all you&rsquo;ve seen of Vekllei and her characters</strong>, you&rsquo;ve never heard a single one of them speak. This post marks a little exploration into the Vekllei language, and a &lsquo;soft launch&rsquo; of my website, <a href="https://millmint.net">https://millmint.net</a>. The proper launch will come at the end of the month.</p>
@@ -461,9 +440,7 @@ This post will briefly discuss some elements shown in this infographic, but a la
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/roadtrip.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>They showed up at the autopool</strong>, and someone had just returned a brand new AAAC Voya Voya — incredible. It was like Christ himself had blessed them. It only (barely) seat five, and there were six of them, but it wasn’t a problem. Moise would drive, Tzipora bunked with Cobian in the passenger seat and Alise, Zo and Jerome could cram into the back. It was a squeeze but with the top down and on the coastal highway it couldn’t have mattered less. It was the car of late summer.</p>
@@ -489,9 +466,7 @@ Depicted here are uniforms for education — Tzipora as a puffling of the Puffin
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/uniform.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>In Vekllei, uniforms are prevalent across all levels of society</strong>. They are perhaps the most obvious example of the opaque contradictions at the heart of Vekllei life, caught between wholly opposing ideas: between tradition and progress; liberty and control; and, most crucially here — between individualism and the burden of society.</p>

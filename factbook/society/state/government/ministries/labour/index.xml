@@ -14,7 +14,7 @@
 	<description>Recent content in Ministry of Labour </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/labour/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of Labour ]]>
+	  <![CDATA[ This bureau is part of the Ministry of Labour ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-labour)" href="/ministry-of-labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-labour)" href="/ministry-of-labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a></span>
 </blockquote>
 
 ]]>
@@ -52,13 +50,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of Labour ]]>
+	  <![CDATA[ This bureau is part of the Ministry of Labour ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-labour)" href="/ministry-of-labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-labour)" href="/ministry-of-labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a></span>
 </blockquote>
 
 ]]>

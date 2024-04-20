@@ -14,7 +14,7 @@
 	<description>Recent content in Factbook </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -33,9 +33,7 @@ Upen is being practiced 500BC Beginning of Oslolan Common Period 200 Beginning o
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text">This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.</div>
+  <span class="text">This timeline is a useful curated reference of Atlantic history, but is not comprehensive. It is continuously evolving with this site.</span>
 </blockquote>
 
 <h2 id="pre-war-timeline">

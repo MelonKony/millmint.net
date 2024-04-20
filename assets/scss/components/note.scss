@@ -1,0 +1,96 @@
+article blockquote {
+	border-inline-start: 2px solid var(--color-gray);
+	font-style: italic;
+}
+
+.note {
+	@include text-base;
+	@include my-2;
+	@include padding-2;
+	@include radius-base;
+	@include highlight-background;
+	@include highlight-border;
+	font-style: normal;
+
+	.text {
+		display: inline-block;
+	}
+}
+
+.note.panel {
+	@include padding-4;
+
+	h1, h2, h3, h4, h5, h6 {
+		@include margin-0;
+	}
+}
+
+.note.summary {
+	@include background-graph;
+}
+
+.note.series {
+	@include background-diagonal;
+	display: grid;
+	grid-template-columns: 1.5rem 1fr;
+  	grid-template-rows: 1fr;
+  	gap: 0px 0px;
+  	grid-template-areas:
+		"icon text";
+	&::before {
+		color: var(--highlight);
+		font-size: 18px;
+		content: '߷';
+		align-self: center;
+		grid-area: icon;
+	}
+	.text {
+		grid-area: text;
+	}
+}
+
+.note.link, .note.link {
+	background: none;
+
+	h1, h2, h3, h4, h5, h6 {
+		@include margin-0;
+	}
+}
+
+.note.header {
+	@include font-bold;
+	@include px-8;
+	@include radius-small;
+	margin: auto -2em auto -2em;
+
+	@media (max-width: 750px) {
+		@include px-4;
+		margin: auto -1em auto -1em;
+	}
+}
+
+.note.caption {
+	@include text-xs;
+	@include font-semibold;
+	@include padding-2;
+	@include radius-base;
+	@include highlight-background;
+	@include highlight;
+	border-top: 0px;
+	margin: -2rem 0 0.5rem 0;
+	text-align: center;
+	letter-spacing: -.01em;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+
+	a {
+		text-decoration: underline;
+	}
+}
+
+.note.subtitle {
+	background-color: transparent;
+	font-style: italic;
+	font-size: 24px;
+	line-height: 1.6;
+}

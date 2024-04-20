@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>astrid</title>
+	<title>Astrid</title>
 	<link>https://millmint.net/tags/astrid/</link>
-	<description>Recent content in astrid </description>
+	<description>Recent content in Astrid </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Fri, 19 Jan 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/astrid/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -34,9 +34,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/inspectors.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.</div>
+  <span class="text">Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.</span>
 </blockquote>
 
 <p>Astrid and Laura are junior inspectors for the <a style="color: var(--color-commons)" href="/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a>, which fields concerns from homeowners in municipalised homes.</p>

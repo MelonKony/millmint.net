@@ -14,7 +14,7 @@
 	<description>Recent content </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -41,9 +41,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 </div>
 -->
 <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ For common questions about me or my work, please visit the <a href="/intro/faq/">FAQ</a>.</div>
+  <span class="text">✿ For common questions about me or my work, please visit the <a href="/intro/faq/">FAQ</a>.</span>
 </blockquote>
 
 <p><strong>Hello, <a href="https://images.millmint.net/images/mastheads/author.png">I&rsquo;m Hobart</a></strong>. I&rsquo;m an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.</p>
@@ -52,9 +50,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p>You can <strong>write to me</strong> at <span class="smallicon">📧</span> <a href="mailto:hobart@millmint.net">hobart@millmint.net</a>.</p>
 <p>Visited: 🇦🇺🇯🇵🇿🇦🇭🇰🇮🇸🇨🇦🇲🇪🇷🇺🇫🇮🇸🇪🇮🇹🇫🇷🇩🇪🇬🇧🇭🇷🇹🇭🇺🇸🇸🇬🇲🇨🇬🇷</p>
 <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">Sincere thanks to <a href="https://jipfr.nl">Jip</a> and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!</div>
+  <span class="text">Sincere thanks to <a href="https://jipfr.nl">Jip</a> and Ben R. R. for their contributions to this site. They volunteered their time again and again to help create new features that make Vekllei easier and more fun to read. Thank you!</span>
 </blockquote>
 
 <h2 id="news">
@@ -63,16 +59,12 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 </h2>
 <p><small>Last updated: 08 Jul 2023</small></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">July 2023</div>
+  <span class="text">July 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">📔</span> <strong>July 7, 2023</strong> New comic: <a href="/stories/cola/"><em>Atomica 1: Cola</em></a> <button class="bulletbutton" href="/stories/cola/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">June 2023</div>
+  <span class="text">June 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">🌐</span> <strong>June 28, 2023</strong> Start of a major content update, including new and revised articles on <a href="/vekllei/">Vekllei</a>, its <a href="/basic-laws/">Basic Laws</a>, and its <a href="/government/">Government</a>. Part of a massive lore update I&rsquo;m calling &ldquo;Vekllei 2.0.&rdquo;</p>
@@ -88,17 +80,13 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📗</span> <strong>June 3, 2023</strong> New post: <a href="/stories/trams/"><em>Anarchist Trams</em></a> <button class="bulletbutton" href="/stories/trams/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>June 2, 2023</strong> New post: <a href="/stories/analyst/"><em>An Intelligence Analyst and Her Medals</em></a> <button class="bulletbutton" href="/stories/analyst/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">May 2023</div>
+  <span class="text">May 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">📒</span> <strong>May 16, 2023</strong> New sketch: <a href="/stories/hardware/"><em>Hardware</em></a> <button class="bulletbutton" href="/stories/hardware/">URL →</button></span></p>
 <p><span class="bulleticon">📒</span> <strong>May 2, 2023</strong> New sketch: <a href="/stories/downpour/"><em>Downpour</em></a> <button class="bulletbutton" href="/stories/downpour/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">April 2023</div>
+  <span class="text">April 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">📒</span> <strong>April 30, 2023</strong> New sketch: <a href="/stories/corner/"><em>Natural Corners</em></a> <button class="bulletbutton" href="/stories/corner/">URL →</button></span></p>
@@ -106,9 +94,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📗</span> <strong>April 18, 2023</strong> New post: <a href="/stories/tank/"><em>Atomic Main Battle Tank</em></a> <button class="bulletbutton" href="/stories/tank/">URL →</button></span></p>
 <p><span class="bulleticon">🌐</span> <strong>April 1, 2023</strong> MillMint.net now displays a closeable notice and badge when there&rsquo;s a new story you havent seen! Nifty!</p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">March 2023</div>
+  <span class="text">March 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">📗</span> <strong>March 31, 2023</strong> New post: <a href="/stories/infantry/"><em>General Infantry, General Issue</em></a> <button class="bulletbutton" href="/stories/infantry/">URL →</button></span></p>
@@ -123,9 +109,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">🌐</span> <strong>March 5, 2023</strong> Added RSS to the site. <a href="/stories/index.xml">Click her to follow Stories</a>.</p>
 <p><span class="bulleticon">📒</span> <strong>March 1, 2023</strong> New sketch: <a href="/stories/soldier/"><em>Dapper Soldier</em></a> <button class="bulletbutton" href="/stories/soldier/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">February 2023</div>
+  <span class="text">February 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">📒</span> <strong>February 28, 2023</strong> New sketch: <a href="/stories/mail-revised/"><em>Revised Mail Uniform</em></a> <button class="bulletbutton" href="/stories/mail-revised/">URL →</button></span></p>
@@ -138,9 +122,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📗</span> <strong>February 16, 2023</strong> New post: <a href="/stories/state-jet/"><em>A Government Jet</em></a> <button class="bulletbutton" href="/stories/state-jet/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>February 15, 2023</strong> New post: <a href="/stories/ruins/"><em>New Ruins</em></a> <button class="bulletbutton" href="/stories/ruins/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">January 2023</div>
+  <span class="text">January 2023</span>
 </blockquote>
 
 <p><span class="bulleticon">📒</span> <strong>January 31, 2023</strong> New sketch: <a href="/stories/neko/"><em>Sketch for a Friend</em></a> <button class="bulletbutton" href="/stories/neko/">URL →</button></span></p>
@@ -152,9 +134,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📗</span> <strong>January 3, 2023</strong> New post: <a href="/stories/department/"><em>Department Commerce</em></a> <button class="bulletbutton" href="/stories/department/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>January 1, 2023</strong> New post: <a href="/stories/ministers/"><em>The Prime Minister(s) of Vekllei</em></a> <button class="bulletbutton" href="/stories/ministers/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">December 2022</div>
+  <span class="text">December 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">📗</span> <strong>December 31, 2022</strong> New post: <a href="/stories/tannin/"><em>Tannin Rivers</em></a> <button class="bulletbutton" href="/stories/tannin/">URL →</button></span></p>
@@ -165,17 +145,13 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📒</span> <strong>December 9, 2022</strong> New sketch: <a href="/stories/the-look/"><em>The Look</em></a> <button class="bulletbutton" href="/stories/the-look/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>December 2, 2022</strong> New post: <a href="/stories/silica/"><em>Silica Rivers</em></a> <button class="bulletbutton" href="/stories/silica/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">November 2022</div>
+  <span class="text">November 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">📒</span> <strong>November 30, 2022</strong> New sketch: <a href="/stories/sleep/"><em>Sleep</em></a> <button class="bulletbutton" href="/stories/sleep/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>November 9, 2022</strong> New post: <a href="/stories/teachers/"><em>Teachers</em></a> <button class="bulletbutton" href="/stories/teachers/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">October 2022</div>
+  <span class="text">October 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">📒</span> <strong>October 29, 2022</strong> New sketch: <a href="/stories/teeshirt/"><em>Tee Shirt</em></a> <button class="bulletbutton" href="/stories/teeshirt/">URL →</button></span></p>
@@ -187,9 +163,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">🌐</span> <strong>October 7, 2022</strong> Added a new floating dynamic TOC with active states, coded entirely by <a href="https://jipfr.nl">Jip</a>. It looks fantastic and works great &ndash; thanks for your help!</p>
 <p><span class="bulleticon">📗</span> <strong>October 6, 2022</strong> New post: <a href="/stories/rifles/"><em>The Rifles Section</em></a> <button class="bulletbutton" href="/stories/rifles/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">September 2022</div>
+  <span class="text">September 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">🌐</span> <strong>September 29, 2022</strong> New website section: <a href="/blog/">Blog</a> <button class="bulletbutton" href="/blog/">URL →</button></span></p>
@@ -199,9 +173,7 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📗</span> <strong>September 15, 2022</strong> New post: <a href="/stories/trailer/"><em>Story Trailer</em></a> <button class="bulletbutton" href="/stories/trailer/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>September 1, 2022</strong> New post: <a href="/stories/horizon/"><em>Stories from the Horizon</em></a> <button class="bulletbutton" href="/stories/horizon/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">August 2022</div>
+  <span class="text">August 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">📄</span> <strong>August 29, 2022</strong> Added an article about the <a href="/finance/">Finance of Vekllei</a> <button class="bulletbutton" href="/finance/">URL →</button></span></p>
@@ -212,11 +184,9 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">📗</span> <strong>August 5, 2022</strong> New post: <a href="/posts/2022-08-05-sketching/"><em>Caught Sketching</em></a> <button class="bulletbutton" href="/posts/2022-08-05-sketching/">URL →</button></span></p>
 <p><span class="bulleticon">📗</span> <strong>August 4, 2022</strong> New post: <a href="/posts/2022-08-04-movie/"><em>Waiting for a Movie</em></a> <button class="bulletbutton" href="/posts/2022-08-04-movie/">URL →</button></span></p>
 <p><span class="bulleticon">🌐</span> <strong>August 3, 2022</strong> Added sidenotes! On wide screens, footnotes will now appear in the right margin of an article adjacent to footnoted sentences. A really nice improvement to readability. On mobile, they appear below an article as usual.</p>
-<p><span class="bulleticon">📓</span> <strong>August 2, 2022</strong> Added a new /state/ section in <a href="/factbook/society">/society/</a> and split up the Government article into smaller pages, in preparation for its public release.</p>
+<p><span class="bulleticon">📓</span> <strong>August 2, 2022</strong> Added a new /state/ section in <a href="/factbook/society/">/society/</a> and split up the Government article into smaller pages, in preparation for its public release.</p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">July 2022</div>
+  <span class="text">July 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">📄</span> <strong>July 29, 2022</strong> Added an article about <a href="/factbook/society/technology/computers/">Computing in Vekllei</a> <button class="bulletbutton" href="/factbook/society/technology/computers/">URL →</button></span></p>
@@ -226,15 +196,13 @@ You can follow my progress on this project on Twitter, or join my subreddit.]]>
 <p><span class="bulleticon">🌐</span> <strong>July 19, 2022</strong> Overhauled the site colour system with <a href="https://jipfr.nl">Jip</a>, who did an awesome job transforming my clunky CSS into javascript</p>
 <p><span class="bulleticon">📗</span> <strong>July 12, 2022</strong> New post: <a href="/posts/2022-07-12-vista/"><em>Café Diplomacy</em></a> <button class="bulletbutton" href="/posts/2022-07-12-vista/">URL →</button></span></p>
 <blockquote class="note header">
-  <div class="icon">
-</div>
-  <div class="text">June 2022</div>
+  <span class="text">June 2022</span>
 </blockquote>
 
 <p><span class="bulleticon">📄</span> <strong>July 29, 2022</strong> New borough article: <a href="/factbook/landscape/boroughs/pharos/">Pharos</a> <button class="bulletbutton" href="/factbook/landscape/boroughs/pharos/">URL →</button></span></p>
 <p><span class="bulleticon">🌐</span> <strong>June 24, 2022</strong> Added lazy-loading to images on the site, improving performance.</p>
 <p><span class="bulleticon">📒</span> <strong>June 22, 2022</strong> Drew a sketch of Tzipora and Cobian before their school formal. Just some fun between comic pages <button class="bulletbutton" href="/images/sketches/formal.png">URL →</button></span></p>
-<p><span class="bulleticon">🌐</span> <strong>June 15, 2022</strong> Added a swish animated cover for the home page, and moved the great existing parallax to <a href="/intro">Intro</a> in preparation for an overhaul <button class="bulletbutton" href="https://millmint.net/images/mastheads/millmint.png">URL →</button></span></p>
+<p><span class="bulleticon">🌐</span> <strong>June 15, 2022</strong> Added a swish animated cover for the home page, and moved the great existing parallax to <a href="/intro/">Intro</a> in preparation for an overhaul <button class="bulletbutton" href="https://millmint.net/images/mastheads/millmint.png">URL →</button></span></p>
 <p><span class="bulleticon">📒</span> <strong>June 7, 2022</strong> Drew a uniform reference to keep clothing details consistent between chapters <button class="bulletbutton" href="https://millmint.net/images/sketches/comic/uniformref.jpg">URL →</button></span></p>
 <p><span class="bulleticon">🌐</span> <strong>June 6, 2022</strong> Added auto-numbering and anchors to the headers on the site for easier navigation</p>
 <p><span class="bulleticon">📒</span> <strong>June 4, 2022</strong> Drew a height reference sheet for the comic characters so I stop drawing Tzipora and Cobian the same height <button class="bulletbutton" href="https://millmint.net/images/sketches/comic/heightref.jpg">URL →</button></span></p>

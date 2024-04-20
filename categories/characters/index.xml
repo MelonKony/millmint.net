@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>characters</title>
+	<title>Characters</title>
 	<link>https://millmint.net/categories/characters/</link>
-	<description>Recent content in characters </description>
+	<description>Recent content in Characters </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 31 Jul 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -34,9 +34,7 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/zhi.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Sitting on the concrete sea wall in <a href="/lola/">Lola</a>.</div>
+  <span class="text">Sitting on the concrete sea wall in <a href="/lola/">Lola</a>.</span>
 </blockquote>
 
 <p>Tzipora was a picture of integration, because she wanted badly for people to respect her. She also felt she owed something to the country which had lifted her up and given her a quality of life. She had no prospects before coming to <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, so she practiced gratitude in everything she did &ndash; sometimes out loud.</p>
@@ -64,9 +62,7 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/portrait.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Portrait of Tzipora &amp; Cobian finished in a painterly style.</div>
+  <span class="text">Portrait of Tzipora &amp; Cobian finished in a painterly style.</span>
 </blockquote>
 
 ]]>
@@ -88,9 +84,7 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/weirdo.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Zelda&rsquo;s a weirdo, but she&rsquo;s a friend.</div>
+  <span class="text">Zelda&rsquo;s a weirdo, but she&rsquo;s a friend.</span>
 </blockquote>
 
 ]]>
@@ -114,9 +108,7 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/draft.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Paint-sketch of the girls together I never ended up finishing.</div>
+  <span class="text">Paint-sketch of the girls together I never ended up finishing.</span>
 </blockquote>
 
 <p>Clockwise:</p>

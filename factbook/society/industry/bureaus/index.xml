@@ -14,7 +14,7 @@
 	<description>Recent content in Bureaus </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/bureaus/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,12 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the industry series of articles Atlantis Bureau Corporation of Vekllei Industry Shipping &amp; logistics Headquarters Cama Founded 2025 Employees 7,470 Traded as ATS Accounted Revenue AK ✾ 120 billion S.p.A. The Atlantis Company S.p.A. is a bureau corporation in Vekllei comprising most maritime logistics and shipping business in the country. Its member corporations, including state-owned Commonwealth Lines, represent nearly monopoly power over the Vekllei shipping industry.]]>
+	  <![CDATA[Part of the industry series of articles Atlantis Bureau Corporation of Vekllei Industry Shipping &amp; logistics Headquarters Cama Founded 2025 Employees 7,470 Traded as ATS Accounted Revenue AK ✾ 120 billion S.p.A. The Atlantis Company S.p.A. is a bureau corporation in Vekllei comprising most maritime logistics and shipping business in the country. Its member corporations, including state-owned Commonwealth Lines, represent nearly monopoly power over the Vekllei shipping industry.
+Headquarted at the deepwater port in Cama, Atlantis is heavily decentralised across Vekllei, and its fleet ranges from wooden trawlers to suezmax container flagships.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
@@ -160,16 +159,13 @@
 <p>Headquarted at the deepwater port in <a style="color: rgb(2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a>, Atlantis is heavily decentralised across Vekllei, and its fleet ranges from wooden trawlers to suezmax container flagships. Unlike other bureaus, constituent corporate branding usually takes precedence over the bureau, and the individual company flag flies above the Atlantis flag.</p>
 <p>Atlantis is listed on the <a style="color: rgb(2, 121, 190)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> as NMC, and is ranked 7th on the <a href="/ratings/">CRC/CSX 50</a>.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><strong>Constituent Corporations of Atlantis S.p.A.</strong></p>
+  <span class="text"><p><strong>Constituent Corporations of Atlantis S.p.A.</strong></p>
 <ul>
 <li><a style="color: rgb(232, 163, 12)" href="/commonwealth-lines/"><span class="fi fi-min-CL fis"></span> Commonwealth Lines</a></li>
 <li>Kairi Marine</li>
 <li>Atlantic International Shipping Company</li>
 <li>Roma</li>
-</ul>
-</div>
+</ul></span>
 </blockquote>
 
 ]]>
@@ -187,13 +183,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the industry series of articles National Machines Bureau Corporation of Vekllei Industry Computing &amp; Robotics Founded 2026 Employees 5,200 Traded as NMC Accounted Revenue AK ✾ 84 billion S.p.A. National Machines S.p.A. is a computer and robotics manufacturer and research and development lab in Vekllei. It is by far the largest robotic appliance supplier in the country, and among the &ldquo;Big Three&rdquo; robotics firms in the world, alongside U.]]>
+	  <![CDATA[Part of the industry series of articles National Machines Bureau Corporation of Vekllei Industry Computing &amp; Robotics Founded 2026 Employees 5,200 Traded as NMC Accounted Revenue AK ✾ 84 billion S.p.A. National Machines S.p.A. is a computer and robotics manufacturer and research and development lab in Vekllei. It is by far the largest robotic appliance supplier in the country, and among the &ldquo;Big Three&rdquo; robotics firms in the world, alongside U.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
@@ -314,15 +308,12 @@
 <p>National Machines is headquartered in Kala, and as a bureau constitutes several semiautonomous corporations. It is in a formal association with National Computer S.p.A., and a major sponsor of the National Photonic Laboratories at Vekllei National University.</p>
 <p>National Machines is listed on the <a style="color: rgb(2, 121, 190)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> as NMC, and is ranked 8th on the <a href="/ratings/">CRC/CSX 50</a>.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><strong>Constituent Corporations of National Machines S.p.A.</strong></p>
+  <span class="text"><p><strong>Constituent Corporations of National Machines S.p.A.</strong></p>
 <ul>
 <li>Atlantic Electrics</li>
 <li>International Machine Laboratories</li>
 <li>HomeRobot</li>
-</ul>
-</div>
+</ul></span>
 </blockquote>
 
 ]]>
@@ -340,14 +331,12 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Part of the industry series of articles Universal Cotton S.c.L. is a bureau based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the Commons Comfort Scheme of the Vekllei government, and has a significant presence throughout the Commonwealth.
+	  <![CDATA[Part of the industry series of articles Universal Cotton S.c.L. is a bureau based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the Commons Comfort Scheme of the Vekllei government, and has a significant presence throughout the Commonwealth.
 It trades overseas under the Universal Cotton Company brand.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Part of the <em><a href="/industry/">industry</a></em> series of articles</div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
 <p><strong>Universal Cotton</strong> S.c.L. is a <a href="/bureaus/">bureau</a> based in the Vekllei Islands. It is the largest clothing manufacturer in the Commonwealth, specialising in shirts, trousers, skirts, dresses, and underwear. It supplies most department stores in the Vekllei Islands as part of the <em>Commons Comfort Scheme</em> of the Vekllei government, and has a significant presence throughout the Commonwealth.</p>
@@ -355,9 +344,7 @@ It trades overseas under the Universal Cotton Company brand.]]>
 <p>It trades overseas under the <em>Universal Cotton Company</em> brand. It also owns a number of sub-brands through its industrial council, including <em>Mia</em> and <em>Atlantic</em>. Including its sub-brands, Universal Cotton is among the largest clothing manufacturers in the world and contributes billions to <a href="/factbook/society/state/finance/#international-markets">VKIM</a> market capitalisation.</p>
 <p>Universal Cotton also produces factory schematics and product designs which are licensed to small <a href="/bulletin/lots">factory <em>lots</em></a>.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><p><strong>Universal Cotton Organisation</strong></p>
+  <span class="text"><p><strong>Universal Cotton Organisation</strong></p>
 <ul>
 <li>Universal Cotton General Council
 <ul>
@@ -380,8 +367,7 @@ It trades overseas under the Universal Cotton Company brand.]]>
 <li>Sova &amp; Gillis</li>
 </ul>
 </li>
-</ul>
-</div>
+</ul></span>
 </blockquote>
 
 ]]>

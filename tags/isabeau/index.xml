@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>isabeau</title>
+	<title>Isabeau</title>
 	<link>https://millmint.net/tags/isabeau/</link>
-	<description>Recent content in isabeau </description>
+	<description>Recent content in Isabeau </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Thu, 04 Aug 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/isabeau/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -33,9 +33,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/movie.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.</div>
+  <span class="text">✿ This image was part of an art trade with my friend JM. Thank you JM. This picture features his red-head character, Isabeau. See his drawing of Tzipora and Isabeau down below.</span>
 </blockquote>
 
 <p>Most Vekllei people do not own a television, so they go to movie theatres. Even though personal appliances are abundant in the U.S. and Europe, they are in constant shortage for almost all classes of Vekllei people, and so the social tradition of the cinema is alive and well. Most people visit a few times a week for films and the news.</p>
@@ -45,10 +43,9 @@
 <details open>
   <summary>JM&#39;s Submission</summary>
   <div class="markdown-inner">
-    <figure>
-  <img src="/images/fanart/jm-1.jpg" alt="smallimg"  loading="lazy" />
-  
-</figure>
+    
+![smallimg](/images/fanart/jm-1.jpg)
+
   </div>
 </details>
 

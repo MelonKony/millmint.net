@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>maya</title>
+	<title>Maya</title>
 	<link>https://millmint.net/tags/maya/</link>
-	<description>Recent content in maya </description>
+	<description>Recent content in Maya </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Wed, 09 Mar 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/maya/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -75,9 +75,7 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/valin.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This image</strong> was a gift to my friend Bez. Thank you Bez.</div>
+  <span class="text">✿ <strong>This image</strong> was a gift to my friend Bez. Thank you Bez.</span>
 </blockquote>
 
 <p><strong>Occasionally I&rsquo;ll join an &ldquo;art trade&rdquo;</strong> to change things up and break the repetition of working in one universe with one set of characters. Bez is a friend of mine and a talented artist, and so for Christmas we decided to produce secret works involving characters and places we don&rsquo;t usually draw. There&rsquo;s nothing more exciting as an artist than seeing through new eyes &ndash; that&rsquo;s the magic of having someone illustrate your people and places.</p>
@@ -92,9 +90,7 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 </figure>
 
 <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">I love the composition of it, it&rsquo;s very optimistic. Very cute.</div>
+  <span class="text">I love the composition of it, it&rsquo;s very optimistic. Very cute.</span>
 </blockquote>
 </p>
 <p>I like the attention to detail on Tzipora and the golden wattle on the right. Vekllei has wattle as canon &ndash; it doesn&rsquo;t make much sense, but who cares? It&rsquo;s too lovely to exclude from utopia. Bez also shared a preliminary sketch with me, seen below.</p>
@@ -108,9 +104,7 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 </figure>
 
 <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Bonus Tzipora with a bird. Bez likes birds.</div>
+  <span class="text">Bonus Tzipora with a bird. Bez likes birds.</span>
 </blockquote>
 </p>
 <p>Thank you Bez &ndash; let&rsquo;s do it again sometime!</p>

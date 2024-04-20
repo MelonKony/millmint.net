@@ -14,7 +14,7 @@
 	<description>Recent content in Ministry of the Commons </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/commons/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ ASRD is part of the Ministry of the Commons and SIRO The Commonwealth Astro Science Research Establishment (ASRE) is a research organisation of the Ministry of the Commons.]]>
+	  <![CDATA[ASRD is part of the Ministry of the Commons and SIRO The Commonwealth Astro Science Research Establishment (ASRE) is a research organisation of the Ministry of the Commons.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ ASRD is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">ASRD is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-asre fis"></span> <strong>Commonwealth Astro Science Research Establishment</strong> (ASRE) is a research organisation of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>.</p>
@@ -53,21 +51,17 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of the Commons The Bureau of Aerospace is a bureau of the Ministry of the Commons responsible for policy, administration and operation of aerospace transport in Vekllei. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.]]>
+	  <![CDATA[This bureau is part of the Ministry of the Commons The Bureau of Aerospace is a bureau of the Ministry of the Commons responsible for policy, administration and operation of aerospace transport in Vekllei. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Aerospace</strong> is a bureau of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a> responsible for policy, administration and operation of aerospace transport in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It incorporates almost all functions necessary for the provision of air transport in a country, including the operation of airports and airstrips, training and employment of air traffic controllers, and provision of emergency search and rescue services, including runway tenders.</p>
 <p>The bureau has a large stake in the development and manufacture of Vekllei aircraft through its constituent corporations and commissions. In addition, the bureau monitors and manages Vekllei airspace as part of the National Airspace System, and licenses civilian and commercial pilots through the Civil Aviation Register.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="executive-council">
+  <span class="text"><h2 id="executive-council">
   Executive Council
   <a class="anchor" href="#executive-council">#</a>
 </h2>
@@ -90,13 +84,11 @@
 <li><strong>Executive</strong>, <a style="color: rgb(245, 60, 89)" href="/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a></li>
 <li><strong>Director</strong>, Commonwealth Air Safety Authority</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="departments">
+  <span class="text"><h2 id="departments">
   Departments
   <a class="anchor" href="#departments">#</a>
 </h2>
@@ -129,13 +121,11 @@
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="boards--commissions">
+  <span class="text"><h2 id="boards--commissions">
   Boards &amp; Commissions
   <a class="anchor" href="#boards--commissions">#</a>
 </h2>
@@ -151,7 +141,7 @@
 <li><strong>Civil Signals Training Establishment</strong>: Training office for Air Engineers and Air Traffic Controllers.</li>
 <li><strong>Civil Aviation Register</strong>: Licensing of civilian and commercial pilots.</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -169,21 +159,17 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of the Commons The Bureau of Housing plans, constructs and improves municipalised and public housing in Vekllei. Housing in Vekllei is negotiated, purchased and leased at a municipal level, and so most new homes are designed and constructed by the civil service through architects and construction agents. The Bureau of Housing coordinates this process at different levels, and also receives maintenance requests and complaints as a regulatory body.]]>
+	  <![CDATA[This bureau is part of the Ministry of the Commons The Bureau of Housing plans, constructs and improves municipalised and public housing in Vekllei. Housing in Vekllei is negotiated, purchased and leased at a municipal level, and so most new homes are designed and constructed by the civil service through architects and construction agents. The Bureau of Housing coordinates this process at different levels, and also receives maintenance requests and complaints as a regulatory body.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Housing</strong> plans, constructs and improves municipalised and public housing in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. <a href="/housing/">Housing in Vekllei</a> is negotiated, purchased and leased at a municipal level, and so most new homes are designed and constructed by the civil service through architects and construction agents. The Bureau of Housing coordinates this process at different levels, and also receives maintenance requests and complaints as a regulatory body.</p>
 <p>The Bureau of Housing may represent the public in court proceedings over ownership. It also employs <a href="/stories/inspectors/">investigators</a> to determine stewardship of land and its current use. The bureau is also partly responsible for integration of migrant communities into Vekllei cities, by mixing cultural groups through programmes designed to incentivise multicultural neighbourhoods.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="executive-council">
+  <span class="text"><h2 id="executive-council">
   Executive Council
   <a class="anchor" href="#executive-council">#</a>
 </h2>
@@ -214,13 +200,11 @@
 <li><strong>Chairman</strong>, <a style="color: rgb(239, 91, 26)" href="/commonwealth-housing-commission/"><span class="fi fi-min-housing-commission fis"></span> Commonwealth Housing Commission</a></li>
 <li><strong>Advocate</strong>, Commonwealth Institute for Municipalism</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="departments">
+  <span class="text"><h2 id="departments">
   Departments
   <a class="anchor" href="#departments">#</a>
 </h2>
@@ -251,13 +235,11 @@
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="boards--commissions">
+  <span class="text"><h2 id="boards--commissions">
   Boards &amp; Commissions
   <a class="anchor" href="#boards--commissions">#</a>
 </h2>
@@ -266,7 +248,7 @@
 <li><strong>Vekllei Tenant Union</strong>: Union of non-owner residents.</li>
 <li><strong>Fair Housing Authority</strong>: Commonwealth housing quality regulator.</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -284,13 +266,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons ]]>
+	  <![CDATA[ This bureau is part of the Ministry of the Commons ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 ]]>
@@ -308,13 +288,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons ]]>
+	  <![CDATA[ This bureau is part of the Ministry of the Commons ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 ]]>
@@ -332,22 +310,18 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of the Commons The Bureau of Public Works is the general-purpose planning and construction outfit in Vekllei. It has a broad mandate over construction, improvement and renewal projects in Vekllei at federal, regional and local levels, and works closely with governments to accomplish construction goals.
+	  <![CDATA[This bureau is part of the Ministry of the Commons The Bureau of Public Works is the general-purpose planning and construction outfit in Vekllei. It has a broad mandate over construction, improvement and renewal projects in Vekllei at federal, regional and local levels, and works closely with governments to accomplish construction goals.
 The bureau also owns the National Construction House (NCH), the largest construction firm in Vekllei which remains responsible for the vast majority of private and commercial construction in the country.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Public Works</strong> is the general-purpose planning and construction outfit in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It has a broad mandate over construction, improvement and renewal projects in Vekllei at federal, regional and local levels, and works closely with governments to accomplish construction goals.</p>
 <p>The bureau also owns the <a style="color: rgb(232, 13, 64)" href="/nch/"><span class="fi fi-min-nch fis"></span> National Construction House</a> (NCH), the largest construction firm in Vekllei which remains responsible for the vast majority of private and commercial construction in the country.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="executive-council">
+  <span class="text"><h2 id="executive-council">
   Executive Council
   <a class="anchor" href="#executive-council">#</a>
 </h2>
@@ -369,13 +343,11 @@ The bureau also owns the National Construction House (NCH), the largest construc
 <li><strong>Vice Chairman</strong>, <a style="color: rgb(239, 91, 26)" href="/commonwealth-housing-commission/"><span class="fi fi-min-housing-commission fis"></span> Commonwealth Housing Commission</a></li>
 <li><strong>Chairman</strong>, Vekllei Board of Architects</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h4 id="departments">
+  <span class="text"><h4 id="departments">
   Departments
   <a class="anchor" href="#departments">#</a>
 </h4>
@@ -401,20 +373,18 @@ The bureau also owns the National Construction House (NCH), the largest construc
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h4 id="boards--commissions">
+  <span class="text"><h4 id="boards--commissions">
   Boards &amp; Commissions
   <a class="anchor" href="#boards--commissions">#</a>
 </h4>
 <ul>
 <li><strong><a style="color: rgb(232, 13, 64)" href="/nch/"><span class="fi fi-min-nch fis"></span> National Construction House</a></strong>: National construction company responsible for most public projects and residential construction.</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -432,23 +402,19 @@ The bureau also owns the National Construction House (NCH), the largest construc
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This bureau is part of the Ministry of the Commons The Bureau of Rail maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across Vekllei republics, it is among the largest of the transport bureaus.
+	  <![CDATA[This bureau is part of the Ministry of the Commons The Bureau of Rail maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across Vekllei republics, it is among the largest of the transport bureaus.
 In addition to rail planning, safety and regulation, the bureau also controls National Rail as an independent commission, for which it fulfils a general executive and advisory role.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Rail</strong> maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> <a href="/republics">republics</a>, it is among the largest of the transport bureaus.</p>
 <p>In addition to rail planning, safety and regulation, the bureau also controls <a style="color: rgb(255, 86, 79)" href="/rail/"><span class="fi fi-min-rail fis"></span> National Rail</a> as an independent commission, for which it fulfils a general executive and advisory role.</p>
 <p>Including VNR, the Bureau of Rail is consequently one of the largest rail transport organisations in the world, rivalling much larger countries with the density and ubiquity of Vekllei track. Almost every Vekllei republic maintains some kind of rail service, ranging from miniature trams and industrial sidings to bullet trains and maglevs.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="executive-council">
+  <span class="text"><h2 id="executive-council">
   Executive Council
   <a class="anchor" href="#executive-council">#</a>
 </h2>
@@ -469,13 +435,11 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
 </li>
 <li><strong>Chief Scientist</strong>, <a style="color: rgb(234, 29, 46)" href="/commonwealth-transport-laboratories/"><span class="fi fi-min-transport-labs fis"></span> Commonwealth Transport Laboratories</a></li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="departments">
+  <span class="text"><h2 id="departments">
   Departments
   <a class="anchor" href="#departments">#</a>
 </h2>
@@ -499,13 +463,11 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="boards--commissions">
+  <span class="text"><h2 id="boards--commissions">
   Boards &amp; Commissions
   <a class="anchor" href="#boards--commissions">#</a>
 </h2>
@@ -513,7 +475,7 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
 <li><strong><a style="color: rgb(255, 86, 79)" href="/rail/"><span class="fi fi-min-rail fis"></span> National Rail</a></strong>: National rail company and service operator.</li>
 <li><strong>Passenger Amenities Committee</strong>: Advisory board for passenger comfort and satisfaction.</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 ]]>
@@ -531,13 +493,11 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons ]]>
+	  <![CDATA[ This bureau is part of the Ministry of the Commons ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 ]]>
@@ -555,13 +515,11 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This bureau is part of the Ministry of the Commons ]]>
+	  <![CDATA[ This bureau is part of the Ministry of the Commons ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 ]]>
@@ -579,14 +537,12 @@ In addition to rail planning, safety and regulation, the bureau also controls Na
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ This commission is part of the Ministry of the Commons The Commonwealth Housing Commission designs, constructs and manages municipalised tenanted housing as part of the Bureau of Housing in Vekllei.
+	  <![CDATA[This commission is part of the Ministry of the Commons The Commonwealth Housing Commission designs, constructs and manages municipalised tenanted housing as part of the Bureau of Housing in Vekllei.
 Although most Vekllei people own their homes, home-ownership varies across resident status, employment, and different republics. To incentivise employment in some sectors like the Military and Healthcare, the Vekllei government attaches desirable housing to employment. Similarly, a claim to home ownership takes time to justify, and so many migrants and young people remain tenants.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This commission is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This commission is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-housing-commission fis"></span> <strong>Commonwealth Housing Commission</strong> designs, constructs and manages municipalised tenanted housing as part of the <a style="color: var(--color-commons)" href="/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</p>
@@ -606,13 +562,11 @@ Although most Vekllei people own their homes, home-ownership varies across resid
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This commission is part of the Ministry of the Commons ]]>
+	  <![CDATA[ This commission is part of the Ministry of the Commons ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This commission is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This commission is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 ]]>
@@ -630,13 +584,11 @@ Although most Vekllei people own their homes, home-ownership varies across resid
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ ߷ This laboratory is part of the Ministry of the Commons ]]>
+	  <![CDATA[ This laboratory is part of the Ministry of the Commons ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ This laboratory is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This laboratory is part of the <a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></span>
 </blockquote>
 
 ]]>

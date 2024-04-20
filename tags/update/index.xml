@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>update</title>
+	<title>Update</title>
 	<link>https://millmint.net/tags/update/</link>
-	<description>Recent content in update </description>
+	<description>Recent content in Update </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Wed, 30 Jun 2021 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/update/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -64,9 +64,7 @@ As of today I’m starting work full-time on a Vekllei comic called Atomic Moder
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/comic.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p>Hi everyone,</p>
@@ -104,9 +102,7 @@ I’m Hobart. I’ve been working on this project for a while now. It doesn’t 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sailorzelda.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/4"><strong>Issue #4</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/4"><strong>Issue #4</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p>Hello,</p>

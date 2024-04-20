@@ -9,13 +9,13 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>sketch</title>
+	<title>Sketch</title>
 	<link>https://millmint.net/tags/sketch/</link>
-	<description>Recent content in sketch </description>
+	<description>Recent content in Sketch </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 14 Mar 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -34,9 +34,7 @@ It is a medium-wheelbase1 utility vehicle with a naturally aspirated 6-cylinder,
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/jeep.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">The M2 &ldquo;Stallion&rdquo; General-Purpose Utility Vehicle.</div>
+  <span class="text">The M2 &ldquo;Stallion&rdquo; General-Purpose Utility Vehicle.</span>
 </blockquote>
 
 <p>The M2 &ldquo;Stallion&rdquo; is the backbone of the army. It carries everything from troops to stretchers to fission reactors across streets, sand and snow. It is customisable at the factory and in the field, and can serve nearly any role for Vekllei&rsquo;s fast-moving, hard-hitting army regiments.</p>
@@ -70,9 +68,7 @@ It is a medium-wheelbase1 utility vehicle with a naturally aspirated 6-cylinder,
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/tzipora.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Tzipora lo Ula de Helette Azela</div>
+  <span class="text">Tzipora lo Ula de Helette Azela</span>
 </blockquote>
 
 ]]>
@@ -95,9 +91,7 @@ There is no cost to any treatment in the Vekllei healthcare system, and it cover
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/nurse.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Nurse of the Commonwealth Health Service.</div>
+  <span class="text">Nurse of the Commonwealth Health Service.</span>
 </blockquote>
 
 <p>Healthcare in Vekllei is universal, and run as a government service for the wellbeing of the public. The system is financed and governed by the Commonwealth Health Secretariat, and is provided regionally by national health authorities.</p>
@@ -124,9 +118,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/soldier.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Officer in the Army of the Atlantic Crown.</div>
+  <span class="text">Officer in the Army of the Atlantic Crown.</span>
 </blockquote>
 
 <p>Some officers in the Army of the Atlantic Crown wear a tie with their jumpsuit. This is a choice that dates back to WW2, but also a symptom of the visible humanitarian role that the army plays in Vekllei and Africa.</p>
@@ -153,9 +145,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/post.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years.</div>
+  <span class="text">Revised postal uniform. I wanted something a bit more striking and graphic. Vekllei isn&rsquo;t simply a recreation of midcentury fashions, but a projection of what those design instincts might look like in 100 years.</span>
 </blockquote>
 
 ]]>
@@ -177,9 +167,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/caught.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">They both just agree to pretend they didn&rsquo;t catch each other smoking on the roof.</div>
+  <span class="text">They both just agree to pretend they didn&rsquo;t catch each other smoking on the roof.</span>
 </blockquote>
 
 ]]>
@@ -201,9 +189,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/sand.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Self portrait &ndash; thinking about how much I hate posting.</div>
+  <span class="text">Self portrait &ndash; thinking about how much I hate posting.</span>
 </blockquote>
 
 ]]>
@@ -225,9 +211,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/neko.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">A drawing for my friend Nubik, featuring his character, Neko.</div>
+  <span class="text">A drawing for my friend Nubik, featuring his character, Neko.</span>
 </blockquote>
 
 ]]>
@@ -249,9 +233,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/constable.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Disclaimer: Tzipora has never worked for/cooperated with the police.</div>
+  <span class="text">Disclaimer: Tzipora has never worked for/cooperated with the police.</span>
 </blockquote>
 
 ]]>
@@ -273,9 +255,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/gold.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society.</div>
+  <span class="text">Vekllei has a cultural tradition of medallions and pins, which make up a lot of the jewellery in a moneyless society.</span>
 </blockquote>
 
 ]]>
@@ -297,9 +277,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/3.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Sitting out on the veranda in the sun.</div>
+  <span class="text">Sitting out on the veranda in the sun.</span>
 </blockquote>
 
 ]]>
@@ -321,9 +299,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/2.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Trying to figure out what’s going on inside that head of hers.</div>
+  <span class="text">Trying to figure out what’s going on inside that head of hers.</span>
 </blockquote>
 
 ]]>
@@ -345,9 +321,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/1.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">The Look.</div>
+  <span class="text">The Look.</span>
 </blockquote>
 
 ]]>
@@ -369,9 +343,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/sleep.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Spiritual sequel to <a href="/stories/peace/">this post</a>.</div>
+  <span class="text">Spiritual sequel to <a href="/stories/peace/">this post</a>.</span>
 </blockquote>
 
 ]]>
@@ -393,9 +365,7 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/hair.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Spiritual sequel to <a href="/stories/peace/">this post</a>.</div>
+  <span class="text">Spiritual sequel to <a href="/stories/peace/">this post</a>.</span>
 </blockquote>
 
 ]]>
@@ -418,9 +388,7 @@ Tzipora is a somewhat poor student, but she is well-loved by these teachers, and
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/teachers.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">From left: Ms Ninčić, Tzipora, Mr Kowalczyk.</div>
+  <span class="text">From left: Ms Ninčić, Tzipora, Mr Kowalczyk.</span>
 </blockquote>
 
 <p>On the left is Ms Zora Ninčić, and on the right Mr Kowalczyk. Students joke that they must be brother and sister because they look similar, but they&rsquo;re unrelated. Ms Ninčić teaches social sciences, and Mr Kowalczyk teaches chemistry.</p>
@@ -449,9 +417,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/teeshirt.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.</div>
+  <span class="text">Long tee shirt, the only shirt she wears out untucked. Good for painting houses in.</span>
 </blockquote>
 
 ]]>
@@ -475,9 +441,7 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/reading.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This post</strong> announced changes made for patrons of Vekllei. Read and discuss the changes made in this post on Patreon <a href="https://www.patreon.com/posts/changes-to-61071775">here</a>.</div>
+  <span class="text">✿ <strong>This post</strong> announced changes made for patrons of Vekllei. Read and discuss the changes made in this post on Patreon <a href="https://www.patreon.com/posts/changes-to-61071775">here</a>.</span>
 </blockquote>
 
 <p>Hello everyone,</p>
@@ -515,9 +479,7 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/tingles.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/billing-paused-59200270">November Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</div>
+  <span class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/billing-paused-59200270">November Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</span>
 </blockquote>
 
 <p><strong>Fruit Tingles</strong> (<em>Fodsa Spas</em>) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</p>
@@ -542,9 +504,7 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/sketches/gymslip.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/56631873">september Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</div>
+  <span class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/56631873">september Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</span>
 </blockquote>
 
 ]]>

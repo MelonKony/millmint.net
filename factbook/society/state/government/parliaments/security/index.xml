@@ -14,7 +14,7 @@
 	<description>Recent content in Security Parliament </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/parliaments/security/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -28,13 +28,11 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[߷ Noshem is part of the Parliament of Security The Commonwealth Military Command (CMC) is the unifying command organisation for the Military, responsible ultimately for facilitating Commonwealth control of the armed forces. While republics retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in Vekllei. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a de facto command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.]]>
+	  <![CDATA[Noshem is part of the Parliament of Security The Commonwealth Military Command (CMC) is the unifying command organisation for the Military, responsible ultimately for facilitating Commonwealth control of the armed forces. While republics retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in Vekllei. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a de facto command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></div>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></span>
 </blockquote>
 
 <p>The <em>Commonwealth Military Command</em> (CMC) is the unifying command organisation for the <a style="color: var(--color-defence)" href="/military/"><span class="fi fi-min-defence fis"></span> Military</a>, responsible ultimately for facilitating Commonwealth control of the armed forces. While <a href="/republics/">republics</a> retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a <em>de facto</em> command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.</p>
@@ -169,26 +167,21 @@
 </div>
 </blockquote>
 
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-
 
 <script>
 var random = Math.floor(Math.random() * $('.level').length);
 $('.level').hide().eq(random).show();
 </script>
-<blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">߷ Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></div>
+<blockquote class="note series">
+  <span class="text">Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></span>
 </blockquote>
 
 <p>The <span class="fi fi-min-noshem fis"></span> <strong>Commonwealth Intelligence Service</strong> (<em>National Intelligence</em>, or <em>Noshem</em>) is the secret service of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It is organised into 40 semiautonomous outlines, which each may operate several offices. Noshem&rsquo;s sophisticated intelligence network and broad mandate contribute to its legendary reputation abroad, and conspiracies of its presence in almost every country.</p>
 <p>Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.</p>
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="executive-council">
+  <span class="text"><h2 id="executive-council">
   Executive Council
   <a class="anchor" href="#executive-council">#</a>
 </h2>
@@ -208,13 +201,11 @@ $('.level').hide().eq(random).show();
 </li>
 <li><strong>Senior Analyst</strong>, <a style="color: var(--color-defence)" href="/defence-imagery-establishment/"><span class="fi fi-min-defence fis"></span> Defence Imagery Establishment</a></li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="general-headquarters">
+  <span class="text"><h2 id="general-headquarters">
   General Headquarters
   <a class="anchor" href="#general-headquarters">#</a>
 </h2>
@@ -260,13 +251,11 @@ $('.level').hide().eq(random).show();
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="intelligence-outlines--sections">
+  <span class="text"><h2 id="intelligence-outlines--sections">
   Intelligence Outlines &amp; Sections
   <a class="anchor" href="#intelligence-outlines--sections">#</a>
 </h2>
@@ -342,20 +331,18 @@ $('.level').hide().eq(random).show();
 </ul>
 </li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 <blockquote class="note panel">
-  <div class="icon">
-</div>
-  <div class="text"><h2 id="boards--commissions">
+  <span class="text"><h2 id="boards--commissions">
   Boards &amp; Commissions
   <a class="anchor" href="#boards--commissions">#</a>
 </h2>
 <ul>
 <li><strong>Intelligence Audit Authority</strong>: Secure independent intelligence watchdog with high control access.</li>
 </ul>
-</div>
+</span>
 </blockquote>
 
 ]]>

@@ -9,12 +9,12 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-	<title>tools</title>
+	<title>Tools</title>
 	<link>https://millmint.net/categories/tools/</link>
-	<description>Recent content in tools </description>
+	<description>Recent content in Tools </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/tools/index.xml" rel="self" type="application/rss+xml" />
 	<item>

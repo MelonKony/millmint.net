@@ -14,7 +14,7 @@
 	<description>Recent content in Ayn </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net/favicon.png</webfeeds:icon>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/ayn/index.xml" rel="self" type="application/rss+xml" />
 	<item>
@@ -32,9 +32,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/family.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">They may not be related, but they are a family. Visit <a href="/characters/">characters</a> to read more about them.</div>
+  <span class="text">They may not be related, but they are a family. Visit <a href="/characters/">characters</a> to read more about them.</span>
 </blockquote>
 
 ]]>
@@ -56,9 +54,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/2024.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">The first morning of 2064. Ayn is collecting arctic basil for the eggs.</div>
+  <span class="text">The first morning of 2064. Ayn is collecting arctic basil for the eggs.</span>
 </blockquote>
 
 ]]>
@@ -80,9 +76,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/lamb.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">It is December 28th. Baron is the only one still trying to finish the Christmas lamb.</div>
+  <span class="text">It is December 28th. Baron is the only one still trying to finish the Christmas lamb.</span>
 </blockquote>
 
 ]]>
@@ -106,17 +100,13 @@ Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a dome
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/pdw.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">A submachine gun equipped with drums for use in corridors and tight spaces, in the event of catastrophe.</div>
+  <span class="text">A submachine gun equipped with drums for use in corridors and tight spaces, in the event of catastrophe.</span>
 </blockquote>
 
 <p>A <a href="/opsec/">HO/NI</a> analyst poses with one of the interior defence weapons hidden in their headquarters.</p>
 <p>HO/NI stands for &ldquo;Home Office/National Intelligence,&rdquo; and is the internal intelligence apparatus of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is one of six bureaus: HO/NI, AB/NI, RB/NI EB/NI, OB/NI, and SA/NI.</p>
 <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a domestic Vekllei model descended from what the original uzi license. In this setting, both <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and <a href="/israel/"><span class="fi fi-il"></span> Israel</a> (along with many others) are part of the <a href="/free-nations/">non-aligned movement</a>, and so a lot of trade flows between its members.</div>
+  <span class="text">Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a domestic Vekllei model descended from what the original uzi license. In this setting, both <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and <a href="/israel/"><span class="fi fi-il"></span> Israel</a> (along with many others) are part of the <a href="/free-nations/">non-aligned movement</a>, and so a lot of trade flows between its members.</span>
 </blockquote>
 
 ]]>
@@ -138,9 +128,7 @@ Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a dome
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/fullres/heatwave.jpg"/> <blockquote class="note caption">
-  <div class="icon">
-</div>
-  <div class="text">Oslolans when the temperature hits 25°C.</div>
+  <span class="text">Oslolans when the temperature hits 25°C.</span>
 </blockquote>
 
 <p><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> is part of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and is known as Iceland in our own world. In this setting, the North Atlantic is a bit more temperate thanks to the Oslolan Low Pole and strong ocean currents. Still, they&rsquo;re acclimatised to cool air, and 25°C (77°F) is hot weather for them.</p>
@@ -192,9 +180,7 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/newyear2022.jpg"/> <blockquote class="note ">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>Welcome to 2022,</strong> year of Vekllei. Here&rsquo;s to a great year of art, dreams and love.</div>
+  <span class="text">✿ <strong>Welcome to 2022,</strong> year of Vekllei. Here&rsquo;s to a great year of art, dreams and love.</span>
 </blockquote>
 
 <p>Tzipora spent the lunar solstice of 2067 with Ayn and Baron on one of the warm steam lakes of Flous. The lake was near where Ayn&rsquo;s parents lived, and they sailed across it on a wooden boat her father had made nearly 50 years before. Time was cyclical out here; it folded in on itself.</p>
@@ -339,9 +325,7 @@ It wasn’t just her features or figure that captured Tzipora’s attention — 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://images.millmint.net/ayn.jpg"/> <blockquote class="note story">
-  <div class="icon">
-</div>
-  <div class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></div>
+  <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
 <p><strong>When Tzipora first laid eyes on Ayn</strong>, hours after her arrival in the country, she thought, “that’s the most beautiful woman I’ve ever seen.”</p>
