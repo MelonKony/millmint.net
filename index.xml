@@ -113,16 +113,16 @@ I thought it was Hell.</p>
 <p>This website is a comprehensive archive and open notebook for the stories of Vekllei and its people.</p>
 <details open>
   <summary>Studio MillMint</summary>
-  <div class="markdown-inner">
-    
-* [**millmint.net**](/)
-  * [**/factbook/**](/factbook/) is an online wiki of Vekllei its people
-  * [**/millmint/**](/millmint/) is for everything outside of it
-  * [**/stories/**](/posts/) is for illustrated snapshots of life in Vekllei
-
-  </div>
+<ul>
+<li><a href="/"><strong>millmint.net</strong></a>
+<ul>
+<li><a href="/factbook/"><strong>/factbook/</strong></a> is an online wiki of Vekllei its people</li>
+<li><a href="/millmint/"><strong>/millmint/</strong></a> is for everything outside of it</li>
+<li><a href="/posts/"><strong>/stories/</strong></a> is for illustrated snapshots of life in Vekllei</li>
+</ul>
+</li>
+</ul>
 </details>
-
 <h2 id="what-is-vekllei">
   What is Vekllei?
   <a class="anchor" href="#what-is-vekllei">#</a>
@@ -174,57 +174,60 @@ I thought it was Hell.</p>
 </h2>
 <details open>
   <summary>Frequently Asked Questions</summary>
-  <div class="markdown-inner">
-    
-#### Who are you?
-
-[A Tasmanian illustrator.](/about/)
-
-#### Why is Vekllei a utopia?
-
-It makes me feel better about my life and the world. It’s escapism; it’s a dream.
-
-#### It’s a bit cringe to grandstand your political beliefs, doncha think?
-
-Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.
-
-#### Where’s the tension if it’s perfect?
-
-Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.
-
-#### Is there a novel? A story? A comic?
-
-I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.
-
-#### Where is Vekllei?
-
-Iceland.
-
-#### Is your alt-history thought out?
-
-Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.
-
-#### Why does Vekllei call itself “petticoat socialist”?
-
-Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It's almost anarchic in that sense.
-
-#### Why the "petticoat"?
-
-Vekllei is a female country. Womanhood is decommodified. It's maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.
-
-#### Who is Zelda?
-
-Zelda is another name for [Tzipora](/factbook/characters/). She has two names specifically to confuse you.
-
-[Join the Patreon](https://www.patreon.com/vekllei).
-
-[Join the Discord](https://discord.gg/dCE6vSU).
-
-Be "petticoat".
-
-  </div>
+<h4 id="who-are-you">
+  Who are you?
+  <a class="anchor" href="#who-are-you">#</a>
+</h4>
+<p><a href="/about/">A Tasmanian illustrator.</a></p>
+<h4 id="why-is-vekllei-a-utopia">
+  Why is Vekllei a utopia?
+  <a class="anchor" href="#why-is-vekllei-a-utopia">#</a>
+</h4>
+<p>It makes me feel better about my life and the world. It’s escapism; it’s a dream.</p>
+<h4 id="its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think">
+  It’s a bit cringe to grandstand your political beliefs, doncha think?
+  <a class="anchor" href="#its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think">#</a>
+</h4>
+<p>Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.</p>
+<h4 id="wheres-the-tension-if-its-perfect">
+  Where’s the tension if it’s perfect?
+  <a class="anchor" href="#wheres-the-tension-if-its-perfect">#</a>
+</h4>
+<p>Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.</p>
+<h4 id="is-there-a-novel-a-story-a-comic">
+  Is there a novel? A story? A comic?
+  <a class="anchor" href="#is-there-a-novel-a-story-a-comic">#</a>
+</h4>
+<p>I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.</p>
+<h4 id="where-is-vekllei">
+  Where is Vekllei?
+  <a class="anchor" href="#where-is-vekllei">#</a>
+</h4>
+<p>Iceland.</p>
+<h4 id="is-your-alt-history-thought-out">
+  Is your alt-history thought out?
+  <a class="anchor" href="#is-your-alt-history-thought-out">#</a>
+</h4>
+<p>Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.</p>
+<h4 id="why-does-vekllei-call-itself-petticoat-socialist">
+  Why does Vekllei call itself “petticoat socialist”?
+  <a class="anchor" href="#why-does-vekllei-call-itself-petticoat-socialist">#</a>
+</h4>
+<p>Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It&rsquo;s almost anarchic in that sense.</p>
+<h4 id="why-the-petticoat">
+  Why the &ldquo;petticoat&rdquo;?
+  <a class="anchor" href="#why-the-petticoat">#</a>
+</h4>
+<p>Vekllei is a female country. Womanhood is decommodified. It&rsquo;s maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.</p>
+<h4 id="who-is-zelda">
+  Who is Zelda?
+  <a class="anchor" href="#who-is-zelda">#</a>
+</h4>
+<p>Zelda is another name for <a href="/factbook/characters/">Tzipora</a>. She has two names specifically to confuse you.</p>
+<p><a href="https://www.patreon.com/vekllei">Join the Patreon</a>.</p>
+<p><a href="https://discord.gg/dCE6vSU">Join the Discord</a>.</p>
+<p>Be &ldquo;petticoat&rdquo;.</p>
 </details>
-
 <h2 id="futher-reading">
   Futher Reading
   <a class="anchor" href="#futher-reading">#</a>
@@ -3791,6 +3794,175 @@ This was a hard month, evidenced in part by the smaller number of posts. Persona
 	</item>
 	
 	<item>
+	  <title>Killers</title>
+	  <link>https://millmint.net/stories/killers/</link>
+	  <pubDate>Sat, 20 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/killers/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Is there gas in the car? Yes, there&rsquo;s gas in the car. Baron is clearly her father, but exactly who he is and how they met isn&rsquo;t clear.
+She comes by his office sometimes after class and sits in the lobby with a comic, eating an apple.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/killers.jpg"/> <blockquote class="note caption">
+  <span class="text">Is there gas in the car? Yes, there&rsquo;s gas in the car.</span>
+</blockquote>
+
+<p>Baron is clearly her father, but exactly who he is and how they met isn&rsquo;t clear.</p>
+<p>She comes by his office sometimes after class and sits in the lobby with a comic, eating an apple.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Nosebleed</title>
+	  <link>https://millmint.net/stories/nosebleed/</link>
+	  <pubDate>Wed, 17 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/nosebleed/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Restraining her picking arm. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/nosebleed.jpg"/> <blockquote class="note caption">
+  <span class="text">Restraining her picking arm.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Nuclear Ship</title>
+	  <link>https://millmint.net/stories/nuclear-ship/</link>
+	  <pubDate>Tue, 16 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/nuclear-ship/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The Nuclear Ship &lsquo;Automan&rsquo; moves freight at speed across oceans. Rather than containers, ships like the N.S. Automan carry modular, palletised railcars that simply roll on and off. These nuclear cargo ships are very fast, and common throughout the Vekllei Lesser Antilles. They facilitate rapid industrial freight, since cargo never leaves the railcar it departed on.
+I&rsquo;ll be doing a post on their palletised freight system soon. It&rsquo;s very modular, and quite different to the containerisation with which we&rsquo;re familiar.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/nuclear-ship.jpg"/> <blockquote class="note caption">
+  <span class="text">The Nuclear Ship &lsquo;Automan&rsquo; moves freight at speed across oceans.</span>
+</blockquote>
+
+<p>Rather than containers, ships like the N.S. <em>Automan</em> carry modular, palletised railcars that simply roll on and off. These nuclear cargo ships are very fast, and common throughout the Vekllei Lesser Antilles. They facilitate rapid industrial freight, since cargo never leaves the railcar it departed on.</p>
+<p>I&rsquo;ll be doing a post on their palletised freight system soon. It&rsquo;s very modular, and quite different to the containerisation with which we&rsquo;re familiar.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Petrol-Bike</title>
+	  <link>https://millmint.net/stories/petrol-bike/</link>
+	  <pubDate>Mon, 15 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/petrol-bike/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Not many Vekllei people own cars, but they love their petrol-bikes. Gina is the most popular petrol-bike manufacturer in Vekllei. The family that still owns Gina are actually legendary bike racers themselves, and sponsor racing events. Vekllei people use bicycles for work and recreation, but aside from athletes there isn&rsquo;t really a &ldquo;bike culture&rdquo; like we have in our own world.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/gina.jpg"/> <blockquote class="note caption">
+  <span class="text">Not many Vekllei people own cars, but they love their petrol-bikes.</span>
+</blockquote>
+
+<p><a style="color: rgb(203, 2, 0)" href="/gina/"><span class="fi fi-min-gina fis"></span> Gina</a> is the most popular petrol-bike manufacturer in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. The family that still owns Gina are actually legendary bike racers themselves, and sponsor racing events. Vekllei people use bicycles for work and recreation, but aside from athletes there isn&rsquo;t really a &ldquo;bike culture&rdquo; like we have in our own world.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Fruitcore</title>
+	  <link>https://millmint.net/stories/fruitcore/</link>
+	  <pubDate>Thu, 11 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/fruitcore/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Better posts coming soon. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/tangerine.jpg"/> <blockquote class="note caption">
+  <span class="text">Better posts coming soon.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Formal Jewellery</title>
+	  <link>https://millmint.net/stories/jewellery/</link>
+	  <pubDate>Wed, 10 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/jewellery/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Yes, Tzipora wears her watch on the inside of her wrist. Still wearing her formal jewellery after Friday Assembly.
+Jewellery is an important part of Oslolan culture and it&rsquo;s often part of formal student uniform, worn in ceremonies. It doesn&rsquo;t have to be real and it&rsquo;s not about wealth; it&rsquo;s about form, and your connection to the spirit world.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/jewellery.jpg"/> <blockquote class="note caption">
+  <span class="text">Yes, Tzipora wears her watch on the inside of her wrist.</span>
+</blockquote>
+
+<p>Still wearing her formal jewellery after Friday Assembly.</p>
+<p>Jewellery is an important part of Oslolan culture and it&rsquo;s often part of formal student uniform, worn in ceremonies. It doesn&rsquo;t have to be real and it&rsquo;s not about wealth; it&rsquo;s about form, and your connection to the spirit world.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Inuit student</title>
+	  <link>https://millmint.net/stories/inuit-student/</link>
+	  <pubDate>Tue, 09 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/inuit-student/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Cobian has both Inuit and Scandinavian ancestry. Cobian (pronounced Koh-bai-an, not Cobain) is Tzipora&rsquo;s closest girl/friend. When they first met she was a bit tedious and insecure, but she&rsquo;s since become very important to Tzipora.
+Her family are indigenous to Oslola (Iceland), and have lineage going back a thousand years.
+She&rsquo;s wearing a &lsquo;gi&rsquo;, a ceremonial pleat that sits over the skirt stitched with protective runes, unique to Oslola. Vekllei uniforms are very similar across all its constituent republics, but they have a lot of distinct cultural items like this.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/inuit.jpg"/> <blockquote class="note caption">
+  <span class="text">Cobian has both Inuit and Scandinavian ancestry.</span>
+</blockquote>
+
+<p>Cobian (pronounced Koh-bai-an, not Cobain) is Tzipora&rsquo;s closest girl/friend. When they first met she was a bit tedious and insecure, but she&rsquo;s since become very important to Tzipora.</p>
+<p>Her family are indigenous to <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (Iceland), and have lineage going back a thousand years.</p>
+<p>She&rsquo;s wearing a &lsquo;gi&rsquo;, a ceremonial pleat that sits over the skirt stitched with protective runes, unique to Oslola. Vekllei uniforms are very similar across all its constituent republics, but they have a lot of distinct cultural items like this.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Radio</title>
 	  <link>https://millmint.net/stories/radio/</link>
 	  <pubDate>Mon, 08 Apr 2024 08:00:00 EST</pubDate>
@@ -3804,7 +3976,7 @@ This was a hard month, evidenced in part by the smaller number of posts. Persona
 	  <![CDATA[Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears. Vekllei people don&rsquo;t own televisions, washing machines, or really any other consumer appliances. By American or European standards their lives are austere. But in place of TV is a vibrant soundscape of radio broadcasting. It&rsquo;s a tool of the state and counter-culture; hobbyists and industry alike. Pocket radios are popular, and her model was designed by Adelectrics.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/radio.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/radio.jpg"/> <blockquote class="note caption">
   <span class="text">Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears.</span>
 </blockquote>
 
@@ -3830,7 +4002,7 @@ This was a hard month, evidenced in part by the smaller number of posts. Persona
 She keeps some smokes in her purse because it&rsquo;s good for the nerves. It was a bad habit she picked up in America working at Hotel Zion.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/smoke.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/smoke.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora wants to be a conformist but she&rsquo;s too much of a weirdo.</span>
 </blockquote>
 
@@ -3854,7 +4026,7 @@ She keeps some smokes in her purse because it&rsquo;s good for the nerves. It wa
 	  <![CDATA[Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment. Oslola, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/coffee.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/coffee.jpg"/> <blockquote class="note caption">
   <span class="text">Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment.</span>
 </blockquote>
 
@@ -3877,7 +4049,7 @@ She keeps some smokes in her purse because it&rsquo;s good for the nerves. It wa
 	  <![CDATA[ Commission for a TTRPG. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/maja.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/maja.jpg"/> <blockquote class="note caption">
   <span class="text">Commission for a TTRPG.</span>
 </blockquote>
 
@@ -8331,14 +8503,17 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 <p>Tzipora, Moise and Isabeau are finishing pre-movie drinks in the ruins of <a href="/factbook/landscape/boroughs/lola/">Lola</a>, surrounded by night-shadows and stars. Ruins are common all over Vekllei, but no kids gave much thought to them. To them, the war was already history. This time of year, the moon has been up for hours. A science fiction movie Tzipora has been wanting to see again plays at the <em>Royal</em> tonight.</p>
 <p>It was legal to drink as a 16-year-old in Vekllei, but it didn&rsquo;t mean it wasn&rsquo;t a hassle. Just as they do overseas, most Vekllei teenagers drink together in the private corners of public places, away from parents and the local nuisances, the lights of Copetpek glowing beneath them.</p>
 <details open>
-  <summary>JM&#39;s Submission</summary>
-  <div class="markdown-inner">
-    
-![smallimg](/images/fanart/jm-1.jpg)
+<summary>JM's Submission</summary>
+<p>
 
-  </div>
+
+ 
+<figure>
+  <img src="/images/fanart/jm-1.jpg" alt="smallimg"  loading="lazy" />
+  
+</figure>
+</p>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>
@@ -21495,7 +21670,7 @@ Since Vekllei citizens do not usually participate in the domestic securities mar
   <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
-<p>The <em>Armed Forces of Vekllei</em>, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a>, are a sovereign feature of the country and as such are placed under direct supervision of the <a>Palace of Vekllei</a> &ndash; seperate from the Vekllei and Commonwealth governments.</p>
+<p>The <em>Armed Forces of Vekllei</em>, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a>, are a sovereign feature of the country and as such are placed under direct supervision of the <a href="/factbook/society/state/palace/">Palace of Vekllei</a> &ndash; seperate from the Vekllei and Commonwealth governments.</p>
 <p>The purpose of the Armed Forces of Vekllei, an agency-level body under control of COSMOKOS, is to integrate the Crown Armed Forces with the interior government, and facilitate the employ of Vekllei people in the Armed Forces.</p>
 <h2 id="department-of-communications">
   Department of Communications
@@ -21738,10 +21913,8 @@ It consists of members of parliament, either in a National Assembly or the Senat
 <p>The origin of Cama is volcanic, and the interior of its main island is mountainous. The capital has a good deepwater harbour and is renowned for its beautiful and bright-coloured waterfront area and homes. Grand Etang, a lake in the crater of an extinct volcano at 530 meters, provides some fresh water to its municipalities. Like much of the <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> Caribbean, about four fifths of Camans are descended from black slaves brought there by the <a style="color: rgb(200, 16, 47)" href="/uk/"><span class="fi fi-gb"></span></span> United Kingdom</a> to work Cama&rsquo;s plantation economy. Other populations, including indigenous Caribs and Indians descended from indebted labourers who replaced the slave system, make up the remainder. They are mostly Christian, with minor Islamic and Hindu populations. They enjoy a tropical climate with a dry and rainy season, tempered by ocean breezes.</p>
 <p>By Vekllei standards, life on Cama remains remarkably agrarian and agricultural products make up much of its economy. The municipalisation of the republic in the postwar period has seen many of its plantations converted into co-operative farms, which grow a variety of citrus fruits and tropical plants including nutmeg, of which Cama contributes about 40% of the world&rsquo;s total supply. The transition from subsistence farming to the <a href="/social-economy/">commons</a> has reduced the overall participation of labour in agriculture, which now is mostly undertaken to maintain a claim on land. Most other products are &lsquo;municipal goods,&rsquo; comprising staple crops and some light industry. Manufacturing, found mostly in the capital, is dominated by brewing, cigarette manufacturing and textiles.</p>
 <p>The island of Cama is home to the Vekllei National Medical University, the most prestigious medical institution in Vekllei. Its students make up about an eighth of the republic&rsquo;s total population. Cama and its minor inhabited islands of Carriacou and Petite Martinique are linked by hydrofoil. The capital has a tram network, and narrow-gauge rail circumnavigates its coastline. The only civilian airport is located southwest of the capital. Cama is also the headquarters of <a style="color: rgb(60, 120, 200)" href="/atlantis/"><span class="fi fi-min-atlantis fis"></span> Atlantis</a>, the primary shipping <a href="/bureaus/">bureau corporation</a> of the country, which also operates a port in Assumpción.</p>
-<details >
+<details open>
   <summary>Major Industries</summary>
-  <div class="markdown-inner">
-    
 * **Agriculture**
 	* Cocoa
 	* Nutmeg
@@ -21761,14 +21934,9 @@ It consists of members of parliament, either in a National Assembly or the Senat
 	* Canning
 	* Soapmaking
 	* Cigarette & Cigar Manufacturing
-
-  </div>
 </details>
-
-<details >
+<details open>
   <summary>Major Corporations</summary>
-  <div class="markdown-inner">
-    
 * <a style="color: rgb(60, 120, 200)" href="/atlantis/"><span class="fi fi-min-atlantis fis"></span> Atlantis</a>
 * Caribbea Cooperative Breweries
 * Cama Nutmeg (bureau)
@@ -21778,10 +21946,7 @@ It consists of members of parliament, either in a National Assembly or the Senat
 * Marine Cama
 * Federal Textiles
 * Island Foods Cannery
-
-  </div>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>
@@ -24779,7 +24944,7 @@ The Directory consists of each Sorda representing a constituent, with observers 
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documents - 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth - 📄Document No.]]>
+	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documentst 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth 📄Document No.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
@@ -24791,19 +24956,13 @@ The Directory consists of each Sorda representing a constituent, with observers 
 </blockquote>
 
 <details open>
-  <summary>Documents</summary>
-  <div class="markdown-inner">
-    
-- <a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth
-- <a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools
-- <a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM
-
-
-
-  </div>
-</details>
-
-]]>
+<summary>Documentst</summary>
+<ul>
+<li><a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth</li>
+<li><a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools</li>
+<li><a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM</li>
+</ul>
+</details>]]>
   	</content:encoded>
 	</item>
 	
@@ -25100,19 +25259,19 @@ Education and schooling is an important part of Vekllei society, and its importa
 <p>The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.</p>
 <details open>
   <summary>Vekllei Compulsory Schooling</summary>
-  <div class="markdown-inner">
-    
-* Preschool
-  * Nursery School
-  * Garden School
-  * Preparatory School
-* Primary School (Years 1-6)
-* Secondary School (Years 7-10)
-* College (Years 11-12)
-
-  </div>
+<ul>
+<li>Preschool
+<ul>
+<li>Nursery School</li>
+<li>Garden School</li>
+<li>Preparatory School</li>
+</ul>
+</li>
+<li>Primary School (Years 1-6)</li>
+<li>Secondary School (Years 7-10)</li>
+<li>College (Years 11-12)</li>
+</ul>
 </details>
-
 <h3 id="tertiary-education">
   Tertiary Education
   <a class="anchor" href="#tertiary-education">#</a>
@@ -25136,23 +25295,20 @@ Education and schooling is an important part of Vekllei society, and its importa
 <p>The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.</p>
 <details open>
   <summary>Commonwealth International Curriculum</summary>
-  <div class="markdown-inner">
-    
-* Arts
-* Vekllei Languages
-* Foreign Languages
-* Health and Physical Education
-* Civic Sciences and Stewardship
-* Economics and Business
-* World Study
-* Political Sciences and History
-* Mathematics
-* Material Sciences and Electronics
-* Work Studies
-
-  </div>
+<ul>
+<li>Arts</li>
+<li>Vekllei Languages</li>
+<li>Foreign Languages</li>
+<li>Health and Physical Education</li>
+<li>Civic Sciences and Stewardship</li>
+<li>Economics and Business</li>
+<li>World Study</li>
+<li>Political Sciences and History</li>
+<li>Mathematics</li>
+<li>Material Sciences and Electronics</li>
+<li>Work Studies</li>
+</ul>
 </details>
-
 <h2 id="uniform">
   Uniform
   <a class="anchor" href="#uniform">#</a>
@@ -26138,35 +26294,46 @@ The current system has good outcomes, and its public services are widely availab
 </figure>
 </p>
 <p>The foundation of Vekllei public health, however, lies in the municipalities. General Practitioners (GPs) and Family Doctors are the main primary care providers in the country, and are employed by <a href="/polis/">municipal</a> health councils.</p>
-<details >
+<details open>
   <summary>Role of Government</summary>
-  <div class="markdown-inner">
-    
-* Commonwealth Health Secretariat
-	* Commonwealth Office of Public Health
-	* Commonwealth Disease Control Authority
-	* National Health Council
-		* Vekllei Health Network
-	* Commonwealth Health Academy
-	* Medicines Authority
-	* Radiation Health Authority
-	* Food and Medicines Standards Authority
-	* Integrated Health office
-		* Integrated Health Accounting Office
-		* Integrated Care Office
-	* Health Democracy Advocate
-	* Health Accounting Office
-		* Health Finance Board
-* Vekllei National Health
-	* Health Sciences Authority
-	* Health Promotion Board
-	* Hospital Administration
-* Vekllei Municipal Health
-	*
-
-  </div>
+<ul>
+<li>Commonwealth Health Secretariat
+<ul>
+<li>Commonwealth Office of Public Health</li>
+<li>Commonwealth Disease Control Authority</li>
+<li>National Health Council
+<ul>
+<li>Vekllei Health Network</li>
+</ul>
+</li>
+<li>Commonwealth Health Academy</li>
+<li>Medicines Authority</li>
+<li>Radiation Health Authority</li>
+<li>Food and Medicines Standards Authority</li>
+<li>Integrated Health office
+<ul>
+<li>Integrated Health Accounting Office</li>
+<li>Integrated Care Office</li>
+</ul>
+</li>
+<li>Health Democracy Advocate</li>
+<li>Health Accounting Office
+<ul>
+<li>Health Finance Board</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vekllei National Health
+<ul>
+<li>Health Sciences Authority</li>
+<li>Health Promotion Board</li>
+<li>Hospital Administration</li>
+</ul>
+</li>
+<li>Vekllei Municipal Health</li>
+</ul>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>
@@ -26774,19 +26941,16 @@ Included was a majority female Council of Roses, many of whom were socialists op
 </h2>
 <p><strong>Vekllei language</strong>, abbreviated to just <strong>Vekllei</strong>, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.</p>
 <details open>
-  <summary>Systems of Vekllei Language</summary>
-  <div class="markdown-inner">
-    
-1. **Spoken Vekllei**, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called *Oa* and *Loh*.
-2. **Topet**, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, *Topet* characters can be broken down into repeating components, called *Topotte*.
-3. **Rapotenne**, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.
-4. **Potenne**, lit. “*Hand-Talk*”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.
-5. **Upotenne**, lit. “*Spirit-Hand-Talk*”, as the recreation of runes in human form, used limitedly in spiritual ritual.
-6. **Vekllei Semaphore** is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in *Vekllei Semaphore*, in which full sentences can be formed.
-
-  </div>
+<summary>Systems of Vekllei Language</summary>
+<ol>
+<li><strong>Spoken Vekllei</strong>, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called <em>Oa</em> and <em>Loh</em>.</li>
+<li><strong>Topet</strong>, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, <em>Topet</em> characters can be broken down into repeating components, called <em>Topotte</em>.</li>
+<li><strong>Rapotenne</strong>, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.</li>
+<li><strong>Potenne</strong>, lit. “<em>Hand-Talk</em>”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.</li>
+<li><strong>Upotenne</strong>, lit. “<em>Spirit-Hand-Talk</em>”, as the recreation of runes in human form, used limitedly in spiritual ritual.</li>
+<li><strong>Vekllei Semaphore</strong> is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in <em>Vekllei Semaphore</em>, in which full sentences can be formed.</li>
+</ol>
 </details>
-
 <h3 id="introduction">
   Introduction
   <a class="anchor" href="#introduction">#</a>
@@ -26864,77 +27028,274 @@ Included was a majority female Council of Roses, many of whom were socialists op
 </h4>
 <p>Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses vary across cultivated and common Vekllei dialects.</p>
 <details open>
-  <summary>Pure Vowels</summary>
-  <div class="markdown-inner">
-    
-|               | Front |      |                | Central |      | Back  |      |
-|---------------|-------|------|----------------|---------|------|-------|------|
-|               | Short | Long | Long (round) | Short   | Long | Short | Long |
-| **Close**     | ɪ     | iː   | y              |         | ʉː   | ʊ     |      |
-| **Close-Mid** |       |      | ø              |         |      |       |      |
-| **Mid**       | e     | eː   |                | ə       | ɜː   | ɔ     | oː   |
-| **Open-Mid**  |       |      | œ              |         |      |       |      |
-| **Open**      | æ     | (æː) |                | ɐ       | ɐː   |       |      |
-
-  </div>
+<summary>Pure Vowels</summary>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Front</th>
+<th></th>
+<th></th>
+<th>Central</th>
+<th></th>
+<th>Back</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Short</td>
+<td>Long</td>
+<td>Long (round)</td>
+<td>Short</td>
+<td>Long</td>
+<td>Short</td>
+<td>Long</td>
+</tr>
+<tr>
+<td><strong>Close</strong></td>
+<td>ɪ</td>
+<td>iː</td>
+<td>y</td>
+<td></td>
+<td>ʉː</td>
+<td>ʊ</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Close-Mid</strong></td>
+<td></td>
+<td></td>
+<td>ø</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Mid</strong></td>
+<td>e</td>
+<td>eː</td>
+<td></td>
+<td>ə</td>
+<td>ɜː</td>
+<td>ɔ</td>
+<td>oː</td>
+</tr>
+<tr>
+<td><strong>Open-Mid</strong></td>
+<td></td>
+<td></td>
+<td>œ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Open</strong></td>
+<td>æ</td>
+<td>(æː)</td>
+<td></td>
+<td>ɐ</td>
+<td>ɐː</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </details>
-
 <h4 id="diphthongs">
   Diphthongs
   <a class="anchor" href="#diphthongs">#</a>
 </h4>
 <p>From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. <em>Oa</em> typically favours modernised post-<em>Quutetast</em> glides for its so-called <em>Ocean Vowels</em>, which are generally long and unrounded. <em>Loh</em> words are typically older and depicted pictographically, and are pronounced as <em>Floral Vowels</em>. The tables below list their pronunciation.</p>
 <details open>
-  <summary>Diphthongs</summary>
-  <div class="markdown-inner">
-    
-##### Ocean Vowels
-|               |     Vowel          |
-|---------------|--------------------|
-| **Closing**   | æɪ, ɑɪ, oɪ, æɔ, əʉ |
-| **Centering** | ɪə                 |
-
-##### Floral Vowel
-|   Vowel   | Onset glide | Onset glide | Onset glide |
-|-----------|-------------|-------------|-------------|
-| **Vowel** | **/j/**     | **/ɥ/**     | **/w/**     |
-| **/a/**   | /ja/        | /ɥa/        | /wa/        |
-| **/ɑ/**   | /jɑ/        | /ɥɑ/        | /wɑ/        |
-| **/ɑ̃/**   | /jɑ̃/        | /ɥɑ̃/        | /wɑ̃/        |
-| **/e/**   | /je/        | /ɥe/        | /we/        |
-| **/ɛ/**   | /jɛ/        | /ɥɛ/        | /wɛ/        |
-| **/ɛ̃/**   | /jɛ̃/        | /ɥɛ̃/        | /wɛ̃/        |
-| **/i/**   | /ji/        | /ɥi/        | /wi/        |
-| **/o/**   | /jo/        | /ɥo/        | /wo/        |
-| **/ɔ/**   | /jɔ/        | /ɥɔ/        | /wɔ/        |
-| **/ɔ̃/**   | /jɔ̃/        | /ɥɔ̃/        | /wɔ̃/        |
-| **/ø/**   | /jø/        | /ɥø/        | /wø/        |
-| **/œ/**   | /jœ/        | /ɥœ/        | /wœ/        |
-| **/u/**   | /ju/        |             |             |
-| **/y/**   | /jy/        |             |             |
-
-  </div>
+<summary>Diphthongs</summary>
+<h5 id="ocean-vowels">
+  Ocean Vowels
+  <a class="anchor" href="#ocean-vowels">#</a>
+</h5>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Vowel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Closing</strong></td>
+<td>æɪ, ɑɪ, oɪ, æɔ, əʉ</td>
+</tr>
+<tr>
+<td><strong>Centering</strong></td>
+<td>ɪə</td>
+</tr>
+</tbody>
+</table>
+<h5 id="floral-vowel">
+  Floral Vowel
+  <a class="anchor" href="#floral-vowel">#</a>
+</h5>
+<table>
+<thead>
+<tr>
+<th>Vowel</th>
+<th>Onset glide</th>
+<th>Onset glide</th>
+<th>Onset glide</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vowel</strong></td>
+<td><strong>/j/</strong></td>
+<td><strong>/ɥ/</strong></td>
+<td><strong>/w/</strong></td>
+</tr>
+<tr>
+<td><strong>/a/</strong></td>
+<td>/ja/</td>
+<td>/ɥa/</td>
+<td>/wa/</td>
+</tr>
+<tr>
+<td><strong>/ɑ/</strong></td>
+<td>/jɑ/</td>
+<td>/ɥɑ/</td>
+<td>/wɑ/</td>
+</tr>
+<tr>
+<td><strong>/ɑ̃/</strong></td>
+<td>/jɑ̃/</td>
+<td>/ɥɑ̃/</td>
+<td>/wɑ̃/</td>
+</tr>
+<tr>
+<td><strong>/e/</strong></td>
+<td>/je/</td>
+<td>/ɥe/</td>
+<td>/we/</td>
+</tr>
+<tr>
+<td><strong>/ɛ/</strong></td>
+<td>/jɛ/</td>
+<td>/ɥɛ/</td>
+<td>/wɛ/</td>
+</tr>
+<tr>
+<td><strong>/ɛ̃/</strong></td>
+<td>/jɛ̃/</td>
+<td>/ɥɛ̃/</td>
+<td>/wɛ̃/</td>
+</tr>
+<tr>
+<td><strong>/i/</strong></td>
+<td>/ji/</td>
+<td>/ɥi/</td>
+<td>/wi/</td>
+</tr>
+<tr>
+<td><strong>/o/</strong></td>
+<td>/jo/</td>
+<td>/ɥo/</td>
+<td>/wo/</td>
+</tr>
+<tr>
+<td><strong>/ɔ/</strong></td>
+<td>/jɔ/</td>
+<td>/ɥɔ/</td>
+<td>/wɔ/</td>
+</tr>
+<tr>
+<td><strong>/ɔ̃/</strong></td>
+<td>/jɔ̃/</td>
+<td>/ɥɔ̃/</td>
+<td>/wɔ̃/</td>
+</tr>
+<tr>
+<td><strong>/ø/</strong></td>
+<td>/jø/</td>
+<td>/ɥø/</td>
+<td>/wø/</td>
+</tr>
+<tr>
+<td><strong>/œ/</strong></td>
+<td>/jœ/</td>
+<td>/ɥœ/</td>
+<td>/wœ/</td>
+</tr>
+<tr>
+<td><strong>/u/</strong></td>
+<td>/ju/</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>/y/</strong></td>
+<td>/jy/</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </details>
-
 <h4 id="consonants">
   Consonants
   <a class="anchor" href="#consonants">#</a>
 </h4>
 <p>In Vekllei, consonants are arranged in five places of primary articulation.</p>
 <details open>
-  <summary>Consonants</summary>
-  <div class="markdown-inner">
-    
-|                     | Labial | Alveolar          | Palatal          | Velar  | Uvular |
-|---------------------|--------|-------------------|------------------|--------|--------|
-| Voiceless stop      | p /p/  | t /t/             |                  | k /k/  | q /q/  |
-| Voiceless fricative |        | s /s/ł /ɬ/(h /h/) |                  |        |        |
-| Voiced              | v /v/  | l /l/             | j /j/(j, r̂  /ɟ/) | g /ɡ/  | r /ʁ/  |
-| Nasal               | m /m/  | n /n/             |                  | ng /ŋ/ |        |
-
-  </div>
+<summary>Consonants</summary>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Labial</th>
+<th>Alveolar</th>
+<th>Palatal</th>
+<th>Velar</th>
+<th>Uvular</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Voiceless stop</td>
+<td>p /p/</td>
+<td>t /t/</td>
+<td></td>
+<td>k /k/</td>
+<td>q /q/</td>
+</tr>
+<tr>
+<td>Voiceless fricative</td>
+<td></td>
+<td>s /s/ł /ɬ/(h /h/)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Voiced</td>
+<td>v /v/</td>
+<td>l /l/</td>
+<td>j /j/(j, r̂  /ɟ/)</td>
+<td>g /ɡ/</td>
+<td>r /ʁ/</td>
+</tr>
+<tr>
+<td>Nasal</td>
+<td>m /m/</td>
+<td>n /n/</td>
+<td></td>
+<td>ng /ŋ/</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </details>
-
 <h2 id="topet">
   Topet
   <a class="anchor" href="#topet">#</a>
@@ -27567,40 +27928,67 @@ Executive Council # Director, LSRE Chief Land Scientist Officer for Science Poli
 <p>The Mail is organised horizontally as an independent branch of the Royal Vekllei Armed Forces, and so, unlike other State Requisites, reports directly to the Prime Ministers of the Vekllei Government, as representatives of the Landscape Sovereign. As is common with most large-scale industry in Vekllei, the Mail is vertically integrated, and the majority of its contract work is consolidated directly into the bureau structure.</p>
 <p>The Mail has two offices of administration: the General Office and the Office of the Postmistress, which are responsible for daily operations and interdepartmental administration respectively. The following table outlines the Mail&rsquo;s structure.</p>
 <details open>
-  <summary>The Royal Mail of Vekllei</summary>
-  <div class="markdown-inner">
-    
-* **General Office**
-  * **Postal Service Bureau**
-    * Royal Mail Press
-      * *Bulletin of the Mail*
-      * Materials Manufacturie
-    * Financial Services Bureau
-    * Special Services Office
-      * Postal Inspection Offices
-      * Joint HO/NI Postal Commission
-  * **Overseas Service Bureau**
-    * World Post Company
-    * Universal Express Company
-  * **Office of Mail**
-    * VK Mail Chapel (VKC 1st Mail Workers Unite)
-    * Service Assurance Office
-  * **Office of Telecommunications**
-    * Cosma
-      * Cosma Vekllei
-      * Cosma Overseas
-    * Industrial Telecommunications Office
-  * **Office of Company Infrastructure**
-    * Department of Lines
-    * Department of Post Boxes
-    * Department of Vehicles
-* **Office of the Postmistress**
-  * **Postal Commission**
-  * **Mail Democracy Office**
-  
-  </div>
+<summary>Royal Mail of Vekllei</summary>
+<ul>
+<li><strong>General Office</strong>
+<ul>
+<li><strong>Postal Service Bureau</strong>
+<ul>
+<li>Royal Mail Press
+<ul>
+<li><em>Bulletin of the Mail</em></li>
+<li>Materials Manufacturie</li>
+</ul>
+</li>
+<li>Financial Services Bureau</li>
+<li>Special Services Office
+<ul>
+<li>Postal Inspection Offices</li>
+<li>Joint HO/NI Postal Commission</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Overseas Service Bureau</strong>
+<ul>
+<li>World Post Company</li>
+<li>Universal Express Company</li>
+</ul>
+</li>
+<li><strong>Office of Mail</strong>
+<ul>
+<li>VK Mail Chapel (VKC 1st Mail Workers Unite)</li>
+<li>Service Assurance Office</li>
+</ul>
+</li>
+<li><strong>Office of Telecommunications</strong>
+<ul>
+<li>Cosma
+<ul>
+<li>Cosma Vekllei</li>
+<li>Cosma Overseas</li>
+</ul>
+</li>
+<li>Industrial Telecommunications Office</li>
+</ul>
+</li>
+<li><strong>Office of Company Infrastructure</strong>
+<ul>
+<li>Department of Lines</li>
+<li>Department of Post Boxes</li>
+<li>Department of Vehicles</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Office of the Postmistress</strong>
+<ul>
+<li><strong>Postal Commission</strong></li>
+<li><strong>Mail Democracy Office</strong></li>
+</ul>
+</li>
+</ul>
 </details>
-
 <h2 id="services">
   Services
   <a class="anchor" href="#services">#</a>
@@ -27713,36 +28101,48 @@ Executive Council # Director, LSRE Chief Land Scientist Officer for Science Poli
 <p>The Mail retains a large and diverse fleet of vehicles in regular operations, which, due to their diversity and and expense, have become iconic around the world. From bicycles to space planes, the Mail&rsquo;s fleet of vehicles rivals in diversity postal services three times its size, largely benefitted by Vekllei&rsquo;s obfuscated budgeting system and cultural importance afforded to the organisation.</p>
 <p>The following table lists company vehicles relevant to regular postal service.</p>
 <details open>
-  <summary>The Royal Mail Fleet</summary>
-  <div class="markdown-inner">
-    
-* **Postal Service Bureau**
-  * 8,000 delivery automen
-  * 5,200 motorcycles *(mostly Local Electric Model 15 & Phantoms)*
-  * 2,400 bicycles
-  * 2,000 automatic vans
-  * 400 mail trucks
-  * 31 mail boats *(MBR)*
-  * 20 mail flying boats *(Model 54 "Fairie")*
-  * 16 mail helijets *(Model RM/Gisma & Record types)*
-  * 15 mail trains *(RM Series/Series 225 EMU)*
-  * 8 mail trams *(Series T6)*
-  * 2 mail space planes *(G.A. Type 1)*
-  * 2 mail ships *(RMS* Atlantic *&* Sunburst *)*
-* **Overseas Service Bureau**
-    * World Post Company
-      * 250 mail trucks
-      * 52 cargo jets *(Model RM/Type 56C)*
-      * 6 flying boats
-    * Universal Express Company
-      * 4 cargo jets *(Model ERM/C.A. Type 6 supersonic)*
-      * 2 mail trucks
-* **Office of the Postmistress**
-  * 1 executive mail train *(Series 4000 EMU)*
-  
-  </div>
+ <summary>The Royal Mail Fleet</summary>
+<ul>
+<li><strong>Postal Service Bureau</strong>
+<ul>
+<li>8,000 delivery automen</li>
+<li>5,200 motorcycles <em>(mostly Local Electric Model 15 &amp; Phantoms)</em></li>
+<li>2,400 bicycles</li>
+<li>2,000 automatic vans</li>
+<li>400 mail trucks</li>
+<li>31 mail boats <em>(MBR)</em></li>
+<li>20 mail flying boats <em>(Model 54 &ldquo;Fairie&rdquo;)</em></li>
+<li>16 mail helijets <em>(Model RM/Gisma &amp; Record types)</em></li>
+<li>15 mail trains <em>(RM Series/Series 225 EMU)</em></li>
+<li>8 mail trams <em>(Series T6)</em></li>
+<li>2 mail space planes <em>(G.A. Type 1)</em></li>
+<li>2 mail ships <em>(RMS</em> Atlantic <em>&amp;</em> Sunburst <em>)</em></li>
+</ul>
+</li>
+<li><strong>Overseas Service Bureau</strong>
+<ul>
+<li>World Post Company
+<ul>
+<li>250 mail trucks</li>
+<li>52 cargo jets <em>(Model RM/Type 56C)</em></li>
+<li>6 flying boats</li>
+</ul>
+</li>
+<li>Universal Express Company
+<ul>
+<li>4 cargo jets <em>(Model ERM/C.A. Type 6 supersonic)</em></li>
+<li>2 mail trucks</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Office of the Postmistress</strong>
+<ul>
+<li>1 executive mail train <em>(Series 4000 EMU)</em></li>
+</ul>
+</li>
+</ul>
 </details>
-
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -29909,61 +30309,87 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 <p>Vekllei National Rail is an organ of the Transport Requisite of the Vekllei Government (A.r.R., or <em>requoisesiasn amourisocietie resmesnghet</em>) as several individual state requisite bureaus, which in turn are charged with different transport companies. Although its structure in Vekllei might be analogous to a government ministry abroad, it functions in practice more like a state-owned enterprise with private subsidiaries. It is not a state-run corporation, and maintains seperate accounting.</p>
 <p>Vekllei National Rail is administered through three State Requisites: the Vekllei National Rail itself including all regular operations and rail service, the National Rail Insurance Scheme which finances construction through Government White Bonds, and the Rail Safety Commission.</p>
 <details open>
-  <summary>Organisation Chart of VNR</summary>
-  <div class="markdown-inner">
-    
-
+<summary>Organisational Chart of VNR</summary>
 <blockquote class="note ">
   <span class="text">Responsible to the <a href="/factbook/society/state/government/interior/transport/#national-railways-bureau">Railways Bureau</a> of the <a href="/factbook/society/state/government/interior/transport">Ministry of Transport</a></span>
 </blockquote>
 
-* **Vekllei National Rail**
-  * National Rail
-    * Vekllei National Railways A.r.R.
-      * VNR Atlantic
-      * VNR Kala
-      * VNR Overseas
-    * Vekllei National Magways A.r.R.
-    * Vekllei Metro A.r.R.
-    * Government Railroads R.S.
-    * Vekllei Freight S.A.
-  * Railway Police Office
-  * Office of Steam
-  * Office of Electrification
-  * Nuclear-Electric Rail Commission
-  * Private Railcar Commission
-* **Vekllei Industrial Rail**
-  * National Freight
-  * [Royal Mail](/mail/) Railway Holdings
-* **Railroad Democracy Hall**
-  * VK Rail Chapel
-  * Public Rail Chapel
-* **Vekllei National Rail Press Bureau**
-  * **Vekllei Rail Press**
-    * *Vekllei Rail Transport Journal*
-      * *Locomotive* Magazine
-    * Rail Periodicals Office
-    * Friends of Rail Office
-  * Public Relations Office
-  * Industrial Relations Office
-* **Vekllei National Rail Municipal Land Company S.A.**
-* **Vekllei National Rail Construction House**
-* **Railway Laboratories of Vekllei**
-  * Senrouive House Office
-  * Company House Office
-* **National Rail Insurance Scheme A.r.R.**
-* **Passenger Accounting**
-* **Rail Democracy Office**
-* **Rail Safety Commission**
-* **Track Safety Vekllei**
-* **Passenger Safety Vekllei**
-  * Platform Investigation Office
-  * Carriage Investigation Office
-  * Incident Investigation Office
-
-  </div>
+<ul>
+<li><strong>Vekllei National Rail</strong>
+<ul>
+<li>National Rail
+<ul>
+<li>Vekllei National Railways A.r.R.
+<ul>
+<li>VNR Atlantic</li>
+<li>VNR Kala</li>
+<li>VNR Overseas</li>
+</ul>
+</li>
+<li>Vekllei National Magways A.r.R.</li>
+<li>Vekllei Metro A.r.R.</li>
+<li>Government Railroads R.S.</li>
+<li>Vekllei Freight S.A.</li>
+</ul>
+</li>
+<li>Railway Police Office</li>
+<li>Office of Steam</li>
+<li>Office of Electrification</li>
+<li>Nuclear-Electric Rail Commission</li>
+<li>Private Railcar Commission</li>
+</ul>
+</li>
+<li><strong>Vekllei Industrial Rail</strong>
+<ul>
+<li>National Freight</li>
+<li><a href="/mail/">Royal Mail</a> Railway Holdings</li>
+</ul>
+</li>
+<li><strong>Railroad Democracy Hall</strong>
+<ul>
+<li>VK Rail Chapel</li>
+<li>Public Rail Chapel</li>
+</ul>
+</li>
+<li><strong>Vekllei National Rail Press Bureau</strong>
+<ul>
+<li><strong>Vekllei Rail Press</strong>
+<ul>
+<li><em>Vekllei Rail Transport Journal</em>
+<ul>
+<li><em>Locomotive</em> Magazine</li>
+</ul>
+</li>
+<li>Rail Periodicals Office</li>
+<li>Friends of Rail Office</li>
+</ul>
+</li>
+<li>Public Relations Office</li>
+<li>Industrial Relations Office</li>
+</ul>
+</li>
+<li><strong>Vekllei National Rail Municipal Land Company S.A.</strong></li>
+<li><strong>Vekllei National Rail Construction House</strong></li>
+<li><strong>Railway Laboratories of Vekllei</strong>
+<ul>
+<li>Senrouive House Office</li>
+<li>Company House Office</li>
+</ul>
+</li>
+<li><strong>National Rail Insurance Scheme A.r.R.</strong></li>
+<li><strong>Passenger Accounting</strong></li>
+<li><strong>Rail Democracy Office</strong></li>
+<li><strong>Rail Safety Commission</strong></li>
+<li><strong>Track Safety Vekllei</strong></li>
+<li><strong>Passenger Safety Vekllei</strong>
+<ul>
+<li>Platform Investigation Office</li>
+<li>Carriage Investigation Office</li>
+<li>Incident Investigation Office</li>
+</ul>
+</li>
+</ul>
 </details>
-
 <h2 id="service">
   Service
   <a class="anchor" href="#service">#</a>
@@ -30317,102 +30743,127 @@ Diagram of the a Polis administration and its structure There are a few criteria
 </p>
 <p>There are a few criteria separating Polisa from regular city councils. They are generally self-sufficient, and include surrounding areas capable of agriculture and industry. They also retain their own lower courts, and have a strengthened local government consisting of a popular assembly (the Municipal Assembly) and Ecclesia &ndash; special-purpose councils of important civic citizens and industrial representatives.</p>
 <details open>
-  <summary>List of Vekllei Republics</summary>
-  <div class="markdown-inner">
-    
-* **Federal Territories**
-	* Meteor Federal Territory
-	* Vekllei Antarctic Territories
-	* Vekllei Lunar Territories
-	* Vekllei Mars Community
-
-* **<a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a>**
-	* <a style="color: rgb(48, 106, 175)" href="/ascension/"><span class="fi fi-ac"></span> Ascension</a> (*Ascension*)
-	* <a style="color: rgb(60, 122, 184)" href="/falklands/"><span class="fi fi-fk"></span></span> Falklands</a> (*Falklands*)
-	* <a style="color: rgb(24, 117, 71)" href="/helena/"><span class="fi fi-sh"></span> Helena</a> (*Saint Helena*)
-	* <a style="color: rgb(211, 45, 71)" href="/santes/"><span class="fi fi-santes"></span> Santes</a> (*Tristan da Cunha*)
-	* <a style="color: rgb(60, 122, 184)" href="/sude/"><span class="fi fi-gs"></span></span> Sude</a> (*South Georgia & South Sandwich Islands*)
-
-* **Antilles Commonwealth**
-	* Aruba Republic (*Aruba*)
-	* Bonaire Republic (*Bonaire*)
-	* Caimanas Republic (*Caimanas*)
-	* Curaçao Republic (*Curacao*)
-
-* **Arctic Commonwealth**
-	* <a style="color: rgb(219, 2, 3)" href="/helvasia/"><span class="fi fi-sj"></span> Helvasia</a> (*Svalbard*)
-	* Kala Republic (*Greenland*)
-
-* **Atlantic Commonwealth**
-	* Fayal Republic (*Faial Island*)
-	* Flores Republic (*Flores Island*)
-	* Graciosa Republic (*Graciosa Island*)
-	* Maria Republic (*Santa Maria Island*)
-	* Mira Republic (*Madeira*)
-	* Pico Republic (*Pico Island*)
-	* Porto Santo Republic (*Porto Santo*)
-	* Terceira Republic (*Terceira Island*)
-	* Velas Republic (*Sao Jorge Island*)
-	* Verde Republic (*Sao Miguel Island*)
-
-* **Lucayan Commonwealth**
-	* Caicos Republic (*Turks & Caicos*)
-	* Cigateo Republic (*Eleuthera*)
-	* Curateo Republic (*Great Exuma*)
-	* Grand Bahama Republic (*Grand Bahama*)
-	* Guanima Republic (*Cat Island*)
-	* Habacoa Republic (*Andros Islands*)
-	* Inagua Republic (*Great Inagua*)
-	* Lucayoneque Republic (*Abaco Islands*)
-	* Mayaguana Republic (*Mayaguana*)
-	* Nema Republic (*New Providence*)
-	* <a style="color: rgb(57, 122, 205)" href="/rum/"><span class="fi fi-rum"></span> Rum</a> (*San Salvador & Rum Cay*)
-	* <a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span></span> Summers</a> (*Bermuda*)
-	* Yabaque Republic (*Acklins*)
-	* Yuma Republic (*Long Island*)
-
-* **<a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Kalina</a>**
-	* <a style="color: rgb(6, 136, 72)" href="/allia/"><span class="fi fi-ms"></span> Allia</a> (*Montserrat*)
-	* Aloi Republic (*St Eustatius*)
-	* <a style="color: rgb(46, 114, 225)" href="/aloubaera/"><span class="fi fi-aloubaera"></span> Aloubaera</a> (*Tobago*)
-	* Anguis Republic (*Anguilla*)
-	* Antam Republic (*Antigua*)
-	* Barbados Republic (*Barbados*)
-	* Barbuda Republic (*Barbuda*)
-	* <a style="color: rgb(2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a> (*Grenada*)
-	* Karu Republic (*Guadeloupe*)
-	* Kabuli Republic (*Dominica*)
-	* <a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a> (*Trinidad*)
-	* Liamuiga Republic (*St Kitts*)
-	* Lucia Republic (*Saint Lucia*)
-	* Madiana Republic (*Martinique*)
-	* Oualie Republic (*Navis*)
-	* Ouanalao Republic (*Saint Barthelemy*)
-	* Saba Republic (*Saba*)
-	* Soualiga Republic (*Saint Martin/Sint Maartin*)
-	* <a style="color: rgb(241, 112, 30)" href="/virgin/"><span class="fi fi-vg"></span> Virgin</a> (*British/Spanish/U.S. Virgin Islands*)
-	* Youloumain Republic (*Saint Vincent & The Grenadines*)
-
-* **Verde Commonwealth**
-	* Boa Vista Republic (*Boa Vista*)
-	* Brava Republic (*Brava*)
-	* Covoada Republic (*Sao Nicolau*)
-	* Fogo Republic (*Fogo*)
-	* Maio Republic (*Maio*)
-	* Moroços Republic (*Santo Antao*)
-	* Praia Republic (*Santiago*)
-	* Principe Republic (*Sao Tome & Principe*)
-	* Sal Republic (*Sal*)
-	* Viana Republic (*Sao Vicente*)
-
-* **Volcanic Commonwealth**
-	* <a style="color: rgb(67, 101, 187)" href="/aismious/"><span class="fi fi-fo"></span> Aismious</a> (*Faroe*)
-	* <a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (*Jan Mayen*)
-	* <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (*Iceland*)
-
-  </div>
+<summary>List of Vekllei Republics</summary>
+<ul>
+<li>
+<p><strong>Federal Territories</strong></p>
+<ul>
+<li>Meteor Federal Territory</li>
+<li>Vekllei Antarctic Territories</li>
+<li>Vekllei Lunar Territories</li>
+<li>Vekllei Mars Community</li>
+</ul>
+</li>
+<li>
+<p><strong><a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></strong></p>
+<ul>
+<li><a style="color: rgb(48, 106, 175)" href="/ascension/"><span class="fi fi-ac"></span> Ascension</a> (<em>Ascension</em>)</li>
+<li><a style="color: rgb(60, 122, 184)" href="/falklands/"><span class="fi fi-fk"></span></span> Falklands</a> (<em>Falklands</em>)</li>
+<li><a style="color: rgb(24, 117, 71)" href="/helena/"><span class="fi fi-sh"></span> Helena</a> (<em>Saint Helena</em>)</li>
+<li><a style="color: rgb(211, 45, 71)" href="/santes/"><span class="fi fi-santes"></span> Santes</a> (<em>Tristan da Cunha</em>)</li>
+<li><a style="color: rgb(60, 122, 184)" href="/sude/"><span class="fi fi-gs"></span></span> Sude</a> (<em>South Georgia &amp; South Sandwich Islands</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Antilles Commonwealth</strong></p>
+<ul>
+<li>Aruba Republic (<em>Aruba</em>)</li>
+<li>Bonaire Republic (<em>Bonaire</em>)</li>
+<li>Caimanas Republic (<em>Caimanas</em>)</li>
+<li>Curaçao Republic (<em>Curacao</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Arctic Commonwealth</strong></p>
+<ul>
+<li><a style="color: rgb(219, 2, 3)" href="/helvasia/"><span class="fi fi-sj"></span> Helvasia</a> (<em>Svalbard</em>)</li>
+<li>Kala Republic (<em>Greenland</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Atlantic Commonwealth</strong></p>
+<ul>
+<li>Fayal Republic (<em>Faial Island</em>)</li>
+<li>Flores Republic (<em>Flores Island</em>)</li>
+<li>Graciosa Republic (<em>Graciosa Island</em>)</li>
+<li>Maria Republic (<em>Santa Maria Island</em>)</li>
+<li>Mira Republic (<em>Madeira</em>)</li>
+<li>Pico Republic (<em>Pico Island</em>)</li>
+<li>Porto Santo Republic (<em>Porto Santo</em>)</li>
+<li>Terceira Republic (<em>Terceira Island</em>)</li>
+<li>Velas Republic (<em>Sao Jorge Island</em>)</li>
+<li>Verde Republic (<em>Sao Miguel Island</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Lucayan Commonwealth</strong></p>
+<ul>
+<li>Caicos Republic (<em>Turks &amp; Caicos</em>)</li>
+<li>Cigateo Republic (<em>Eleuthera</em>)</li>
+<li>Curateo Republic (<em>Great Exuma</em>)</li>
+<li>Grand Bahama Republic (<em>Grand Bahama</em>)</li>
+<li>Guanima Republic (<em>Cat Island</em>)</li>
+<li>Habacoa Republic (<em>Andros Islands</em>)</li>
+<li>Inagua Republic (<em>Great Inagua</em>)</li>
+<li>Lucayoneque Republic (<em>Abaco Islands</em>)</li>
+<li>Mayaguana Republic (<em>Mayaguana</em>)</li>
+<li>Nema Republic (<em>New Providence</em>)</li>
+<li><a style="color: rgb(57, 122, 205)" href="/rum/"><span class="fi fi-rum"></span> Rum</a> (<em>San Salvador &amp; Rum Cay</em>)</li>
+<li><a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span></span> Summers</a> (<em>Bermuda</em>)</li>
+<li>Yabaque Republic (<em>Acklins</em>)</li>
+<li>Yuma Republic (<em>Long Island</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong><a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Kalina</a></strong></p>
+<ul>
+<li><a style="color: rgb(6, 136, 72)" href="/allia/"><span class="fi fi-ms"></span> Allia</a> (<em>Montserrat</em>)</li>
+<li>Aloi Republic (<em>St Eustatius</em>)</li>
+<li><a style="color: rgb(46, 114, 225)" href="/aloubaera/"><span class="fi fi-aloubaera"></span> Aloubaera</a> (<em>Tobago</em>)</li>
+<li>Anguis Republic (<em>Anguilla</em>)</li>
+<li>Antam Republic (<em>Antigua</em>)</li>
+<li>Barbados Republic (<em>Barbados</em>)</li>
+<li>Barbuda Republic (<em>Barbuda</em>)</li>
+<li><a style="color: rgb(2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a> (<em>Grenada</em>)</li>
+<li>Karu Republic (<em>Guadeloupe</em>)</li>
+<li>Kabuli Republic (<em>Dominica</em>)</li>
+<li><a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a> (<em>Trinidad</em>)</li>
+<li>Liamuiga Republic (<em>St Kitts</em>)</li>
+<li>Lucia Republic (<em>Saint Lucia</em>)</li>
+<li>Madiana Republic (<em>Martinique</em>)</li>
+<li>Oualie Republic (<em>Navis</em>)</li>
+<li>Ouanalao Republic (<em>Saint Barthelemy</em>)</li>
+<li>Saba Republic (<em>Saba</em>)</li>
+<li>Soualiga Republic (<em>Saint Martin/Sint Maartin</em>)</li>
+<li><a style="color: rgb(241, 112, 30)" href="/virgin/"><span class="fi fi-vg"></span> Virgin</a> (<em>British/Spanish/U.S. Virgin Islands</em>)</li>
+<li>Youloumain Republic (<em>Saint Vincent &amp; The Grenadines</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Verde Commonwealth</strong></p>
+<ul>
+<li>Boa Vista Republic (<em>Boa Vista</em>)</li>
+<li>Brava Republic (<em>Brava</em>)</li>
+<li>Covoada Republic (<em>Sao Nicolau</em>)</li>
+<li>Fogo Republic (<em>Fogo</em>)</li>
+<li>Maio Republic (<em>Maio</em>)</li>
+<li>Moroços Republic (<em>Santo Antao</em>)</li>
+<li>Praia Republic (<em>Santiago</em>)</li>
+<li>Principe Republic (<em>Sao Tome &amp; Principe</em>)</li>
+<li>Sal Republic (<em>Sal</em>)</li>
+<li>Viana Republic (<em>Sao Vicente</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Volcanic Commonwealth</strong></p>
+<ul>
+<li><a style="color: rgb(67, 101, 187)" href="/aismious/"><span class="fi fi-fo"></span> Aismious</a> (<em>Faroe</em>)</li>
+<li><a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (<em>Jan Mayen</em>)</li>
+<li><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (<em>Iceland</em>)</li>
+</ul>
+</li>
+</ul>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>
@@ -30507,17 +30958,14 @@ Diagram of the a Polis administration and its structure There are a few criteria
 <p>About three fifths of its people, mostly ethnic Lucayans and some whites, live in the capital of Conception on San Salvador. The remainder live around its coast or in the settlement of Travesty on Rum Island. The islands are mostly flat with some minor hills, and San Salvador is characterised by small lakes and ponds across its surface. Both are fringed by picturesque coral reefs that attract some tourists from other parts of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</p>
 <p>While San Salvador has a minor airport and a single tramline circumnavigating its coast, Rum Island is accessible only by its pier. The republic is comparatively isolated from the larger Lucayan islands, and lives there are typically relaxed, characterised by municipal farming, some fishing, and recreational island activities. The capital of Conception is home to all major infrastructure, including the post office, power station, police station and the republic&rsquo;s only secondary school. Minor tourism is facilitated by inns and guesthouses.</p>
 <p>The island of Conception is an uninhabited preservation, and is home to a unique species of Boa. It has a research station from the <a style="color: var(--color-landscape)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a> there. The navy also maintains a naval station, primarily used for monitoring and navigation, on the north point of San Salvador.</p>
-<details >
+<details open>
   <summary>Points of Interest</summary>
-  <div class="markdown-inner">
-    
-* Salvador Research Centre, Commonwealth University of the West Indies
-* Salvador Naval Station
-* Conception Island Research Station, <a style="color: var(--color-landscape)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a>
-
-  </div>
+<ul>
+<li>Salvador Research Centre, Commonwealth University of the West Indies</li>
+<li>Salvador Naval Station</li>
+<li>Conception Island Research Station, <a style="color: var(--color-landscape)" href="/LSRE/"><span class="fi fi-min-lsre fis"></span> LSRE</a></li>
+</ul>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>

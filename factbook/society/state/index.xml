@@ -811,7 +811,7 @@ Laws and regulations currently into force remain applicable to the extent that t
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documents - 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth - 📄Document No.]]>
+	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documentst 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth 📄Document No.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
@@ -823,19 +823,13 @@ Laws and regulations currently into force remain applicable to the extent that t
 </blockquote>
 
 <details open>
-  <summary>Documents</summary>
-  <div class="markdown-inner">
-    
-- <a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth
-- <a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools
-- <a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM
-
-
-
-  </div>
-</details>
-
-]]>
+<summary>Documentst</summary>
+<ul>
+<li><a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth</li>
+<li><a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools</li>
+<li><a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM</li>
+</ul>
+</details>]]>
   	</content:encoded>
 	</item>
 	
@@ -966,19 +960,19 @@ Education and schooling is an important part of Vekllei society, and its importa
 <p>The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.</p>
 <details open>
   <summary>Vekllei Compulsory Schooling</summary>
-  <div class="markdown-inner">
-    
-* Preschool
-  * Nursery School
-  * Garden School
-  * Preparatory School
-* Primary School (Years 1-6)
-* Secondary School (Years 7-10)
-* College (Years 11-12)
-
-  </div>
+<ul>
+<li>Preschool
+<ul>
+<li>Nursery School</li>
+<li>Garden School</li>
+<li>Preparatory School</li>
+</ul>
+</li>
+<li>Primary School (Years 1-6)</li>
+<li>Secondary School (Years 7-10)</li>
+<li>College (Years 11-12)</li>
+</ul>
 </details>
-
 <h3 id="tertiary-education">
   Tertiary Education
   <a class="anchor" href="#tertiary-education">#</a>
@@ -1002,23 +996,20 @@ Education and schooling is an important part of Vekllei society, and its importa
 <p>The Commonwealth Curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.</p>
 <details open>
   <summary>Commonwealth International Curriculum</summary>
-  <div class="markdown-inner">
-    
-* Arts
-* Vekllei Languages
-* Foreign Languages
-* Health and Physical Education
-* Civic Sciences and Stewardship
-* Economics and Business
-* World Study
-* Political Sciences and History
-* Mathematics
-* Material Sciences and Electronics
-* Work Studies
-
-  </div>
+<ul>
+<li>Arts</li>
+<li>Vekllei Languages</li>
+<li>Foreign Languages</li>
+<li>Health and Physical Education</li>
+<li>Civic Sciences and Stewardship</li>
+<li>Economics and Business</li>
+<li>World Study</li>
+<li>Political Sciences and History</li>
+<li>Mathematics</li>
+<li>Material Sciences and Electronics</li>
+<li>Work Studies</li>
+</ul>
 </details>
-
 <h2 id="uniform">
   Uniform
   <a class="anchor" href="#uniform">#</a>
@@ -1428,35 +1419,46 @@ The current system has good outcomes, and its public services are widely availab
 </figure>
 </p>
 <p>The foundation of Vekllei public health, however, lies in the municipalities. General Practitioners (GPs) and Family Doctors are the main primary care providers in the country, and are employed by <a href="/polis/">municipal</a> health councils.</p>
-<details >
+<details open>
   <summary>Role of Government</summary>
-  <div class="markdown-inner">
-    
-* Commonwealth Health Secretariat
-	* Commonwealth Office of Public Health
-	* Commonwealth Disease Control Authority
-	* National Health Council
-		* Vekllei Health Network
-	* Commonwealth Health Academy
-	* Medicines Authority
-	* Radiation Health Authority
-	* Food and Medicines Standards Authority
-	* Integrated Health office
-		* Integrated Health Accounting Office
-		* Integrated Care Office
-	* Health Democracy Advocate
-	* Health Accounting Office
-		* Health Finance Board
-* Vekllei National Health
-	* Health Sciences Authority
-	* Health Promotion Board
-	* Hospital Administration
-* Vekllei Municipal Health
-	*
-
-  </div>
+<ul>
+<li>Commonwealth Health Secretariat
+<ul>
+<li>Commonwealth Office of Public Health</li>
+<li>Commonwealth Disease Control Authority</li>
+<li>National Health Council
+<ul>
+<li>Vekllei Health Network</li>
+</ul>
+</li>
+<li>Commonwealth Health Academy</li>
+<li>Medicines Authority</li>
+<li>Radiation Health Authority</li>
+<li>Food and Medicines Standards Authority</li>
+<li>Integrated Health office
+<ul>
+<li>Integrated Health Accounting Office</li>
+<li>Integrated Care Office</li>
+</ul>
+</li>
+<li>Health Democracy Advocate</li>
+<li>Health Accounting Office
+<ul>
+<li>Health Finance Board</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vekllei National Health
+<ul>
+<li>Health Sciences Authority</li>
+<li>Health Promotion Board</li>
+<li>Hospital Administration</li>
+</ul>
+</li>
+<li>Vekllei Municipal Health</li>
+</ul>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>
@@ -1575,102 +1577,127 @@ Diagram of the a Polis administration and its structure There are a few criteria
 </p>
 <p>There are a few criteria separating Polisa from regular city councils. They are generally self-sufficient, and include surrounding areas capable of agriculture and industry. They also retain their own lower courts, and have a strengthened local government consisting of a popular assembly (the Municipal Assembly) and Ecclesia &ndash; special-purpose councils of important civic citizens and industrial representatives.</p>
 <details open>
-  <summary>List of Vekllei Republics</summary>
-  <div class="markdown-inner">
-    
-* **Federal Territories**
-	* Meteor Federal Territory
-	* Vekllei Antarctic Territories
-	* Vekllei Lunar Territories
-	* Vekllei Mars Community
-
-* **<a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a>**
-	* <a style="color: rgb(48, 106, 175)" href="/ascension/"><span class="fi fi-ac"></span> Ascension</a> (*Ascension*)
-	* <a style="color: rgb(60, 122, 184)" href="/falklands/"><span class="fi fi-fk"></span></span> Falklands</a> (*Falklands*)
-	* <a style="color: rgb(24, 117, 71)" href="/helena/"><span class="fi fi-sh"></span> Helena</a> (*Saint Helena*)
-	* <a style="color: rgb(211, 45, 71)" href="/santes/"><span class="fi fi-santes"></span> Santes</a> (*Tristan da Cunha*)
-	* <a style="color: rgb(60, 122, 184)" href="/sude/"><span class="fi fi-gs"></span></span> Sude</a> (*South Georgia & South Sandwich Islands*)
-
-* **Antilles Commonwealth**
-	* Aruba Republic (*Aruba*)
-	* Bonaire Republic (*Bonaire*)
-	* Caimanas Republic (*Caimanas*)
-	* Curaçao Republic (*Curacao*)
-
-* **Arctic Commonwealth**
-	* <a style="color: rgb(219, 2, 3)" href="/helvasia/"><span class="fi fi-sj"></span> Helvasia</a> (*Svalbard*)
-	* Kala Republic (*Greenland*)
-
-* **Atlantic Commonwealth**
-	* Fayal Republic (*Faial Island*)
-	* Flores Republic (*Flores Island*)
-	* Graciosa Republic (*Graciosa Island*)
-	* Maria Republic (*Santa Maria Island*)
-	* Mira Republic (*Madeira*)
-	* Pico Republic (*Pico Island*)
-	* Porto Santo Republic (*Porto Santo*)
-	* Terceira Republic (*Terceira Island*)
-	* Velas Republic (*Sao Jorge Island*)
-	* Verde Republic (*Sao Miguel Island*)
-
-* **Lucayan Commonwealth**
-	* Caicos Republic (*Turks & Caicos*)
-	* Cigateo Republic (*Eleuthera*)
-	* Curateo Republic (*Great Exuma*)
-	* Grand Bahama Republic (*Grand Bahama*)
-	* Guanima Republic (*Cat Island*)
-	* Habacoa Republic (*Andros Islands*)
-	* Inagua Republic (*Great Inagua*)
-	* Lucayoneque Republic (*Abaco Islands*)
-	* Mayaguana Republic (*Mayaguana*)
-	* Nema Republic (*New Providence*)
-	* <a style="color: rgb(57, 122, 205)" href="/rum/"><span class="fi fi-rum"></span> Rum</a> (*San Salvador & Rum Cay*)
-	* <a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span></span> Summers</a> (*Bermuda*)
-	* Yabaque Republic (*Acklins*)
-	* Yuma Republic (*Long Island*)
-
-* **<a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Kalina</a>**
-	* <a style="color: rgb(6, 136, 72)" href="/allia/"><span class="fi fi-ms"></span> Allia</a> (*Montserrat*)
-	* Aloi Republic (*St Eustatius*)
-	* <a style="color: rgb(46, 114, 225)" href="/aloubaera/"><span class="fi fi-aloubaera"></span> Aloubaera</a> (*Tobago*)
-	* Anguis Republic (*Anguilla*)
-	* Antam Republic (*Antigua*)
-	* Barbados Republic (*Barbados*)
-	* Barbuda Republic (*Barbuda*)
-	* <a style="color: rgb(2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a> (*Grenada*)
-	* Karu Republic (*Guadeloupe*)
-	* Kabuli Republic (*Dominica*)
-	* <a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a> (*Trinidad*)
-	* Liamuiga Republic (*St Kitts*)
-	* Lucia Republic (*Saint Lucia*)
-	* Madiana Republic (*Martinique*)
-	* Oualie Republic (*Navis*)
-	* Ouanalao Republic (*Saint Barthelemy*)
-	* Saba Republic (*Saba*)
-	* Soualiga Republic (*Saint Martin/Sint Maartin*)
-	* <a style="color: rgb(241, 112, 30)" href="/virgin/"><span class="fi fi-vg"></span> Virgin</a> (*British/Spanish/U.S. Virgin Islands*)
-	* Youloumain Republic (*Saint Vincent & The Grenadines*)
-
-* **Verde Commonwealth**
-	* Boa Vista Republic (*Boa Vista*)
-	* Brava Republic (*Brava*)
-	* Covoada Republic (*Sao Nicolau*)
-	* Fogo Republic (*Fogo*)
-	* Maio Republic (*Maio*)
-	* Moroços Republic (*Santo Antao*)
-	* Praia Republic (*Santiago*)
-	* Principe Republic (*Sao Tome & Principe*)
-	* Sal Republic (*Sal*)
-	* Viana Republic (*Sao Vicente*)
-
-* **Volcanic Commonwealth**
-	* <a style="color: rgb(67, 101, 187)" href="/aismious/"><span class="fi fi-fo"></span> Aismious</a> (*Faroe*)
-	* <a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (*Jan Mayen*)
-	* <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (*Iceland*)
-
-  </div>
+<summary>List of Vekllei Republics</summary>
+<ul>
+<li>
+<p><strong>Federal Territories</strong></p>
+<ul>
+<li>Meteor Federal Territory</li>
+<li>Vekllei Antarctic Territories</li>
+<li>Vekllei Lunar Territories</li>
+<li>Vekllei Mars Community</li>
+</ul>
+</li>
+<li>
+<p><strong><a style="color: var(--color-blue)" href="/antarctic/"><span class="fi fi-antarctic"></span> Commonwealth Antarctica</a></strong></p>
+<ul>
+<li><a style="color: rgb(48, 106, 175)" href="/ascension/"><span class="fi fi-ac"></span> Ascension</a> (<em>Ascension</em>)</li>
+<li><a style="color: rgb(60, 122, 184)" href="/falklands/"><span class="fi fi-fk"></span></span> Falklands</a> (<em>Falklands</em>)</li>
+<li><a style="color: rgb(24, 117, 71)" href="/helena/"><span class="fi fi-sh"></span> Helena</a> (<em>Saint Helena</em>)</li>
+<li><a style="color: rgb(211, 45, 71)" href="/santes/"><span class="fi fi-santes"></span> Santes</a> (<em>Tristan da Cunha</em>)</li>
+<li><a style="color: rgb(60, 122, 184)" href="/sude/"><span class="fi fi-gs"></span></span> Sude</a> (<em>South Georgia &amp; South Sandwich Islands</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Antilles Commonwealth</strong></p>
+<ul>
+<li>Aruba Republic (<em>Aruba</em>)</li>
+<li>Bonaire Republic (<em>Bonaire</em>)</li>
+<li>Caimanas Republic (<em>Caimanas</em>)</li>
+<li>Curaçao Republic (<em>Curacao</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Arctic Commonwealth</strong></p>
+<ul>
+<li><a style="color: rgb(219, 2, 3)" href="/helvasia/"><span class="fi fi-sj"></span> Helvasia</a> (<em>Svalbard</em>)</li>
+<li>Kala Republic (<em>Greenland</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Atlantic Commonwealth</strong></p>
+<ul>
+<li>Fayal Republic (<em>Faial Island</em>)</li>
+<li>Flores Republic (<em>Flores Island</em>)</li>
+<li>Graciosa Republic (<em>Graciosa Island</em>)</li>
+<li>Maria Republic (<em>Santa Maria Island</em>)</li>
+<li>Mira Republic (<em>Madeira</em>)</li>
+<li>Pico Republic (<em>Pico Island</em>)</li>
+<li>Porto Santo Republic (<em>Porto Santo</em>)</li>
+<li>Terceira Republic (<em>Terceira Island</em>)</li>
+<li>Velas Republic (<em>Sao Jorge Island</em>)</li>
+<li>Verde Republic (<em>Sao Miguel Island</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Lucayan Commonwealth</strong></p>
+<ul>
+<li>Caicos Republic (<em>Turks &amp; Caicos</em>)</li>
+<li>Cigateo Republic (<em>Eleuthera</em>)</li>
+<li>Curateo Republic (<em>Great Exuma</em>)</li>
+<li>Grand Bahama Republic (<em>Grand Bahama</em>)</li>
+<li>Guanima Republic (<em>Cat Island</em>)</li>
+<li>Habacoa Republic (<em>Andros Islands</em>)</li>
+<li>Inagua Republic (<em>Great Inagua</em>)</li>
+<li>Lucayoneque Republic (<em>Abaco Islands</em>)</li>
+<li>Mayaguana Republic (<em>Mayaguana</em>)</li>
+<li>Nema Republic (<em>New Providence</em>)</li>
+<li><a style="color: rgb(57, 122, 205)" href="/rum/"><span class="fi fi-rum"></span> Rum</a> (<em>San Salvador &amp; Rum Cay</em>)</li>
+<li><a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span></span> Summers</a> (<em>Bermuda</em>)</li>
+<li>Yabaque Republic (<em>Acklins</em>)</li>
+<li>Yuma Republic (<em>Long Island</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong><a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Kalina</a></strong></p>
+<ul>
+<li><a style="color: rgb(6, 136, 72)" href="/allia/"><span class="fi fi-ms"></span> Allia</a> (<em>Montserrat</em>)</li>
+<li>Aloi Republic (<em>St Eustatius</em>)</li>
+<li><a style="color: rgb(46, 114, 225)" href="/aloubaera/"><span class="fi fi-aloubaera"></span> Aloubaera</a> (<em>Tobago</em>)</li>
+<li>Anguis Republic (<em>Anguilla</em>)</li>
+<li>Antam Republic (<em>Antigua</em>)</li>
+<li>Barbados Republic (<em>Barbados</em>)</li>
+<li>Barbuda Republic (<em>Barbuda</em>)</li>
+<li><a style="color: rgb(2, 123, 93)" href="/cama/"><span class="fi fi-gd"></span> Cama</a> (<em>Grenada</em>)</li>
+<li>Karu Republic (<em>Guadeloupe</em>)</li>
+<li>Kabuli Republic (<em>Dominica</em>)</li>
+<li><a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a> (<em>Trinidad</em>)</li>
+<li>Liamuiga Republic (<em>St Kitts</em>)</li>
+<li>Lucia Republic (<em>Saint Lucia</em>)</li>
+<li>Madiana Republic (<em>Martinique</em>)</li>
+<li>Oualie Republic (<em>Navis</em>)</li>
+<li>Ouanalao Republic (<em>Saint Barthelemy</em>)</li>
+<li>Saba Republic (<em>Saba</em>)</li>
+<li>Soualiga Republic (<em>Saint Martin/Sint Maartin</em>)</li>
+<li><a style="color: rgb(241, 112, 30)" href="/virgin/"><span class="fi fi-vg"></span> Virgin</a> (<em>British/Spanish/U.S. Virgin Islands</em>)</li>
+<li>Youloumain Republic (<em>Saint Vincent &amp; The Grenadines</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Verde Commonwealth</strong></p>
+<ul>
+<li>Boa Vista Republic (<em>Boa Vista</em>)</li>
+<li>Brava Republic (<em>Brava</em>)</li>
+<li>Covoada Republic (<em>Sao Nicolau</em>)</li>
+<li>Fogo Republic (<em>Fogo</em>)</li>
+<li>Maio Republic (<em>Maio</em>)</li>
+<li>Moroços Republic (<em>Santo Antao</em>)</li>
+<li>Praia Republic (<em>Santiago</em>)</li>
+<li>Principe Republic (<em>Sao Tome &amp; Principe</em>)</li>
+<li>Sal Republic (<em>Sal</em>)</li>
+<li>Viana Republic (<em>Sao Vicente</em>)</li>
+</ul>
+</li>
+<li>
+<p><strong>Volcanic Commonwealth</strong></p>
+<ul>
+<li><a style="color: rgb(67, 101, 187)" href="/aismious/"><span class="fi fi-fo"></span> Aismious</a> (<em>Faroe</em>)</li>
+<li><a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (<em>Jan Mayen</em>)</li>
+<li><a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (<em>Iceland</em>)</li>
+</ul>
+</li>
+</ul>
 </details>
-
 ]]>
   	</content:encoded>
 	</item>

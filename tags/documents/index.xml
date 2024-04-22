@@ -28,7 +28,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documents - 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth - 📄Document No.]]>
+	  <![CDATA[⚠️ This list is evolving, and will be expanded in future. The Vekllei Document System is an internal circular provided by the Government of Vekllei to direct policy. They do not represent policy in depth &ndash; rather, documents are issued discretely to relevant ministries and outline the direction or spirit of policy. Historically, they announce major events and actions. Documentst 📄Document No. 1: Communiqué on the Establishment of the 4th Commonwealth 📄Document No.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note ">
@@ -40,19 +40,13 @@
 </blockquote>
 
 <details open>
-  <summary>Documents</summary>
-  <div class="markdown-inner">
-    
-- <a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth
-- <a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools
-- <a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM
-
-
-
-  </div>
-</details>
-
-]]>
+<summary>Documentst</summary>
+<ul>
+<li><a href="/files/documents/1.pdf"><span class="navicon">📄</span>Document No. 1</a>: Communiqué on the Establishment of the 4th Commonwealth</li>
+<li><a href="/files/documents/7.pdf"><span class="navicon">📄</span>Document No. 7</a>: Communiqué on the Establishment of Government Schools</li>
+<li><a href="/files/documents/9.pdf"><span class="navicon">📄</span>Document No. 9</a>: Communiqué on the Establishment of the VKIM</li>
+</ul>
+</details>]]>
   	</content:encoded>
 	</item>
 	

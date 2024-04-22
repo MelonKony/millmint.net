@@ -45,19 +45,16 @@
 </h2>
 <p><strong>Vekllei language</strong>, abbreviated to just <strong>Vekllei</strong>, has six core sublanguages that are used commonly today. Although they often intersect, these different systems of communication are distinct languages in their own right, used for different purposes in different arenas of communication.</p>
 <details open>
-  <summary>Systems of Vekllei Language</summary>
-  <div class="markdown-inner">
-    
-1. **Spoken Vekllei**, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called *Oa* and *Loh*.
-2. **Topet**, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, *Topet* characters can be broken down into repeating components, called *Topotte*.
-3. **Rapotenne**, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.
-4. **Potenne**, lit. “*Hand-Talk*”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.
-5. **Upotenne**, lit. “*Spirit-Hand-Talk*”, as the recreation of runes in human form, used limitedly in spiritual ritual.
-6. **Vekllei Semaphore** is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in *Vekllei Semaphore*, in which full sentences can be formed.
-
-  </div>
+<summary>Systems of Vekllei Language</summary>
+<ol>
+<li><strong>Spoken Vekllei</strong>, which is everyday spoken language. It draws from two glossaries with different meanings and feelings, called <em>Oa</em> and <em>Loh</em>.</li>
+<li><strong>Topet</strong>, which are logographic characters (occasionally characterised as hieroglyphs). Like other pictographic languages, <em>Topet</em> characters can be broken down into repeating components, called <em>Topotte</em>.</li>
+<li><strong>Rapotenne</strong>, is the traditional logographic language of names. It is much older than Topet, and has more in common with spiritual runes than modern logography.</li>
+<li><strong>Potenne</strong>, lit. “<em>Hand-Talk</em>”, is a sign language that incorporates gestures and signing to add meaning to emotion to spoken language, and occasionally in place of it.</li>
+<li><strong>Upotenne</strong>, lit. “<em>Spirit-Hand-Talk</em>”, as the recreation of runes in human form, used limitedly in spiritual ritual.</li>
+<li><strong>Vekllei Semaphore</strong> is the codification of colour and shape. Traditionally limited to colour, shape and pattern are now also included in <em>Vekllei Semaphore</em>, in which full sentences can be formed.</li>
+</ol>
 </details>
-
 <h3 id="introduction">
   Introduction
   <a class="anchor" href="#introduction">#</a>
@@ -135,77 +132,274 @@
 </h4>
 <p>Pure vowels in Vekllei are characterised by their lax, non-rhotic sound, and their uses vary across cultivated and common Vekllei dialects.</p>
 <details open>
-  <summary>Pure Vowels</summary>
-  <div class="markdown-inner">
-    
-|               | Front |      |                | Central |      | Back  |      |
-|---------------|-------|------|----------------|---------|------|-------|------|
-|               | Short | Long | Long (round) | Short   | Long | Short | Long |
-| **Close**     | ɪ     | iː   | y              |         | ʉː   | ʊ     |      |
-| **Close-Mid** |       |      | ø              |         |      |       |      |
-| **Mid**       | e     | eː   |                | ə       | ɜː   | ɔ     | oː   |
-| **Open-Mid**  |       |      | œ              |         |      |       |      |
-| **Open**      | æ     | (æː) |                | ɐ       | ɐː   |       |      |
-
-  </div>
+<summary>Pure Vowels</summary>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Front</th>
+<th></th>
+<th></th>
+<th>Central</th>
+<th></th>
+<th>Back</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Short</td>
+<td>Long</td>
+<td>Long (round)</td>
+<td>Short</td>
+<td>Long</td>
+<td>Short</td>
+<td>Long</td>
+</tr>
+<tr>
+<td><strong>Close</strong></td>
+<td>ɪ</td>
+<td>iː</td>
+<td>y</td>
+<td></td>
+<td>ʉː</td>
+<td>ʊ</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Close-Mid</strong></td>
+<td></td>
+<td></td>
+<td>ø</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Mid</strong></td>
+<td>e</td>
+<td>eː</td>
+<td></td>
+<td>ə</td>
+<td>ɜː</td>
+<td>ɔ</td>
+<td>oː</td>
+</tr>
+<tr>
+<td><strong>Open-Mid</strong></td>
+<td></td>
+<td></td>
+<td>œ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Open</strong></td>
+<td>æ</td>
+<td>(æː)</td>
+<td></td>
+<td>ɐ</td>
+<td>ɐː</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </details>
-
 <h4 id="diphthongs">
   Diphthongs
   <a class="anchor" href="#diphthongs">#</a>
 </h4>
 <p>From foundational monophthongs, gliding or diphthong vowels are often determined by glossary. <em>Oa</em> typically favours modernised post-<em>Quutetast</em> glides for its so-called <em>Ocean Vowels</em>, which are generally long and unrounded. <em>Loh</em> words are typically older and depicted pictographically, and are pronounced as <em>Floral Vowels</em>. The tables below list their pronunciation.</p>
 <details open>
-  <summary>Diphthongs</summary>
-  <div class="markdown-inner">
-    
-##### Ocean Vowels
-|               |     Vowel          |
-|---------------|--------------------|
-| **Closing**   | æɪ, ɑɪ, oɪ, æɔ, əʉ |
-| **Centering** | ɪə                 |
-
-##### Floral Vowel
-|   Vowel   | Onset glide | Onset glide | Onset glide |
-|-----------|-------------|-------------|-------------|
-| **Vowel** | **/j/**     | **/ɥ/**     | **/w/**     |
-| **/a/**   | /ja/        | /ɥa/        | /wa/        |
-| **/ɑ/**   | /jɑ/        | /ɥɑ/        | /wɑ/        |
-| **/ɑ̃/**   | /jɑ̃/        | /ɥɑ̃/        | /wɑ̃/        |
-| **/e/**   | /je/        | /ɥe/        | /we/        |
-| **/ɛ/**   | /jɛ/        | /ɥɛ/        | /wɛ/        |
-| **/ɛ̃/**   | /jɛ̃/        | /ɥɛ̃/        | /wɛ̃/        |
-| **/i/**   | /ji/        | /ɥi/        | /wi/        |
-| **/o/**   | /jo/        | /ɥo/        | /wo/        |
-| **/ɔ/**   | /jɔ/        | /ɥɔ/        | /wɔ/        |
-| **/ɔ̃/**   | /jɔ̃/        | /ɥɔ̃/        | /wɔ̃/        |
-| **/ø/**   | /jø/        | /ɥø/        | /wø/        |
-| **/œ/**   | /jœ/        | /ɥœ/        | /wœ/        |
-| **/u/**   | /ju/        |             |             |
-| **/y/**   | /jy/        |             |             |
-
-  </div>
+<summary>Diphthongs</summary>
+<h5 id="ocean-vowels">
+  Ocean Vowels
+  <a class="anchor" href="#ocean-vowels">#</a>
+</h5>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Vowel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Closing</strong></td>
+<td>æɪ, ɑɪ, oɪ, æɔ, əʉ</td>
+</tr>
+<tr>
+<td><strong>Centering</strong></td>
+<td>ɪə</td>
+</tr>
+</tbody>
+</table>
+<h5 id="floral-vowel">
+  Floral Vowel
+  <a class="anchor" href="#floral-vowel">#</a>
+</h5>
+<table>
+<thead>
+<tr>
+<th>Vowel</th>
+<th>Onset glide</th>
+<th>Onset glide</th>
+<th>Onset glide</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vowel</strong></td>
+<td><strong>/j/</strong></td>
+<td><strong>/ɥ/</strong></td>
+<td><strong>/w/</strong></td>
+</tr>
+<tr>
+<td><strong>/a/</strong></td>
+<td>/ja/</td>
+<td>/ɥa/</td>
+<td>/wa/</td>
+</tr>
+<tr>
+<td><strong>/ɑ/</strong></td>
+<td>/jɑ/</td>
+<td>/ɥɑ/</td>
+<td>/wɑ/</td>
+</tr>
+<tr>
+<td><strong>/ɑ̃/</strong></td>
+<td>/jɑ̃/</td>
+<td>/ɥɑ̃/</td>
+<td>/wɑ̃/</td>
+</tr>
+<tr>
+<td><strong>/e/</strong></td>
+<td>/je/</td>
+<td>/ɥe/</td>
+<td>/we/</td>
+</tr>
+<tr>
+<td><strong>/ɛ/</strong></td>
+<td>/jɛ/</td>
+<td>/ɥɛ/</td>
+<td>/wɛ/</td>
+</tr>
+<tr>
+<td><strong>/ɛ̃/</strong></td>
+<td>/jɛ̃/</td>
+<td>/ɥɛ̃/</td>
+<td>/wɛ̃/</td>
+</tr>
+<tr>
+<td><strong>/i/</strong></td>
+<td>/ji/</td>
+<td>/ɥi/</td>
+<td>/wi/</td>
+</tr>
+<tr>
+<td><strong>/o/</strong></td>
+<td>/jo/</td>
+<td>/ɥo/</td>
+<td>/wo/</td>
+</tr>
+<tr>
+<td><strong>/ɔ/</strong></td>
+<td>/jɔ/</td>
+<td>/ɥɔ/</td>
+<td>/wɔ/</td>
+</tr>
+<tr>
+<td><strong>/ɔ̃/</strong></td>
+<td>/jɔ̃/</td>
+<td>/ɥɔ̃/</td>
+<td>/wɔ̃/</td>
+</tr>
+<tr>
+<td><strong>/ø/</strong></td>
+<td>/jø/</td>
+<td>/ɥø/</td>
+<td>/wø/</td>
+</tr>
+<tr>
+<td><strong>/œ/</strong></td>
+<td>/jœ/</td>
+<td>/ɥœ/</td>
+<td>/wœ/</td>
+</tr>
+<tr>
+<td><strong>/u/</strong></td>
+<td>/ju/</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>/y/</strong></td>
+<td>/jy/</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </details>
-
 <h4 id="consonants">
   Consonants
   <a class="anchor" href="#consonants">#</a>
 </h4>
 <p>In Vekllei, consonants are arranged in five places of primary articulation.</p>
 <details open>
-  <summary>Consonants</summary>
-  <div class="markdown-inner">
-    
-|                     | Labial | Alveolar          | Palatal          | Velar  | Uvular |
-|---------------------|--------|-------------------|------------------|--------|--------|
-| Voiceless stop      | p /p/  | t /t/             |                  | k /k/  | q /q/  |
-| Voiceless fricative |        | s /s/ł /ɬ/(h /h/) |                  |        |        |
-| Voiced              | v /v/  | l /l/             | j /j/(j, r̂  /ɟ/) | g /ɡ/  | r /ʁ/  |
-| Nasal               | m /m/  | n /n/             |                  | ng /ŋ/ |        |
-
-  </div>
+<summary>Consonants</summary>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Labial</th>
+<th>Alveolar</th>
+<th>Palatal</th>
+<th>Velar</th>
+<th>Uvular</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Voiceless stop</td>
+<td>p /p/</td>
+<td>t /t/</td>
+<td></td>
+<td>k /k/</td>
+<td>q /q/</td>
+</tr>
+<tr>
+<td>Voiceless fricative</td>
+<td></td>
+<td>s /s/ł /ɬ/(h /h/)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Voiced</td>
+<td>v /v/</td>
+<td>l /l/</td>
+<td>j /j/(j, r̂  /ɟ/)</td>
+<td>g /ɡ/</td>
+<td>r /ʁ/</td>
+</tr>
+<tr>
+<td>Nasal</td>
+<td>m /m/</td>
+<td>n /n/</td>
+<td></td>
+<td>ng /ŋ/</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </details>
-
 <h2 id="topet">
   Topet
   <a class="anchor" href="#topet">#</a>

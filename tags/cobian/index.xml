@@ -18,6 +18,55 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Nosebleed</title>
+	  <link>https://millmint.net/stories/nosebleed/</link>
+	  <pubDate>Wed, 17 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/nosebleed/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Restraining her picking arm. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/nosebleed.jpg"/> <blockquote class="note caption">
+  <span class="text">Restraining her picking arm.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Inuit student</title>
+	  <link>https://millmint.net/stories/inuit-student/</link>
+	  <pubDate>Tue, 09 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/inuit-student/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Cobian has both Inuit and Scandinavian ancestry. Cobian (pronounced Koh-bai-an, not Cobain) is Tzipora&rsquo;s closest girl/friend. When they first met she was a bit tedious and insecure, but she&rsquo;s since become very important to Tzipora.
+Her family are indigenous to Oslola (Iceland), and have lineage going back a thousand years.
+She&rsquo;s wearing a &lsquo;gi&rsquo;, a ceremonial pleat that sits over the skirt stitched with protective runes, unique to Oslola. Vekllei uniforms are very similar across all its constituent republics, but they have a lot of distinct cultural items like this.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/inuit.jpg"/> <blockquote class="note caption">
+  <span class="text">Cobian has both Inuit and Scandinavian ancestry.</span>
+</blockquote>
+
+<p>Cobian (pronounced Koh-bai-an, not Cobain) is Tzipora&rsquo;s closest girl/friend. When they first met she was a bit tedious and insecure, but she&rsquo;s since become very important to Tzipora.</p>
+<p>Her family are indigenous to <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (Iceland), and have lineage going back a thousand years.</p>
+<p>She&rsquo;s wearing a &lsquo;gi&rsquo;, a ceremonial pleat that sits over the skirt stitched with protective runes, unique to Oslola. Vekllei uniforms are very similar across all its constituent republics, but they have a lot of distinct cultural items like this.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Coffee</title>
 	  <link>https://millmint.net/stories/coffee/</link>
 	  <pubDate>Fri, 05 Apr 2024 08:00:00 EST</pubDate>
@@ -31,7 +80,7 @@
 	  <![CDATA[Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment. Oslola, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/fullres/coffee.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="https://images.millmint.net/fullres/coffee.jpg"/> <blockquote class="note caption">
   <span class="text">Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment.</span>
 </blockquote>
 

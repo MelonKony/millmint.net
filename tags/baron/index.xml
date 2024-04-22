@@ -18,6 +18,31 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Killers</title>
+	  <link>https://millmint.net/stories/killers/</link>
+	  <pubDate>Sat, 20 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/killers/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Is there gas in the car? Yes, there&rsquo;s gas in the car. Baron is clearly her father, but exactly who he is and how they met isn&rsquo;t clear.
+She comes by his office sometimes after class and sits in the lobby with a comic, eating an apple.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/killers.jpg"/> <blockquote class="note caption">
+  <span class="text">Is there gas in the car? Yes, there&rsquo;s gas in the car.</span>
+</blockquote>
+
+<p>Baron is clearly her father, but exactly who he is and how they met isn&rsquo;t clear.</p>
+<p>She comes by his office sometimes after class and sits in the lobby with a comic, eating an apple.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Pistol</title>
 	  <link>https://millmint.net/stories/pistol/</link>
 	  <pubDate>Tue, 26 Mar 2024 08:00:00 EST</pubDate>
