@@ -36,21 +36,26 @@ The Constitution of Vekllei, also known as the Floral Constitution, was the foun
 ## PREAMBLE
 
 THE PUBLIC OF THE OCEANS ATLANTIC RESOLVES
-* to bring peace to Commonwealth realms twice destroyed in the pursuit of war, and
+* to bring peace to Commonwealth sovereign constituents twice destroyed in the pursuit of war, and
 * to establish a new way of living worthy of a commitment in peace, and
 * to protect the equal rights of men and women, and the dignity and worth of the human person, and
+* to achieve equality and the advancement of human rights and freedoms, and
 * to provide for the material and spiritual needs necessary in the aim of a commitment to dignity,
 
 AND IN SERVICE OF THESE AIMS
 * to unite the languages, culture, and races of the Public under a democratic and prosperous society, and
-* to defend these values unwaveringly by all means available to its councils, and
-* to elevate the lives of Atlantic people through the efforts of Atlantic peoples
+* to protect the supremacy of the constitution and the rule of law, and
+* to guarantee universal adult suffrage, and
+* to defend these values unwaveringly by all means available to its councils and government.
 
 ## THE COMMONWEALTH - THE PUBLIC POWERS
 
 ### Article 1
-1. The[ Commonwealth of Vekllei](/vekllei/) is a sovereign and independent unitary State within the framework of international law.
-
+1. The [Commonwealth of Vekllei](/vekllei/) is one sovereign, democratic state within the framework of international law, founded on the following values:
+    1. Human dignity, the achievement of equality and the advancement of human rights and freedoms.
+    2. Non-racialism and non-sexism.
+    3. Supremacy of the constitution and the rule of law.
+    4. Universal adult suffrage, a national common voters roll, regular elections and a multiparty system of democratic government, to ensure accountability, responsiveness and openness.
 2. The territory of the Commonwealth is inviolable.
 
 ### Article 2
@@ -543,3 +548,23 @@ Laws and regulations currently into force remain applicable to the extent that t
 -->
 
 [^commonwealthscript]: Veletian, or Commonwealth Script, is a simplified form of Oslolan written language.
+
+<style>
+.page ol {
+  counter-reset: item;
+  line-height: 2rem;
+  font-size: 14px;
+}
+  ol li {
+    display: block;
+    position: relative;
+}
+.page li:before {
+    content: counters(item, ".")" ";
+    counter-increment: item;
+    position: absolute;
+    margin-right: 100%;
+    right: 10px; /* space between number and text */
+    font-weight: bold;
+  }
+</style>
