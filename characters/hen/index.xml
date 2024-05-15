@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Hen</title>
+	<link>https://millmint.net/characters/hen/</link>
+	<description>Recent content in Hen </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<lastBuildDate>Sat, 27 Nov 2021 08:00:00 EST</lastBuildDate>
+	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/hen/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Fruit Tingles</title>
+	  <link>https://millmint.net/stories/tingles/</link>
+	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/tingles/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[✿ This image is a website-exclusive sketch produced as a masthead for the November Patreon update. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow here. Fruit Tingles (Fodsa Spas) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://images.millmint.net/sketches/tingles.jpg"/> <blockquote class="note ">
+  <span class="text">✿ <strong>This image</strong> is a website-exclusive sketch produced as a masthead for the <a href="https://www.patreon.com/posts/billing-paused-59200270">November Patreon update</a>. The typeface in this image is a preview version &ldquo;Nay Aug&rdquo; by Alex Tomlinson, who you can follow <a href="https://twitter.com/hootalex">here</a>.</span>
+</blockquote>
+
+<p><strong>Fruit Tingles</strong> (<em>Fodsa Spas</em>) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</p>
+<p>They&rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.</p>
+<p>Clockwise: <strong>Hen</strong>, from Kus (Kala), <strong>Bez</strong>, from Demon, <strong>Tzipora</strong>, from Seispri (Vekllei) and <strong>Sydney</strong>, from Montesur (Kalina).</p>
+<!--Quita-->]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

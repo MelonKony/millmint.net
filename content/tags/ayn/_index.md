@@ -1,4 +1,0 @@
----
-title: Ayn
-color: yellow
----
