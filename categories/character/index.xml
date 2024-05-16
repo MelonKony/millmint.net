@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Character</title>
-	<link>https://millmint.net/categories/character/</link>
+	<link>https://millmint.net/categories/character.html</link>
 	<description>Recent content in Character </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -33,7 +33,7 @@
 It is easy to lose track of who comes from where in Vekllei. About half of people were born overseas, and the other half have history in one of a dozen scattered republics that make up the country.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/dress.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/dress.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora&rsquo;s only party dress.</span>
 </blockquote>
 
@@ -61,7 +61,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[ &ldquo;Throw out the hardware. Let&rsquo;s do it right.&rdquo; ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/hardware.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/hardware.jpg"/> <blockquote class="note caption">
   <span class="text">&ldquo;Throw out the hardware. Let&rsquo;s do it right.&rdquo;</span>
 </blockquote>
 
@@ -83,7 +83,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[ Where warm oceanic currents meet arctic air, a downpour catches Cobian on her way home. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/downpour.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/downpour.jpg"/> <blockquote class="note caption">
   <span class="text">Where warm oceanic currents meet arctic air, a downpour catches Cobian on her way home.</span>
 </blockquote>
 
@@ -105,7 +105,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[ If you can find a natural corner, they make a good place to read away from all the noise. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/corner.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/corner.jpg"/> <blockquote class="note caption">
   <span class="text">If you can find a natural corner, they make a good place to read away from all the noise.</span>
 </blockquote>
 
@@ -127,7 +127,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[ Portait of Tzipora wearing school clothes in the Vekllei Highlands. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/field-portrait.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/field-portrait.jpg"/> <blockquote class="note caption">
   <span class="text">Portait of Tzipora wearing school clothes in the Vekllei Highlands.</span>
 </blockquote>
 
@@ -149,7 +149,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[The so-called Scandinationalists have a thousand years of myth in their pamphlets, but are in reality a product of the Atomic War. Racial nationalism has existed in Vekllei for centuries, but was only legitimised as a modern political force by the pre-war junta and materialised as violence by its collapse in the days after the Atomic War. Exploited grievances, hundreds in number but all basically the same, overflowed in the chaos of the war and saw savage criminal instincts acted on by militias called Stanis.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/ross.jpg"/> <p>The so-called <em>Scandinationalists</em> have a thousand years of myth in their pamphlets, but are in reality a product of the Atomic War. Racial nationalism has existed in Vekllei for centuries, but was only legitimised as a modern political force by the pre-war junta and materialised as violence by its collapse in the days after the Atomic War. Exploited grievances, hundreds in number but all basically the same, overflowed in the chaos of the war and saw savage criminal instincts acted on by militias called <em>Stanis</em>.</p>
+	 	<![CDATA[<img src="/images/ross.jpg"/> <p>The so-called <em>Scandinationalists</em> have a thousand years of myth in their pamphlets, but are in reality a product of the Atomic War. Racial nationalism has existed in Vekllei for centuries, but was only legitimised as a modern political force by the pre-war junta and materialised as violence by its collapse in the days after the Atomic War. Exploited grievances, hundreds in number but all basically the same, overflowed in the chaos of the war and saw savage criminal instincts acted on by militias called <em>Stanis</em>.</p>
 <p>The Stanis were put down by the British occupying forces, but they persist as terror cells. The Floral Government recognises their ideology as criminal, and so any organising around it is simply not tolerated. When you hear of <a style="color: var(--color-security)" href="/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a>, the Vekllei intelligence service, killing foreigners in kitchens and bedrooms, it is usually to these ends.</p>
 <p>This state of affairs is complicated and often undemocratic, but the thinking is straightforward. The 4th Commonwealth is a multiracial state of disparate, autonomous republics. Nearly half of its population was born overseas, and it recognises its indigenous Algic and Scandinavian populations as a single cultural group. This unity is fragile, and so action in defence of it has to be uncompromising as a matter of routine. To pick up a rifle, or place a bomb, or assist scandinationalist elements is a death sentence served outside of the courts, in a way that privileges this form of terrorism above other terrorist ideologies. This is not just a matter of opinion; this is policy. Anything else is insufficient, so says the state, because the alternative is evidenced by what happened in 2005.</p>
 <p>Ross Gosmiosn was sent to Home Office Section 12 from Section 2. In civilian speak, this meant he was moved from organisation security to the operations command, to work under their solemn new director Baron Desmoisnes, who was well-regarded at the Home Office after his successes at the Americas Bureau.</p>
@@ -179,7 +179,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[ All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/watch.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/watch.jpg"/> <blockquote class="note caption">
   <span class="text">All the street was out on the stair, listening to the distant roar of people and baton rounds and sirens, trying to figure if they were moving closer.</span>
 </blockquote>
 
@@ -201,7 +201,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[ He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/sketching.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/sketching.jpg"/> <blockquote class="note caption">
   <span class="text">He had a tin in his hands. She liked seeing the soldiers on patrol. He caught her staring.</span>
 </blockquote>
 
@@ -223,7 +223,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[Instafilm #445. Marked &ldquo;2064&rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/vista.jpg"/> <p><strong>Instafilm #445</strong>. Marked &ldquo;2064&rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo. But Vekllei people are far away from the world and curious and so they asked stupid questions sometimes.</p>
+	 	<![CDATA[<img src="/images/vista.jpg"/> <p><strong>Instafilm #445</strong>. Marked &ldquo;2064&rdquo;. Month of the Mosses. You remembered that because it was about the same time war broke out in the Congo again. Everyone at the table had opinions about that war, but not much to do with it. Everyone asked Coretti what she thought about the war. She hated that, she hated being singled out for it. Coretti had been two years old when she left the Congo. But Vekllei people are far away from the world and curious and so they asked stupid questions sometimes.</p>
 <p>Tzipora didn&rsquo;t like the news so she stopped reading it. Sometimes she got people asking her about America &ndash; what do you think about what they say&rsquo;s going on in Dallas? Is it real or is some of it made up to sell papers? Here&rsquo;s an idea &ndash; how about you shut your mouth and stop asking me so many fucking questions.</p>
 <p>Left to right: Moise, Coretti, Lin Zhi, Cobian, Tzipora. 2064.</p>
 ]]>
@@ -244,7 +244,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	  <![CDATA[She was in Lo, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/panaderas.jpg"/> <p><strong>She was in Lo</strong>, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.</p>
+	 	<![CDATA[<img src="/images/panaderas.jpg"/> <p><strong>She was in Lo</strong>, at the end of its winding river, standing in the place where the interior rains met the warm currents of the ocean. A mechanical clicking annoyed her but she could not tell if it was coming from the telephone exchange box or the electric street light above her head. It had just rained and it was a cold rain, so the air was sharp, and hurt and excited her lungs.</p>
 <p>She had a toothache but wouldn’t go to the dentist. For one, she did not like dentists at all. They were much like doctors. She did not trust them. It was easy to forget that Tzipora had many simple opinions that betrayed her class of person. Also, she had a medical checkup each year that lasted a couple days. It was not far away now, and she’d rather get it all out of the way at once. If it became unbearable, she thought, she could always medicate it herself.</p>
 <p>It would soon be winter, and the days were shorter now. The sun went down at four, and soon it would be dark by the time she got out of school. She hated the dark and hated the cold.  She thought about going abroad to a place with better weather. Maybe she would go to Barcelona and learn what it meant to be continental — people always told her she looked like a gypsy. To bake bread and drink well and marry a soldier. Maybe she could ride with the gypsies, and travel in a wooden caravan, singing and dancing in a long skirt.</p>
 <blockquote>
@@ -276,7 +276,7 @@ la harina va subiendo y el pan barato</p>
 	  <![CDATA[Tzipora finished most school days at two in the afternoon. Her routine looked something like this. Catch the tram home. Walk if the weather is &lsquo;interesting&rsquo; (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/transmission.jpg"/> <p><strong>Tzipora finished most school days</strong> at two in the afternoon. Her routine looked something like this. Catch the tram home. Walk if the weather is &lsquo;interesting&rsquo; (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water. Blow her nose. Eat an apple with a glass of milk. Listen to the news on the radio.</p>
+	 	<![CDATA[<img src="/images/transmission.jpg"/> <p><strong>Tzipora finished most school days</strong> at two in the afternoon. Her routine looked something like this. Catch the tram home. Walk if the weather is &lsquo;interesting&rsquo; (dramatic). Unlock the apartment and exchange her shoes for sandals. Bring in the bedding airing in the backyard and say hello to the stripy stray cat. Put away her books and rinse her lunchbox. Set the meat out to defrost and boil and refrigerate the water. Blow her nose. Eat an apple with a glass of milk. Listen to the news on the radio.</p>
 <p>Depending on what she was making for dinner, she would usually head back out sometime around three thirty and find somewhere to read in her neighbourhood. From all places in Seispri you could see its beautiful circular high-voltage transmission towers, which carried power from the 2nd Magma-Electric Cogeneration Plant to their homes, supplying them with heat and light. The neighbourhood had been bombed in the war and there were still ruins out here. You could find old paths that were abandoned, overrun with mosses and bushes. These were good places to read.</p>
 <p>Tzipora spent most evenings alone until Baron got home. She loved Cobian, but they were quite different people and Tzipora spent a lot of time in her own head. That was probably the origin of a lot of her neuroses; she processed things slowly and inwardly; a cascading reaction of memories and identity splitting and colliding. You could hear the transmission towers hum with electricity. She felt that if her skull wasn&rsquo;t so thick you could hear her brain humming, full of thoughts.</p>
 ]]>
@@ -298,7 +298,7 @@ la harina va subiendo y el pan barato</p>
 Tzipora would look at the livery of the planes to figure out where they were going.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/jets.jpg"/> <p><strong>Vekllei has the some of the clearest skies in the world</strong>, and they are criss-crossed by distant vapour trails of jets coming and going. They bring the world closer together. It was funny to think that Peking and Tokyo were just a few hours away &ndash; it felt very cosmopolitan; very democratic. It emphasised the smallness of the world.</p>
+	 	<![CDATA[<img src="/images/jets.jpg"/> <p><strong>Vekllei has the some of the clearest skies in the world</strong>, and they are criss-crossed by distant vapour trails of jets coming and going. They bring the world closer together. It was funny to think that Peking and Tokyo were just a few hours away &ndash; it felt very cosmopolitan; very democratic. It emphasised the smallness of the world.</p>
 <p>Tzipora would look at the livery of the planes to figure out where they were going. Red and white was Vekllei Overseas Airways &ndash; which meant anywhere, really. With quiet nuclear engines, they could fly for thirty years before deciding where they wanted to go. Blue and white was the Vekllei Air Service, which flew domestic routes between Commonwealth destinations.</p>
 <p>It didn&rsquo;t really matter what colour they were &ndash; on their lonely island in the Atlantic, anywhere else seemed far away. Peking was Paris, as far as she was concerned.</p>
 ]]>
@@ -320,7 +320,7 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/wine.jpg"/> <p>Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.</p>
+	 	<![CDATA[<img src="/images/wine.jpg"/> <p>Vekllei has several cold-weather wine producing regions in its south, concentrated around the boroughs of Horn and Mopapa. Local staples are hearty reds like cabernet sauvignon and pinot noir, since whites are served with dessert or as apéritifs. Wine in Vekllei is a product of mass consumption, and is often drunk with meals even by teenagers.</p>
 <p>Tzipora liked the drowsy, warming feeling of it. She liked it so much that she kept clear of it except on occasions. Sometimes that occasion is a birthday or a sad night in. Sometimes that occasion is 3pm in the Ivo St Park with her friends. There was plenty to go around.</p>
 ]]>
   	</content:encoded>
@@ -340,7 +340,7 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	  <![CDATA[ Tzipora doesn&rsquo;t smoke anymore. She prefers Camel. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/habit.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/habit.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora doesn&rsquo;t smoke anymore. She prefers Camel.</span>
 </blockquote>
 
@@ -364,7 +364,7 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 &ldquo;Oh, well, I don&rsquo;t know,&rdquo; Tzipora said, brushing away the question with another piece of paper pulled from her schoolbag.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/drawing.jpg"/> <br>
+	 	<![CDATA[<img src="/images/drawing.jpg"/> <br>
 "And who is this lady?"
 <p>&ldquo;That&rsquo;s Tora, a Palace God who comes to Pachinki,&rdquo; Tzipora said, stumbling over her words. &ldquo;The other Goddesses don&rsquo;t like her much, um, and she&rsquo;s quite powerful. She goes to Pachinki to unite mortals against the Palace.&rdquo;</p>
 <p>&ldquo;I see,&rdquo; Baron said, not following but nodding politely. &ldquo;She looks a lot like you, doesn&rsquo;t she?&rdquo;</p>
@@ -401,7 +401,7 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	  <![CDATA[Cobian was a complicated person. When Tzipora met her, she was burdened by her parents and wracked by small faults that glinted openly at the other girls in the school halls. She was insecure, out of touch, a little childish, and desperate to be liked. Tzipora was a fair bit like her, but carried those traits in different ways. It was funny how people, similar in disposition, came across so differently.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/friends.jpg"/> <p><strong>Cobian was a complicated person</strong>. When Tzipora met her, she was burdened by her parents and wracked by small faults that glinted openly at the other girls in the school halls. She was insecure, out of touch, a little childish, and desperate to be liked. Tzipora was a fair bit like her, but carried those traits in different ways. It was funny how people, similar in disposition, came across so differently.</p>
+	 	<![CDATA[<img src="/images/friends.jpg"/> <p><strong>Cobian was a complicated person</strong>. When Tzipora met her, she was burdened by her parents and wracked by small faults that glinted openly at the other girls in the school halls. She was insecure, out of touch, a little childish, and desperate to be liked. Tzipora was a fair bit like her, but carried those traits in different ways. It was funny how people, similar in disposition, came across so differently.</p>
 <p>Cobian used to say what she thought people wanted to hear. Kids can sniff weakness a mile off. Desperation reeks. Her lame jokes and self-conscious friend-making were tolerated politely, but she didn’t have a regular group to spend recess with until Tzipora came along. Tzipora pitied her and liked her eagerness to establish a boring sort of friendship — they were both lonely and really just wanted to do the things normal girls do. Sleepovers and phone calls and that shit.</p>
 <p>Tzipora has coarse, bouncy hair made up of many hundreds of spirals and tufts, which she straightens. If you tousle it, grains of sand might fall out, like she’s just ploughed her head into the ground somewhere. Cobian has shiny, conditioned hair with a severe fringe and, at school, a bun that meets regulations that don’t exist. That was what they were like, as friends. You could tell by looking at them.</p>
 <p>Cobian is not like how she used to be. She knows herself now and isn’t so distraught by sad memories of primary school. It was funny how people so different improve each other.</p>
@@ -424,7 +424,7 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spoke without an accent and was well-accustomed to life in Vekllei.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/rumba.jpg"/> <p><strong>Coretti Adoula was a good singer but didn’t sing much</strong>. Tzipora had regarded her politely but distantly for a while after Moise started dating her in 10th grade. It was an awkward thing. Tzipora was not quite sure how to strike up a conversation — maybe she was a little insecure.</p>
+	 	<![CDATA[<img src="/images/rumba.jpg"/> <p><strong>Coretti Adoula was a good singer but didn’t sing much</strong>. Tzipora had regarded her politely but distantly for a while after Moise started dating her in 10th grade. It was an awkward thing. Tzipora was not quite sure how to strike up a conversation — maybe she was a little insecure.</p>
 <p>Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spoke without an accent and was well-accustomed to life in Vekllei. Tzipora had been born in Vekllei, but here she stood, short and stupid with the clumsy, childish accent of a foreigner. She was very self-conscious about her foreignness.</p>
 <p>There was also a contest of appearances. Moise was Tzipora’s first male friend, and so she paid attention to who he liked. Coretti was tall, sweet-natured, pretty and had dark skin of the kind Tzipora hadn’t seen before. Every time she saw Coretti, Tzipora was suddenly aware of how short, bad-mannered and pale she was. In some ways, they were opposed in his orbit, competing for Moise’s time and affection as satellites.</p>
 <p>About the time Moise and Coretti started dating, Tzipora was spending a lot of time in clubs, immersing herself in the Lola jazz scene. It was a fantastic time to be in it — Lola is a neighbourhood of migrants, and you had all the sounds of the world ringing out across the borough. Tzipora loved jazz — she liked any kind of interesting, syncopated and percussive music — and Coretti’s brother was the drummer in a Congolese rumba band called <em>Rats de Brazzaville</em>. His name was Andre. Tzipora knew him well. <em>Rats de Brazzaville</em> were a big band with a big sound, which made them a big deal for dance clubs. She had probably seen them play a dozen times.</p>
@@ -448,7 +448,7 @@ Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spo
 A lot of them had come to Vekllei looking for the opportunity to establish some sort of satellite community for the diaspora too embittered or radical to return to Israel.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/hanukkah.jpg"/> <p>Tzipora lived among Jews in the industrial neighbourhood of Seispri in <a href="/factbook/landscape/boroughs/lola/">Lola</a>. They had come over after the troubles in Tel Aviv and their persecution in the Dallas States. She had seen that; that was where she learned of her own history. It was not through faith or practice or family that she had discovered her Jewishness, but persecution — the unfolding story of all Ashkenazim.</p>
+	 	<![CDATA[<img src="/images/hanukkah.jpg"/> <p>Tzipora lived among Jews in the industrial neighbourhood of Seispri in <a href="/factbook/landscape/boroughs/lola/">Lola</a>. They had come over after the troubles in Tel Aviv and their persecution in the Dallas States. She had seen that; that was where she learned of her own history. It was not through faith or practice or family that she had discovered her Jewishness, but persecution — the unfolding story of all Ashkenazim.</p>
 <p>A lot of them had come to Vekllei looking for the opportunity to establish some sort of satellite community for the diaspora too embittered or radical to return to Israel. In the early days Vekllei resembled collapsing British mandates of years past, ripe for nation-building and dramatic new ways of living.</p>
 <p>That heritage was a lot to bear, especially for a girl who didn’t consider herself Jewish. She was still a Catholic, lapsed only in her affection for God. She didn’t know anything about Jews; she barely knew anything about Vekllei. All her life had been one way of living, one way of knowing herself, and now she lived with a Jewish man in a foreign neighbourhood that didn’t use money.</p>
 <p>Only Greeks, Irish and Italians celebrate Christmas in Vekllei. The people of Seispri celebrate Hanukkah near the same time. Tzipora, in her crisis of identity and faith, championed both — because why shouldn’t she? With the Catholic sabbath on Sunday and Shabbas on Saturday she got both ends of the deal. God knew she needed the rest.</p>
@@ -471,7 +471,7 @@ A lot of them had come to Vekllei looking for the opportunity to establish some 
 	  <![CDATA[Kaohsiung changed hands maybe four or five times. Each time the city fell, another company of Chinese burrowed themselves into the city, and each time it took about two months to drive them back into the sea. This was mostly done by the KMT and the Americans, who had heavy equipment. In Taiwan’s mountainous interior, a rainbow coalition of former colonies, indentured states and free-world ideologues fought brutally against the invasion of 2045.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/years.jpg"/> <p>Kaohsiung changed hands maybe four or five times. Each time the city fell, another company of Chinese burrowed themselves into the city, and each time it took about two months to drive them back into the sea. This was mostly done by the KMT and the Americans, who had heavy equipment. In Taiwan’s mountainous interior, a rainbow coalition of former colonies, indentured states and free-world ideologues fought brutally against the invasion of 2045.</p>
+	 	<![CDATA[<img src="/images/years.jpg"/> <p>Kaohsiung changed hands maybe four or five times. Each time the city fell, another company of Chinese burrowed themselves into the city, and each time it took about two months to drive them back into the sea. This was mostly done by the KMT and the Americans, who had heavy equipment. In Taiwan’s mountainous interior, a rainbow coalition of former colonies, indentured states and free-world ideologues fought brutally against the invasion of 2045.</p>
 <p>It was a real nasty kind of fighting in a real nasty kind of war. Insects and dengue fever. Most of the fighting outside of Taipei happened close-quarters, or even hand-to-hand. His time there affected the rest of his life, and changed the way he looked at the world; looked at people. It forced a reconsideration of the sort of creatures we are, and the sort of management we need to keep ourselves from doing what we’re capable of doing.</p>
 <p>What he liked about Tzipora was that she understood what it was like to come out the other side of a thing like that. She did not want to be rehabilitated; she did not want to be treated or talked to or sympathised with. She wanted to move on and pick up where she’d left off — form some kind of life for herself in Vekllei, among decent people. The real killer of civilian life is the dysphoria of the supermarket, and the synthetic quality of domestic society in the shadow of the extraordinary hyperreality of violence.</p>
 <p>He’d wasted the best years of his life in a jungle in Asia — that experience was now part of who he was. Tzipora understood what that meant without asking. She was not so different, after all.</p>
@@ -493,7 +493,7 @@ A lot of them had come to Vekllei looking for the opportunity to establish some 
 	  <![CDATA[Moise’s father worked for Cosme Car, and a big company like that throws a big party each year to celebrate the passing of the summer solstice. It was a good excuse to dress up and drink. This time of year, the sun never sets on the north of Vekllei. It gently touches the horizon and begins to rise again. Tzipora caught a train up the coast with Moise and his dad and they arrived before seven.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/cosme.jpg"/> <p>Moise’s father worked for Cosme Car, and a big company like that throws a big party each year to celebrate the passing of the summer solstice. It was a good excuse to dress up and drink. This time of year, the sun never sets on the north of Vekllei. It gently touches the horizon and begins to rise again. Tzipora caught a train up the coast with Moise and his dad and they arrived before seven.</p>
+	 	<![CDATA[<img src="/images/cosme.jpg"/> <p>Moise’s father worked for Cosme Car, and a big company like that throws a big party each year to celebrate the passing of the summer solstice. It was a good excuse to dress up and drink. This time of year, the sun never sets on the north of Vekllei. It gently touches the horizon and begins to rise again. Tzipora caught a train up the coast with Moise and his dad and they arrived before seven.</p>
 <p>The big Cosme party was thrown at its headquarters and manufacturing plant in Bohs each year. At the centre of the facility was Auto Tower, which rose 50 floors above the ground and housed workers at the plant. General wisdom was the higher you climbed, the better the party.</p>
 <p>Moise had dressed up as Zeus, but Tzipora didn’t know much about the Greek myths and thought he was Caesar. Moise, for his part, thought Tzipora had decided to accompany him as Helios, god of the sun. She didn’t know who or what a Helios was, but didn’t want to disappoint him so she pretended. She had actually been aiming for the indigenous warrior spirit Acovo.</p>
 <p>Willy the spy was there, on the lawns away from the music. He wasn’t a good guy — he was an officer with AB/NI, and exemplified the fraying edge of Vekllei’s wide-cast intelligence net. He was creepy. Tzipora, in her upside-down view of things, liked him well enough and struck up a conversation with him. Willy liked that about her; he liked the comedy of this schoolgirl chatting with this monster about their old war stories. Moise had never met him before, and the guy put him on edge.</p>
@@ -523,7 +523,7 @@ When Tzipora relayed the memory to Baron, he said, “it’s strange you call yo
 Plastic packaging was on the floor. In the mirror, a carousel of images. A new Zelda stares back, colourless and hollowed under the burden of the future.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/gymslip.jpg"/> <p><strong>When she was a girl</strong>, her mum took her shopping once a year. She said it was important to keep your dignity, though they didn’t have much money. That was Mette.</p>
+	 	<![CDATA[<img src="/images/gymslip.jpg"/> <p><strong>When she was a girl</strong>, her mum took her shopping once a year. She said it was important to keep your dignity, though they didn’t have much money. That was Mette.</p>
 <p>When Tzipora relayed the memory to Baron, he said, “it’s strange you call your mum by her first name.”</p>
 <p>Plastic packaging was on the floor. In the mirror, a carousel of images. A new Zelda stares back, colourless and hollowed under the burden of the future. On a rail car headed east, the future is simple — don’t fall beneath the wheels, avoid the bulls at sidings, and beg bread off the experienced bums. Out here, in the department store, it was complicated. Disgust glints in a half-turn; nausea.</p>
 <p>This was, in total, her third uniform. The first was Colegio Charry in Bogotá — that was plaid, and had a frock like a fairytale. The second was St Mary’s, in Sacramento — grey and blue; miserable like the girls. This was Vekllei’s. She liked it; she liked being in uniform again. She thought she looked sharp.</p>
@@ -559,7 +559,7 @@ Plastic packaging was on the floor. In the mirror, a carousel of images. A new Z
 You were not allowed to smoke in government schools.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/recess.jpg"/> <p>Tzipora had smoked since she was thirteen, and so she did for the rest of her life. What started out as a nasty habit in California’s decaying boarding school system eventually became a social medicine in the severe anxiety of her school years in Vekllei. She used her packs strategically, afraid of building a dependence that would dilute nicotine’s effects on her frayed nerves.</p>
+	 	<![CDATA[<img src="/images/recess.jpg"/> <p>Tzipora had smoked since she was thirteen, and so she did for the rest of her life. What started out as a nasty habit in California’s decaying boarding school system eventually became a social medicine in the severe anxiety of her school years in Vekllei. She used her packs strategically, afraid of building a dependence that would dilute nicotine’s effects on her frayed nerves.</p>
 <p>You were not allowed to smoke in government schools. Tzipora retained a pithy contempt of such methods of social control and smoked anyway, on the roof. She’d read science fiction there or listen to foreign radio. Sometimes she would read dangerous books — things she liked to pretend could get her in trouble. Tzipora’s brief phase as a self-described Bolshevik began during recess on the roof of the Lola 6th School’s science block.</p>
 <p>She was actually indulging in a sort of play-fantasy of the past; a revision of herself. There was nothing illegal about what she was doing, but she liked to pretend there was.</p>
 <p>In a place of deep shame were fragments of a memory. Echoes that shot white hot in her mind — a telephone booth; a lady answers; the face of a girl who told everyone she was pregnant; a handsome teacher; two students dragged out of class; rumours about communists; the end of year dance; four arrests and a suicide.</p>
@@ -583,7 +583,7 @@ You were not allowed to smoke in government schools.]]>
 	  <![CDATA[✿ This post is an animated PNG without sound. Download the video with sound here. Such was spring. The breeze was cool, but the sun was warm on the skin and everywhere. They’d been driving for a couple hours, Tzipora and Baron. They’d crossed the big glacier and come down the other side into Troll, where there was nothing much for miles around. It was about then that their tyre blew and the little Cosme M40 limped over to the side of the road.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/picnic.png"/> <blockquote class="note ">
+	 	<![CDATA[<img src="/images/picnic.png"/> <blockquote class="note ">
   <span class="text">✿ <strong>This post</strong> is an animated PNG without sound. Download the video with sound <a href="/images/picnic.mov">here</a>.</span>
 </blockquote>
 
@@ -609,7 +609,7 @@ You were not allowed to smoke in government schools.]]>
 Vekllei people do not understand spirits; they will never understand spirits.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/seispri.jpg"/> <p><strong>Vekllei is a land of spirits</strong>. All things have some life to them, but spirits are something special. Up in Tiyousn, seispri (lit. spirits) wander freely, attracted by sulphur and silica waste pools discharged by the Magma-Electric Flash Plant nearby. Rich with minerals and warm to the touch, these milky ponds are gathering places for creatures of the spirit world.</p>
+	 	<![CDATA[<img src="/images/seispri.jpg"/> <p><strong>Vekllei is a land of spirits</strong>. All things have some life to them, but spirits are something special. Up in Tiyousn, seispri (lit. spirits) wander freely, attracted by sulphur and silica waste pools discharged by the Magma-Electric Flash Plant nearby. Rich with minerals and warm to the touch, these milky ponds are gathering places for creatures of the spirit world.</p>
 <p>Vekllei people do not understand spirits; they will never understand spirits. The word itself is nearly meaningless, applied broadly to any creature crossing over from unseen spatial cages. The only thing that characterises a spirit is its human intelligence and, by association, their complicated personalities. Most appreciate gestures, even misplaced ones, so it never hurts to leave offerings and announce your intentions in Vekllei’s autonomous Crown Lands.</p>
 <p>Tzipora was outside of Equetti, in Tiyousn, looking for mineral pools that were the right temperature to bathe in. Finding a favourite mineral pool was a right of passage in Vekllei, and locations to good ones were often secrets given only to close friends and family.</p>
 <p>She was about two kilometres south of the Flash Plant when she saw it and screamed.</p>
@@ -640,7 +640,7 @@ Vekllei people do not understand spirits; they will never understand spirits.]]>
 Tzipora was not a son but she was not unlike him.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/gun.jpg"/> <p><strong>Baron had been working in the twilight of violence for over twenty years</strong>. In that time he had not given much thought to children or family, except for those that lingered as ghosts from long ago. Despite popular misconception, Baron did on occasion daydream, and in those daydreams was an abstract picture of his heir — a dark-haired son not unlike himself.</p>
+	 	<![CDATA[<img src="/images/gun.jpg"/> <p><strong>Baron had been working in the twilight of violence for over twenty years</strong>. In that time he had not given much thought to children or family, except for those that lingered as ghosts from long ago. Despite popular misconception, Baron did on occasion daydream, and in those daydreams was an abstract picture of his heir — a dark-haired son not unlike himself.</p>
 <p>Tzipora was not a son but she was not unlike him. She gave him a new perspective on life — a reason for going on, and a universe outside of service to the state. And how she adored him. She demonstrated that in how she talked, and how she childishly defended any casual observation or guessing of him. They were old friends — war buddies, in fact — and spent many evenings talking about the world and the things in it. Yet a paternal dimension of their relationship existed. Tzipora was young and full of questions, and wanted desperately to be taught. So he guided her when she asked for it, and answered her questions. And there were so many questions.</p>
 <p>In his daydreams he taught his son to use the gun. There were guns in the home but Tzipora was not allowed to touch them, because she had been prescribed antipsychotics fourteen months into her life in Vekllei. She didn’t end up needing the pills; they only gave her tremors. It wasn’t until she was diagnosed properly at eighteen years of age that she as allowed to use the guns with Baron.</p>
 <p>They went hunting for meat, since there had been more shortages that year, and in summer Vekllei is full of a most obscure pest called a Pademelon — a type of Australian wallaby that had been introduced just prior to the War by accident. Now they were all over, inoffensive as they were. The meat was tasty and the government encouraged you to cull them, so they were hunted commonly. Tzipora had some knowledge of how to use a pistol but hadn’t fired a long gun. Baron showed her how to use the sites and hold it. She didn’t kill anything, but Baron bagged two. Tzipora figured out how to skin and clean the animal and they ate wallaby steaks that night, which tasted good but were gamey. She shared the rest of the meat with a neighbour who had helped her repair the boiler.</p>
@@ -664,7 +664,7 @@ Tzipora was not a son but she was not unlike him.]]>
 In Vekllei, however, the sports were better. Instead of “gym class,” they had physical education — Phys Ed — that included a variety of weekly health classes, term carnivals, and daily callisthenics.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/wickets.jpg"/> <p><strong>Tzipora was good at cricket</strong>. That surprised everyone. Her teachers called her bookish; her classmates called her a dork. She didn’t look like a girl who played much sport. In America, at her old school, she was sick from gym class so regularly that they stopped asking about her absence.</p>
+	 	<![CDATA[<img src="/images/wickets.jpg"/> <p><strong>Tzipora was good at cricket</strong>. That surprised everyone. Her teachers called her bookish; her classmates called her a dork. She didn’t look like a girl who played much sport. In America, at her old school, she was sick from gym class so regularly that they stopped asking about her absence.</p>
 <p>In Vekllei, however, the sports were better. Instead of “gym class,” they had physical education — Phys Ed — that included a variety of weekly health classes, term carnivals, and daily callisthenics. They’d pile into the gymnasium, take off dark-soled shoes, and run through simple exercises before lessons. Sometimes they’d play games instead, if they had one of the cool teachers. That was a potent memory for Tzipora, actually — the jealousy of watching the homeroom next door play “crocodile” while her group were doing stretches for the second time that week.</p>
 <p>It was her social environment, in the end, that got her into sports. When she didn’t know anyone, she’d read English books by the sports fields. Two weeks into watching the boys play lunchtime cricket, she took up the bat and scored six runs. It turned out Tzipora was very good at sports. She was fast and well-coordinated — an uncultivated natural gift. That year, at the athletics carnival, she scored best out of the girls in high jump and best out of anyone in long jump.</p>
 <p>That made Tzipora very popular with her classmates, because she played “both sides” — she was a shy geek that was good at cricket and didn’t mind getting grass stains on her shirt. It was that duality, rather than her sportsmanship, that people liked. She was amusing enough as a character that the sports-playing boys had developed a fascination with her, and they shouted at her to join most lunchtimes. It was paternalistic, sure — they liked her in the same way they liked the retarded rough-n-ready rugby boy in their class — but it wasn’t mean-spirited.</p>
@@ -687,7 +687,7 @@ In Vekllei, however, the sports were better. Instead of “gym class,” they ha
 	  <![CDATA[Ayn was a naturally busy person. She worked long, hard hours at the Americas Bureau at National Intelligence, or ‘AB/NI,’ as a clerk, or specialist, or whatever they needed her to be that day. Her days off were filled with petty occupations and minor obligations — mostly tending to her plants and cleaning. She enjoyed number puzzles. A couple friends had formed a book club, and she went to that on occasion.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/generations.jpg"/> <p><strong>Ayn was a naturally busy person</strong>. She worked long, hard hours at the Americas Bureau at National Intelligence, or ‘AB/NI,’ as a clerk, or specialist, or whatever they needed her to be that day. Her days off were filled with petty occupations and minor obligations — mostly tending to her plants and cleaning. She enjoyed number puzzles. A couple friends had formed a book club, and she went to that on occasion.</p>
+	 	<![CDATA[<img src="/images/generations.jpg"/> <p><strong>Ayn was a naturally busy person</strong>. She worked long, hard hours at the Americas Bureau at National Intelligence, or ‘AB/NI,’ as a clerk, or specialist, or whatever they needed her to be that day. Her days off were filled with petty occupations and minor obligations — mostly tending to her plants and cleaning. She enjoyed number puzzles. A couple friends had formed a book club, and she went to that on occasion.</p>
 <p>Tzipora’s arrival in June of 2063 saw several disruptions to Ayn’s routines, not least of which was the surfacing of her old unsentimental boyfriend, now ten years older and much different. Tzipora herself emerged into Ayn’s personal life, and they became close — much like it was with Baron, Tzipora was both a daughter and a friend.</p>
 <p>It had been Ayn’s recommendation, actually, that Baron should take her.</p>
 <p>“At least for a while,” she said, “She talks about you all the time. No one’s talking about adoption — just take her until the system can sort her out. That’s my advice.”</p>
@@ -715,7 +715,7 @@ In Vekllei, however, the sports were better. Instead of “gym class,” they ha
 Baron was Jewish, but he didn’t practice much. He did, however, observe shabbas as a cultural legacy of his childhood.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/shalom.jpg"/> <p><strong>When they met</strong>, Tzipora told Baron she was Catholic. He thought that was hilarious — it was one of the few times she saw him laugh. Her name was “Tzipora”, and she gave herself the name “Zelda” — who did she think she was kidding? But that’s just how she was; Tzipora was an intricate person of many backgrounds and instincts.</p>
+	 	<![CDATA[<img src="/images/shalom.jpg"/> <p><strong>When they met</strong>, Tzipora told Baron she was Catholic. He thought that was hilarious — it was one of the few times she saw him laugh. Her name was “Tzipora”, and she gave herself the name “Zelda” — who did she think she was kidding? But that’s just how she was; Tzipora was an intricate person of many backgrounds and instincts.</p>
 <p>Baron was Jewish, but he didn’t practice much. He did, however, observe shabbas as a cultural legacy of his childhood. He worked six days a week, and rested Saturdays. Sometimes, he’d put on a roast in the tradition of his late father’s recipe. Other times, Tzipora would cook some of their favourite foods. Tzipora, the insistent catholic, would respect the melakhot because she liked the idea of it. Even more unusually, she welcomed the shabbas with a prayer, even though her sabbath was Sunday. That’s just how she was; you get the idea. She was a curious and deeply spiritual person, and became more fascinated with her Jewish heritage after living with Baron.</p>
 <p>Cobian didn’t know what a Jew was; she barely understood the concept of any god. Cobian’s family were indigenous Vekllei, descended from generations of animistic Upen observers. She was, however, more than willing to break bread with the girl she loved, and they enjoyed many meals together over the years in that picturesque, naive multiculturalism common to Vekllei.</p>
 ]]>
@@ -738,7 +738,7 @@ Tzipora told people she couldn’t swim. That was true — she sank like a stone
 There is a very tragic and pathetic self-consciousness that afflicts kids around her age.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/carnival.jpg"/> <p><strong>Each year</strong>, Lola 6th School traveled to the base of the Thanveler Glacier for its swimming carnival. There was a big thermal pool there, heated by the Earth, and students competed in races for prizes and ribbons.</p>
+	 	<![CDATA[<img src="/images/carnival.jpg"/> <p><strong>Each year</strong>, Lola 6th School traveled to the base of the Thanveler Glacier for its swimming carnival. There was a big thermal pool there, heated by the Earth, and students competed in races for prizes and ribbons.</p>
 <p>Tzipora told people she couldn’t swim. That was true — she sank like a stone. But she didn’t tell them the other part — that she never wanted to learn how.</p>
 <p>There is a very tragic and pathetic self-consciousness that afflicts kids around her age. Boys and girls went to school together here, but they weren’t the same thing, were they? She saw girls usually clothed in capes and knee skirts showing skin she’d never seen before. There was this one girl, Cherrie, who was on the heavy side, and Tzipora marvelled unconsciously at how much bigger she looked without her uniform. She realised what she was doing, and was struck with shame — and relief it wasn’t her in that stupid one-piece.</p>
 <p>“Oh my God,” Tzipora thought to herself, “That’d be me. What I’m doing now.”</p>
@@ -762,7 +762,7 @@ There is a very tragic and pathetic self-consciousness that afflicts kids around
 	  <![CDATA[Outside of the cities, sensory pleasure can be enriched by Vekllei’s oldest organism, if you know where to look. The temperate rainforest is alive, and breathing, and smells cold in its freshness. The perfume of the rainforest is earthy and chilled, swirling in a cocktail of fresh water, rich, damp soil and the scents of thick mosses and browning leaves. Out here, only water and the trees move — these sounds are the domain of spirits.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/mossbound.jpg"/> <p><strong>Outside of the cities</strong>, sensory pleasure can be enriched by Vekllei’s oldest organism, if you know where to look. The temperate rainforest is alive, and breathing, and smells cold in its freshness. The perfume of the rainforest is earthy and chilled, swirling in a cocktail of fresh water, rich, damp soil and the scents of thick mosses and browning leaves. Out here, only water and the trees move — these sounds are the domain of spirits.</p>
+	 	<![CDATA[<img src="/images/mossbound.jpg"/> <p><strong>Outside of the cities</strong>, sensory pleasure can be enriched by Vekllei’s oldest organism, if you know where to look. The temperate rainforest is alive, and breathing, and smells cold in its freshness. The perfume of the rainforest is earthy and chilled, swirling in a cocktail of fresh water, rich, damp soil and the scents of thick mosses and browning leaves. Out here, only water and the trees move — these sounds are the domain of spirits.</p>
 <p>Even bird calls seem foreign here, as though the plovers and crows had been invited by the same mossbound instinct Tzipora shared. Pushing deeper into the rainforest, the risks become greater but the chance of meeting spirits swells. You are a guest, you are a guest — she keeps this in mind if she has any sense. The spirits tolerate breakage but they won’t tolerate disrespect.</p>
 <p>Much as the birds nest and feed, Tzipora is welcomed by the spirits to establish a presence in the rainforest. Taking a seat on the soft floor of the forest, she opens her textbook and reads slowly.</p>
 <p>Don’t wear a jacket — the cool air is good for the skin. Breathe deep — the perfume is good for the lungs. Open your senses to the peripheral stimuli of the spirit-forest, and don’t overthink it. Enjoy the sound of wind moving through the ceiling around you, and the freshwater creek that trickles sweetly. This is a good-natured place, so be good-natured.</p>
@@ -786,7 +786,7 @@ There is a very tragic and pathetic self-consciousness that afflicts kids around
 All stories settle on remarkable people, and Tzipora — with or without her absurd long-livedness — is a person of importance, and much more than the sum of her parts.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/forever.jpg"/> <p><strong>There’s no other way to put it — Tzipora is one of a kind</strong>. There are others like her, but fewer and fewer of them are born healthy as the years roll on. Her life is hard, she’d agree, but it’s also sprinkled with miracles. Meeting her, you might not even know she’s set to become the oldest person in history.</p>
+	 	<![CDATA[<img src="/images/forever.jpg"/> <p><strong>There’s no other way to put it — Tzipora is one of a kind</strong>. There are others like her, but fewer and fewer of them are born healthy as the years roll on. Her life is hard, she’d agree, but it’s also sprinkled with miracles. Meeting her, you might not even know she’s set to become the oldest person in history.</p>
 <p>All stories settle on remarkable people, and Tzipora — with or without her absurd long-livedness — is a person of importance, and much more than the sum of her parts.</p>
 <p>For those unaware, Tzipora is the 13th person in the world to be diagnosed with Gregori-Heitzfeld Disease (GHD), a genetic disorder that surfaced in the 21st Century. Many more than 13 preceded her, but few “Gregori babies,” as they’re called, ever make it to a hospital for a diagnosis. Where exactly GHD came from depends on who you ask — the synthetic preservatives in food? Residual radiation, from a century of atomic testing? The over-sexualisation of media? Tzipora accidentally swallowed a lead ball as a child — that’s as good a guess as any.</p>
 <p>Gregori babies do not grow up, and they do not die of old age.</p>
@@ -820,7 +820,7 @@ All stories settle on remarkable people, and Tzipora — with or without her abs
 	  <![CDATA[Cobian first met Tzipora at Café Maz, though before then she knew her as ‘Tzipora, the New Girl,’ or, less favourably, ‘Tzipora the Gypsy,’ since there was some confusion about where she’d come from. The neighbourhood had known about her for a while, since people like to talk about foreigners, and when she was spotted at the Café people talked about that too. Meeting her, Cobian understood why she had become a fascination.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/diplomacy.jpg"/> <p><strong>Cobian first met Tzipora at Café Maz</strong>, though before then she knew her as ‘Tzipora, the New Girl,’ or, less favourably, ‘Tzipora the Gypsy,’ since there was some confusion about where she’d come from. The neighbourhood had known about her for a while, since people like to talk about foreigners, and when she was spotted at the Café people talked about that too. Meeting her, Cobian understood why she had become a fascination. She had keen blue eyes that were very gentle, and quite slow-moving. She would look at you, then casually to the wall, then to her shoes, then back to you. The peacefulness in her face contrasted dramatically with the intensity of her movements, which were frenetic and unconscious. She had a tic where she would pull on her nose and shirt, which combined with her novice <a href="https://millmint.net/factbook/society/culture/language/#5-potenne">Potenne</a>, had her hands moving almost constantly as she talked. She was aware of this, because she would notice it periodically and grab her free hand, all without breaking eye contact or the cadence of her conversation. She was very funny; Cobian immediately liked her.</p>
+	 	<![CDATA[<img src="/images/diplomacy.jpg"/> <p><strong>Cobian first met Tzipora at Café Maz</strong>, though before then she knew her as ‘Tzipora, the New Girl,’ or, less favourably, ‘Tzipora the Gypsy,’ since there was some confusion about where she’d come from. The neighbourhood had known about her for a while, since people like to talk about foreigners, and when she was spotted at the Café people talked about that too. Meeting her, Cobian understood why she had become a fascination. She had keen blue eyes that were very gentle, and quite slow-moving. She would look at you, then casually to the wall, then to her shoes, then back to you. The peacefulness in her face contrasted dramatically with the intensity of her movements, which were frenetic and unconscious. She had a tic where she would pull on her nose and shirt, which combined with her novice <a href="https://millmint.net/factbook/society/culture/language/#5-potenne">Potenne</a>, had her hands moving almost constantly as she talked. She was aware of this, because she would notice it periodically and grab her free hand, all without breaking eye contact or the cadence of her conversation. She was very funny; Cobian immediately liked her.</p>
 <p>Cobian was a soft-willed sort of person, unopinionated and eager to be liked. Every fact filtered down to a reasonable compromise — there was a little bit of good in everything. Some people call that way of thinking gentle. Maybe she was just a little incurious.</p>
 <p>Tzipora was her opposite. She lived in a binary world of Tzipora metrics. Things were either pure and beautiful, disgusting and reprehensible, or not worth thinking about. All things passed through this process — cars, food, clothes, the shape of a curve, and the form of a kettle. Some people call that way of thinking judgemental. She was.</p>
 <p>This fierce intuition applied to people too, and Tzipora had a good memory. She wasn’t afraid to confront someone if they upset her, which earned her a slap now and then from some girl too rude to take shit from.</p>
@@ -850,7 +850,7 @@ All stories settle on remarkable people, and Tzipora — with or without her abs
 	  <![CDATA[In summer, the sun is up all night. She wakes at five and spends the mornings by herself, reading the paper or a paperback. Baron works late — he wakes late. They have breakfast together, so until then she drinks coffee out of a packet and starts the fire if it’s cold. You were supposed to save power, but sometimes she ran her electric blanket all night, which kept her snug until the under-floor heating warmed up.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/cosy.jpg"/> <p><strong>In summer, the sun is up all night</strong>. She wakes at five and spends the mornings by herself, reading the paper or a paperback. Baron works late — he wakes late. They have breakfast together, so until then she drinks coffee out of a packet and starts the fire if it’s cold. You were supposed to save power, but sometimes she ran her electric blanket all night, which kept her snug until the under-floor heating warmed up. Her concrete apartment had concrete comforts.</p>
+	 	<![CDATA[<img src="/images/cosy.jpg"/> <p><strong>In summer, the sun is up all night</strong>. She wakes at five and spends the mornings by herself, reading the paper or a paperback. Baron works late — he wakes late. They have breakfast together, so until then she drinks coffee out of a packet and starts the fire if it’s cold. You were supposed to save power, but sometimes she ran her electric blanket all night, which kept her snug until the under-floor heating warmed up. Her concrete apartment had concrete comforts.</p>
 <p>She has a record player that runs compact diskettes filled with free jazz and rock ’n’ roll. What Baron calls “bongo music”. She reads shit thrillers with the sound of the lashing rain and wild drums in foreign signatures.</p>
 <p>Above her bed is a cross, which she treats like a totem. She has a very transactional relationship with God. She doesn’t like him much, but figures doing Him a favour by hanging his cross this one time might earn her a bit of luck when she needs it.</p>
 <p>The coffee is hot, and spoiled with milk and sugar. Everybody tells her that’s no good, that she’s ruined the coffee. She doesn’t care, she likes how it tastes. The rain goes on. She thinks about breakfast.</p>
@@ -872,7 +872,7 @@ All stories settle on remarkable people, and Tzipora — with or without her abs
 	  <![CDATA[Out in Voya Voya, the gardens light the people, and distill human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing. Vekllei is known as a “garden city,” and Voya Voya has the best of them. Vekllei urban planning is wandering and wasteful, and in this borough the city centre is checkered by wild parks filled with silence and rainforest smells.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/rivers.jpg"/> <p><strong>Out in Voya Voya</strong>, the gardens light the people, and distill human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing. Vekllei is known as a “garden city,” and Voya Voya has the best of them. Vekllei urban planning is wandering and wasteful, and in this borough the city centre is checkered by wild parks filled with silence and rainforest smells.</p>
+	 	<![CDATA[<img src="/images/rivers.jpg"/> <p><strong>Out in Voya Voya</strong>, the gardens light the people, and distill human temperament into momentary, sequential lyrical images. A dead leaf moving by miracle across still water; an overturned bucket collecting dew along its handle; fern leaves half-curled, young and growing. Vekllei is known as a “garden city,” and Voya Voya has the best of them. Vekllei urban planning is wandering and wasteful, and in this borough the city centre is checkered by wild parks filled with silence and rainforest smells.</p>
 <p>Cobian and Tzipora were dating, or something adjacent to it. It was an unusual thing they had going on, since they weren’t much like each other. They’d arranged to have a picnic on Sunday, but a few days out the newspaper said it would rain. Rain-dates meant a movie and lunch.</p>
 <p>Then the forecast got worse. It wasn’t just a shower— it was big rain, with high winds. A storm, anyone but Tzipora would say.</p>
 <p>“We should cancel,” Cobian said on the phone.</p>
@@ -910,7 +910,7 @@ All stories settle on remarkable people, and Tzipora — with or without her abs
 “This is stupid,” Zhi said in clumsy Vekllei, staring ahead. “You do not know what it’s like.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/justice.jpg"/> <p><strong>Lin Zhi was nuts</strong>. She was lovely, but she was nuts. Tzipora followed along, pleading occasionally, a squeaking voice of concern. The cricket bat dragged and bounced along the poor road sealing.</p>
+	 	<![CDATA[<img src="/images/justice.jpg"/> <p><strong>Lin Zhi was nuts</strong>. She was lovely, but she was nuts. Tzipora followed along, pleading occasionally, a squeaking voice of concern. The cricket bat dragged and bounced along the poor road sealing.</p>
 <p>“You could go to prison,” Tzipora said, protesting weakly. “Why not send Moise and his boys? They’ll put the fear of God in him.”</p>
 <p>“This is stupid,” Zhi said in clumsy Vekllei, staring ahead. “You do not know what it’s like.”</p>
 <p>“I do know,” Tzipora whined. Between their second-hand Vekllei and conflicting accents, they struggled to understand each other. “They call me a gypsy bitch. But I don’t hit them. And not with a bat.”</p>
@@ -947,7 +947,7 @@ All stories settle on remarkable people, and Tzipora — with or without her abs
 Considering his bluntness and irritability, it was funny that he could only make good friends with women. His father was a bastard and his mother was in Greece, so his sister took their place.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/around.jpg"/> <p><strong>His hand was hurting bad, but no one asked him about it the day after</strong>. Moise always had a temper, and now he had a reputation. He got no words of sympathy from the other seniors of Lola 8th School.</p>
+	 	<![CDATA[<img src="/images/around.jpg"/> <p><strong>His hand was hurting bad, but no one asked him about it the day after</strong>. Moise always had a temper, and now he had a reputation. He got no words of sympathy from the other seniors of Lola 8th School.</p>
 <p>Considering his bluntness and irritability, it was funny that he could only make good friends with women. His father was a bastard and his mother was in Greece, so his sister took their place. His closest friend was Tzipora, the boyish miracle child who helped him lose weight. His love was Coretti, his high school sweetheart and, a little further along, his wife.</p>
 <p>Coretti was the daughter of Congolese scientists, but was born and raised in the Soviet Union. She had a typical brief for Afro-Russians — her father had worked with the Congo Water Company, and later was brought over for the Soviet Ministry of Agriculture and Food. She spent her early years in the relative wealth of the Basmanny District.</p>
 <p>The arrangement collapsed quickly after the coup in Congo and the death of Party Secretary Shchusev. The office her father worked for disappeared, and the family emigrated to Vekllei when she was six. Vekllei was full of displaced people with displaced heritage. After all, Moise was himself the son of wealthy Greek folk, his mother a fascist in the shadow party there. The way their identities intersected brought about difficult dimensions to their character — often empowering, occasionally suffocating, and sometimes resurrecting ghosts from their past.</p>
@@ -978,8 +978,8 @@ Considering his bluntness and irritability, it was funny that he could only make
 The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in Vekllei Semaphore.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/puffling.jpg"/> <p><strong>She joined the Puffin Scouts to make friends</strong>. Tzipora was not especially rugged or outdoorsy, but she was a fresh patriot, and the idea of collecting awards for conservation, in her mind, was much like Baron collecting medals for killing reds in the War.</p>
-<p>The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in <a href="/factbook/society/culture/language/#7-vekllei-semaphore">Vekllei Semaphore</a>. Puffin Scout troops are based out of a region with a <a href="/posts/2020-12-05-gods/"><em>Kronaismioudelfia</em></a> (Crown Land), which are abandoned wild areas the Vekllei state has relinquished to the natural spirits worshiped in <a href="/factbook/society/culture/religion/">Upen</a>. Hikes aren’t done in Crown Lands because if someone gets hurt or goes missing it can be very difficult to get them out.</p>
+	 	<![CDATA[<img src="/images/puffling.jpg"/> <p><strong>She joined the Puffin Scouts to make friends</strong>. Tzipora was not especially rugged or outdoorsy, but she was a fresh patriot, and the idea of collecting awards for conservation, in her mind, was much like Baron collecting medals for killing reds in the War.</p>
+<p>The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in <a href="/factbook/society/culture/language.html#7-vekllei-semaphore">Vekllei Semaphore</a>. Puffin Scout troops are based out of a region with a <a href="/posts/2020-12-05-gods/"><em>Kronaismioudelfia</em></a> (Crown Land), which are abandoned wild areas the Vekllei state has relinquished to the natural spirits worshiped in <a href="/factbook/society/culture/religion.html">Upen</a>. Hikes aren’t done in Crown Lands because if someone gets hurt or goes missing it can be very difficult to get them out.</p>
 <p>These wildernesses captured Tzipora’s imagination, since they are often the site of gods and extranatural features. The animals you saw out there seemed deeply disturbed by the presence of people, as though they were the vessels of spirits, irritated that a human girl had made her way in.</p>
 <p>School-aged Puffin Scouts are called Pufflings. In Vekllei, puffin birds are as common as gulls, and nest in cliffs where they raise their young in burrows. Tzipora, despite being a Puffling, never had much luck with puffins. They seemed to exempt her from their natural friendliness and curiosity — they flew away whenever she came close, and when they didn’t fly away they attacked her. She joined the Puffin Scouts to make friends, and yet here she was, cast out from both the Human and Animal Kingdoms.</p>
 <p>In this picture, Tzipora watches a puffin in full scout regalia, wary of its intent. The birds make cute novelties for some, but Tzipora knows better. Just like Baron in the war, she sits still and watches closely, listening for movement on the wind. They are locked in a battle of the wits, waiting to see who will make the first move.</p>
@@ -1001,7 +1001,7 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	  <![CDATA[Lava was a modern walled city. It had long lost its walls, but its florid green belt disguised a complex network of trenches, tunnels and forts that linked emplacements in the surrounding mountains. Together, these systems would ensure Vekllei would never again have to tolerate occupation by a foreign power. Lava was on the outskirts of Vekllei’s great capital city, and much of its cityscape was dispersed, affording residents a slower pace of life.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/momentsinlove.jpg"/> <p><strong>Lava was a modern walled city.</strong> It had long lost its walls, but its florid green belt disguised a complex network of trenches, tunnels and forts that linked emplacements in the surrounding mountains. Together, these systems would ensure Vekllei would never again have to tolerate occupation by a foreign power. Lava was on the outskirts of Vekllei’s great capital city, and much of its cityscape was dispersed, affording residents a slower pace of life.</p>
+	 	<![CDATA[<img src="/images/momentsinlove.jpg"/> <p><strong>Lava was a modern walled city.</strong> It had long lost its walls, but its florid green belt disguised a complex network of trenches, tunnels and forts that linked emplacements in the surrounding mountains. Together, these systems would ensure Vekllei would never again have to tolerate occupation by a foreign power. Lava was on the outskirts of Vekllei’s great capital city, and much of its cityscape was dispersed, affording residents a slower pace of life.</p>
 <p>Above Lava’s commercial heart were its terraced hills, and from up there you could see the canal ferries wind their way through the city. At the edge of a terraced park sits a bench full of memories.</p>
 <p>Although Tzipora looked the same as ever, she was 20 now. Cobian was nearly 18, and considering more sincerely her future. She cared about what other people thought of her. To that end they were always worlds apart. Tzipora was driven by a self-sustaining obsessive intuition, not the advice of her peers. Her imitation of ordinary teen-age life was usually misguided and clumsy. She had never made a good teenager — a good much of anything, really. But she was a very good Tzipora.</p>
 <p>Even now, Tzipora didn’t really think of herself as a homosexual, in the same way she didn’t consider herself a girl who wore glasses despite the near-sighted prescription specs she kept in her purse. After all, as she liked to say, there was nothing sexy about her — a good Catholic education and a miracle prepubescence saw to that. In the prejudice of the time, that’s what it meant to be a homosexual, at least to her. So this relationship — whatever it was — was not really that. She could avoid public judgement and her own ongoing prejudices if she simply pretended like her sincere feelings for Cobian did not amount to homosexuality.</p>
@@ -1028,7 +1028,7 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 A chapter she wrote in late November one year resembled her idea of a Christmas story, and so I’ve included a portion here to accompany this picture.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/deadplanes.jpg"/> <p><strong>Pachinki is a world of Tzipora’s own creation</strong>, a dorky retreat from the difficulties she has in Vekllei. Tzipora always loved stories of wild places and adventure, and Pachinki blossomed organically from within her daydreams. Eventually she started writing and drawing it. When she was sad, bored or anxious, she would descend back into Pachinki’s world of ancient magic, edible gems and pirates.</p>
+	 	<![CDATA[<img src="/images/deadplanes.jpg"/> <p><strong>Pachinki is a world of Tzipora’s own creation</strong>, a dorky retreat from the difficulties she has in Vekllei. Tzipora always loved stories of wild places and adventure, and Pachinki blossomed organically from within her daydreams. Eventually she started writing and drawing it. When she was sad, bored or anxious, she would descend back into Pachinki’s world of ancient magic, edible gems and pirates.</p>
 <p>A chapter she wrote in late November one year resembled her idea of a Christmas story, and so I’ve included a portion here to accompany this picture.</p>
 <hr>
 <p>She wrote,</p>
@@ -1075,7 +1075,7 @@ A chapter she wrote in late November one year resembled her idea of a Christmas 
 Somehow, despite her new wealth, a panic had set in.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/sundown.jpg"/> <p><strong>She’d dropped out of school and had the slow accent of a person too foreign to employ</strong>. She now lived in a country that did not use money. Food was everywhere and you ate until you were satisfied. Around each corner was a new cinema or basement lounge, and water trickled through the streets like all mythic garden cities. It was a paradise.</p>
+	 	<![CDATA[<img src="/images/sundown.jpg"/> <p><strong>She’d dropped out of school and had the slow accent of a person too foreign to employ</strong>. She now lived in a country that did not use money. Food was everywhere and you ate until you were satisfied. Around each corner was a new cinema or basement lounge, and water trickled through the streets like all mythic garden cities. It was a paradise.</p>
 <p>Somehow, despite her new wealth, a panic had set in. School hadn’t worked out and she lived parasitically with a person who hadn’t really expected or wanted to take her. Desperate to justify her presence as an immigrant, she started to cook — first from the TV, then out of books. A year into her new life in utopia, she had the makings of a master home cook, serving hot suppers six days a week. On Sundays Baron made a roast.</p>
 <p>Vekllei is the sort of place that rewards attention to common things, and Tzipora soon cultivated a chef’s eye for fresh ingredients and learned how to bargain with grocers for the best produce. She would plan her meals carefully and indulged her Colombian childhood, rediscovering the bandeja paisa and flatbreads of her youth.</p>
 <p>She was relaying her sadness at being unemployed one day when Baron asked her “why not become a cook?” Somehow the thought had never occurred to her. She began to walk into restaurants and ask for work — but most restaurants in Vekllei are run by families, and have no interest in expanding their kitchen for teenage foreigners. There was a restaurant two stops away on the Lola Main Line she liked especially: The Bull, or “Toro”, was run by a loud Spaniard called Che who’d opened his kitchen into the dining area, so you could see him cook. He was rude — Tzipora’s native fluency picked up more than your average Vekllei person — but more importantly, he was an excellent, classically-trained chef. In any other city in the world, he might have been celebrated, but here he ran his business beneath a print shop in the artist’s quarter of Lola.</p>
@@ -1102,7 +1102,7 @@ Tanizaki Junichirō, 1918
 The wind had died and it seemed that she would follow it. Crazy shadows distorted beneath car headlights. It occurred to her in some way that, as she approached dying, she was living out the ultimate dramatic fantasy of the American misplaced girl, in the same way the townsmen were fulfilling their grotesque constellation of death by murdering women.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/melting.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/melting.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1133,7 +1133,7 @@ The wind had died and it seemed that she would follow it. Crazy shadows distorte
 	  <![CDATA[✿ This article was featured in Issue #6 of the Atlantic Bulletin For a brief period of time, Zelda and Cobian took it upon themselves to make something of their youth. Cobian fancied herself a gymnast, and though this ambition arrived too late and left too soon, she was quite good at it for a while. Tzipora was better suited on the trampoline, where her stiff leg didn’t give her as much trouble.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/waterfront.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/waterfront.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/6"><strong>Issue #6</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1163,7 +1163,7 @@ The wind had died and it seemed that she would follow it. Crazy shadows distorte
 His obscurity is part of a severe disposition, made obvious by his astonishing disinterest in friends and hobbies. When he finishes work, he listens to the radio, prepares supper, and goes to bed.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/father.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/father.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1198,7 +1198,7 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 Her death deeply disturbed Tzipora, who was keenly aware of how sentimental people died against metrics of their own imagination.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/death.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/death.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1224,7 +1224,7 @@ Her death deeply disturbed Tzipora, who was keenly aware of how sentimental peop
 	  <![CDATA[✿ This article was featured in Issue #5 of the Atlantic Bulletin make love not lore]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/love.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/love.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1249,7 +1249,7 @@ She’d missed the fast tram, caught a tiny splinter in her thumb, lost a button
 They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora regarded as “the worst of them” for its tall buildings and labyrinthian concrete alleys.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/matchstick.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/matchstick.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1277,7 +1277,7 @@ They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora reg
 	  <![CDATA[✿ This article was featured in Issue #5 of the Atlantic Bulletin They showed up at the autopool, and someone had just returned a brand new AAAC Voya Voya — incredible. It was like Christ himself had blessed them. It only (barely) seat five, and there were six of them, but it wasn’t a problem. Moise would drive, Tzipora bunked with Cobian in the passenger seat and Alise, Zo and Jerome could cram into the back.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/roadtrip.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/roadtrip.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/5"><strong>Issue #5</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1303,7 +1303,7 @@ They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora reg
 The throbbing machinery of another world began turning, and anyone who saw the bomb would hear it. Passing seconds dislocated and caught heartbeats. The plumes were pretty.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/missile.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/missile.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/4"><strong>Issue #4</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1331,7 +1331,7 @@ The throbbing machinery of another world began turning, and anyone who saw the b
 She has a lot of endearing characteristics that give great character to her mannerisms and physicality. She has a small overbite that makes her look a little froggy, and ritually pulls on her shirt and wipes her nose in anxious conversation.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/tziporacon.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/tziporacon.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1364,7 +1364,7 @@ The puffin scouts set up camp not far from the rest, just outside of Krafla in t
 The Krafla high-energy communications tower was visible from all over the region.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/basecamp.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/basecamp.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1391,7 +1391,7 @@ The Krafla high-energy communications tower was visible from all over the region
 She was also naturally obsessive and material-oriented, keenly aware of the importance of objects measured by metrics in her own silly head. You can discover a lot about a person from their trinkets and toys — let’s discover a bit about Tzipora.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/edc.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/edc.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/3"><strong>Issue #3</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1425,7 +1425,7 @@ She was also naturally obsessive and material-oriented, keenly aware of the impo
 It wasn’t just her features or figure that captured Tzipora’s attention — it was also her confident, inconspicuous movements and a quiet self-assuredness that seemed obvious in her gentle expression and posture. Tzipora was not quite sure how to describe it.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/ayn.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/ayn.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/2"><strong>Issue #2</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1454,7 +1454,7 @@ It wasn’t just her features or figure that captured Tzipora’s attention — 
 Five days prior, Baron hailed an EB/NI company car and it pulled up beside him. The electric passenger window slid down.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/rain.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/rain.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1497,7 +1497,7 @@ Five days prior, Baron hailed an EB/NI company car and it pulled up beside him. 
 There was not much to say about this, between the two of them.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/missedtrain.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/missedtrain.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1523,7 +1523,7 @@ There was not much to say about this, between the two of them.]]>
 Tzipora never considered herself particularly tragic. It seemed straightforward, if difficult; she continued to live — and so she lived.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/trials.jpg"/> <blockquote class="note story">
+	 	<![CDATA[<img src="/images/trials.jpg"/> <blockquote class="note story">
   <span class="text">✿ <strong>This article</strong> was featured in <a href="/news/bulletin/2020/1"><strong>Issue #1</strong></a> of the <em>Atlantic Bulletin</em></span>
 </blockquote>
 
@@ -1556,7 +1556,7 @@ Tzipora never considered herself particularly tragic. It seemed straightforward,
 That doesn&rsquo;t work so well in a comic with sequential panels, so I&rsquo;ve been working on standardising my characters. This is a concept panel for Cobian, Tzipora&rsquo;s longtime friend (and occasional girlfriend).]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/cobiancon.jpg"/> <p>If you go back through my posts here, you&rsquo;ll notice Tzipora is basically a cartoon whose only consistent characteristic is her iconography &ndash; her hair fountain, bangs, round head and big smile. This isn&rsquo;t really intentional. I&rsquo;m just an amateur artist who is still learning to draw.</p>
+	 	<![CDATA[<img src="/images/cobiancon.jpg"/> <p>If you go back through my posts here, you&rsquo;ll notice Tzipora is basically a cartoon whose only consistent characteristic is her iconography &ndash; her hair fountain, bangs, round head and big smile. This isn&rsquo;t really intentional. I&rsquo;m just an amateur artist who is still learning to draw.</p>
 <p>That doesn&rsquo;t work so well in a comic with sequential panels, so I&rsquo;ve been working on standardising my characters. This is a concept panel for Cobian, Tzipora&rsquo;s longtime friend (and occasional girlfriend). She&rsquo;s an awkward, sympathetic sort of person, and often left out in my posts. She certainly doesn&rsquo;t deserve such treatment &ndash; she&rsquo;s one of the most interesting, complex people in the Vekllei cast and I hope to treat her with respect in future.</p>
 <p>This panel is the first step.</p>
 <p>I&rsquo;m working on pages for the comic, but it&rsquo;s slow going. I post pages as they come to my patrons (more or less!) but it&rsquo;ll be a while before any chapters come together. That&rsquo;s okay. I work better that way.</p>
@@ -1581,7 +1581,7 @@ That doesn&rsquo;t work so well in a comic with sequential panels, so I&rsquo;ve
 Pictured above is Tzipora Desmoisnes, the Princess of the Earth and one of the most interesting persons of the last century. She has made good use of her 126 years on Earth (and counting), and a few samples have been chosen for your viewing pleasure.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/earthprincess.jpg"/> <p><em>Editor’s note — it’s getting close to 4 a.m. and I’m not sure I can even remember why I wrote this post. Everything is a fog. Expect revisions and possibly major changes in the morning.</em></p>
+	 	<![CDATA[<img src="/images/earthprincess.jpg"/> <p><em>Editor’s note — it’s getting close to 4 a.m. and I’m not sure I can even remember why I wrote this post. Everything is a fog. Expect revisions and possibly major changes in the morning.</em></p>
 <p>Pictured above is Tzipora Desmoisnes, the Princess of the Earth and one of the most interesting persons of the last century. She has made good use of her 126 years on Earth (and counting), and a few samples have been chosen for your viewing pleasure. Conveniently, captions have been attached to briefly describe a few choice (but not comprehensive) depictions of her life.</p>
 <p><strong>2 Years Old / 2049</strong></p>
 <p>An infant Tzipora arrives in a country she would remember as her homeland. Knowing the tumultuousness of her childhood from here on, it is sobering seeing the round baby&rsquo;s face staring back, red-faced and full-cheeked. Her mother, Mette Sumoisnesn from Vekllei, is a bohemian political scholar and radical looking to start fresh in South America after several life events leave her dissatisfied with life in Vekllei. With her savings secured, they move into a wealthy neighbourhood called Modelia, in Bogota.</p>
@@ -1625,7 +1625,7 @@ Pictured above is Tzipora Desmoisnes, the Princess of the Earth and one of the m
 It was summer, and six days after Tzipora had arrived in Japan as a Gregori ambassador from Vekllei. Although she would not be the oldest victim of Gregori-Heitzfeld syndrome until Quentin Cook’s (USA) infamous murder-suicide ten years later, she was one of the so-called &ldquo;First Thirteen&rdquo; publicised patients, and so was somewhat known to the international community.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/immortal.jpg"/> <p>Tzipora had never been taller than anyone in Vekllei at a meagre 5’2, but she was taller than Shizuku Kobayashi. Like Tzipora, Shizuku had not physically aged a day since she was a child.</p>
+	 	<![CDATA[<img src="/images/immortal.jpg"/> <p>Tzipora had never been taller than anyone in Vekllei at a meagre 5’2, but she was taller than Shizuku Kobayashi. Like Tzipora, Shizuku had not physically aged a day since she was a child.</p>
 <p>It was summer, and six days after Tzipora had arrived in Japan as a Gregori ambassador from Vekllei. Although she would not be the oldest victim of Gregori-Heitzfeld syndrome until Quentin Cook’s (USA) infamous murder-suicide ten years later, she was one of the so-called &ldquo;First Thirteen&rdquo; publicised patients, and so was somewhat known to the international community. By the time of their meeting in 2071, there had been an estimated 250 Gregori baby births, and around 130 living across the world. Kobayashi was the 122nd ageless child, and Japan’s first.</p>
 <p>Tzipora met Kobayashi in the Ozake Ryokan outside Kamigōri, Kobayashi’s birthplace and home. It was not far from Aioi. Tzipora was 24 at the time, and Shizuku was 18, and still in school. Poor Zelda was so nervous about meeting another Gregori baby that she became overwhelmed by Japanese manners. So it was that Shizuku’s first introduction to Tzipora was via a clonk on the head.</p>
 <p>Shizuku was sweet and even-tempered, and they talked for nearly five hours before she was retrieved by her mother in the late evening. She spoke okay English, because she’d dropped out of school for a year to pursue acting with an American film company based in Yokohama that operated through the NGHQ. Acting was a common profession for Gregori babies — it seemed that the miracle children of the world were quickly relegated to freaks of entertainment. Tzipora did not have the stomach for it, but she knew of several others around the world who made good money playing children in film.</p>
@@ -1657,7 +1657,7 @@ It was summer, and six days after Tzipora had arrived in Japan as a Gregori amba
 	  <![CDATA[She’d accidentally starched her gi quarter-pleat in the wash. She held it self-consciously against her side as she watched the clouds navigate the sharp mountains that formed Montre’s deepest valleys. Even out here, where human presence was gentle and subservient to the land, Vekllei National Railways had tracks that serviced the smallest villages. Today it was high summer, and the slopes were green and free of ice. They waited in the shade of the regional limited express carriage for train 802, which would take them home to Montre-Lola and complete a two hour ritual all Montre-Lolan university students made for their studies.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/carriage.jpg"/> <p>She’d accidentally starched her <em>gi</em> quarter-pleat in the wash. She held it self-consciously against her side as she watched the clouds navigate the sharp mountains that formed Montre’s deepest valleys. Even out here, where human presence was gentle and subservient to the land, Vekllei National Railways had tracks that serviced the smallest villages. Today it was high summer, and the slopes were green and free of ice. They waited in the shade of the regional limited express carriage for train 802, which would take them home to Montre-Lola and complete a two hour ritual all Montre-Lolan university students made for their studies.</p>
+	 	<![CDATA[<img src="/images/carriage.jpg"/> <p>She’d accidentally starched her <em>gi</em> quarter-pleat in the wash. She held it self-consciously against her side as she watched the clouds navigate the sharp mountains that formed Montre’s deepest valleys. Even out here, where human presence was gentle and subservient to the land, Vekllei National Railways had tracks that serviced the smallest villages. Today it was high summer, and the slopes were green and free of ice. They waited in the shade of the regional limited express carriage for train 802, which would take them home to Montre-Lola and complete a two hour ritual all Montre-Lolan university students made for their studies.</p>
 <p>802 was the second of an 800-series trainset that had been manufactured since 2003. These trains came from old society, long before Tzipora or her father had ever been born, back when VK Rail had been the Montre Regional Transport Company. It was crazy to think that the 802 had been around since before the bombs had fallen, and had survived the chaos of the atomic aftermath. It was funny how human creations became guides through history, linking young women like Tzipora to the solemn echoes of the past.</p>
 <p>There was something sobering about that idea, she thought. She was thinking about this as she waited in the carriage, as a younger girl fidgeted in boredom and another whistled away in sleep. The sun was hot on the platform outside and the rising air distorted the bright yellow glint that signalled 802’s approach.</p>
 <hr>
@@ -1683,7 +1683,7 @@ It was summer, and six days after Tzipora had arrived in Japan as a Gregori amba
 	  <![CDATA[Tzipora never lost her youthful curiosity. She would swish about the apartment, chasing an idea or plan that had occurred to her. Baron would look over and say “What are you doing, Zelda? Making trouble?” He said that a lot. He would come home in the afternoon and she would be writing lists, or organising her paperbacks, or moving furniture and he’d say, “What are you up to, Zelda? Making trouble?]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/trouble.jpg"/> <blockquote>
+	 	<![CDATA[<img src="/images/trouble.jpg"/> <blockquote>
 <p>Tzipora never lost her youthful curiosity. She would swish about the apartment, chasing an idea or plan that had occurred to her. Baron would look over and say “What are you doing, Zelda? Making trouble?” He said that a lot. He would come home in the afternoon and she would be writing lists, or organising her paperbacks, or moving furniture and he’d say, “What are you up to, Zelda? Making trouble?” She would say “No, I’m sending out invites for Christmas/learning the Dewey Decimal/going to have a nap in the sun.”</p>
 <p>Zelda had a way of attracting trouble.</p>
 </blockquote>
@@ -1725,7 +1725,7 @@ It was summer, and six days after Tzipora had arrived in Japan as a Gregori amba
 	  <![CDATA[Tzipora is doing well now. She has looked into her heart and made peace with who she is. She has discovered she is a girl who likes free jazz, and milky coffee, and cotton shirts, and trains — to the surprise of no-one who knows her. She knows what things she values in a friend, and what deserves to become family. She knows what clothes she likes and how to do her hair.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/despair.jpg"/> <blockquote>
+	 	<![CDATA[<img src="/images/despair.jpg"/> <blockquote>
 <p>Tzipora is doing well now. She has looked into her heart and made peace with who she is. She has discovered she is a girl who likes free jazz, and milky coffee, and cotton shirts, and trains — to the surprise of no-one who knows her. She knows what things she values in a friend, and what deserves to become family. She knows what clothes she likes and how to do her hair. A year ago, she was a shivering little girl, but today she has become a glowing young woman.</p>
 </blockquote>
 <p>A glowing pleasure though she may be, her nerves are still shot and her past is still with her. Tzipora is a habitual creature, prone to obsessions and addiction, and she’d suffered many vices by the time she met Baron. For a while it had been sleeping pills with the other girls in the Women’s House, chasing the mind-bending effects of a methaqualone high and sleep deprivation. It was about that time she picked up cigarettes, which helped with the tics she was cultivating in her violent poverty.</p>
@@ -1763,7 +1763,7 @@ Hobart here. You might not know it, but I’m sort of a big fucking deal on the 
 Seriously though, this whole renewal of the project through a subreddit (rather than disconnected r/worldbuilding posts) has been an amazing thing.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/1000.jpg"/> <p>Hey everyone,</p>
+	 	<![CDATA[<img src="/images/1000.jpg"/> <p>Hey everyone,</p>
 <p>Hobart here. You might not know it, but I’m sort of a big fucking deal on the internet. No, don’t touch me. Why am I? Because my subreddit just hit 1,000 subscribers. What’s a subreddit? I’m actually laughing at you; imagine not knowing what reddit is. <em>You ingrate</em>.</p>
 <p>Seriously though, this whole renewal of the project through a subreddit (rather than disconnected r/worldbuilding posts) has been an amazing thing. It gives me more wriggle room in what I can talk about, and — even better — allows me introduce you to my characters, who are very precious to me.</p>
 <p>Your State of the Subreddit bulletin follows:</p>
@@ -1794,7 +1794,7 @@ Seriously though, this whole renewal of the project through a subreddit (rather 
 King had offended Zelda with an off-hand comment on her youthful appearance, and she’d retorted with a remark about his weak blood circulation. Moise, caught between his new boss and his angry Zelda, navigated these stormy waters by ignoring the dispute entirely and separating them on the walk home.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/king.jpg"/> <p>The King and Tzipora do not get along. Zelda met him through Moise, when King managed the Domepent School’s cricket team. Moise was a pretty good wicket keeper.</p>
+	 	<![CDATA[<img src="/images/king.jpg"/> <p>The King and Tzipora do not get along. Zelda met him through Moise, when King managed the Domepent School’s cricket team. Moise was a pretty good wicket keeper.</p>
 <p>King had offended Zelda with an off-hand comment on her youthful appearance, and she’d retorted with a remark about his weak blood circulation. Moise, caught between his new boss and his angry Zelda, navigated these stormy waters by ignoring the dispute entirely and separating them on the walk home.</p>
 <p>Although Moise would turn out to be a decent athlete, and she would spend more time around King, she never would come to like him. He was pompous without pomp. For his part, he regarded her as small and cranky. It was not an entirely unreasonable assessment.</p>
 ]]>
@@ -1818,7 +1818,7 @@ From Tzipora’s notebook:
 The witches of Pachinki are an interesting affair — many books have been dedicated to their research after discovery, yet so little is known about them.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/witches.jpg"/> <p>Pachinki is the fantastical notebook of Tzipora, in all her loneliness and thunderous imagination, shared with you all to enjoy. She&rsquo;s so far constructed Pachinki posts about <a href="https://www.reddit.com/r/worldbuilding/comments/ar8jov/a_gem_girl_shows_off_her_enormous_strength_in/">gem children</a>, <a href="https://www.reddit.com/user/MelonKony/comments/azmu94/the_palace_gods_attempt_to_retrieve_their_runaway/">palace henchmen</a>, <a href="https://www.reddit.com/r/worldbuilding/comments/b7n1uh/a_mineral_lake_starts_absorbing_grief_in_pachinki/">sinister earth magics</a>, <a href="https://www.reddit.com/r/worldbuilding/comments/ba3mb4/the_littlest_goddess_in_pachinki/">the Palace Gods</a>, and <a href="https://www.reddit.com/r/vekllei/comments/cudfnv/the_teeth_regents/">teeth regents.</a></p>
+	 	<![CDATA[<img src="/images/witches.jpg"/> <p>Pachinki is the fantastical notebook of Tzipora, in all her loneliness and thunderous imagination, shared with you all to enjoy. She&rsquo;s so far constructed Pachinki posts about <a href="https://www.reddit.com/r/worldbuilding/comments/ar8jov/a_gem_girl_shows_off_her_enormous_strength_in/">gem children</a>, <a href="https://www.reddit.com/user/MelonKony/comments/azmu94/the_palace_gods_attempt_to_retrieve_their_runaway/">palace henchmen</a>, <a href="https://www.reddit.com/r/worldbuilding/comments/b7n1uh/a_mineral_lake_starts_absorbing_grief_in_pachinki/">sinister earth magics</a>, <a href="https://www.reddit.com/r/worldbuilding/comments/ba3mb4/the_littlest_goddess_in_pachinki/">the Palace Gods</a>, and <a href="https://www.reddit.com/r/vekllei/comments/cudfnv/the_teeth_regents/">teeth regents.</a></p>
 <p>From Tzipora’s notebook:</p>
 <p>[A Guide to Magic, Chapter 2: The Witch]</p>
 <p>The witches of Pachinki are an interesting affair — many books have been dedicated to their research after discovery, yet so little is known about them. They are almost universally misandrists, which is understandable considering their present illegality and persecution in the subcontinents of Zen and Domos. They serve only themselves and individuals they happen to like, and spend most of their lives exploring the canyon between the chaos of nature’s fundamental frequencies and the power of human magic.</p>
@@ -1847,7 +1847,7 @@ The witches of Pachinki are an interesting affair — many books have been dedic
 However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my time.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/mafioso.jpg"/> <p>Hello, everyone. It&rsquo;s been six days. I&rsquo;d like to have been here sooner, but I had the good fortune to leave my Apple Pencil in a hotel room in Sydney. Although delighted with my welcome and surprising expense (~$150AUD, or roughly 43 bacon and cheese pull-apart loaves), I&rsquo;ve consequently fallen behind with my off-daily illustrations.</p>
+	 	<![CDATA[<img src="/images/mafioso.jpg"/> <p>Hello, everyone. It&rsquo;s been six days. I&rsquo;d like to have been here sooner, but I had the good fortune to leave my Apple Pencil in a hotel room in Sydney. Although delighted with my welcome and surprising expense (~$150AUD, or roughly 43 bacon and cheese pull-apart loaves), I&rsquo;ve consequently fallen behind with my off-daily illustrations.</p>
 <p>However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my time. I have a document, many thousands of words long, detailing a special kind of script. <a href="https://imgur.com/lL3T32R">The writing is excellent.</a></p>
 <p>I&rsquo;ll give you a hint &ndash; it&rsquo;s not for a film.</p>
 <p>Thanks for sticking with me. I&rsquo;m back. In the meantime, please enjoy this illustration and story.</p>
@@ -1886,7 +1886,7 @@ However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my 
 	  <![CDATA[Although Zelda can&rsquo;t have kids, she mothers whole generations of village children.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/puffinattack.jpg"/> <p>Although Zelda can&rsquo;t have kids, she mothers whole generations of village children.</p>
+	 	<![CDATA[<img src="/images/puffinattack.jpg"/> <p>Although Zelda can&rsquo;t have kids, she mothers whole generations of village children.</p>
 ]]>
   	</content:encoded>
 	</item>
@@ -1905,7 +1905,7 @@ However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my 
 	  <![CDATA[The daughter of a Soviet expat and Hong Konger deckhand, Ayn Rumouisen has never stepped foot outside of Vekllei. A serious fear of flying and the open ocean has hedged her appetite for travel for all of her thirty-two years. She is well respected as an operations consultant within the Americas Bureau at National Intelligence (AB/NI), and is close with the ABNI Operations Director Baron Desmoisnes and Vekllei’s first “Gregori Baby,” Tzipora &ldquo;Zelda&rdquo; Desmoisnes.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/introducingayn.jpg"/> <p>The daughter of a Soviet expat and Hong Konger deckhand, <strong>Ayn</strong> <strong>Rumouisen</strong> has never stepped foot outside of Vekllei. A serious fear of flying and the open ocean has hedged her appetite for travel for all of her thirty-two years. She is well respected as an operations consultant within the Americas Bureau at National Intelligence (AB/NI), and is close with the ABNI Operations Director <strong>Baron Desmoisnes</strong> and Vekllei’s first “Gregori Baby,” <strong>Tzipora &ldquo;Zelda&rdquo; Desmoisnes</strong>.</p>
+	 	<![CDATA[<img src="/images/introducingayn.jpg"/> <p>The daughter of a Soviet expat and Hong Konger deckhand, <strong>Ayn</strong> <strong>Rumouisen</strong> has never stepped foot outside of Vekllei. A serious fear of flying and the open ocean has hedged her appetite for travel for all of her thirty-two years. She is well respected as an operations consultant within the Americas Bureau at National Intelligence (AB/NI), and is close with the ABNI Operations Director <strong>Baron Desmoisnes</strong> and Vekllei’s first “Gregori Baby,” <strong>Tzipora &ldquo;Zelda&rdquo; Desmoisnes</strong>.</p>
 <p>She’s known Baron, Tzipora’s father, for nigh twenty years. They met when she was eighteen, both as cadets in Vekllei’s combat intelligence programme. They dated for a few years before the requirements of intelligence work forced them apart. Baron was sent to South America for nearly a decade, and Ayn stayed behind in the Monitoring &amp; Preparations Department where she published work in the classified journals about events relevant to ABNI. She was also an associate contributor to the “Import Strangle” theoretical model, which has proven successful at plotting the collapse of major U.S. employers (like U.S. Steel in 2065 and Chrysler in 2068) for use in Vekllei foreign policy.</p>
 <p>Baron and Ayn exemplify quiet, uncinematic mateship — people satiated by occasional company and mutual respect, satisfied by their intermittent time together. After Tzipora’s adoption, Baron, now approaching his forties, returned to work as a senior director for the Americas Bureau, and soon found himself in Ayn’s professional orbit. In doing so, he introduced a nervous young satellite called Tzipora to her.</p>
 <p>Tzipora adores Ayn. Ayn is everything Tzipora wants to be. She is even-tempered but strong-willed, graceful but not girlish, fiercely intelligent but pleasantly social. Where Baron is a product of his years in America and is totally professionalised at home and at work, Ayn has enjoyed life in Vekllei and is well-rounded and sweet. It was a shock for Tzipora to see Baron and Ayn in a photograph from their cadetship. Baron straddled a motorcycle, and did not wear spectacles. He was well-built and rough-looking. Ayn was a slender Asian woman dressed in slacks and a sunhat. Ayn today looked very much similar. Baron, in his beard and white-speckled hair, looked like an entirely different person.</p>
@@ -1930,7 +1930,7 @@ However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my 
 	  <![CDATA[For the first six months Baron had known her, Zelda was a serious and wisened young woman who carried symptoms of her troubled past as gracefully as anyone ever could. Poverty ages a person, and she’d nurtured a calm and dispirited disposition. She did not like war films or books with unhappy endings, or loud noises or arguments. She dressed conservatively and spoke quietly and uncontroversially. She had lived a lifetime already, working in exploitation in motels and supermarkets, watching as Utah unraveled around her.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fatlip.jpg"/> <p>For the first six months Baron had known her, Zelda was a serious and wisened young woman who carried symptoms of her troubled past as gracefully as anyone ever could. Poverty ages a person, and she’d nurtured a calm and dispirited disposition. She did not like war films or books with unhappy endings, or loud noises or arguments. She dressed conservatively and spoke quietly and uncontroversially. She had lived a lifetime already, working in exploitation in motels and supermarkets, watching as Utah unraveled around her. She was an immigrant and uneducated, homeless and independent, and so by the time she arrived in Vekllei she was ready to settle down and live quietly.</p>
+	 	<![CDATA[<img src="/images/fatlip.jpg"/> <p>For the first six months Baron had known her, Zelda was a serious and wisened young woman who carried symptoms of her troubled past as gracefully as anyone ever could. Poverty ages a person, and she’d nurtured a calm and dispirited disposition. She did not like war films or books with unhappy endings, or loud noises or arguments. She dressed conservatively and spoke quietly and uncontroversially. She had lived a lifetime already, working in exploitation in motels and supermarkets, watching as Utah unraveled around her. She was an immigrant and uneducated, homeless and independent, and so by the time she arrived in Vekllei she was ready to settle down and live quietly.</p>
 <p>Watching her psyche attempt to reconcile her sombre nature with her desire to be normal and socialise with people her own age was heartbreaking. She had this pathetic, mythical idea of normal girlish life, and it took her a long time to figure out that teen-age life worked differently from films. She had a group of people she hung around, but always on the periphery. She was blatantly disposable and socially innocent, and so she carried on pretending she could somehow rework her own image into the mythologised Coca-Cola teen dream she’d clung to since California.</p>
 <p>Eventually, the idea fell apart. Where she was mousy and pitiful as a school-girl, as Zelda she was uncompromising and principled. As bullying got worse, and her school friends came to resent the parasitic relationship she&rsquo;d worked her way into, things eventually came to a head and the whole thing came crashing down. She got beat up pretty bad, and ruined a new school shirt, but Zelda had fought tougher creatures than Vekllei schoolgirls and she was suspended for the rest of the semester.</p>
 <p>Eventually, Zelda would figure out that she never really needed or wanted the sort of bubbly teen-age friends she’d imagined. Zelda was, after all, not that bubbly or teen-age. Throughout her life, her closest friends were always those that required nothing and gave her space. That was how she liked to be; loved and shown affection, but left to her own devices.</p>
@@ -1952,7 +1952,7 @@ However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my 
 	  <![CDATA[Zelda, for all her outward timidity and mousiness, was mostly self-assured. In the same way that a child is self-assured, in which there is no real epistemology of the self as adults know it. Zelda never grew up to become a real teen-ager, after all — her body is forever thirteen-and-a-half, despite her mature and maternal disposition — and so she had a reckless sort of confidence that never really doubted the premise of her existence.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/shadow.jpg"/> <p>Zelda, for all her outward timidity and mousiness, was mostly self-assured. In the same way that a child is self-assured, in which there is no real epistemology of the self as adults know it. Zelda never grew up to become a real teen-ager, after all — her body is forever thirteen-and-a-half, despite her mature and maternal disposition — and so she had a reckless sort of confidence that never really doubted the premise of her existence.</p>
+	 	<![CDATA[<img src="/images/shadow.jpg"/> <p>Zelda, for all her outward timidity and mousiness, was mostly self-assured. In the same way that a child is self-assured, in which there is no real epistemology of the self as adults know it. Zelda never grew up to become a real teen-ager, after all — her body is forever thirteen-and-a-half, despite her mature and maternal disposition — and so she had a reckless sort of confidence that never really doubted the premise of her existence.</p>
 <p>She did have many weaknesses, however, and she was very conscious of them. They were almost too many to count. The biggest of them, aside from her blatant neurodivergences, was her inability to keep weight on. In her first few months in Vekllei, her skinny frame was symptomatic of her malnourishment in the States. Then, as she struggled to stay above thirty kilos, it became a question of eating habits. Finally, the question was asked — did she have some sort of problem, here? And if so, was it something to do with Gregori syndrome, the comfortable answer? Or was it something more complex — perhaps an eating disorder?</p>
 <p>Aside from her small portions, she did not indicate much in common with other girls her age who struggled with image. In fact, much of physical self-loathing was directed at her thinness, which only emphasised her childish lack of figure and breastlessness. The only times Zelda ever cried over a mirror was when she saw her own scrawny frame that a healthy diet should have been able to remedy. Yet even when she pushed herself, and choked down a second serving, it seemed to hardly make a difference. It was a cycle that would haunt her for a long time, until the age when Gregori women must learn to accept their girlishness in place of traditional ideas of beauty.</p>
 <p>Whatever the case may have been, Zelda has never weighed more than forty kilos except in a winter coat, and she can still count her ribs in bath. What has changed — in a most wonderful way that alleviates much of her suffering — is her ability to love herself, and understand the limitations of her condition. Considering the fact that she has done so much, and despite her childlessness has mothered many boys and girls to adulthood, priorities shift and the importance of beauty fades. She spends more time today being the best Zelda she can be rather than worrying about her image. After all, image is a loser’s game in the life of a Gregori baby. Happiness is only ever found within.</p>
@@ -1976,7 +1976,7 @@ Tzipora is easily squished. In this picture Moise would be around 16, Cobian 15,
 Moise has lost a lot of weight and has been blessed with a hefty frame befitting his temperament. Tzipora &rsquo;s tastes in clothes are specific and mostly unchanging, except for a brief phase a few years after her arrival where she started poaching neckties for her own use.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/squish.jpg"/> <p>Sorry for breaking my streak everyone, I&rsquo;m on beta software and it totally shit the bed these last couple days. I&rsquo;ll be doing my best to hobble along until full release :)</p>
+	 	<![CDATA[<img src="/images/squish.jpg"/> <p>Sorry for breaking my streak everyone, I&rsquo;m on beta software and it totally shit the bed these last couple days. I&rsquo;ll be doing my best to hobble along until full release :)</p>
 <p>Tzipora is easily squished. In this picture Moise would be around 16, Cobian 15, and Tzipora about 18.</p>
 <p>Moise has lost a lot of weight and has been blessed with a hefty frame befitting his temperament. Tzipora &rsquo;s tastes in clothes are specific and mostly unchanging, except for a brief phase a few years after her arrival where she started poaching neckties for her own use. Cobian is conscious of and struggles with the fact that she is not particularly photogenic.</p>
 ]]>
@@ -1998,7 +1998,7 @@ Moise has lost a lot of weight and has been blessed with a hefty frame befitting
 Zelda quickly antagonised the boy by offering him to her own bullies.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/introducingmoise.jpg"/> <p>Moise was a fat kid who went to another school. Zelda only knew him from the tram, where he carried a criminal stigma because of his rumoured gang affiliations. He was a second-generation Vekllei boy of immigrant Greek heritage. There were a few ethnic gangs in his area, and most immigrant boys that didn’t do well in school quickly found other causes to fight for.</p>
+	 	<![CDATA[<img src="/images/introducingmoise.jpg"/> <p>Moise was a fat kid who went to another school. Zelda only knew him from the tram, where he carried a criminal stigma because of his rumoured gang affiliations. He was a second-generation Vekllei boy of immigrant Greek heritage. There were a few ethnic gangs in his area, and most immigrant boys that didn’t do well in school quickly found other causes to fight for.</p>
 <p>Zelda quickly antagonised the boy by offering him to her own bullies. She would point out his weight and he’d point out her clumsy Vekllei language skills and apparent lack of intelligence commonly attributed to foreigners, and so the arms race began.</p>
 <p>Bullying did not come naturally to either of them, since they were on the receiving end most of the time and were not particularly manipulative. She would tell Moise he stunk, he would say she was skeletal and unattractive, and they’d seethe about each other that evening. She would make fun of him for eating a chocolate on the tram, and he stole a hairclip and wouldn’t give it back.</p>
 <p>One day she was walking behind him after alighting the tram and had set to whacking him with her bookbag, demanding the return of her red pencil. She kept pushing him. In a fit of anger he slammed her against a garage door repeatedly, where her head bounced against the corrugated steel and nearly knocked her out. He left her incapacitated on the pavement, and fled.</p>
@@ -2025,7 +2025,7 @@ Total hedonism across a thousand generations produced the creature known as the 
 Three times a day his mouth had to be washed by palace maidens, and excess teeth brushed off.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/regent.jpg"/> <p><strong>From the notebook of Tzipora:</strong></p>
+	 	<![CDATA[<img src="/images/regent.jpg"/> <p><strong>From the notebook of Tzipora:</strong></p>
 <p>Total hedonism across a thousand generations produced the creature known as the ‘tooth regent’, who was a human by technicality but was built genetically only for consuming. His name was Arhen CIII, and where his ancestors had mouths, he had a thousand teeth that sat in messy rows to the back of his throat.</p>
 <p>Three times a day his mouth had to be washed by palace maidens, and excess teeth brushed off. At night, as he slept, the teeth would grow back and occasionally sprout from his cheeks and chin.</p>
 <p>He was one of the most powerful men in all of Zen, the land of gem deserts and magic, and tales of his brutality echoed among the large cities of the subcontinent. His jaws were mounted in his face like hunting traps, and upon bad news he would order the messenger’s hand to be placed in his mouth. That would clamp shut, the poor soul would scream, and minced meat would be spat out by the regent.</p>
@@ -2053,7 +2053,7 @@ Three times a day his mouth had to be washed by palace maidens, and excess teeth
 	  <![CDATA[I should start work on the graphic novel]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/sketches/vigilante.jpg"/> <p>I should start work on the graphic novel</p>
+	 	<![CDATA[<img src="/images/sketches/vigilante.jpg"/> <p>I should start work on the graphic novel</p>
 ]]>
   	</content:encoded>
 	</item>
@@ -2072,7 +2072,7 @@ Three times a day his mouth had to be washed by palace maidens, and excess teeth
 	  <![CDATA[Zelda liked to sleep beside someone, which made her feel safe and loved, but she never had many friends and she hadn’t a mother to share a bed with. And, despite her enthusiasm, she was not very easy to sleep beside. She was prone to jerking movements and night terrors, and alternated between pushing her partner to the periphery and then clutching them in comfort. Like so much of who she was, she was caught between contradictory aesthetics and ideas — at home she might sleep in days-old clothes or underwear, but at Cobian’s house she wore a neat nightdress that emphasised her simple middle-class tastes.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/peace.jpg"/> <p>Zelda liked to sleep beside someone, which made her feel safe and loved, but she never had many friends and she hadn’t a mother to share a bed with. And, despite her enthusiasm, she was not very easy to sleep beside. She was prone to jerking movements and night terrors, and alternated between pushing her partner to the periphery and then clutching them in comfort. Like so much of who she was, she was caught between contradictory aesthetics and ideas — at home she might sleep in days-old clothes or underwear, but at Cobian’s house she wore a neat nightdress that emphasised her simple middle-class tastes. Poverty and nouveau riche, rude and sweet, boyish and cute. Her eternal schisms were put aside in sleep, where only the lithe ghost of her childhood remained, breathing quietly.</p>
+	 	<![CDATA[<img src="/images/peace.jpg"/> <p>Zelda liked to sleep beside someone, which made her feel safe and loved, but she never had many friends and she hadn’t a mother to share a bed with. And, despite her enthusiasm, she was not very easy to sleep beside. She was prone to jerking movements and night terrors, and alternated between pushing her partner to the periphery and then clutching them in comfort. Like so much of who she was, she was caught between contradictory aesthetics and ideas — at home she might sleep in days-old clothes or underwear, but at Cobian’s house she wore a neat nightdress that emphasised her simple middle-class tastes. Poverty and nouveau riche, rude and sweet, boyish and cute. Her eternal schisms were put aside in sleep, where only the lithe ghost of her childhood remained, breathing quietly.</p>
 ]]>
   	</content:encoded>
 	</item>
@@ -2092,7 +2092,7 @@ Three times a day his mouth had to be washed by palace maidens, and excess teeth
 Time-lapse here.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/puffinlogic.jpg"/> <p>i&rsquo;m like that Ben Folds song about escaping your redneck past but instead of redneck it&rsquo;s anime. who stands like this???</p>
+	 	<![CDATA[<img src="/images/puffinlogic.jpg"/> <p>i&rsquo;m like that Ben Folds song about escaping your redneck past but instead of redneck it&rsquo;s anime. who stands like this???</p>
 <p><a href="https://www.instagram.com/p/B1SRoV6D3_w/">Time-lapse here</a>.</p>
 ]]>
   	</content:encoded>

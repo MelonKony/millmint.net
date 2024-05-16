@@ -1,0 +1,2184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Factbook - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    <meta name="robots" content="noindex">
+
+    <link rel="stylesheet" href="./style.min.d19429965f2ba426ef87a49974df4fd1226734c6b078f9d67a83b4b6931a4cd8970db7c029571fca909db64bfaecb94fcb0cd6d04b4c0b8655946474d8aec63b.css" integrity="sha512-0ZQpll8rpCbvh6SZdN9P0SJnNMawePnWeoO0tpMaTNiXDbfAKVcfypCdtkv67LlPywzW0EtMC4ZVlGR02K7GOw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Factbook &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook.html" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="./flexsearch.min.js"></script>
+    <script defer src="./en.search.min.bd08c282333a093220097d8ab928bd1787bc6772cd86f49c069a64f004a9424f.js" integrity="sha256-vQjCgjM6CTIgCX2KuSi9F4e8Z3LNhvScBppk8ASpQk8=" crossorigin="anonymous"></script>
+    
+
+    </head><body data-color="millmint"  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="./">MillMint</a>
+        <a class="emoji" id="whirlybat" href="./">-millmint</a>
+    </div>
+
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="./intro.html" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover active">
+                    
+                       <a href="./factbook.html" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="./factbook/map.html" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./factbook/world/vekllei.html" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./factbook/bulletin.html" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./factbook/characters.html" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="./factbook/world.html" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="./factbook/world/countries.html" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="./factbook/society.html" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="./factbook/society/state.html" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./factbook/society/industry.html" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./factbook/society/technology.html" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./factbook/timeline.html" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="./millmint.html" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="./millmint/about.html" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./millmint/dolls.html" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./millmint/commissions.html" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="./millmint/essays.html" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="./millmint/essays/social-economy.html" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./millmint/essays/ghibli.html" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./millmint/essays/utopie.html" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./millmint/essays/hongkong.html" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="./millmint/essays/west.html" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="./stories.html" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="./stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/killers/"><span class="navicon">📗</span>Story: <i>Killers</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="./stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+
+
+<div>    
+    <header class="info">
+  <h1 class="title">Factbook</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">📓</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="./">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="./factbook.html">
+			Factbook</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  <div class="emoji" id="whirlybat">Π</div>
+  
+
+  <div class="emoji" id="whirlybat">Π</div>
+  
+  
+
+    
+    
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+    
+
+
+
+
+
+    
+
+<article class="autonumber"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <blockquote class="note panel">
+  <span class="text"><a href="./factbook.html"><strong>/factbook/</strong></a> is the encyclopaedia of <a href="./factbook/vekllei">Vekllei</a>, its Commonwealth, and the features of its society. It also includes articles on the <a href="./factbook/characters.html">characters</a> I draw regularly.</span>
+</blockquote>
+
+
+</article></div>
+<details open>
+  <summary><span class="navicon details-title">📓</span><a href="./factbook.html">Factbook</a></summary>
+  
+  
+  <ul>
+    
+    <li>
+      <span class="navicon">🧾</span>
+      <a href="./factbook/bulletin.html">Bulletin</a>
+      
+<ul>
+  
+  <li>                                    
+    <span class="navicon">💸</span>
+    <a href="./factbook/bulletin/accounted-revenue.html"> Calculating Revenue Without Money </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">✈️</span>
+    <a href="./factbook/bulletin/airline-travel.html"> Airline Travel in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🍷</span>
+    <a href="./factbook/bulletin/alcohol.html"> Alcohol in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💸</span>
+    <a href="./factbook/bulletin/automatic-allocation.html"> Allocation of Automatic Machines in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📉</span>
+    <a href="./factbook/bulletin/bankruptcy.html"> Bankruptcy in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌍</span>
+    <a href="./factbook/bulletin/foreign-policy.html"> Foreign Policy in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌺</span>
+    <a href="./factbook/bulletin/government-ownership.html"> Government Ownership in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏞️</span>
+    <a href="./factbook/bulletin/consensus.html"> The Post-War Consensus </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🛢️</span>
+    <a href="./factbook/bulletin/natural-commodities.html"> Natural Commodities in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏭</span>
+    <a href="./factbook/bulletin/lots.html"> One Person, One Factory </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📊</span>
+    <a href="./factbook/bulletin/productivity.html"> Economic Productivity in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏳️</span>
+    <a href="./factbook/bulletin/standardisation.html"> A Common Identity </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🧪</span>
+    <a href="./factbook/bulletin/technology.html"> High and Low Technology in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌐</span>
+    <a href="./factbook/bulletin/elsewhere.html"> Why is the Commons Only Found in Vekllei? </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🫥</span>
+    <a href="./factbook/bulletin/looks.html"> Why do Vekllei People Look Like That? </a>
+    
+  </li>
+  
+</ul>
+    </li>
+    
+    <li>
+      <span class="navicon">🎎</span>
+      <a href="./factbook/characters.html">Cast of Characters</a>
+      
+<ul>
+  
+</ul>
+    </li>
+    
+    <li>
+      <span class="navicon">📖</span>
+      <a href="./factbook/history.html">History of Vekllei</a>
+      
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/history/rosecouncil.html"> Council of Roses </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/history/interim.html"> Interim Prosperity Government </a>
+    
+  </li>
+  
+</ul>
+    </li>
+    
+    <li>
+      <span class="navicon">🗺️</span>
+      <a href="./factbook/map.html">Map</a>
+      
+<ul>
+  
+</ul>
+    </li>
+    
+    <li>
+      <span class="navicon">📓</span>
+      <a href="./factbook/society.html">Society</a>
+      
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏵️</span>
+    <a href="./factbook/society/culture.html"> Culture </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🗳️</span>
+    <a href="./factbook/society/culture/civic-commons.html"> Civic Commons </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">✍</span>
+    <a href="./factbook/society/culture/corcidi.html"> Corcidi Poetry </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">👨‍👩‍👧‍👦</span>
+    <a href="./factbook/society/culture/demographics.html"> Demographics of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📖</span>
+    <a href="./factbook/society/culture/language.html"> Language in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🪬</span>
+    <a href="./factbook/society/culture/metaphysics.html"> Metaphysics in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💀</span>
+    <a href="./factbook/society/culture/religion.html"> Religion in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🕯️</span>
+    <a href="./factbook/society/culture/sagas.html"> Sagas of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🎗️</span>
+    <a href="./factbook/society/culture/veletia.html"> Veletia </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚙️</span>
+    <a href="./factbook/society/industry.html"> Industry in Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏢</span>
+    <a href="./factbook/society/industry/bureaus.html"> Bureaus in Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">⚓️</span>
+    <a href="./factbook/society/industry/bureaus/atlantis.html"> Atlantis </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚛</span>
+    <a href="./factbook/society/industry/bureaus/general-reactor.html"> General Reactor </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🤖</span>
+    <a href="./factbook/society/industry/bureaus/national-machines.html"> National Machines </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🧵</span>
+    <a href="./factbook/society/industry/bureaus/universal-cotton.html"> Universal Cotton </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏬</span>
+    <a href="./factbook/society/industry/crown.html"> Crown Industry of Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">📯</span>
+    <a href="./factbook/society/industry/crown/mail.html"> Royal Mail of Vekllei </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏬</span>
+    <a href="./factbook/society/industry/municipal.html"> Municipal Industry of Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🌾</span>
+    <a href="./factbook/society/industry/municipal/united-grocers.html"> United Grocers </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏬</span>
+    <a href="./factbook/society/industry/private.html"> Private Industry of Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">📻</span>
+    <a href="./factbook/society/industry/private/adelectrics.html"> Adelectrics </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">👔</span>
+    <a href="./factbook/society/industry/private/atlantic-store.html"> Atlantic Department Company </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💥</span>
+    <a href="./factbook/society/industry/private/cateral.html"> Cateral </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🚲</span>
+    <a href="./factbook/society/industry/private/gina.html"> Gina </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏬</span>
+    <a href="./factbook/society/industry/state.html"> State Industry of Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">✈️</span>
+    <a href="./factbook/society/industry/state/cac.html"> Commonwealth Aircraft </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">✈️</span>
+    <a href="./factbook/society/industry/state/air.html"> Commonwealth Airways </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏦</span>
+    <a href="./factbook/society/industry/state/commonwealth-bank.html"> Commonwealth Bank </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛴️</span>
+    <a href="./factbook/society/industry/state/cl.html"> Commonwealth Lines </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🛢️</span>
+    <a href="./factbook/society/industry/state/oil.html"> Commonwealth Oil </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🪐</span>
+    <a href="./factbook/society/industry/state/starlines.html"> Commonwealth Starlines </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">✈️</span>
+    <a href="./factbook/society/industry/state/gaf.html"> Government Aircraft Factories </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🚧</span>
+    <a href="./factbook/society/industry/state/nch.html"> National Construction House </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🚇</span>
+    <a href="./factbook/society/industry/state/rail.html"> Vekllei National Rail </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📈</span>
+    <a href="./factbook/society/industry/state/ratings.html"> Commonwealth Ratings Corporation </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state.html"> The Vekllei State </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏵️</span>
+    <a href="./factbook/society/state/oceans-community.html"> Community of Oceans </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⏳</span>
+    <a href="./factbook/society/state/consosva.html"> Contributory Service in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💮</span>
+    <a href="./factbook/society/state/constituents.html"> Constituents Commonwealths of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏳️</span>
+    <a href="./factbook/society/state/corsosva.html"> Compulsory Service in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📄</span>
+    <a href="./factbook/society/state/documents.html"> Vekllei Document System </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📚</span>
+    <a href="./factbook/society/state/education.html"> Education in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔎</span>
+    <a href="./factbook/society/state/espionage.html"> Espionage in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💮</span>
+    <a href="./factbook/society/state/federalisation.html"> Federalisation in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💵</span>
+    <a href="./factbook/society/state/finance.html"> Finance in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏵️</span>
+    <a href="./factbook/society/state/free-nations.html"> Forum of Free Nations </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state/government.html"> Commonwealth Government </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/cabinet.html"> Commonwealth Cabinet </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/civil-servants.html"> Civil Servants in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/council.html"> Commonwealth Council </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏺</span>
+    <a href="./factbook/society/state/government/senate.html"> Commonwealth Senate </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌍</span>
+    <a href="./factbook/society/state/government/diplomacy.html"> Diplomacy in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/directory.html"> Commonwealth Directory </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state/government/ministries.html"> Ministries of the Commonwealth </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">💵</span>
+    <a href="./factbook/society/state/government/ministries/commerce.html"> Ministry of Commerce </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commerce/bureau-of-securities.html"> Bureau of Securities </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commerce/bureau-of-trade.html"> Bureau of Trade </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🪙</span>
+    <a href="./factbook/society/state/government/ministries/commerce/commonwealth-mint.html"> Commonwealth Mint </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commerce/commonwealth-treasury.html"> Commonwealth Treasury </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💰</span>
+    <a href="./factbook/society/state/government/ministries/commerce/commonwealth-securities-exchange.html"> Commonwealth Securities Exchange </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🎨</span>
+    <a href="./factbook/society/state/government/ministries/culture.html"> Ministry of Culture </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/culture/bureau-of-commonwealth-affairs.html"> Bureau of Commonwealth Affairs </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/culture/bureau-of-press-and-news-media.html"> Bureau of Press &amp; News Media </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/culture/bureau-of-records-and-telegraphs.html"> Bureau of Records &amp; Telegraphs </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/culture/bureau-of-sport.html"> Bureau of Sport </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏢</span>
+    <a href="./factbook/society/state/government/ministries/culture/commonwealth-central-archives.html"> Commonwealth Central Archives </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏢</span>
+    <a href="./factbook/society/state/government/ministries/culture/commonwealth-media-authority.html"> Commonwealth Media Authority </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏢</span>
+    <a href="./factbook/society/state/government/ministries/culture/commonwealth-olympic-committee.html"> Commonwealth Olympic Committee </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏢</span>
+    <a href="./factbook/society/state/government/ministries/culture/national-institute-of-fine-arts.html"> National Institute of Fine Arts </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏢</span>
+    <a href="./factbook/society/state/government/ministries/culture/national-institute-of-history.html"> National Institute of History </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📚</span>
+    <a href="./factbook/society/state/government/ministries/culture/national-library.html"> National Library </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚔️</span>
+    <a href="./factbook/society/state/government/ministries/defence.html"> Ministry of Defence </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">⚔️</span>
+    <a href="./factbook/society/state/government/ministries/defence/military.html"> Armed Forces of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/defence/bureau-of-supply.html"> Bureau of Supply </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/defence/bureau-of-war.html"> Bureau of War </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/defence/cie.html"> Defence Imagery Establishment </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/ministries/defence/dsre.html"> DSRE </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚖️</span>
+    <a href="./factbook/society/state/government/ministries/defence/police-of-the-parliament.html"> Police of the Parliament </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚖️</span>
+    <a href="./factbook/society/state/government/ministries/defence/police-of-the-public.html"> Police of the Public </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌍</span>
+    <a href="./factbook/society/state/government/ministries/foreign-affairs.html"> Ministry of Foreign Affairs </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/foreign-affairs/bureau-of-communications.html"> Bureau of Communications </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/foreign-affairs/bureau-of-home-affairs.html"> Bureau of Home Affairs </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/foreign-affairs/bureau-of-international-missions.html"> Bureau of International Missions </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/foreign-affairs/bureau-of-state.html"> Bureau of State </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚙️</span>
+    <a href="./factbook/society/state/government/ministries/industry.html"> Ministry of Industry </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/industry/bureau-of-hydrocarbons.html"> Bureau of Hydrocarbons </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/industry/bureau-of-production-surveillance.html"> Bureau of Production Surveillance </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/industry/bureau-of-workers.html"> Bureau of Workers </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/ministries/industry/csre.html"> CSRE </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛏️</span>
+    <a href="./factbook/society/state/government/ministries/labour.html"> Ministry of Labour </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/labour/bureau-of-chapels.html"> Bureau of Chapels </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/labour/bureau-of-syndicates.html"> Bureau of Syndicates </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌋</span>
+    <a href="./factbook/society/state/government/ministries/landscape.html"> Ministry of Landscape </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/landscape/bureau-of-agriculture.html"> Bureau of Agriculture </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/landscape/bureau-of-conservation.html"> Bureau of Conservation </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/landscape/bureau-of-materials.html"> Bureau of Materials </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/landscape/bureau-of-meteorology.html"> Bureau of Meteorology </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/ministries/landscape/lsre.html"> LSRE </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚡️</span>
+    <a href="./factbook/society/state/government/ministries/light-and-water.html"> Ministry of Light &amp; Water </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/light-and-water/bureau-of-light.html"> Bureau of Light </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/light-and-water/bureau-of-water.html"> Bureau of Water </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/light-and-water/emergency-light-and-water-authority.html"> Emergency Light &amp; Water Authority </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/ministries/light-and-water/nsre.html"> NSRE </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏡</span>
+    <a href="./factbook/society/state/government/ministries/commons.html"> Ministry of the Commons </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/ministries/commons/asre.html"> ASRE </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-aerospace.html"> Bureau of Aerospace </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-housing.html"> Bureau of Housing </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-oceans.html"> Bureau of Nature </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-nature.html"> Bureau of Oceans </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-public-works.html"> Bureau of Public Works </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-rail.html"> Bureau of Rail </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-roads-and-paths.html"> Bureau of Roads &amp; Paths </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/bureau-of-space.html"> Bureau of Space </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏠</span>
+    <a href="./factbook/society/state/government/ministries/commons/housing-commission.html"> Commonwealth Housing Commission </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🛤️</span>
+    <a href="./factbook/society/state/government/ministries/commons/transport-commission.html"> Commonwealth Transport Commission </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commons/transport-laboratories.html"> Commonwealth Transport Laboratories </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌐</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth.html"> Ministry of the Commonwealth </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/bureau-of-accreditation.html"> Bureau of Accreditation </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/bureau-of-commonwealth-corporations.html"> Bureau of Commonwealth Corporations </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/bureau-of-policy-research.html"> Bureau of Policy Research </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/bureau-of-standards.html"> Bureau of Standards </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/bureau-of-statistics.html"> Bureau of Statistics </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/civil-service-academy.html"> Commonwealth Civil Service Academy </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/commonwealth-electoral-commission.html"> Commonwealth Electoral Commission </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📖</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/commonwealth-public-press.html"> Commonwealth Public Press </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/ministries/commonwealth/siro.html"> SIRO </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌺</span>
+    <a href="./factbook/society/state/government/municipalities.html"> Municipalities in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚱️</span>
+    <a href="./factbook/society/state/government/assembly.html"> National Assemblies of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state/government/parliaments.html"> Commonwealth Parliaments </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏵</span>
+    <a href="./factbook/society/state/government/parliaments/civic.html"> Commonwealth Civic Parliament </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛓️</span>
+    <a href="./factbook/society/state/government/parliaments/community.html"> Commonwealth Community Parliament </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🗳️</span>
+    <a href="./factbook/society/state/government/parliaments/democracy.html"> Commonwealth Democracy Council </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🎓</span>
+    <a href="./factbook/society/state/government/parliaments/education.html"> Commonwealth Education Parliament </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/parliaments/education/bureau-of-public-education.html"> Bureau of Public Education </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/parliaments/education/commonwealth-laboratories.html"> Commonwealth Laboratories </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚕️</span>
+    <a href="./factbook/society/state/government/parliaments/health.html"> Commonwealth Health Parliament </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🔬</span>
+    <a href="./factbook/society/state/government/parliaments/health/msre.html"> MSRE </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚡️</span>
+    <a href="./factbook/society/state/government/parliaments/security.html"> Commonwealth Security Parliament </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">⚡️</span>
+    <a href="./factbook/society/state/government/parliaments/security/cmc.html"> Commonwealth Military Command </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏹</span>
+    <a href="./factbook/society/state/government/parliaments/security/noshem.html"> Noshem </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/society/state/government/sorda.html"> Sorda in Vekllei </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚕️</span>
+    <a href="./factbook/society/state/health.html"> Healthcare in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state/law.html"> Vekllei Law </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">⚖️</span>
+    <a href="./factbook/society/state/law/basic-laws.html"> Vekllei Basic Laws </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⚖️</span>
+    <a href="./factbook/society/state/law/century-society.html"> Century Society Laws </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state/law/rights.html"> Universal Civil Rights of the New Atlantic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌸</span>
+    <a href="./factbook/society/state/law/constitution.html"> Constitution of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🪓</span>
+    <a href="./factbook/society/state/law/deathpenalty.html"> Death Penalty in Vekllei </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🚔</span>
+    <a href="./factbook/society/state/police.html"> Police in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏡</span>
+    <a href="./factbook/society/state/housing.html"> Property in Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💮</span>
+    <a href="./factbook/society/state/republics.html"> Republics of Vekllei </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💮</span>
+    <a href="./factbook/society/state/territories.html"> Territories of the Vekllei Commonwealth </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🖐️</span>
+    <a href="./factbook/society/state/wag.html"> Work Action Groups </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🧪</span>
+    <a href="./factbook/society/technology.html"> Technology in Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🖥</span>
+    <a href="./factbook/society/technology/computers.html"> Computing in Vekllei </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+</ul>
+    </li>
+    
+    <li>
+      <span class="navicon">⏳</span>
+      <a href="./factbook/timeline.html">Timeline of Atlantic History</a>
+      
+<ul>
+  
+</ul>
+    </li>
+    
+    <li>
+      <span class="navicon">🌐</span>
+      <a href="./factbook/world.html">World</a>
+      
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🌐</span>
+    <a href="./factbook/world/boroughs.html"> Boroughs of Oslola </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">⚓️</span>
+    <a href="./factbook/world/boroughs/bakur.html"> The Borough of Bakur </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌊</span>
+    <a href="./factbook/world/boroughs/eyri.html"> The Borough of Eyri </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🫑</span>
+    <a href="./factbook/world/boroughs/holsyim.html"> The Borough of Holsyim </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🗼</span>
+    <a href="./factbook/world/boroughs/krafla.html"> The Borough of Krafla </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🚀</span>
+    <a href="./factbook/world/boroughs/lita.html"> The Borough of Lita </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🪷</span>
+    <a href="./factbook/world/boroughs/lola.html"> The Borough of Lola </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🤸‍♀️</span>
+    <a href="./factbook/world/boroughs/mirah.html"> The Borough of Mirah </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌋</span>
+    <a href="./factbook/world/boroughs/miyatvousi.html"> The Borough of Miyatvousi </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏖</span>
+    <a href="./factbook/world/boroughs/mumen.html"> The Borough of Mumen </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🛶</span>
+    <a href="./factbook/world/boroughs/ou.html"> The Borough of Ou </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">✈️</span>
+    <a href="./factbook/world/boroughs/pharos.html"> The Borough of Pharos </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌿</span>
+    <a href="./factbook/world/boroughs/santes.html"> The Borough of Santes </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🐉</span>
+    <a href="./factbook/world/boroughs/troll.html"> The Borough of Troll </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">💧</span>
+    <a href="./factbook/world/boroughs/voya-voya.html"> The Borough of Voya Voya </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛵️</span>
+    <a href="./factbook/world/boroughs/yana.html"> The Borough of Yana </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌍</span>
+    <a href="./factbook/world/countries.html"> Countries </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🍵</span>
+    <a href="./factbook/world/countries/ceylon.html"> The Socialist Republic of Ceylon </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🔱</span>
+    <a href="./factbook/world/countries/denmark.html"> Kingdom of Denmark </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌊</span>
+    <a href="./factbook/world/countries/east-india.html"> East Indian Socialist Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛓️</span>
+    <a href="./factbook/world/countries/haiti.html"> Black Republic of Haiti </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">☸️</span>
+    <a href="./factbook/world/countries/india.html"> Republic of India </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🐘</span>
+    <a href="./factbook/world/countries/latin-africa.html"> Latin African United Republics </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🦈</span>
+    <a href="./factbook/world/countries/maldives.html"> Republic of the Maldives </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌾</span>
+    <a href="./factbook/world/countries/mauritius.html"> Republic of Mauritius </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛵️</span>
+    <a href="./factbook/world/countries/portugal.html"> The Second Portuguese Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🏝️</span>
+    <a href="./factbook/world/countries/seychelles.html"> Republic of Seychelles </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">☕️</span>
+    <a href="./factbook/world/countries/uk.html"> United Kingdom </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌍</span>
+    <a href="./factbook/world/countries/un.html"> United Nations </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌐</span>
+    <a href="./factbook/world/places.html"> Places in Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🏛️</span>
+    <a href="./factbook/world/places/comet.html"> Comet Assembly </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🚀</span>
+    <a href="./factbook/world/places/astroport.html"> Vekllei World Astroport </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">📖</span>
+    <a href="./factbook/world/places/moshel.html"> Moshel Street School </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/world/vekllei.html"> Commonwealth of Vekllei </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/world/vekllei/antarctic.html"> Commonwealth Antarctica </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🐢</span>
+    <a href="./factbook/world/vekllei/antarctic/ascension.html"> Ascension Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🦀</span>
+    <a href="./factbook/world/vekllei/antarctic/falklands.html"> Falklands Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🐦‍⬛</span>
+    <a href="./factbook/world/vekllei/antarctic/helena.html"> Helena Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🦞</span>
+    <a href="./factbook/world/vekllei/antarctic/santes.html"> Santes Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🎣</span>
+    <a href="./factbook/world/vekllei/antarctic/sude.html"> Sude Republic </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/world/vekllei/arctic.html"> Commonwealth Arctic </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🐻‍❄️</span>
+    <a href="./factbook/world/vekllei/arctic/helvasia.html"> Helvasia Republic </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌴</span>
+    <a href="./factbook/world/vekllei/antilles/caimanas.html"> Caimanas </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/world/vekllei/kalina.html"> Commonwealth Kalina </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">☘️</span>
+    <a href="./factbook/world/vekllei/kalina/allia.html"> Allia Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌲</span>
+    <a href="./factbook/world/vekllei/kalina/aloubaera.html"> Aloubaera Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌶️</span>
+    <a href="./factbook/world/vekllei/kalina/cama.html"> Cama Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌲</span>
+    <a href="./factbook/world/vekllei/kalina/kairi.html"> Kairi Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🛢️</span>
+    <a href="./factbook/world/vekllei/kalina/virgin.html"> Virgin Republic </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/world/vekllei/lucaya.html"> Commonwealth of Lucaya </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🍹</span>
+    <a href="./factbook/world/vekllei/lucaya/rum.html"> Rum Republic </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🦅</span>
+    <a href="./factbook/world/vekllei/atlantic/verde.html"> Verde Republic </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌹</span>
+    <a href="./factbook/world/vekllei/volcanic.html"> Volcanic Commonwealth </a>
+    
+    
+<ul>
+  
+  <li>                                    
+    <span class="navicon">🐏</span>
+    <a href="./factbook/world/vekllei/volcanic/aismious.html"> Aismious </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">⛪️</span>
+    <a href="./factbook/world/vekllei/volcanic/demon.html"> Republic of Demon </a>
+    
+  </li>
+  
+  <li>                                    
+    <span class="navicon">🌋</span>
+    <a href="./factbook/world/vekllei/volcanic/oslola.html"> Oslola </a>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+</ul>
+    
+  </li>
+  
+</ul>
+    </li>
+    
+  </ul>
+  
+</details>
+
+
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook.html">Factbook</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 16/05/2024</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Factbook</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="./js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
+</body>
+
+</html>

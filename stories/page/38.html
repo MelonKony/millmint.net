@@ -1,0 +1,1826 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Stories - MillMint</title>
+
+    
+    <meta name="description" content="Stories of life and living in the country of Vekllei." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="../../style.min.d19429965f2ba426ef87a49974df4fd1226734c6b078f9d67a83b4b6931a4cd8970db7c029571fca909db64bfaecb94fcb0cd6d04b4c0b8655946474d8aec63b.css" integrity="sha512-0ZQpll8rpCbvh6SZdN9P0SJnNMawePnWeoO0tpMaTNiXDbfAKVcfypCdtkv67LlPywzW0EtMC4ZVlGR02K7GOw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Stories &middot; MillMint" />
+    <meta property="og:description" content="Stories of life and living in the country of Vekllei." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/stories.html" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="../../flexsearch.min.js"></script>
+    <script defer src="../../en.search.min.bd08c282333a093220097d8ab928bd1787bc6772cd86f49c069a64f004a9424f.js" integrity="sha256-vQjCgjM6CTIgCX2KuSi9F4e8Z3LNhvScBppk8ASpQk8=" crossorigin="anonymous"></script>
+    
+
+    </head><body data-color="millmint"  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="../../">MillMint</a>
+        <a class="emoji" id="whirlybat" href="../../">-millmint</a>
+    </div>
+
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="../../intro.html" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="../../factbook.html" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../../factbook/map.html" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../factbook/world/vekllei.html" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../factbook/bulletin.html" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../factbook/characters.html" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="../../factbook/world.html" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../../factbook/world/countries.html" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="../../factbook/society.html" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../../factbook/society/state.html" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../factbook/society/industry.html" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../factbook/society/technology.html" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../factbook/timeline.html" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="../../millmint.html" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../../millmint/about.html" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../millmint/dolls.html" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../millmint/commissions.html" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="../../millmint/essays.html" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../../millmint/essays/social-economy.html" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../millmint/essays/ghibli.html" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../millmint/essays/utopie.html" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../millmint/essays/hongkong.html" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../../millmint/essays/west.html" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item active">
+                  
+                    <a href="../../stories.html" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="../../stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/killers/"><span class="navicon">📗</span>Story: <i>Killers</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="../../stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+
+
+
+
+
+
+<div class="postcard-layout">
+  <ul class="postcard-grid">
+    
+    <li class="card" href="../../stories/bread/">
+      <a href="../../stories/bread/">
+        <div class="postcard-meta">
+          <div class="title">I like bread
+          </div>
+          <div class="date">2019/09/09</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/bread_huce9f5bb0f11da6ba768e3413f69a26cd_480291_983d93ce66297436d4d907d5ba73bf3f.jpg 320w,
+    /images/bread_huce9f5bb0f11da6ba768e3413f69a26cd_480291_66b152f529e095555dfbd96c874ec9d6.jpg 600w,
+    /images/bread_huce9f5bb0f11da6ba768e3413f69a26cd_480291_75a5e0b3afcf47e2acaaaeb1f441e631.jpg 2x"
+    class="page" src="../../images/bread_huce9f5bb0f11da6ba768e3413f69a26cd_480291_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/foreign-legion/">
+      <a href="../../stories/foreign-legion/">
+        <div class="postcard-meta">
+          <div class="title">The Face of War in the 21st Century
+          </div>
+          <div class="date">2019/09/08</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/foreignlegion_huc39e2d39c513ada45c6f672696db119a_432320_9ce52f508fd0c92fd8c44ab578eba257.jpg 320w,
+    /images/foreignlegion_huc39e2d39c513ada45c6f672696db119a_432320_1eb9652831066b3cb2cbfa577c7d8006.jpg 600w,
+    /images/foreignlegion_huc39e2d39c513ada45c6f672696db119a_432320_5757f9dd05acd93fac02861b6c66c9df.jpg 2x"
+    class="page" src="../../images/foreignlegion_huc39e2d39c513ada45c6f672696db119a_432320_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/fishing/">
+      <a href="../../stories/fishing/">
+        <div class="postcard-meta">
+          <div class="title">Tesmosnen, the Festival of Fasting
+          </div>
+          <div class="date">2019/09/07</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/fishing_hue926c2ba2ca4fdc1dae6e30a6f326f00_387361_58334e8366054f58d788fcc7f47d6836.jpg 320w,
+    /images/fishing_hue926c2ba2ca4fdc1dae6e30a6f326f00_387361_9265d965a4c5a8c7b564d93c4617ab57.jpg 600w,
+    /images/fishing_hue926c2ba2ca4fdc1dae6e30a6f326f00_387361_7fed612a3f624bd64d4a34a2eb6d0f9d.jpg 2x"
+    class="page" src="../../images/fishing_hue926c2ba2ca4fdc1dae6e30a6f326f00_387361_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/autokinetheodolite/">
+      <a href="../../stories/autokinetheodolite/">
+        <div class="postcard-meta">
+          <div class="title">A Most Complex Machine, the Autokinotheodolite
+          </div>
+          <div class="date">2019/09/06</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/autokinetheodolite_hu0969c256b9969a38c707b50e3ee59056_430303_395f5cf429c368e4a1f71841f9590795.jpg 320w,
+    /images/autokinetheodolite_hu0969c256b9969a38c707b50e3ee59056_430303_d6caed1c30ff2e1a86b29dc485a1c5d7.jpg 600w,
+    /images/autokinetheodolite_hu0969c256b9969a38c707b50e3ee59056_430303_cfc088f566368a14223d6e6ea500c2c1.jpg 2x"
+    class="page" src="../../images/autokinetheodolite_hu0969c256b9969a38c707b50e3ee59056_430303_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/fat-lip/">
+      <a href="../../stories/fat-lip/">
+        <div class="postcard-meta">
+          <div class="title">Big Mouth, Fat Lip
+          </div>
+          <div class="date">2019/09/05</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/fatlip_hu64495a5342932bfb429b78344c0facde_453493_e58d8bdd284a380e2d164a0f9d0783e7.jpg 320w,
+    /images/fatlip_hu64495a5342932bfb429b78344c0facde_453493_7ba05dd7f58834d10738175fa529d8ed.jpg 600w,
+    /images/fatlip_hu64495a5342932bfb429b78344c0facde_453493_41b5e69635b5804624f48536df6b9e6b.jpg 2x"
+    class="page" src="../../images/fatlip_hu64495a5342932bfb429b78344c0facde_453493_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/railway/">
+      <a href="../../stories/railway/">
+        <div class="postcard-meta">
+          <div class="title">The Mountain Railway
+          </div>
+          <div class="date">2019/09/04</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/railway_hu7553e78fafe28b766b40ff173e08eec8_523830_1035eb66e64d71affdbc430704643544.jpg 320w,
+    /images/railway_hu7553e78fafe28b766b40ff173e08eec8_523830_f094fac7ddb6fabf3794ed36a93d5801.jpg 600w,
+    /images/railway_hu7553e78fafe28b766b40ff173e08eec8_523830_0e0f6dbf26f92cdedd636ab3d91373ac.jpg 2x"
+    class="page" src="../../images/railway_hu7553e78fafe28b766b40ff173e08eec8_523830_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/an-introduction/">
+      <a href="../../stories/an-introduction/">
+        <div class="postcard-meta">
+          <div class="title">A Brief Introduction to Vekllei
+          </div>
+          <div class="date">2019/09/03</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/lola_hu98c501638a9cd9dc51b3d0393fb6e0c6_845293_44e141c812cc2ae6d99d392a55ad965a.jpg 320w,
+    /images/lola_hu98c501638a9cd9dc51b3d0393fb6e0c6_845293_7bd7a2f6355babf7036c0e2783a07e27.jpg 600w,
+    /images/lola_hu98c501638a9cd9dc51b3d0393fb6e0c6_845293_b545f3f712e1b2e20271d29431d204a9.jpg 2x"
+    class="page" src="../../images/lola_hu98c501638a9cd9dc51b3d0393fb6e0c6_845293_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/shadow/">
+      <a href="../../stories/shadow/">
+        <div class="postcard-meta">
+          <div class="title">Lighter Than Her Shadow
+          </div>
+          <div class="date">2019/09/03</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/shadow_hua0a4cac02684db3dfa82fd7ffac959c1_522334_9dc0c626e5d48b3c26199c6ba2b5d8cf.jpg 320w,
+    /images/shadow_hua0a4cac02684db3dfa82fd7ffac959c1_522334_a1b7f33db475b9775d1e27dec249af90.jpg 600w,
+    /images/shadow_hua0a4cac02684db3dfa82fd7ffac959c1_522334_ea23f2a0757e842397e15d8c5544dc43.jpg 2x"
+    class="page" src="../../images/shadow_hua0a4cac02684db3dfa82fd7ffac959c1_522334_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/valley-of-faith-and-sorrow/">
+      <a href="../../stories/valley-of-faith-and-sorrow/">
+        <div class="postcard-meta">
+          <div class="title">The Valley of Faith and Sorrow
+          </div>
+          <div class="date">2019/09/02</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/valley_huee18a3526fbd8e176de02c6ced7770d2_485789_4b943e59c6e04782ba6557cfdd7adc9b.jpg 320w,
+    /images/valley_huee18a3526fbd8e176de02c6ced7770d2_485789_54d01b6e86b1ba3bb043ec6ca8395707.jpg 600w,
+    /images/valley_huee18a3526fbd8e176de02c6ced7770d2_485789_4333541f4e770d55f8c7d9c2bccae180.jpg 2x"
+    class="page" src="../../images/valley_huee18a3526fbd8e176de02c6ced7770d2_485789_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+    <li class="card" href="../../stories/squish/">
+      <a href="../../stories/squish/">
+        <div class="postcard-meta">
+          <div class="title">Squish!
+          </div>
+          <div class="date">2019/09/01</div>
+        </div>
+        <div class="postcard-image">
+          
+  
+    <img srcset="
+    /images/squish_hu8670e3f5e7b6f26e1149b1847601b743_422181_f6a228d85c177989008f416e35398e45.jpg 320w,
+    /images/squish_hu8670e3f5e7b6f26e1149b1847601b743_422181_86f7ad43b5c2018ad1554ceb768a1d7e.jpg 600w,
+    /images/squish_hu8670e3f5e7b6f26e1149b1847601b743_422181_8042ca0e9b9195f7839818ee0777c371.jpg 2x"
+    class="page" src="../../images/squish_hu8670e3f5e7b6f26e1149b1847601b743_422181_1500x0_resize_q90_box.jpg" alt="">
+  
+
+        </div>
+      </a>
+    </li>
+    
+  </ul>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="page-holder">
+  <ul class="pagination">
+
+    
+    <li class="page-item">
+      <a class="prev" href="../../stories/page/37.html"><i>←</i></a>
+    </li>
+    
+
+    
+
+      
+
+        
+
+        
+          
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+        <li class="page-item">
+          <a href="../../stories.html">1</a>
+        </li>
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+          
+            <li><span>...</span></li>
+          
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+
+        
+
+      
+
+      
+      
+        <li class="page-item">
+          <a href="../../stories/page/36.html">36</a>
+        </li>
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+
+        
+
+      
+
+      
+      
+        <li class="page-item">
+          <a href="../../stories/page/37.html">37</a>
+        </li>
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+
+        
+
+      
+
+      
+      
+        <li class="page-item active">
+          <a href="../../stories/page/38.html">38</a>
+        </li>
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+
+        
+
+      
+
+      
+      
+        <li class="page-item">
+          <a href="../../stories/page/39.html">39</a>
+        </li>
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+
+        
+
+      
+
+      
+      
+        <li class="page-item">
+          <a href="../../stories/page/40.html">40</a>
+        </li>
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+          
+            <li><span>...</span></li>
+          
+        
+
+        
+
+      
+
+      
+      
+
+    
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+          
+        
+
+      
+
+      
+      
+        <li class="page-item">
+          <a href="../../stories/page/49.html">49</a>
+        </li>
+      
+
+    
+
+    
+    <li class="page-item" href="../../stories/page/39.html">
+      <a class="next" href="../../stories/page/39.html"><i>→</i></a>
+    </li>
+    
+
+  </ul>
+</div>
+
+
+</div>
+
+
+
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/stories.html">Stories</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 16/05/2024</span>
+    <span class="pill">
+      <div class="pill-category">stories</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Stories</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="../../js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
+</body>
+
+</html>

@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Nico</title>
-	<link>https://millmint.net/characters/nico/</link>
+	<link>https://millmint.net/characters/nico.html</link>
 	<description>Recent content in Nico </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -32,7 +32,7 @@
 	  <![CDATA[ A portrait for my friend Nico. Happy birthday, dear friend! 🌺 ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/nico.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/nico.jpg"/> <blockquote class="note caption">
   <span class="text">A portrait for my friend Nico. Happy birthday, dear friend! 🌺</span>
 </blockquote>
 

@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Countries</title>
-	<link>https://millmint.net/factbook/world/countries/</link>
+	<link>https://millmint.net/factbook/world/countries.html</link>
 	<description>Recent content in Countries </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/world/countries/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Ceylon</title>
-	  <link>https://millmint.net/factbook/world/countries/ceylon/</link>
+	  <link>https://millmint.net/factbook/world/countries/ceylon.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/ceylon/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/ceylon.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -45,10 +45,10 @@ Ceylon is home to 19.5 million people, and is a rapidly developing country with 
 	
 	<item>
 	  <title>Denmark</title>
-	  <link>https://millmint.net/factbook/world/countries/denmark/</link>
+	  <link>https://millmint.net/factbook/world/countries/denmark.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/denmark/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/denmark.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -71,10 +71,10 @@ Despite its small population and size, Denmark has contributed extensively to Eu
 	
 	<item>
 	  <title>East India</title>
-	  <link>https://millmint.net/factbook/world/countries/east-india/</link>
+	  <link>https://millmint.net/factbook/world/countries/east-india.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/east-india/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/east-india.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -100,10 +100,10 @@ Despite its small population and size, Denmark has contributed extensively to Eu
 	
 	<item>
 	  <title>Haiti</title>
-	  <link>https://millmint.net/factbook/world/countries/haiti/</link>
+	  <link>https://millmint.net/factbook/world/countries/haiti.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/haiti/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/haiti.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -126,10 +126,10 @@ Despite its small population and size, Denmark has contributed extensively to Eu
 	
 	<item>
 	  <title>India</title>
-	  <link>https://millmint.net/factbook/world/countries/india/</link>
+	  <link>https://millmint.net/factbook/world/countries/india.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/india/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/india.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -151,10 +151,10 @@ This article is under construction, please check back soon.]]>
 	
 	<item>
 	  <title>Latin Africa</title>
-	  <link>https://millmint.net/factbook/world/countries/latin-africa/</link>
+	  <link>https://millmint.net/factbook/world/countries/latin-africa.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/latin-africa/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/latin-africa.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -178,10 +178,10 @@ Latin Africa is a major power in subsaharan Africa and enjoys vast natural resou
 	
 	<item>
 	  <title>Maldives</title>
-	  <link>https://millmint.net/factbook/world/countries/maldives/</link>
+	  <link>https://millmint.net/factbook/world/countries/maldives.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/maldives/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/maldives.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -204,10 +204,10 @@ The Maldives are coral atolls, and as such are flat and low-lying, rarely rising
 	
 	<item>
 	  <title>Mauritius</title>
-	  <link>https://millmint.net/factbook/world/countries/mauritius/</link>
+	  <link>https://millmint.net/factbook/world/countries/mauritius.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/mauritius/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/mauritius.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -230,10 +230,10 @@ Mauritius has a comfortable subtropical climate, with a cool and a hot season.]]
 	
 	<item>
 	  <title>Portugal</title>
-	  <link>https://millmint.net/factbook/world/countries/portugal/</link>
+	  <link>https://millmint.net/factbook/world/countries/portugal.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/portugal/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/portugal.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -268,10 +268,10 @@ Portugal was incorporated into Iberia following the Spanish invasion of Portugal
 	
 	<item>
 	  <title>Seychelles</title>
-	  <link>https://millmint.net/factbook/world/countries/seychelles/</link>
+	  <link>https://millmint.net/factbook/world/countries/seychelles.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/seychelles/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/seychelles.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -293,10 +293,10 @@ Portugal was incorporated into Iberia following the Spanish invasion of Portugal
 	
 	<item>
 	  <title>United Kingdom</title>
-	  <link>https://millmint.net/factbook/world/countries/uk/</link>
+	  <link>https://millmint.net/factbook/world/countries/uk.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/uk/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/uk.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -318,10 +318,10 @@ This article is under construction, please check back soon.]]>
 	
 	<item>
 	  <title>United Nations</title>
-	  <link>https://millmint.net/factbook/world/countries/un/</link>
+	  <link>https://millmint.net/factbook/world/countries/un.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/countries/un/</guid>
+	  <guid>https://millmint.net/factbook/world/countries/un.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

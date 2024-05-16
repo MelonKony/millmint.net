@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Yo</title>
-	<link>https://millmint.net/characters/yo/</link>
+	<link>https://millmint.net/characters/yo.html</link>
 	<description>Recent content in Yo </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -32,7 +32,7 @@
 	  <![CDATA[Feat. Tzipora, Cobian and her older brother Yo Dressed for an evening at the Atlantic Lounge. Vekllei people love to dance.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/lounge.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/lounge.jpg"/> <blockquote class="note caption">
   <span class="text">Feat. Tzipora, Cobian and her older brother Yo</span>
 </blockquote>
 

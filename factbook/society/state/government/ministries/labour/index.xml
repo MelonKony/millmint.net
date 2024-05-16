@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ministry of Labour</title>
-	<link>https://millmint.net/factbook/society/state/government/ministries/labour/</link>
+	<link>https://millmint.net/factbook/society/state/government/ministries/labour.html</link>
 	<description>Recent content in Ministry of Labour </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/labour/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureau of Chapels</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-chapels/</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-chapels.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-chapels/</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-chapels.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -41,10 +41,10 @@
 	
 	<item>
 	  <title>Bureau of Syndicates</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-syndicates/</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-syndicates.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-syndicates/</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/labour/bureau-of-syndicates.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

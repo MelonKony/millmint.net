@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Laura</title>
-	<link>https://millmint.net/characters/laura/</link>
+	<link>https://millmint.net/characters/laura.html</link>
 	<description>Recent content in Laura </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -33,7 +33,7 @@
 Because government cars are made to the same standard as police cruisers, they&rsquo;re actually really sporty little things beneath their plain exterior.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/housing.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/housing.jpg"/> <blockquote class="note caption">
   <span class="text">Laura drives an Avro GTV for work. Less than 10% of Vekllei people have drivers licenses.</span>
 </blockquote>
 
@@ -58,7 +58,7 @@ Because government cars are made to the same standard as police cruisers, they&r
 In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/inspectors.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/inspectors.jpg"/> <blockquote class="note caption">
   <span class="text">Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.</span>
 </blockquote>
 

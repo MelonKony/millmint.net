@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Boroughs</title>
-	<link>https://millmint.net/factbook/world/boroughs/</link>
+	<link>https://millmint.net/factbook/world/boroughs.html</link>
 	<description>Recent content in Boroughs </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/world/boroughs/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Eyri</title>
-	  <link>https://millmint.net/factbook/world/boroughs/eyri/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/eyri.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/eyri/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/eyri.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -31,7 +31,7 @@
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Eyri is an administrative region on the far northwest coast of Vekllei, located in the Afouismeh Region north of Bakur and south of Basa. It is named after Eyri, an isolated coastal community employed mostly in controlled aquaculture by the Ocean Bureau. This quiet borough abounds with myth and legend related to its long seafaring history, emphasised only by the colossal wreck of the nearby icebreaking submarine Sea Serpent.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/serpent.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/serpent.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -78,10 +78,10 @@
 	
 	<item>
 	  <title>Mirah</title>
-	  <link>https://millmint.net/factbook/world/boroughs/mirah/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/mirah.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/mirah/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/mirah.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -90,7 +90,7 @@
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Mirah is an administrative region on the west coast of Vekllei, located east of Tohs and south of Geame. It is named after Mirah, its largest population centre and fishing town dependent largely on deepwater trawling in the Vekllei Sea. It is also home to the Vekllei International Casino, a hotel and resort available only to foreigners, which resides in the town of Gigayeh.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/waterfront.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/waterfront.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -135,10 +135,10 @@
 	
 	<item>
 	  <title>Miyatvousi</title>
-	  <link>https://millmint.net/factbook/world/boroughs/miyatvousi/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/miyatvousi.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/miyatvousi/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/miyatvousi.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -147,7 +147,7 @@
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Miyatvousi is an administrative region in northern Vekllei, located in the Lava Region north of Groisniyah and southwest of Lita. Its area is highly volcanic and is home to several natural features, including the Gismavik Dome and the Miyatsimi Geyser Fields. The area outside of the city of Miyatvousi is sparsely populated and mostly claimed by flower-tundras and Crown Land.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/hollywood.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/hollywood.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -164,7 +164,7 @@
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p><strong>Miyatvousi</strong> is an <a href="/factbook/society/culture/language/#history">Old Vekllei</a> combination of the words for &ldquo;mineral&rdquo; and &ldquo;vision,&rdquo; which in this case refer to indigenous mythos around still, mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.</p>
+<p><strong>Miyatvousi</strong> is an <a href="/factbook/society/culture/language.html#history">Old Vekllei</a> combination of the words for &ldquo;mineral&rdquo; and &ldquo;vision,&rdquo; which in this case refer to indigenous mythos around still, mirror-like pools common to flower tundras in the area. Its name implies a connection between the physical landscape of the Miyatvousi area and the spirit world.</p>
 <h2 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -232,10 +232,10 @@
 	
 	<item>
 	  <title>Troll</title>
-	  <link>https://millmint.net/factbook/world/boroughs/troll/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/troll.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/troll/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/troll.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -245,7 +245,7 @@
 Troll is sparsely-populated, and only includes the minor town of Troll and several smaller informal settlements.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/orange.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/orange.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -272,9 +272,9 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 <blockquote>
 <p>Of course I&rsquo;ve met a troll. It was one of the nicest creatures I&rsquo;ve ever met.</p>
 </blockquote>
-<p>&ndash; <a href="/factbook/characters/#tzipora-zelda-desmoisnes">Tzipora Desmoisnes</a></p>
+<p>&ndash; <a href="/factbook/characters.html#tzipora-zelda-desmoisnes">Tzipora Desmoisnes</a></p>
 <p>Although Troll has a signicant cultural history within Vekllei, it is a relatively recent borough. The town of Troll received a trading license in 1823, which is considered its founding as a borough. Little is recorded about its settlement prior to its incorporation, but it is known that nomadic Algic Vekllei had remained in the area for hundreds, if not thousands of years prior.</p>
-<p>Although an important cultural site in <a href="/factbook/society/culture/religion/">Upen</a>, the area around Troll is highly volcanic and spiritually complicated, and its status as isolated, resource-poor land prevented permanent settlement for most of Vekllei&rsquo;s history.</p>
+<p>Although an important cultural site in <a href="/factbook/society/culture/religion.html">Upen</a>, the area around Troll is highly volcanic and spiritually complicated, and its status as isolated, resource-poor land prevented permanent settlement for most of Vekllei&rsquo;s history.</p>
 <h3 id="postwar-development">
   Postwar Development
   <a class="anchor" href="#postwar-development">#</a>
@@ -344,10 +344,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Voya Voya</title>
-	  <link>https://millmint.net/factbook/world/boroughs/voya-voya/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/voya-voya.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/voya-voya/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/voya-voya.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -356,7 +356,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Voya Voya is an administrative region in southwest Vekllei, located in the Capital Region north of Coyenstisn and east of Lo. It covers the entire area of Voya Voya, a city of some 450,000 people in the capital&rsquo;s extended metro area renowned for its parkland and green spaces. Voya Voya makes up part of the capital&rsquo;s satellite belt of boroughs, characterised by green space and mixed-use residential planning.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/rivers.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/rivers.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -373,7 +373,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p><strong>Voya Voya</strong> is transliterated as &ldquo;Good Good,&rdquo; through in practice is better translated as &ldquo;Good Place,&rdquo; analogous to English towns like &ldquo;Goodwood.&rdquo; It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern <a href="/vekllei/#administrative-divisions">Crown Land</a>. It is only one of a handful of Vekllei cities to use <em>Topyas</em> emphasis through repetition, which has more or less been superseded in modern Vekllei by <a href="/factbook/society/culture/language/#phonetic-reading">duplicate consonants</a>.</p>
+<p><strong>Voya Voya</strong> is transliterated as &ldquo;Good Good,&rdquo; through in practice is better translated as &ldquo;Good Place,&rdquo; analogous to English towns like &ldquo;Goodwood.&rdquo; It refers to the natural temperate rainforests of its area, much of which are preserved in its parks and in its northern <a href="/vekllei/#administrative-divisions">Crown Land</a>. It is only one of a handful of Vekllei cities to use <em>Topyas</em> emphasis through repetition, which has more or less been superseded in modern Vekllei by <a href="/factbook/society/culture/language.html#phonetic-reading">duplicate consonants</a>.</p>
 <h2 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -451,10 +451,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Bakur</title>
-	  <link>https://millmint.net/factbook/world/boroughs/bakur/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/bakur.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/bakur/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/bakur.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -509,10 +509,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Holsyim</title>
-	  <link>https://millmint.net/factbook/world/boroughs/holsyim/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/holsyim.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/holsyim/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/holsyim.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -521,7 +521,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Holsyim is an administrative region in the east of Vekllei, located north-east of Seisyo and south-west of Fyell. It is named after Holsyim, its largest population centre. The town of Holsyim borders the Holsyim lo Kronaismioudelfia (Holsyim Crown Land), an isolated natural and spiritual preserve home to some of Vekllei&rsquo;s oldest temperate rainforests. It is also a popular resort town, and receives many domestic tourists each year.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/moss.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/moss.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -566,10 +566,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Krafla</title>
-	  <link>https://millmint.net/factbook/world/boroughs/krafla/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/krafla.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/krafla/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/krafla.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -578,7 +578,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Krafla is an administrative region in the north of Vekllei, located in the Lava Region around the Joskuslsa river, north of Lita and south of Kotaismoyeh. The town of Krafla makes up part of a belt of borough capitals along the banks of the Joskuslsa river, formed by glacial runoff from the Vatnayoskusl glacier. It is a sparsely-populated and agricultural borough, and most notable as the site of Vekllei&rsquo;s first hydroelectric power plant, which was destroyed in the Krafla Dam Disaster in 1911.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/liminal.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/liminal.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -653,15 +653,86 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Krafla High-Energy Communications Tower
   <a class="anchor" href="#krafla-high-energy-communications-tower">#</a>
 </h3>
-<p>
+<p><figure>
+  <a href="/images/basecamp.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
 
 
- 
-<figure>
-  <img src="/images/basecamp.jpg" alt="smallimg"  title="The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*" loading="lazy" />
-  <figcaption>The Krafla HET marks the landscape for miles around | <em><a href="/posts/2020-07-21-base-camp/">Base Camp</a></em></figcaption>
-</figure>
-</p>
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+
+  
+  
+  
+
+  
+  
+
+	
+	
+	<noscript>
+	  <img class="rcf-image"
+		srcset="/images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_2040x0_resize_q90_box.jpg 3x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_1360x0_resize_q90_box.jpg 2x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_1020x0_resize_q90_box.jpg 1.5x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_850x0_resize_q90_box.jpg 1.25x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_680x0_resize_q90_box.jpg 1x"
+		src="/images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_680x0_resize_q90_box.jpg"alt="smallimg" title="The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*" 
+		loading="lazy"
+	  />
+	</noscript>
+
+	
+	<img class="rcf-image lazyload show-if-js"
+	  data-srcset="/images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_2040x0_resize_q90_box.jpg 3x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_1360x0_resize_q90_box.jpg 2x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_1020x0_resize_q90_box.jpg 1.5x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_850x0_resize_q90_box.jpg 1.25x, /images/basecamp_hu2fcd9b386ab35ec52af475ed4d1bfe96_1021955_680x0_resize_q90_box.jpg 1x"
+	  data-src="/images/basecamp.jpg"
+	  src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAMAAgAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AN6iiiszMKKKKACiiikAUVJHGJKtx2wCZK1zVcVTpGlKlUqFEKT0BqUQyEjPerkEkTybFAyKlnkjjtpHYcoMiuH&#43;076KmdX1U5jxU1paWHlyv&#43;8b7oWvPz7Vpatey6neySSfKoPANZtenhadSnTvUMqhH3qRVLSARjJ9KI4w8nWuj0DRxJOJyciukyOclikifbIm1qixXY65oT3TtNA3zD&#43;GuZuLOW3GxwVf0oA9KooorMzCiiigApCQByarXstxbR&#43;ZBF5nqtZs97fy2TN9l2N9aRojUa5XcEjaphqW1/LaUbh1ya5fy9VVfMixn&#43;7WW&#43;l6teXTMAyFupJrhq0qVU9Ol&#43;7Oz1HXrLT08xZFMmOgrj7vxTe3UhPmsqnsKz9W028sGVbo7x/CRVCOunDYGnTOarVqF4y/aHJdvlquepxSUda6jl3HIGZgFBJPYV6doOmXH9kxSbNp2/drJ8G&#43;H1aZb24KlNvyqwr0KDAiIix9BXm47Hezfs6Z1U6RzF7HJZRvIF3Pt&#43;7XB3&#43;qTXEziSNVP0r0e8EhlIkrz3xHZC2v94f73OK7aLujlZ29FFFMzCiiigAqhc3mJvJI4q/WfdiOS4&#43;b&#43;Gsap04X&#43;KRLdfZkeQ9AK56/8UHYVtuH/vGty6j822dI&#43;pGK4W&#43;sZ7OU&#43;b0rPC06dQ9PE1CS61O7vkVZ5N22qOeaTzKWPrXpnmFmN&#43;OlT2qq8wVupPFV4o3L8Vq2Ni9xICGVXXpWVUKR3emQyWljGoJYAc1rW9zKE3xK1c/YSXUVuImbc3rW9ZTOwCSYTb96vmqurPTsR3Lyu&#43;&#43;QYrmNf0k3qecn31ra13XLW2XZFMHl/u&#43;lYmnaw9xOUuSqhvu16&#43;Fv7I8yrS/eG9RRSPKE4rpMhaKjNwoGSQKhl1OztovMklXHtQBZmO2InOKwpZm8081W1HxBDOuyFztrGe&#43;dptseTRVpXOrC/uzoZbpYrYyDk1x&#43;oak945Dr0rXTV1T93LFkd8VhaiY5btnhXalGFpezNMTVKtSDFR0V3nKW4jg9a17GURzo5fC9650F/WpgWI2DdWVVXGdbP4jgsiFT9426qd34pu7ubMOUToa51Ixu5yxrZsdKgudgExV27Vy/VadPU6fa1KhSmnd5dzAknvVm2lLn0Irci8OxeeEeU4rVi8GQP88Mjmj6zSRnVpVKZfuZfs8e&#43;qMcpaTeeRUuqnEFU7a5j8rHeuaqdOWey6l77Qsj7HQKvvVe60u1uITiME&#43;tRk&#43;ZUhufIgxtJ&#43;lFIeOwv/LxHOzWcGTH5eMU5IoY14wpp&#43;patEyYjQmRfvcVhySTzjzMMBXd7M5faDtZSCN0MDlmb71ZnPvWkkDvHkx9PWqxeMEgpWtMyKtHmdttSkf3RQgT0rUQRp61et5AnRM1Swc1YTgfLWIE8kUUnz8rREZbeQPC5qFJ3&#43;4RVqE7yP4dtA7mhba/LFIDODuWuw0TxfZyRMkxWNq4iZhJjEa1q2MdrHH&#43;&#43;tU/3q4qtKmae1qGzqRjkt3&#43;f56wopFj&#43;8wqSa7373kOyoEmtnT5XXNI6qVP2X7uoW/OYc5GKfDfIJf3jKAPes65bdHjGPxxVaLT7aWRTKzbf96nY0quoTajeWwkMpCjd6VmXuso9qsMKBfert1penLx5jH8aypNJQvmJ2P1rX3Dm/eFb7VJ030g2Hl2q02izrtyVG71q1H4au5R8jLXT7WkjP2VQy/tEY4pPtMY7VqxeFpnuNkkq1f/AOEMjdMLcYPuKy&#43;tUw&#43;rVDm/to/gSlF1XRDwLwx&#43;1/d9BXO6law6bc&#43;SzM7dz0opVadQKlL2Yn2kA96nF6nTvRotlaajK4llZfSumtNE0&#43;0YyyfvFH96ipV9mKlT9oc8LwnoSK07G8MrbHnChvUVDqmsW4kMVpaRKg43bck1Rj1J9u3y0z/u0GZWuL65uOHY1GpkHKk59qn2jf0q1A8SdRQdXs/ald7i5mChtxpUmmj676ubmf7gxUu0eX843Ue0NPqxS&#43;0Sy9UNaFk7SrtWNifpVzT1tzGd61bt2ZJsQgKtZVahrSwxmXMkqSCNUYeu6r0OrSWMeDCxOKu6hbrHB580qs59O3tVFJQY9524965v4hoW9PjnvZftUmIl9Kv3P7t40jO5m71gSam8Zwr8e1Mj1dzMi7s0eyH&#43;7OlCyRoV81B3OTWBe21nqYucmMyr096h1MrcjeJmVv8AerIs7Of&#43;0ovKDyEt&#43;FaUqVjGrUUCpBbXWjXQeaIorHK571dvNbkuY/LT5VrsNW8LX1xp51C7ZBFEvEY61yttaQGT7nHvXV&#43;7OKm/sUzG5znvUgrp5NNsI4t79f4arfZrePnyuPej2gvZmKkouH&#43;SnopB5FYtibiOTIzXYaUsd3bnemXFFUdKqUPM8sfep0cskvyr09atTwQm48sgfhVhYEUbIoyZMfdFZe0Oq5WhuPJkwGGa1IjPbjz2ZGB6CuYN/bwTMsyMrK3Nac&#43;sWk1uhjduP4cVkZe1NDUJ5LkIHh2jGfrWVcTSCPYmAtbGnNbapGgeRlxxVqXw/Z&#43;bsW4JJ5xin7Q6f4hxxMh6mpU/dp5neuxj8HxuMibg1GfBqO5QXS/7prT2tMXszkLWV5dQiEnzRF/mrut8Vlq6RwQBflDJkVlWvhiOKWYT3GwpyvHX6UybXbH7VEJzMXt&#43;FK/xfWs/4lQ4qz/d6nbeIbu7vfDskiJsCKPMArzv7fFGE2xjP1rZ1nx5Nd6PLY2lpt3Lhm9q848&#43;YsqtnOa6adI5VV/59nQ3l/JKeSFWiC93oqSNu/u1j77gfNsJqR455AhHyt6VpoPU3bPwrqWFJh2/jV&#43;Hw/qUOQi7A3XBrv8AMUaFtwCgVjRXZnuWhjbcFPU9a8j2p6fsqZz1roWqWhMiBJW/2&#43;aqT3eoWepJPJaE8bDgVuTanPDqGyRzGgbtU8us2V6DAjKs3Z5OlaidI5zQPDa6vdXDXEWWL7trHGKTxbpEVjcpFawqhK8qtX4Zr3SJ5ZnXfGW5dOlakFpbaz&#43;/u45FlP3SeMitf4ZzU/3kPZnn9ol3acqrqK6OC9ufs2&#43;VGbsrAc12Vpp&#43;kJ&#43;7UK5HY1dYWkabREny4wMVlUxX9w6aWFqL7ZzthqN19k2rCfl7HrUkuoNHEZ5baRX/ALtbcTeZOdsIA9RUt1BEkRkkwyr2rhqVTX2Z5h4gvtWvIxszFH2AHNZFpGyxkuctjkmuv13WDaOyi3DI4wuR0rlUbcxb1Fe5gP4Z4WZ9i9ZgK6s44PFRxabHNeM2zbtYnmpI/wDVLWzpduJoXl3fORjn2oxP7v8AeHNlj19mSW0emxqkbxgsfvVL9i083e0RcVWbZGjsRuJ56VW&#43;1Er5n3StcN7n0NjQjvpLu5C&#43;YcY9amgnFtq5U/xDiuetJTp97GZGJTbU0&#43;ppLciSNeV6Vl7IPaFnxDL5V4rsflNUm0gXUSm1vFkkdhlMYIqeS2fUli3tl2auqgfQvD9zF9pRfPCAnvXVS1/dmVWrUpfvGUb3S7zT9BiSS4LruG5Mf1qzcXqWWk27tKA5GAD1qxqnjazv7draO0Hl9mrCtruxuXkW7hLK5/75&#43;laVaVQ4Viabq/GWrWaeP/SI1BzzQfESzXCo6gOp&#43;b3FVQk9hJ/ozebaE4U/3frVCaMPciVE&#43;9wfrXD7M9NVDUm8QXS3BSJlVH6etRx63fzkwO3yCs4CF3Rz95DinWquHaVidrNij2Q7jdcE0kAfhlNY0Q4x3rpvLRrNmK5TdVe206O41BoVX5tuVxXdhsT7I8vHYGrif3lMzI/uY71taL8kmHqLUtPOnJFKVxubFIt3FEhKODLxRisT7Wn&#43;7MsBhamGq&#43;0qHRXemCSzaSMflXOTWM0PzBSy&#43;lbC39ydNKrMq7jnNYd9qB&#43;07JZG2Kv8NeZS9qexVZsajpttK2xFXLfpWbNpMcWYh97H3ql0&#43;ZH3vJIzNmpLoiTJWb8K1OX2pc0uCNJo3blYULGuS1W/e&#43;1WScdN2BXU26i30meYycMMZrlrWH7Q8ky/6pW&#43;9iu7A/uzPM/aVaVOxa0&#43;Ge5uUiEW4NXbTeGrC0gSeSba3BK1yen3MkN8kUciqD/F3Aq1q0&#43;oX7C3gYeUPvNnrRVq1KlQyw2FpU6f/Twk1DVbOG/jSzP7vo6joakmiikmC2R3KSGPtWfFovzZkcL8uBWppttLZsNjqV71xVvZ0/4Z6dL2gh0fyd7lN2TmqizxrYvbmM8MeR2rqhg2ckznpWLd2cM0OVfYH9O9ctKrd/vDSrTqGRDqHlQNbrF5iZzurTsnEkq3CRbXUgVmDTgh2LJj8asQ&#43;bZSKjN8pPUnFdxz&#43;1qUzS8TlJdOtlf5TuJrkiIVY/Md306V02oRPdRROH3jnj0rMGnjOXWj&#43;GZVb1ahhzXbDaEkOBUKSmST5v1rXudIjdmeIqP9ms2S1kiK4Ga0MvZ1DYEcgMiRrik&#43;xTlep31NJLi4&#43;SrUV0j9&#43;azNaXszMaPUDbG32naaoR2N/bRPCisUY54NdN9oH96l81P71HtTX92cyul3zOJIyQ49asSXt6qrG0Q3rxlTit4SVUuYn8zzECmj2ovZdShZpqd5mPccD1rW0oCC5ZbmbLjouams9b&#43;zQ7DAin1xUDTpIZJTCu9&#43;h70qlL2g6VWxoS38bQLHG52hvmHrWffxyTXaKOF2/LzUVxBEoSSAMAv31JqOKdRL5jBpF9Celc1PC&#43;zqe0OmriqdSmRyh4GwYpAfXNOsYI9RlKXU3lxjuTzV46pE0LoyBht6elY5kZTlCMGu44TePk27&#43;XasXjToT3qOS8RfvrWXFcyf5FWUvIk/1oBrP2RpSqFiKKG4bfHuz/dpmo2Ijj3&#43;UVpbW9jjv0dGCpWnrN1Bc2TfON3tR7Izqn//2Q=="
+	  data-sizes="auto"alt="smallimg" title="The Krafla HET marks the landscape for miles around | *[Base Camp](/posts/2020-07-21-base-camp/)*" 
+	  loading="lazy"
+	/>
+
+  </a>
+
+  
+    <figcaption>The Krafla HET marks the landscape for miles around | <em><a href="/posts/2020-07-21-base-camp/">Base Camp</a></em></figcaption>
+</figure></p>
 <p>The Krafla High-Energy Communications Tower was constructed by the Commonwealth Telecom Directorate in 2028 to improve electric switchboard service in Vekllei&rsquo;s north-east. An old-fashioned mast radiator design, the guyed tower radiates vertically polarised radio waves that service most of the Home Islands.</p>
 <p>The Krafla HET makes up part of the low-frequency emergency radio network, and contributes to the communications redundancy measures of the Home Islands.</p>
 <h3 id="krafla-pipe-company">
@@ -693,10 +764,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Lita</title>
-	  <link>https://millmint.net/factbook/world/boroughs/lita/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/lita.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/lita/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/lita.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -705,7 +776,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Lita is an administrative region in the east of Vekllei, located in the Lava Region west of Copette and south-east of Krafla. It is named after Lita, its largest population centre and science town nestled in the glacial basins made by millions of years of freshwater runoff. It is well-known in Vekllei as the site of the Lita Cosmodrome, the primary launch site for industrial and scientific spacecraft.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/rocket.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/rocket.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -750,10 +821,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Lola</title>
-	  <link>https://millmint.net/factbook/world/boroughs/lola/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/lola.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/lola/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/lola.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -762,7 +833,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Lola is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei&rsquo;s oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei&rsquo;s most well-known boroughs and makes up part of Vekllei&rsquo;s &ldquo;original city&rdquo; boundary along its southwest coast.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/lola.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/lola.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -770,7 +841,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   <span class="text">This article is about a <a href="/factbook/landscape/boroughs"><strong>borough</strong></a> of <a href="/vekllei/"><strong>Vekllei</strong></a></span>
 </blockquote>
 
-<p><strong>The borough of Lola</strong> is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei&rsquo;s oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei&rsquo;s most well-known boroughs and makes up part of Vekllei&rsquo;s &ldquo;original city&rdquo; boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of <a href="/factbook/characters/#tzipora">Tzipora</a>.</p>
+<p><strong>The borough of Lola</strong> is an administrative region in southwest Vekllei, located in the Capital Region on the ancient city of Reykyavic, south of Sojiya and east of Lava. It includes several of Vekllei&rsquo;s oldest inhabited urban neighbourhoods, including Reykjavic, Hosfyourd and Seispri. Characterised by historical architecture and a dense low-rise cityscape, Lola is among Vekllei&rsquo;s most well-known boroughs and makes up part of Vekllei&rsquo;s &ldquo;original city&rdquo; boundary along its southwest coast. The neighbourhood of Seispri in Lola is the home of <a href="/factbook/characters.html#tzipora">Tzipora</a>.</p>
 <blockquote>
 <p><em>Tzipora’s brief phase as a self-described Bolshevik began during recess on the roof of the Lola 6th School’s science block</em></p>
 </blockquote>
@@ -779,7 +850,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p><strong>Lola</strong> is the spirit-god of the sea in <a href="/factbook/society/culture/religion/">Upen</a> mythology, and is generally considered Vekllei&rsquo;s most important living spirit. Since Vekllei is an island country with a historical dependence on the oceans around it, Lola has long blessed Vekllei with plentiful fish stocks and, beginning in the 19th Century, an improving temperate climate via the Atlantic Gulf Stream. The name Lola appears throughout Vekllei, though the borough predates its use elsewhere.</p>
+<p><strong>Lola</strong> is the spirit-god of the sea in <a href="/factbook/society/culture/religion.html">Upen</a> mythology, and is generally considered Vekllei&rsquo;s most important living spirit. Since Vekllei is an island country with a historical dependence on the oceans around it, Lola has long blessed Vekllei with plentiful fish stocks and, beginning in the 19th Century, an improving temperate climate via the Atlantic Gulf Stream. The name Lola appears throughout Vekllei, though the borough predates its use elsewhere.</p>
 <h2 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -797,15 +868,31 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Postwar Development
   <a class="anchor" href="#postwar-development">#</a>
 </h3>
-<p>
+<p><figure>
+  <a href="/images/images/recess.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="https://images.millmint.net/images/recess.jpg" alt="smallimg"  loading="lazy" />
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/recess.jpg"alt="smallimg" 
+	  loading="lazy"
+	/>
+</a>
+
   
-</figure>
-</p>
+    <figcaption></figcaption>
+</figure></p>
 <p>The Atomic War saw nuclear strikes in Reykjavic and Geofyourd, destroying both the Junta&rsquo;s Palace of the Commonwealth and most of the Port of Vekllei. The port was reconstructed under British occupation between 2005 and 2013, but the Palace was unsalvagable and to this day remains a preserved ruin.</p>
 <p>Upon independence, the <a href="/interim/">Vekllei Interim Government</a> moved the capital of Vekllei to the newly-founded Borough of Vekllei (also known as Vekllei Proper) on the South Coast, which would become a planned city home to most of the country&rsquo;s political structures and bureau headquarters. The reconstruction of Reykjavic and decontamination of Lola took over fifteen years, and radically changed the appearance and demographics of the former capital. Agriculture was reintroduced into the neighbourhoods of Alveg and Hosfyourd to combat Vekllei&rsquo;s 2016 famine and the construction of the Southwest Canals in the 2020s saw most of southern Lola industrialise rapidly.</p>
 <p>Lola has historically been a multicultural borough because of its status as a colonial metropole, and this trend was intensified under the rapid growth of the Floral Period. Boroughs like Seispri have large Southern European communities, and nearby Vogah is one of Vekllei&rsquo;s few historically black neighbourhoods comprised mostly of descendents of Caribs.</p>
@@ -814,15 +901,31 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Geography
   <a class="anchor" href="#geography">#</a>
 </h2>
-<p>
+<p><figure>
+  <a href="/images/images/gardencity.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="https://images.millmint.net/images/gardencity.jpg" alt="smallimg"  loading="lazy" />
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/gardencity.jpg"alt="smallimg" 
+	  loading="lazy"
+	/>
+</a>
+
   
-</figure>
-</p>
+    <figcaption></figcaption>
+</figure></p>
 <p>Lola is coastal and low-lying, and is made up of peninsulas, islands, islets, coves and straights. During the Ice Age, it was covered by a glacier. The borough is threatened by rising seas, volcanic eruptions and earthquakes.</p>
 <p>The neighbourhoods of Lola cover almost all of the borough, which has no contemporary Crown Lands. The borough does feature substantial parkland in the neighbourhoods of Seispri, Alveg and Geofyourd, which extent up into the Esja Mountains.</p>
 <p>The climate is coastal and temperate, seeing mean temperatures of 20C in summer and about 5C in winter. Snow settles in Lola for one or two weeks in the winter, and for most of the season in the Esja Mountains.</p>
@@ -830,7 +933,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Seispri
   <a class="anchor" href="#seispri">#</a>
 </h3>
-<p>The municipality of Seispri is <a href="/factbook/characters/">Tzipora&rsquo;s</a> home. Historically industrial, today it is primarily settled by Southern and Eastern European migrants who arrived in the early 2020s. It is relatively material-poor and working-class, and is still marked by war ruins. It is known for its canvas industry.</p>
+<p>The municipality of Seispri is <a href="/factbook/characters.html">Tzipora&rsquo;s</a> home. Historically industrial, today it is primarily settled by Southern and Eastern European migrants who arrived in the early 2020s. It is relatively material-poor and working-class, and is still marked by war ruins. It is known for its canvas industry.</p>
 <h3 id="esja-mountains">
   Esja Mountains
   <a class="anchor" href="#esja-mountains">#</a>
@@ -846,15 +949,31 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   <a class="anchor" href="#infrastructure">#</a>
 </h2>
 <p>With industry inherited from a thousand years of settlement, Lola remains a major manufacturing base of Vekllei. In the Floral Period it is characterised mostly as a working-class suburb of migrants and manual labourers, a trend that continues today. Much of its heavy engineering is a legacy of the borough&rsquo;s status as a colonial port, and among Lola&rsquo;s oldest companies are shipbuilding firms that have existed for over 600 years.</p>
-<p>
+<p><figure>
+  <a href="/images/images/wine.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="https://images.millmint.net/images/wine.jpg" alt="smallimg"  loading="lazy" />
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/wine.jpg"alt="smallimg" 
+	  loading="lazy"
+	/>
+</a>
+
   
-</figure>
-</p>
+    <figcaption></figcaption>
+</figure></p>
 <p>Lola is serviced by Vekllei Rail West, a part of <a href="/factbook/society/industry/rail/">Vekllei National Rail</a>. Like most boroughs of the Capital Region, it is heavily serviced by trams.</p>
 <p>As a coastal borough, Lola is home to the historical Port of Vekllei, one of Vekllei&rsquo;s major deepwater ports. Unlike the Dohyo Free Port, the Port of Vekllei services mostly Commonwealth-flagged ships and naval vessels.</p>
 <h3 id="vekllei-naval-yards">
@@ -924,10 +1043,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Mumen</title>
-	  <link>https://millmint.net/factbook/world/boroughs/mumen/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/mumen.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/mumen/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/mumen.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -936,7 +1055,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Mumen is an administrative region on the southwest coast of Vekllei, located in the Capital Region south of Pharos and west of Little Vekllei. It is named after Mumen, the city neighbourhood to which it belongs. It is home to one of Vekllei&rsquo;s primary immigrant processing centres, and now hosts a thriving immigrant community populated mostly by Southern Europeans.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/sketches/sandmage.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/sketches/sandmage.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -984,10 +1103,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Ou</title>
-	  <link>https://millmint.net/factbook/world/boroughs/ou/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/ou.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/ou/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/ou.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -996,7 +1115,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Ou is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei&rsquo;s Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei&rsquo;s five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/hydro.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/hydro.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -1004,7 +1123,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   <span class="text">This article is about a <a href="/factbook/landscape/boroughs"><strong>borough</strong></a> of <a href="/vekllei/"><strong>Vekllei</strong></a></span>
 </blockquote>
 
-<p><strong>The borough of Ou</strong> is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei&rsquo;s Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei&rsquo;s five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne. Its importance to <a href="/factbook/society/culture/religion/">Upen</a> leads most Upen-observing Vekllei people to regard Ou as a sacred borough.</p>
+<p><strong>The borough of Ou</strong> is an administrative region in the central Ro Highlands of Vekllei, located southwest of Laisiyo and north of Kyala. It is named after Ou, a prominent agricultural town of Vekllei&rsquo;s Middle Period that was transformed in the 20th Century into the cultural and military centre of the Ro Region. At nearly 1.2 million residents, Ou was narrowly excluded from becoming one of Vekllei&rsquo;s five Crown Boroughs in 2021, but remains the second-largest borough of the Ro Highlands, after Lonne. Its importance to <a href="/factbook/society/culture/religion.html">Upen</a> leads most Upen-observing Vekllei people to regard Ou as a sacred borough.</p>
 <blockquote>
 <p><em>Many townsfolk in Ou are employed in operation of the dam, either through the Thunder or Hydroburos. It is also the site of a small Vekllei National University laboratory which examines the dam environment and trains its staff.</em></p>
 </blockquote>
@@ -1013,7 +1132,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p><strong>Ou</strong> is a <a href="/factbook/society/culture/language/#history"><em>Topyas</em></a> pure <a href="/factbook/society/culture/language/#diphthongs">Ocean Vowel</a> meaning &ldquo;spirit&rdquo; or &ldquo;personhood&rdquo;, and in its written form is considered a core <a href="/factbook/society/culture/language/#4-rapotenne">Rapotenne</a> rune in <a href="/factbook/society/culture/religion/">Upen</a>. Ou is regarded as the birthplace of demons in Upen mythology, who emerged from the Valley of the Dead to return humans to the spirit world. For this reason, Ou is considered a sacred borough in Vekllei and much of its territory remains untouchable <a href="/vekllei/#administrative-divisions">Crown Land</a>.</p>
+<p><strong>Ou</strong> is a <a href="/factbook/society/culture/language.html#history"><em>Topyas</em></a> pure <a href="/factbook/society/culture/language.html#diphthongs">Ocean Vowel</a> meaning &ldquo;spirit&rdquo; or &ldquo;personhood&rdquo;, and in its written form is considered a core <a href="/factbook/society/culture/language.html#4-rapotenne">Rapotenne</a> rune in <a href="/factbook/society/culture/religion.html">Upen</a>. Ou is regarded as the birthplace of demons in Upen mythology, who emerged from the Valley of the Dead to return humans to the spirit world. For this reason, Ou is considered a sacred borough in Vekllei and much of its territory remains untouchable <a href="/vekllei/#administrative-divisions">Crown Land</a>.</p>
 <h2 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -1031,7 +1150,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 <p>[There were] sick mountains, falling to spirits, between Sko and Nuc [present-day Mt Scohe and the Adey Range], the spirit went there to die, and from the place he died emerged a creature of misfortune, blessed by Ku [god of death].</p>
 </blockquote>
 <p>&ndash; Verse 16, <em>Saga of Spirits</em></p>
-<p>Demons in <a href="/factbook/society/culture/religion/">Upen</a> are creatures that emerge from the places spirits die, and access the human world through the resting places of souls (most commonly flower-tundras). The <em>Saga of Spirits</em> suggests that demons were created accidentally by a selfish spirit and the death of a wicked man, and that Ku, the god of death, learned from this event how to entice their creation.</p>
+<p>Demons in <a href="/factbook/society/culture/religion.html">Upen</a> are creatures that emerge from the places spirits die, and access the human world through the resting places of souls (most commonly flower-tundras). The <em>Saga of Spirits</em> suggests that demons were created accidentally by a selfish spirit and the death of a wicked man, and that Ku, the god of death, learned from this event how to entice their creation.</p>
 <p>As demons remain an important aspect of Upen mythology, Ou&rsquo;s Valley of the Dead (the place described in the passage above) is regarded as one of the most sacred sites in Vekllei. Its closest town, Tiamoin, is the site of Vekllei&rsquo;s Festival of Rest, a spectacle designed to attract the attention of demons to allow human souls easy passage to the spirit world. Since the Valley of the Dead&rsquo;s flower-tundra is considered especially close to the spirit world, many other rituals take place here, including <a href="/posts/2020-04-01-ego/">sumoirnesdenen</a> (ego-death) and communion with spirits.</p>
 <h3 id="hydrotown-development">
   Hydrotown Development
@@ -1107,10 +1226,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Pharos</title>
-	  <link>https://millmint.net/factbook/world/boroughs/pharos/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/pharos.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/pharos/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/pharos.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1119,7 +1238,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Pharos is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of Mumen and west of Lola. It is best known for its World Jetport, which supports much of its aerospace industry. Despite its international reputation as the masthead of Vekllei aerospace, Pharos is a deeply cultural borough with a rich history, and is home to residents with descendants from all over the world.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/lightbulb.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/lightbulb.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -1127,7 +1246,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   <span class="text">This article is about a <a href="/factbook/landscape/boroughs"><strong>borough</strong></a> of <a href="/vekllei/"><strong>Vekllei</strong></a></span>
 </blockquote>
 
-<p><strong>The borough of Pharos</strong> is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of <a href="/factbook/landscape/boroughs/mumen/">Mumen</a> and west of <a href="/factbook/landscape/boroughs/lola/">Lola</a>. It is best known for its <a href="/factbook/world/boroughs/pharos/#vekllei-world-jetport">World Jetport</a>, which supports much of its aerospace industry. Despite its international reputation as the masthead of Vekllei aerospace, Pharos is a deeply cultural borough with a rich history, and is home to residents with descendants from all over the world.</p>
+<p><strong>The borough of Pharos</strong> is an administrative region in the south-west of Vekllei, located in the Capital Region on the Coast of the Americas, north of <a href="/factbook/landscape/boroughs/mumen/">Mumen</a> and west of <a href="/factbook/landscape/boroughs/lola/">Lola</a>. It is best known for its <a href="/factbook/world/boroughs/pharos.html#vekllei-world-jetport">World Jetport</a>, which supports much of its aerospace industry. Despite its international reputation as the masthead of Vekllei aerospace, Pharos is a deeply cultural borough with a rich history, and is home to residents with descendants from all over the world.</p>
 <blockquote>
 <p><em>These were pleasant, poor boroughs of the Capital lighted by all corners of the world. They are also strikingly diverse in landscape — West Uclo is mostly pre-war, filled with low-rise Junta-era row houses and coffee shops. East Uclo contains some of Vekllei’s rare “towers in the park” — vertical neighbourhoods in the sky.</em></p>
 </blockquote>
@@ -1145,12 +1264,12 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 <p>It&rsquo;s unbelievable. I mean, I almost can&rsquo;t believe it. It&rsquo;s something you read about as a child, but it&rsquo;s never something I&rsquo;d imagine I&rsquo;d get to see. And here I am, about to visit the moon.</p>
 </blockquote>
 <p>&ndash; Tzipora</p>
-<p>Pharos has a long history of settlement, twinned with <a href="/factbook/landscape/boroughs/lola/">Lola</a> (then Oslola) as Vekllei&rsquo;s first urban area. It has evidence of settlement dating back 3,000 years. Algic peoples used the borough&rsquo;s sheltered coastline for hunting and fishing, and tools from 2,000 BC have been found in the present-day municipalities of <a href="/factbook/world/boroughs/pharos/#uclo">Uclo</a> and <a href="/factbook/world/boroughs/pharos/#pharos">Pharos</a>. The borough was first settled permanently by Irish settlers in 1200 BC, who exploited the rich soil of the area to feed the growing agricultural settlement in Oslola.</p>
+<p>Pharos has a long history of settlement, twinned with <a href="/factbook/landscape/boroughs/lola/">Lola</a> (then Oslola) as Vekllei&rsquo;s first urban area. It has evidence of settlement dating back 3,000 years. Algic peoples used the borough&rsquo;s sheltered coastline for hunting and fishing, and tools from 2,000 BC have been found in the present-day municipalities of <a href="/factbook/world/boroughs/pharos.html#uclo">Uclo</a> and <a href="/factbook/world/boroughs/pharos.html#pharos">Pharos</a>. The borough was first settled permanently by Irish settlers in 1200 BC, who exploited the rich soil of the area to feed the growing agricultural settlement in Oslola.</p>
 <p>By 400 BC, Pharos (then Asmelola) was a meeting place between Norse and Algic peoples for trade and commerce, uniting the Algic settlements along the Southern and East coastlines with the principle Scandinavian settlement in Oslola. This would advantage the borough as a place of domestic commerce well into the Vekllei Common Period and beyond. An Iron mine was established in Asmelola in 400 AD, which attracted settlement from the Oslola city outskirts towards Asmelola, a trend which would position the town as an industrial power-base of the regimes in Lola. Although still primarily agricultural, Asmelola would slowly develop into a small city of craftsmen into the 8th Century and beyond.</p>
 <p>Asmelola entered a long decline after the Desimou dynasty faltered in the 15th Century, shifting political power in Vekllei towards its East Coast. Its decline was halted by the overthrow of the monarchy in the 17th Century, which dragged power from the Coasts towards Lola, and restored Asmelola to prosperity, which rapidly developed the city away from its agricultural roots.</p>
 <p>In the late 19th Century, it was apparent that the Port of Vekllei in Lola had become crowded and dangerous, evidenced by the Great Fire of 1841. The Atlantic Commonwealth under Jos Jehansson nominated Asmelola as a successor for a new port, which was established in 1856. Further expansion of the Port of Asmelola was undertaken in 1860 and 1872 to increase its warehousing and shipping capacity.</p>
 <p>By the early 20th Century, the Port of Asmelola had also become overcrowded and under-equipped for emerging forms of cargo, and would soon be incapable of docking newer, larger ships from Europe and the Americas. In an effort to revitalise the ports of the Vekllei and drag the city-state out of its looming recession, the commonwealth government renamed Asmelola to Pharos and made plans to expand the Port of Pharos dramatically, dredging huge new shipping lanes to facilitate transatlantic trade. A recession in 1918 and another in 1923 effectively bankrupted the regime and halted further construction on the great port of Pharos, which remains a minor commercial port to this day.</p>
-<p>Pharos suffered atomic strikes in the First Atomic War in 2005, leaving craters in both <a href="/factbook/world/boroughs/pharos/#sandeyri">Sandeyri</a> and <a href="/factbook/world/boroughs/pharos/#faro">Faro</a>.</p>
+<p>Pharos suffered atomic strikes in the First Atomic War in 2005, leaving craters in both <a href="/factbook/world/boroughs/pharos.html#sandeyri">Sandeyri</a> and <a href="/factbook/world/boroughs/pharos.html#faro">Faro</a>.</p>
 <p>After independence in 2015, Pharos was restructured as a borough and became one of Vekllei&rsquo;s most multicultural boroughs, and is the site of most migrant processing in the country.</p>
 <h2 id="geography">
   Geography
@@ -1175,7 +1294,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Faro
   <a class="anchor" href="#faro">#</a>
 </h3>
-<p>Faro is the so-called &lsquo;gateway to Vekllei,&rsquo; since it is the municipality where most Vekllei depart upon arrival to the country. It is also the site of post-war migrant processing and immigration via the Faro Immigrant Processing Complex, which has integrated millions of migrants since 2015. Today, the neighbourhood is home to a dense network of row-houses and coffee shops, most of which house migrant workers and new immigrants. Faro is also the site of the School of Vekllei, a language school constructed to ease foreigners into the complex <a href="/factbook/society/culture/language/">Vekllei language</a> and introduce postwar cultural behaviours and moneyless living.</p>
+<p>Faro is the so-called &lsquo;gateway to Vekllei,&rsquo; since it is the municipality where most Vekllei depart upon arrival to the country. It is also the site of post-war migrant processing and immigration via the Faro Immigrant Processing Complex, which has integrated millions of migrants since 2015. Today, the neighbourhood is home to a dense network of row-houses and coffee shops, most of which house migrant workers and new immigrants. Faro is also the site of the School of Vekllei, a language school constructed to ease foreigners into the complex <a href="/factbook/society/culture/language.html">Vekllei language</a> and introduce postwar cultural behaviours and moneyless living.</p>
 <h4 id="immigrants-vekllei">
   Immigrants Vekllei
   <a class="anchor" href="#immigrants-vekllei">#</a>
@@ -1190,34 +1309,105 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Petty Shanghai
   <a class="anchor" href="#petty-shanghai">#</a>
 </h3>
-<p>Petty Shanghai (the colloquial name for West Keflavic) is a municipality home to Vekllei&rsquo;s largest ethnic Chinese population, composed primarily of immigrants from Hong Kong and the People&rsquo;s Republic of China. Located adjacent to immigrant processing facilities in <a href="/factbook/world/boroughs/pharos/#faro">Faro</a>, the density of Chinese inhabitants is largely due to the appropriation of war-damaged housing by the Vekllei Housing Commission for new migrants. Contemporary policy now aims to immerse migrant communities, and so enclaves like Petty Shanghai are less common today.</p>
+<p>Petty Shanghai (the colloquial name for West Keflavic) is a municipality home to Vekllei&rsquo;s largest ethnic Chinese population, composed primarily of immigrants from Hong Kong and the People&rsquo;s Republic of China. Located adjacent to immigrant processing facilities in <a href="/factbook/world/boroughs/pharos.html#faro">Faro</a>, the density of Chinese inhabitants is largely due to the appropriation of war-damaged housing by the Vekllei Housing Commission for new migrants. Contemporary policy now aims to immerse migrant communities, and so enclaves like Petty Shanghai are less common today.</p>
 <p>Petty Shanghai is well-known in Vekllei as a sort of &lsquo;Chinatown,&rsquo; both for its exquisite local cuisine and the intense foreignness of its culture and lifestyle. Many early Chinese migrants were poorly integrated by the failing government language programmes in the early postwar years, so many older residents speak mainly Cantonese or Mandarin.</p>
 <p>Petty Shanghai is centred around a public area called Shanghai Neu, or Keflavic Commons. Much of its neighbourhood architecture is dilapidated and pre-war, and the redevelopment of the area is key to an ongoing fight between residents and the Pharos Borough government.</p>
 <h3 id="pharos">
   Pharos
   <a class="anchor" href="#pharos">#</a>
 </h3>
-<p>Pharos as a municipality is dominated by the <a href="/factbook/world/boroughs/pharos/#vekllei-world-jetport">Vekllei World Jetport</a>, its foreign employees, and the massive state-backed companies that own Vekllei&rsquo;s aerospace infrastructure (including <a href="vekllei-aerospatiale-sa">Vekllei Aerospatiale</a> and <a href="/factbook/world/boroughs/pharos/#future-fission-sqm">Future Fission</a>). Although the neighbourhood includes suburbs on its periphery, particularly towards the beaches of <a href="/factbook/world/boroughs/pharos/#uclo">Uclo</a>, most of the municipal area is dominated by the Jetport, its dependent companies and organisations, and the production of aircraft and aviation fuel. Freight trains run almost continuously through Pharos, bringing fuel and test aircraft from all over Vekllei.</p>
+<p>Pharos as a municipality is dominated by the <a href="/factbook/world/boroughs/pharos.html#vekllei-world-jetport">Vekllei World Jetport</a>, its foreign employees, and the massive state-backed companies that own Vekllei&rsquo;s aerospace infrastructure (including <a href="vekllei-aerospatiale-sa">Vekllei Aerospatiale</a> and <a href="/factbook/world/boroughs/pharos.html#future-fission-sqm">Future Fission</a>). Although the neighbourhood includes suburbs on its periphery, particularly towards the beaches of <a href="/factbook/world/boroughs/pharos.html#uclo">Uclo</a>, most of the municipal area is dominated by the Jetport, its dependent companies and organisations, and the production of aircraft and aviation fuel. Freight trains run almost continuously through Pharos, bringing fuel and test aircraft from all over Vekllei.</p>
 <h3 id="sandeyri">
   Sandeyri
   <a class="anchor" href="#sandeyri">#</a>
 </h3>
-<p>Sandeyri is a quiet municipality best known for its fruit orchards and hydroponic greenhouses, which supply the surrounding area with fresh fruit year-round. It is located just north of <a href="/factbook/world/boroughs/pharos/#faro">Faro</a>, along a stretch of coast called South West Cape. It was spared from damage in the war, and so is a great showcase of pre-war Southern Vekllei coastal architecture, including traditional minarets used religiously in <a href="/factbook/society/culture/religion/">Upen</a>. It is also the site of the Pharos Technical School, a technical university with strong industry connections to the aerospace industry in its neighbouring municipalities.</p>
+<p>Sandeyri is a quiet municipality best known for its fruit orchards and hydroponic greenhouses, which supply the surrounding area with fresh fruit year-round. It is located just north of <a href="/factbook/world/boroughs/pharos.html#faro">Faro</a>, along a stretch of coast called South West Cape. It was spared from damage in the war, and so is a great showcase of pre-war Southern Vekllei coastal architecture, including traditional minarets used religiously in <a href="/factbook/society/culture/religion.html">Upen</a>. It is also the site of the Pharos Technical School, a technical university with strong industry connections to the aerospace industry in its neighbouring municipalities.</p>
 <h3 id="uclo">
   Uclo
   <a class="anchor" href="#uclo">#</a>
 </h3>
-<p>Uclo is a mostly residential municipality south of <a href="/factbook/world/boroughs/pharos/#pharos">Pharos</a> and west of <a href="/factbook/world/boroughs/pharos/#copetpek">Copetpek</a>, and features interesting experimentation to this end. Pre-war, it was home to the ambitious Port of Pharos project, but after the war was used as a testbed for dramatic new ways of housing Vekllei&rsquo;s rapidly-growing population.</p>
-<p>
+<p>Uclo is a mostly residential municipality south of <a href="/factbook/world/boroughs/pharos.html#pharos">Pharos</a> and west of <a href="/factbook/world/boroughs/pharos.html#copetpek">Copetpek</a>, and features interesting experimentation to this end. Pre-war, it was home to the ambitious Port of Pharos project, but after the war was used as a testbed for dramatic new ways of housing Vekllei&rsquo;s rapidly-growing population.</p>
+<p><figure>
+  <a href="/images/towers.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
 
 
- 
-<figure>
-  <img src="/images/towers.jpg" alt="Image of large social housing towers"  title="Social housing towers in East Uclo | [*Towers in the Park*](/posts/2022-04-24-towers/)" loading="lazy" />
-  <figcaption>Social housing towers in East Uclo | <a href="/posts/2022-04-24-towers/"><em>Towers in the Park</em></a></figcaption>
-</figure>
-</p>
-<p>These include projects like <a href="/factbook/world/boroughs/pharos/#uclo-experimental-social-housing-project">the Towers</a>, as well as pre-war municipalised housing designed to home Vekllei&rsquo;s growing migrant population. Because of this history, neighbourhoods within Uclo are quite distinct from each other. West Uclo is dominated by low-rise pre-war settlements and coffee shops, where East Uclo consists mostly of apartment towers and parkland. The uniting feature of Uclo, then, is Green Woods beach and its cool, clear waters &ndash; a feature hard to imagine surviving the full scale of the Junta&rsquo;s &lsquo;Port of Vekllei&rsquo; ambitions, should they have succeeded in displacing the Port of Vekllei.</p>
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+
+  
+  
+  
+
+  
+  
+
+	
+	
+	<noscript>
+	  <img class="rcf-image"
+		srcset="/images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_2040x0_resize_q90_box.jpg 3x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_1360x0_resize_q90_box.jpg 2x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_1020x0_resize_q90_box.jpg 1.5x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_850x0_resize_q90_box.jpg 1.25x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_680x0_resize_q90_box.jpg 1x"
+		src="/images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_680x0_resize_q90_box.jpg"alt="Image of large social housing towers" title="Social housing towers in East Uclo | [*Towers in the Park*](/posts/2022-04-24-towers/)" 
+		loading="lazy"
+	  />
+	</noscript>
+
+	
+	<img class="rcf-image lazyload show-if-js"
+	  data-srcset="/images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_2040x0_resize_q90_box.jpg 3x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_1360x0_resize_q90_box.jpg 2x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_1020x0_resize_q90_box.jpg 1.5x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_850x0_resize_q90_box.jpg 1.25x, /images/towers_hufd42fea458689c3d59e4e701e25691f7_341425_680x0_resize_q90_box.jpg 1x"
+	  data-src="/images/towers.jpg"
+	  src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAFUAgAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/APQaKKK0OUKKKKACiiooZhLKyZ&#43;7QMJpEjZVx81VY78G58tqZfSP9vVP4cVzBuZYdewrHYWFZnT7I7mikU5UH2pa0OUKKKKACork/uH&#43;lS&#43;XUVzH&#43;4b6VmBFbjzIFHtS&#43;VJH9z9althiFBjtVjjFaARipahjlj/v1LuX1FAC0VQu9XsbGZYri4VGb7oNSXWqWdnbieaZQh6EVmMluf3du7iufsrsprPl5/1grWku4rvTHmt3V0YdRXPWXHiK3z6UGpr3v/H&#43;v0rmpx/xPEH&#43;2K6W6HmagWrnri0uU1pJPLYpuB3UHR0O5SP5F&#43;lOxVRdWtY0G9uQKrTa/aRLu3c&#43;lBxGpRXOTeJcfcXr0qtJrN5cnCErR7QR1mcVWuphFbl3Peuc&#43;23oG0sxqOS6kuF8su26sqtX2ZrTNs6rGCW6JUo1GIjINc2x4aNj8tUvtHl78NwvvXNTxRr7I6JXQyu2/wCQDNQJqS3EBkiZgVbbzUEATaQ&#43;5sVDDAkZKov8e7rWv1odqZX1bw3f393HdGJiCM5q9Y2wuIDBcxM8cQ2/MOld3IJLjQwtqyrOUwpPrXLxahFpds0WpOgk3Ev71pUNPZFKGxfQrIx5JhlYlfas&#43;eV49ShnhxlRV&#43;&#43;8XaZew/Z1KyOOEUd6aI0mRCYgmRzWVXE&#43;yD2RM130kc8tUZ1RBL5XluWPRqkjsEZVXy2f0xTo9AuLjext5EAOVqFiXUEXbG0YEy3duvkkdTT5fDlhqV0rw3kMYUfczXPa34kt9ItfIPnlxwwIrzm98U3c2oedbysqf3c4rtMz2e88Jj7KUWWGRl5VgcEUlnZQRWeHuYRNEPmDYrxq48X6lIgVJnjx3DVIusXqzw3Akd0lGH5zmgD1xZ4pJGYSRsuMblIxXMakZrXzLpVygOOKreFLHWbnUHt3tZDYtzv6Yro/Fegx6ZpQnjuG2A/MrmsqtK4HIS6ovkecHKn0qpJrEBj6Y3feNY19cpK7BWwntVW1j&#43;1zrACTuNZeyMvZ1D1nK&#43;opsibYncHoM5rkPtF/EWy3yMe5qy2ryLbGMz8kVxLDVTqW5seHfEphjmiurlgUk3Lk9R6Vh&#43;O9Uh1Ft9sSMnk&#43;1YTN85bPU0lx/pEGyvSR242l7Ne0pmZps5ttRikzuVWr0/w9rB1O/ELRfIOp9q4yz8IXVxHHOjjDcitXRtcXw9LJFNArZ4Ld6dSlTqHF&#43;8Pc9PWxZR9nRCO7CtMQqB0GK8k03W0QxXUEskMGcsoORXcW/jXTJ4cLcJvxxk96uyRkX9W8NaRq8BF5bRkeuK4a5&#43;EOhXcpa3kaM&#43;gNaya5PeIwuZo1CscBG6iqtvqtrpuoSXkt0xXbxGDTAxl&#43;Cth5mXvH2&#43;gFacXg3SfDQixam7UHq/8ADUOjfEuTWtcazFt5VsSQkjd8VZ8R&#43;M9K0qFhdXCyPj/VqeaA9mbl1r9rY6bJNBGqqE4AFeK&#43;L/HF9qNr9hnUKS5b8O1Y3iLx9faor29n&#43;4tgeB3NcxLcT3kqyzNuYDFAEwkkcfMxP0rpPC2xY7glcygfLXPx/drs9CtY/wCyfNh/1rcNWVX&#43;GZ1StJNLJ996hznvVC41OC3HDb2qhLrjn7iha1Og6aCzeZCyKWAGTWTPqMMDMu7cRxgVHpeu3NpFMgVnMuMe1U7iGN53mmIizzsXnNZjudr4U8Ti4t5bVm2eV86k&#43;neuQ1qR77V5zFcYhLHBPHFUBfrCSlvGUzwW7moZG8zvWge0NWHU5rGzeCK7kfcuNo6VStr6&#43;t2z57/nVYB&#43;1TR&#43;9BkdVZeNvKjSOe13lf4g2KZqPjaQq3k2gVSMcnNcxjnpUnlgj5&#43;lAF1/Ecg021gtQ0U0bMxkHvWRcSXFzL5k7tI57k1a8qOlwPSgCrHbZ5PWpY4tlS5xUsEfnv0wi8saAI4opZH2omR611lrbXenaegZ&#43;G&#43;bFGjab5kRuZl2wj7q/wB6pb3UcfuwnA4ANZVTLEnn3U81qw2EKwLORuJ7Gsoda30/5B6fStTUz5blj8iAIo7CqxJY8kmnv981HQA3aKjxz1qaoj1rQCaJjUn8dRRVL/HQBLRRRQAUUUdqAIietasCAW1so6St81ZTdDWvB/qbH/frMEdkvyeTAPuBarXdtE8mStWT/wAfMf8Au0y4/wBZXmVX&#43;9MsT/EP/9k="
+	  data-sizes="auto"alt="Image of large social housing towers" title="Social housing towers in East Uclo | [*Towers in the Park*](/posts/2022-04-24-towers/)" 
+	  loading="lazy"
+	/>
+
+  </a>
+
+  
+    <figcaption>Social housing towers in East Uclo | <a href="/posts/2022-04-24-towers/"><em>Towers in the Park</em></a></figcaption>
+</figure></p>
+<p>These include projects like <a href="/factbook/world/boroughs/pharos.html#uclo-experimental-social-housing-project">the Towers</a>, as well as pre-war municipalised housing designed to home Vekllei&rsquo;s growing migrant population. Because of this history, neighbourhoods within Uclo are quite distinct from each other. West Uclo is dominated by low-rise pre-war settlements and coffee shops, where East Uclo consists mostly of apartment towers and parkland. The uniting feature of Uclo, then, is Green Woods beach and its cool, clear waters &ndash; a feature hard to imagine surviving the full scale of the Junta&rsquo;s &lsquo;Port of Vekllei&rsquo; ambitions, should they have succeeded in displacing the Port of Vekllei.</p>
 <h2 id="infrastructure">
   Infrastructure
   <a class="anchor" href="#infrastructure">#</a>
@@ -1227,7 +1417,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Port of Pharos
   <a class="anchor" href="#port-of-pharos">#</a>
 </h3>
-<p>The Port of Pharos is a commercial port located in east <a href="/factbook/world/boroughs/pharos/#uclo">Uclo</a>. Originally founded to alleviate traffic from the Port of Vekllei, the scheme to redevelop the port was the reason for the borough&rsquo;s name change in 1915. Although plans were drawn to dramatically increase the size of the port to rival those in Western Europe, financial difficulties derailed its development and only a fraction of its modernisation was realised. Today, the Port of Pharos is used mostly to dock domestic cruise ships and unload and containerise regional freight.</p>
+<p>The Port of Pharos is a commercial port located in east <a href="/factbook/world/boroughs/pharos.html#uclo">Uclo</a>. Originally founded to alleviate traffic from the Port of Vekllei, the scheme to redevelop the port was the reason for the borough&rsquo;s name change in 1915. Although plans were drawn to dramatically increase the size of the port to rival those in Western Europe, financial difficulties derailed its development and only a fraction of its modernisation was realised. Today, the Port of Pharos is used mostly to dock domestic cruise ships and unload and containerise regional freight.</p>
 <h3 id="vekllei-aerospatiale-sa">
   Vekllei Aerospatiale S.A.
   <a class="anchor" href="#vekllei-aerospatiale-sa">#</a>
@@ -1238,8 +1428,8 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Vekllei World Jetport
   <a class="anchor" href="#vekllei-world-jetport">#</a>
 </h3>
-<p>The Vekllei World Jetport (IATA: VEK) is an international airport in the neighbourhood of <a href="/factbook/world/boroughs/pharos/#pharos">Pharos</a>, and is the largest airport in Vekllei. It opened in 1920 as the First Vekllei Aerodrome, and was forcibly purchased by the Atlantic Commonwealth Government in 1922.</p>
-<p>It is both the oldest and busiest airport in Vekllei, and commutes nearly 12 million passengers a year. It is also the primary hub of national carrier <a href="/factbook/world/boroughs/pharos/#vekllei-national-airways">Vekllei National Airways</a>. The World Jetport features two conventional 3,000 metre runways, a special wide-traffic jetway for <a href="/posts/2019-12-12-jet/">VOA Flying Wings</a>, and a 6,000 metre spaceway built offshore for <a href="/posts/2022-05-30-spaceship/">VOA Space Transports</a>.</p>
+<p>The Vekllei World Jetport (IATA: VEK) is an international airport in the neighbourhood of <a href="/factbook/world/boroughs/pharos.html#pharos">Pharos</a>, and is the largest airport in Vekllei. It opened in 1920 as the First Vekllei Aerodrome, and was forcibly purchased by the Atlantic Commonwealth Government in 1922.</p>
+<p>It is both the oldest and busiest airport in Vekllei, and commutes nearly 12 million passengers a year. It is also the primary hub of national carrier <a href="/factbook/world/boroughs/pharos.html#vekllei-national-airways">Vekllei National Airways</a>. The World Jetport features two conventional 3,000 metre runways, a special wide-traffic jetway for <a href="/posts/2019-12-12-jet/">VOA Flying Wings</a>, and a 6,000 metre spaceway built offshore for <a href="/posts/2022-05-30-spaceship/">VOA Space Transports</a>.</p>
 <p>The World Jetport has three terminals, all of which are operated by the Vekllei National Airways monopoly.</p>
 <h4 id="terminal-1">
   Terminal 1
@@ -1261,7 +1451,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   <a class="anchor" href="#vekllei-national-airways">#</a>
 </h3>
 <p>Vekllei National Airways (VNA) is the state-owned air carrier and bureau-level organisation of all air transport in Vekllei. It includes multiple well-known domestic and international air operators, including Vekllei Overseas Airways and Atlantic World Jetways. The subsidiaries of VNA are operated independently with seperate accounting, and operate as for-profit businesses internationally.</p>
-<p>VNA is headquartered in the <a href="/factbook/world/boroughs/pharos/#pharos">Pharos</a> municipality, adjacent to its main hub at the Vekllei World Jetport. It also operates it primary maintenance facilities and fuel storage within the jetport, including nuclear and synthetic fuels.</p>
+<p>VNA is headquartered in the <a href="/factbook/world/boroughs/pharos.html#pharos">Pharos</a> municipality, adjacent to its main hub at the Vekllei World Jetport. It also operates it primary maintenance facilities and fuel storage within the jetport, including nuclear and synthetic fuels.</p>
 <h3 id="future-fission-sqm">
   Future Fission S.q.M.
   <a class="anchor" href="#future-fission-sqm">#</a>
@@ -1273,7 +1463,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 </h3>
 <p>The Pharos Railway Company (PRC) was Vekllei&rsquo;s first railway company and operator. Founded in 1854 in the present-day council of Uclo, the PRC started Vekllei&rsquo;s first passenger rail service between Pharos and Little Vekllei the next year. The company developed Vekllei&rsquo;s first domestic steam locomotive, called the <em>Atlantic Queen</em>, which operated from 1855 to 1864.</p>
 <p>The Pharos Railway Company was bought by Atlantic Railways in 1909, which itself was Nationalised by the Crown Junta in 1925. Some traces of the company are still visible in Vekllei&rsquo;s rail network today, particularly the first and third tunnels on the Little Vekllei Heritage Railway and parts of the No. 9 Pharos Municipal Tramway.</p>
-<p>The Pharos Railway Company Museum has preserved features of early Vekllei rail history, including wood-burning locomotives operated by the PRC and items like tickets, signage and signalling. The PRC Museum also operates short heritage rail journeys around its site in Keflavic. It is located in the <a href="/factbook/world/boroughs/pharos/#sandeyri">Sandeyri</a> neighbourhood.</p>
+<p>The Pharos Railway Company Museum has preserved features of early Vekllei rail history, including wood-burning locomotives operated by the PRC and items like tickets, signage and signalling. The PRC Museum also operates short heritage rail journeys around its site in Keflavic. It is located in the <a href="/factbook/world/boroughs/pharos.html#sandeyri">Sandeyri</a> neighbourhood.</p>
 <h3 id="uclo-experimental-social-housing-project">
   Uclo Experimental Social Housing Project
   <a class="anchor" href="#uclo-experimental-social-housing-project">#</a>
@@ -1288,13 +1478,13 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   <a class="anchor" href="#municipalities">#</a>
 </h2>
 <ul>
-<li><a href="/factbook/world/boroughs/pharos/#copetpek">Copetpek</a></li>
-<li><a href="/factbook/world/boroughs/pharos/#faro">Faro</a></li>
-<li><a href="/factbook/world/boroughs/pharos/#keflavic">Keflavic</a></li>
-<li><a href="/factbook/world/boroughs/pharos/#petty-shanghai">Petty Shanghai</a></li>
-<li><a href="/factbook/world/boroughs/pharos/#pharos">Pharos</a></li>
-<li><a href="/factbook/world/boroughs/pharos/#sandeyri">Sandeyri</a></li>
-<li><a href="/factbook/world/boroughs/pharos/#uclo">Uclo</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#copetpek">Copetpek</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#faro">Faro</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#keflavic">Keflavic</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#petty-shanghai">Petty Shanghai</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#pharos">Pharos</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#sandeyri">Sandeyri</a></li>
+<li><a href="/factbook/world/boroughs/pharos.html#uclo">Uclo</a></li>
 </ul>
 <h2 id="posts">
   Posts
@@ -1310,10 +1500,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Santes</title>
-	  <link>https://millmint.net/factbook/world/boroughs/santes/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/santes.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/santes/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/santes.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1322,7 +1512,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Santes is an administrative region in northern Vekllei, located in the Lava Region west of Moma and east of Hoaedesnen. Its area includes several isolated and sparsely-populated towns along Vekllei&rsquo;s northern coast, particularly along the Grimsy and Mus Mus Fjords. The city of Santes is well-served by Vekllei&rsquo;s rail network, but the majority of its coastal and inland towns are somewhat difficult to reach.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/shrine-minded.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/shrine-minded.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -1339,7 +1529,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p><strong>Santes</strong> is the Vekllei word for &ldquo;saint,&rdquo; and dates back to the Christianisation of Vekllei&rsquo;s Middle Period sometime prior to the 16th Century. Its earliest appearance was traced to the Santesoavis chapel (lit. All Saints) near the city of Santes, built sometime in the 15th Century by Danish settlers, to which the parish and eventual borough owes its name. Outside of Christian contexts, Santes in Vekllei can also refer to noble spirits, the communicative spirits of <a href="/factbook/society/culture/religion/"><em>Upen</em></a>.</p>
+<p><strong>Santes</strong> is the Vekllei word for &ldquo;saint,&rdquo; and dates back to the Christianisation of Vekllei&rsquo;s Middle Period sometime prior to the 16th Century. Its earliest appearance was traced to the Santesoavis chapel (lit. All Saints) near the city of Santes, built sometime in the 15th Century by Danish settlers, to which the parish and eventual borough owes its name. Outside of Christian contexts, Santes in Vekllei can also refer to noble spirits, the communicative spirits of <a href="/factbook/society/culture/religion.html"><em>Upen</em></a>.</p>
 <h2 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -1347,7 +1537,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 <blockquote>
 <p>Do you know what happens when God meets a spirit? Do you have any idea? It is a place of blessings. It&rsquo;s huge! We <em>have</em> to find this shrine.</p>
 </blockquote>
-<p>&ndash; <a href="/factbook/characters/#tzipora-zelda-desmoisnes">Tzipora Desmoisnes</a>, convinced of hidden shrines in Santes</p>
+<p>&ndash; <a href="/factbook/characters.html#tzipora-zelda-desmoisnes">Tzipora Desmoisnes</a>, convinced of hidden shrines in Santes</p>
 <p>Vekllei&rsquo;s northern coast was settled predominantly by Scandinavian settlers, who were displaced from Vekllei&rsquo;s south in the centuries prior to the 15th Century. For this reason, the cultural and religious segregation of the north coasts produced unusual settlements unique from both southern Vekllei culture and Scandinavia. Settlements in present-day Santes and Moma were heavily christianised, but upon Upen&rsquo;s reformation by King Desimou IV these populations were forcefully integrated into Vekllei&rsquo;s feudal hierarchy and were ethnically displaced by Algic Vekllei.</p>
 <p>Despite this, Santes would remain culturally isolated from Vekllei&rsquo;s powerful southern metropole, and remained somewhat politically independent until the late Junta years. By the early 19th Century, a road was established between Montre and the city of Santes, followed by a direct rail line in 1922. By this time, the Junta had consolidated control over all settlements in the Home Islands, and Santes was subsidised heavily by political centres in Montre and Vekllei Proper.</p>
 <h3 id="postwar-development">
@@ -1414,10 +1604,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Yana</title>
-	  <link>https://millmint.net/factbook/world/boroughs/yana/</link>
+	  <link>https://millmint.net/factbook/world/boroughs/yana.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/yana/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs/yana.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1426,7 +1616,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	  <![CDATA[Overview # This article is about a borough of Vekllei The borough of Yana is an administrative region in central Vekllei, located in the far-western Lava region north of Tiyousn and east of Laisiyo. It is named after Yana, a city of some 45,000 people isolated along Vekllei&rsquo;s sparse, moonlike volcanic interior for which the Lava region is named. Yana makes up part of an agro-belt of depopulated boroughs that sit along the Sesmiousvianneh river, which washes rich igneous minerals north to towns downstream.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/lakehouse.jpg"/> <h2 id="overview">
+	 	<![CDATA[<img src="/images/lakehouse.jpg"/> <h2 id="overview">
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
@@ -1443,7 +1633,7 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p><strong>Yana</strong> was the name of Vekllei&rsquo;s first spirit ambassador in <a href="/factbook/society/culture/religion/">Upen</a> mythology, who met human farmer Armond Volusksson at the base of <em>Mose</em>, a volcano associated with lava spirits. Although the meeting (as described in the <em>Molten Wind</em> sagas) took place in the present-day borough of Askayaisn, it remains a common Blood Name in the country and was chosen for Yana&rsquo;s settlement to protect it against seismic activity.</p>
+<p><strong>Yana</strong> was the name of Vekllei&rsquo;s first spirit ambassador in <a href="/factbook/society/culture/religion.html">Upen</a> mythology, who met human farmer Armond Volusksson at the base of <em>Mose</em>, a volcano associated with lava spirits. Although the meeting (as described in the <em>Molten Wind</em> sagas) took place in the present-day borough of Askayaisn, it remains a common Blood Name in the country and was chosen for Yana&rsquo;s settlement to protect it against seismic activity.</p>
 <h2 id="history">
   History
   <a class="anchor" href="#history">#</a>

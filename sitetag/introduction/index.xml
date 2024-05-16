@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Introduction</title>
-	<link>https://millmint.net/sitetag/introduction/</link>
+	<link>https://millmint.net/sitetag/introduction.html</link>
 	<description>Recent content in Introduction </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/introduction/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Boroughs</title>
-	  <link>https://millmint.net/factbook/world/boroughs/</link>
+	  <link>https://millmint.net/factbook/world/boroughs.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/</guid>
+	  <guid>https://millmint.net/factbook/world/boroughs.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -31,7 +31,7 @@
 	  <![CDATA[This page lists completed articles on Vekllei&rsquo;s boroughs ⚠️ This list is evolving, and will be expanded in future. Over the next year I&rsquo;ll be completing this list of Oslola&rsquo;s 100 boroughs, and linking them to images and posts produced in the project. Oslola&rsquo;s five Crown Boroughs (once included) will be highlighted in bold. An Oslolan borough is an unusual administrative designation, portioned originally by a set of vague criteria that includes size, history, its unique geography, culture, and its spiritual value.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/vekllei.png"/> <blockquote class="note series">
+	 	<![CDATA[<img src="/images/vekllei.png"/> <blockquote class="note series">
   <span class="text">This page lists completed articles on <a href="/factbook/vekllei"><strong>Vekllei&rsquo;s</strong></a> <a href="/vekllei/#administrative-divisions"><strong>boroughs</strong></a></span>
 </blockquote>
 

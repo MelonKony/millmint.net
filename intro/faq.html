@@ -1,0 +1,826 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>FAQ - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="../style.min.d19429965f2ba426ef87a49974df4fd1226734c6b078f9d67a83b4b6931a4cd8970db7c029571fca909db64bfaecb94fcb0cd6d04b4c0b8655946474d8aec63b.css" integrity="sha512-0ZQpll8rpCbvh6SZdN9P0SJnNMawePnWeoO0tpMaTNiXDbfAKVcfypCdtkv67LlPywzW0EtMC4ZVlGR02K7GOw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="FAQ &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/intro/faq.html" />
+    <meta property="og:locale" content="en">
+    
+    <meta property="og:image" content="/images/drawing.jpg" />
+    
+    
+    <script defer src="../flexsearch.min.js"></script>
+    <script defer src="../en.search.min.bd08c282333a093220097d8ab928bd1787bc6772cd86f49c069a64f004a9424f.js" integrity="sha256-vQjCgjM6CTIgCX2KuSi9F4e8Z3LNhvScBppk8ASpQk8=" crossorigin="anonymous"></script>
+    
+
+    </head><body data-color="pink"  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="../">MillMint</a>
+        <a class="emoji" id="whirlybat" href="../">-millmint</a>
+    </div>
+
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="../intro.html" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="../factbook.html" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../factbook/map.html" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../factbook/world/vekllei.html" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../factbook/bulletin.html" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../factbook/characters.html" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="../factbook/world.html" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../factbook/world/countries.html" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="../factbook/society.html" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../factbook/society/state.html" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../factbook/society/industry.html" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../factbook/society/technology.html" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../factbook/timeline.html" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="../millmint.html" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../millmint/about.html" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../millmint/dolls.html" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../millmint/commissions.html" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="../millmint/essays.html" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="../millmint/essays/social-economy.html" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../millmint/essays/ghibli.html" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../millmint/essays/utopie.html" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../millmint/essays/hongkong.html" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="../millmint/essays/west.html" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="../stories.html" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="../stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/killers/"><span class="navicon">📗</span>Story: <i>Killers</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="../stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">    
+    <header class="info">
+  <h1 class="title">Frequently Asked Questions</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">🎙</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="../">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="../intro.html">
+			Intro – What is Vekllei?</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="../intro/faq.html">
+			FAQ</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  <div class="emoji" id="whirlybat">L</div>
+  
+
+  <div class="emoji" id="whirlybat">L</div>
+  
+  
+
+    
+    
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+
+  
+    <img srcset="
+    /images/drawing_hucbab7cb0c92e81c583309ae90492c454_386001_da6742629728b7560242bd470e5901d7.jpg 320w,
+    /images/drawing_hucbab7cb0c92e81c583309ae90492c454_386001_498b81c7cbcd7648f850a6b11e3b4cdc.jpg 600w,
+    /images/drawing_hucbab7cb0c92e81c583309ae90492c454_386001_0c70bffb3ad65947d549be0de4ce2167.jpg 2x"
+    class="page" src="../images/drawing_hucbab7cb0c92e81c583309ae90492c454_386001_1500x0_resize_q90_box.jpg" alt="">
+  
+
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="title">
+                        <span>FAQ</span>
+                        <span class="icon">🎙</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#this-is-the-epoch-of-rest">This is the Epoch of Rest</a></li>
+        <li><a href="#what-is-vekllei">What is Vekllei?</a></li>
+        <li><a href="#why-utopia">Why Utopia?</a></li>
+        <li><a href="#faq">F.A.Q.</a>
+          <ul>
+            <li></li>
+          </ul>
+        </li>
+        <li><a href="#futher-reading">Futher Reading</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<details class="mobile toc">
+  <summary>
+    <span class="navicon">📑</span>Table of Contents
+  </summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#this-is-the-epoch-of-rest">This is the Epoch of Rest</a></li>
+        <li><a href="#what-is-vekllei">What is Vekllei?</a></li>
+        <li><a href="#why-utopia">Why Utopia?</a></li>
+        <li><a href="#faq">F.A.Q.</a>
+          <ul>
+            <li></li>
+          </ul>
+        </li>
+        <li><a href="#futher-reading">Futher Reading</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</details>
+
+
+
+    
+
+<article class="autonumber" >
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <h2 id="this-is-the-epoch-of-rest">
+  This is the Epoch of Rest
+  <a class="anchor" href="#this-is-the-epoch-of-rest">#</a>
+</h2>
+<p><strong>These stories are about good places and people</strong>. They take place in a fictional state called <a style="color: var(--color-vekllei)" href="../vekllei/"><span class="fi fi-com"></span> Vekllei</a>, which is an Atlantic country that does not use money. The point of this project is to take the purity of that idea seriously, and immerse a place of wonder in the real world.</p>
+<blockquote>
+<p>So this is Utopia,<br>
+Is it? Well — <br>
+I beg your pardon;<br>
+I thought it was Hell.</p>
+</blockquote>
+<p>&ndash; Max Beerbohm</p>
+<p>&lsquo;Immersing&rsquo; something in the real world means things get dirty, break, and fall apart. A utopia doesn&rsquo;t have to be perfect, but it <em>should</em> be an authentic &lsquo;social dream&rsquo;. This style of world-building is called <a href="../utopie/"><em>utopie concrète</em></a>, and is the way Vekllei is built.</p>
+<blockquote>
+<p><em>I define the broad, general phenomenon of utopianism as social dreaming &ndash; the dreams and nightmares that concern the ways in which groups of people arrange their lives and which usually envision a radically different society than the one in which the dreamers live. But not all are radical, for some people at any time dream of something basically familiar.</em></p>
+</blockquote>
+<p>&ndash; Lyman Sargent <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>That&rsquo;s the gist of it. <a style="color: var(--color-vekllei)" href="../vekllei/"><span class="fi fi-com"></span> Vekllei</a> is a fictional country that demonstrates good things through drawing and writing about it. It&rsquo;s part-escapism, part-fantasy, and all good.</p>
+<p>This website is a comprehensive archive and open notebook for the stories of Vekllei and its people.</p>
+<details open>
+  <summary>Studio MillMint</summary>
+<ul>
+<li><a href="../"><strong>millmint.net</strong></a>
+<ul>
+<li><a href="../factbook.html"><strong>/factbook/</strong></a> is an online wiki of Vekllei its people</li>
+<li><a href="../millmint.html"><strong>/millmint/</strong></a> is for everything outside of it</li>
+<li><a href="../posts/"><strong>/stories/</strong></a> is for illustrated snapshots of life in Vekllei</li>
+</ul>
+</li>
+</ul>
+</details>
+<h2 id="what-is-vekllei">
+  What is Vekllei?
+  <a class="anchor" href="#what-is-vekllei">#</a>
+</h2>
+<blockquote class="note millmint">
+  <span class="text">✿ Main article: <a style="color: var(--color-vekllei)" href="../vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+</blockquote>
+
+<blockquote>
+<p>No differently will the world one day appear, almost unchanged, in its constant feast-day light, when it stands no longer under the law of labour, and when for homecomers duty has the lightness of holiday play.</p>
+</blockquote>
+<p>–Theodor Adorno, <em>Minima Moralia</em></p>
+<p><strong>Vekllei</strong> (pronounced &lsquo;<strong>Veck-lie</strong>,&rsquo; or <strong>/vƐk.laɪ/</strong>) is an island country set in what we know as Iceland. Vekllei is its own country, and does not look or feel like Iceland. It has unique cultures, ethnicites, and landscapes. It is an old country, having been settled for thousands of years by native Algic peoples and Scandinavians. It is also a new county, having suffered a nuclear attack at the beginning of the 21st Century which extinguished much of its old civil society.</p>
+<p>By the mid-21st century, Vekllei has become a remarkable place. Quality of life is excellent and living there is unlike living anywhere else on Earth. The country is an ambitious expression of alternate modes of thinking, visible in every aspect of society, from its bizarre moneyless economy to its complicated cultural and religious metaphysics.</p>
+<p>Here are some quick facts about Vekllei and the state of the world in the mid-21st Century.</p>
+<ul>
+<li>Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most <a href="../factbook/society/technology/computers.html">computers in Vekllei</a> are centralised, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.</li>
+<li>Vekllei&rsquo;s future retains the cold war from the previous century. The U.S.S.R. stiill exists, as do emerging political divisions across Europe, Africa, South America and Asia.</li>
+<li>Vekllei&rsquo;s future remains heavily influenced by midcentury modernist styles.</li>
+<li>Although Vekllei&rsquo;s unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.</li>
+</ul>
+<p><a href="../stories.html">So get going</a>. This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you&rsquo;ll find something to like here.</p>
+<h2 id="why-utopia">
+  Why Utopia?
+  <a class="anchor" href="#why-utopia">#</a>
+</h2>
+<blockquote class="note panel">
+  <span class="text"><p>Vekllei is a jumble of very pure, obsessive instincts that are illustrated to make them look and feel real. I want to take purity seriously by considering its implications in the real world. Vekllei does not use money &ndash; a very straightforward and fantastical idea. Of course, moneylessness has extraordinary implications, and to maintain the purity of the idea we have to work very hard.</p>
+<p>Simplicity is actually very complicated, and so Vekllei is very complicated to justify the simplicity. It&rsquo;s filled with things I value and people I admire. You&rsquo;ll find hundreds of posts and many articles on this site, and all of them are designed to make this place and its people feel real.</p>
+<p>Just a few things to keep in mind:</p>
+<ul>
+<li>This place is <strong>iterative</strong> &ndash; canon disappears, people change appearance and the systems of Vekllei twist and turn as I do.</li>
+<li>This place is <strong>good-spirited</strong> &ndash; Vekllei is escapism, and although the dark accompanies the light, this project is supposed to be escapist and fun.</li>
+<li>This place is <strong>constantly expanding</strong> &ndash; I try out new styles, mediums and methods of distribution all the time. Some of them work, some of them don&rsquo;t. That&rsquo;s part of the fun of it!</li>
+</ul>
+<p>In addition:</p>
+<ul>
+<li><strong>Vekllei is a utopia</strong>, but that doesn&rsquo;t mean I don&rsquo;t take it seriously or consider its society pragmatically.</li>
+<li><strong>It&rsquo;s full of stuff I love</strong>, but that doesn&rsquo;t mean it&rsquo;s perfect. Personal growth can come from bad experiences.</li>
+<li><strong>I draw in certain styles</strong>, but Vekllei isn&rsquo;t based off any one country.</li>
+<li><strong>Vekllei is mostly self-contained stories</strong>, but I experiment with mediums and methods all the time.</li>
+</ul>
+</span>
+</blockquote>
+
+<h2 id="faq">
+  F.A.Q.
+  <a class="anchor" href="#faq">#</a>
+</h2>
+<details open>
+  <summary>Frequently Asked Questions</summary>
+<h4 id="who-are-you">
+  Who are you?
+  <a class="anchor" href="#who-are-you">#</a>
+</h4>
+<p><a href="../about/">A Tasmanian illustrator.</a></p>
+<h4 id="why-is-vekllei-a-utopia">
+  Why is Vekllei a utopia?
+  <a class="anchor" href="#why-is-vekllei-a-utopia">#</a>
+</h4>
+<p>It makes me feel better about my life and the world. It’s escapism; it’s a dream.</p>
+<h4 id="its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think">
+  It’s a bit cringe to grandstand your political beliefs, doncha think?
+  <a class="anchor" href="#its-a-bit-cringe-to-grandstand-your-political-beliefs-doncha-think">#</a>
+</h4>
+<p>Vekllei is a personal utopia. That’s what I’m selling. At least you’re getting good opinions.</p>
+<h4 id="wheres-the-tension-if-its-perfect">
+  Where’s the tension if it’s perfect?
+  <a class="anchor" href="#wheres-the-tension-if-its-perfect">#</a>
+</h4>
+<p>Vekllei can be cynical and tragic in places. Utopia is more than just idealistic fantasy, and can contain bad things.</p>
+<h4 id="is-there-a-novel-a-story-a-comic">
+  Is there a novel? A story? A comic?
+  <a class="anchor" href="#is-there-a-novel-a-story-a-comic">#</a>
+</h4>
+<p>I’m working on a comic right now. I’m pretty much working on Vekllei full-time so I’m hoping to announce it soon. I’ve got a lot of different Vekllei projects going.</p>
+<h4 id="where-is-vekllei">
+  Where is Vekllei?
+  <a class="anchor" href="#where-is-vekllei">#</a>
+</h4>
+<p>Iceland.</p>
+<h4 id="is-your-alt-history-thought-out">
+  Is your alt-history thought out?
+  <a class="anchor" href="#is-your-alt-history-thought-out">#</a>
+</h4>
+<p>Vekllei’s history is whatever I need it to be. I’m always trying to be realistic, but it’s all worked backwards from the setting. I’m not really “world-building” in the way some might understand it. Very little of it is published, most of it is retrieved on request. Just ask if you have questions.</p>
+<h4 id="why-does-vekllei-call-itself-petticoat-socialist">
+  Why does Vekllei call itself “petticoat socialist”?
+  <a class="anchor" href="#why-does-vekllei-call-itself-petticoat-socialist">#</a>
+</h4>
+<p>Vekllei is set in a culture of Marxist revivalism in the 50s and 60s. A lot of Vekllei’s lexicon is set in that context. Vekllei is a decentralised democracy that doesn’t use money. It’s a sort of participatory economy. It&rsquo;s almost anarchic in that sense.</p>
+<h4 id="why-the-petticoat">
+  Why the &ldquo;petticoat&rdquo;?
+  <a class="anchor" href="#why-the-petticoat">#</a>
+</h4>
+<p>Vekllei is a female country. Womanhood is decommodified. It&rsquo;s maternal, social and friendly where progressive utopian rhetoric is masculine, technocratic and historicist.</p>
+<h4 id="who-is-zelda">
+  Who is Zelda?
+  <a class="anchor" href="#who-is-zelda">#</a>
+</h4>
+<p>Zelda is another name for <a href="../factbook/characters.html">Tzipora</a>. She has two names specifically to confuse you.</p>
+<p><a href="https://www.patreon.com/vekllei">Join the Patreon</a>.</p>
+<p><a href="https://discord.gg/dCE6vSU">Join the Discord</a>.</p>
+<p>Be &ldquo;petticoat&rdquo;.</p>
+</details>
+<h2 id="futher-reading">
+  Futher Reading
+  <a class="anchor" href="#futher-reading">#</a>
+</h2>
+<p>For those curious about what sort of things go into a place like Vekllei, these are some of my favourite books. I&rsquo;ve been asked about them before, so I&rsquo;ve included this section in the hopes you enjoy them as much as I have. There are many more than these, so if you&rsquo;re interested, <a href="../about/">contact me</a>. I&rsquo;ll update this list periodically as more occur to me.</p>
+<blockquote class="note panel">
+  <span class="text"><p><em><strong>On the Origins of Modern Japanese Literature</strong></em></p>
+<p><strong>Karatani Kojin</strong> | 1993</p>
+<p>Karatani interrogates the appearance of Western conceptual artefacts (Landscape, The Child, Interiority) during the Meiji period in Japan. This book had a tremendous impact on my assumptions about the world and affected Vekllei tremendously.</p>
+</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><em><strong>Starting Point <em>&amp;</em> Turning Point</strong></em></p>
+<p><strong>Miyazaki Hayao</strong> | 2009 &amp; 2014</p>
+<p>These books are essentially a compilation of essays from Miyazaki&rsquo;s years as a filmmaker. He&rsquo;s an incredibly smart and insightful creative force whose work <a href="../news/essays/ghibli">I have written at length about</a> before. For me, it&rsquo;s all really powerful, affecting stuff.</p>
+</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><em><strong>Three Faces of Utopianism Revisited</strong></em></p>
+<p><strong>Lyman Sargent</strong> | 1994</p>
+<p>This is the defining taxonomical look at the phenomena of utopianism and how it works. His breakdown of &lsquo;utopia&rsquo; into both dystopian and eutopian elements is also my preffered descriptor and use of &lsquo;utopia&rsquo; as a concept.</p>
+</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><em><strong>Towards a New Architecture</strong></em></p>
+<p><strong>Le Corbusier</strong> | 1936</p>
+<p>Vekllei is a postmodern mess, but also deeply sympathetic to the modernist instinct. I like the utopianism of the 20th Century, and Le Corbusier typifies that &lsquo;utopian&rsquo; futurism we saw in that period. I like how single-minded he is about it. His buildings remain beautiful, many years on.</p>
+</span>
+</blockquote>
+
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Sargent, L.T., 1994. The Three Faces of Utopianism Revisited. <em>Utopian studies</em>, 5(1), p.3.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/intro.html">Intro – What is Vekllei?</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/intro/faq.html">FAQ</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 16/05/2024</span>
+    <span class="pill">
+      <div class="pill-category">intro</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">FAQ</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="../js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
+</body>
+
+</html>

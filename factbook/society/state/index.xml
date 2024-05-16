@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>State</title>
-	<link>https://millmint.net/factbook/society/state/</link>
+	<link>https://millmint.net/factbook/society/state.html</link>
 	<description>Recent content in State </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Community of Oceans</title>
-	  <link>https://millmint.net/factbook/society/state/oceans-community/</link>
+	  <link>https://millmint.net/factbook/society/state/oceans-community.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/oceans-community/</guid>
+	  <guid>https://millmint.net/factbook/society/state/oceans-community.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -70,10 +70,10 @@ The role of the council is to draw islander and oceangoing nations closer togeth
 	
 	<item>
 	  <title>Consosva</title>
-	  <link>https://millmint.net/factbook/society/state/consosva/</link>
+	  <link>https://millmint.net/factbook/society/state/consosva.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/consosva/</guid>
+	  <guid>https://millmint.net/factbook/society/state/consosva.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -97,10 +97,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Constituents</title>
-	  <link>https://millmint.net/factbook/society/state/constituents/</link>
+	  <link>https://millmint.net/factbook/society/state/constituents.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/constituents/</guid>
+	  <guid>https://millmint.net/factbook/society/state/constituents.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -159,10 +159,10 @@ Constituent commonwealths have their own suite of ministries and a National Asse
 	
 	<item>
 	  <title>Corsosva</title>
-	  <link>https://millmint.net/factbook/society/state/corsosva/</link>
+	  <link>https://millmint.net/factbook/society/state/corsosva.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/corsosva/</guid>
+	  <guid>https://millmint.net/factbook/society/state/corsosva.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -183,10 +183,10 @@ Constituent commonwealths have their own suite of ministries and a National Asse
 	
 	<item>
 	  <title>Documents</title>
-	  <link>https://millmint.net/factbook/society/state/documents/</link>
+	  <link>https://millmint.net/factbook/society/state/documents.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/documents/</guid>
+	  <guid>https://millmint.net/factbook/society/state/documents.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -216,10 +216,10 @@ Constituent commonwealths have their own suite of ministries and a National Asse
 	
 	<item>
 	  <title>Education</title>
-	  <link>https://millmint.net/factbook/society/state/education/</link>
+	  <link>https://millmint.net/factbook/society/state/education.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/education/</guid>
+	  <guid>https://millmint.net/factbook/society/state/education.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -249,7 +249,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#atlantic-model-of-education">#</a>
 </h2>
 <p>The <em>Atlantic Model</em> is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including progressive and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.</p>
-<p>Although this system incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common <a href="/factbook/society/state/education/#uniform">student uniform</a>, and address teachers by their surname.</p>
+<p>Although this system incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common <a href="/factbook/society/state/education.html#uniform">student uniform</a>, and address teachers by their surname.</p>
 <p>The distinguishing characteristics of the Atlantic Model are:</p>
 <blockquote class="note ">
   <span class="text"><ul>
@@ -276,20 +276,94 @@ Education and schooling is an important part of Vekllei society, and its importa
   <span class="text">✿ Download <span class="smallicon">📄</span> <a href="/files/documents/7.pdf">Document No. 7.pdf</a></span>
 </blockquote>
 
-<p>
+<p><figure>
+  <a href="/images/fullres/sami.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
 
 
- 
-<figure>
-  <img src="https://images.millmint.net/fullres/sami.jpg" alt="Image of Tzipora and Moise"  title="The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*" loading="lazy" />
-  <figcaption>The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | <em><a href="/stories/sami/">Sami</a></em></figcaption>
-</figure>
-</p>
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+
+  
+  
+  
+
+  
+  
+
+	
+	
+	<noscript>
+	  <img class="rcf-image"
+		srcset="/images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_2070x0_resize_q90_box.jpg 4x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_2040x0_resize_q90_box.jpg 3x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_1360x0_resize_q90_box.jpg 2x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_1020x0_resize_q90_box.jpg 1.5x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_850x0_resize_q90_box.jpg 1.25x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_680x0_resize_q90_box.jpg 1x"
+		src="/images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_680x0_resize_q90_box.jpg"alt="Image of Tzipora and Moise" title="The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*" 
+		loading="lazy"
+	  />
+	</noscript>
+
+	
+	<img class="rcf-image lazyload show-if-js"
+	  data-srcset="/images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_2070x0_resize_q90_box.jpg 4x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_2040x0_resize_q90_box.jpg 3x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_1360x0_resize_q90_box.jpg 2x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_1020x0_resize_q90_box.jpg 1.5x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_850x0_resize_q90_box.jpg 1.25x, /images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_680x0_resize_q90_box.jpg 1x"
+	  data-src="/images/fullres/sami.jpg"
+	  src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAMAAgAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AOSooorqMwooooAKKKAM9KASb2CilcFPvI1JmkaVaVWnqFFFHTk0zMKKXcf4Bu&#43;lG8oPnRlpXNfY1RKKMg8iimZBRRRQAUE4GaKKAI0u0bKEHdSJcI8mwhqk2rnOBRgZ6CgQ4MhON1XlijiwRzms/gc4ro9Gt1vI08qMM38TN0FcuJPYy2pSplHy5WbPlEp9KzJQRcuCm2vR49P&#43;xjzJP3idwO30rlPE9lHbXC3ULZik74rLC/xDXH4lVKfszCoB3SIj/dJqP7Qh4DCrNrb/AGi8iT7wJBNd1U8ej/FLa7MhI0/IU6W3uGgkIgyoHcV1lhpaO4CBAo/iqfU4Ibfy4iwCvkNmvNvqfQVcarHm8WfLGfSn1JOghnkiHQMRUdekj5t7hRRRTAKSSWOP770tRT2/mJwo3e9AB9pg/vUouYScBhmoBDOB/qkqaOGNBvdBvoESdRXV&#43;EIlks545CUXdmuVznpV&#43;x8YR6HOUktlm4HymsqtL2hrSq&#43;zO/v4JJbBzDMVCriuC1cXcaRQTSb1xjGOlSap8VDd2rW1vYRxbu9YsviQ6jFEk&#43;1SvoMVnSpezNatX2hJHDGg5Rav6Q23UFXbu35UVQBDAEHINaehPEmrxs54j&#43;Y10VTmOs0GzIiZ2kkXy2I2mnavpn2xS8Ujl3IAyelTXVtNN/ptqSttIMkA45qjBLPbbp5Ub7MvJOc8/WvN/wCXp6X/AC6ON1C1ksZ3inP7yqAt5M582tTxLqttdapHNn5nWqY5UEdK9KmeaRiJw&#43;/f/wABqWiimAUUVIKAFHSkIBpaKAMu&#43;uvsfCffasIkzSs8j/PV7VZPNvsf3aof8tKALD6eyQibK4&#43;tV37Yp2Wb5cnHpVh7fy4Af4qyNDX095FtQsgwcfLWabm8tbqT5yhbg1p2mqpN9jtFtkUhgGYdTWt8QtJjsbq1khXCPEM/WkBs6LqOpXvhk20ALRI3zY5JrchaRvDV1bXZEWxS6Z6msX4UaqsN81pKQUmGAD6itz4r6taWdvHbxALcMvzEelZnSeW21vBqerJaEOZZHCqwrc1HTpNLvXtH/g4rL8DIZfF9oevzbq9C&#43;JNg8WoQ3oXaki4b6itP&#43;XhzVThaKKK2MwqUdKiqQUALTXO1GPoKcelVb6Ty7R39qAOdkk3zSOe5qFKM559atW1ugPmTfd/hWsgRJaRD75pb6Q4VErYltoJdIdxHscLlcVhySD7HEzff6VmdNSn7M0fCFp9r8U2MT9pAWr1P4m6Wt1a4jUFo03LiuB&#43;Hts58X2TuvyEmvQPiXPPpmni4j5G7HNKp/ECmeP6Jqkum6gkittkjfIFWPFOty6zfm4nYliMbfSslbmFpTJ5X7wnNTSXfmS&#43;a0CdMYrQRr&#43;E0kS8juYphHOjjaK9f8STDWvCYaUqbiL5uBXh2n6k0epxSYCRggEV7Bpqm8X7Kx&#43;SUAj8aioFM8&#43;HSitDxBpcmjao9qfqKzgeK6Ec7FpNwz1FLURt0LbyTupgP89fUVS1aX/RNn94094I0focVFeRiSSJH6c0AZFvbSTvkfcTrUzyobhELZQdcfyqW7c2sIjiGFbq3rWfH1zWRp/DL8&#43;ozzBo1&#43;WMcAVQJOOalqKgHV9od74CfOt2Df7Vdn8arkR6JawDGXfNec&#43;ELuS1u7WVCoYSY5&#43;tbvxavpri4s4JpFcqm75fel/y8D/l2eZx8nNS1FEMVZ7UzMrg4YH3r2fw/c507T7nd87xYH1HSvGH&#43;8K7rRNbW30RIWbcwJKD&#43;7WdQ0pl/xVqL6jrLPKuHVdprCzU00zzymR&#43;WNQ10AS5oqLNSZpmYEAiqUpzIqD5mqzJUSRbH8yg0MW9keSZo2HCVWjq1dHM8h96rR9TWQElBHFFFIzNbQm3FR0w&#43;KueN5lm1CBFJYpGMms3TGysgHBHNN1W48&#43;73dwoWmaf8uzMxzUvajFFBmREVsaV/x7/jWZitTSv9Q/1rQC&#43;etFFFMCPPNSZ96q5NSxnj5/vUGhLSH7ppc0hwRg96DM52Yjc/P8RqKM1NewKly6oflqEREUAS0dqjwf71SxwSv9wM1ZAWdKk/0h/pUVxzdS1aso/L3712vVaSGUyO4Qlc1oaENFKRg&#43;lJWZmFaGmSbIJN3rVa3tJZpFBBCVo28KbnCfKvStTQmjuFkbapqXviqn2VgciQiljj8qTeXZqDMKUdaSgdaDQlzRmkpnOaAKlxIlvIzvBvqL&#43;0o/8An0WrV5/qGrLHSgPaF/7Tb&#43;Xv&#43;yj86gkvZm/1YCL7Uz/l0/GoScDrQHtDQsxmMu7lmapUuJrTflVdKjs/9StTyDKN9KAK/wBtsbgfOmx6h82xt8yFy57LWTJ99k96SOLJ5rIPaGlHqlxcXCxxnZHWrGmxMKfqaxrKH99WhmRDt2tt&#43;tagXs8daiz6Gq2TJ8nzLUscZj75oAkqKTzM/JUtFAEYM/8AdFI/n4b5hUuaMZFAEMf7yLD/ADVahsYDEDsquIipwlXrYyINrr8tZVAMe6i&#43;URxp/FUMllPGm946vkjzc/7dWryXOyMc96AKttH5cC1KeaO1FagYN5FIlwxCURjAyRXc&#43;G9Ci1qW6Ek6RbIyRnHNcrfadNazuiqXUEjcBxWQezDTgPmer&#43;c1Rij8u1/26QGXH3WrUC/iiqIkkHZzVmPLjnigBeaMN6GrNsjS3cUS4yWAGa7ay8LXGshmtoYWKcNg4oA4Dmkkk8vru/CvS/8AhAtVYr/oUOF964PWbGSx1aeCdQrofujpSAqx3UaDKROX/wBqiW9upeFQKKBRWfswIo0JdVk7mrVzb7Crqc1WB&#43;bP92pZ71XjEa53H2oASikHQUp6VqBJp1uJ9Xt0e5MMcrYdg2MCut8YaZpGnaZCdKv/ADmzh03ZrgLxJcqVJ/Co4FnL5ZiR6E1kBdWPj56lqIVLWoBijpRRQBNY3Ag1C3mKbgHB216vpviiLT4mFtYupfk8V48CQQR1FWRqd4BgXEv/AH1Qa0j2L/hYEyghrNq8n1&#43;&#43;/tHWri6ZSu9vumqJv7w9biT86TmX9477jWfsxVKhLZyxxv8AvBx9M1f&#43;1WHeCsbvxRmtDM1PtOn5&#43;W3PvzVS4eCSf9zHtWqw61LQAVNa&#43;X5o877lQ0UAbEkmk7RlCee1RSyaS8RSJCr/AN41jnrRQApwG46VJUVGaAJaKizRmgD/2Q=="
+	  data-sizes="auto"alt="Image of Tzipora and Moise" title="The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*" 
+	  loading="lazy"
+	/>
+
+  </a>
+
+  
+    <figcaption>The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | <em><a href="/stories/sami/">Sami</a></em></figcaption>
+</figure></p>
 <p>Education in Vekllei has no fees, by nature of the <em>commons</em>, including at the secondary and tertiary level. It is funded and equipped by the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>, which also establishes and supports the national curriculum.</p>
 <p>There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.</p>
 <details>
 <summary>State Schools</summary>
-<p>State schools (also <em>central</em> or <em>district schools</em>) are administered and funded directly by a <a href="/republics/">constituent republic</a> through the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from <a href="/factbook/society/state/education/#preparatory-school">Prep</a> to Year 12 or 13.</p>
+<p>State schools (also <em>central</em> or <em>district schools</em>) are administered and funded directly by a <a href="/republics/">constituent republic</a> through the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from <a href="/factbook/society/state/education.html#preparatory-school">Prep</a> to Year 12 or 13.</p>
 </details>
 <details>
 <summary>Community Schools</summary>
@@ -301,7 +375,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </details>
 <details>
 <summary>Faith Schools</summary>
-<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="/factbook/society/state/education/#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
+<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="/factbook/society/state/education.html#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
 </details>
 <details>
 <summary>Boarding Schools</summary>
@@ -317,15 +391,89 @@ Education and schooling is an important part of Vekllei society, and its importa
 
 <p>Vekllei people are enrolled in 9 years of compulsory education. In addition, 3 years of pre-school and 3 years of senior secondary schooling are available but not compulsory.</p>
 <p>Compared to schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills, as well as social behaviour. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives. Reinforcement and learning are lead by positive rather than negative means.</p>
-<p>
+<p><figure>
+  <a href="/images/fullres/prairie.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
 
 
- 
-<figure>
-  <img src="https://images.millmint.net/fullres/prairie.jpg" alt="Image of Tzipora and Moise"  title="Misty morning in front of the [Moshel St School](/moshel/) | *[A Social Economy](/stories/a-social-economy/)*" loading="lazy" />
-  <figcaption>Misty morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/a-social-economy/">A Social Economy</a></em></figcaption>
-</figure>
-</p>
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+
+  
+  
+  
+
+  
+  
+
+	
+	
+	<noscript>
+	  <img class="rcf-image"
+		srcset="/images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_2070x0_resize_q90_box.jpg 4x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_2040x0_resize_q90_box.jpg 3x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_1360x0_resize_q90_box.jpg 2x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_1020x0_resize_q90_box.jpg 1.5x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_850x0_resize_q90_box.jpg 1.25x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_680x0_resize_q90_box.jpg 1x"
+		src="/images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_680x0_resize_q90_box.jpg"alt="Image of Tzipora and Moise" title="Misty morning in front of the [Moshel St School](/moshel/) | *[A Social Economy](/stories/a-social-economy/)*" 
+		loading="lazy"
+	  />
+	</noscript>
+
+	
+	<img class="rcf-image lazyload show-if-js"
+	  data-srcset="/images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_2070x0_resize_q90_box.jpg 4x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_2040x0_resize_q90_box.jpg 3x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_1360x0_resize_q90_box.jpg 2x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_1020x0_resize_q90_box.jpg 1.5x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_850x0_resize_q90_box.jpg 1.25x, /images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_680x0_resize_q90_box.jpg 1x"
+	  data-src="/images/fullres/prairie.jpg"
+	  src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAMAAgAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/APbvKqPyuas4ox7VoBF5dGKlooAq&#43;VR5VWqKAKvlUeVVrFHl0AVfKqXHFS49qMe1AFXyqPKq1RQBFHHipaKKACovKqWjzKAJaMUUVmBFRUtREUAFFUtQ1Oy0uLzLuZYl6ZY1kaf440W/vPssV0u/OFzxmgDpKlpFIIBGCKWgAoxRRQBFRUtRYoAKKKKACou9S9qi71oBaooorMAo4rm9e8X2&#43;g3CwSRlmYZrU0nU01awS6RdqtQB4z8S7281TxhFo0b4jBGMH1qovgWaykF0l4wkiXcPrXV&#43;LvDat4xh1IbsSLjcP4SKrXSyJCbaS6Ylj97vXNUqanTSp6HoPhO&#43;e/8AD9vLIcuBtb6it4dK5zwlBDZ6LFEJVZjyRmujyBXSczCivN/HHxOXwzqK2NvAJpNuW56VwqfGHXVu4rqWECzL7WGO1AH0FRVDR9Sg1nTILyFwySKDx2NX6ACiijtQBEaj71JRWgEtFGR60Z4rMDyHx0TLr7b13bR8tdP4P1FbLw0815IqRRk9ewrnfFv7zxBN9a5nxXqZh8NQ2UUhBeQlsGtANnxF8UI7u6Wx062DgtgSNUshuZbVz5P70Lln6gV574S0s6rrSoPux/OzV6p4Y02ZdNvZ2nMqMxG1u9c9Ska0/wCGeTJr&#43;qaRqcggu5QQ/QtxXuHgbxiuuaLI10w&#43;0W4y/wDjXgmuReXrtzxj94a6n4Zaitt4jNrMf3VypUiugyKurpB4s8d3M8TExZwR9K3tW0mxg8ONF9nG1Fz06GtnVvBVnourtqmmSn5uXhFU7qKTXbOazt2CSyDad3AWuKp/EOmn/DNH4ReJbE6aujh2NyCWCn0r1gdK868A/DqDww326WYTXTjGQeBXoorpOYKKKKAIqKlqI0AeG/8ACb6x/wA/TV0/hLxrf3VwbWdTNnnI6iuPjt4cLujFW9HlbSb6S6jIG5cbaANfW5fO1mYnjmvPPFExN&#43;Y/4Frq7i7kuLqWZ8bmGetcVrr&#43;ZqDH&#43;9xWgHafD&#43;0W30LUtROA23apr0PweiN4d3H&#43;Msa4Xyv7K&#43;GGR8jzkV33guLHhK19THXOae0/d&#43;zPA/Egx4ivcdBIf51J4YJHiKxwcHzRR4nikg8R36v/AM9TVnwBa/bfFKfxCIbq0Mz3m5sozGXeTClO1ZK6LbQxvJbPnClnB71u3eGs4UWqZkgSzuvMdVbYQPyrM0OV03VtS0nw9LexSGbEhyrnOOe1bXhXx02q3f2O8j8uVvu4rl74vpngZZP&#43;es/OfrXP6ZrzafqAu441L4xyK0Mz3m4voLZNzvVX&#43;27eQcZrzM&#43;Jr/UEeQqMAVn2/iLUXm8tMfMcUAer3OuW9vb&#43;fI&#43;1FrF1H4gaVaRK6v5xb&#43;FDXEatf372nk3JTy26qK56BcnHkgjtxQBKgbCncOTU0SGZtm8ctirosYP9qtHTNBNzIDCjY3da5libgUma1toiJACFHzNivONVvIjfSSpygfK17jfeFM6XcAIrTFDt5rxfxJow0q1jjlX/AEpidw9K6QNvUfGMWqeGbXTVj2tGQTzXe&#43;EviBo9rpENncMyGJcFscV4Mvygc1KJXjVgHPzUAdj8QbmzudflurKVZElUNxUXw7kmh1t5YTgbDurmrKxm1EGRmbYvy7q7D4euNL8SPBcBSrocZ70DVI7HxJ8Rba0MdvbKzzIPm9K5zTfF15ql60PlBWlPrWR44ijj8SStGm1HAPTFbfw80AXpnvpTsEQyrGgv/l4WfGN3OmiLYSNyvzBQK5/T2Pkq5QN8tW9X1b7Zrslt96JVKE471Z0OxkurbCnO07duKPaENBDqTorRpEMVfinW0hik8tcu3PtXSad4FeSHzJXEe72rRfwfbQpiWVduO9AjgdQuvtM&#43;A&#43;6n21tL/wA9RXQy&#43;HNNjlJF0nFQ&#43;XYw7ggLf7Vct/Zmhp/2LEn37hVrYt9UstOsVgSRd/8AEwqA20LdVJqE6TaS9flrV0fZ/wAM5vaFldVjuHOycnNeO/EWCeDWjJKS8cg&#43;Vq9bTSraI/KD&#43;Fch8StNjOhJMq/OjferSn7QZ44&#43;dtPHSl/go7UzQ2NC1eCySW2uQfJk6Y7H1rYtZFllS5gb542&#43;VvWuKkj3pxXXadc29jo9lu5Pm5as6tM1pVTX8a27TSWVwUwZEAP1q3f6lN4e8LW1jA&#43;yabk4pkWow6vqEUUzhoVbK&#43;1ZPjCQS6wpD7o1GFFKma1F/wAvCC1XfeybzyQGJrsvC2t22nmaMIHk7V5/cXElncQS/wALrirmhTFtXU54b0pnTiatL2Xsz1k&#43;L53GBGBWLqfiWe5k2SMyjHaq2xAetMlkgQ/MAfrWXsqhwEJvWKfKGc&#43;1JGbuT/lmFH1pxu4E&#43;ZVBPoKqT6lcMdkMTH6Cj6sx&#43;1PRZNRtI/8Alpu&#43;lVZNYgB&#43;SMtXO&#43;YfSk8yRuiY&#43;tL2uIMvZG9Jq8hHyKFrl/GF1Pd6DKHfdjtVr98fvttFQajBDPp867iSVxzT9nVNDyL&#43;CiOnyrsldfQ4pldJmFX0PmW6RnpVCr44RPpQAsby2Vwjws1bDFNVt94P75axsmlilkiffG&#43;1qKlM1pVS/fW0kunRfLl0bFXvDA8syt5W6ZelWtBCXtu3ncvmr9vbR22u&#43;XH8odM8etc3tbHdicL&#43;69oSy3FyQSyMr/3cVk3UWoyZIRq6&#43;OHnMjbjT9q9MCsvrxw&#43;zOV0nw3qWqSZMnlD1Y132leD7a2i/e3Jkk/vA1nLEyj5WI&#43;hpd90n3J2X8a1&#43;vGXsh2&#43;NE6VFLKAM1Wk3nhH/SgW5/jfdWntaYAblSO5qvNMwhZm2qmOrVYR/Lk2GL5fUVzHiK7M8xgjJEa/zrP2pr7M5LUPL&#43;3SbPus2aqHrU11GUkWoa6TIUdRWm4&#43;Ycfwis2MZkUe9ejR&#43;HrS60&#43;N2Uq5QfMDWdSr7MDhqUDnpXUz&#43;FCqttkY&#43;&#43;KpSeGb6MfJh609rTD2QaFqUFiZTMcLT7fW/t3iCBolwitt/On23hSeSNnnbb/s9a1NL0GDT50kWNv95q5avszq9rU9n7M6LtTMn&#43;7UlFcJiLHmpKi347VF5tZjJfs3&#43;3R9m/26lor1/ZUzIz75jBaySluVFcDPdbvML/ec13uqziGxkaTHIrzeciWYjtmj2RrTKeokJsNVvMSjVSZHVEP3aqxf7XataRnVLsBBnTn&#43;IV6xaF0tIU7bRXjsTq0ylOoNevadIJbCBieqA0VaXtBG5Z5a2lO3IA64qr5b/wCzWvp7FNDuZVI25wRWaCh5FZeypmhF5cntVp1EmndBvU1ESBV3SltbgTxzKxJXK4rP2VMdMzXjk8sGgRvj7tOE4G5G6A4FPjbK7fStPqtMyIjvH8FRf8Aq1Iaio&#43;q0jQtYqI1LkUkmMdq1MzD1vybi3ML7vwrgr3TLsS/uPmSvT5I4ZPldRUX9lW0nYLQB5rbeG55WzOwVau32iW1vp0vlKA2371dfc6S8Un7k7krPu9OluLaSHa2W9qAPO9LtETUIgzZya9Bgjlby44i2T8qqtc7Y&#43;F9RbUArxFUQ/erubPTprN4pwwLRnIHrQAupzatoWlJZzp8k7A7qz476dB9&#43;tzXL268SXMERhMMUQyxPPNU/7E/6a/pQBQ/tOfv0rY0PxBbW17/piN5brt4qt/YoHV6ml0qLy42VAWjO4D1oAdcTRvqTiOF0gc5UsKnz5bqfwq/d6ta6nYR20dqYpUIyzDjj0qpIoaPORxQBHJmovMxVmPDx7sjiq0ooNDBjvriT/lq1B1C437PMarP9lWX8GsQVH/ZVpn59YhzQZleS7uM/fNSC7mwP3jVP/ZNt21WCl/sm2/j1iCgCtJd3GOJmqP7VOy581vzq7/ZVgf8AmMRUf2NZ9tYhoAWKSV41fzW/Opd0n/PZqSOyh/1aavb4o/s&#43;3H/MagzQA7Mo/wCWzVUlu54pNnnNVoadFIeNagpH0B5H41O3agCj9vuN/wDrqm&#43;3XH/PWoNR0p9Ot/P&#43;1wyc42rWP9pn/vLQBsyXdx186l&#43;13Hl7vMrF&#43;1Sf3x&#43;VH2qT&#43;&#43;KANqO7mx8rmm/bZ5JNnmmooo4nt1dr1FdvvLjpU1vZ2ch&#43;fU4loA//2Q=="
+	  data-sizes="auto"alt="Image of Tzipora and Moise" title="Misty morning in front of the [Moshel St School](/moshel/) | *[A Social Economy](/stories/a-social-economy/)*" 
+	  loading="lazy"
+	/>
+
+  </a>
+
+  
+    <figcaption>Misty morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/a-social-economy/">A Social Economy</a></em></figcaption>
+</figure></p>
 <p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.</p>
 <p>Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child&rsquo;s diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.</p>
 <h3 id="compulsory-education">
@@ -333,7 +481,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#compulsory-education">#</a>
 </h3>
 <p>Vekllei offers preschooling from ages 3 onwards. Garden School, or kindergarten, is for 3 &amp; 4 year-olds in Vekllei, and assists with the transition from home to school, followed by preparatory school, or &lsquo;prep&rsquo;, which is the first year of compulsory primary education.</p>
-<p>Vekllei primary education consists of 7 years, starting with <a href="/factbook/society/state/education/#preparatory-school">Prep</a> at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.</p>
+<p>Vekllei primary education consists of 7 years, starting with <a href="/factbook/society/state/education.html#preparatory-school">Prep</a> at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.</p>
 <p>The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.</p>
 <details open>
   <summary>Vekllei Compulsory Schooling</summary>
@@ -386,25 +534,173 @@ Education and schooling is an important part of Vekllei society, and its importa
   <span class="text">✿ Read more: <em><a href="/stories/uniforms/">Uniforms in Vekllei</a></em></span>
 </blockquote>
 
-<p>
+<p><figure>
+  <a href="/images/generation.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
 
 
- 
-<figure>
-  <img src="/images/generation.jpg" alt="Illustration of different ways of wearing the same school uniform"  title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" loading="lazy" />
-  <figcaption>Examples of Vekllei school uniform and its functional diversity | <a href="/stories/new-generation/"><em>A New Generation</em></a></figcaption>
-</figure>
-</p>
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+
+  
+  
+  
+
+  
+  
+
+	
+	
+	<noscript>
+	  <img class="rcf-image"
+		srcset="/images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_2070x0_resize_q90_box.jpg 4x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_2040x0_resize_q90_box.jpg 3x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_1360x0_resize_q90_box.jpg 2x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_1020x0_resize_q90_box.jpg 1.5x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_850x0_resize_q90_box.jpg 1.25x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_680x0_resize_q90_box.jpg 1x"
+		src="/images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_680x0_resize_q90_box.jpg"alt="Illustration of different ways of wearing the same school uniform" title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" 
+		loading="lazy"
+	  />
+	</noscript>
+
+	
+	<img class="rcf-image lazyload show-if-js"
+	  data-srcset="/images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_2070x0_resize_q90_box.jpg 4x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_2040x0_resize_q90_box.jpg 3x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_1360x0_resize_q90_box.jpg 2x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_1020x0_resize_q90_box.jpg 1.5x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_850x0_resize_q90_box.jpg 1.25x, /images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_680x0_resize_q90_box.jpg 1x"
+	  data-src="/images/generation.jpg"
+	  src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADYAgAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/APWSSATjpXP2ms3j6u0E1sFhJIVu9dDLJ5ce/FZFiDctNc4HyEjFAUip/wAJJINW&#43;y/Zf9G3bPMz3rXuNQitXRSCWbnArkIbSc38zSswtxKJA/b6Vo3t9BcXypD8zbOWHIxQa&#43;zNXVbm4GnrJZEF3PBPaptKuLiexV7pQJujY6VxvibxVHpFnbQ265XPzc1Z8H&#43;Jm1nT7pC6hlyVHfFAey/dnbjB4qlqWs2Wl7PtU4Rn&#43;VQK5XwxfXMWrMl1fecJCcKfX2rX13SYrq6jmZN5Ckc/w5p&#43;0MvZfvB2u&#43;JYND0uO82NMHOFCd6t6JrUWs6at5CrKD1Vqy7&#43;0it9Hgi2iWODlieadFqVvo&#43;hyyrGuY13hB70h&#43;y/dkVv4mvn1z7P9kH2feU3A8/lTfGPiSfQY4VtoPNeTrnoK5a78RX1tCNUSONTw&#43;3HYmm&#43;LvFcV3Y2QnhAZ0D5FBZ6FYaqLjQY7&#43;ZMfJkr6GpdN1Q34ZDCUK9M&#43;lYPh&#43;/HiHwt5FuERtuMelWdK8y1v3MsmEQbDn1oH7MluvEkdrqX2byHcKwV3A4XNb6sGUMOhGaxp7dfte9ohsdsscVsrjaNvTHFBlVI747LN29FzXI6R4o01YJ7Y3SrcNIQF&#43;tdJqNw6W0keM/Ka&#43;f43WPxPubOPOz&#43;tBrTPb1DXGnvEVGxnCsaxbvUNI8MNLaTS7ZGU7SRmuusoof7EQ7SSU314f49u/tviDn&#43;EYoAqa1M9xpaXBZnUythjXZfDq2jg8OXmobf3pVh&#43;FcHNI8vh&#43;OP&#43;BZTXV&#43;GNRkg8HXkaYAGRWg46uxDo2tXUniCBIog2yQ9PrXpl94isLEeXdzrHIexNeSeDLtIPEkUs/3SSKg8eagL3xJJtPyqABQdmNpezqHp9v4h0zSreZ7m48yOdyyZ5rM8RajY6hol3qNo5CMgTArz7ULky6ZZR/3UroPDKfb/AA5qNgeW2blrM1qYX/ZvalLV9XtJdLEEUoZvIRfxFY/iFt1np/OW8msV42ScxnqGxVvVEkgljhd9wVB&#43;taHkHqvgZrXRfCyajJJ8jH957U6z8V6XqWt3Fsjl1lYMvbpXLaZclvAN1bhieelc54bDxa9C&#43;w9fSszqSue8XeuaWlmUluY1fGNuea0NPIayiZW3AgEV8/ajK8msyEsceZ0zXumg3DTaXbDgYQUF47DfV0SXo3bh6ivCJ4vL8aFMcfaP617xd4BJPArxDUSG8eYj5BmHNaHnHu1s&#43;NNUAfwV4P4wglm8WXAjjZgv92vbodQhSwSLcN&#43;MVyE&#43;gSDXJ9QZ0KyJt2mszSkeY4P9gS8crKK3dLYr4Fuiq5LSY4qbXvDZ0bQbmVpgzyyZCelbnw9t4rnw5NFIqv8AOcgitB0qvs6vtDh9Dic6vbjy2I3jPFS&#43;LNJuYdZlZbd2jP3WAr1qz0m1t7lZEgRTj0q7cR2zczKp9MimduJxX1ioeS2HhfUNT0qKaJSCvBVhXXeE/Dl3pSXMs7D50K7a60eXbQZXaq0nnI9s8mRtweaX/Lwzq46p9X9keE3kONanTHSb&#43;tXtf0e8m1LKQtsKKfyFLcxI&#43;qzzBsobkDI&#43;tekajZtL5Lxj/liBTOUxvAWlTQWckV5BmOTkBq65dH05HLx2saODwQKns/LstNjMzKqqvzNT4b20uJNsUqMTyOay9mNVTmT4GsZL17l3YkndtrrrCJIFSKPhEWo9w3HntVm1x53tRSNMTV9qW7m1S5V43&#43;61c7ceBtKluYp1j2SIc5Heup/jNNPUfStDmMWLwrboySCRyd2fvGrmoeHILvHmOw4x8pIrUX7ifWppu1BocnL4J0&#43;4I&#43;0tJMF6BmNT6d4Ys9Ns5oLUsgds5HWugPRqjX7jUAZltpkdtP5nmO/y42seKj1jRINUgjDO8W1s/IcVon71Of8A1QoAyrzR4LmyS2dnCKAMg80jaBbR6Z9lDyeWepzzWlJ90fhT5v8AUigzOVk8EaZJbJFbgxbJQ5PXca0r3w&#43;9yyul0Y1Vdm0CtSHo/wBRVk/6r/gVAGa&#43;jwzaethMd4ZcFqrJ4N06zlimiVlkXAyGNbf/AC8R1Pcfw/UUAY0mnIspIP3utWYbfy&#43;mKkm&#43;&#43;v1qRaDQ/9k="
+	  data-sizes="auto"alt="Illustration of different ways of wearing the same school uniform" title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" 
+	  loading="lazy"
+	/>
+
+  </a>
+
+  
+    <figcaption>Examples of Vekllei school uniform and its functional diversity | <a href="/stories/new-generation/"><em>A New Generation</em></a></figcaption>
+</figure></p>
 <p>All schools in Vekllei share a common student uniform, which can also be worn by teachers and at university. The basic components are universal, but makes no requirements about hair, piercings or makeup. In addition, the basic uniform is often heavily accessorised with cultural elements approved by the school. These include elements like hats, belts, overskirt pleats, clothing items and armbands, but these are added to the existing uniform and do not typically modify the base components.</p>
-<p>
+<p><figure>
+  <a href="/images/kalinauniform.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
 
 
- 
-<figure>
-  <img src="/images/kalinauniform.jpg" alt="Illustration Caribbean youths wearing school uniform"  title="Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)" loading="lazy" />
-  <figcaption>Examples of Caribbean Commonwealth school uniform featuring local dress. | <a href="/stories/caribbean-uniform/"><em>Caribbean Uniforms</em></a></figcaption>
-</figure>
-</p>
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+  
+	
+	
+  
+
+
+  
+  
+  
+
+  
+  
+
+	
+	
+	<noscript>
+	  <img class="rcf-image"
+		srcset="/images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_2070x0_resize_q90_box.jpg 4x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_2040x0_resize_q90_box.jpg 3x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_1360x0_resize_q90_box.jpg 2x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_1020x0_resize_q90_box.jpg 1.5x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_850x0_resize_q90_box.jpg 1.25x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_680x0_resize_q90_box.jpg 1x"
+		src="/images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_680x0_resize_q90_box.jpg"alt="Illustration Caribbean youths wearing school uniform" title="Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)" 
+		loading="lazy"
+	  />
+	</noscript>
+
+	
+	<img class="rcf-image lazyload show-if-js"
+	  data-srcset="/images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_2070x0_resize_q90_box.jpg 4x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_2040x0_resize_q90_box.jpg 3x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_1360x0_resize_q90_box.jpg 2x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_1020x0_resize_q90_box.jpg 1.5x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_850x0_resize_q90_box.jpg 1.25x, /images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_680x0_resize_q90_box.jpg 1x"
+	  data-src="/images/kalinauniform.jpg"
+	  src="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAFUAgAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/APRqKKMZFemeYYOq&#43;LtJ0e48i5uPn/ujmtTTtTg1W0W5tn3RNXmvifSzDr9zNJbiVXwV3V2Pg&#43;Py9ET5AgyeBXLTq/vPZnVUw3s6ftDo6qX1/Z6bD511MsanpmrfavOPH1xLJqlvbOn7lVLbj0zW1Wr7MxpU/a1PZncafrFnqgzbTLIV7Cr9ec&#43;BYWbVWlTAj2HpXo1FKr7SmPE0vZVPZhRRQAT0FaGQUjOqDLMAPelIIGSK8s8Va3qmo6pNZ2jFIouPlrOpV9ma0qXtT1JWVhlSCPalrzbwBrl6dTl0u8LOduVLdq9JpGdWl7MKKKK1EB6VJBGs0mxnCDGaX7LJWRrklzb6c72/D/d6dqyqv92a0qX70y/FsdnLMiwvvlXrzVHwnd3Ika3I3RDn6VNp&#43;msbJr&#43;6cE8gAnrVDRtQGnS3L7C&#43;7gAdq8ilU/e&#43;0PTq&#43;zt9XO9HNY3iSwS60xnMIbJ2hscitO0l862jkx99azF1WN5Lm2e6RTFJnY1eliat6Rw4alaqcloUWoaTqn2S2QkSHnd2FeiafNHfmSNHVnjOG2&#43;tcvo6td67LI79cn8KdpKG28UP/Ze8wZ/eljwTXNhqtQ6XS9puduNMcp96rUdokEe0jJqUXKpGM9awdY8a6RosyxXdxtdv4QM4rV1ahnSpUzTuYR5ZwK821jwncx6u99Zsdkv3k969NsL&#43;01OwW6tZVkjboRTpolMDs6DgE0va/wDPw0/h1P3Z5JpmnXVvrDTqgjkQbSa72Ui3uIovMDl0DGsye4sxot5NFMnmtlfcGuf0CWeWaCeSWSQbtrM1RTq6mtWl7Sn7Q7ipY4TJV62sgVB7Va8qOJK6alU4aeGCMA&#43;lVdTjgisLhmQEhSRXjMXjnxCnSXP4UkvjPxBcROsshIIwflpfV6gfWKZzd74l1OTUWgSYiMyEBB9a6rTZdsrrPwGjyCfWuCyTqSO/Uvk12hmVXSNgSWUYrhqo6ViNT0/RZ420hXT5toxXiWt3s03ii6aKQgNJjg&#43;9b/8AwkWqaUJLe1k/ckc8VyVkxuNaV5eS8ua6X/CCP8SZ3Ny15Y3Vh9kJ8yaPaeevFdt4WE8emkXFv5Uobk/3q898S3FxZw2t1E3zxSDbSL4v8QFBiVcH2qMDT9pTFjatl7M9gNzz83pXh3iN/tPiS9eVgwD4Ge1b2lar4l1u&#43;W2gkHucdK3dX8JwG5s4ZSktzMcysvGcda0xOhnhqg74XXM0WlSJJnyfMOyu/u9SjNtJGF/hNcDbRTq7afpJEZjyR6VzV34m1qCaW3llw6cHilhvZ1UOpUqU2X5oy0LW6KfMllJArf0uGG30CSNnVZFyeTjmszwLE&#43;p3TXlznbFxz6muO8Q/2ivia9gh894mkO1RnArn9nqdtSroe2adqXm6fAxPJGDVhpnn4U15ANZ1TT44rZZSpVB8rClHivVx/wAvGK9KlSPN9qepHRNNT7tnCv8AwGnNo2nlCPskXI/u1NPcokmxqkeRFj&#43;8a8T2zPW9ij528RW4tfFU8QGI1kNei&#43;BlstSu3do1mCIA24dK4b4gRGLxdLs&#43;62GrrfhLnF&#43;fcV0VP4ftDmp29p7M1fHrafp1mI4LSJZJAfmx2ryWzmFvfxyuMorbq9O&#43;JkDE2zgEjaa8/wBK0WS9uoUJPzv0x2opVf8An4dNTDf8&#43;y9q2ux6pFHbJFgbxzXXXnge4XR7e7tnDZUFh6Vt6j4I0u30DMFv&#43;&#43;UBi3euj0K4FzokKMOibCDTp1fZfwznqYb2n8Q4LQtfstEjS2VcTu4DyelW9X1eyh8RJcQ3GY0hJyDnk1z/AIs8P3Gm6w10qkxF9/A4&#43;lMutBGtKb&#43;xlEUKpkr79xSdX2hp7G2xLb&#43;J72xuJruztjMCMB8VQltb3U5f7SngZPMbLVreCpNst5azqGixwCO9dlrtmkHh7euAxA4p4arTpmeJpVL0xPAwhXTJ1TG/zBxXQ/2bZPMs0sUe4uckivMLWS9s/INoW3zvj5TWhrD69p7wCWV2EjfwnpWV9RVan7woeNbFm8RTSW/MfH3a5&#43;OwlfqDXpMWjM0Ad8uzDJzVG40ryzxH&#43;leun&#43;6PEq1H7U7YxiWTO1aXaM4xRGhj71i&#43;JbvU7XT2OnQeZMeMV4Z9KeUfEBVl8aFFILEAcV03wl3B9QibGVYVjWPgbVb&#43;9Opaq7LMSWCdzWn4Q0HW9I165kEDRwP1b1rp/wCXRzf8vT0u90u21Fdtwiuo7NWLfWejabNbZEURQ/Lg4rVuYbu5sXjjl8qV1&#43;9jpXLReBJp5Vk1HUZLhkbcoPSuamdVQ7AskkPUFSKpWE8ccht1CooPGCOajl0a48ry1uSBjA9qx9H8IXemajLdPfNKHPAPagR1N7a2t7bPBcqrKw6muaWy0yzgaCFsKCQwXvW1eaVLcquLlkYVly&#43;GpZMFrjcR0GMUAR6Hp2m/a38nbkc4z/OrHi6QRaIAOmcU6PSbiMQrBEsJT7z5&#43;9SatpF/eQLDvR1znBoCmYnhi3a5ltnyuFJJFdB4gQS3tkm9Rh/unvVGy0XULW6WUBFCjGE4qHUNH1i81WO4aYhEPy4/rWgOojsFACAbFxilMVseqCqsH2gRASEEipgTv&#43;7Wftapl7GkGaqS3D729qt1ny/fesjqJrT/AEiTL9qsPMyMVHSq&#43;m/fNSTf600zIVbh261LGc1Vj61airQ1JaikGSOSKlqN&#43;ooMg8ndyXNSYxSjpSUAFFFFABRRRQBFt5qWo&#43;9SUAf/2Q=="
+	  data-sizes="auto"alt="Illustration Caribbean youths wearing school uniform" title="Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)" 
+	  loading="lazy"
+	/>
+
+  </a>
+
+  
+    <figcaption>Examples of Caribbean Commonwealth school uniform featuring local dress. | <a href="/stories/caribbean-uniform/"><em>Caribbean Uniforms</em></a></figcaption>
+</figure></p>
 <p>The basic uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.</p>
 <table>
 <thead>
@@ -439,10 +735,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Espionage</title>
-	  <link>https://millmint.net/factbook/society/state/espionage/</link>
+	  <link>https://millmint.net/factbook/society/state/espionage.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/espionage/</guid>
+	  <guid>https://millmint.net/factbook/society/state/espionage.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -456,7 +752,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#overview">#</a>
 </h2>
 <blockquote class="note series">
-  <span class="text">This article is about <a href="/intro/#what-is-vekllei">Vekllei</a>.</span>
+  <span class="text">This article is about <a href="/intro.html#what-is-vekllei">Vekllei</a>.</span>
 </blockquote>
 
 <blockquote class="note panel">
@@ -484,7 +780,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   Security Directorates
   <a class="anchor" href="#security-directorates">#</a>
 </h3>
-<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage/#noshem">Noshem</a>.</p>
+<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage.html#noshem">Noshem</a>.</p>
 <h3 id="adsem">
   Adsem
   <a class="anchor" href="#adsem">#</a>
@@ -514,10 +810,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Federalisation</title>
-	  <link>https://millmint.net/factbook/society/state/federalisation/</link>
+	  <link>https://millmint.net/factbook/society/state/federalisation.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/federalisation/</guid>
+	  <guid>https://millmint.net/factbook/society/state/federalisation.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -538,10 +834,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Finance</title>
-	  <link>https://millmint.net/factbook/society/state/finance/</link>
+	  <link>https://millmint.net/factbook/society/state/finance.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/finance/</guid>
+	  <guid>https://millmint.net/factbook/society/state/finance.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -563,7 +859,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#overview">#</a>
 </h2>
 <p>The colloquial turn-of-phrase for the domestic Vekllei economy is &ldquo;functionally moneyless,&rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and has a reputation as an &ldquo;Atlantic Middleman.&rdquo; Vekllei&rsquo;s facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.</p>
-<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance/#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance/#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance/#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
+<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance.html#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance.html#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance.html#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
 <h2 id="markets">
   Markets
   <a class="anchor" href="#markets">#</a>
@@ -576,13 +872,13 @@ Education and schooling is an important part of Vekllei society, and its importa
   Domestic Markets
   <a class="anchor" href="#domestic-markets">#</a>
 </h3>
-<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>.</p>
+<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>.</p>
 <p>While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa.</p>
 <h3 id="industrial-markets">
   Industrial Markets
   <a class="anchor" href="#industrial-markets">#</a>
 </h3>
-<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance/#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance/#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
+<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance.html#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
 <ul>
 <li><strong>Senrouive</strong>: private enterprises</li>
 <li><strong>Venrouive</strong>: public enterprises with membership in an industrial <a href="/bureaus/">bureau</a></li>
@@ -598,7 +894,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </blockquote>
 
 <p>The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the national liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.</p>
-<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance/#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
+<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance.html#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
 <h2 id="currency">
   Currency
   <a class="anchor" href="#currency">#</a>
@@ -618,12 +914,12 @@ Education and schooling is an important part of Vekllei society, and its importa
   Vekllei Crown (❦VK)
   <a class="anchor" href="#vekllei-crown-vk">#</a>
 </h3>
-<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance/#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
+<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance.html#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
 <h3 id="government-crown-ak">
   Government Crown (✾AK)
   <a class="anchor" href="#government-crown-ak">#</a>
 </h3>
-<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
+<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
 <p>The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK&rsquo;s relative security and reliability, backed by powerful domestic institutions.</p>
 <h2 id="banking">
   Banking
@@ -634,7 +930,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </blockquote>
 
 <p>The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> All banks in Vekllei are run as state-owned enterprises, and subordinated to the &lsquo;<em>Old Lady</em>,&rsquo; the colloquial name for the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. &lsquo;Unbanking&rsquo; policy &ndash; the effective demonetisation of the Vekllei domestic markets &ndash; saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.</p>
-<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance/#industrial-markets">industrial market</a>.</p>
+<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance.html#industrial-markets">industrial market</a>.</p>
 <h3 id="bank-of-vekllei">
   Bank of Vekllei
   <a class="anchor" href="#bank-of-vekllei">#</a>
@@ -661,7 +957,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 <p>The Commonwealth capital account runs at a deficit as part of a post-war investment policy called &lsquo;Handshake Accounting,&rsquo; which sees tremendous surplus state capital invested overseas.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
-<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance/#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance.html#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4">
 <p>Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
@@ -677,10 +973,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Forum of Free Nations</title>
-	  <link>https://millmint.net/factbook/society/state/free-nations/</link>
+	  <link>https://millmint.net/factbook/society/state/free-nations.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/free-nations/</guid>
+	  <guid>https://millmint.net/factbook/society/state/free-nations.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -700,10 +996,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Healthcare in Vekllei</title>
-	  <link>https://millmint.net/factbook/society/state/health/</link>
+	  <link>https://millmint.net/factbook/society/state/health.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/health/</guid>
+	  <guid>https://millmint.net/factbook/society/state/health.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -776,15 +1072,31 @@ The current system has good outcomes, and its public services are widely availab
 </blockquote>
 
 <p>Public healthcare is integrated into Vekllei&rsquo;s cascading federal system. National Health Authorities (NHAs) are tasked with local policy and the delivery of most care, including health promotion programmes and the administration of hospitals. The federal Health Secretariat designs commonwealth policy, and conducts most health planning and research. The federal health authorities also purchase foreign imports necessary for domestic healthcare, including the Community Pharmacy Agreements (CPA) which negotiate foreign medicine prices.</p>
-<p>
+<p><figure>
+  <a href="/svg/diagrams/health.png/"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="/svg/diagrams/health.png/" alt="Diagram of public health organisation"  title="Diagram of the organisation of public health in Vekllei and its structure" loading="lazy" />
-  <figcaption>Diagram of the organisation of public health in Vekllei and its structure</figcaption>
-</figure>
-</p>
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/svg/diagrams/health.png/"alt="Diagram of public health organisation" title="Diagram of the organisation of public health in Vekllei and its structure" 
+	  loading="lazy"
+	/>
+</a>
+
+  
+    <figcaption>Diagram of the organisation of public health in Vekllei and its structure</figcaption>
+</figure></p>
 <p>The foundation of Vekllei public health, however, lies in the municipalities. General Practitioners (GPs) and Family Doctors are the main primary care providers in the country, and are employed by <a href="/polis/">municipal</a> health councils.</p>
 <details open>
   <summary>Role of Government</summary>
@@ -832,10 +1144,10 @@ The current system has good outcomes, and its public services are widely availab
 	
 	<item>
 	  <title>Police</title>
-	  <link>https://millmint.net/factbook/society/state/police/</link>
+	  <link>https://millmint.net/factbook/society/state/police.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/police/</guid>
+	  <guid>https://millmint.net/factbook/society/state/police.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -855,10 +1167,10 @@ The current system has good outcomes, and its public services are widely availab
 	
 	<item>
 	  <title>Property</title>
-	  <link>https://millmint.net/factbook/society/state/housing/</link>
+	  <link>https://millmint.net/factbook/society/state/housing.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/housing/</guid>
+	  <guid>https://millmint.net/factbook/society/state/housing.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -915,10 +1227,10 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 	
 	<item>
 	  <title>Republics</title>
-	  <link>https://millmint.net/factbook/society/state/republics/</link>
+	  <link>https://millmint.net/factbook/society/state/republics.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/republics/</guid>
+	  <guid>https://millmint.net/factbook/society/state/republics.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -933,15 +1245,31 @@ Diagram of the a Polis administration and its structure There are a few criteria
 </blockquote>
 
 <p>A <strong>Republic</strong> (Vekllei: <em>Polis</em>) is type of city-state that make up the country of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. They consist of island city-states known as <em>Polisa</em> which together form a <a href="/constituents/">constituent commonwealth</a>. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.</p>
-<p>
+<p><figure>
+  <a href="/svg/diagrams/polis.png"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="/svg/diagrams/polis.png" alt="Diagram of Polis structure"  title="Diagram of the a Polis administration and its structure" loading="lazy" />
-  <figcaption>Diagram of the a Polis administration and its structure</figcaption>
-</figure>
-</p>
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/svg/diagrams/polis.png"alt="Diagram of Polis structure" title="Diagram of the a Polis administration and its structure" 
+	  loading="lazy"
+	/>
+</a>
+
+  
+    <figcaption>Diagram of the a Polis administration and its structure</figcaption>
+</figure></p>
 <p>There are a few criteria separating Polisa from regular city councils. They are generally self-sufficient, and include surrounding areas capable of agriculture and industry. They also retain their own lower courts, and have a strengthened local government consisting of a popular assembly (the Municipal Assembly) and Ecclesia &ndash; special-purpose councils of important civic citizens and industrial representatives.</p>
 <details open>
 <summary>List of Vekllei Republics</summary>
@@ -1071,10 +1399,10 @@ Diagram of the a Polis administration and its structure There are a few criteria
 	
 	<item>
 	  <title>Territories</title>
-	  <link>https://millmint.net/factbook/society/state/territories/</link>
+	  <link>https://millmint.net/factbook/society/state/territories.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/territories/</guid>
+	  <guid>https://millmint.net/factbook/society/state/territories.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1113,10 +1441,10 @@ As non-constituents, they are unable to form Sords and have permanent observer s
 	
 	<item>
 	  <title>Work Action Groups</title>
-	  <link>https://millmint.net/factbook/society/state/wag/</link>
+	  <link>https://millmint.net/factbook/society/state/wag.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/wag/</guid>
+	  <guid>https://millmint.net/factbook/society/state/wag.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

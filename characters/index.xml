@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Characters</title>
-	<link>https://millmint.net/characters/</link>
+	<link>https://millmint.net/characters.html</link>
 	<description>Recent content in Characters </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Amka</title>
-	  <link>https://millmint.net/characters/amka/</link>
+	  <link>https://millmint.net/characters/amka.html</link>
 	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/amka/</guid>
+	  <guid>https://millmint.net/characters/amka.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -37,10 +37,10 @@
 	
 	<item>
 	  <title>Merce</title>
-	  <link>https://millmint.net/characters/merce/</link>
+	  <link>https://millmint.net/characters/merce.html</link>
 	  <pubDate>Tue, 05 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/merce/</guid>
+	  <guid>https://millmint.net/characters/merce.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -55,10 +55,10 @@
 	
 	<item>
 	  <title>Laura</title>
-	  <link>https://millmint.net/characters/laura/</link>
+	  <link>https://millmint.net/characters/laura.html</link>
 	  <pubDate>Tue, 23 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/laura/</guid>
+	  <guid>https://millmint.net/characters/laura.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -73,10 +73,10 @@
 	
 	<item>
 	  <title>Astrid</title>
-	  <link>https://millmint.net/characters/astrid/</link>
+	  <link>https://millmint.net/characters/astrid.html</link>
 	  <pubDate>Fri, 19 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/astrid/</guid>
+	  <guid>https://millmint.net/characters/astrid.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -91,10 +91,10 @@
 	
 	<item>
 	  <title>Catia</title>
-	  <link>https://millmint.net/characters/catia/</link>
+	  <link>https://millmint.net/characters/catia.html</link>
 	  <pubDate>Sat, 06 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/catia/</guid>
+	  <guid>https://millmint.net/characters/catia.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -109,10 +109,10 @@
 	
 	<item>
 	  <title>Isuri</title>
-	  <link>https://millmint.net/characters/isuri/</link>
+	  <link>https://millmint.net/characters/isuri.html</link>
 	  <pubDate>Fri, 05 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/isuri/</guid>
+	  <guid>https://millmint.net/characters/isuri.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -127,10 +127,10 @@
 	
 	<item>
 	  <title>Yo</title>
-	  <link>https://millmint.net/characters/yo/</link>
+	  <link>https://millmint.net/characters/yo.html</link>
 	  <pubDate>Sun, 03 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/yo/</guid>
+	  <guid>https://millmint.net/characters/yo.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -145,10 +145,10 @@
 	
 	<item>
 	  <title>Kowalczyk</title>
-	  <link>https://millmint.net/characters/kowalczyk/</link>
+	  <link>https://millmint.net/characters/kowalczyk.html</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/kowalczyk/</guid>
+	  <guid>https://millmint.net/characters/kowalczyk.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -163,10 +163,10 @@
 	
 	<item>
 	  <title>Nincic</title>
-	  <link>https://millmint.net/characters/nincic/</link>
+	  <link>https://millmint.net/characters/nincic.html</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/nincic/</guid>
+	  <guid>https://millmint.net/characters/nincic.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -181,10 +181,10 @@
 	
 	<item>
 	  <title>Sabae</title>
-	  <link>https://millmint.net/characters/sabae/</link>
+	  <link>https://millmint.net/characters/sabae.html</link>
 	  <pubDate>Fri, 01 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/sabae/</guid>
+	  <guid>https://millmint.net/characters/sabae.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -199,10 +199,10 @@
 	
 	<item>
 	  <title>Nico</title>
-	  <link>https://millmint.net/characters/nico/</link>
+	  <link>https://millmint.net/characters/nico.html</link>
 	  <pubDate>Mon, 03 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/nico/</guid>
+	  <guid>https://millmint.net/characters/nico.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -217,10 +217,10 @@
 	
 	<item>
 	  <title>Ross</title>
-	  <link>https://millmint.net/characters/ross/</link>
+	  <link>https://millmint.net/characters/ross.html</link>
 	  <pubDate>Tue, 16 May 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/ross/</guid>
+	  <guid>https://millmint.net/characters/ross.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -235,10 +235,10 @@
 	
 	<item>
 	  <title>Fitri</title>
-	  <link>https://millmint.net/characters/fitri/</link>
+	  <link>https://millmint.net/characters/fitri.html</link>
 	  <pubDate>Wed, 22 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/fitri/</guid>
+	  <guid>https://millmint.net/characters/fitri.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -253,10 +253,10 @@
 	
 	<item>
 	  <title>Isabeau</title>
-	  <link>https://millmint.net/characters/isabeau/</link>
+	  <link>https://millmint.net/characters/isabeau.html</link>
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/isabeau/</guid>
+	  <guid>https://millmint.net/characters/isabeau.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -271,10 +271,10 @@
 	
 	<item>
 	  <title>Maya</title>
-	  <link>https://millmint.net/characters/maya/</link>
+	  <link>https://millmint.net/characters/maya.html</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/maya/</guid>
+	  <guid>https://millmint.net/characters/maya.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -289,10 +289,10 @@
 	
 	<item>
 	  <title>Penelope</title>
-	  <link>https://millmint.net/characters/penelope/</link>
+	  <link>https://millmint.net/characters/penelope.html</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/penelope/</guid>
+	  <guid>https://millmint.net/characters/penelope.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -307,10 +307,10 @@
 	
 	<item>
 	  <title>Hitori</title>
-	  <link>https://millmint.net/characters/hitori/</link>
+	  <link>https://millmint.net/characters/hitori.html</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/hitori/</guid>
+	  <guid>https://millmint.net/characters/hitori.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -325,10 +325,10 @@
 	
 	<item>
 	  <title>Sydney</title>
-	  <link>https://millmint.net/characters/sydney/</link>
+	  <link>https://millmint.net/characters/sydney.html</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/sydney/</guid>
+	  <guid>https://millmint.net/characters/sydney.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -343,10 +343,10 @@
 	
 	<item>
 	  <title>Tzafi</title>
-	  <link>https://millmint.net/characters/tzafi/</link>
+	  <link>https://millmint.net/characters/tzafi.html</link>
 	  <pubDate>Tue, 11 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/tzafi/</guid>
+	  <guid>https://millmint.net/characters/tzafi.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -361,10 +361,10 @@
 	
 	<item>
 	  <title>Bez</title>
-	  <link>https://millmint.net/characters/bez/</link>
+	  <link>https://millmint.net/characters/bez.html</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/bez/</guid>
+	  <guid>https://millmint.net/characters/bez.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -379,10 +379,10 @@
 	
 	<item>
 	  <title>Andre</title>
-	  <link>https://millmint.net/characters/andre/</link>
+	  <link>https://millmint.net/characters/andre.html</link>
 	  <pubDate>Sat, 18 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/andre/</guid>
+	  <guid>https://millmint.net/characters/andre.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -397,10 +397,10 @@
 	
 	<item>
 	  <title>Hen</title>
-	  <link>https://millmint.net/characters/hen/</link>
+	  <link>https://millmint.net/characters/hen.html</link>
 	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/hen/</guid>
+	  <guid>https://millmint.net/characters/hen.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -415,10 +415,10 @@
 	
 	<item>
 	  <title>Willy</title>
-	  <link>https://millmint.net/characters/willy/</link>
+	  <link>https://millmint.net/characters/willy.html</link>
 	  <pubDate>Mon, 01 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/willy/</guid>
+	  <guid>https://millmint.net/characters/willy.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -433,10 +433,10 @@
 	
 	<item>
 	  <title>Aleph</title>
-	  <link>https://millmint.net/characters/aleph/</link>
+	  <link>https://millmint.net/characters/aleph.html</link>
 	  <pubDate>Tue, 01 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/aleph/</guid>
+	  <guid>https://millmint.net/characters/aleph.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -451,10 +451,10 @@
 	
 	<item>
 	  <title>Ayn</title>
-	  <link>https://millmint.net/characters/ayn/</link>
+	  <link>https://millmint.net/characters/ayn.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/ayn/</guid>
+	  <guid>https://millmint.net/characters/ayn.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -464,11 +464,11 @@
 She was once engaged to Baron&rsquo;s friend and comrade George Angelopoulos, who perished in the Haiti Intervention. She has remained unmarried and lives a social, if solitary life with a circle of close friends. Upon Tzipora&rsquo;s arrival in Vekllei, she reconnects with Baron.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <a href="/characters/">
+	 	<![CDATA[<img src=""/> <a href="/factbook/characters/">
 	<img class="portrait" src="/images/mastheads/characters/portraits/ayn.png">
   </a>
 <h1>Ayn Lai-Lebedev</h1>
-<p><strong>Ayn Lai-Lebedev</strong> is a longtime associate of <a href="/characters/baron/">Baron</a> and a maternal figure to <a href="/characters/tzipora/">Tzipora</a>. She commands an affectionate and stable presence, intelligent and emotionally secure in her work and home life.</p>
+<p><strong>Ayn Lai-Lebedev</strong> is a longtime associate of <a href="/characters/baron.html">Baron</a> and a maternal figure to <a href="/characters/tzipora.html">Tzipora</a>. She commands an affectionate and stable presence, intelligent and emotionally secure in her work and home life.</p>
 <p>She was once engaged to Baron&rsquo;s friend and comrade George Angelopoulos, who perished in the <a style="color: rgb(210, 15, 52)" href="/haiti/"><span class="fi fi-ht"></span> Haiti</a> Intervention. She has remained unmarried and lives a social, if solitary life with a circle of close friends. Upon Tzipora&rsquo;s arrival in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, she reconnects with Baron.</p>
 <details>
 <summary>Factsheet</summary>
@@ -506,10 +506,10 @@ img {
 	
 	<item>
 	  <title>Baron</title>
-	  <link>https://millmint.net/characters/baron/</link>
+	  <link>https://millmint.net/characters/baron.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/baron/</guid>
+	  <guid>https://millmint.net/characters/baron.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -523,7 +523,7 @@ Baron has spent most of his life abroad in some capacity in service of his gover
 	<img class="portrait" src="/images/mastheads/characters/portraits/baron.png">
   </a>
 <h1>Baron Spector</h1>
-<p><strong>Baron</strong> <em>lo Ula de Tiria</em> <strong>Spector</strong> is <a href="/characters/tzipora/">Tzipora</a>&rsquo;s guardian in on way or another. Whether he&rsquo;s a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.</p>
+<p><strong>Baron</strong> <em>lo Ula de Tiria</em> <strong>Spector</strong> is <a href="/characters/tzipora.html">Tzipora</a>&rsquo;s guardian in on way or another. Whether he&rsquo;s a surrogate father, adoptive parent, mentor or friend, his title is unclear but their relationship is fairly straightforward. Tzipora lives with him in Seispri and his relationship with her is both paternal and respectful as an equal.</p>
 <p>Baron has spent most of his life abroad in some capacity in service of his government, and has few personal connections in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. He is a distant and serious person, but also mild and unopinionated. He is good at what he does.</p>
 <details>
 <summary>Factsheet</summary>
@@ -543,7 +543,7 @@ Baron has spent most of his life abroad in some capacity in service of his gover
 <summary>Personality</summary>
 <p>Baron can be hard to get a read on, but he is not that complicated. His life and lifestyle are informed by his history, both here and abroad. He is basically a lonely figure, neither cynical nor optimistic, neither obedient nor rebellious, navigating his serious responsibilities with competence. His beliefs basically reflect his country&rsquo;s values, if not quite their civilian aspirations.</p>
 <p>Tzipora&rsquo;s eccentricity cuts through a lot of this sober attitude, and it&rsquo;s obvious they like spending time together. Tzipora is not that much younger than Baron was when he enlisted with the territorial service, and he has many things in common with her. She is not a needy person and they learn from each other, both trying to figure out how to live their new domestic lives.</p>
-<p>He has a warm, platonic relationship with <a href="/characters/ayn/">Ayn</a>, who completes their household. They have a long history together at different distances, but are important parts of each others lives now.</p>
+<p>He has a warm, platonic relationship with <a href="/characters/ayn.html">Ayn</a>, who completes their household. They have a long history together at different distances, but are important parts of each others lives now.</p>
 </details>
 <style>
 h1 {
@@ -562,10 +562,10 @@ img {
 	
 	<item>
 	  <title>Cobian</title>
-	  <link>https://millmint.net/characters/cobian/</link>
+	  <link>https://millmint.net/characters/cobian.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/cobian/</guid>
+	  <guid>https://millmint.net/characters/cobian.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -579,7 +579,7 @@ She has a close but tempestuous relationship with Tzipora, and a tepid connectio
 	<img class="portrait" src="/images/mastheads/characters/portraits/cobian.png">
   </a>
 <h1>Coretti Queismesnah</h1>
-<p><strong>Cobian</strong> <em>lo Ro de Viviya</em> de <strong>Queismesnah</strong> is <a href="/characters/tzipora/">Tzipora</a>&rsquo;s longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood.</p>
+<p><strong>Cobian</strong> <em>lo Ro de Viviya</em> de <strong>Queismesnah</strong> is <a href="/characters/tzipora.html">Tzipora</a>&rsquo;s longtime friend and occasional girlfriend. Stern in manner and appearance, Cobian is easily remembered by her circular spectacles and stern fringe, styles maintained since childhood.</p>
 <p>She has a close but tempestuous relationship with Tzipora, and a tepid connection with Tzipora&rsquo;s broader friend group. She is polite in the middle-class sense of the word; formal among strangers, gossipy among friends.</p>
 <details>
 <summary>Factsheet</summary>
@@ -619,10 +619,10 @@ img {
 	
 	<item>
 	  <title>Coretti</title>
-	  <link>https://millmint.net/characters/coretti/</link>
+	  <link>https://millmint.net/characters/coretti.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/coretti/</guid>
+	  <guid>https://millmint.net/characters/coretti.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -637,7 +637,7 @@ She is sensitive and diplomatic, and is well-liked for her sense of justice and 
   </a>
 <h1>Coretti Adoula</h1>
 <p><strong>Coretti Gloria Adoula</strong> is Moise&rsquo;s girlfriend. Born in the Congo, she lived in the Soviet Union before moving to <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> at 6 years old. She has a knack for languages and speaks Oslolan fluently.</p>
-<p>She is sensitive and diplomatic, and is well-liked for her sense of justice and impartiality. Her relationship with <a href="/characters/moise/">Moise</a> brings her into <a href="/characters/tzipora/">Tzipora</a>&rsquo;s circle, and her unprejudiced curiosity and social grace are traits her peers admire. She has a friendly, if unusual bond with Tzipora.</p>
+<p>She is sensitive and diplomatic, and is well-liked for her sense of justice and impartiality. Her relationship with <a href="/characters/moise.html">Moise</a> brings her into <a href="/characters/tzipora.html">Tzipora</a>&rsquo;s circle, and her unprejudiced curiosity and social grace are traits her peers admire. She has a friendly, if unusual bond with Tzipora.</p>
 <details>
 <summary>Factsheet</summary>
 <ul>
@@ -675,10 +675,10 @@ img {
 	
 	<item>
 	  <title>Lin Zhi</title>
-	  <link>https://millmint.net/characters/zhi/</link>
+	  <link>https://millmint.net/characters/zhi.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/zhi/</guid>
+	  <guid>https://millmint.net/characters/zhi.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -692,7 +692,7 @@ Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting h
 	<img class="portrait" src="/images/mastheads/characters/portraits/zhi.png">
   </a>
 <h1>Lin Zhi</h1>
-<p><strong>Lin Zhi</strong>, who prefers being addressed by her full name, is <a href="/characters/tzipora/">Tzipora</a>&rsquo;s friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at <a href="/moshel/">Moshel St School</a>.</p>
+<p><strong>Lin Zhi</strong>, who prefers being addressed by her full name, is <a href="/characters/tzipora.html">Tzipora</a>&rsquo;s friend and occasional accomplice. She is surly, independent and uninterested in the opinions of others. She meets Tzipora at <a href="/moshel/">Moshel St School</a>.</p>
 <p>Like Tzipora, Zhi is a recent immigrant and despises her parents for uprooting her life to live in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, from which she has retreated into traditionally Chinese cultural dress and signals. Tzipora is fascinated by her. Cobian and Coretti fear her.</p>
 <details>
 <summary>Factsheet</summary>
@@ -731,10 +731,10 @@ img {
 	
 	<item>
 	  <title>Moise</title>
-	  <link>https://millmint.net/characters/moise/</link>
+	  <link>https://millmint.net/characters/moise.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/moise/</guid>
+	  <guid>https://millmint.net/characters/moise.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -748,8 +748,8 @@ Imposing in both attitude and posture, Moise is feared and respected among his p
 	<img class="portrait" src="/images/mastheads/characters/portraits/moise.png">
   </a>
 <h1>Moise Hasapis</h1>
-<p><strong>Moise Hasapis</strong> is <a href="/characters/tzipora/">Tzipora</a>&rsquo;s neighbour and one of her closest friends. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood.</p>
-<p>Imposing in both attitude and posture, Moise is feared and respected among his peers, an unfortunate social situation that enables his renowned temper. An agitator and occasional victim of his strength, Moise is tempered by Tzipora&rsquo;s inwardness and <a href="/characters/coretti/">Coretti</a>&rsquo;s good-naturedness. He lives with his sister and father in Seispri, and has no relationship with his mother, who remains in Greece.</p>
+<p><strong>Moise Hasapis</strong> is <a href="/characters/tzipora.html">Tzipora</a>&rsquo;s neighbour and one of her closest friends. Like Tzipora, he was born overseas and has only started schooling in Vekllei in late childhood.</p>
+<p>Imposing in both attitude and posture, Moise is feared and respected among his peers, an unfortunate social situation that enables his renowned temper. An agitator and occasional victim of his strength, Moise is tempered by Tzipora&rsquo;s inwardness and <a href="/characters/coretti.html">Coretti</a>&rsquo;s good-naturedness. He lives with his sister and father in Seispri, and has no relationship with his mother, who remains in Greece.</p>
 <details>
 <summary>Factsheet</summary>
 <ul>
@@ -786,10 +786,10 @@ img {
 	
 	<item>
 	  <title>Tzipora</title>
-	  <link>https://millmint.net/characters/tzipora/</link>
+	  <link>https://millmint.net/characters/tzipora.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/tzipora/</guid>
+	  <guid>https://millmint.net/characters/tzipora.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -803,7 +803,7 @@ Though born to Vekllei parents, she was raised overseas in Colombia and was late
 	<img class="portrait" src="/images/mastheads/characters/portraits/tzipora.png">
   </a>
 <h1>Tzipora Azela</h1>
-<p><strong>Tzipora</strong> <em>lo Ula de Helette</em> <strong>Azela</strong>, often called <strong>Zelda</strong> by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> with <a href="/characters/baron/">Baron</a>.</p>
+<p><strong>Tzipora</strong> <em>lo Ula de Helette</em> <strong>Azela</strong>, often called <strong>Zelda</strong> by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> with <a href="/characters/baron.html">Baron</a>.</p>
 <p>Though born to Vekllei parents, she was raised overseas in Colombia and was later educated in the United States. Since her arrival in Vekllei, she has returned to school and has formed sincere and close friendships, stabilising the more neurotic and anxious parts of her personality.</p>
 <details>
 <summary>Factsheet</summary>

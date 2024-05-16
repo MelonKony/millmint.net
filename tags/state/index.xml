@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>State</title>
-	<link>https://millmint.net/tags/state/</link>
+	<link>https://millmint.net/tags/state.html</link>
 	<description>Recent content in State </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureaus</title>
-	  <link>https://millmint.net/factbook/society/industry/bureaus/</link>
+	  <link>https://millmint.net/factbook/society/industry/bureaus.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/bureaus/</guid>
+	  <guid>https://millmint.net/factbook/society/industry/bureaus.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -36,8 +36,8 @@ Bureaus typically consist of a general council, which organise votes from worker
   <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Bureaus</strong> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the <a href="/factbook/society/state/finance/#domestic-markets">private markets</a>. As a result, bureaus are concerned primarily with the public good and industrial policy.</p>
-<p>Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into <em>company ballots</em>, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the <a href="/factbook/society/state/finance/#international-markets">Vekllei International Market</a>, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.</p>
+<p><strong>Bureaus</strong> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the <a href="/factbook/society/state/finance.html#domestic-markets">private markets</a>. As a result, bureaus are concerned primarily with the public good and industrial policy.</p>
+<p>Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into <em>company ballots</em>, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the <a href="/factbook/society/state/finance.html#international-markets">Vekllei International Market</a>, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.</p>
 <p>The largest bureaus include <em>Electra</em> and <a href="/universal-cotton/"><em>Universal Cotton</em></a>. Electra represents a collection of state-owned electricity generation companies, and Universal Cotton consists of over a hundred individual clothing manufacturers. Although state monopolies may form a bureau in part or as a whole, bureau membership does not necessarily imply state ownership.</p>
 ]]>
   	</content:encoded>
@@ -45,10 +45,10 @@ Bureaus typically consist of a general council, which organise votes from worker
 	
 	<item>
 	  <title>Consosva</title>
-	  <link>https://millmint.net/factbook/society/state/consosva/</link>
+	  <link>https://millmint.net/factbook/society/state/consosva.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/consosva/</guid>
+	  <guid>https://millmint.net/factbook/society/state/consosva.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -72,10 +72,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Corsosva</title>
-	  <link>https://millmint.net/factbook/society/state/corsosva/</link>
+	  <link>https://millmint.net/factbook/society/state/corsosva.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/corsosva/</guid>
+	  <guid>https://millmint.net/factbook/society/state/corsosva.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -96,10 +96,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Crown Industry</title>
-	  <link>https://millmint.net/factbook/society/industry/crown/</link>
+	  <link>https://millmint.net/factbook/society/industry/crown.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/crown/</guid>
+	  <guid>https://millmint.net/factbook/society/industry/crown.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -117,234 +117,11 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	</item>
 	
 	<item>
-	  <title>Education</title>
-	  <link>https://millmint.net/factbook/society/state/education/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/factbook/society/state/education/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[This article is about Vekllei society. Overview # Education in Vekllei is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the Parliament of Education.
-Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated federal parliament. It has good outcomes for Vekllei people, and contributes to the country&rsquo;s reputation as among the most literate and learned societies in the world.]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">This article is about <a href="/vekllei/">Vekllei</a> society.</span>
-</blockquote>
-
-<h2 id="overview">
-  Overview
-  <a class="anchor" href="#overview">#</a>
-</h2>
-<p>Education in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>.</p>
-<p>Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated federal <a href="/parliaments/">parliament</a>. It has good outcomes for Vekllei people, and contributes to the country&rsquo;s reputation as among the most literate and learned societies in the world. It has several education institutions of renown, including Vekllei National University and the Commonwealth University of the West Indies. These outcomes have seen the Vekllei model of education replicated overseas, where it is known as the Atlantic Model.</p>
-<p>Government education in Vekllei is unusually diverse, and comprises basically all schooling, including school types that would typically be private or independent in other countries. Government, or &lsquo;public&rsquo; schools include religious, independent and alternative schools in addition to standard municipal schools. These alternatives are an effort by the government to anticipate cultural preferences, such as operating Christian or Islamic schools in religious <a href="/republics/">republics</a>. Nonetheless, schools in Vekllei are co-educational with very few exceptions.</p>
-<blockquote>
-<p>Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.</p>
-</blockquote>
-<p>&ndash; <a href="/documents/">Document No. 7</a></p>
-<h2 id="atlantic-model-of-education">
-  Atlantic Model of Education
-  <a class="anchor" href="#atlantic-model-of-education">#</a>
-</h2>
-<p>The <em>Atlantic Model</em> is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including progressive and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.</p>
-<p>Although this system incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common <a href="/factbook/society/state/education/#uniform">student uniform</a>, and address teachers by their surname.</p>
-<p>The distinguishing characteristics of the Atlantic Model are:</p>
-<blockquote class="note ">
-  <span class="text"><ul>
-<li>Mixed-age classrooms, mostly comprising an age difference of three years</li>
-<li>Emphasis of cleanliness, ordered spaces and natural light</li>
-<li>Democratic or student-led topics and activities</li>
-<li>Emphasis of personal responsibility, improvement, and discipline</li>
-<li>Free time for work and play</li>
-<li>Emphasis on clubs, hobbies and extracurricular activities</li>
-<li>Shared burdens like cleaning and cooking</li>
-<li>Short classroom periods broken up by changes in location and subject</li>
-<li>Tracked subject streams</li>
-<li>Activities to improve school spirit and civic identity</li>
-<li>Emphasis of self-care, growth, emotional control and appearance</li>
-</ul>
-</span>
-</blockquote>
-
-<h2 id="organisation">
-  Organisation
-  <a class="anchor" href="#organisation">#</a>
-</h2>
-<blockquote class="note ">
-  <span class="text">✿ Download <span class="smallicon">📄</span> <a href="/files/documents/7.pdf">Document No. 7.pdf</a></span>
-</blockquote>
-
-<p>
-
-
- 
-<figure>
-  <img src="https://images.millmint.net/fullres/sami.jpg" alt="Image of Tzipora and Moise"  title="The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*" loading="lazy" />
-  <figcaption>The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | <em><a href="/stories/sami/">Sami</a></em></figcaption>
-</figure>
-</p>
-<p>Education in Vekllei has no fees, by nature of the <em>commons</em>, including at the secondary and tertiary level. It is funded and equipped by the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>, which also establishes and supports the national curriculum.</p>
-<p>There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.</p>
-<details>
-<summary>State Schools</summary>
-<p>State schools (also <em>central</em> or <em>district schools</em>) are administered and funded directly by a <a href="/republics/">constituent republic</a> through the <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a>, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from <a href="/factbook/society/state/education/#preparatory-school">Prep</a> to Year 12 or 13.</p>
-</details>
-<details>
-<summary>Community Schools</summary>
-<p>Community schools (also <em>local schools</em>) are usually administered by a <a href="/municipalities/">municipality</a>, and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling, most serve only primary education. Community schools may also refer to village schools, or community-run schools in the localist Vekllei tradition.</p>
-</details>
-<details>
-<summary>Studio & Technical Schools</summary>
-<p>Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track gifted learning. These schools may offer boarding, as only a few studio and technical schools exist across the Commonwealth and smaller republics may send their students overseas to study there.</p>
-</details>
-<details>
-<summary>Faith Schools</summary>
-<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="/factbook/society/state/education/#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
-</details>
-<details>
-<summary>Boarding Schools</summary>
-<p>Vekllei offers a handful of boarding schools, which are usually specialised institutions that may operate as orphanages or for international students. Some Vekllei boarding schools include aspects of democratic education.</p>
-</details>
-<h2 id="education">
-  Education
-  <a class="anchor" href="#education">#</a>
-</h2>
-<blockquote class="note link">
-  <span class="text">✿ Read more: <a style="color: var(--color-education)" href="/solsec/"><span class="fi fi-min-education fis"></span> Parliament of Education</a></span>
-</blockquote>
-
-<p>Vekllei people are enrolled in 9 years of compulsory education. In addition, 3 years of pre-school and 3 years of senior secondary schooling are available but not compulsory.</p>
-<p>Compared to schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills, as well as social behaviour. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives. Reinforcement and learning are lead by positive rather than negative means.</p>
-<p>
-
-
- 
-<figure>
-  <img src="https://images.millmint.net/fullres/prairie.jpg" alt="Image of Tzipora and Moise"  title="Misty morning in front of the [Moshel St School](/moshel/) | *[A Social Economy](/stories/a-social-economy/)*" loading="lazy" />
-  <figcaption>Misty morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/a-social-economy/">A Social Economy</a></em></figcaption>
-</figure>
-</p>
-<p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.</p>
-<p>Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child&rsquo;s diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.</p>
-<h3 id="compulsory-education">
-  Compulsory Education
-  <a class="anchor" href="#compulsory-education">#</a>
-</h3>
-<p>Vekllei offers preschooling from ages 3 onwards. Garden School, or kindergarten, is for 3 &amp; 4 year-olds in Vekllei, and assists with the transition from home to school, followed by preparatory school, or &lsquo;prep&rsquo;, which is the first year of compulsory primary education.</p>
-<p>Vekllei primary education consists of 7 years, starting with <a href="/factbook/society/state/education/#preparatory-school">Prep</a> at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.</p>
-<p>The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.</p>
-<details open>
-  <summary>Vekllei Compulsory Schooling</summary>
-<ul>
-<li>Preschool
-<ul>
-<li>Nursery School</li>
-<li>Garden School</li>
-<li>Preparatory School</li>
-</ul>
-</li>
-<li>Primary School (Years 1-6)</li>
-<li>Secondary School (Years 7-10)</li>
-<li>College (Years 11-12)</li>
-</ul>
-</details>
-<h3 id="tertiary-education">
-  Tertiary Education
-  <a class="anchor" href="#tertiary-education">#</a>
-</h3>
-<p>The Commonwealth invests heavily in tertiary education as both a social good and a product marketable overseas. Vekllei universities rank highly abroad, and education as a service is a major export of Vekllei, and contributes to Vekllei&rsquo;s reputation as an international capital of finance and skilled labour.</p>
-<p>Universities in Vekllei offer places to students who have completed their Education Award and satisfy the prerequisites for their subject. These requirements differ between subjects, and usually include an interview with the admissions board.</p>
-<p>In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time.</p>
-<h2 id="curriculum">
-  Curriculum
-  <a class="anchor" href="#curriculum">#</a>
-</h2>
-<p>The national curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.</p>
-<details open>
-  <summary>Atlantic Curriculum</summary>
-<ul>
-<li>Arts</li>
-<li>Vekllei Languages</li>
-<li>Foreign Languages</li>
-<li>Health and Physical Education</li>
-<li>Civic Sciences and Stewardship</li>
-<li>Economics and Business</li>
-<li>World Study</li>
-<li>Political Sciences and History</li>
-<li>Mathematics</li>
-<li>Material Sciences and Electronics</li>
-<li>Work Studies</li>
-</ul>
-</details>
-<h2 id="uniform">
-  Uniform
-  <a class="anchor" href="#uniform">#</a>
-</h2>
-<blockquote class="note link">
-  <span class="text">✿ Read more: <em><a href="/stories/uniforms/">Uniforms in Vekllei</a></em></span>
-</blockquote>
-
-<p>
-
-
- 
-<figure>
-  <img src="/images/generation.jpg" alt="Illustration of different ways of wearing the same school uniform"  title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" loading="lazy" />
-  <figcaption>Examples of Vekllei school uniform and its functional diversity | <a href="/stories/new-generation/"><em>A New Generation</em></a></figcaption>
-</figure>
-</p>
-<p>All schools in Vekllei share a common student uniform, which can also be worn by teachers and at university. The basic components are universal, but makes no requirements about hair, piercings or makeup. In addition, the basic uniform is often heavily accessorised with cultural elements approved by the school. These include elements like hats, belts, overskirt pleats, clothing items and armbands, but these are added to the existing uniform and do not typically modify the base components.</p>
-<p>
-
-
- 
-<figure>
-  <img src="/images/kalinauniform.jpg" alt="Illustration Caribbean youths wearing school uniform"  title="Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)" loading="lazy" />
-  <figcaption>Examples of Caribbean Commonwealth school uniform featuring local dress. | <a href="/stories/caribbean-uniform/"><em>Caribbean Uniforms</em></a></figcaption>
-</figure>
-</p>
-<p>The basic uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>Boys</th>
-<th>Girls</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Top</td>
-<td><ul> <li>White collared shirt, tucked shirttails</li> <li>Black school tie</li> <li>Navy cape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy blazer or sports jacket</li> </ul></td>
-<td><ul> <li>White blouse, tucked shirttails</li> <li>Black or red school tie or floral piece</li> <li>Navy cape, pettycape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy pinafore or gymslip</li> </ul></td>
-</tr>
-<tr>
-<td>Bottom</td>
-<td><ul> <li>Navy trousers or shorts</li> <li>Dark or brown belt</li> </ul></td>
-<td><ul> <li>Navy skirt, shorts or trousers</li> <li>Dark or brown belt</li> </ul></td>
-</tr>
-<tr>
-<td>Shoes</td>
-<td><ul> <li>Dark or brown leather shoes</li> <li>White sneakers or tennis shoes</li> <li>Dark socks</li> </ul></td>
-<td><ul> <li>Dark or brown leather shoes</li> <li>White sneakers or tennis shoes</li><li>white socks</li> </ul></td>
-</tr>
-</tbody>
-</table>
-<p>The uniform system was created in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.</p>
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>Espionage</title>
-	  <link>https://millmint.net/factbook/society/state/espionage/</link>
+	  <link>https://millmint.net/factbook/society/state/espionage.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/espionage/</guid>
+	  <guid>https://millmint.net/factbook/society/state/espionage.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -358,7 +135,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#overview">#</a>
 </h2>
 <blockquote class="note series">
-  <span class="text">This article is about <a href="/intro/#what-is-vekllei">Vekllei</a>.</span>
+  <span class="text">This article is about <a href="/intro.html#what-is-vekllei">Vekllei</a>.</span>
 </blockquote>
 
 <blockquote class="note panel">
@@ -386,7 +163,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   Security Directorates
   <a class="anchor" href="#security-directorates">#</a>
 </h3>
-<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage/#noshem">Noshem</a>.</p>
+<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage.html#noshem">Noshem</a>.</p>
 <h3 id="adsem">
   Adsem
   <a class="anchor" href="#adsem">#</a>
@@ -416,10 +193,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Finance</title>
-	  <link>https://millmint.net/factbook/society/state/finance/</link>
+	  <link>https://millmint.net/factbook/society/state/finance.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/finance/</guid>
+	  <guid>https://millmint.net/factbook/society/state/finance.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -441,7 +218,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#overview">#</a>
 </h2>
 <p>The colloquial turn-of-phrase for the domestic Vekllei economy is &ldquo;functionally moneyless,&rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and has a reputation as an &ldquo;Atlantic Middleman.&rdquo; Vekllei&rsquo;s facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.</p>
-<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance/#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance/#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance/#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
+<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance.html#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance.html#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance.html#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
 <h2 id="markets">
   Markets
   <a class="anchor" href="#markets">#</a>
@@ -454,13 +231,13 @@ Education and schooling is an important part of Vekllei society, and its importa
   Domestic Markets
   <a class="anchor" href="#domestic-markets">#</a>
 </h3>
-<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>.</p>
+<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>.</p>
 <p>While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa.</p>
 <h3 id="industrial-markets">
   Industrial Markets
   <a class="anchor" href="#industrial-markets">#</a>
 </h3>
-<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance/#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance/#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
+<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance.html#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
 <ul>
 <li><strong>Senrouive</strong>: private enterprises</li>
 <li><strong>Venrouive</strong>: public enterprises with membership in an industrial <a href="/bureaus/">bureau</a></li>
@@ -476,7 +253,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </blockquote>
 
 <p>The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the national liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.</p>
-<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance/#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
+<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance.html#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
 <h2 id="currency">
   Currency
   <a class="anchor" href="#currency">#</a>
@@ -496,12 +273,12 @@ Education and schooling is an important part of Vekllei society, and its importa
   Vekllei Crown (❦VK)
   <a class="anchor" href="#vekllei-crown-vk">#</a>
 </h3>
-<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance/#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
+<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance.html#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
 <h3 id="government-crown-ak">
   Government Crown (✾AK)
   <a class="anchor" href="#government-crown-ak">#</a>
 </h3>
-<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
+<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
 <p>The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK&rsquo;s relative security and reliability, backed by powerful domestic institutions.</p>
 <h2 id="banking">
   Banking
@@ -512,7 +289,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </blockquote>
 
 <p>The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> All banks in Vekllei are run as state-owned enterprises, and subordinated to the &lsquo;<em>Old Lady</em>,&rsquo; the colloquial name for the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. &lsquo;Unbanking&rsquo; policy &ndash; the effective demonetisation of the Vekllei domestic markets &ndash; saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.</p>
-<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance/#industrial-markets">industrial market</a>.</p>
+<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance.html#industrial-markets">industrial market</a>.</p>
 <h3 id="bank-of-vekllei">
   Bank of Vekllei
   <a class="anchor" href="#bank-of-vekllei">#</a>
@@ -539,7 +316,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 <p>The Commonwealth capital account runs at a deficit as part of a post-war investment policy called &lsquo;Handshake Accounting,&rsquo; which sees tremendous surplus state capital invested overseas.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
-<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance/#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance.html#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4">
 <p>Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
@@ -555,10 +332,10 @@ Education and schooling is an important part of Vekllei society, and its importa
 	
 	<item>
 	  <title>Interim Prosperity Government</title>
-	  <link>https://millmint.net/factbook/history/interim/</link>
+	  <link>https://millmint.net/factbook/history/interim.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/history/interim/</guid>
+	  <guid>https://millmint.net/factbook/history/interim.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -581,10 +358,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Municipalities</title>
-	  <link>https://millmint.net/factbook/society/state/government/municipalities/</link>
+	  <link>https://millmint.net/factbook/society/state/government/municipalities.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/municipalities/</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/municipalities.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -627,10 +404,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Patreon</title>
-	  <link>https://millmint.net/millmint/patreon/</link>
+	  <link>https://millmint.net/millmint/patreon.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/</guid>
+	  <guid>https://millmint.net/millmint/patreon.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -649,10 +426,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Sagas</title>
-	  <link>https://millmint.net/factbook/society/culture/sagas/</link>
+	  <link>https://millmint.net/factbook/society/culture/sagas.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/sagas/</guid>
+	  <guid>https://millmint.net/factbook/society/culture/sagas.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -666,7 +443,7 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
   <span class="text">Part of the <em><a href="/culture/">culture</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language/#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language/#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
+<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language.html#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language.html#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
 <p>Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.</p>
 <blockquote class="note panel">
   <span class="text"><p><strong>Sagas of Old Oslola</strong></p>

@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Patreon</title>
-	<link>https://millmint.net/millmint/patreon/</link>
+	<link>https://millmint.net/millmint/patreon.html</link>
 	<description>Recent content in Patreon </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/patreon/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Atomic Moderne Chapter 1</title>
-	  <link>https://millmint.net/millmint/patreon/drafts/comic/</link>
+	  <link>https://millmint.net/millmint/patreon/drafts/comic.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/drafts/comic/</guid>
+	  <guid>https://millmint.net/millmint/patreon/drafts/comic.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -48,172 +48,460 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   
 
-<button  href="/comic/"   class="article-button">
+<button  href="/comic.html"   class="article-button">
   Back to Chapters
 <buttona>
 
-<p>
+<p><figure>
+  <a href="https://imgur.com/lES8o3e.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="https://imgur.com/lES8o3e.jpg" alt="img"  loading="lazy" />
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="https://imgur.com/lES8o3e.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/1.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/1.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/1.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/2.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/2.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/2.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/3.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/3.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/3.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/4.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/4.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/4.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/5.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/5.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/5.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/6.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/6.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/6.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/7.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/7.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/7.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/8.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/8.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/8.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/9.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/9.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/9.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/10.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/10.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/10.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/11.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/11.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/11.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/12.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/12.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/12.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/13.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/13.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/13.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/14.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/14.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/14.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/15.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/15.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/15.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/16.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/16.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/16.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
+    <figcaption></figcaption>
 </figure>
-
-
-
-
- 
 <figure>
-  <img src="https://images.millmint.net/images/comics/drafts/17.jpg" alt="img"  loading="lazy" />
+  <a href="/images/images/comics/drafts/17.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+        
+            
+
+	
+	<img
+	  class="rcf-image external-image unoptimized"
+	  src="/images/images/comics/drafts/17.jpg"alt="img" 
+	  loading="lazy"
+	/>
+</a>
+
   
-</figure>
-</p>
+    <figcaption></figcaption>
+</figure></p>
 ]]>
   	</content:encoded>
 	</item>

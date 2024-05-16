@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Vekllei</title>
-	<link>https://millmint.net/factbook/world/vekllei/</link>
+	<link>https://millmint.net/factbook/world/vekllei.html</link>
 	<description>Recent content in Vekllei </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/world/vekllei/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Caimanas</title>
-	  <link>https://millmint.net/factbook/world/vekllei/antilles/caimanas/</link>
+	  <link>https://millmint.net/factbook/world/vekllei/antilles/caimanas.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/vekllei/antilles/caimanas/</guid>
+	  <guid>https://millmint.net/factbook/world/vekllei/antilles/caimanas.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -42,10 +42,10 @@
 	
 	<item>
 	  <title>Verde Republic</title>
-	  <link>https://millmint.net/factbook/world/vekllei/atlantic/verde/</link>
+	  <link>https://millmint.net/factbook/world/vekllei/atlantic/verde.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/vekllei/atlantic/verde/</guid>
+	  <guid>https://millmint.net/factbook/world/vekllei/atlantic/verde.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

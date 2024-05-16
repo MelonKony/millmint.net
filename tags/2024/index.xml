@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>2024</title>
-	<link>https://millmint.net/tags/2024/</link>
+	<link>https://millmint.net/tags/2024.html</link>
 	<description>Recent content in 2024 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -201,7 +201,7 @@ She&rsquo;s wearing a &lsquo;gi&rsquo;, a ceremonial pleat that sits over the sk
 	  <![CDATA[Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears. Vekllei people don&rsquo;t own televisions, washing machines, or really any other consumer appliances. By American or European standards their lives are austere. But in place of TV is a vibrant soundscape of radio broadcasting. It&rsquo;s a tool of the state and counter-culture; hobbyists and industry alike. Pocket radios are popular, and her model was designed by Adelectrics.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/radio.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/radio.jpg"/> <blockquote class="note caption">
   <span class="text">Radio is the lifeblood of Vekllei culture. Their airwaves are packed with every kind of sound for all kinds of ears.</span>
 </blockquote>
 
@@ -227,7 +227,7 @@ She&rsquo;s wearing a &lsquo;gi&rsquo;, a ceremonial pleat that sits over the sk
 She keeps some smokes in her purse because it&rsquo;s good for the nerves. It was a bad habit she picked up in America working at Hotel Zion.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/smoke.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/smoke.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora wants to be a conformist but she&rsquo;s too much of a weirdo.</span>
 </blockquote>
 
@@ -251,7 +251,7 @@ She keeps some smokes in her purse because it&rsquo;s good for the nerves. It wa
 	  <![CDATA[Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment. Oslola, despite being in the North Atlantic, was reforested mostly with eucalyptus and pine after it was completely cleared in the middle ages.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/coffee.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/coffee.jpg"/> <blockquote class="note caption">
   <span class="text">Cobian stayed over. They&rsquo;re having coffee behind Tzipora&rsquo;s shitty apartment.</span>
 </blockquote>
 
@@ -274,7 +274,7 @@ She keeps some smokes in her purse because it&rsquo;s good for the nerves. It wa
 	  <![CDATA[ Commission for a TTRPG. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/maja.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/maja.jpg"/> <blockquote class="note caption">
   <span class="text">Commission for a TTRPG.</span>
 </blockquote>
 
@@ -297,7 +297,7 @@ She keeps some smokes in her purse because it&rsquo;s good for the nerves. It wa
 She is one of many volcanologists across Vekllei working for the LSRE (Land Science Research Establishment), which is a part of the national council of science establishments called SIRO.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/magma.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/magma.jpg"/> <blockquote class="note caption">
   <span class="text">Amka drives a company utility vehicle made in Vekllei and licensed from Toyota.</span>
 </blockquote>
 
@@ -321,7 +321,7 @@ She is one of many volcanologists across Vekllei working for the LSRE (Land Scie
 	  <![CDATA[Diagram of a Commonwealth ballistic missile submarine, with crew uniforms. The No. 3 Mantle Ballistic Missile Submarines have hydromagnetic drives that operate in total silence, and in their disappearance guarantee the safety of even the smallest Vekllei islands through the threat of nuclear annihilation. You might get Reykjavik, but you&rsquo;ll never get them.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/submarine.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/submarine.jpg"/> <blockquote class="note caption">
   <span class="text">Diagram of a Commonwealth ballistic missile submarine, with crew uniforms.</span>
 </blockquote>
 
@@ -344,7 +344,7 @@ She is one of many volcanologists across Vekllei working for the LSRE (Land Scie
 	  <![CDATA[ Sketch of Tzipora and Baron ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/pistol.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/pistol.jpg"/> <blockquote class="note caption">
   <span class="text">Sketch of Tzipora and Baron</span>
 </blockquote>
 
@@ -367,7 +367,7 @@ She is one of many volcanologists across Vekllei working for the LSRE (Land Scie
 It says a lot about Vekllei&rsquo;s attention to detail that, even in minor republics of a few thousand people, they have a complete uniform designed to your climate and culture that still conforms to the broader Commonwealth public education system.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/sami.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/sami.jpg"/> <blockquote class="note caption">
   <span class="text">Some seniors carry rifles to protect against polar bears.</span>
 </blockquote>
 
@@ -391,8 +391,8 @@ It says a lot about Vekllei&rsquo;s attention to detail that, even in minor repu
 	  <![CDATA[ They may not be related, but they are a family. Visit characters to read more about them. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/family.jpg"/> <blockquote class="note caption">
-  <span class="text">They may not be related, but they are a family. Visit <a href="/characters/">characters</a> to read more about them.</span>
+	 	<![CDATA[<img src="/images/fullres/family.jpg"/> <blockquote class="note caption">
+  <span class="text">They may not be related, but they are a family. Visit <a href="/characters.html">characters</a> to read more about them.</span>
 </blockquote>
 
 ]]>
@@ -413,7 +413,7 @@ It says a lot about Vekllei&rsquo;s attention to detail that, even in minor repu
 	  <![CDATA[ Tzipora can&rsquo;t swim, but she has new shorts ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/shorts.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/shorts.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora can&rsquo;t swim, but she has new shorts</span>
 </blockquote>
 
@@ -436,7 +436,7 @@ It says a lot about Vekllei&rsquo;s attention to detail that, even in minor repu
 This one has been running for 110 years. She had to take a superconducting maglev to find it. Vekllei has a social economy, and so high and low tech coexists simultaneously, bucking technocratic logic.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/steam.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/steam.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora likes machines, and she especially likes trains. She follows them around to find rare ones.</span>
 </blockquote>
 
@@ -461,7 +461,7 @@ This one has been running for 110 years. She had to take a superconducting magle
 While advanced fighters are useful for peer adversaries, more combat is taking place in remote, asymmetric bush wars that need different kinds of weapons.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/aurora.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/aurora.jpg"/> <blockquote class="note caption">
   <span class="text">All Commonwealth equipment is marked &ldquo;NAVY&rdquo; thanks to a quirk of history. It&rsquo;s a shorthand for military, and doesn&rsquo;t necessarily imply maritime aviation.</span>
 </blockquote>
 
@@ -485,7 +485,7 @@ While advanced fighters are useful for peer adversaries, more combat is taking p
 	  <![CDATA[ Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/patrol.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/patrol.jpg"/> <blockquote class="note caption">
   <span class="text">Local police are one of the basic agents of a Vekllei community. They know their people, and their people know them.</span>
 </blockquote>
 
@@ -507,7 +507,7 @@ While advanced fighters are useful for peer adversaries, more combat is taking p
 	  <![CDATA[ Locked in a broom closet before class, Tzipora thinks to herself: &lsquo;I could have made that jump.&rsquo; ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/fountain.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/fountain.jpg"/> <blockquote class="note caption">
   <span class="text">Locked in a broom closet before class, Tzipora thinks to herself: &lsquo;I could have made that jump.&rsquo;</span>
 </blockquote>
 
@@ -530,7 +530,7 @@ While advanced fighters are useful for peer adversaries, more combat is taking p
 Traditional jewellery is in vogue across the country, used to contrast their otherwise democratic, international styles.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/algic-fashion.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/algic-fashion.jpg"/> <blockquote class="note caption">
   <span class="text">On the way home from work.</span>
 </blockquote>
 
@@ -557,7 +557,7 @@ I wanted something modernist but appropriate to their climate which is tricky si
 It&rsquo;s actually similar to the prairie style done by Frank Lloyd Wright, in particular his mayan inspired homes]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/volcanic-moderne.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/volcanic-moderne.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora is meeting her friend for coffee before school.</span>
 </blockquote>
 
@@ -590,7 +590,7 @@ She&rsquo;s disillusioned with Roman mythology, so she&rsquo;s going to the sour
 Vekllei actually borrows a lot from Greek myths and iconography, because it is a deeply multicultural society that tries not to favour any single group.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/greek.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/greek.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora was <a href="/stories/library-terminal/">previously learning about the Romans</a>.</span>
 </blockquote>
 
@@ -616,7 +616,7 @@ Vekllei actually borrows a lot from Greek myths and iconography, because it is a
 	  <![CDATA[ In less than a second, after a click and practiced motion, the briefcase falls away and ten rounds blow away scandinationalist Simon Barsness (29) at the federal parliament. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/briefcase.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/briefcase.jpg"/> <blockquote class="note caption">
   <span class="text">In less than a second, after a click and practiced motion, the briefcase falls away and ten rounds blow away scandinationalist Simon Barsness (29) at the federal parliament.</span>
 </blockquote>
 
@@ -640,7 +640,7 @@ Lin Zhi rocks but she&rsquo;s a bit nuts, and she hates living in Vekllei. It&rs
 Tzipora is her only real friend because Tzipora is invariably attracted to outcasts and freaks.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/bald.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/bald.jpg"/> <blockquote class="note caption">
   <span class="text">Zhi&rsquo;s new look.</span>
 </blockquote>
 
@@ -665,7 +665,7 @@ Tzipora is her only real friend because Tzipora is invariably attracted to outca
 	  <![CDATA[ A sneeze is like a long-distance kiss. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/sneeze.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/sneeze.jpg"/> <blockquote class="note caption">
   <span class="text">A sneeze is like a long-distance kiss.</span>
 </blockquote>
 
@@ -688,7 +688,7 @@ Tzipora is her only real friend because Tzipora is invariably attracted to outca
 Construction begins with a residential or commercial petition, submitted either to the Bureau of Housing or the Bureau of Public Works.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/nch.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/nch.jpg"/> <blockquote class="note caption">
   <span class="text">The NCH Automatic Truck.</span>
 </blockquote>
 
@@ -717,7 +717,7 @@ Construction begins with a residential or commercial petition, submitted either 
 Vekllei people wear the same uniforms from preschool right through university, but they vary at the tertiary level depending on their field of study. Law students conventionally wear suits; scientists wear coats.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/college.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/college.jpg"/> <blockquote class="note caption">
   <span class="text">College girls from <a style="color: rgb(6, 136, 72)" href="/allia/"><span class="fi fi-ms"></span> Allia</a>, part of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>.</span>
 </blockquote>
 
@@ -742,7 +742,7 @@ Vekllei people wear the same uniforms from preschool right through university, b
 	  <![CDATA[ If Tzipora was a cable car. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/cablecar.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/cablecar.jpg"/> <blockquote class="note caption">
   <span class="text">If Tzipora was a cable car.</span>
 </blockquote>
 
@@ -765,7 +765,7 @@ Vekllei people wear the same uniforms from preschool right through university, b
 Stuff like chairs, stairs, creeks.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/jump.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/jump.jpg"/> <blockquote class="note caption">
   <span class="text">I am so tired.</span>
 </blockquote>
 
@@ -791,7 +791,7 @@ The stewardess in pictured here is from Helena. The use of republic flags on uni
 Vekllei has nearly 70 republics and Vekllei people think of themselves as a union of city-states belonging to one country, so that kind of upstream and downstream federalism is a core part of their identity.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/gravity.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/gravity.jpg"/> <blockquote class="note caption">
   <span class="text">Zero G is a hell of a thing.</span>
 </blockquote>
 
@@ -817,7 +817,7 @@ Vekllei has nearly 70 republics and Vekllei people think of themselves as a unio
 	  <![CDATA[Tzipora has a dazzle camo skirt so it&rsquo;s harder for her to get sunk by torpedos 🎉 THANK YOU for 2,000 followers on Twitter.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/2,000.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/2,000.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora has a dazzle camo skirt so it&rsquo;s harder for her to get sunk by torpedos</span>
 </blockquote>
 
@@ -842,7 +842,7 @@ It is home to most of the national spacecraft fleet and offers commercial servic
 The Astroport and its large terminal and research complex is a monument of Vekllei municipalist design and organic architecture, and is home to nearly 1,500 staff rotating between here and the moon.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/astroport.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/astroport.jpg"/> <blockquote class="note caption">
   <span class="text">The Astroport is a monument of Vekllei municipalist design.</span>
 </blockquote>
 
@@ -869,7 +869,7 @@ The Astroport and its large terminal and research complex is a monument of Vekll
 Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t time a trip to the moon. There are only about sixty slots a day and there&rsquo;s a two-year wait.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/terminal.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/terminal.jpg"/> <blockquote class="note caption">
   <span class="text">Going to the moon is a big deal and you dress up for it.</span>
 </blockquote>
 
@@ -895,7 +895,7 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 The flight can take up to 20 hours. Tomorrow we&rsquo;ll look at moon tourism in Vekllei.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/jumpsuit.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/jumpsuit.jpg"/> <blockquote class="note caption">
   <span class="text">For her birthday, Tzipora is going to the moon.</span>
 </blockquote>
 
@@ -920,7 +920,7 @@ The flight can take up to 20 hours. Tomorrow we&rsquo;ll look at moon tourism in
 It&rsquo;s a lightweight, simple rifle with great handling. It strips down to three large pieces, and is encased in smooth polymer so it won&rsquo;t catch on your kit.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/bullpup.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/bullpup.jpg"/> <blockquote class="note caption">
   <span class="text">The No. 8 is the first new combat rifle to meet Commonwealth Ordinance specifications completely.</span>
 </blockquote>
 
@@ -945,7 +945,7 @@ It&rsquo;s a lightweight, simple rifle with great handling. It strips down to th
 Because government cars are made to the same standard as police cruisers, they&rsquo;re actually really sporty little things beneath their plain exterior.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/housing.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/housing.jpg"/> <blockquote class="note caption">
   <span class="text">Laura drives an Avro GTV for work. Less than 10% of Vekllei people have drivers licenses.</span>
 </blockquote>
 
@@ -969,7 +969,7 @@ Because government cars are made to the same standard as police cruisers, they&r
 	  <![CDATA[ Here&rsquo;s a nice photo of Tzipora instead, with her friend Cobian. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/friends.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/friends.jpg"/> <blockquote class="note caption">
   <span class="text">Here&rsquo;s a nice photo of Tzipora instead, with her friend Cobian.</span>
 </blockquote>
 
@@ -991,7 +991,7 @@ Because government cars are made to the same standard as police cruisers, they&r
 	  <![CDATA[ Tzipora&rsquo;s face when she received her school photo in the mail. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/received.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/received.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora&rsquo;s face when she received her school photo in the mail.</span>
 </blockquote>
 
@@ -1013,7 +1013,7 @@ Because government cars are made to the same standard as police cruisers, they&r
 	  <![CDATA[ Yep, raise your head sweetheart&hellip; no, up, no, raise your chin. Like, move your head up. Yep. No, you&rsquo;ve put it down again. Just a little bit up, yep, HOLD IT, yep, okay, smile. Say &ldquo;cheese.&rdquo; ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/photo.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/photo.jpg"/> <blockquote class="note caption">
   <span class="text">Yep, raise your head sweetheart&hellip; no, up, no, raise your chin. Like, move your head up. Yep. No, you&rsquo;ve put it down again. Just a little bit up, yep, HOLD IT, yep, okay, smile. Say &ldquo;cheese.&rdquo;</span>
 </blockquote>
 
@@ -1036,7 +1036,7 @@ Because government cars are made to the same standard as police cruisers, they&r
 They have uniforms for all climates from the tropics to the polar regions, but most of their fighting is in Africa and the Caribbean these days, so the summer kit is most common.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/grunt.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/grunt.jpg"/> <blockquote class="note caption">
   <span class="text">This guy is from <a style="color: rgb(229, 156, 54)" href="/demon/"><span class="fi fi-demon"></span> Demon</a> (what they call Jan Mayen), and he&rsquo;s a long way from home.</span>
 </blockquote>
 
@@ -1061,7 +1061,7 @@ They have uniforms for all climates from the tropics to the polar regions, but m
 In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and private ownership are a contract with that land. As such, land ownership is an overlapping claim by these three agents.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/inspectors.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/inspectors.jpg"/> <blockquote class="note caption">
   <span class="text">Astrid (left) likes her job. Laura (right) is only here because she dropped out of chemistry at Montre University.</span>
 </blockquote>
 
@@ -1086,7 +1086,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  <![CDATA[The Parliament Police are just one of many police services in the country, who serve specific roles in their unique and multilayered society. An officer of the Police of the Parliament. A well-armed gendarmerie that protect sacred democratic institutions in Vekllei.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/officer.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/officer.jpg"/> <blockquote class="note caption">
   <span class="text">The Parliament Police are just one of many police services in the country, who serve specific roles in their unique and multilayered society.</span>
 </blockquote>
 
@@ -1109,7 +1109,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  <![CDATA[ In Tzipora&rsquo;s yard there are tree ferns twice her size. Oslola is an island of temperate, mossy rainforests. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/fern.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/fern.jpg"/> <blockquote class="note caption">
   <span class="text">In Tzipora&rsquo;s yard there are tree ferns twice her size. Oslola is an island of temperate, mossy rainforests.</span>
 </blockquote>
 
@@ -1131,7 +1131,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  <![CDATA[ Come on, man. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/sorbet.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/sorbet.jpg"/> <blockquote class="note caption">
   <span class="text">Come on, man.</span>
 </blockquote>
 
@@ -1153,7 +1153,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  <![CDATA[ Just a sketch that took too long, but I like her sneakers. I find the idea of government sneakers with little flags on them really funny. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/student.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/student.jpg"/> <blockquote class="note caption">
   <span class="text">Just a sketch that took too long, but I like her sneakers. I find the idea of government sneakers with little flags on them really funny.</span>
 </blockquote>
 
@@ -1175,7 +1175,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  <![CDATA[Tzipora likes to hang out up there because it&rsquo;s peaceful. Above her neighbourhood in Seispri are the ruins from the Atomic War. Seventy years on, only brick chimneys, silent as cairns, survive the homes and people that once lived there.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/cairns.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/cairns.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora likes to hang out up there because it&rsquo;s peaceful.</span>
 </blockquote>
 
@@ -1198,7 +1198,7 @@ In Vekllei, land &ldquo;owns itself&rdquo; as a seperate entity, and state and p
 	  <![CDATA[ Commission for crab_rare on Twitter featuring their character Fish Girl. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/fish.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/fish.jpg"/> <blockquote class="note caption">
   <span class="text">Commission for <a href="https://twitter.com/crab_rare">crab_rare</a> on Twitter featuring their character Fish Girl.</span>
 </blockquote>
 
@@ -1222,22 +1222,31 @@ Many islands of Vekllei are former subjects of the British Atlantic Territories,
 This is their flag:]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/falklands.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/falklands.jpg"/> <blockquote class="note caption">
   <span class="text">They wear the same Vekllei uniform with a few regional variations.</span>
 </blockquote>
 
 <p>The <a style="color: rgb(60, 122, 184)" href="/falklands/"><span class="fi fi-fk"></span></span> Falklands</a> are part of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, which is a confederation of constituent city-states in the Atlantic.</p>
 <p>Many islands of Vekllei are former subjects of the British Atlantic Territories, a former dominion of the British Empire.</p>
 <p>This is their flag:</p>
-<p>
+<p><figure>
+  <a href="/svg/flags/falklands.svg"
+     target="_blank"
+     rel="noopener noreferrer">
 
+    
+    
+    
+    
+    
 
- 
-<figure>
-  <img src="/svg/flags/falklands.svg" alt="image of the falklands flag"  loading="lazy" />
+        
   
-</figure>
-</p>
+</a>
+
+  
+    <figcaption></figcaption>
+</figure></p>
 ]]>
   	</content:encoded>
 	</item>
@@ -1257,7 +1266,7 @@ This is their flag:]]>
 The servicewoman on the left wears summer dress kit, and the gentlemen on the right is in day fatigues. They are recognisable for their white turtlenecks, unique among the other gendarmerie and military services.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/security.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/security.jpg"/> <blockquote class="note caption">
   <span class="text">Their No. 5 Armoured Car has &ldquo;Navy&rdquo; written on it, but don&rsquo;t be confused: the Navy is a Vekllei shorthand for all military service.</span>
 </blockquote>
 
@@ -1283,7 +1292,7 @@ The servicewoman on the left wears summer dress kit, and the gentlemen on the ri
 Even more confusingly, Vekllei has &ldquo;services&rdquo; in place of seperate branches, descended from the navy. So a territorial serviceman can be a subnational militiaman, federal soldier, and commando infantryman simultaneously, since service is simply &ldquo;enhanced&rdquo; rather than superseded.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/MP.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/MP.jpg"/> <blockquote class="note caption">
   <span class="text">She hasn&rsquo;t done anything wrong but it sure FEELS like she has.</span>
 </blockquote>
 
@@ -1308,7 +1317,7 @@ Even more confusingly, Vekllei has &ldquo;services&rdquo; in place of seperate b
 Her favourite book is not science fiction or fantasy &ndash; it&rsquo;s a novella called Caribbean Holiday, about twins going to a boarding school in Lucia (Vekllei).]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/grub.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/grub.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora sleeps in her clothes like 50% of the time, because she reads until she passes out.</span>
 </blockquote>
 
@@ -1333,7 +1342,7 @@ Her favourite book is not science fiction or fantasy &ndash; it&rsquo;s a novell
 Vekllei robots combine centralised computing (sent via radio or cables) with organic wetware for things like navigation and balance.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/library-terminal.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/library-terminal.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora spent six hours reading about the Roman Empire on a library terminal and has just been asked to leave. She&rsquo;s not happy about it.</span>
 </blockquote>
 
@@ -1367,7 +1376,7 @@ Design Notes
 This jet flies primarily between islands in the Atlantic and the Caribbean, and it really needs low-speed flight manoeuvrability to properly land on runways that aren&rsquo;t as long as those designed for larger, delta-wing international jets.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/hera.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/hera.jpg"/> <blockquote class="note caption">
   <span class="text">At eight years old, the Hera is among the newest aircraft in the Commonwealth Airways fleet.</span>
 </blockquote>
 
@@ -1397,7 +1406,7 @@ This jet flies primarily between islands in the Atlantic and the Caribbean, and 
 	  <![CDATA[ Oh no. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/ohno.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/ohno.jpg"/> <blockquote class="note caption">
   <span class="text">Oh no.</span>
 </blockquote>
 
@@ -1421,7 +1430,7 @@ Mostly for use among the Portuguese muslim community across Mira (Madeira) and t
 Notes on Headscarves in Vekllei Schools Under the uniform code, only &ldquo;veils&rdquo; are permitted, which encompasses a range of headwear for various groups including Christian and Jewish orthodox communities.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/hijab.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/hijab.jpg"/> <blockquote class="note caption">
   <span class="text">Vekllei has large Muslim populations in <a href="/mira/">Mira</a>.</span>
 </blockquote>
 
@@ -1454,7 +1463,7 @@ Under the uniform code, only &ldquo;veils&rdquo; are permitted, which encompasse
 This stock bot was built for United Grocers by National Machines to do the busywork of shelf-stocking. Now the grocer girls just sit outside the shop and chat.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/robot.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/robot.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora isn&rsquo;t on speaking terms with the Big Man upstairs, but she loves Maria.</span>
 </blockquote>
 
@@ -1480,7 +1489,7 @@ Her neighbourhood is mostly Jewish, and her friend Cobian is animistic in the Os
 Ayn is part thai and was raised buddhist, Moise is Greek Orthodox, Lin Zhi is a militant atheist (born in the wrong timeline for reddit).]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/maria.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/maria.jpg"/> <blockquote class="note caption">
   <span class="text">Tzipora isn&rsquo;t on speaking terms with the Big Man upstairs, but she loves Maria.</span>
 </blockquote>
 
@@ -1505,7 +1514,7 @@ Ayn is part thai and was raised buddhist, Moise is Greek Orthodox, Lin Zhi is a 
 	  <![CDATA[ Sketch I won&rsquo;t finish of Oslolan high-speed rail snaking out to the fast routes that cross the island&rsquo;s glaciers. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/hs.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/hs.jpg"/> <blockquote class="note caption">
   <span class="text">Sketch I won&rsquo;t finish of Oslolan high-speed rail snaking out to the fast routes that cross the island&rsquo;s glaciers.</span>
 </blockquote>
 
@@ -1529,7 +1538,7 @@ The ongoing evolution of the nuclear fighter is obvious compared to its predeces
 Notes on Safety A century of miniaturisation of fission has improved safety in vehicles but it&rsquo;s still not perfect.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/casemate.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/casemate.jpg"/> <blockquote class="note caption">
   <span class="text">Let&rsquo;s call it &ldquo;convergent evolution&hellip;&rdquo;</span>
 </blockquote>
 
@@ -1561,7 +1570,7 @@ A century of miniaturisation of fission has improved safety in vehicles but it&r
 	  <![CDATA[ The first morning of 2064. Ayn is collecting arctic basil for the eggs. ]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/fullres/2024.jpg"/> <blockquote class="note caption">
+	 	<![CDATA[<img src="/images/fullres/2024.jpg"/> <blockquote class="note caption">
   <span class="text">The first morning of 2064. Ayn is collecting arctic basil for the eggs.</span>
 </blockquote>
 

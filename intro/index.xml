@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Intro – What is Vekllei?</title>
-	<link>https://millmint.net/intro/</link>
+	<link>https://millmint.net/intro.html</link>
 	<description>Recent content in Intro – What is Vekllei? </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/intro/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>FAQ</title>
-	  <link>https://millmint.net/intro/faq/</link>
+	  <link>https://millmint.net/intro/faq.html</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/intro/faq/</guid>
+	  <guid>https://millmint.net/intro/faq.html</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -33,7 +33,7 @@ So this is Utopia,
 Is it? Well — I beg your pardon;]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://images.millmint.net/drawing.jpg"/> <h2 id="this-is-the-epoch-of-rest">
+	 	<![CDATA[<img src="/images/drawing.jpg"/> <h2 id="this-is-the-epoch-of-rest">
   This is the Epoch of Rest
   <a class="anchor" href="#this-is-the-epoch-of-rest">#</a>
 </h2>
@@ -57,8 +57,8 @@ I thought it was Hell.</p>
 <ul>
 <li><a href="/"><strong>millmint.net</strong></a>
 <ul>
-<li><a href="/factbook/"><strong>/factbook/</strong></a> is an online wiki of Vekllei its people</li>
-<li><a href="/millmint/"><strong>/millmint/</strong></a> is for everything outside of it</li>
+<li><a href="/factbook.html"><strong>/factbook/</strong></a> is an online wiki of Vekllei its people</li>
+<li><a href="/millmint.html"><strong>/millmint/</strong></a> is for everything outside of it</li>
 <li><a href="/posts/"><strong>/stories/</strong></a> is for illustrated snapshots of life in Vekllei</li>
 </ul>
 </li>
@@ -80,12 +80,12 @@ I thought it was Hell.</p>
 <p>By the mid-21st century, Vekllei has become a remarkable place. Quality of life is excellent and living there is unlike living anywhere else on Earth. The country is an ambitious expression of alternate modes of thinking, visible in every aspect of society, from its bizarre moneyless economy to its complicated cultural and religious metaphysics.</p>
 <p>Here are some quick facts about Vekllei and the state of the world in the mid-21st Century.</p>
 <ul>
-<li>Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most <a href="/factbook/society/technology/computers/">computers in Vekllei</a> are centralised, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.</li>
+<li>Vekllei takes place in a fictional retrofuture, where some technologies have advanced in different ways. Most <a href="/factbook/society/technology/computers.html">computers in Vekllei</a> are centralised, connected to via terminals. In this sense, they are both more and less advanced than contemporary personal computing. In other technologies, like aerospace, the world is undeniably more advanced.</li>
 <li>Vekllei&rsquo;s future retains the cold war from the previous century. The U.S.S.R. stiill exists, as do emerging political divisions across Europe, Africa, South America and Asia.</li>
 <li>Vekllei&rsquo;s future remains heavily influenced by midcentury modernist styles.</li>
 <li>Although Vekllei&rsquo;s unique history has influenced its region for thousands of years, most major diversions from our own timeline occur shortly after the Second World War.</li>
 </ul>
-<p><a href="/stories/">So get going</a>. This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you&rsquo;ll find something to like here.</p>
+<p><a href="/stories.html">So get going</a>. This website is an open notebook of the thing I love. If you like world-building, art, and strange corners of the web, you&rsquo;ll find something to like here.</p>
 <h2 id="why-utopia">
   Why Utopia?
   <a class="anchor" href="#why-utopia">#</a>
@@ -164,7 +164,7 @@ I thought it was Hell.</p>
   Who is Zelda?
   <a class="anchor" href="#who-is-zelda">#</a>
 </h4>
-<p>Zelda is another name for <a href="/factbook/characters/">Tzipora</a>. She has two names specifically to confuse you.</p>
+<p>Zelda is another name for <a href="/factbook/characters.html">Tzipora</a>. She has two names specifically to confuse you.</p>
 <p><a href="https://www.patreon.com/vekllei">Join the Patreon</a>.</p>
 <p><a href="https://discord.gg/dCE6vSU">Join the Discord</a>.</p>
 <p>Be &ldquo;petticoat&rdquo;.</p>
