@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Snapshots</title>
-	<link>https://millmint.net/snapshots.html</link>
+	<link>https://millmint.net/snapshots/</link>
 	<description>Recent content in Snapshots </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/snapshots/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>72 Hours</title>
-	  <link>https://millmint.net/snapshots/72-hours.html</link>
+	  <link>https://millmint.net/snapshots/72-hours/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/snapshots/72-hours.html</guid>
+	  <guid>https://millmint.net/snapshots/72-hours/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -82,10 +82,10 @@
 	
 	<item>
 	  <title>Matching Sneakers</title>
-	  <link>https://millmint.net/snapshots/sneakers.html</link>
+	  <link>https://millmint.net/snapshots/sneakers/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/snapshots/sneakers.html</guid>
+	  <guid>https://millmint.net/snapshots/sneakers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

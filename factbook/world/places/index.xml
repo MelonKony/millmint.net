@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Places</title>
-	<link>https://millmint.net/factbook/world/places.html</link>
+	<link>https://millmint.net/factbook/world/places/</link>
 	<description>Recent content in Places </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/world/places/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Comet</title>
-	  <link>https://millmint.net/factbook/world/places/comet.html</link>
+	  <link>https://millmint.net/factbook/world/places/comet/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/places/comet.html</guid>
+	  <guid>https://millmint.net/factbook/world/places/comet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -44,10 +44,10 @@
 	
 	<item>
 	  <title>Cosmodrome</title>
-	  <link>https://millmint.net/factbook/world/places/astroport.html</link>
+	  <link>https://millmint.net/factbook/world/places/astroport/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/places/astroport.html</guid>
+	  <guid>https://millmint.net/factbook/world/places/astroport/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -70,10 +70,10 @@ The spaceport is serviced by both a Commonwealth Airways shuttle and Commonwealt
 	
 	<item>
 	  <title>Moshel School</title>
-	  <link>https://millmint.net/factbook/world/places/moshel.html</link>
+	  <link>https://millmint.net/factbook/world/places/moshel/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/places/moshel.html</guid>
+	  <guid>https://millmint.net/factbook/world/places/moshel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -87,7 +87,7 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
   <span class="text">This article is about a <a href="/factbook/landscape/places"><strong>location</strong></a> in <a href="/vekllei/"><strong>Vekllei</strong></a></span>
 </blockquote>
 
-<p><strong>The Moshel Street State School</strong>, also the Moshel School or Lola 6th, is a <a href="/factbook/society/state/education.html#state-schools">Central School</a> in the borough of <a href="/lola/">Lola</a>. It is the second-largest school in Lola, and offers schooling between <a href="/factbook/society/state/education.html#preparatory-school">Prep</a> and Year 12. It is also Tzipora&rsquo;s school, and is where she completes her secondary schooling upon her arrival in Vekllei.</p>
+<p><strong>The Moshel Street State School</strong>, also the Moshel School or Lola 6th, is a <a href="/factbook/society/state/education/#state-schools">Central School</a> in the borough of <a href="/lola/">Lola</a>. It is the second-largest school in Lola, and offers schooling between <a href="/factbook/society/state/education/#preparatory-school">Prep</a> and Year 12. It is also Tzipora&rsquo;s school, and is where she completes her secondary schooling upon her arrival in Vekllei.</p>
 <p>As a Central School, Moshel St occupies a large grounds that are well-equipped with facilities, including a dining hall, multipurpose gymnasium, photographic, photonic computing, and chemical laboratories, and a large school library. Other school facilties include a multi-faith chapel and school farm. It is considered an average Central school for the Vekllei metropole, but its cricket teams and sports facilities are highly regarded.</p>
 <p>Like most Vekllei schools, Moshel St has a house system consisting of Loh, Vosmiosn, Reznor, and Halifasmiosn.</p>
 ]]>

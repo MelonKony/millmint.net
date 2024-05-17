@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Comic</title>
-	<link>https://millmint.net/comic.html</link>
+	<link>https://millmint.net/comic/</link>
 	<description>Recent content in Comic </description>
 	<generator>Hugo</generator>
 	<language>en</language>

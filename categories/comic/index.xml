@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Comic</title>
-	<link>https://millmint.net/categories/comic.html</link>
+	<link>https://millmint.net/categories/comic/</link>
 	<description>Recent content in Comic </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -61,9 +61,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fullres/tolerance_hue64e7969f0ac0db4878bd796b49b23e3_2459803_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/tolerance_hue64e7969f0ac0db4878bd796b49b23e3_2459803_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fullres/tolerance.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/fullres/tolerance.jpg"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -71,8 +69,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -121,9 +120,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_1500x0_resize_q90_h2_box.webp 3x, /images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/ham.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/comics/ham.jpg"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -131,8 +128,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -181,9 +179,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/1_hu1f790bad9ed080513a815dd0c0cf1760_2577920_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/1_hu1f790bad9ed080513a815dd0c0cf1760_2577920_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/1.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/comics/jump/1.jpg"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -191,8 +187,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/jump/2.jpg"
@@ -223,9 +220,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/2_hu1f790bad9ed080513a815dd0c0cf1760_3303955_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/2_hu1f790bad9ed080513a815dd0c0cf1760_3303955_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 2" 
+        src="/images/comics/jump/2.jpg"alt="comic page 2" 
         loading="lazy"
       />
 
@@ -233,8 +228,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/jump/3.jpg"
@@ -265,9 +261,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/3_hu1f790bad9ed080513a815dd0c0cf1760_2576577_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/3_hu1f790bad9ed080513a815dd0c0cf1760_2576577_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/3.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 3" 
+        src="/images/comics/jump/3.jpg"alt="comic page 3" 
         loading="lazy"
       />
 
@@ -275,8 +269,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/jump/4.jpg"
@@ -307,9 +302,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/4_hu1f790bad9ed080513a815dd0c0cf1760_3815782_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/4_hu1f790bad9ed080513a815dd0c0cf1760_3815782_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/4.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 4" 
+        src="/images/comics/jump/4.jpg"alt="comic page 4" 
         loading="lazy"
       />
 
@@ -317,8 +310,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -367,9 +361,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/1_hu40d33ec311460d9a44d4d171e66fad67_4023981_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/1_hu40d33ec311460d9a44d4d171e66fad67_4023981_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/comics/cola/1.png"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -377,8 +369,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/cola/2.png"
@@ -409,9 +402,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/2_hub662f3649abe914c124ed52607d21b6e_3401028_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/2_hub662f3649abe914c124ed52607d21b6e_3401028_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/2.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 2" 
+        src="/images/comics/cola/2.png"alt="comic page 2" 
         loading="lazy"
       />
 
@@ -419,8 +410,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/cola/3.png"
@@ -451,9 +443,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/3_hu03f6a92c83c40eca92c9713d6aa0e503_3206527_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/3_hu03f6a92c83c40eca92c9713d6aa0e503_3206527_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 3" 
+        src="/images/comics/cola/3.png"alt="comic page 3" 
         loading="lazy"
       />
 
@@ -461,8 +451,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/cola/4.png"
@@ -493,9 +484,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/4_hu208167ae66f45bb20088de44af18fea0_4276686_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/4_hu208167ae66f45bb20088de44af18fea0_4276686_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/4.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 4" 
+        src="/images/comics/cola/4.png"alt="comic page 4" 
         loading="lazy"
       />
 
@@ -503,8 +492,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>

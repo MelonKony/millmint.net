@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Isabeau</title>
-	<link>https://millmint.net/characters/isabeau.html</link>
+	<link>https://millmint.net/characters/isabeau/</link>
 	<description>Recent content in Isabeau </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -71,9 +71,7 @@
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_1500x0_resize_q90_h2_box.webp 3x, /images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fanart/jm-1.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="smallimg" 
+        src="/images/fanart/jm-1.jpg"alt="smallimg" 
         loading="lazy"
       />
 
@@ -81,8 +79,9 @@
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 </details>
 ]]>

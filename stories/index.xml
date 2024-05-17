@@ -10,13 +10,197 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Stories</title>
-	<link>https://millmint.net/stories.html</link>
+	<link>https://millmint.net/stories/</link>
 	<description>Recent content in Stories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/stories/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Canteen Wine</title>
+	  <link>https://millmint.net/stories/canteen-wine/</link>
+	  <pubDate>Thu, 16 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/canteen-wine/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[She stole extra wine cups from the school canteen. Students are allowed to have a small cup of wine with lunch from age 14, if they like. They&rsquo;re not supposed to have 4 cups.
+You can read more about alcohol consumption in Vekllei in this recent bulletin.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/winecup.jpg"/> <blockquote class="note caption">
+  <span class="text">She stole extra wine cups from the school canteen.</span>
+</blockquote>
+
+<p>Students are allowed to have a small cup of wine with lunch from age 14, if they like. They&rsquo;re not supposed to have 4 cups.</p>
+<p>You can read more about alcohol consumption in Vekllei in this <a href="/bulletin/alcohol/">recent bulletin</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Bored-er Guard</title>
+	  <link>https://millmint.net/stories/border-guard/</link>
+	  <pubDate>Fri, 10 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/border-guard/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Vekllei people only work half-days and still sometimes there&rsquo;s not enough to do. The border guards love to chat as they flip through your papers. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/border-guard.jpg"/> <blockquote class="note caption">
+  <span class="text">Vekllei people only work half-days and still sometimes there&rsquo;s not enough to do. The border guards love to chat as they flip through your papers.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Teabag</title>
+	  <link>https://millmint.net/stories/teabag/</link>
+	  <pubDate>Sat, 04 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/teabag/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ She likes Thailand. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/teabag.jpg"/> <blockquote class="note caption">
+  <span class="text">She likes Thailand.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Thailand</title>
+	  <link>https://millmint.net/stories/thailand/</link>
+	  <pubDate>Fri, 03 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/thailand/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[South-East Asia right now (I have arrived in Thailand 🇹🇭) Vekllei people don&rsquo;t stitch their school shirts, they use pins so they can be worn for different occasions.
+The embroidered name is cute though]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/thailand.jpg"/> <blockquote class="note caption">
+  <span class="text">South-East Asia right now (I have arrived in Thailand 🇹🇭)</span>
+</blockquote>
+
+<p>Vekllei people don&rsquo;t stitch their school shirts, they use pins so they can be worn for different occasions.</p>
+<p>The embroidered name is cute though</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Malaysia</title>
+	  <link>https://millmint.net/stories/malaysia/</link>
+	  <pubDate>Sun, 28 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/malaysia/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora is visiting Malaysia 🇲🇾 (I am visiting Malaysia) ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/malaysia.jpg"/> <blockquote class="note caption">
+  <span class="text">Tzipora is visiting Malaysia 🇲🇾 (I am visiting Malaysia)</span>
+</blockquote>
+
+<p><figure>
+  <a href="/images/fullres/hat.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/fullres/hat_hu73175baed424fac04ab27e43ae4a63f2_2279167_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/hat_hu73175baed424fac04ab27e43ae4a63f2_2279167_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fullres/hat.jpg"alt="Tzipora and Cobian mini-comic" 
+        loading="lazy"
+      />
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Constable</title>
+	  <link>https://millmint.net/stories/merce/</link>
+	  <pubDate>Mon, 22 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/merce/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The local police constable is cute. Merce has been with the Seispri Municipal Police Service for six years. She&rsquo;s the daughter of the former Chief Inspector.
+She serves as a patrol officer, investigator, mediator, café regular and source of wisdom.
+She &lsquo;knows&rsquo; Tzipora well.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/merce.jpg"/> <blockquote class="note caption">
+  <span class="text">The local police constable is cute.</span>
+</blockquote>
+
+<p>Merce has been with the Seispri Municipal Police Service for six years. She&rsquo;s the daughter of the former Chief Inspector.</p>
+<p>She serves as a patrol officer, investigator, mediator, café regular and source of wisdom.</p>
+<p>She &lsquo;knows&rsquo; Tzipora well.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Killers</title>
 	  <link>https://millmint.net/stories/killers/</link>
@@ -391,7 +575,7 @@ It says a lot about Vekllei&rsquo;s attention to detail that, even in minor repu
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="/images/fullres/family.jpg"/> <blockquote class="note caption">
-  <span class="text">They may not be related, but they are a family. Visit <a href="/characters.html">characters</a> to read more about them.</span>
+  <span class="text">They may not be related, but they are a family. Visit <a href="/characters/">characters</a> to read more about them.</span>
 </blockquote>
 
 ]]>
@@ -1243,8 +1427,9 @@ This is their flag:]]>
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -2412,9 +2597,7 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fullres/tolerance_hue64e7969f0ac0db4878bd796b49b23e3_2459803_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/tolerance_hue64e7969f0ac0db4878bd796b49b23e3_2459803_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fullres/tolerance.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/fullres/tolerance.jpg"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -2422,8 +2605,9 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -2607,9 +2791,7 @@ Is it strange I should change? I don&rsquo;t know, why don&rsquo;t you ask her?<
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fullres/clown_hu31f7cfd3774ee5f34e82cc57cf337f04_3277661_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/clown_hu31f7cfd3774ee5f34e82cc57cf337f04_3277661_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fullres/clown.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of a man in plain clothes firing a rifle" title="Full image of an agent of the Special Activities Directorate during *Operation Sea of Reeds*." 
+        src="/images/fullres/clown.jpg"alt="image of a man in plain clothes firing a rifle" title="Full image of an agent of the Special Activities Directorate during *Operation Sea of Reeds*." 
         loading="lazy"
       />
 
@@ -2617,8 +2799,9 @@ Is it strange I should change? I don&rsquo;t know, why don&rsquo;t you ask her?<
 
   </a>
 
+
   
-    <figcaption>Full image of an agent of the Special Activities Directorate during <em>Operation Sea of Reeds</em>.</figcaption>
+   <figcaption>Full image of an agent of the Special Activities Directorate during <em>Operation Sea of Reeds</em>.</figcaption>
 </figure></p>
 ]]>
   	</content:encoded>
@@ -2667,9 +2850,7 @@ Is it strange I should change? I don&rsquo;t know, why don&rsquo;t you ask her?<
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_1500x0_resize_q90_h2_box.webp 3x, /images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/ham.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/comics/ham.jpg"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -2677,8 +2858,9 @@ Is it strange I should change? I don&rsquo;t know, why don&rsquo;t you ask her?<
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -2884,9 +3066,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/sabae-3_hub0c564ed2d32996474d4b7ab489ef621_50516_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/sabae-3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/media/sabae-3.png"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -2894,8 +3074,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/media/sabae-4.png"
@@ -2923,9 +3104,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/sabae-4_huef803e608dc99f6f88748a2872ebb23a_68152_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/sabae-4.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/media/sabae-4.png"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -2933,8 +3112,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>So I said she was planning to go on vacation:</p>
 <p><figure>
@@ -2966,9 +3146,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fullres/sabae-2_hu0e6f4daf5fcec4fb2e13a650c41833f6_1626679_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/sabae-2_hu0e6f4daf5fcec4fb2e13a650c41833f6_1626679_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fullres/sabae-2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/fullres/sabae-2.jpg"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -2976,8 +3154,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>His followers reacted with amusement that someone from Australia was drawing his characters:</p>
 <blockquote>
@@ -3015,9 +3194,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/sabae-5_hu0af97c50d584cbcc4937ac2546b4ab38_148543_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/sabae-5.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/media/sabae-5.png"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -3025,8 +3202,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>It&rsquo;s funny how the internet connects train enthusiasts.</p>
 ]]>
@@ -3262,9 +3440,7 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/1_hu1f790bad9ed080513a815dd0c0cf1760_2577920_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/1_hu1f790bad9ed080513a815dd0c0cf1760_2577920_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/1.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/comics/jump/1.jpg"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -3272,8 +3448,9 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/jump/2.jpg"
@@ -3304,9 +3481,7 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/2_hu1f790bad9ed080513a815dd0c0cf1760_3303955_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/2_hu1f790bad9ed080513a815dd0c0cf1760_3303955_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 2" 
+        src="/images/comics/jump/2.jpg"alt="comic page 2" 
         loading="lazy"
       />
 
@@ -3314,8 +3489,9 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/jump/3.jpg"
@@ -3346,9 +3522,7 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/3_hu1f790bad9ed080513a815dd0c0cf1760_2576577_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/3_hu1f790bad9ed080513a815dd0c0cf1760_2576577_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/3.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 3" 
+        src="/images/comics/jump/3.jpg"alt="comic page 3" 
         loading="lazy"
       />
 
@@ -3356,8 +3530,9 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/jump/4.jpg"
@@ -3388,9 +3563,7 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/jump/4_hu1f790bad9ed080513a815dd0c0cf1760_3815782_1500x0_resize_q90_h2_box.webp 3x, /images/comics/jump/4_hu1f790bad9ed080513a815dd0c0cf1760_3815782_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/comics/jump/4.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 4" 
+        src="/images/comics/jump/4.jpg"alt="comic page 4" 
         loading="lazy"
       />
 
@@ -3398,8 +3571,9 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -3477,9 +3651,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/1_hu40d33ec311460d9a44d4d171e66fad67_4023981_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/1_hu40d33ec311460d9a44d4d171e66fad67_4023981_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 1" 
+        src="/images/comics/cola/1.png"alt="comic page 1" 
         loading="lazy"
       />
 
@@ -3487,8 +3659,9 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/cola/2.png"
@@ -3519,9 +3692,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/2_hub662f3649abe914c124ed52607d21b6e_3401028_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/2_hub662f3649abe914c124ed52607d21b6e_3401028_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/2.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 2" 
+        src="/images/comics/cola/2.png"alt="comic page 2" 
         loading="lazy"
       />
 
@@ -3529,8 +3700,9 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/cola/3.png"
@@ -3561,9 +3733,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/3_hu03f6a92c83c40eca92c9713d6aa0e503_3206527_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/3_hu03f6a92c83c40eca92c9713d6aa0e503_3206527_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 3" 
+        src="/images/comics/cola/3.png"alt="comic page 3" 
         loading="lazy"
       />
 
@@ -3571,8 +3741,9 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/comics/cola/4.png"
@@ -3603,9 +3774,7 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/comics/cola/4_hu208167ae66f45bb20088de44af18fea0_4276686_1500x0_resize_q90_h2_box_3.webp 3x, /images/comics/cola/4_hu208167ae66f45bb20088de44af18fea0_4276686_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/comics/cola/4.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="comic page 4" 
+        src="/images/comics/cola/4.png"alt="comic page 4" 
         loading="lazy"
       />
 
@@ -3613,8 +3782,9 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -4237,9 +4407,7 @@ Here is her original sketch:]]>
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/sketches/coretti_hu207d93032f4e9eaed7fc90d254a00387_353850_1500x0_resize_q90_h2_box.webp 3x, /images/sketches/coretti_hu207d93032f4e9eaed7fc90d254a00387_353850_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/sketches/coretti.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="sketch of coretti" 
+        src="/images/sketches/coretti.jpg"alt="sketch of coretti" 
         loading="lazy"
       />
 
@@ -4247,8 +4415,9 @@ Here is her original sketch:]]>
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -4929,7 +5098,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="/images/five.jpg"/> <blockquote class="note caption">
-  <span class="text">Tzipora is communicating the birthday rune in <a href="/factbook/society/culture/language.html#upotenne">Upotenne</a>, a warding sigil of good luck.</span>
+  <span class="text">Tzipora is communicating the birthday rune in <a href="/factbook/society/culture/language/#upotenne">Upotenne</a>, a warding sigil of good luck.</span>
 </blockquote>
 
 <p><strong>Today, the subreddit is five years old.</strong> A better anniversary for this project would have been July 1st 2022 &ndash; the date of my <a href="https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/">first reddit post</a> &ndash; but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I&rsquo;ll celebrate with you properly on <em>International Tzipora Day</em> (July 1st 2023, write it down).</p>
@@ -4942,7 +5111,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 <li><strong>Most upvoted post:</strong> <a href="https://www.reddit.com/r/vekllei/comments/if77nc/absolute_quiet/">Absolute Quiet</a> (August 23, 2020)</li>
 <li><strong>Most recent post:</strong> this one</li>
 </ul>
-<p>Read them here: <a href="/stories.html">www.millmint.net/stories</a></p>
+<p>Read them here: <a href="/stories/">www.millmint.net/stories</a></p>
 </span>
 </blockquote>
 
@@ -5011,9 +5180,7 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/crests/rifles_hu6ed349f2a08a2573d3b340c9f1eea9d7_81680_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/crests/rifles.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="crest" 
+        src="/images/mastheads/crests/rifles.png"alt="crest" 
         loading="lazy"
       />
 
@@ -5021,8 +5188,9 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">The crest of the Rifles Section of the Police of the Parliament.</span>
@@ -5104,9 +5272,7 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/crests/scouts_hu09a8a7ef83616e8c4461053226f89e63_217870_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/crests/scouts.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="crest" 
+        src="/images/mastheads/crests/scouts.png"alt="crest" 
         loading="lazy"
       />
 
@@ -5114,8 +5280,9 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">The crest of the Scouts Interior Spirit Corps.</span>
@@ -5176,9 +5343,7 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/flags/lola_hu6e3d2757801e98340639ebf3b60791d1_104083_1500x0_resize_q90_h2_box_3.webp 3x, /images/mastheads/flags/lola_hu6e3d2757801e98340639ebf3b60791d1_104083_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/flags/lola.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="smallimg" 
+        src="/images/mastheads/flags/lola.png"alt="smallimg" 
         loading="lazy"
       />
 
@@ -5186,8 +5351,9 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">Flag of the borough of <a href="/lola/">Lola</a>.</span>
@@ -5287,7 +5453,7 @@ I&rsquo;ve been working on this project for a while now, about five years counti
   The Gi
   <a class="anchor" href="#the-gi">#</a>
 </h2>
-<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/factbook/society/culture/language.html#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/factbook/society/culture/language.html#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
+<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/factbook/society/culture/language/#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/factbook/society/culture/language/#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -5378,9 +5544,7 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_1500x0_resize_q90_h2_box.webp 3x, /images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fanart/jm-1.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="smallimg" 
+        src="/images/fanart/jm-1.jpg"alt="smallimg" 
         loading="lazy"
       />
 
@@ -5388,8 +5552,9 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 </details>
 ]]>
@@ -6095,8 +6260,9 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">I love the composition of it, it&rsquo;s very optimistic. Very cute.</span>
@@ -6118,8 +6284,9 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">Bonus Tzipora with a bird. Bez likes birds.</span>
@@ -8102,7 +8269,7 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="/images/puffling.jpg"/> <p><strong>She joined the Puffin Scouts to make friends</strong>. Tzipora was not especially rugged or outdoorsy, but she was a fresh patriot, and the idea of collecting awards for conservation, in her mind, was much like Baron collecting medals for killing reds in the War.</p>
-<p>The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in <a href="/factbook/society/culture/language.html#7-vekllei-semaphore">Vekllei Semaphore</a>. Puffin Scout troops are based out of a region with a <a href="/posts/2020-12-05-gods/"><em>Kronaismioudelfia</em></a> (Crown Land), which are abandoned wild areas the Vekllei state has relinquished to the natural spirits worshiped in <a href="/factbook/society/culture/religion.html">Upen</a>. Hikes aren’t done in Crown Lands because if someone gets hurt or goes missing it can be very difficult to get them out.</p>
+<p>The green and gold of the Puffin Scouts represent nature and living blood respectively. Entwined, as here on her scarf, they mean the chaos and inhumanity of nature in <a href="/factbook/society/culture/language/#7-vekllei-semaphore">Vekllei Semaphore</a>. Puffin Scout troops are based out of a region with a <a href="/posts/2020-12-05-gods/"><em>Kronaismioudelfia</em></a> (Crown Land), which are abandoned wild areas the Vekllei state has relinquished to the natural spirits worshiped in <a href="/factbook/society/culture/religion/">Upen</a>. Hikes aren’t done in Crown Lands because if someone gets hurt or goes missing it can be very difficult to get them out.</p>
 <p>These wildernesses captured Tzipora’s imagination, since they are often the site of gods and extranatural features. The animals you saw out there seemed deeply disturbed by the presence of people, as though they were the vessels of spirits, irritated that a human girl had made her way in.</p>
 <p>School-aged Puffin Scouts are called Pufflings. In Vekllei, puffin birds are as common as gulls, and nest in cliffs where they raise their young in burrows. Tzipora, despite being a Puffling, never had much luck with puffins. They seemed to exempt her from their natural friendliness and curiosity — they flew away whenever she came close, and when they didn’t fly away they attacked her. She joined the Puffin Scouts to make friends, and yet here she was, cast out from both the Human and Animal Kingdoms.</p>
 <p>In this picture, Tzipora watches a puffin in full scout regalia, wary of its intent. The birds make cute novelties for some, but Tzipora knows better. Just like Baron in the war, she sits still and watches closely, listening for movement on the wind. They are locked in a battle of the wits, waiting to see who will make the first move.</p>
@@ -8364,7 +8531,7 @@ Somehow, despite her new wealth, a panic had set in.]]>
 <p>Today, this is obvious in the “forbidden regions” of the country. After the war, vast territories of the interior were designated as <em>Kronaismioudelfia</em>, or “crown land”. These forbid sovereign entry or human exploration in any capacity other than personal curiosity. These are dark pockets of ancient wilderness, where myth and legend abound. If you enter them and become lost, only volunteers will seek you out — for the purposes of the Vekllei government, you have exited the sovereignty of the nation-state. They function in part as natural reservations, but that neglects just how isolated, wild and untouchable these regions are.</p>
 <p>At first glance, this might seem archaic and superstitious, but like most spirituality-as-policy in the country, it serves a foundational component of Vekllei society (and subsequently, the economy). As Vekllei seeks out deindustrialisation via post-scarcity systems, a sincere respect for landscape as living and dangerous becomes essential. Mere appreciation or stewardship in abstract is, by Vekllei metrics, not much different than naked exploitation. Removing human constructions from landscape also necessitates the dismantling of landscape, cartography and tourism conceptually. There are few national parks in the country, but hundreds of <em>Kronaismioudelfia</em>. Deep within them lurk unmapped, undocumented things — and at their hearts are pure springs, grasslands of eternal life, spirit dwellings and the souls of your ancestors.</p>
 <blockquote>
-<p>In this image, Tzipora meets her reflection with the <a href="/factbook/society/culture/language.html#6-upotenne">Upotenne</a> sign for peace and friendliness. Reflections of mirror-pools in Vekllei are believed to be places to meet spirits. While your reflection may not be a spirit, your reflection is closer to their world than your own, as a deconstruction of image and physicality. In this sense, Tzipora is hoping her gesture may carry through into the other worlds and convince them of human peacefulness. Such gestures are good manners, considering she is no longer in sovereign human territory and stands in the land of gods.</p>
+<p>In this image, Tzipora meets her reflection with the <a href="/factbook/society/culture/language/#6-upotenne">Upotenne</a> sign for peace and friendliness. Reflections of mirror-pools in Vekllei are believed to be places to meet spirits. While your reflection may not be a spirit, your reflection is closer to their world than your own, as a deconstruction of image and physicality. In this sense, Tzipora is hoping her gesture may carry through into the other worlds and convince them of human peacefulness. Such gestures are good manners, considering she is no longer in sovereign human territory and stands in the land of gods.</p>
 </blockquote>
 ]]>
   	</content:encoded>
@@ -12177,7 +12344,7 @@ Time-lapse here.]]>
 No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="/images/cherry.jpg"/> <p>A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of <a href="/factbook/society/culture/religion.html">Upen</a>.</p>
+	 	<![CDATA[<img src="/images/cherry.jpg"/> <p>A road trip around Vekllei in the summer is an experience that makes life worth living. In some ways, it is a spiritual detox than reinvigorates a person with the intimate, elusive premise of the Vekllei spiritual enlightenment. In others, it is a way of returning to the earth, and understanding the human place in the principles of <a href="/factbook/society/culture/religion/">Upen</a>.</p>
 <p>No matter your intention, be it holiday or rediscovery, the very best of Vekllei is on display. Liberated of the desacralising effect of routine, the villages and factories you’ll zoom past take on new and extraordinary light. Removed from it, you see better how society works. The complex web of logistics, from roaring trains on adjacent rail lines to squinting at a passing nuclear flying wing through the sun roof, are now aesthetic indications of petticoat society.</p>
 <p>The All-Atomic Auto Company betrays its name instantly by not offering a single reactor-powered vehicle in its entire catalogue. Indeed, commercial reactors are so heavy that they are only realistically mounted in truck frames, even in Vekllei’s insensitivity to cost. You simply cannot fit a fission reactor into a small auto. At least, not yet. In fact, in countries where costs are concern, it is feasible that reactor technology as we currently understand it will never be economical in the frame of a small auto.</p>
 <p>The AAAC is actually an industrial concern of several Vekllei venrouive bureaus negotiating commercial atomics with the future. These include famous companies like <a style="color: rgb(53, 156, 103)" href="/general-reactor/"><span class="fi fi-min-general-reactor fis"></span> General Reactor</a>, which are at the forefront of global reactor technology and compete directly with Raytheon, and Common Battery. Several lesser known, unglamorous companies also contribute to the cooperative concern. Astrotransmissions supply transmissions and Montre-Rayon Foundry provide composite steels. The AAAC has an internal design house, but most of its staff are poached from appliance manufacturers.</p>

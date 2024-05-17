@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>States</title>
-	<link>https://millmint.net/tags/states.html</link>
+	<link>https://millmint.net/tags/states/</link>
 	<description>Recent content in States </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -41,10 +41,10 @@
 	
 	<item>
 	  <title>Timeline</title>
-	  <link>https://millmint.net/factbook/timeline.html</link>
+	  <link>https://millmint.net/factbook/timeline/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/timeline.html</guid>
+	  <guid>https://millmint.net/factbook/timeline/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Coretti</title>
-	<link>https://millmint.net/characters/coretti.html</link>
+	<link>https://millmint.net/characters/coretti/</link>
 	<description>Recent content in Coretti </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -366,9 +366,7 @@ Here is her original sketch:]]>
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/sketches/coretti_hu207d93032f4e9eaed7fc90d254a00387_353850_1500x0_resize_q90_h2_box.webp 3x, /images/sketches/coretti_hu207d93032f4e9eaed7fc90d254a00387_353850_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/sketches/coretti.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="sketch of coretti" 
+        src="/images/sketches/coretti.jpg"alt="sketch of coretti" 
         loading="lazy"
       />
 
@@ -376,8 +374,9 @@ Here is her original sketch:]]>
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>

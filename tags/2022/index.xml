@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>2022</title>
-	<link>https://millmint.net/tags/2022.html</link>
+	<link>https://millmint.net/tags/2022/</link>
 	<description>Recent content in 2022 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -282,7 +282,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="/images/five.jpg"/> <blockquote class="note caption">
-  <span class="text">Tzipora is communicating the birthday rune in <a href="/factbook/society/culture/language.html#upotenne">Upotenne</a>, a warding sigil of good luck.</span>
+  <span class="text">Tzipora is communicating the birthday rune in <a href="/factbook/society/culture/language/#upotenne">Upotenne</a>, a warding sigil of good luck.</span>
 </blockquote>
 
 <p><strong>Today, the subreddit is five years old.</strong> A better anniversary for this project would have been July 1st 2022 &ndash; the date of my <a href="https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/">first reddit post</a> &ndash; but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I&rsquo;ll celebrate with you properly on <em>International Tzipora Day</em> (July 1st 2023, write it down).</p>
@@ -295,7 +295,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 <li><strong>Most upvoted post:</strong> <a href="https://www.reddit.com/r/vekllei/comments/if77nc/absolute_quiet/">Absolute Quiet</a> (August 23, 2020)</li>
 <li><strong>Most recent post:</strong> this one</li>
 </ul>
-<p>Read them here: <a href="/stories.html">www.millmint.net/stories</a></p>
+<p>Read them here: <a href="/stories/">www.millmint.net/stories</a></p>
 </span>
 </blockquote>
 
@@ -364,9 +364,7 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/crests/rifles_hu6ed349f2a08a2573d3b340c9f1eea9d7_81680_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/crests/rifles.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="crest" 
+        src="/images/mastheads/crests/rifles.png"alt="crest" 
         loading="lazy"
       />
 
@@ -374,8 +372,9 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">The crest of the Rifles Section of the Police of the Parliament.</span>
@@ -457,9 +456,7 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/crests/scouts_hu09a8a7ef83616e8c4461053226f89e63_217870_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/crests/scouts.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="crest" 
+        src="/images/mastheads/crests/scouts.png"alt="crest" 
         loading="lazy"
       />
 
@@ -467,8 +464,9 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">The crest of the Scouts Interior Spirit Corps.</span>
@@ -529,9 +527,7 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/flags/lola_hu6e3d2757801e98340639ebf3b60791d1_104083_1500x0_resize_q90_h2_box_3.webp 3x, /images/mastheads/flags/lola_hu6e3d2757801e98340639ebf3b60791d1_104083_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/flags/lola.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="smallimg" 
+        src="/images/mastheads/flags/lola.png"alt="smallimg" 
         loading="lazy"
       />
 
@@ -539,8 +535,9 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">Flag of the borough of <a href="/lola/">Lola</a>.</span>
@@ -640,7 +637,7 @@ I&rsquo;ve been working on this project for a while now, about five years counti
   The Gi
   <a class="anchor" href="#the-gi">#</a>
 </h2>
-<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/factbook/society/culture/language.html#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/factbook/society/culture/language.html#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
+<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/factbook/society/culture/language/#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/factbook/society/culture/language/#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -731,9 +728,7 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_1500x0_resize_q90_h2_box.webp 3x, /images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fanart/jm-1.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="smallimg" 
+        src="/images/fanart/jm-1.jpg"alt="smallimg" 
         loading="lazy"
       />
 
@@ -741,8 +736,9 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 </details>
 ]]>

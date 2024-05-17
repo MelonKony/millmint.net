@@ -1,0 +1,815 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Finance - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.693bd8ac29fe16a235234f0e86d7b4547d0aa4276a8d1bd801382904519937846960ceb2f48e09a4da17bb62be5588e3a320605d3ec7d321c1eb0a3af7afbbbb.css" integrity="sha512-aTvYrCn&#43;FqI1I08Ohte0VH0KpCdqjRvYATgpBFGZN4RpYM6y9I4JpNoXu2K&#43;VYjjoyBgXT7H0yHB6wo696&#43;7uw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Finance &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/factbook/society/state/finance/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.fbbdfcced23aebc826f4e2298a732a08f55d0621992b6ec45597bc921c50f06a.js" integrity="sha256-&#43;738ztI668gm9OIpinMqCPVdBiGZK27EVZe8khxQ8Go=" crossorigin="anonymous"></script>
+    
+
+    </head><body data-color="pink"  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/map/" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/world/" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/world/countries/" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology/" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline/" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about/" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions/" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays/" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/social-economy/" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli/" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie/" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong/" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west/" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="/stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/canteen-wine/"><span class="navicon">📗</span>Story: <i>Canteen Wine</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">    
+    <header class="info">
+  <h1 class="title">Finance in Vekllei</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">💵</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/">
+			Society</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/state/">
+			State</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/society/state/finance/">
+			Finance</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  <div class="emoji" id="whirlybat">w</div>
+  
+
+  <div class="emoji" id="whirlybat">w</div>
+  
+  
+
+    
+    
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+<figure>
+  <a href="https://millmint.net/" target="_blank" rel="noopener noreferrer">
+    
+  </a>
+</figure>
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="title">
+                        <span>Finance</span>
+                        <span class="icon">💵</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#markets">Markets</a>
+          <ul>
+            <li><a href="#domestic-markets">Domestic Markets</a></li>
+            <li><a href="#industrial-markets">Industrial Markets</a></li>
+            <li><a href="#international-markets">International Markets</a></li>
+          </ul>
+        </li>
+        <li><a href="#currency">Currency</a>
+          <ul>
+            <li><a href="#vekllei-crown-vk">Vekllei Crown (❦VK)</a></li>
+            <li><a href="#government-crown-ak">Government Crown (✾AK)</a></li>
+          </ul>
+        </li>
+        <li><a href="#banking">Banking</a>
+          <ul>
+            <li><a href="#bank-of-vekllei">Bank of Vekllei</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<details class="mobile toc">
+  <summary>
+    <span class="navicon">📑</span>Table of Contents
+  </summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#markets">Markets</a>
+          <ul>
+            <li><a href="#domestic-markets">Domestic Markets</a></li>
+            <li><a href="#industrial-markets">Industrial Markets</a></li>
+            <li><a href="#international-markets">International Markets</a></li>
+          </ul>
+        </li>
+        <li><a href="#currency">Currency</a>
+          <ul>
+            <li><a href="#vekllei-crown-vk">Vekllei Crown (❦VK)</a></li>
+            <li><a href="#government-crown-ak">Government Crown (✾AK)</a></li>
+          </ul>
+        </li>
+        <li><a href="#banking">Banking</a>
+          <ul>
+            <li><a href="#bank-of-vekllei">Bank of Vekllei</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</details>
+
+
+
+    
+
+<article class="autonumber"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <blockquote class="note series">
+  <span class="text">This article is about <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><strong>Even if they do not use money</strong>, Vekllei people do have finances and engage with markets, maintain business relations and acquire financial instruments for upward mobility. The Vekllei state, on the other hand, is an enthusiastic participant in the global financial system and uses its considerable advantages enabled by the isolated moneyless Vekllei economy to accomplish its strategic political interests.</span>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p>The colloquial turn-of-phrase for the domestic Vekllei economy is &ldquo;functionally moneyless,&rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and has a reputation as an &ldquo;Atlantic Middleman.&rdquo; Vekllei&rsquo;s facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.</p>
+<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance/#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance/#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance/#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
+<h2 id="markets">
+  Markets
+  <a class="anchor" href="#markets">#</a>
+</h2>
+<blockquote class="note link">
+  <span class="text">✿ Read more: <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a></span>
+</blockquote>
+
+<h3 id="domestic-markets">
+  Domestic Markets
+  <a class="anchor" href="#domestic-markets">#</a>
+</h3>
+<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>.</p>
+<p>While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa.</p>
+<h3 id="industrial-markets">
+  Industrial Markets
+  <a class="anchor" href="#industrial-markets">#</a>
+</h3>
+<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance/#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance/#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
+<ul>
+<li><strong>Senrouive</strong>: private enterprises</li>
+<li><strong>Venrouive</strong>: public enterprises with membership in an industrial <a href="/bureaus/">bureau</a></li>
+</ul>
+<p><em>Venrouive</em> (also known as public companies in Vekllei) are enterprises beholden to <a href="/bureaus/">industrial bureaus</a>, which are collections of companies with close relations and hold membership in a shared industrial council. Venrouive businesses are characterised by large-scale enterprises, some of which may be state-owned, that hold considerable power over a market. In some cases, a bureau may monopolise a market, as in the case of the Vekllei telecommunications industry.</p>
+<p>Both senrouive and venrouive companies may participate in the international market, but only bureaus (and by extension, participating venrouive companies) may trade directly with overseas governments and enterprises.</p>
+<h3 id="international-markets">
+  International Markets
+  <a class="anchor" href="#international-markets">#</a>
+</h3>
+<blockquote class="note ">
+  <span class="text">✿ Download <span class="smallicon">📄</span> <a href="/files/documents/9.pdf">Document No. 9.pdf</a></span>
+</blockquote>
+
+<p>The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the national liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.</p>
+<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance/#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
+<h2 id="currency">
+  Currency
+  <a class="anchor" href="#currency">#</a>
+</h2>
+<blockquote class="note link">
+  <span class="text">✿ Read more: <em><a href="/posts/2020-06-24-crown/">The Vekllei Crown</a></em></span>
+</blockquote>
+
+<p>Vekllei has two currencies that are more or less opposed in their use as money, known as the twin crowns system. The Vekllei Crown (❦VK) is a gold-backed, fixed-rate deflationary currency used primarily as a wealth reserve, and the Government Crown (✾AK) is a fiat, floating-exchange currency used for foreign investment and trade. This system preserves the isolation of the Vekllei primary economy, which is moneyless, while insulating state investments from shocks and from having to burn liquidity to maintain its exchange rate.</p>
+<p>Together, the twin crowns allow for the Vekllei state to retain unprecedented control over its financial system while securing a mechanism for foreign investment and growth.</p>
+<ul>
+<li>The domestic market is autarkic and does not have free capital exchange, allowing it to maintain its fixed price and independent monetary policy</li>
+<li>The international market is open and has free capital exchange, facilitated by ✾AK floating exchange price with policy independence maintained by capital controls from the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>.</li>
+</ul>
+<p>For a variety of political and economic reasons, the Vekllei Commonwealth state aims to be self-sufficient. The twin crowns system provides a means to isolate its productive primary economy while also allowing foreign money controlled access to it. The unmoneyed primary economy remains a popular investment for its stability.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> As capital controls have broken down in the mid-2030s, Vekllei&rsquo;s current macroeconomic policy exists as a &ldquo;third way&rdquo; between closed autarky and recent trends towards an open economic international market.</p>
+<h3 id="vekllei-crown-vk">
+  Vekllei Crown (❦VK)
+  <a class="anchor" href="#vekllei-crown-vk">#</a>
+</h3>
+<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance/#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
+<h3 id="government-crown-ak">
+  Government Crown (✾AK)
+  <a class="anchor" href="#government-crown-ak">#</a>
+</h3>
+<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
+<p>The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK&rsquo;s relative security and reliability, backed by powerful domestic institutions.</p>
+<h2 id="banking">
+  Banking
+  <a class="anchor" href="#banking">#</a>
+</h2>
+<blockquote class="note link">
+  <span class="text">✿ Read more: <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a></span>
+</blockquote>
+
+<p>The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> All banks in Vekllei are run as state-owned enterprises, and subordinated to the &lsquo;<em>Old Lady</em>,&rsquo; the colloquial name for the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. &lsquo;Unbanking&rsquo; policy &ndash; the effective demonetisation of the Vekllei domestic markets &ndash; saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.</p>
+<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance/#industrial-markets">industrial market</a>.</p>
+<h3 id="bank-of-vekllei">
+  Bank of Vekllei
+  <a class="anchor" href="#bank-of-vekllei">#</a>
+</h3>
+<p>The Bank of Vekllei (also <em>Labour Bank of Vekllei</em> and <em>Old Lady</em>) is Vekllei&rsquo;s central bank with a constitutionally-granted monopoly on the financial mechanisms of the Commonwealth, with nearly all Commonwealth banking firms subordinated to its organisation. It is responsible directly to the <a style="color: var(--color-commerce)" href="/commonwealth-treasury/"><span class="fi fi-min-commerce fis"></span> Treasury</a> and sets the monetary policy of Vekllei. It is primarily a macroeconomic institution that does not deal directly with the primary or secondary markets, but does over institutional banking services and complex financing for some markets in the Commonwealth.</p>
+<h4 id="personal-banking">
+  Personal Banking
+  <a class="anchor" href="#personal-banking">#</a>
+</h4>
+<p>Despite the functional moneylessness of the Commonwealth, banks do facilitate financial transactions with the common Vekllei person. Aside from its policy features (like holiday allowances and emigration stipends), most trade arrangements operate in the bank system, usually through the <em>Sisterbank</em>. Sisterbank (formally the <em>Petty Bank of Vekllei</em>) is a merchant bank that specialises in industrial brokerage, allowing small businesses to trade with others and stimulate economic activity. Vekllei persons looking to start a restaurant, workshop or store generally do so through the Sisterbank, which assigns a bank agent and enters the business in its internal market ledger. Not all small business in Vekllei is conducted through the an agent, but certain types of industries (particularly businesses involved in manufacturing) are almost all banked with Sisterbank.</p>
+<p>In addition to government banks, money bureaus (also <em>Money Unions</em>) are a form of cooperative credit union premised on private business associations and securitised lending, and are common in Vekllei agriculture.</p>
+<h4 id="institutional-banking">
+  Institutional Banking
+  <a class="anchor" href="#institutional-banking">#</a>
+</h4>
+<p>Investment banking is provided primarily by the Commonwealth Bank of Vekllei (COMMBANK), which offers placement and settling services for <a href="/bureaus/">bureaus</a> seeking to engage with the International market. COMMBANK also arranges debt financing, underwriting and distribution services for overseas partners. COMMBANK also serves as the central bank of the Kalina Isles. In addition, the Bank of Vekllei maintains several subsidiaries dedicated to special financial products, like low-interest domestic infrastructure financing or overseas trade and investment.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>An entrepôt is a port where merchandise is stored and traded, often before being exported again.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>The Commonwealth capital account runs at a deficit as part of a post-war investment policy called &lsquo;Handshake Accounting,&rsquo; which sees tremendous surplus state capital invested overseas.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance/#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>&lsquo;Municipalised,&rsquo; in Vekllei political lexicon.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/">Society</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/factbook/society/state/">State</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/factbook/society/state/finance/">Finance</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 16/05/2024</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Finance</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
+</body>
+
+</html>

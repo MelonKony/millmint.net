@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>State</title>
-	<link>https://millmint.net/tags/state.html</link>
+	<link>https://millmint.net/tags/state/</link>
 	<description>Recent content in State </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureaus</title>
-	  <link>https://millmint.net/factbook/society/industry/bureaus.html</link>
+	  <link>https://millmint.net/factbook/society/industry/bureaus/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/bureaus.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/bureaus/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -36,8 +36,8 @@ Bureaus typically consist of a general council, which organise votes from worker
   <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Bureaus</strong> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the <a href="/factbook/society/state/finance.html#domestic-markets">private markets</a>. As a result, bureaus are concerned primarily with the public good and industrial policy.</p>
-<p>Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into <em>company ballots</em>, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the <a href="/factbook/society/state/finance.html#international-markets">Vekllei International Market</a>, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.</p>
+<p><strong>Bureaus</strong> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the <a href="/factbook/society/state/finance/#domestic-markets">private markets</a>. As a result, bureaus are concerned primarily with the public good and industrial policy.</p>
+<p>Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into <em>company ballots</em>, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the <a href="/factbook/society/state/finance/#international-markets">Vekllei International Market</a>, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.</p>
 <p>The largest bureaus include <em>Electra</em> and <a href="/universal-cotton/"><em>Universal Cotton</em></a>. Electra represents a collection of state-owned electricity generation companies, and Universal Cotton consists of over a hundred individual clothing manufacturers. Although state monopolies may form a bureau in part or as a whole, bureau membership does not necessarily imply state ownership.</p>
 ]]>
   	</content:encoded>
@@ -45,10 +45,10 @@ Bureaus typically consist of a general council, which organise votes from worker
 	
 	<item>
 	  <title>Consosva</title>
-	  <link>https://millmint.net/factbook/society/state/consosva.html</link>
+	  <link>https://millmint.net/factbook/society/state/consosva/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/consosva.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/consosva/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -72,10 +72,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Corsosva</title>
-	  <link>https://millmint.net/factbook/society/state/corsosva.html</link>
+	  <link>https://millmint.net/factbook/society/state/corsosva/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/corsosva.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/corsosva/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -96,10 +96,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Crown Industry</title>
-	  <link>https://millmint.net/factbook/society/industry/crown.html</link>
+	  <link>https://millmint.net/factbook/society/industry/crown/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/crown.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/crown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -118,10 +118,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Espionage</title>
-	  <link>https://millmint.net/factbook/society/state/espionage.html</link>
+	  <link>https://millmint.net/factbook/society/state/espionage/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/espionage.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/espionage/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -135,7 +135,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   <a class="anchor" href="#overview">#</a>
 </h2>
 <blockquote class="note series">
-  <span class="text">This article is about <a href="/intro.html#what-is-vekllei">Vekllei</a>.</span>
+  <span class="text">This article is about <a href="/intro/#what-is-vekllei">Vekllei</a>.</span>
 </blockquote>
 
 <blockquote class="note panel">
@@ -163,7 +163,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Security Directorates
   <a class="anchor" href="#security-directorates">#</a>
 </h3>
-<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage.html#noshem">Noshem</a>.</p>
+<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage/#noshem">Noshem</a>.</p>
 <h3 id="adsem">
   Adsem
   <a class="anchor" href="#adsem">#</a>
@@ -193,10 +193,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Finance</title>
-	  <link>https://millmint.net/factbook/society/state/finance.html</link>
+	  <link>https://millmint.net/factbook/society/state/finance/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/finance.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/finance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -218,7 +218,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   <a class="anchor" href="#overview">#</a>
 </h2>
 <p>The colloquial turn-of-phrase for the domestic Vekllei economy is &ldquo;functionally moneyless,&rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and has a reputation as an &ldquo;Atlantic Middleman.&rdquo; Vekllei&rsquo;s facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.</p>
-<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance.html#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance.html#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance.html#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
+<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance/#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance/#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance/#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
 <h2 id="markets">
   Markets
   <a class="anchor" href="#markets">#</a>
@@ -231,13 +231,13 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Domestic Markets
   <a class="anchor" href="#domestic-markets">#</a>
 </h3>
-<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>.</p>
+<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>.</p>
 <p>While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa.</p>
 <h3 id="industrial-markets">
   Industrial Markets
   <a class="anchor" href="#industrial-markets">#</a>
 </h3>
-<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance.html#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
+<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance/#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance/#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
 <ul>
 <li><strong>Senrouive</strong>: private enterprises</li>
 <li><strong>Venrouive</strong>: public enterprises with membership in an industrial <a href="/bureaus/">bureau</a></li>
@@ -253,7 +253,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 </blockquote>
 
 <p>The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the national liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.</p>
-<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance.html#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
+<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance/#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
 <h2 id="currency">
   Currency
   <a class="anchor" href="#currency">#</a>
@@ -273,12 +273,12 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Vekllei Crown (❦VK)
   <a class="anchor" href="#vekllei-crown-vk">#</a>
 </h3>
-<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance.html#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
+<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance/#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
 <h3 id="government-crown-ak">
   Government Crown (✾AK)
   <a class="anchor" href="#government-crown-ak">#</a>
 </h3>
-<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
+<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
 <p>The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK&rsquo;s relative security and reliability, backed by powerful domestic institutions.</p>
 <h2 id="banking">
   Banking
@@ -289,7 +289,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 </blockquote>
 
 <p>The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> All banks in Vekllei are run as state-owned enterprises, and subordinated to the &lsquo;<em>Old Lady</em>,&rsquo; the colloquial name for the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. &lsquo;Unbanking&rsquo; policy &ndash; the effective demonetisation of the Vekllei domestic markets &ndash; saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.</p>
-<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance.html#industrial-markets">industrial market</a>.</p>
+<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance/#industrial-markets">industrial market</a>.</p>
 <h3 id="bank-of-vekllei">
   Bank of Vekllei
   <a class="anchor" href="#bank-of-vekllei">#</a>
@@ -316,7 +316,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 <p>The Commonwealth capital account runs at a deficit as part of a post-war investment policy called &lsquo;Handshake Accounting,&rsquo; which sees tremendous surplus state capital invested overseas.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
-<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance.html#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance/#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4">
 <p>Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
@@ -332,10 +332,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Interim Prosperity Government</title>
-	  <link>https://millmint.net/factbook/history/interim.html</link>
+	  <link>https://millmint.net/factbook/history/interim/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/history/interim.html</guid>
+	  <guid>https://millmint.net/factbook/history/interim/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -358,10 +358,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Municipalities</title>
-	  <link>https://millmint.net/factbook/society/state/government/municipalities.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/municipalities/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/municipalities.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/municipalities/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -404,10 +404,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Patreon</title>
-	  <link>https://millmint.net/millmint/patreon.html</link>
+	  <link>https://millmint.net/millmint/patreon/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon.html</guid>
+	  <guid>https://millmint.net/millmint/patreon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -426,10 +426,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Sagas</title>
-	  <link>https://millmint.net/factbook/society/culture/sagas.html</link>
+	  <link>https://millmint.net/factbook/society/culture/sagas/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/sagas.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/sagas/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -443,7 +443,7 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
   <span class="text">Part of the <em><a href="/culture/">culture</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language.html#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language.html#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
+<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language/#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language/#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
 <p>Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.</p>
 <blockquote class="note panel">
   <span class="text"><p><strong>Sagas of Old Oslola</strong></p>

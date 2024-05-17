@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Essay</title>
-	<link>https://millmint.net/tags/essay.html</link>
+	<link>https://millmint.net/tags/essay/</link>
 	<description>Recent content in Essay </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/essay/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Ghibli</title>
-	  <link>https://millmint.net/millmint/essays/ghibli.html</link>
+	  <link>https://millmint.net/millmint/essays/ghibli/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/ghibli.html</guid>
+	  <guid>https://millmint.net/millmint/essays/ghibli/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -123,9 +123,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/totoro-1_huc1811abc715535ffafe3f1de12de066e_468529_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/totoro-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of Mei and Satsuke standing in a field of vegetables" title="**Fig. 1.1** *Mei and Satsuki amidst the season’s produce*" 
+        src="/images/media/totoro-1.png"alt="Image of Mei and Satsuke standing in a field of vegetables" title="**Fig. 1.1** *Mei and Satsuki amidst the season’s produce*" 
         loading="lazy"
       />
 
@@ -133,8 +131,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 1.1</strong> <em>Mei and Satsuki amidst the season’s produce</em></figcaption>
+   <figcaption><strong>Fig. 1.1</strong> <em>Mei and Satsuki amidst the season’s produce</em></figcaption>
 </figure></p>
 <p>And yet, in Miyazaki’s childhood fantasy, we are presented a place of an excruciatingly agrarian pace of life, no depiction of commerce (and almost no recognition of the existence of money at all), of people dependent on place and history, living and moving into old, run-down homes in which even a telephone is a scarce feature. This depicts a sort of asymmetric timelessness, or, as utopian scholar Phillip Wegner argues, an “alternate history,” in which the priorities of the postwar Japanese state have been totally inverted, and the consumer society that flourished under American occupation and democratisation was never introduced (Wegner, 2010). To use Marx’s phrase borrowed by Berman (1983), Miyazaki is, in some sense, recapturing solidity that, in our own world and in his childhood, had long since melted into air during the Meiji restoration. It is here that lies the distinction of Miyazaki’s place of tension from broader thematic depictions of the future and past, found not in contemporary anguish or conservative retrospection, but in a dislocation of spatiotemporality, building worlds that, while thoroughly Japanese and midcentury, do not really exist. This is not to argue that no such villages in <em>Totoro</em> existed in 1950s Japan — the film was inspired by the Saitama prefecture outside Tokyo — rather, that the textual spatiality of <em>My Neighbour Totoro</em>, per their construction in animation, are pulled from social <em>dreams</em> rather than merely depicted historically. It is by ‘social dreaming’ that this thesis distinguishes utopian instincts from fantasy, and it is by social dreaming that Ghibli’s films are able to reach and engage with the subliminal concepts. It is not the absence of telephones, or the depiction of animism that recalls a utopian spatial dialectic, but the whole inversion of priority that cascades and colours every part of the film.</p>
 <p><figure>
@@ -163,9 +162,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/totoro-2_hua7827a7e62f9f423d32424c88511e965_477918_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/totoro-2.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of farms and fields, with the stairs to a shrine in the distance" title="**Fig. 1.2** *The family visits an old shrine buried deep in the forest*" 
+        src="/images/media/totoro-2.png"alt="Image of farms and fields, with the stairs to a shrine in the distance" title="**Fig. 1.2** *The family visits an old shrine buried deep in the forest*" 
         loading="lazy"
       />
 
@@ -173,8 +170,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 1.2</strong> <em>The family visits an old shrine buried deep in the forest</em></figcaption>
+   <figcaption><strong>Fig. 1.2</strong> <em>The family visits an old shrine buried deep in the forest</em></figcaption>
 </figure></p>
 <p>So, in demonstrating a vision of modern space without modernity, what remains in the film? Depleted of contemporary indicators, <em>My Neighbour Totoro</em> could be taken superficially as a sort of aimless conservatism, capturing the whimsy and nostalgia of the smallness of childhood. After all, it is through the childish lens of the sister protagonists that we see the forests and rice paddies of <em>Totoro</em>, and much of the film is dedicated to chronicling the pleasantly aimless activities of a four-year-old girl. As Wegner (2010) recognised, the “narrative utopia” has radical implications when we look to the deeper, underlying metaphysic that belongs to the ‘dream’. Where overt themes are recognised, internalised and reproduced at a plot level, the way spatiality operates deep within <em>Totoro</em> introduces critical dimensions as to why the film makes such a powerful text for utopian spatiality — specifically, its absence of landscape, childhood, and architecture.</p>
 <p>We see here a dialectic introduced by literary critic and philosopher Karatani Kojin, and applied by Wegner (2010) in the case of <em>Totoro</em>. Karatani argues that, prior to the introduction of Western culture to Japanese art during the 19th century, the landscape metaphysic as we understand today did not exist (Karatani, 1998). This is, in effect, demythologising Western preconceptions about nature as an “other;” returning a foreign, transcendental space to the physical world. Modern Japanese literature, Karatani argues, is inundated with such constructions — and by their nature, these “epistemological constellations” suppress their own origins, appearing as immutable objects; an undeniable physical fact. What Wegner argues for, and this thesis incorporates as a Japanese-utopian framework, is the ways in which <em>Totoro</em> and more broadly, Studio Ghibli, suppress such constructions, and how they reemerge abroad as global, transnational fantasy, since I argue that <em>fantasy</em> cannot exist without <em>landscape</em>.</p>
@@ -208,9 +206,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/totoro-3_hufbc0dd264e41856a7c45b92eb6d55929_475777_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/totoro-3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a moving truck passing a roadside shrine" title="**Fig. 1.3** *The family’s moving truck passes a roadside shrine*" 
+        src="/images/media/totoro-3.png"alt="Image of a moving truck passing a roadside shrine" title="**Fig. 1.3** *The family’s moving truck passes a roadside shrine*" 
         loading="lazy"
       />
 
@@ -218,8 +214,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 1.3</strong> <em>The family’s moving truck passes a roadside shrine</em></figcaption>
+   <figcaption><strong>Fig. 1.3</strong> <em>The family’s moving truck passes a roadside shrine</em></figcaption>
 </figure></p>
 <p>In this spirit, we can see <em>Totoro’s</em> suppression of literalist instincts for a sort of demonstrated, if not depicted, reality that absolves the schisms between place and person. There is much work in media criticism with the goal of teasing out buried Shinto iconography and situating <em>My Neighbour Totoro</em> in its cultural and historical context. This, I fear, suppresses the rich ambiguity and abstraction animation affords the film — of course, the shrines depicted in the film belong to Shinto practices, and of course, the rice paddies, local railway and cultural behaviours are distinctly Japanese — but within the pretext of <em>Totoro</em> as a ‘dream,’ or “what-if,” as Wegner calls it, these images are reintroduced as new, if thoroughly Japanese-oriented, artefacts. Shinto is stripped of its historical and nationalistic implications and is reintroduced as a vessel for animism and a respect for all objects. Landscape is abolished and place is returned as a physical entity, standing once again only in its immediate physicality and utility. Even the child — another one of Karatani’s constructions — is reintroduced here with ageless burdens and complexities; in other words, a small, growing adult, far removed from the objectifying cultural force of modern education systems and children-as-consumers.</p>
 <p>And so there is a tension here — perhaps, even a proud contradiction — that exemplifies the richness of spirit in Miyazaki’s work. On one hand, there is the film’s undeniable contexts, founded deep in Miyazaki’s personal and political stories, and there is also the film’s wonderful demolition of such matters in place of a fictional, if Japanese, universality; a transnational appeal that sees this film delighting people across the world. That audience scalability, between local, regional and international viewing, is a recurring feature of Ghibli’s catalogue, and testifies to the underlying spatial and utopian vision’s widespread appeal.</p>
@@ -254,9 +251,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/kiki-1_hu24c4e7c0bc98c5b37a0d7f16ed653ddc_389343_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/kiki-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of Kiki soaring above rooftops on a broomstick" title="**Fig. 2.1** *Kiki soars high above the roofs of Koriko on her broomstick*" 
+        src="/images/media/kiki-1.png"alt="Image of Kiki soaring above rooftops on a broomstick" title="**Fig. 2.1** *Kiki soars high above the roofs of Koriko on her broomstick*" 
         loading="lazy"
       />
 
@@ -264,8 +259,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 2.1</strong> <em>Kiki soars high above the roofs of Koriko on her broomstick</em></figcaption>
+   <figcaption><strong>Fig. 2.1</strong> <em>Kiki soars high above the roofs of Koriko on her broomstick</em></figcaption>
 </figure></p>
 <p>The film is set in the placeless town of Koriko, a 20th century coastal city in European fashion. As per the abstract wonder of animation, little is told and much is shown about life in this place. Agrarian quiet in <em>My Neighbour Totoro</em> is inverted here in a sort of fictitious European fantasy; a bustling seaside city of cafés, boutiques and, most importantly, bakeries. This is further illustrated in the context of Ghibli’s familiar utopian leitmotifs, as wonders of the golden age of air travel (the dirigible <em>Spirit of Freedom</em>) coexist with distinctly postwar artefacts in fashion, technology and teen-age culture. In the same sense that <em>My Neighbour Totoro</em> glimpses a vision of midcentury Japan in which the Meiji restoration might have never occurred, Koriko is a delightful European landscape in which it appears the Second World War never happened. This is remarked upon by Mio Bryce in a broader examination of Kiki’s depiction, describing Koriko as exhibiting a “strong sense of retrospection and other-worldness” (Bryce 2006). It is not that Koriko is entirely foreign — by most accounts, a young female witch in a European city should be superficially familiar to most Westerners — but that instead Bryce recognises that the dichotomous relationship between Japan’s (post-Meiji) introduction to ‘witch stories’ and the Western, Christian tradition of witch lore, and that the resulting product disarms Western presuppositions about European witches through its emphasis on “transition,” rather than “training”. Kiki does not attend a school for witchcraft, or takes on mentorship, as Bryce notes (p. 43), but rather participates in a feminised tradition of self-discovery and place.</p>
 <p>This results in a film in which, much like <em>Totoro</em>, Miyazaki’s masterful, amorphous storytelling cautions ambitious attempts to trace textual lineage to Japanese “predisposition&rdquo; or storytelling tradition. Susan Napier’s landmark work, <em>Anime: From Akira to Princess Mononoke</em>, notes as much:</p>
@@ -299,9 +295,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/kiki-2_hu3c1ddc88d09937cc18e0c09d2dee5832_508543_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/kiki-2.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a zeppelin in strife after it has lost its anchor" title="**Fig. 2.2** *News footage shows the zeppelin losing anchor, mimicking footage of the Hindenburg*" 
+        src="/images/media/kiki-2.png"alt="Image of a zeppelin in strife after it has lost its anchor" title="**Fig. 2.2** *News footage shows the zeppelin losing anchor, mimicking footage of the Hindenburg*" 
         loading="lazy"
       />
 
@@ -309,8 +303,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 2.2</strong> <em>News footage shows the zeppelin losing anchor, mimicking footage of the Hindenburg</em></figcaption>
+   <figcaption><strong>Fig. 2.2</strong> <em>News footage shows the zeppelin losing anchor, mimicking footage of the Hindenburg</em></figcaption>
 </figure></p>
 <p>Nonetheless, although <em>Kiki’s Delivery Service</em> depicts a much broader and typically complicated society than <em>My Neighbour Totoro</em>, it is less political overall. That it is not to say the film is apolitical, or lacking in textual complexity — I would argue that all of Miyazaki’s films are deeply political, and characterise a moral and structural richness that is unsurpassed in contemporary anime. It is simply that, in the case of <em>Kiki’s Delivery Service</em>, the questions asked of this ‘alternate vision of history’ are different to the interrogative, structural dialectic within <em>My Neighbour Totoro</em>. Where <em>Totoro</em> challenges foundational assumptions about Japanese historicism, affluence, technology and modernity, <em>Kiki’s</em> Koriko is a wholly more fantastical glimpse into a blossoming, affluent Euro-themed society left intact in a depiction that recalls William Morris’s “Epoch of Rest”. In both cases, acknowledging these film spaces are extrapolated from our own global history — the Second World War looms large. Emerging like a phantom, it raises questions about artefacts that appear in these films that otherwise were radically altered by the turbulence of the early 20th century. In Totoro, it is agrarian pastoralism in a pre-Shōwa society. In <em>Kiki’s Delivery Service</em>, it is the splendour of a zeppelin, the romantic mythos of romantic European society, and the sanctity of technology as a servant of peacetime.</p>
 <p>A.J. Rocca argues for Koriko as a foundation for the climax of the film — a resounding ‘what-if’ rejection of the “ghost of modernity”:</p>
@@ -343,9 +338,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/kiki-3_hu219e8ebe92e3c8a83650dd60012d2a8e_425072_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/kiki-3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of crowds watching the stricken zeppelin" title="**Fig. 2.3** *Crowds gather on Koriko’s rooftops to watch the stricken zeppelin*" 
+        src="/images/media/kiki-3.png"alt="Image of crowds watching the stricken zeppelin" title="**Fig. 2.3** *Crowds gather on Koriko’s rooftops to watch the stricken zeppelin*" 
         loading="lazy"
       />
 
@@ -353,8 +346,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 2.3</strong> <em>Crowds gather on Koriko’s rooftops to watch the stricken zeppelin</em></figcaption>
+   <figcaption><strong>Fig. 2.3</strong> <em>Crowds gather on Koriko’s rooftops to watch the stricken zeppelin</em></figcaption>
 </figure></p>
 <p>The film guides the <em>setting</em> into the same climax it does its protagonist, Kiki. As Kiki discards self-doubt and reacquires her agency as a witch to save her friend, Tombo, a whole pre-war era is backed into that moment and held hostage. Rocca notes that, as the dirigible is wrested from human control, a reporter exclaims phrases pulled from the real-world Hindenburg disaster. It is in this moment, followed by the conclusion of the film in which no-one was hurt, that <em>Kiki’s Delivery Service</em> marks a fantastical departure from our own timeline — one that would, after the Hindenburg disaster, result in the bloodshed of the Second World War, and the iron curtain, depression and austerity that followed it. Out of Ghibli’s catalogue, Koriko is perhaps the most explicitly visionary in its depiction of alternate and parallel timelines</p>
 <p>Consolidating the spatial turn of both <em>Totoro</em> and <em>Kiki</em>, linked in this argument by their mutual depictions of ‘lost pasts,’ is the universalising power of reigning in the ‘fantastical’ (i.e. witches and forest spirits) with utopian thinking, drawn from the real world. This fascination with the interplay of the fantastic and the mundane extends well beyond the story of our girl protagonists — it is reproduced throughout these worlds, colliding their real-world contexts with nostalgic whimsy resurrected by proxy through the studio’s more fantastic elements — forest trolls and flying broomsticks. This is how a village amidst Japan’s great economic miracle, a time dominated by urbanisation, deforestation and consumerism, is resurrected in <em>My Neighbour Totoro</em> as a sort of utopian ‘no-place,’ colliding pre-Meiji intuition (Karatani 1993) with telephones and trolley cars. Similarly, this is how a European seaside town, fresh out of the First World War and awaiting a brutal resurgence of violence in the ‘Age of Frustration<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>,’ is resurrected in <em>Kiki’s Delivery Service</em> as a tranquil old-world theatre of European architecture, home to zeppelins and witches alike. Alternative histories are not simply spaces of the past, but in fact vessels of the present recreated elsewhere; displaced and transcendent. That is how Studio Ghibli reproduces conventional space in a utopian fashion.</p>
@@ -397,9 +391,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/yesterday-1_hu5ec46778da49341a33b6c24ead4cf607_439449_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/yesterday-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of Taeko sitting out of PE" title="**Fig. 3.1** *Young Taeko sits out of PE after catching a cold, worried her peers will think she’s on her period*" 
+        src="/images/media/yesterday-1.png"alt="Image of Taeko sitting out of PE" title="**Fig. 3.1** *Young Taeko sits out of PE after catching a cold, worried her peers will think she’s on her period*" 
         loading="lazy"
       />
 
@@ -407,8 +399,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 3.1</strong> <em>Young Taeko sits out of PE after catching a cold, worried her peers will think she’s on her period</em></figcaption>
+   <figcaption><strong>Fig. 3.1</strong> <em>Young Taeko sits out of PE after catching a cold, worried her peers will think she’s on her period</em></figcaption>
 </figure></p>
 <p>These memories, broadly depicting different aspects of childhood (or, for that matter, linear), offer a unique unsentimental glimpse of middle-class girlhood in postwar Japan. It is only appropriate that these memories resurface during Taeko’s own physical displacement, since the transition between her urban and agrarian identities offer ample room for dislocated reflection in the spaces between. They reflect what could be described as an ‘abstract temporality’ in the absence of mapped space — it is here that we see linear chronology in the film begin to break down, as does the world beyond, and for a moment the past and present intermingle freely in the train carriage. New places have us recalling and relying on a dialogue with past memory and the future. On a slow-moving sleeper train into Japan’s mountainous interior, having left city life behind and having not yet arrived at her destination, Taeko experiences this dislocation of time, and so memories of her youth emerge uncontrollably throughout the film. It is not simply that Taeko is daydreaming deliberately — in several scenes, a memory bursts into her consciousness, triggered by spaces around her. It is a powerful depiction of how emotion and memory is bound to places, shapes, and images, and how those things can reemerge in their depiction.</p>
 <p><em>Only Yesterday</em> is a film about the ‘spaces between,’ formed in a collision of landscapes. Memory is perhaps at the heart of the spatial concerns of the film. The Japanese title, <em>Memories Come Tumbling Down</em> (Omoide Poro Poro) is perhaps a better summation of the events of the film, since the themes of the work and Takahata’s filmmaking rely so heavily on the interplay between past and present here. They are visually distinguished through changes in style of both backgrounds and character cels. When Taeko recalls a moment from her childhood, Takahata strips our sense of place right back. What follows is a beautiful representation of the foreignness and inaccessibility of childhood memories, depicted masterfully in gentle watercolour strokes and liquid shapes. These scenes look almost like traditional Japanese paintings, employing artful negative space and desaturated tones to direct attention and emphasise detail. The environment of Taeko’s childhood looks almost half-finished, invoking the haze of memory and her bias towards her own presence. It is not merely a depiction of absence, but is used to emphasise the vitality of the memory, by depicting honestly the events as Taeko remembers them.</p>
@@ -439,9 +432,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/yesterday-2_hu7daa6486f33e15aad467c4aafb90d976_451008_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/yesterday-2.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of Taeko laying out saffron on straw mats" title="**Fig. 3.2** *Taeko and her host family dry saffron on straw mats in the sun*" 
+        src="/images/media/yesterday-2.png"alt="Image of Taeko laying out saffron on straw mats" title="**Fig. 3.2** *Taeko and her host family dry saffron on straw mats in the sun*" 
         loading="lazy"
       />
 
@@ -449,8 +440,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 3.2</strong> <em>Taeko and her host family dry saffron on straw mats in the sun</em></figcaption>
+   <figcaption><strong>Fig. 3.2</strong> <em>Taeko and her host family dry saffron on straw mats in the sun</em></figcaption>
 </figure></p>
 <p>The division of landscapes is not unique to the mechanics of cinema, however — <em>Only Yesterday</em> has sincere thematic spaces also. By this point in the argument of this thesis, Ghibli’s interest and dialogue with natural landscape and the environment is well established. Unlike the functional and artistic implications of space, the ‘worlds’ of <em>Only Yesterday</em> do not invoke specific personal memory but broader historical contexts, largely informed by the social upheaval and rapid introduction of consumer society in the Shōwa period, albeit through a very different lens than that of <em>My Neighbour Totoro</em>. We see the introduction of nostalgia as informed by commodity-objects, including references to period-appropriate music groups and television. The inclusion of the series-0 Shinkansen, Japan’s first high-speed rail network, is symbolic of the postwar era, as a culmination of Japanese industrial strength and war recovery. Despite the film’s initial release in 1991, the story is set in the early 1980s, positioning Taeko as a child in the height of the baby boom and inextricably positioning her as a girl of Shōwa. This acknowledgement is important, because it finds Taeko’s fascination and eventual adoption of an agrarian lifestyle uniquely within this historical Japanese period, and characterises her personal struggles against deeply cultural spaces. This functions alongside the playful past-present mechanic, widening the cultural and technical gap between childhood and adulthood. On the overnight train trip out of Tokyo, Taeko sees little of the passing landscape and the audience experiences a dislocation of space, unable to map the journey without prior knowledge of her destination. In this sense, Shōwa Tokyo is not just a memory but a physically alien world, segregated from her rural destination by an inscrutable journey between. Her childhood memory, and its legacy in Japan’s vicious urbanism, is divorced from the present twofold, and an inversion of topos has occurred. The film shows little of present-day Tokyo, because there is little to tell — to a Japanese audience in the 1990s, this constituted a ‘default’ space.</p>
 <p>The same cannot be said for the depiction of Yamagata, and Taeko’s retreat to the country marks a visual departure as dramatic as that between the memory scenes and present Tokyo. Despite her stay in a thoroughly Japanese farmhouse amidst steep, terraced hills, European elements also emerge. Toshio, her acquaintance and friend, mentions an affection for traditional Eastern European music, and agriculture in the region is dependent on the harvesting of Saffron flowers, an originally mediterranean crop. This reflects, to some extent, the minor Japanese interest in ‘Old Europe,’ but also helps distinguish Taeko’s journey as somewhat special across Japanese agriculture, distinguish the practice and technique of Saffron harvest against staple crops like rice. We see every part of the plant being used, using its valuable threads to dye clothes. Here, Taeko is obviously an outsider — despite her eagerness to learn and participate — and so her Shōwa nostalgia, which she confesses to Toshio, is unreciprocated. This ties into a broader, studio-wide thematic interest here towards the deficiencies of Japanese urbanism. Most obviously, the previous chapter’s My Neighbour Totoro celebrates agrarian living, and it is not unreasonable to associate Only Yesterday with this general post-Shōwa urban skepticism. The film makes obvious, however, that Taeko’s tentative agrarian retreat is presented as an alternative, rather than default space. It is very much a human domain, just distant from the bustling heart of Tokyo, which is epistemically opposed to Totoro’s more foundational absence of landscape.</p>
@@ -480,9 +472,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/yesterday-3_huf17303191431e3fd14036b6f4ee67684_408517_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/yesterday-3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of Taeko contemplating" title="**Fig. 3.3** *Young Taeko considers the poverty of a fellow classmate*" 
+        src="/images/media/yesterday-3.png"alt="Image of Taeko contemplating" title="**Fig. 3.3** *Young Taeko considers the poverty of a fellow classmate*" 
         loading="lazy"
       />
 
@@ -490,8 +480,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 3.3</strong> <em>Young Taeko considers the poverty of a fellow classmate</em></figcaption>
+   <figcaption><strong>Fig. 3.3</strong> <em>Young Taeko considers the poverty of a fellow classmate</em></figcaption>
 </figure></p>
 <p>Here we return to Karatani, who articulates the origins of this schism of conception:</p>
 <blockquote>
@@ -540,9 +531,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/heart-1-1_hu6692cf7b51a0c47d9eb0fd7f5ae616c2_426853_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/heart-1-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a scene from the film of a street" title="**Fig. 4.1** *Shizuku crosses a curved street in Tamagawa*" 
+        src="/images/media/heart-1-1.png"alt="Image of a scene from the film of a street" title="**Fig. 4.1** *Shizuku crosses a curved street in Tamagawa*" 
         loading="lazy"
       />
 
@@ -550,8 +539,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 4.1</strong> <em>Shizuku crosses a curved street in Tamagawa</em></figcaption>
+   <figcaption><strong>Fig. 4.1</strong> <em>Shizuku crosses a curved street in Tamagawa</em></figcaption>
 </figure></p>
 <p><figure>
   <a href="/images/media/heart-1-2.jpg"
@@ -582,9 +572,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/heart-1-2_hu8bce10a32ece601e381dc89737d8efe2_503167_1500x0_resize_q90_h2_box.webp 3x, /images/media/heart-1-2_hu8bce10a32ece601e381dc89737d8efe2_503167_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/media/heart-1-2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Photograph of the same street in real life" title="**Fig. 4.2** *The same curved street (own work)*" 
+        src="/images/media/heart-1-2.jpg"alt="Photograph of the same street in real life" title="**Fig. 4.2** *The same curved street (own work)*" 
         loading="lazy"
       />
 
@@ -592,8 +580,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 4.2</strong> <em>The same curved street (own work)</em></figcaption>
+   <figcaption><strong>Fig. 4.2</strong> <em>The same curved street (own work)</em></figcaption>
 </figure></p>
 <p><em>Whisper of the Heart</em> makes full use of the Tamagawa suburb in Tokyo, employing locations in all manner of spatial functions. Shizuku finds herself exploring parts of these hills, and we explore with her — where conventional filmmaking intuition would merely cut between locations, Kondō (and also screenwriter Hayao Miyazaki, who drafted the storyboards) use a practice common among Ghibli films in which the journey is presented in part or in full, allowing audiences to map recurring spaces in the film. These are thoroughly immersive journeys, with detailed views into the outside world as they whiz by on trains or on bicycles. Weedy (2018) calls this approach “perceptual modulation,” and recalls Miyazaki’s invocation of Ma as its reason for being, arguing that:</p>
 <blockquote>
@@ -626,9 +615,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/heart-2-1_hu994b09a5f9f8f1ed3d91ba34062a0ac3_462305_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/heart-2-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a scene from the film of the characters at a shrine" title="**Fig. 4.3** *Shizuku sits at a shrine after school with a friend*" 
+        src="/images/media/heart-2-1.png"alt="Image of a scene from the film of the characters at a shrine" title="**Fig. 4.3** *Shizuku sits at a shrine after school with a friend*" 
         loading="lazy"
       />
 
@@ -636,8 +623,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 4.3</strong> <em>Shizuku sits at a shrine after school with a friend</em></figcaption>
+   <figcaption><strong>Fig. 4.3</strong> <em>Shizuku sits at a shrine after school with a friend</em></figcaption>
 </figure></p>
 <p><figure>
   <a href="/images/media/heart-2-2.jpg"
@@ -668,9 +656,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/heart-2-2_hu080a57d049b8c51cac46f9fa3641e67d_759190_1500x0_resize_q90_h2_box.webp 3x, /images/media/heart-2-2_hu080a57d049b8c51cac46f9fa3641e67d_759190_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/media/heart-2-2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Photo of the same shrine in real life" title="**Fig. 4.4** *The same shrine (own work)*" 
+        src="/images/media/heart-2-2.jpg"alt="Photo of the same shrine in real life" title="**Fig. 4.4** *The same shrine (own work)*" 
         loading="lazy"
       />
 
@@ -678,8 +664,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 4.4</strong> <em>The same shrine (own work)</em></figcaption>
+   <figcaption><strong>Fig. 4.4</strong> <em>The same shrine (own work)</em></figcaption>
 </figure></p>
 <p>The film is set in and inspired by Tamagawa — centred on the Seiseki Sakuragaoka station on the Keio Line specifically — and many locations depicted in the film are inspired by locations in this area. In this sense, there are two places that appear simultaneously in the film. To those that are familiar with the local area, the film faithfully recreates and depicts the landscape and architecture of Tamagawa, with all its local history — from its origins in the rapid expansion of Tokyo suburbia in the ‘60s, to its Keio line station and commercial surrounds. To those unfamiliar with Tamagawa, these places transcend their real-world origins and become fantasy, drawing more broadly on concepts of ‘life in Japan’. A foreigner may not recognise Shizuku’s <em>Danchi</em> as a postwar public housing initiative common to the Tokyo metro area, but they may very well recognise her apartment lifestyle and the concrete structure’s open-air staircase to be ‘Japanese.’ In this sense, there is a Shizuku of Tamagawa, a Shizuku of Japan, and perhaps even Shizuku of universal adolescence, with the specificity of her environs and circumstance irrelevant to the broader narrative strokes of the film.</p>
 <p>In typical Ghibli fashion, there is an obvious presence of this ‘universal Shizuku,’ even within this deeply Japanese film. Most obviously, there is mention of Seiji’s interest in a traditionally European craft (violin making) and his ambitions to study under an expert in Italy. More broadly, however, the recession that devastated Japan’s ‘economic miracle’ during production is replaced by broader gestures towards familial concern and adolescent uncertainty, requiring Shizuku to draw upon confidence in herself and her ability to justify her departure from the “usual path”. She has noble and disarmingly charming literary ambitions in an education system that prioritises test-taking and academic performance, and weighing her dreams against family and society are at the heart of the themes of this film. Shizuku’s parents, while hesitant and concerned for her wellbeing, are supportive of her ambitions and largely defy stern, conservative Japanese stereotyping (Nakayama 2014, pp.17-19), allowing Shizuku’s circumstance to transcend Tamagawa and Japan. These are the “shared cultural codes” described by Frans Mäyrä (2010, p. 38), who recognised Ghibli’s propensity to demonstrate “contemporary global concerns” that are “readily available as a cultural dialectic for the future.”</p>
@@ -709,9 +696,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/heart-3-1_hu1c81bfe613a6de6ce484f308a57670b7_435210_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/heart-3-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a train pulling into a station" title="**Fig. 4.5** *A Keio EMU pulls into Seiseki-sakuragaoka station*" 
+        src="/images/media/heart-3-1.png"alt="Image of a train pulling into a station" title="**Fig. 4.5** *A Keio EMU pulls into Seiseki-sakuragaoka station*" 
         loading="lazy"
       />
 
@@ -719,8 +704,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 4.5</strong> <em>A Keio EMU pulls into Seiseki-sakuragaoka station</em></figcaption>
+   <figcaption><strong>Fig. 4.5</strong> <em>A Keio EMU pulls into Seiseki-sakuragaoka station</em></figcaption>
 </figure></p>
 <p><figure>
   <a href="/images/media/heart-3-2.jpg"
@@ -751,9 +737,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/heart-3-2_hu6469972f87e1ebda3f25b897da374c31_395395_1500x0_resize_q90_h2_box.webp 3x, /images/media/heart-3-2_hu6469972f87e1ebda3f25b897da374c31_395395_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/media/heart-3-2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Photo of the same station in real life" title="**Fig. 4.6** *The same station (own work)*" 
+        src="/images/media/heart-3-2.jpg"alt="Photo of the same station in real life" title="**Fig. 4.6** *The same station (own work)*" 
         loading="lazy"
       />
 
@@ -761,8 +745,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 4.6</strong> <em>The same station (own work)</em></figcaption>
+   <figcaption><strong>Fig. 4.6</strong> <em>The same station (own work)</em></figcaption>
 </figure></p>
 <p>This is perhaps symbolised best by the film’s use of ‘Country Roads’ by John Denver, which is referenced throughout the film and finally sung during the climax of the film — a concept which, to West Virginians, might seem delightfully absurd. Walter Chaw for <em>Film Freak Central</em> expressed this colourfully, writing in his review:</p>
 <blockquote>
@@ -808,9 +793,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/grave-1_hucef5925bee9d18b6a5078a5136abbbc4_520014_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/grave-1.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a children looking over a Japanese suburb at night" title="**Fig. 5.1** *The spirits of Seita and Setsuko overlook their aunt’s home after the firebombing of Kobe*" 
+        src="/images/media/grave-1.png"alt="Image of a children looking over a Japanese suburb at night" title="**Fig. 5.1** *The spirits of Seita and Setsuko overlook their aunt’s home after the firebombing of Kobe*" 
         loading="lazy"
       />
 
@@ -818,8 +801,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 5.1</strong> <em>The spirits of Seita and Setsuko overlook their aunt’s home after the firebombing of Kobe</em></figcaption>
+   <figcaption><strong>Fig. 5.1</strong> <em>The spirits of Seita and Setsuko overlook their aunt’s home after the firebombing of Kobe</em></figcaption>
 </figure></p>
 <p>Takahata further explained the rationale behind the animation war story in the same interview (p.7):</p>
 <blockquote>
@@ -855,9 +839,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/grave-2_hu69d54f9b87ec007744a0a313d7afaa48_338074_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/grave-2.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a toddler on the coast watching fighter planes in the distance" title="**Fig. 5.2** *Setsuko watches enemy fighters buzz the Japanese coast*" 
+        src="/images/media/grave-2.png"alt="Image of a toddler on the coast watching fighter planes in the distance" title="**Fig. 5.2** *Setsuko watches enemy fighters buzz the Japanese coast*" 
         loading="lazy"
       />
 
@@ -865,8 +847,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 5.2</strong> <em>Setsuko watches enemy fighters buzz the Japanese coast</em></figcaption>
+   <figcaption><strong>Fig. 5.2</strong> <em>Setsuko watches enemy fighters buzz the Japanese coast</em></figcaption>
 </figure></p>
 <p>Satsuko is delirious by the time he returns, and although he attempts to feed her she passes soon after. A scene shows a wealthy family returning home from the country after evacuation, indulging in music and small-talk, as glimpses of Setsuko’s life in the shelter are shown. Seita cremates her body at the top of the hill, and retains only a few small personal items in her memory. He starves to death in the weeks following surrender, joining Setsuko’s spirit. In a haunting image, they settle beneath a view of modern-day Kobe, aglow in the prosperity of the postwar world.</p>
 <p>It is unflinchingly tragic, but also in some ways more sentimental than Nosaka’s own experience, who survived his sister and died in 2015. As Takahata explained, Seita reflects a postwar generation, as “he withdraws to go away and do other things. He doesn’t endure it” (<em>Animerica</em>, 1991, p. 7). Takahata positions Grave not as a traditional anti-war film in its tragedy, despite his well-documented antiwar advocacy, in favour of an intimate story of the consanguineous bond of brother and sister, and their death in isolation. We recall here the “New Japan/Old Japan” anxiety of the previous chapter on <em>Only Yesterday</em>, but its dimensions are replaced. ‘New’ and ‘Old’ are not broad notions of old agrarian Japan and new consumer society, but of old childhood in the Second World War and new childhood raised after it. So there like a lot of Takahata’s films, <em>Grave</em> invokes a dialogue between the time of a film’s release and the time of a film’s setting.</p>
@@ -897,9 +880,7 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/grave-3_huf40c55ad7b1beb541e670e6ee5a906ef_566682_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/grave-3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of a brother and sister sitting outside a makeshift shelter" title="**Fig. 5.3** *Seita and Setsuko sitting in the sunset outside their makeshift shelter*" 
+        src="/images/media/grave-3.png"alt="Image of a brother and sister sitting outside a makeshift shelter" title="**Fig. 5.3** *Seita and Setsuko sitting in the sunset outside their makeshift shelter*" 
         loading="lazy"
       />
 
@@ -907,8 +888,9 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 
   </a>
 
+
   
-    <figcaption><strong>Fig. 5.3</strong> <em>Seita and Setsuko sitting in the sunset outside their makeshift shelter</em></figcaption>
+   <figcaption><strong>Fig. 5.3</strong> <em>Seita and Setsuko sitting in the sunset outside their makeshift shelter</em></figcaption>
 </figure></p>
 <p>To close the argument portion of this thesis, it seems appropriate to draw parallels between <em>Grave</em> and its sister film <em>Totoro</em> through Karatani’s initial observation on the upheaval of the old, transcendental understanding of landscape. It is easy enough to draw parallels between <em>Grave’s</em> retreat from society and <em>Only Yesterday’s</em> similar modern phobias. More critically, considering their cinema pairing, consider how aspects of <em>Grave’s</em> landscape mirrors <em>Totoro’s</em> own pleasure amidst the trees; particularly the scenes in which Satsuko plays and acts out adult chores around their abandoned shelter. Wegner (2010) also draws parallels between the shelter the natural world provides in <em>Totoro</em>, nurturing the girls, and <em>Grave’s</em> “fully objectified mute landscape, [which] appears glacially indifferent to their suffering.” Their shelter sits on a lake, across from where large country houses look over the surrounding countryside. There is some fantasy at play here, between the misery and rationing of the Japanese society and the freedom and peacefulness of the shelter. Of course, the children never really escape from the war-world — they become increasingly dependent on it, as Setsuko’s health deteriorates. These desperate scenes starkly contrast the peaceful and intuitive relationship between person, agriculture and wilderness depicted in <em>Totoro</em>, and constitutes a dystopia that inverts several the picturesque, utopian deconstructions of modernity argued for in this paper’s first chapter. This is a good way of demonstrating the <em>complementary</em>, rather than <em>antagonistic</em> nature of the utopia/dystopia paradigm: we can trace the ‘social dream’ in both, precisely because of their opposing thematic constructions — dystopia is most commonly an inversion, rather than a subversion, of the utopian social dream (Wegner 2002). The dream may be different — Takahata clearly outlines a dialogue between the youth of consumer society and the abstract suffering of the war years at the beginning of this chapter — but as a double-feature, and as a text preceding <em>Totoro’s</em> ‘50s pacifism, <em>Grave’s</em> haunting echoes of the past reflect a radically different visions of Japan&rsquo;s 20th-century landscape.</p>
 <h2 id="conclusion">
@@ -998,10 +980,10 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 	
 	<item>
 	  <title>On Moneylessness</title>
-	  <link>https://millmint.net/millmint/essays/moneylessness.html</link>
+	  <link>https://millmint.net/millmint/essays/moneylessness/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/moneylessness.html</guid>
+	  <guid>https://millmint.net/millmint/essays/moneylessness/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1135,10 +1117,10 @@ This essay was written in December 2021. <a href="/posts/2021-12-09-moneylessnes
 	
 	<item>
 	  <title>Hong Kong</title>
-	  <link>https://millmint.net/millmint/essays/hongkong.html</link>
+	  <link>https://millmint.net/millmint/essays/hongkong/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/hongkong.html</guid>
+	  <guid>https://millmint.net/millmint/essays/hongkong/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1171,10 +1153,10 @@ This article was <strong>originally published</strong> in <strong>October 2019</
 	
 	<item>
 	  <title>A Cashless Tokyo</title>
-	  <link>https://millmint.net/millmint/essays/tokyo.html</link>
+	  <link>https://millmint.net/millmint/essays/tokyo/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/tokyo.html</guid>
+	  <guid>https://millmint.net/millmint/essays/tokyo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1229,10 +1211,10 @@ This article was <strong>originally published</strong> in <strong>December 2018<
 	
 	<item>
 	  <title>Utopie Concrète</title>
-	  <link>https://millmint.net/millmint/essays/utopie.html</link>
+	  <link>https://millmint.net/millmint/essays/utopie/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/utopie.html</guid>
+	  <guid>https://millmint.net/millmint/essays/utopie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1297,10 +1279,10 @@ This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click he
 	
 	<item>
 	  <title>Waugh</title>
-	  <link>https://millmint.net/millmint/essays/waugh.html</link>
+	  <link>https://millmint.net/millmint/essays/waugh/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/waugh.html</guid>
+	  <guid>https://millmint.net/millmint/essays/waugh/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

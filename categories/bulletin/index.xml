@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Bulletin</title>
-	<link>https://millmint.net/categories/bulletin.html</link>
+	<link>https://millmint.net/categories/bulletin/</link>
 	<description>Recent content in Bulletin </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/bulletin/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Accounted Revenue</title>
-	  <link>https://millmint.net/factbook/bulletin/accounted-revenue.html</link>
+	  <link>https://millmint.net/factbook/bulletin/accounted-revenue/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/accounted-revenue.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/accounted-revenue/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -39,7 +39,7 @@ Vekllei businesses that operate in domestic markets do not generally use money. 
 <blockquote class="note panel">
   <span class="text"><p><strong>Summary</strong></p>
 <ul>
-<li>Vekllei businesses that operate in <a href="/factbook/society/state/finance.html#domestic-markets">domestic markets</a> do not generally use money.</li>
+<li>Vekllei businesses that operate in <a href="/factbook/society/state/finance/#domestic-markets">domestic markets</a> do not generally use money.</li>
 <li>This includes government corporations and departments.</li>
 <li>Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics.</li>
 <li>This is known as &ldquo;accounted revenue,&rdquo; and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values.</li>
@@ -55,10 +55,10 @@ Vekllei businesses that operate in domestic markets do not generally use money. 
 	
 	<item>
 	  <title>Airline Travel</title>
-	  <link>https://millmint.net/factbook/bulletin/airline-travel.html</link>
+	  <link>https://millmint.net/factbook/bulletin/airline-travel/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/airline-travel.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/airline-travel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -105,10 +105,10 @@ Most people in Vekllei do not use money and are essentially unbanked. This raise
 	
 	<item>
 	  <title>Alcohol</title>
-	  <link>https://millmint.net/factbook/bulletin/alcohol.html</link>
+	  <link>https://millmint.net/factbook/bulletin/alcohol/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/alcohol.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/alcohol/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -176,10 +176,10 @@ Vekllei people like alcohol, and in their society it is widely available at no c
 	
 	<item>
 	  <title>Automatic Allocation</title>
-	  <link>https://millmint.net/factbook/bulletin/automatic-allocation.html</link>
+	  <link>https://millmint.net/factbook/bulletin/automatic-allocation/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/automatic-allocation.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/automatic-allocation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -216,10 +216,10 @@ In most economies, high rates of investment into production factors (infrastruct
 	
 	<item>
 	  <title>Bankruptcy in Vekllei</title>
-	  <link>https://millmint.net/factbook/bulletin/bankruptcy.html</link>
+	  <link>https://millmint.net/factbook/bulletin/bankruptcy/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/bankruptcy.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/bankruptcy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -263,10 +263,10 @@ Large parts of the Vekllei economy are ostensibly owned by the Vekllei Governmen
 	
 	<item>
 	  <title>Foreign Policy</title>
-	  <link>https://millmint.net/factbook/bulletin/foreign-policy.html</link>
+	  <link>https://millmint.net/factbook/bulletin/foreign-policy/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/foreign-policy.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/foreign-policy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -304,10 +304,10 @@ Vekllei has only 24 million people, equivalent roughly to Australia or Syria, bu
 	
 	<item>
 	  <title>Government Ownership</title>
-	  <link>https://millmint.net/factbook/bulletin/government-ownership.html</link>
+	  <link>https://millmint.net/factbook/bulletin/government-ownership/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/government-ownership.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/government-ownership/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -360,10 +360,10 @@ Government-owned corporations (GOCs) are owned by the Vekllei government, which 
 	
 	<item>
 	  <title>Government Style</title>
-	  <link>https://millmint.net/factbook/bulletin/consensus.html</link>
+	  <link>https://millmint.net/factbook/bulletin/consensus/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/consensus.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/consensus/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -397,10 +397,10 @@ Vekllei is governed by an executive council of peers called the Directory. The d
 	
 	<item>
 	  <title>Natural Commodities</title>
-	  <link>https://millmint.net/factbook/bulletin/natural-commodities.html</link>
+	  <link>https://millmint.net/factbook/bulletin/natural-commodities/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/natural-commodities.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/natural-commodities/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -435,10 +435,10 @@ With islands across most of the Atlantic, Vekllei has a huge exclusive economic 
 	
 	<item>
 	  <title>One Person, One Factory</title>
-	  <link>https://millmint.net/factbook/bulletin/lots.html</link>
+	  <link>https://millmint.net/factbook/bulletin/lots/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/lots.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/lots/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -501,10 +501,10 @@ Automated small and medium-sized factories are called Lots in Vekllei. They are 
 	
 	<item>
 	  <title>Productivity</title>
-	  <link>https://millmint.net/factbook/bulletin/productivity.html</link>
+	  <link>https://millmint.net/factbook/bulletin/productivity/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/productivity.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/productivity/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -562,7 +562,7 @@ Much of the Vekllei economy is geared towards maintenance of their quality of li
 
 <p>This is a workforce that, without a compelling wage, rejects low-skill work.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> This further advantages Vekllei productivity by forcing the automation of factory labour (or simply disregarding it, as Vekllei does not have a consumer society) and pressuring labour into high-value industries in services, research, civil service and finance.</p>
 <p>This, in truth, is the core factor of high total productivity in Vekllei. It is not just that they work harder, faster, or with better technology, because these things are not really true. Instead, the Vekllei economy sheds inefficient work regularly in a means out of reach for other countries, because a low wage in a free market will always resurrect unproductive business practices.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Rather than simply <em>improving</em> productivity, Vekllei&rsquo;s unique economy <em>reduces</em> unproductivity, which is not quite the same thing.</p>
-<p>An example of this is the <a href="/millmint/essays/social-economy.html#a-pyramid-of-bad-jobs">pyramid of bad jobs</a>, and the ways in which low-productivity labour is reduced through cascading solutions:</p>
+<p>An example of this is the <a href="/millmint/essays/social-economy/#a-pyramid-of-bad-jobs">pyramid of bad jobs</a>, and the ways in which low-productivity labour is reduced through cascading solutions:</p>
 <ol>
 <li>It is improved</li>
 <li>It is rewarded</li>
@@ -608,10 +608,10 @@ Much of the Vekllei economy is geared towards maintenance of their quality of li
 	
 	<item>
 	  <title>Standardisation</title>
-	  <link>https://millmint.net/factbook/bulletin/standardisation.html</link>
+	  <link>https://millmint.net/factbook/bulletin/standardisation/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/standardisation.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/standardisation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -672,10 +672,10 @@ In some aspects, the republics and island-states that make up Vekllei are decent
 	
 	<item>
 	  <title>Technology</title>
-	  <link>https://millmint.net/factbook/bulletin/technology.html</link>
+	  <link>https://millmint.net/factbook/bulletin/technology/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/technology.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/technology/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -742,10 +742,10 @@ Vekllei is a high-technology, high-productivity, high-education society. Large s
 	
 	<item>
 	  <title>The Commons Overseas</title>
-	  <link>https://millmint.net/factbook/bulletin/elsewhere.html</link>
+	  <link>https://millmint.net/factbook/bulletin/elsewhere/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/elsewhere.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/elsewhere/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -794,10 +794,10 @@ The commons is a pretty remarkable thing. It has improved life satisfaction, pro
 	
 	<item>
 	  <title>Why do Vekllei People Look Like That?</title>
-	  <link>https://millmint.net/factbook/bulletin/looks.html</link>
+	  <link>https://millmint.net/factbook/bulletin/looks/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/bulletin/looks.html</guid>
+	  <guid>https://millmint.net/factbook/bulletin/looks/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

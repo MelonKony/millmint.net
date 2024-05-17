@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Story</title>
-	<link>https://millmint.net/sitetag/story.html</link>
+	<link>https://millmint.net/sitetag/story/</link>
 	<description>Recent content in Story </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/story/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Atomic Moderne Chapter 1</title>
-	  <link>https://millmint.net/millmint/patreon/drafts/comic.html</link>
+	  <link>https://millmint.net/millmint/patreon/drafts/comic/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/drafts/comic.html</guid>
+	  <guid>https://millmint.net/millmint/patreon/drafts/comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -48,7 +48,7 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   
 
-<button  href="/comic.html"   class="article-button">
+<button  href="/comic/"   class="article-button">
   Back to Chapters
 <buttona>
 
@@ -67,8 +67,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/1.jpg"
@@ -85,8 +86,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/2.jpg"
@@ -103,8 +105,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/3.jpg"
@@ -121,8 +124,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/4.jpg"
@@ -139,8 +143,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/5.jpg"
@@ -157,8 +162,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/6.jpg"
@@ -175,8 +181,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/7.jpg"
@@ -193,8 +200,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/8.jpg"
@@ -211,8 +219,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/9.jpg"
@@ -229,8 +238,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/10.jpg"
@@ -247,8 +257,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/11.jpg"
@@ -265,8 +276,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/12.jpg"
@@ -283,8 +295,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/13.jpg"
@@ -301,8 +314,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/14.jpg"
@@ -319,8 +333,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/15.jpg"
@@ -337,8 +352,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/16.jpg"
@@ -355,8 +371,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/images/comics/drafts/17.jpg"
@@ -373,8 +390,9 @@ This draft represents the final copy used as a reference for inking &ndash; the 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>

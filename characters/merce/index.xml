@@ -10,14 +10,41 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Merce</title>
-	<link>https://millmint.net/characters/merce.html</link>
+	<link>https://millmint.net/characters/merce/</link>
 	<description>Recent content in Merce </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 05 Mar 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Mon, 22 Apr 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/merce/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Constable</title>
+	  <link>https://millmint.net/stories/merce/</link>
+	  <pubDate>Mon, 22 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/merce/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The local police constable is cute. Merce has been with the Seispri Municipal Police Service for six years. She&rsquo;s the daughter of the former Chief Inspector.
+She serves as a patrol officer, investigator, mediator, café regular and source of wisdom.
+She &lsquo;knows&rsquo; Tzipora well.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/merce.jpg"/> <blockquote class="note caption">
+  <span class="text">The local police constable is cute.</span>
+</blockquote>
+
+<p>Merce has been with the Seispri Municipal Police Service for six years. She&rsquo;s the daughter of the former Chief Inspector.</p>
+<p>She serves as a patrol officer, investigator, mediator, café regular and source of wisdom.</p>
+<p>She &lsquo;knows&rsquo; Tzipora well.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Chief Inspector</title>
 	  <link>https://millmint.net/stories/patrol/</link>

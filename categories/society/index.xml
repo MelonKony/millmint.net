@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Society</title>
-	<link>https://millmint.net/categories/society.html</link>
+	<link>https://millmint.net/categories/society/</link>
 	<description>Recent content in Society </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/society/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureaus</title>
-	  <link>https://millmint.net/factbook/society/industry/bureaus.html</link>
+	  <link>https://millmint.net/factbook/society/industry/bureaus/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/bureaus.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/bureaus/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -36,8 +36,8 @@ Bureaus typically consist of a general council, which organise votes from worker
   <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Bureaus</strong> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the <a href="/factbook/society/state/finance.html#domestic-markets">private markets</a>. As a result, bureaus are concerned primarily with the public good and industrial policy.</p>
-<p>Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into <em>company ballots</em>, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the <a href="/factbook/society/state/finance.html#international-markets">Vekllei International Market</a>, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.</p>
+<p><strong>Bureaus</strong> in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> are industrial syndicates of companies that represent substantial or monopoly power over an industrial market. Their existence is recognised by Vekllei economic policy as a means of furnishing a reasonable standard of living for Vekllei people outside of the anarchy of the <a href="/factbook/society/state/finance/#domestic-markets">private markets</a>. As a result, bureaus are concerned primarily with the public good and industrial policy.</p>
+<p>Bureaus typically consist of a general council, which organise votes from workers in subsidiary companies into <em>company ballots</em>, which are used to establish standards and self-regulate industry. Bureau membership also allows interaction with the <a href="/factbook/society/state/finance/#international-markets">Vekllei International Market</a>, and provide a means for foreign investment and export. Companies within bureaus still compete against each other.</p>
 <p>The largest bureaus include <em>Electra</em> and <a href="/universal-cotton/"><em>Universal Cotton</em></a>. Electra represents a collection of state-owned electricity generation companies, and Universal Cotton consists of over a hundred individual clothing manufacturers. Although state monopolies may form a bureau in part or as a whole, bureau membership does not necessarily imply state ownership.</p>
 ]]>
   	</content:encoded>
@@ -45,10 +45,10 @@ Bureaus typically consist of a general council, which organise votes from worker
 	
 	<item>
 	  <title>Consosva</title>
-	  <link>https://millmint.net/factbook/society/state/consosva.html</link>
+	  <link>https://millmint.net/factbook/society/state/consosva/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/consosva.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/consosva/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -72,10 +72,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Corsosva</title>
-	  <link>https://millmint.net/factbook/society/state/corsosva.html</link>
+	  <link>https://millmint.net/factbook/society/state/corsosva/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/corsosva.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/corsosva/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -96,10 +96,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Crown Industry</title>
-	  <link>https://millmint.net/factbook/society/industry/crown.html</link>
+	  <link>https://millmint.net/factbook/society/industry/crown/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/crown.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/crown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -118,10 +118,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Documents</title>
-	  <link>https://millmint.net/factbook/society/state/documents.html</link>
+	  <link>https://millmint.net/factbook/society/state/documents/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/documents.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/documents/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -151,10 +151,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Espionage</title>
-	  <link>https://millmint.net/factbook/society/state/espionage.html</link>
+	  <link>https://millmint.net/factbook/society/state/espionage/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/espionage.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/espionage/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -168,7 +168,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   <a class="anchor" href="#overview">#</a>
 </h2>
 <blockquote class="note series">
-  <span class="text">This article is about <a href="/intro.html#what-is-vekllei">Vekllei</a>.</span>
+  <span class="text">This article is about <a href="/intro/#what-is-vekllei">Vekllei</a>.</span>
 </blockquote>
 
 <blockquote class="note panel">
@@ -196,7 +196,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Security Directorates
   <a class="anchor" href="#security-directorates">#</a>
 </h3>
-<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage.html#noshem">Noshem</a>.</p>
+<p>Cosevac (POSEC) and Vosevisi (SESEC) are the Security Directorates of the Public and State respectively. Vosevisi processes some Noshem material, and its subordinate <a href="/factbook/society/state/government/commonwealth/security/#state-secrets-office">State Secrets Office</a> is also responsible for maintaining security controls and classifications. Although they collect intelligence internally, most espionage is conducted overseas by <a href="/factbook/society/state/espionage/#noshem">Noshem</a>.</p>
 <h3 id="adsem">
   Adsem
   <a class="anchor" href="#adsem">#</a>
@@ -226,10 +226,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Finance</title>
-	  <link>https://millmint.net/factbook/society/state/finance.html</link>
+	  <link>https://millmint.net/factbook/society/state/finance/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/finance.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/finance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -251,7 +251,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
   <a class="anchor" href="#overview">#</a>
 </h2>
 <p>The colloquial turn-of-phrase for the domestic Vekllei economy is &ldquo;functionally moneyless,&rdquo; but the actual mechanisms of the internal Vekllei market is considerably more complex. While the average Vekllei person is insulated from money and money-management, their Commonwealth is a major entrepôt<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and has a reputation as an &ldquo;Atlantic Middleman.&rdquo; Vekllei&rsquo;s facilitation of frictionless free trade, large foreign-exchange reserves and received foreign direct investments have resulted in decades of consistent economic growth, and has cemented its reputation as a financial hub between Europe and the Americas.</p>
-<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance.html#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance.html#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance.html#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
+<p>Vekllei&rsquo;s history as a trade hub contributes significantly to its perceived neutrality and its reputation as a meeting place for politics and business, and regularly hosts diplomatic missions as a neutral site. It maintains its moneyless primary economy by effectively isolating its primary (<a href="/factbook/society/state/finance/#domestic-markets">domestic</a>) and secondary (<a href="/factbook/society/state/finance/#international-markets">international</a>) markets, which are the reason for its <a href="/factbook/society/state/finance/#currency">twin currencies</a> and its unusual hybrid market system. Because the Vekllei state manages all money as a function of its moneylessness, the international market and foreign trade is strongly characterised by dirigism and fundamentally beholden to the economic management of the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a>, which acts as both a financial regulator and investment bank.</p>
 <h2 id="markets">
   Markets
   <a class="anchor" href="#markets">#</a>
@@ -264,13 +264,13 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Domestic Markets
   <a class="anchor" href="#domestic-markets">#</a>
 </h3>
-<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>.</p>
+<p>The Vekllei Domestic Market is the turn-of-phrase for the unmoneyed Vekllei economy, including almost all private and public businesses and the majority of trade conducted by ordinary Vekllei people. It is the primary market of Vekllei. For most Vekllei people, the domestic market is the only one with which they will interact in their lives, except for the occasional holiday overseas. The Domestic Market includes all sectors of the Vekllei economy except state trade apparatuses like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>.</p>
 <p>While the participatory nature of the Domestic Market affects its gross productivity, it is regarded as free, innovative and dynamic. It has a skilled workforce benefitted by a robust education system and a high quality of life. About 40% of Vekllei people were born overseas, and some 15% of the Vekllei workforce remain foreign workers. Foreign workers, unlike domestic ones, are remunerated unless residing under an immigration visa.</p>
 <h3 id="industrial-markets">
   Industrial Markets
   <a class="anchor" href="#industrial-markets">#</a>
 </h3>
-<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance.html#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
+<p>Vekllei Industrial Markets are distinguished by their ability to trade in both the moneyless <a href="/factbook/society/state/finance/#domestic-markets">Domestic Market</a> and the <a href="/factbook/society/state/finance/#international-markets">VKIM</a>. There are two kinds of industrial firm in Vekllei:</p>
 <ul>
 <li><strong>Senrouive</strong>: private enterprises</li>
 <li><strong>Venrouive</strong>: public enterprises with membership in an industrial <a href="/bureaus/">bureau</a></li>
@@ -286,7 +286,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 </blockquote>
 
 <p>The Vekllei International Market (VKIM) is an organisation that controls the capital, commodities and securities markets of Vekllei. VKIM is maintained by the <a style="color: var(--color-commerce)" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> as a mechanism for foreign investors and merchants to interact with the isolated, unmoneyed Vekllei domestic market. The international market includes a commodities exchange, derivatives marketplace and other structured financial products that facilitate foreign activity in the Vekllei economy and raise foreign capital for the national liquid currency reserves. VKIM uses the Vekllei Composite Index as a measure of the Vekllei economy, which measures both commodity value and productivity.</p>
-<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance.html#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
+<p>The International Market is the means by which the capital account<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> of the Commonwealth Government implements its long-standing macroeconomic interest in foreign investment and soft power. The reinvestment of capital surplus in the <a href="/factbook/society/state/finance/#currency">Vekllei currencies</a> serves as a form of sterilisation and capital control, controlled directly by the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. Vekllei has the world&rsquo;s 2nd-largest foreign currency reserves.</p>
 <h2 id="currency">
   Currency
   <a class="anchor" href="#currency">#</a>
@@ -306,12 +306,12 @@ Consosva is a legal obligation to register an occupation with your municipality,
   Vekllei Crown (❦VK)
   <a class="anchor" href="#vekllei-crown-vk">#</a>
 </h3>
-<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance.html#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
+<p>The <em>Vekllei Kroner</em> (lit. <em>Vekllei Crown</em>) is the primary and historic currency of Vekllei. It is minted by the <a style="color: var(--color-commerce)" href="/mint/"><span class="fi fi-min-commerce fis"></span> Mint</a> as a souvenir in the tradition of Vekllei <em>medals</em>,<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> but is not otherwise used by Vekllei people as money or transacted in day-to-day life. It is primarily a deflationary currency store backed by gold, and to which each Vekllei citizen is entitled an equal share in emigration. It is not able to be used on the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> directly, but can be purchased as a <a href="/factbook/society/state/finance/#white-bonds">White Bond</a> as a speculative instrument. It is also used in some cases as a mechanism for trade with individuals abroad, mostly by smaller banks looking to broker purchases of goods or services unavailable in Vekllei.</p>
 <h3 id="government-crown-ak">
   Government Crown (✾AK)
   <a class="anchor" href="#government-crown-ak">#</a>
 </h3>
-<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance.html#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
+<p>The <em>Government/Commonwealth Kroner</em> (also the <em>Atlantic Kroner</em> or <em>Crown</em>) is a twin currency used primarily by the state to insure financial instruments like bonds as well as for converting and placing foreign investments and currency. The Government Crown operates on a floating exchange rate as a fiat currency tradeable in the <a href="/factbook/society/state/finance/#international-markets">VKIM</a> and a means for overseas actions in the Vekllei economy.</p>
 <p>The ✾AK is not minted as it does not resemble a conventional currency, and exists only in bonds, state certificates, and as a metric for some commodity money. It has a strong reputation as a hard currency because of the ✾AK&rsquo;s relative security and reliability, backed by powerful domestic institutions.</p>
 <h2 id="banking">
   Banking
@@ -322,7 +322,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 </blockquote>
 
 <p>The policy of bank consolidation under the British Occupation Government continued under the successive Floral Government, and banking was among the first industries in Vekllei to be completely socialised.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> All banks in Vekllei are run as state-owned enterprises, and subordinated to the &lsquo;<em>Old Lady</em>,&rsquo; the colloquial name for the central <a style="color: rgb(240, 93, 136)" href="/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>. &lsquo;Unbanking&rsquo; policy &ndash; the effective demonetisation of the Vekllei domestic markets &ndash; saw severe disruption to the Vekllei economy and led to a period of hyperinflation in the late 2010s.</p>
-<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance.html#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance.html#industrial-markets">industrial market</a>.</p>
+<p>Unlike in other countries, the socialisation of banking in Vekllei also saw the broad exclusion of retail investors and savings banking, effectively halting money exchange in the domestic market and institutionalising the Vekllei banking system. Today, most Vekllei banks are institutional and deal primarily with the secondary speculative markets like <a href="/factbook/society/state/finance/#international-markets">VKIM</a>, or provide lending and contracts for new businesses in the <a href="/factbook/society/state/finance/#industrial-markets">industrial market</a>.</p>
 <h3 id="bank-of-vekllei">
   Bank of Vekllei
   <a class="anchor" href="#bank-of-vekllei">#</a>
@@ -349,7 +349,7 @@ Consosva is a legal obligation to register an occupation with your municipality,
 <p>The Commonwealth capital account runs at a deficit as part of a post-war investment policy called &lsquo;Handshake Accounting,&rsquo; which sees tremendous surplus state capital invested overseas.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
-<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance.html#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Foreign investment in the primary economy is usually made in the form of state-backed <a href="/factbook/society/state/finance/#blue-bonds">Blue Bonds</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4">
 <p>Medallions, or medals, are a cultural feature in Vekllei used in spiritual ceremonies, as awards, and as a material novelty or trinket.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
@@ -365,10 +365,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Industry</title>
-	  <link>https://millmint.net/factbook/society/industry.html</link>
+	  <link>https://millmint.net/factbook/society/industry/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -387,10 +387,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Interim Prosperity Government</title>
-	  <link>https://millmint.net/factbook/history/interim.html</link>
+	  <link>https://millmint.net/factbook/history/interim/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/history/interim.html</guid>
+	  <guid>https://millmint.net/factbook/history/interim/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -413,10 +413,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Language</title>
-	  <link>https://millmint.net/factbook/society/culture/language.html</link>
+	  <link>https://millmint.net/factbook/society/culture/language/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/language.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/language/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -461,7 +461,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 <p><em>What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.</em></p>
 </blockquote>
 <p>— Yoshio Nakamura</p>
-<p>Let&rsquo;s take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/factbook/society/culture/language.html#spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/factbook/society/culture/language.html#topet"><em>Topet</em></a> are understood universally.</p>
+<p>Let&rsquo;s take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/factbook/society/culture/language/#spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/factbook/society/culture/language/#topet"><em>Topet</em></a> are understood universally.</p>
 <p><figure>
   <a href="/images/images/language.jpg"
      target="_blank"
@@ -477,10 +477,11 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>An infographic showcasing the Vekllei language, including <a href="/factbook/society/culture/language.html#potenne">Potenne</a> use. | <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em></figcaption>
+   <figcaption>An infographic showcasing the Vekllei language, including <a href="/factbook/society/culture/language/#potenne">Potenne</a> use. | <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em></figcaption>
 </figure></p>
-<p>Other languages, often called <em>sub-languages</em>, are informed regionally and have varying literacy across the Home Island. For example, <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a> is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&rsquo;s most complex and hermetic language systems.</p>
+<p>Other languages, often called <em>sub-languages</em>, are informed regionally and have varying literacy across the Home Island. For example, <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a> is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&rsquo;s most complex and hermetic language systems.</p>
 <h3 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -817,7 +818,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
   <a class="anchor" href="#phonetic-reading">#</a>
 </h3>
 <p>Anchoring consonant-vowel characters (<em>demioette</em>, as opposed to double-vowels or vowel-consonants, called <em>hieyerette</em><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>) written in Topet may feature redundant adjacent characters called <em>phonetic complements</em>, which, in a non-determinative reading, are pronounced the same way to guide the reader. This lends to a system that encourages adjacent duplicate consonant-vowel pairings in some aspects, since Vekllei words are already formed out of neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, <em>comoyia</em>, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.</p>
-<p>In the above case, <em>comoyia</em> can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &lsquo;spelling&rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also <em>comoyia</em>, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of <a href="/factbook/society/culture/language.html#potenne"><em>Potenne</em></a>, and represents one of its primary uses.</p>
+<p>In the above case, <em>comoyia</em> can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &lsquo;spelling&rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also <em>comoyia</em>, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of <a href="/factbook/society/culture/language/#potenne"><em>Potenne</em></a>, and represents one of its primary uses.</p>
 <h3 id="semantic-reading">
   Semantic Reading
   <a class="anchor" href="#semantic-reading">#</a>
@@ -848,8 +849,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>An infographic summarising the appearance of Vekllei scripts, including <a href="/factbook/society/culture/language.html#topet"><em>Topet</em></a>. | <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em></figcaption>
+   <figcaption>An infographic summarising the appearance of Vekllei scripts, including <a href="/factbook/society/culture/language/#topet"><em>Topet</em></a>. | <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em></figcaption>
 </figure></p>
 <p>These character groups are called <em>Minor Demons</em>, or <em>pettidemion,</em> and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern <em>Topet</em>, are arranged in a quadrant with the principle arranged in the top left.</p>
 <p><em>Minor Demons</em> are the foundations of <em>Topet</em> script, since they can be written phonetically or as pictographs. This also contributes to <em>Topet</em>&rsquo;s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.</p>
@@ -862,12 +864,12 @@ Included was a majority female Council of Roses, many of whom were socialists op
 </blockquote>
 
 <p>Contemporary <em>Rapotenne</em> is informed by pictographic proto-<em>Topet</em> runes as well as elements of the extinct <em>Kala</em> language, and subsequently <em>Quutetast</em> Algic artefacts. Because <em>Kala</em> is extinct and <em>Quutetast</em> is a dead language, largely displaced by modern spoken Vekllei, <em>Rapotenne</em> is unique among Vekllei&rsquo;s sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and Blood Names.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
-<p><em>Rapotenne</em> has its origins in superstitious <em>Islandi</em> magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. <em>Rapotenne</em> today mostly employs older <a href="/factbook/society/culture/language.html#diphthongs">Floral Vowels</a>, which themselves are likely evolutions of proto-<em>Quutetast</em> pronunciation associated with <em>Kala</em>. Rapotenne characters, also called <em>Rapotenne</em>, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a> signs, which is functionally adjacent to <em>Rapotenne</em>.</p>
+<p><em>Rapotenne</em> has its origins in superstitious <em>Islandi</em> magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. <em>Rapotenne</em> today mostly employs older <a href="/factbook/society/culture/language/#diphthongs">Floral Vowels</a>, which themselves are likely evolutions of proto-<em>Quutetast</em> pronunciation associated with <em>Kala</em>. Rapotenne characters, also called <em>Rapotenne</em>, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a> signs, which is functionally adjacent to <em>Rapotenne</em>.</p>
 <h3 id="practice">
   Practice
   <a class="anchor" href="#practice">#</a>
 </h3>
-<p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
+<p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
 <h2 id="potenne">
   Potenne
   <a class="anchor" href="#potenne">#</a>
@@ -881,7 +883,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 </blockquote>
 
 <p>Historic social taboos in Vekllei&rsquo;s dominant religion, Upen, prevented speech between people for a variety of reasons, including for marital, interfamilial, penal and ascetic considerations. <em>Potenne</em> first arose to avoid these taboos. During the first substantial immigration of Inuit-Kalaallisut peoples in the 4th century BC, proto-<em>Potenne</em> avoidance languages developed pragmatic pidgin forms to allow for trade and communication between settlers and the original Islandi population. This rapid expansion in use saw <em>Potenne</em> develop solidified cultural tenants, including phonologically distinct suprasegmental components like <em>biouspotenne</em> (<em>lit. &ldquo;Face-Talk&rdquo;</em>), which distinguishes facial expression from gestures in poetic, transcendental forms, and <em>kiouyapotenne</em> (<em>lit. &ldquo;Child-Talk&rdquo;</em>), which uses facial expressions to teach children individual signs.</p>
-<p>By the 11th Century, <em>Potenne</em> was documented alongside other critical languages like <em>Topet</em>, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a>, today considered an independent language system within Vekllei&rsquo;s varied linguistic cultures.</p>
+<p>By the 11th Century, <em>Potenne</em> was documented alongside other critical languages like <em>Topet</em>, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a>, today considered an independent language system within Vekllei&rsquo;s varied linguistic cultures.</p>
 <p><em>Potenne</em> is used today as a casual substitute for simple speech and to communicate figurative meanings of words in <em>Topet</em> otherwise uncommunicable in conventional speech.</p>
 <h3 id="phonology-1">
   Phonology
@@ -916,7 +918,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
   <span class="text"><strong>Upotenne</strong> (<em>lit. &ldquo;Spirit-Hand-Talk&rdquo;</em>) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to <em>Potenne</em>, <em>Upotenne</em> is more closely historically aligned with <em>Rapotenne</em> than modern Vekllei.</span>
 </blockquote>
 
-<p>Much as <em>Potenne</em> combines semantic and verbal forms to enhance communication, <em>Upen</em> appropriates the older pictographic <a href="/factbook/society/culture/language.html#rapotenne"><em>Rapotenne</em></a> script to aid spiritual ritual and <em>demiosnjarnkah</em> (<em>lit. &ldquo;Old Arts&rdquo;</em><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>). Although few Vekllei people are completely literate in it, <em>Upotenne</em> remains a cultural force throughout society and is used commonly in ritual around the Home Islands.</p>
+<p>Much as <em>Potenne</em> combines semantic and verbal forms to enhance communication, <em>Upen</em> appropriates the older pictographic <a href="/factbook/society/culture/language/#rapotenne"><em>Rapotenne</em></a> script to aid spiritual ritual and <em>demiosnjarnkah</em> (<em>lit. &ldquo;Old Arts&rdquo;</em><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>). Although few Vekllei people are completely literate in it, <em>Upotenne</em> remains a cultural force throughout society and is used commonly in ritual around the Home Islands.</p>
 <p><em>Upotenne</em> is characterised as a sign language in keeping with the traditions in <em>Potenne</em>, but also incorporates complex cultural artefacts unique to <em>Upen</em> within its symbolism as a language. It codifies the human form and reproduces it in a spiritual manner, assigning importance and symbolism to parts of the human body ignored by the secular <em>Potenne</em>. Where much of the communication in <em>Potenne</em> is dependent on hand-based signs and gestures, <em>Upotenne</em> is mostly positional, using joints and angles to imitate rune-forms. These type and imitation of rune-forms vary greatly between different parts of Vekllei society, since literacy is dependent on landscape; rural persons will most likely recognise and communicate runes that benefit harvest and weather, where urban persons are more likely to participate in ceremonies to benefit employment or love.</p>
 <p>This multidimensionality means that <em>Upotenne</em> is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite <em>Upotenne</em>&rsquo;s capacity as a language, it is largely displaced by its use as a spiritual adjacent to <em>Potenne</em> in modern society, leaving only <em>Upen</em> priests and disciples fluent in one of Vekllei&rsquo;s oldest cultural traditions.</p>
 <h2 id="vekllei-semaphore">
@@ -974,10 +976,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Mail</title>
-	  <link>https://millmint.net/factbook/society/industry/crown/mail.html</link>
+	  <link>https://millmint.net/factbook/society/industry/crown/mail/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/crown/mail.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/crown/mail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1008,7 +1010,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
   <span class="text">✿ Read more: <em><a href="/posts/2021-02-22-pond/">Post is for People</a></em></span>
 </blockquote>
 
-<p>The Mail is old enough to have its own hieroglyph in <a href="/factbook/society/culture/language.html#3-topet"><em>Topet</em></a>, which has resulted in the somewhat misleading transliteration of its name. In Vekllei, it is simply called the &lsquo;Mail&rsquo;, since its written name includes both its royal and national meanings intrinsically. Abroad, this is usually translated as the Royal Mail of Vekllei, but this is in fact more of a description of the organisation than its proper name.</p>
+<p>The Mail is old enough to have its own hieroglyph in <a href="/factbook/society/culture/language/#3-topet"><em>Topet</em></a>, which has resulted in the somewhat misleading transliteration of its name. In Vekllei, it is simply called the &lsquo;Mail&rsquo;, since its written name includes both its royal and national meanings intrinsically. Abroad, this is usually translated as the Royal Mail of Vekllei, but this is in fact more of a description of the organisation than its proper name.</p>
 <p>Since Vekllei refers to its territory as its sovereign (expressed commonly as the &lsquo;Landscape Sovereign&rsquo;), the Mail remains Royal even today, centuries after the collapse of the monarchy that founded it. Despite its regular function as a postal service, it is nonetheless considered a resource of landscape, not a government department, and so it remains &ldquo;the Royal Mail of Vekllei&rdquo; in the 21st Century.</p>
 <p><figure>
   <a href="/images/images/fairie.jpg"
@@ -1025,8 +1027,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>An MS Model 54-2 <em>Fairie</em>, used to deliver mail to Vekllei&rsquo;s islands and islets | <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em></figcaption>
+   <figcaption>An MS Model 54-2 <em>Fairie</em>, used to deliver mail to Vekllei&rsquo;s islands and islets | <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em></figcaption>
 </figure></p>
 <p>Like most Royal Bureaus, the Mail is headquartered in Vekllei&rsquo;s capital across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and maintenance, and Vekllei&rsquo;s General Post Office. There are over 6,400 post offices in Vekllei today, connecting the dense Home Islands to its far-flung peripheral territories.</p>
 <h3 id="history">
@@ -1053,8 +1056,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>The Mail would not come to resemble conventional civilian Mail until 1652, when the Junta expanded postal contracts to the privy councils of the Faroe and Greenland territories, and later broke apart the Mail monopoly to benefit then-Secretary of State Kism Sismiosnah, who established the New Parliament Postal Service. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Vekllei people, and the Mail came to resemble its contemporary mandate.</p>
 <p>The Mail was reestablished in 2015, during Vekllei independence. It was afforded a mandate protected by the postwar <a href="/vekllei/#floral-society">Petticoat Constitution</a>, and all existing private mail services established in occupation were folded directly into the new state monopoly. In 2016, a year after reestablishment, Mi Miou was elected as the world&rsquo;s first female Postmistress General. The Floral Period of the Royal Mail has been marked by a rapid expansion of both infrastructure and services in Vekllei and abroad. World Post, the international for-profit arm of the Mail, was established in 2034.</p>
@@ -1158,8 +1162,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption><a href="/factbook/characters.html#tzipora-zelda-desmoisnes">Tzipora</a> arranges some of her favourite Vekllei stamps | <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em></figcaption>
+   <figcaption><a href="/factbook/characters/#tzipora-zelda-desmoisnes">Tzipora</a> arranges some of her favourite Vekllei stamps | <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em></figcaption>
 </figure></p>
 <p>Since the Mail&rsquo;s Office of Telecommunications is also responsible for all telephones, telegrams and videophones in the country, the Mail&rsquo;s status as a lynchpin of communication is absolute, and heavily protected by the postwar Vekllei constitution.</p>
 <h3 id="daily-service">
@@ -1220,8 +1225,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>Outdoor view of the <a href="/mail/">Royal Mail&rsquo;s</a> stamp printing complex. | <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em></figcaption>
+   <figcaption>Outdoor view of the <a href="/mail/">Royal Mail&rsquo;s</a> stamp printing complex. | <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em></figcaption>
 </figure></p>
 <p>As is typical for critical bureaus in Vekllei, the Mail alleviates the stress of daily service through its dense, vertically-integrated infrastructure aided by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Mail so visible in daily life, and contributes to its ongoing legacy as Vekllei&rsquo;s oldest running government institution.</p>
 <h3 id="staff">
@@ -1243,8 +1249,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p><figure>
   <a href="/images/images/postmistress.jpg"
@@ -1261,8 +1268,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>The Mail employs 48,960 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Mail does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Instead, the majority of Mail employees are involved in the running of the organisation &ndash; mostly as clerks, managers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called &ldquo;posties&rdquo;. There are around 8,000 postal routes in the country.</p>
 <p>Although at first glance the number of automen dramatically exceeds demand, the total count is misleading &ndash; most automen with the Mail are integrated into the infrastructure of its sorting centres and post offices, and very few are traditionally autonomous robots commonly seen in public in Vekllei. Only about 8,000 automen are employed in physical mail delivery.</p>
@@ -1337,10 +1345,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Metaphysics</title>
-	  <link>https://millmint.net/factbook/society/culture/metaphysics.html</link>
+	  <link>https://millmint.net/factbook/society/culture/metaphysics/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/metaphysics.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/metaphysics/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1388,7 +1396,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 <p>Once a landscape has been established, its origins are repressed from memory. It takes on the appearance of an &ldquo;object&rdquo; which has been there, outside us, from the start. [&hellip;] Rather than existing prior to landscape, subject and object emerge from within it.</p>
 </blockquote>
 <p>&ndash; Kojin Karatani, <em>Origins of Japanese Literature</em></p>
-<p>These assumptions contribute to the uniqueness of Vekllei as a contemporary culture and nation-state, and significantly to its land-metaphysics. Vekllei animism, both as religious feature of <a href="/religion/">Upen</a> and a secular cultural feature, is informed by the absence of conceptual segregation of the interior and exterior, and the person and the natural world. Similarly, <a href="/factbook/society/culture/language.html#topet">Vekllei logographic writing</a> is not subordinated to Vekllei <a href="/factbook/society/culture/language.html#spoken-vekllei">phonetic speech</a>, and so its transcendental visual representations of concepts informs how Vekllei people consider those concepts &ndash; that is, transcendental and thus personal. A mountain is depicted visually in <a href="/factbook/society/culture/language.html#topet"><em>topet</em></a> as all mountains and any mountain, rather than an objective place with existing, externalised features.</p>
+<p>These assumptions contribute to the uniqueness of Vekllei as a contemporary culture and nation-state, and significantly to its land-metaphysics. Vekllei animism, both as religious feature of <a href="/religion/">Upen</a> and a secular cultural feature, is informed by the absence of conceptual segregation of the interior and exterior, and the person and the natural world. Similarly, <a href="/factbook/society/culture/language/#topet">Vekllei logographic writing</a> is not subordinated to Vekllei <a href="/factbook/society/culture/language/#spoken-vekllei">phonetic speech</a>, and so its transcendental visual representations of concepts informs how Vekllei people consider those concepts &ndash; that is, transcendental and thus personal. A mountain is depicted visually in <a href="/factbook/society/culture/language/#topet"><em>topet</em></a> as all mountains and any mountain, rather than an objective place with existing, externalised features.</p>
 <p>Together, these facts account for many decisions made in the building of the post-war 4th Commonwealth, and also work unseen to produce the aspects of Vekllei society that are well known overseas (and are to some extent mythologised in the orientalist tradition).</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
@@ -1404,10 +1412,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Municipalities</title>
-	  <link>https://millmint.net/factbook/society/state/government/municipalities.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/municipalities/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/municipalities.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/municipalities/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1450,10 +1458,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Patreon</title>
-	  <link>https://millmint.net/millmint/patreon.html</link>
+	  <link>https://millmint.net/millmint/patreon/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon.html</guid>
+	  <guid>https://millmint.net/millmint/patreon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1472,10 +1480,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Rail</title>
-	  <link>https://millmint.net/factbook/society/industry/state/rail.html</link>
+	  <link>https://millmint.net/factbook/society/industry/state/rail/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/rail.html</guid>
+	  <guid>https://millmint.net/factbook/society/industry/state/rail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1652,9 +1660,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/railmap_hu222b08ad47ecef671ed1b6faddd45dcb_2288326_1500x0_resize_q90_h2_box.webp 3x, /images/railmap_hu222b08ad47ecef671ed1b6faddd45dcb_2288326_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/railmap.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Map of rail networks in Oslola" title="A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*" 
+        src="/images/railmap.jpg"alt="Map of rail networks in Oslola" title="A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*" 
         loading="lazy"
       />
 
@@ -1662,8 +1668,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | <em><a href="/posts/2020-06-14-map/">100 Boroughs</a></em></figcaption>
+   <figcaption>A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | <em><a href="/posts/2020-06-14-map/">100 Boroughs</a></em></figcaption>
 </figure></p>
 <p>Similarly, almost all freight is run along rails of varying gauges. These range from conventional freight trains at standard gauge, to municipal delivery trains at metre guage, and even narrow gauges for moving freight and equipment within large factory complexes. Most major stores and grocers are arranged along freight lines with dedicated sidings, or have their own narrow-gauge tracks dedicated to their use.</p>
 <p>Unusually, Vekllei National Rail is legally absolved of all non-rail transport, and possesses no busses or ferries for public use, which are operated and maintained by dedicated adjacent bureaus.</p>
@@ -1729,9 +1736,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/shrine-minded_hue80a575b8021bcf65ad6e8ad74e21744_389737_1500x0_resize_q90_h2_box.webp 3x, /images/shrine-minded_hue80a575b8021bcf65ad6e8ad74e21744_389737_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/shrine-minded.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Map of a train pulling into a windy coastal village" title="A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*" 
+        src="/images/shrine-minded.jpg"alt="Map of a train pulling into a windy coastal village" title="A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*" 
         loading="lazy"
       />
 
@@ -1739,8 +1744,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>A Lesvesn 59-Series EMU arrives in the village of Cult | <em><a href="/posts/2021-05-06-shrine-minded/">Shrine-Minded Girls</a></em></figcaption>
+   <figcaption>A Lesvesn 59-Series EMU arrives in the village of Cult | <em><a href="/posts/2021-05-06-shrine-minded/">Shrine-Minded Girls</a></em></figcaption>
 </figure></p>
 <p>In 2055, VNR celebrated &ldquo;250 years of rail,&rdquo; and its livery and staff uniforms were overhauled to mark the occasion.</p>
 <p>Today, VNR represents the sole means of medium/long-distance transport for over 80% of Vekllei commuters, indicating its continuous status as a monopoly of travel, not just rail, in the country.</p>
@@ -1870,9 +1876,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/hollywood_hubffc61bf485072eb2f574de319100091_343421_1500x0_resize_q90_h2_box.webp 3x, /images/hollywood_hubffc61bf485072eb2f574de319100091_343421_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/hollywood.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="Image of kids making a film in front of a rail line and factory" title="A Mustard 56-Series passes a steam processing plant | *[Gone Hollywood](/stories/hollywood/)*" 
+        src="/images/hollywood.jpg"alt="Image of kids making a film in front of a rail line and factory" title="A Mustard 56-Series passes a steam processing plant | *[Gone Hollywood](/stories/hollywood/)*" 
         loading="lazy"
       />
 
@@ -1880,8 +1884,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption>A Mustard 56-Series passes a steam processing plant | <em><a href="/stories/hollywood/">Gone Hollywood</a></em></figcaption>
+   <figcaption>A Mustard 56-Series passes a steam processing plant | <em><a href="/stories/hollywood/">Gone Hollywood</a></em></figcaption>
 </figure></p>
 <p>Rail transport contributes tremendously to the national culture and common affection for Vekllei&rsquo;s public institutions. It is also commonly percieved as a triumph of the postwar floral Period, despite rail history in Vekllei dating back hundreds of years prior. The ongoing expansion of the VNR network and renovation of stations and railhubs commands attention internationally, which is watching Vekllei celebrate its golden age of rail.</p>
 <h3 id="national-rail">
@@ -1933,8 +1938,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.</p>
 <p>Vekllei&rsquo;s stations are well-regarded for the beauty and decoration overseas. As part of the Millenia Rail campaign in the mid-21st Century, VNR initiated a dramatic overhaul of its passenger infrastructure, restoring heritage-listed station interiors and renovating much of the early postwar metro construction with murals, new lighting, enlarged caverns and shafts, and improved safety features. The cleanliness and safety of Vekllei National Railway is a great point of pride in the country, and in part justifies VNR&rsquo;s tremendous fiscal losses in daily operation.</p>
@@ -1958,8 +1964,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <blockquote class="note link">
   <span class="text">✿ Read more: <em><a href="/posts/2021-04-25-rail/">The People of Vekllei National Rail</a></em></span>
@@ -1992,10 +1999,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Religion</title>
-	  <link>https://millmint.net/factbook/society/culture/religion.html</link>
+	  <link>https://millmint.net/factbook/society/culture/religion/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/religion.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/religion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2026,7 +2033,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
 <p>You can find <em>Upen</em> all around you in Vekllei since, by its own spiritual metaphysics, animism is not human. It exists independently of human understanding or spirit, and <em>Upen</em> is merely the practice by which humans are cognisant and interact with the spirit of things. Wherever people and material existence collide, including man-made objects, you find <em>Upen</em>.</p>
 <p>In this sense, <em>Upen</em> can be understood as having two distinct forms, practiced differently depending on the occasion:</p>
 <ul>
-<li>Public <em>Upen</em>, which involves priests, communities, ceremony and cultural artefacts (like <a href="/factbook/society/culture/language.html#25--upotenne"><em>Upotenne</em></a> and <a href="/factbook/society/culture/language.html#23--rapotenne"><em>Rapotenne</em></a>). Public <em>Upen</em> manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.</li>
+<li>Public <em>Upen</em>, which involves priests, communities, ceremony and cultural artefacts (like <a href="/factbook/society/culture/language/#25--upotenne"><em>Upotenne</em></a> and <a href="/factbook/society/culture/language/#23--rapotenne"><em>Rapotenne</em></a>). Public <em>Upen</em> manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.</li>
 <li>Private <em>Upen</em>, which involves personal understanding and direct physicality with the aspects of material being <em>Upen</em> holds sacred, namely the spirit of all things and the human form.</li>
 </ul>
 <p><figure>
@@ -2044,8 +2051,9 @@ Included was a majority female Council of Roses, many of whom were socialists op
 
   </a>
 
+
   
-    <figcaption><a href="/factbook/characters.html#tzipora-zelda-desmoisnes">Tzipora</a> stands in traditional Upen dress before an offerings box. | <em><a href="/posts/2021-06-19-spiritful/">Spiritful</a></em></figcaption>
+   <figcaption><a href="/factbook/characters/#tzipora-zelda-desmoisnes">Tzipora</a> stands in traditional Upen dress before an offerings box. | <em><a href="/posts/2021-06-19-spiritful/">Spiritful</a></em></figcaption>
 </figure></p>
 <p>Although <em>Upen</em> does retain priests informally, it lacks a hierarchical structure and is largely agnostic towards organised religion, lived and practiced instead through traditions, folklore, lifestyle and metaphysics.</p>
 <p>As atheistic and animistic, <em>Upen</em> shelters landscape from becoming ‘simply nature’, as it does when viewed as a product of a monotheistic creator god. Within Vekllei&rsquo;s &rsquo;landscape&rsquo; agnosticism, nature is not ‘simply nature’; it is a spiritual vessel in itself, inalienable and inextricably linked to human purpose and satisfaction. Industry is divorced from the whole concept; it is a country of forest commons, collective stewardship, and volcanic unrest.</p>
@@ -2053,7 +2061,7 @@ Included was a majority female Council of Roses, many of whom were socialists op
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p>Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. <em>U</em> (pronounced &lsquo;oo&rsquo;) is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of <a href="/factbook/society/culture/language.html#6-upotenne"><em>Upotenne</em></a>. <em>Upen</em> likely has origins in a proto-<em>Islandi</em> language called <em>Kala</em>, which later was absorbed into <em>Topyas</em>, the predecessor to <a href="/factbook/society/culture/language.html">Vekllei</a>.</p>
+<p>Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. <em>U</em> (pronounced &lsquo;oo&rsquo;) is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of <a href="/factbook/society/culture/language/#6-upotenne"><em>Upotenne</em></a>. <em>Upen</em> likely has origins in a proto-<em>Islandi</em> language called <em>Kala</em>, which later was absorbed into <em>Topyas</em>, the predecessor to <a href="/factbook/society/culture/language/">Vekllei</a>.</p>
 <p>In modern usage, <em>Upen</em> refers to both the faith and metaphysic of Vekllei&rsquo;s local animism, as well as a general indicator for Vekllei faith, myth and traditional folklore.</p>
 <p><em>This article is currently under construction, and will soon feature more information about Vekllei&rsquo;s spiritualism.</em></p>
 ]]>
@@ -2062,10 +2070,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Sagas</title>
-	  <link>https://millmint.net/factbook/society/culture/sagas.html</link>
+	  <link>https://millmint.net/factbook/society/culture/sagas/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/sagas.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/sagas/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2079,7 +2087,7 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
   <span class="text">Part of the <em><a href="/culture/">culture</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language.html#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language.html#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
+<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language/#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language/#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
 <p>Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.</p>
 <blockquote class="note panel">
   <span class="text"><p><strong>Sagas of Old Oslola</strong></p>
@@ -2099,10 +2107,10 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	
 	<item>
 	  <title>Technology</title>
-	  <link>https://millmint.net/factbook/society/technology.html</link>
+	  <link>https://millmint.net/factbook/society/technology/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/technology.html</guid>
+	  <guid>https://millmint.net/factbook/society/technology/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

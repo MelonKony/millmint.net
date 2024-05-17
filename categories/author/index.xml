@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Author</title>
-	<link>https://millmint.net/categories/author.html</link>
+	<link>https://millmint.net/categories/author/</link>
 	<description>Recent content in Author </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -33,7 +33,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="/images/five.jpg"/> <blockquote class="note caption">
-  <span class="text">Tzipora is communicating the birthday rune in <a href="/factbook/society/culture/language.html#upotenne">Upotenne</a>, a warding sigil of good luck.</span>
+  <span class="text">Tzipora is communicating the birthday rune in <a href="/factbook/society/culture/language/#upotenne">Upotenne</a>, a warding sigil of good luck.</span>
 </blockquote>
 
 <p><strong>Today, the subreddit is five years old.</strong> A better anniversary for this project would have been July 1st 2022 &ndash; the date of my <a href="https://www.reddit.com/r/worldbuilding/comments/6kgbkb/tzipora_has_her_photo_taken_at_youth_meet_2063/">first reddit post</a> &ndash; but I missed that anniversary completely. This post is a late 5 year celebration of Vekllei. Next year I&rsquo;ll celebrate with you properly on <em>International Tzipora Day</em> (July 1st 2023, write it down).</p>
@@ -46,7 +46,7 @@
 <li><strong>Most upvoted post:</strong> <a href="https://www.reddit.com/r/vekllei/comments/if77nc/absolute_quiet/">Absolute Quiet</a> (August 23, 2020)</li>
 <li><strong>Most recent post:</strong> this one</li>
 </ul>
-<p>Read them here: <a href="/stories.html">www.millmint.net/stories</a></p>
+<p>Read them here: <a href="/stories/">www.millmint.net/stories</a></p>
 </span>
 </blockquote>
 
@@ -143,9 +143,7 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/mastheads/crests/scouts_hu09a8a7ef83616e8c4461053226f89e63_217870_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/mastheads/crests/scouts.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="crest" 
+        src="/images/mastheads/crests/scouts.png"alt="crest" 
         loading="lazy"
       />
 
@@ -153,8 +151,9 @@ It is striking to me that the shitty drawing attached to that post was the last 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">The crest of the Scouts Interior Spirit Corps.</span>
@@ -358,8 +357,9 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">I love the composition of it, it&rsquo;s very optimistic. Very cute.</span>
@@ -381,8 +381,9 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <blockquote class="note caption">
   <span class="text">Bonus Tzipora with a bird. Bez likes birds.</span>

@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Culture</title>
-	<link>https://millmint.net/factbook/society/culture.html</link>
+	<link>https://millmint.net/factbook/society/culture/</link>
 	<description>Recent content in Culture </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/culture/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Civic Commons</title>
-	  <link>https://millmint.net/factbook/society/culture/civic-commons.html</link>
+	  <link>https://millmint.net/factbook/society/culture/civic-commons/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/civic-commons.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/civic-commons/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -56,10 +56,10 @@ A love of country and its people A commitment to democracy and its spirit Partic
 	
 	<item>
 	  <title>Corcidi</title>
-	  <link>https://millmint.net/factbook/society/culture/corcidi.html</link>
+	  <link>https://millmint.net/factbook/society/culture/corcidi/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/corcidi.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/corcidi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -81,10 +81,10 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 	
 	<item>
 	  <title>Demographics</title>
-	  <link>https://millmint.net/factbook/society/culture/demographics.html</link>
+	  <link>https://millmint.net/factbook/society/culture/demographics/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/demographics.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/demographics/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -168,10 +168,10 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 	
 	<item>
 	  <title>Language</title>
-	  <link>https://millmint.net/factbook/society/culture/language.html</link>
+	  <link>https://millmint.net/factbook/society/culture/language/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/language.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/language/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -216,7 +216,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 <p><em>What is the worth of the worthless?  I think it is the existence of a marvellous intuitive physicality. That is, if we use words to carve out things as having certain functions and certain uses to human beings, we overlook something very important.</em></p>
 </blockquote>
 <p>— Yoshio Nakamura</p>
-<p>Let&rsquo;s take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/factbook/society/culture/language.html#spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/factbook/society/culture/language.html#topet"><em>Topet</em></a> are understood universally.</p>
+<p>Let&rsquo;s take a look in more detail about how each aspect of the Vekllei language operates in daily life. With six recognised language, Vekllei is unique in its complexity and multidimensionality, appropriating a variety of scripts, glossaries, alphabets and physical components. Literacy in the country is very high, and <a href="/factbook/society/culture/language/#spoken-vekllei"><em>Spoken Vekllei</em></a> and <a href="/factbook/society/culture/language/#topet"><em>Topet</em></a> are understood universally.</p>
 <p><figure>
   <a href="/images/images/language.jpg"
      target="_blank"
@@ -232,10 +232,11 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 
   </a>
 
+
   
-    <figcaption>An infographic showcasing the Vekllei language, including <a href="/factbook/society/culture/language.html#potenne">Potenne</a> use. | <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em></figcaption>
+   <figcaption>An infographic showcasing the Vekllei language, including <a href="/factbook/society/culture/language/#potenne">Potenne</a> use. | <em><a href="/posts/2020-11-14-language/">How to Speak Vekllei</a></em></figcaption>
 </figure></p>
-<p>Other languages, often called <em>sub-languages</em>, are informed regionally and have varying literacy across the Home Island. For example, <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a> is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&rsquo;s most complex and hermetic language systems.</p>
+<p>Other languages, often called <em>sub-languages</em>, are informed regionally and have varying literacy across the Home Island. For example, <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a> is employed frequently in rural and agrarian communities, where religious ritual requires its frequent practice. This passage introduces the broad characteristics of each sub-language, which together form contemporary Vekllei, one of the world&rsquo;s most complex and hermetic language systems.</p>
 <h3 id="history">
   History
   <a class="anchor" href="#history">#</a>
@@ -572,7 +573,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
   <a class="anchor" href="#phonetic-reading">#</a>
 </h3>
 <p>Anchoring consonant-vowel characters (<em>demioette</em>, as opposed to double-vowels or vowel-consonants, called <em>hieyerette</em><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>) written in Topet may feature redundant adjacent characters called <em>phonetic complements</em>, which, in a non-determinative reading, are pronounced the same way to guide the reader. This lends to a system that encourages adjacent duplicate consonant-vowel pairings in some aspects, since Vekllei words are already formed out of neosyllabic pairings and it is immediately obvious which characters are to be read. The word for friend, <em>comoyia</em>, can thus sometimes be transliterated into c-c-c<sup>o</sup>m-m<sup>o</sup>y<sup>ia</sup>, which can affect the conceptual meanings of a word through the figurative placement of its characters as well as help guide the reader through the use of multiple phonetically identical, though visually distinct, characters.</p>
-<p>In the above case, <em>comoyia</em> can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &lsquo;spelling&rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also <em>comoyia</em>, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of <a href="/factbook/society/culture/language.html#potenne"><em>Potenne</em></a>, and represents one of its primary uses.</p>
+<p>In the above case, <em>comoyia</em> can be affected by the composition of its phonetic complements, if any are used at all. There is a default reading, which combines both semantic and phonetic readings for meaning and is generally recognised as the dictionary &lsquo;spelling&rsquo; of the word, but this can be manipulated through the addition of semantically different, but identically phonetic characters to shade and change meaning. The word for an untrustworthy friend is also <em>comoyia</em>, but combines the characters for snake with the dictionary spelling, which produces a transliteration similar to c-c<sup>o</sup>m<sup>o</sup>y<sup>ia</sup>. In spoken Vekllei, this distinction is only communicable through the aid of <a href="/factbook/society/culture/language/#potenne"><em>Potenne</em></a>, and represents one of its primary uses.</p>
 <h3 id="semantic-reading">
   Semantic Reading
   <a class="anchor" href="#semantic-reading">#</a>
@@ -603,8 +604,9 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 
   </a>
 
+
   
-    <figcaption>An infographic summarising the appearance of Vekllei scripts, including <a href="/factbook/society/culture/language.html#topet"><em>Topet</em></a>. | <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em></figcaption>
+   <figcaption>An infographic summarising the appearance of Vekllei scripts, including <a href="/factbook/society/culture/language/#topet"><em>Topet</em></a>. | <em><a href="/posts/2021-05-31-topet/">How to Read Vekllei</a></em></figcaption>
 </figure></p>
 <p>These character groups are called <em>Minor Demons</em>, or <em>pettidemion,</em> and change appearance depending on the number of characters in its group. One character occupies a quarter-height space in the centre of a line. Two characters are written in an adjacent quarter-height space, with the principle arranged to the left. Three characters are arranged in a triangle, with the principle arranged at the top. Four characters, the maximum in modern <em>Topet</em>, are arranged in a quadrant with the principle arranged in the top left.</p>
 <p><em>Minor Demons</em> are the foundations of <em>Topet</em> script, since they can be written phonetically or as pictographs. This also contributes to <em>Topet</em>&rsquo;s unusual linguistic structure, in which single words are modified heavily and often come to resemble sentences with self-contained adjectives.</p>
@@ -617,12 +619,12 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 </blockquote>
 
 <p>Contemporary <em>Rapotenne</em> is informed by pictographic proto-<em>Topet</em> runes as well as elements of the extinct <em>Kala</em> language, and subsequently <em>Quutetast</em> Algic artefacts. Because <em>Kala</em> is extinct and <em>Quutetast</em> is a dead language, largely displaced by modern spoken Vekllei, <em>Rapotenne</em> is unique among Vekllei&rsquo;s sublanguages for its direct lineage from proto-linguistic forms of early Vekllei history, some nearly 4,000 years old. Today it is used largely ceremonially, through ritual related to birth and Blood Names.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
-<p><em>Rapotenne</em> has its origins in superstitious <em>Islandi</em> magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. <em>Rapotenne</em> today mostly employs older <a href="/factbook/society/culture/language.html#diphthongs">Floral Vowels</a>, which themselves are likely evolutions of proto-<em>Quutetast</em> pronunciation associated with <em>Kala</em>. Rapotenne characters, also called <em>Rapotenne</em>, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a> signs, which is functionally adjacent to <em>Rapotenne</em>.</p>
+<p><em>Rapotenne</em> has its origins in superstitious <em>Islandi</em> magical staves, sigils which evolved into battle names and honourifics, called Blood Names. The use of Blood Names varies across Vekllei history, but is still common across ancestral families today. In modern immigration, especially after the Atomic War and British occupation, Blood Names have been commonly adopted by new families as symbolic displacement of older bloodlines, largely for their fashionable association with royalty and heritage. <em>Rapotenne</em> today mostly employs older <a href="/factbook/society/culture/language/#diphthongs">Floral Vowels</a>, which themselves are likely evolutions of proto-<em>Quutetast</em> pronunciation associated with <em>Kala</em>. Rapotenne characters, also called <em>Rapotenne</em>, are closely associated with old runic Islandi sigils, and are purely figurative. Their use in modernity is largely instructional, and is used to determine and act out <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a> signs, which is functionally adjacent to <em>Rapotenne</em>.</p>
 <h3 id="practice">
   Practice
   <a class="anchor" href="#practice">#</a>
 </h3>
-<p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
+<p><em>Rapotenne</em> consists of 452 characters in common practice, although priests and regional dialects may employ upwards of 1,000. Despite integration with the formal Vekllei language constellation, minor differences in pronunciation survive. For example, the Alveolar /s͇/ is dropped before consonants in ordinary spoken Vekllei, making it rare in modern usage, but is voiced in <em>Rapotenne</em>. The shape and stroke order of characters determines the physicality of <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a>, as their function within ritual is more or less the same. Although simplistic and literally figurative, <em>Rapotenne</em> is used extensively in religious script and poetry, and remains an important cultural force within Vekllei.</p>
 <h2 id="potenne">
   Potenne
   <a class="anchor" href="#potenne">#</a>
@@ -636,7 +638,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 </blockquote>
 
 <p>Historic social taboos in Vekllei&rsquo;s dominant religion, Upen, prevented speech between people for a variety of reasons, including for marital, interfamilial, penal and ascetic considerations. <em>Potenne</em> first arose to avoid these taboos. During the first substantial immigration of Inuit-Kalaallisut peoples in the 4th century BC, proto-<em>Potenne</em> avoidance languages developed pragmatic pidgin forms to allow for trade and communication between settlers and the original Islandi population. This rapid expansion in use saw <em>Potenne</em> develop solidified cultural tenants, including phonologically distinct suprasegmental components like <em>biouspotenne</em> (<em>lit. &ldquo;Face-Talk&rdquo;</em>), which distinguishes facial expression from gestures in poetic, transcendental forms, and <em>kiouyapotenne</em> (<em>lit. &ldquo;Child-Talk&rdquo;</em>), which uses facial expressions to teach children individual signs.</p>
-<p>By the 11th Century, <em>Potenne</em> was documented alongside other critical languages like <em>Topet</em>, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including <a href="/factbook/society/culture/language.html#upotenne"><em>Upotenne</em></a>, today considered an independent language system within Vekllei&rsquo;s varied linguistic cultures.</p>
+<p>By the 11th Century, <em>Potenne</em> was documented alongside other critical languages like <em>Topet</em>, and had demonstrated its saturation of Vekllei society in several sociological and cultural forms, including <a href="/factbook/society/culture/language/#upotenne"><em>Upotenne</em></a>, today considered an independent language system within Vekllei&rsquo;s varied linguistic cultures.</p>
 <p><em>Potenne</em> is used today as a casual substitute for simple speech and to communicate figurative meanings of words in <em>Topet</em> otherwise uncommunicable in conventional speech.</p>
 <h3 id="phonology-1">
   Phonology
@@ -671,7 +673,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
   <span class="text"><strong>Upotenne</strong> (<em>lit. &ldquo;Spirit-Hand-Talk&rdquo;</em>) is the nonverbal sign language of religious ritual in Vekllei. Although adjacent to <em>Potenne</em>, <em>Upotenne</em> is more closely historically aligned with <em>Rapotenne</em> than modern Vekllei.</span>
 </blockquote>
 
-<p>Much as <em>Potenne</em> combines semantic and verbal forms to enhance communication, <em>Upen</em> appropriates the older pictographic <a href="/factbook/society/culture/language.html#rapotenne"><em>Rapotenne</em></a> script to aid spiritual ritual and <em>demiosnjarnkah</em> (<em>lit. &ldquo;Old Arts&rdquo;</em><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>). Although few Vekllei people are completely literate in it, <em>Upotenne</em> remains a cultural force throughout society and is used commonly in ritual around the Home Islands.</p>
+<p>Much as <em>Potenne</em> combines semantic and verbal forms to enhance communication, <em>Upen</em> appropriates the older pictographic <a href="/factbook/society/culture/language/#rapotenne"><em>Rapotenne</em></a> script to aid spiritual ritual and <em>demiosnjarnkah</em> (<em>lit. &ldquo;Old Arts&rdquo;</em><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>). Although few Vekllei people are completely literate in it, <em>Upotenne</em> remains a cultural force throughout society and is used commonly in ritual around the Home Islands.</p>
 <p><em>Upotenne</em> is characterised as a sign language in keeping with the traditions in <em>Potenne</em>, but also incorporates complex cultural artefacts unique to <em>Upen</em> within its symbolism as a language. It codifies the human form and reproduces it in a spiritual manner, assigning importance and symbolism to parts of the human body ignored by the secular <em>Potenne</em>. Where much of the communication in <em>Potenne</em> is dependent on hand-based signs and gestures, <em>Upotenne</em> is mostly positional, using joints and angles to imitate rune-forms. These type and imitation of rune-forms vary greatly between different parts of Vekllei society, since literacy is dependent on landscape; rural persons will most likely recognise and communicate runes that benefit harvest and weather, where urban persons are more likely to participate in ceremonies to benefit employment or love.</p>
 <p>This multidimensionality means that <em>Upotenne</em> is uniquely dependent on place and circumstance, as Vekllei people learn and dispense with signs that benefit their circumstance. Despite <em>Upotenne</em>&rsquo;s capacity as a language, it is largely displaced by its use as a spiritual adjacent to <em>Potenne</em> in modern society, leaving only <em>Upen</em> priests and disciples fluent in one of Vekllei&rsquo;s oldest cultural traditions.</p>
 <h2 id="vekllei-semaphore">
@@ -729,10 +731,10 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 	
 	<item>
 	  <title>Metaphysics</title>
-	  <link>https://millmint.net/factbook/society/culture/metaphysics.html</link>
+	  <link>https://millmint.net/factbook/society/culture/metaphysics/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/metaphysics.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/metaphysics/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -780,7 +782,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 <p>Once a landscape has been established, its origins are repressed from memory. It takes on the appearance of an &ldquo;object&rdquo; which has been there, outside us, from the start. [&hellip;] Rather than existing prior to landscape, subject and object emerge from within it.</p>
 </blockquote>
 <p>&ndash; Kojin Karatani, <em>Origins of Japanese Literature</em></p>
-<p>These assumptions contribute to the uniqueness of Vekllei as a contemporary culture and nation-state, and significantly to its land-metaphysics. Vekllei animism, both as religious feature of <a href="/religion/">Upen</a> and a secular cultural feature, is informed by the absence of conceptual segregation of the interior and exterior, and the person and the natural world. Similarly, <a href="/factbook/society/culture/language.html#topet">Vekllei logographic writing</a> is not subordinated to Vekllei <a href="/factbook/society/culture/language.html#spoken-vekllei">phonetic speech</a>, and so its transcendental visual representations of concepts informs how Vekllei people consider those concepts &ndash; that is, transcendental and thus personal. A mountain is depicted visually in <a href="/factbook/society/culture/language.html#topet"><em>topet</em></a> as all mountains and any mountain, rather than an objective place with existing, externalised features.</p>
+<p>These assumptions contribute to the uniqueness of Vekllei as a contemporary culture and nation-state, and significantly to its land-metaphysics. Vekllei animism, both as religious feature of <a href="/religion/">Upen</a> and a secular cultural feature, is informed by the absence of conceptual segregation of the interior and exterior, and the person and the natural world. Similarly, <a href="/factbook/society/culture/language/#topet">Vekllei logographic writing</a> is not subordinated to Vekllei <a href="/factbook/society/culture/language/#spoken-vekllei">phonetic speech</a>, and so its transcendental visual representations of concepts informs how Vekllei people consider those concepts &ndash; that is, transcendental and thus personal. A mountain is depicted visually in <a href="/factbook/society/culture/language/#topet"><em>topet</em></a> as all mountains and any mountain, rather than an objective place with existing, externalised features.</p>
 <p>Together, these facts account for many decisions made in the building of the post-war 4th Commonwealth, and also work unseen to produce the aspects of Vekllei society that are well known overseas (and are to some extent mythologised in the orientalist tradition).</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
@@ -796,10 +798,10 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 	
 	<item>
 	  <title>Religion</title>
-	  <link>https://millmint.net/factbook/society/culture/religion.html</link>
+	  <link>https://millmint.net/factbook/society/culture/religion/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/religion.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/religion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -830,7 +832,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 <p>You can find <em>Upen</em> all around you in Vekllei since, by its own spiritual metaphysics, animism is not human. It exists independently of human understanding or spirit, and <em>Upen</em> is merely the practice by which humans are cognisant and interact with the spirit of things. Wherever people and material existence collide, including man-made objects, you find <em>Upen</em>.</p>
 <p>In this sense, <em>Upen</em> can be understood as having two distinct forms, practiced differently depending on the occasion:</p>
 <ul>
-<li>Public <em>Upen</em>, which involves priests, communities, ceremony and cultural artefacts (like <a href="/factbook/society/culture/language.html#25--upotenne"><em>Upotenne</em></a> and <a href="/factbook/society/culture/language.html#23--rapotenne"><em>Rapotenne</em></a>). Public <em>Upen</em> manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.</li>
+<li>Public <em>Upen</em>, which involves priests, communities, ceremony and cultural artefacts (like <a href="/factbook/society/culture/language/#25--upotenne"><em>Upotenne</em></a> and <a href="/factbook/society/culture/language/#23--rapotenne"><em>Rapotenne</em></a>). Public <em>Upen</em> manifests similarly to other faiths, in which sites of worship, historical texts and sacred spaces inform practice and understanding.</li>
 <li>Private <em>Upen</em>, which involves personal understanding and direct physicality with the aspects of material being <em>Upen</em> holds sacred, namely the spirit of all things and the human form.</li>
 </ul>
 <p><figure>
@@ -848,8 +850,9 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 
   </a>
 
+
   
-    <figcaption><a href="/factbook/characters.html#tzipora-zelda-desmoisnes">Tzipora</a> stands in traditional Upen dress before an offerings box. | <em><a href="/posts/2021-06-19-spiritful/">Spiritful</a></em></figcaption>
+   <figcaption><a href="/factbook/characters/#tzipora-zelda-desmoisnes">Tzipora</a> stands in traditional Upen dress before an offerings box. | <em><a href="/posts/2021-06-19-spiritful/">Spiritful</a></em></figcaption>
 </figure></p>
 <p>Although <em>Upen</em> does retain priests informally, it lacks a hierarchical structure and is largely agnostic towards organised religion, lived and practiced instead through traditions, folklore, lifestyle and metaphysics.</p>
 <p>As atheistic and animistic, <em>Upen</em> shelters landscape from becoming ‘simply nature’, as it does when viewed as a product of a monotheistic creator god. Within Vekllei&rsquo;s &rsquo;landscape&rsquo; agnosticism, nature is not ‘simply nature’; it is a spiritual vessel in itself, inalienable and inextricably linked to human purpose and satisfaction. Industry is divorced from the whole concept; it is a country of forest commons, collective stewardship, and volcanic unrest.</p>
@@ -857,7 +860,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
   Etymology
   <a class="anchor" href="#etymology">#</a>
 </h2>
-<p>Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. <em>U</em> (pronounced &lsquo;oo&rsquo;) is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of <a href="/factbook/society/culture/language.html#6-upotenne"><em>Upotenne</em></a>. <em>Upen</em> likely has origins in a proto-<em>Islandi</em> language called <em>Kala</em>, which later was absorbed into <em>Topyas</em>, the predecessor to <a href="/factbook/society/culture/language.html">Vekllei</a>.</p>
+<p>Upen as a word has its origins lost to time, but its linguistic characteristics can be found throughout modern Vekllei language. <em>U</em> (pronounced &lsquo;oo&rsquo;) is a prefix applied to matters of consciousness considered sacred or special, as replicated in the spirit-language of <a href="/factbook/society/culture/language/#6-upotenne"><em>Upotenne</em></a>. <em>Upen</em> likely has origins in a proto-<em>Islandi</em> language called <em>Kala</em>, which later was absorbed into <em>Topyas</em>, the predecessor to <a href="/factbook/society/culture/language/">Vekllei</a>.</p>
 <p>In modern usage, <em>Upen</em> refers to both the faith and metaphysic of Vekllei&rsquo;s local animism, as well as a general indicator for Vekllei faith, myth and traditional folklore.</p>
 <p><em>This article is currently under construction, and will soon feature more information about Vekllei&rsquo;s spiritualism.</em></p>
 ]]>
@@ -866,10 +869,10 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 	
 	<item>
 	  <title>Sagas</title>
-	  <link>https://millmint.net/factbook/society/culture/sagas.html</link>
+	  <link>https://millmint.net/factbook/society/culture/sagas/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/sagas.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/sagas/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -883,7 +886,7 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
   <span class="text">Part of the <em><a href="/culture/">culture</a></em> series of articles</span>
 </blockquote>
 
-<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language.html#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language.html#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
+<p><strong>Sagas</strong> are a kind of historic prose narrative that recorded the oral history of early Oslola. They are distinguished by their use of <a href="/factbook/society/culture/language/#history/">Topyas</a>, a predecessor to modern <a href="/factbook/society/culture/language/#topet/">Topet</a>. They are recognised for their realism and poetry, and provide a valuable historical record of the 1st Commonwealth and practices of Old Upen.</p>
 <p>Sagas were consolidated into historical and thematic eras in the 14th Century during the Period of Rest, which is typically how they are arranged today.</p>
 <blockquote class="note panel">
   <span class="text"><p><strong>Sagas of Old Oslola</strong></p>
@@ -903,10 +906,10 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	
 	<item>
 	  <title>Veletia</title>
-	  <link>https://millmint.net/factbook/society/culture/veletia.html</link>
+	  <link>https://millmint.net/factbook/society/culture/veletia/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/veletia.html</guid>
+	  <guid>https://millmint.net/factbook/society/culture/veletia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

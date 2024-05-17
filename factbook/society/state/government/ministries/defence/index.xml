@@ -10,7 +10,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ministry of Defence</title>
-	<link>https://millmint.net/factbook/society/state/government/ministries/defence.html</link>
+	<link>https://millmint.net/factbook/society/state/government/ministries/defence/</link>
 	<description>Recent content in Ministry of Defence </description>
 	<generator>Hugo</generator>
 	<language>en</language>
@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/defence/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Armed Forces of Vekllei</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/military.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/military/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/military.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/military/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -42,7 +42,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </h2>
 <p>The <span class="fi fi-min-defence fis"></span> <strong>Armed Forces of the Commonwealth</strong> are the military of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and a constituent armed component of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. They comprise the combined armed services of the country, as well as capabilities for public emergencies, law enforcement and civil defence.</p>
 <p>Unlike common practice overseas, Vekllei does not have seperate military branches, and instead administers all aspects of defence as a single armed organisation originating as part of the navy, a term which is still used generally to describe all military services. As a union of island communities, the Vekllei Navy is its historic and contemporary primary means of defence, and Vekllei doctrine favours an integrated command. As such, all air and land warfare is conducted as part of the Navy under a unified defence command.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<p>Because all services operate within the Navy, different roles are organised into different services. For example, the traditional surface navy of the <a href="/factbook/society/state/government/ministries/defence/military.html#maritime-service">Maritime Service</a> does not operate its own seaborne aviation, since all aircraft are part of the Navy&rsquo;s <a href="/factbook/society/state/government/ministries/defence/military.html#air-service">Air Service</a>. In this context, &ldquo;Navy&rdquo; is a synonym for &ldquo;Military&rdquo; in Vekllei, and equipment, signage and vehicles are marked as such.</p>
+<p>Because all services operate within the Navy, different roles are organised into different services. For example, the traditional surface navy of the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime Service</a> does not operate its own seaborne aviation, since all aircraft are part of the Navy&rsquo;s <a href="/factbook/society/state/government/ministries/defence/military/#air-service">Air Service</a>. In this context, &ldquo;Navy&rdquo; is a synonym for &ldquo;Military&rdquo; in Vekllei, and equipment, signage and vehicles are marked as such.</p>
 <h2 id="vekllei-armed-services">
   Vekllei Armed Services
   <a class="anchor" href="#vekllei-armed-services">#</a>
@@ -279,7 +279,7 @@ The No. 5 Aeromarine Wing provides equipment and crew for the Commonwealth Fleet
 </li>
 <li><strong>No. 9 Aeromarine Helicopters Wing</strong>
 <br>
-The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the <a href="/factbook/society/state/government/ministries/defence/military.html#maritime-service">Maritime Service</a>.
+The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime Service</a>.
 <ul>
 <li>No. 38-41 Marine Squadrons</li>
 </ul>
@@ -292,7 +292,7 @@ The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, a
 <ul>
 <li><strong>No. 1 Aeroxiliary Wing</strong>
 <br>
-No. 1 AA Wing provides maritime patrol services to the Air Service as well as the <a href="/factbook/society/state/government/ministries/defence/military.html#maritime-service">Maritime</a> and <a href="/factbook/society/state/government/ministries/defence/military.html#littoral-service">Littoral</a> Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
+No. 1 AA Wing provides maritime patrol services to the Air Service as well as the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime</a> and <a href="/factbook/society/state/government/ministries/defence/military/#littoral-service">Littoral</a> Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
 <ul>
 <li>No. 1 Maritime Patrol Squadron <span class="hollowtag">Commonwealth Fleet</span></li>
 <li>No. 2 Search &amp; Rescue Squadron</li>
@@ -456,7 +456,7 @@ The No. 1 Air Artillery Regiment</li>
 </h3>
 <details>
 <summary>Territorial Service</summary>
-<p>The Vekllei <strong>Territorial Service</strong> is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the <a href="/factbook/society/state/government/ministries/defence/military.html#commonwealth-guard">Commonwealth Guard</a> and are federalised the same way, but are distinguished by their professional service and expeditionary posture.</p>
+<p>The Vekllei <strong>Territorial Service</strong> is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the <a href="/factbook/society/state/government/ministries/defence/military/#commonwealth-guard">Commonwealth Guard</a> and are federalised the same way, but are distinguished by their professional service and expeditionary posture.</p>
 <p>At full strength in its current organisation it has</p>
 <p><strong>Organisation</strong></p>
 <details>
@@ -702,10 +702,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
 	
 	<item>
 	  <title>Bureau of Supply</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-supply.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-supply/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-supply.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-supply/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -725,10 +725,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
 	
 	<item>
 	  <title>Bureau of War</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-war.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-war/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-war.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-war/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -752,7 +752,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
   Department of Compulsory Service
   <a class="anchor" href="#department-of-compulsory-service">#</a>
 </h2>
-<p>The <em>Department of Compulsory Service</em> (DoCS, also CS) oversees the Vekllei Compulsory Service Scheme, a hybrid civilian/military conscription law that requires four years from each Commonwealth citizen between the ages of 18 and 32. Despite reporting to the Armed Forces of COSMOKOS, the DoCS does not facilitate widespread conscription and mobilisation of the civilian population, a role served by the <a href="/factbook/society/state/government/ministries/defence/bureau-of-war.html#department-of-mobilisation">DoM</a>. Instead, it is responsible primarily for supervising the fulfilment of the Compulsory Service Scheme, and administrating the conscription and training of Vekllei citizens, including in civilian and industrial roles.</p>
+<p>The <em>Department of Compulsory Service</em> (DoCS, also CS) oversees the Vekllei Compulsory Service Scheme, a hybrid civilian/military conscription law that requires four years from each Commonwealth citizen between the ages of 18 and 32. Despite reporting to the Armed Forces of COSMOKOS, the DoCS does not facilitate widespread conscription and mobilisation of the civilian population, a role served by the <a href="/factbook/society/state/government/ministries/defence/bureau-of-war/#department-of-mobilisation">DoM</a>. Instead, it is responsible primarily for supervising the fulfilment of the Compulsory Service Scheme, and administrating the conscription and training of Vekllei citizens, including in civilian and industrial roles.</p>
 <h2 id="department-of-expeditionary-affairs">
   Department of Expeditionary Affairs
   <a class="anchor" href="#department-of-expeditionary-affairs">#</a>
@@ -762,7 +762,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
   Department of Mobilisation
   <a class="anchor" href="#department-of-mobilisation">#</a>
 </h2>
-<p>The <em>Department of Mobilisation</em> (DoM) is responsible for recruitment in peacetime, and conscription in the outbreak of war. In the Floral Period, Vekllei defensive doctrine aims to make the country &ldquo;ungovernable,&rdquo; requiring widespread mobilisation and training of the civilian population. Unlike the <a href="/factbook/society/state/government/ministries/defence/bureau-of-war.html#department-of-compulsory-service">DoCS</a>, the DoM is concerned primarily with the combat effectiveness of the mobilised population, and is generally distinguished in its strategic military thinking.</p>
+<p>The <em>Department of Mobilisation</em> (DoM) is responsible for recruitment in peacetime, and conscription in the outbreak of war. In the Floral Period, Vekllei defensive doctrine aims to make the country &ldquo;ungovernable,&rdquo; requiring widespread mobilisation and training of the civilian population. Unlike the <a href="/factbook/society/state/government/ministries/defence/bureau-of-war/#department-of-compulsory-service">DoCS</a>, the DoM is concerned primarily with the combat effectiveness of the mobilised population, and is generally distinguished in its strategic military thinking.</p>
 <h2 id="department-of-peacekeeping">
   Department of Peacekeeping
   <a class="anchor" href="#department-of-peacekeeping">#</a>
@@ -789,10 +789,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
 	
 	<item>
 	  <title>Defence Imagery Establishment</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/cie.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/cie/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/cie.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/cie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -812,10 +812,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
 	
 	<item>
 	  <title>DSRE</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/dsre.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/dsre/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/dsre.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/dsre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -949,10 +949,10 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	
 	<item>
 	  <title>Police of the Parliament</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-parliament.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-parliament/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-parliament.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-parliament/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -969,7 +969,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <span class="text">✿ Read more: <em><a href="/stories/police/">The Police of the Parliament</a></em></span>
 </blockquote>
 
-<p>The <em>Police of the Parliament</em> (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the <a href="/factbook/society/state/government/ministries/defence/police-of-the-parliament.html#police-of-the-public">Police of the Public</a>. As a paramilitary force, the VENOPOR are also trained to support the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a> in wartime, and coordinate broad mobilisation in the event of a defensive war.</p>
+<p>The <em>Police of the Parliament</em> (also National Police, or VENOPOR) are the national and paramilitary police of Vekllei, responsible for internal security, riot control, counter-terrorism, disaster response, law enforcement and maritime rights protection. The VENOPOR is made up of a variety of organisations dedicated to specialised and tactical forms of policing unavailable to the <a href="/factbook/society/state/government/ministries/defence/police-of-the-parliament/#police-of-the-public">Police of the Public</a>. As a paramilitary force, the VENOPOR are also trained to support the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a> in wartime, and coordinate broad mobilisation in the event of a defensive war.</p>
 <p>VENOPOR jurisdiction is organised within the individual theatre commands of the Crown Armed Forces. Kala, the Antilles and the Vekllei and Kalina Islands maintain their own VENOPOR police forces, and other Commonwealth members and territories are dependent on Vekllei Islands policing.</p>
 <blockquote class="note panel">
   <span class="text"><h3 id="sections">
@@ -1053,10 +1053,10 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	
 	<item>
 	  <title>Police of the Public</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-public.html</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-public/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-public.html</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-public/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1104,9 +1104,7 @@ Municipal (public) vs Commonwealth (parliament) police.]]>
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fullres/commonwealth-police_hue64e7969f0ac0db4878bd796b49b23e3_2016745_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/commonwealth-police_hue64e7969f0ac0db4878bd796b49b23e3_2016745_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fullres/commonwealth-police.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of a local and government policewoman standing on break" title="Municipal (public) vs Commonwealth (parliament) police." 
+        src="/images/fullres/commonwealth-police.jpg"alt="image of a local and government policewoman standing on break" title="Municipal (public) vs Commonwealth (parliament) police." 
         loading="lazy"
       />
 
@@ -1114,8 +1112,9 @@ Municipal (public) vs Commonwealth (parliament) police.]]>
 
   </a>
 
+
   
-    <figcaption>Municipal (public) vs Commonwealth (parliament) police.</figcaption>
+   <figcaption>Municipal (public) vs Commonwealth (parliament) police.</figcaption>
 </figure></p>
 <p>Each neighbourhood commission, which might comprise an area of thousands of people, is further subdivided in constabularies, which are the responsibility of a constable. Constables general know each person in their constabulary, and visits each residence regularly to confirm the welfare of their community and hear their grievances.</p>
 <p>Constables attend to the security and peacefulness of their jurisdictions, and are often unarmed. Most arrests and warrants are executed by Inspectors or VENOPOR officers rather than constables.</p>

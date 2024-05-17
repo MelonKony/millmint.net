@@ -1,0 +1,625 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>72 Hours - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.693bd8ac29fe16a235234f0e86d7b4547d0aa4276a8d1bd801382904519937846960ceb2f48e09a4da17bb62be5588e3a320605d3ec7d321c1eb0a3af7afbbbb.css" integrity="sha512-aTvYrCn&#43;FqI1I08Ohte0VH0KpCdqjRvYATgpBFGZN4RpYM6y9I4JpNoXu2K&#43;VYjjoyBgXT7H0yHB6wo696&#43;7uw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="72 Hours &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/snapshots/72-hours/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.fbbdfcced23aebc826f4e2298a732a08f55d0621992b6ec45597bc921c50f06a.js" integrity="sha256-&#43;738ztI668gm9OIpinMqCPVdBiGZK27EVZe8khxQ8Go=" crossorigin="anonymous"></script>
+    
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/map/" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/world/" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/world/countries/" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology/" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline/" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about/" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions/" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays/" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/social-economy/" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli/" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie/" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong/" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west/" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="/stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/canteen-wine/"><span class="navicon">📗</span>Story: <i>Canteen Wine</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">    
+    <header class="info">
+  <h1 class="title">72 Hours in Vekllei</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;"></span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/snapshots/">
+			Snapshots</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/snapshots/72-hours/">
+			72 Hours</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  
+  
+
+  
+  
+  
+
+    
+    
+</header>
+
+
+  <div data-page-color="184, 84, 168" style="display: none"></div>
+
+
+<figure>
+  <a href="https://millmint.net/" target="_blank" rel="noopener noreferrer">
+    
+  </a>
+</figure>
+    
+
+
+
+
+
+    
+
+<article class="autonumber" >
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <blockquote class="note subtitle">
+  <span class="text">72 hours in <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, a short story about three days in the industrious and historic heart of Vekllei.</span>
+</blockquote>
+
+<p><span class="dropcap">T</span>his summer, I was routed from London to Idlewild via Pharos in Oslola, Vekllei. This was a rare opportunity, and one I have been hoping to cover for <em>Metropolitan</em> some time. It was only through my commission in this magazine that this adventure was possible. You see, a BOAC ticket from London to Idlewild costs a man about £525, or about a sixth of his average annual salary. Tickets with Commonwealth Overseas Airways, the state monopolist of international Vekllei travel, start at nearly ten times as much.</p>
+<p>Right away, we can see the uniqueness of this holiday. This kind of pricing does not make any sense. Among Vekllei&rsquo;s islands are some of the most sought-after beaches in the Caribbean, and within its borders are all kinds of untouched wilderness and desirable climates, all situated between the wealthiest and most vacation-minded continents. With some considered pricing, it could be an essential destination for holidaymakers, but that is not the case presently. Such was the excitement my trip provoked.</p>
+<p>The price of an airfare is only part of the problem. Tourist visas are invasive and slow to approve, and the process of arranging transit and accomodation is opaque and lacks the support you would expect of a modern country of nearly 24 million people. But after a visit to the Vekllei embassy in Lambeth and two meetings with the airline&rsquo;s agent at Heathrow, I had my papers in order.</p>
+<p>In this article I will reserve most of my judgement and let my observations leave their impressions individually. This is because, as I soon discovered, there are differences in travelling to Vekllei that make simple comparisons to holidays overseas impossible. A typical review of experiences by usual metrics would be sometimes unfair. For my 72 hours in Oslola, the industrious and historic heart of Vekllei, this article is best served as the notes of a seasoned columnist for <em>Metropolitan</em> reduced to an ordinary tourist, navigating travel with fresh eyes and not a small bit of wonder.</p>
+<h2 id="1">
+  1.
+  <a class="anchor" href="#1">#</a>
+</h2>
+<p>To visit Vekllei you have to transit with Commonwealth Airways, who have a terminal and lounge at Heathrow. I&rsquo;ve seen their planes around since they have secondary hubs in both London and Paris &ndash; but up until this point I&rsquo;d never flown with them before, and had no real idea what to expect. I have an Oslolan friend, but he hasn&rsquo;t lived in Vekllei for nearly twenty years and so he could only sketch guidance based on faded childhood memories. At the top of his recommendations was a bathhouse in Peric in the municipality of Coyenstisn (pronounced &lsquo;Coyen-tin&rsquo;), and the Botanical Gardens in Cossack, though he conceded the bathhouse may have since closed. In other words, I was entering the country totally fresh, and have deliberately avoided travel advice from other magazines. I would source my time there from the ground and take advice from whichever locals would offer it.</p>
+<p>The lounge at Heathrow is cut in the moderne Atlantic style. It was impossible to tell who else there were Vekllei or foreigners, since many Vekllei people use British pronunciations speaking English, and they have no common appearance, but I would guess that I was one of the few travelling there for the first time. The other passengers paid me no notice and were relaxed. Many smoked long cigarettes or pipes, and by the packaging of their tobacco I presumed they were natives.</p>
+<p>Travelling on a foreign passport, I had my bags searched and was gently questioned about the purpose of my trip, as though I might have made a mistake and they were trying to weed me out. Initially, I thought the sharp-faced man questioning me might be from their intelligence services (the feared <a style="color: var(--color-security)" href="/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a>, who appeared as brilliant antagonists in the film <em>Strike</em> screened last year), but I later learned that he was attached to Commonwealth Airways security. This was a soviet sort of introduction to my holiday, typical more of internal security in Bucharest than a holiday to a Western democracy, and I think demonstrates the challenges facing tourists looking to visit the country.</p>
+<p>The flight itself was pleasant. We flew on a Vekllei-made 202 <em>Comet</em>, which was arranged in a 2-2-2 configuration. It is a medium wide-body jet with low noise and vibration, and there are no classes on most Commonwealth Airways aircraft, further entrenching the initial soviet perception. The stewards, who spoke good English, were friendly and in good spirits. They wear an attractive, tailored uniform in the colours of the airline, but I noticed their company jewellery varied greatly and I asked a steward I had been friendly with about it. She told me that they were regional, and indicated the &lsquo;home base&rsquo; of a steward. In other words, which republic she came from, which was novel and interesting to me. There are many federations of states in the world, but I found overall in my &ldquo;72 hours&rdquo; that these &lsquo;republics&rsquo; (what an American might call &ldquo;states&rdquo; or a Russian, &ldquo;oblasts&rdquo;) are very visible in Vekllei society, and are woven throughout life there as a sort of cosmetic identity and a source of regional pride. The stewards also wore pins that reinforced their home base, and also indicated things like service tenure and awards. The overall effect is a sort of regimented society, where pilots, stewards and ground staff earn awards like a soldier earns medals.</p>
+<p>Approaching the island jetport of Pharos, the aircraft rolled to the east and provided me with my first panorama of the historic centre of Oslola. It was overcast and there was a soft and uniform light across the coast. I observed a dense city of light stone, tiled and conrete roofs, and narrow forested streets. Aside from the towers of a financial or government centre in the far distance, the buildings were mid-rise and colourful.</p>
+<p>There was almost no traffic visible from the sky, but bright-coloured trains snaked through elevated paths like caterpillars. The density of residences was broken up by both parks and empty land, which often hosted ponds or streams. There were a great number of canals cutting through the coastal neighbourhoods, which in their vernacular and irregular density provided the city with a medieval character. You could tell many structures by their design; schools, department stores, but also small industrial plots with rail sidings. As the streets moved up the slopes of its surrounding hills and mountains, which embraced the city like curtains, large retaining walls, aqueducts and bridges of all kinds moved between them. The mountaintops were scorched and treeless, pockmarked by pockets of dense scrub and snowfall.</p>
+<p>I watched the landscape as we descended, noting the taller commercial structures that hugged a tree-lined arterial avenue, before the vista slipped below the aircraft as we circled back towards Pharos.</p>
+<hr>
+<p>Pharos is an enormous jetport that has accomodations for spaceplanes and monowings that fly routes to the moon or the Far East and Australia. Coming into the gate, dozens of tails emblazoned with the four-petal pink flower of Commonwealth Airways fringed the large and glass-clad terminal building. Pharos is surrounded on all sides by the sea, and connects to the mainland via the Democros Bridge.</p>
+<p>Disembarking the jet, all passengers were funnelled via moving pavement towards immigration and customs. Those with Vekllei passports waltzed through a seperate checkpoint, stopping only to register their passport number with a security droid before proceeding into the terminal. The rest of us, maybe a dozen in total, moved slowly and dourly towards two booths manned by soldiers wearing police fatigues. Here, I was asked the same personal and unusual questions I had been in the Heathrow terminal, comparing my previous answers. When asked what I was doing here, I showed my press card provided by the embassy in London, and was finally stamped through. I was warned that I had to emigrate in 72 hours or I&rsquo;d be subject to arrest.</p>
+<p>The experience was jarring. Up until this point, I had simply been given orders and followed them obediently. Since my first visit to the embassy in Lambeth, I had been told when and where to go, and what to do when I got there. I had been commanded, surveilled, fed and and watered. Now, through the final checkpoint, I was thrust into a foreign world with no orders. This feeling is not unique overseas, I suppose, but it is especially pronounced after the ordeal of stepping onto Vekllei soil. It is the feeling of being an outsider; a foreigner with no internal map of the land.</p>
+<p>Armed only with the name and neighbourhood of my hotel, I proceeded towards the high-speed airport train. I was struck by the absence of a station office or ticker barriers. This is the first real pleasure of Vekllei society, I found out. It is not just that many commercialised barriers are removed, or the obvious delight of a &ldquo;free ticket,&rdquo; it is the removal of a psychological barrier entirely. There is no physical or mental separation between you and transport, and so it is spontaneous. Of all things, I found I missed this deeply on my return to London. After experiencing the joy of total accessibility, it is hard not to resent paying for even a cheap tube ticket.</p>
+<hr>
+<p>The airport line dumps weary and confused foreigners in a grand station known as National. This is a palace of rail on par with Kings Cross, Grand Central or the most fanciful Soviet experiments. Carved from volcanic rock, its colossal and institutional architecture contrasts with indulgent murals and sculpture found throughout its monumental Great Hall and platforms. It does not have the history of great stations overseas but it humbles you in its size. The station&rsquo;s intelligent use of scale, juxtaposing deliberately civic monumentalism with light and water indicate great competence in design and construction. Small trenches with running water run along the back of the platforms, which are dredged and swept by servant robots not that different to the ones you find in nicer London suburbs. I had seen pictures of National Station before, but no photograph can impress you with its true titanic size. From the airport train, separated on a dedicated platform, I could see a huge stone mural at least thirty meters high depicting, in abstract, what seemed to be a summary of Oslolan history.</p>
+<div class="pullquote">"My first observation of Vekllei people were that they were well, if plainly dressed, and came in all shapes, colours and heights."</div>
+<p>Alighting the train, you encounter thousands of Oslolans hurrying around, a vertical slice of society. To self-professed civic anthropologists like me, my curiosity was overwhelmed &ndash; by the scale and splendour of my surrounds, by the noise and chaos of life in the station, and by the intermingling of all parts of society in a huge space of transit. My first observation of Vekllei people were that they were well, if plainly dressed, and came in all shapes, colours and heights.</p>
+<p>I stood uselessly at the rear of the platform, near the trench of water, and saw it was clean except for a few bottlecaps and a paper wrapper bobbing at its end. It made a trickling noise audible beneath the clamour of of the platform. The signage was in English but I was not sure which train would take me to Antarta, where my hotel was located. My confusion must have been plainly visible because a boy who looked about fourteen came over and spoke in Oslolan to me. I replied in English that I didn&rsquo;t understand him, and he said &ldquo;oh, English,&rdquo; and called a girl over from the crowd who looked like him. They were both wearing a uniform in the colours of the national rail service, and the boy shrugged humorously as he backed off.</p>
+<p>The girl was a little older and wore white gloves in the style of a platform attendant, which I supposed she was. She said, &ldquo;where are you going,&rdquo; and I told her &lsquo;Antarta.&rsquo; She said &ldquo;go up, and join the AT-1 auto-tram. You go on that to Zimra Station, and you will change for the T-18 two-car service in yellow. It comes every fifteen minutes. Alight at Antarta.&rdquo; Before I had the chance to absorb her commands she added, &ldquo;where are you from?&rdquo; &ldquo;London,&rdquo; I said. &ldquo;Oh,&rdquo; she said blankly, &ldquo;very good.&rdquo; She turned and proceeded up the platform. I followed her because that was the direction of the exit. After the airport train was ready to depart again, she unsheathed a flag from her belt and held it aloft, and blew her whistle. The guard on the train reciprocated with his own whistle, and the doors on the train closed.</p>
+<hr>
+<p>I took two escalators to the auto-tram, which is a mainline service that arrives frequently. It was called an auto-tram because it has no human driver and is only a few carriages long. Its platform was elevated above the main terminal hall in the air, and from it I could see hundreds of people moving about. I boarded the auto-tram, which was busy with people, and it picked up speed and left the National Station building, exiting into the city outside. Since there were no drivers, you could sit at the front end of the tram, which was heavy with glass and provided spectacular views of the path ahead.</p>
+<p>I looked around me and there was a sample of all kinds of life. An older couple were commuting somewhere together and carried work bags. The man next to them, Asian in appearance, wore a fine dark suit and carried a briefcase. There were a group of students talking loudly near the doors, who wore neat navy and white uniforms with dark capes. One of the boys of the group looked much older, maybe in his early 20s. I had no way of knowing if that guess was accurate or if some Vekllei boys just looked old for their age. Outside and ahead, the sky was ominous with rain, but the light was flat and bright. A window had been left open and the tram smelled like recent rains, an earthy mix of soil and wet tarmac. It was cool but not cold.</p>
+<div class="pullquote">"This was the kingdom of pedestrians and rail."</div>
+<p>The tram soon descended to street level, and travelled narrowly between homes before breaking suddenly into street crossings marked by gates and lights. From here I had a good sense of the pedestrian feel of the city. The buildings beside the track were rowhouses or low-rise apartments, which were finished in the vernacular Atlantic modernist style but were often tired-looking and lived-in. They were characterised by gardens, small balconies, and the use of tiled glass or vertical rectangular windows. Most of them had peaked tiled or steel roofs with chimneys. Between them were narrow cobbled or concrete streets which were busy with painted markings and features like fuse boxes, power poles and manholes. Residences, commerce and industry were mixed together, and were served by tiny rail sidings on which I could see shunting locomotives and short freight cars. Sawtooth-roofed buildings I assume were factories were equally pretty as the houses in the modest Oslolan style, and were thoroughly integrated into the fabric of neighbourhoods.</p>
+<p>The cohesiveness of these neighbourhoods, flying by on the main auto-tram line, was my strongest impression. It appeared on its face as if there was no coordinated zoning policy, and yet homes flowed into shops that flowed into light industry, linked together by common streets, parks, schools and offices. Some kind of factory hemmed in by narrow gardens &ndash; picked by its rail siding stacked up with steel barrels &ndash; backed onto a clear stream flanked by rocks and mosses. On the opposite bank was the patio of a café busy with people. One number up the street from the café was a series of rowhouses which had large, natural yards that backed onto the same stream. Rather than indicating a poor industrial community, these adjacent buildings contributed to a greater overall effect of organic neighbourhoods in which people lived, worked and relaxed in their communities.</p>
+<p>At this point, I had little idea of what it was actually like to live in such a neighbourhood, but my curiosity ran wild. I must have looked a sight with my head pressed to the glass, absorbing as much as I could in the seconds the streets passed by. I must admit, I had strong doubts about all the talk I&rsquo;d heard about the uniqueness of Oslola. I was expecting a distinct cityscape and new cultures and customs, but did not consider that the country could have meaningfully escaped centuries of British occupation and globalising hegemony in its essence; the way basically all new cities are built. These doubts were dispelled by the simultaneously backwards and wonderful appearance of the multipurpose Oslolan neighbourhood.</p>
+<p>At every level crossing was a crowd of people waiting to pass. Many were dismounted or idling precariously on bicycles, or petrol-bikes. I counted two vans, six cars and one small truck across my entire journey across the boroughs of Coyenstisn and Voya Voya. No horses or carts, either; this was the kingdom of pedestrians and rail.</p>
+<hr>
+<p>Taking the advice of the young platform attendant, I changed trains at Zimra and caught another train north to Antarta. There were more platform attendants here, in a similar style of uniform. They were mostly young or old, so I assumed they were volunteers. This service took me towards where the city met its glacial surrounds, and the steep mountains loomed large out the windows.</p>
+<p>This train was quieter and the only others in my carriage were a young family, a group of office workers and a service robot. To say we were approaching the &lsquo;outskirts&rsquo; of the city would be misleading, since in practice Oslola has almost a single giant city that rings its entire coast &ndash; but as we approached the interior, the dense neighbourhoods of homes were separated by increasingly large open spaces of untouched land and native vegetation. In these wastelands were large basalt rocks, small clusters of Atlantic pines, and low mountain shrubbery of sturdy bushes, mosses, lichens and button grass. Evidence of volcanic activity grew as the train moved north. Approaching Antarta, one of these small wildernesses had brilliant blue ponds of silica that belched steam into the air, flanked on all sides by thick carpets of low flowers. It was extraordinarily pretty.</p>
+<p>I was also struck by the amount of water and its effect on the character of the city. From the sky, I had seen canals along its coast, but inland along the tram and train I had also seen innumerable rivulets, creeks, streams and pools. It seemed as though almost any corner of the city was abundant with clear water, which in turn had a cleansing effect on the mind.</p>
+<p>The station at Antarta was small and linked with a network of trams. Since there were no tickets, you simply took the steps down from the platform and entered the city. The station was separated from a commercial street by a rivulet which flowed between some ancient rocks, splashing beneath an old stone bridge. The cafés were quiet at this hour in the mid-afternoon. I had the name of my hotel but no idea where it was, so I stood on the bridge corner for a minute and considered where best to ask. Rather than wait fifteen minutes for another train to dispense a fresh batch of passengers I ducked into a café nearby to see if the owner could help.</p>
+<hr>
+<p>The straightforward answer to the question &ldquo;why is someone giving up their time to work this job,&rdquo; I found, is because they have to. The kinds of work you or I might find monotonous, Vekllei people find monotonous too, and so it is mostly filled by conscripts completing National Service, a sort of broad civic mobilisation not that different to mandatory military service in many countries. Otherwise, if people must find work as per law, it is not hard to find willing librarians and flight attendants and teachers. National Service, in my observation, fills in the gaps.</p>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/snapshots/">Snapshots</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/snapshots/72-hours/">72 Hours</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 16/05/2024</span>
+    <span class="pill">
+      <div class="pill-category">snapshots</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">72 Hours</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
+</body>
+
+</html>

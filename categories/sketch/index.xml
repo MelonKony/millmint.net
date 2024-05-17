@@ -10,14 +10,124 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Sketch</title>
-	<link>https://millmint.net/categories/sketch.html</link>
+	<link>https://millmint.net/categories/sketch/</link>
 	<description>Recent content in Sketch </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Sat, 20 Apr 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Teabag</title>
+	  <link>https://millmint.net/stories/teabag/</link>
+	  <pubDate>Sat, 04 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/teabag/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ She likes Thailand. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/teabag.jpg"/> <blockquote class="note caption">
+  <span class="text">She likes Thailand.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Thailand</title>
+	  <link>https://millmint.net/stories/thailand/</link>
+	  <pubDate>Fri, 03 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/thailand/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[South-East Asia right now (I have arrived in Thailand 🇹🇭) Vekllei people don&rsquo;t stitch their school shirts, they use pins so they can be worn for different occasions.
+The embroidered name is cute though]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/thailand.jpg"/> <blockquote class="note caption">
+  <span class="text">South-East Asia right now (I have arrived in Thailand 🇹🇭)</span>
+</blockquote>
+
+<p>Vekllei people don&rsquo;t stitch their school shirts, they use pins so they can be worn for different occasions.</p>
+<p>The embroidered name is cute though</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Malaysia</title>
+	  <link>https://millmint.net/stories/malaysia/</link>
+	  <pubDate>Sun, 28 Apr 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/malaysia/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Tzipora is visiting Malaysia 🇲🇾 (I am visiting Malaysia) ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/malaysia.jpg"/> <blockquote class="note caption">
+  <span class="text">Tzipora is visiting Malaysia 🇲🇾 (I am visiting Malaysia)</span>
+</blockquote>
+
+<p><figure>
+  <a href="/images/fullres/hat.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/fullres/hat_hu73175baed424fac04ab27e43ae4a63f2_2279167_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/hat_hu73175baed424fac04ab27e43ae4a63f2_2279167_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fullres/hat.jpg"alt="Tzipora and Cobian mini-comic" 
+        loading="lazy"
+      />
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Killers</title>
 	  <link>https://millmint.net/stories/killers/</link>
@@ -718,9 +828,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/sabae-3_hub0c564ed2d32996474d4b7ab489ef621_50516_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/sabae-3.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/media/sabae-3.png"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -728,8 +836,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure>
 <figure>
   <a href="/images/media/sabae-4.png"
@@ -757,9 +866,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/sabae-4_huef803e608dc99f6f88748a2872ebb23a_68152_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/sabae-4.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/media/sabae-4.png"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -767,8 +874,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>So I said she was planning to go on vacation:</p>
 <p><figure>
@@ -800,9 +908,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/fullres/sabae-2_hu0e6f4daf5fcec4fb2e13a650c41833f6_1626679_1500x0_resize_q90_h2_box.webp 3x, /images/fullres/sabae-2_hu0e6f4daf5fcec4fb2e13a650c41833f6_1626679_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/fullres/sabae-2.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/fullres/sabae-2.jpg"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -810,8 +916,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>His followers reacted with amusement that someone from Australia was drawing his characters:</p>
 <blockquote>
@@ -849,9 +956,7 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/media/sabae-5_hu0af97c50d584cbcc4937ac2546b4ab38_148543_680x0_resize_q90_h2_box_3.webp 1x"
-        data-src="/images/media/sabae-5.png"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="image of Sabae-chan and Cobian" 
+        src="/images/media/sabae-5.png"alt="image of Sabae-chan and Cobian" 
         loading="lazy"
       />
 
@@ -859,8 +964,9 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 <p>It&rsquo;s funny how the internet connects train enthusiasts.</p>
 ]]>
@@ -1266,9 +1372,7 @@ Here is her original sketch:]]>
 
       <img class="rcf-image lazyload show-if-js"
         data-srcset="/images/sketches/coretti_hu207d93032f4e9eaed7fc90d254a00387_353850_1500x0_resize_q90_h2_box.webp 3x, /images/sketches/coretti_hu207d93032f4e9eaed7fc90d254a00387_353850_680x0_resize_q90_h2_box.webp 1x"
-        data-src="/images/sketches/coretti.jpg"
-        src="data:image/jpeg;base64}"
-        data-sizes="auto"alt="sketch of coretti" 
+        src="/images/sketches/coretti.jpg"alt="sketch of coretti" 
         loading="lazy"
       />
 
@@ -1276,8 +1380,9 @@ Here is her original sketch:]]>
 
   </a>
 
+
   
-    <figcaption></figcaption>
+   
 </figure></p>
 ]]>
   	</content:encoded>
@@ -1712,7 +1817,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
   The Gi
   <a class="anchor" href="#the-gi">#</a>
 </h2>
-<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/factbook/society/culture/language.html#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/factbook/society/culture/language.html#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
+<p>The <em>gi</em> is a women&rsquo;s &lsquo;quarter-pleat,&rsquo; and is one of several styles of separated &lsquo;pleats&rsquo; used in Vekllei traditional dress. It consists of a strip of fabric about the width of a leg, stitched with <a href="/factbook/society/culture/language/#rapotenne">Rapotenne</a> runes to communicate familial or spiritual heritage.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Traditionally gi were worn to the hem length of traditional skirts (at the ankle), but have shortened with skirt fashions in modernity. Similarly, many modern gi use regular <a href="/factbook/society/culture/language/#topet">Topet</a> in place of Rapotenne, which signals a cultural shift of their use away from spiritual artefacts towards secular cultural items. The popularity of the gi today is the result of their use in uniforms in education and some professions, introducing the practice and style to Vekllei&rsquo;s large immigrant populations and ensuring the gi&rsquo;s survival into the Floral Period. Gi mostly remain formal or ceremonial wear for special occasions, but are seeing some limited use in modern fashions.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>

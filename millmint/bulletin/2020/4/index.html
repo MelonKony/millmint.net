@@ -1,0 +1,1162 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Issue 4 | August 2020 - MillMint</title>
+
+    
+    <meta name="description" content="Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction." />
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.693bd8ac29fe16a235234f0e86d7b4547d0aa4276a8d1bd801382904519937846960ceb2f48e09a4da17bb62be5588e3a320605d3ec7d321c1eb0a3af7afbbbb.css" integrity="sha512-aTvYrCn&#43;FqI1I08Ohte0VH0KpCdqjRvYATgpBFGZN4RpYM6y9I4JpNoXu2K&#43;VYjjoyBgXT7H0yHB6wo696&#43;7uw==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Issue 4 | August 2020 &middot; MillMint" />
+    <meta property="og:description" content="Studio MillMint is a Hobart-based illustration studio specialising in utopian fiction." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="https://millmint.net/millmint/bulletin/2020/4/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.fbbdfcced23aebc826f4e2298a732a08f55d0621992b6ec45597bc921c50f06a.js" integrity="sha256-&#43;738ztI668gm9OIpinMqCPVdBiGZK27EVZe8khxQ8Go=" crossorigin="anonymous"></script>
+    
+
+    </head><body data-color="yellow"  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" maxlength="60" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/map/" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/world/" class="menu-link"><span class="navicon">🌐</span>World</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/world/countries/" class="menu-link"><span class="navicon">🌎</span>Countries</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology/" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline/" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about/" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions/" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays/" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/social-economy/" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli/" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie/" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong/" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west/" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei">
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU">
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://twitter.com/vekllei">
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="/stories/index.xml" type="application/rss+xml">
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="https://millmint.net/stories/canteen-wine/"><span class="navicon">📗</span>Story: <i>Canteen Wine</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">    
+    <header class="info">
+  <h1 class="title">The Atlantic Bulletin</h1>
+  <div class="date" style="margin-right: .25rem;"></div>
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">🌼</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/millmint/">
+			MillMint</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="">
+			Bulletin</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/millmint/bulletin/2020/">
+			The Atlantic Bulletin Archive</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/millmint/bulletin/2020/4/">
+			Issue 4 | August 2020</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    <div class="article-category">MillMint</div>
+    
+  </div>
+  <div class="emoji" id="whirlybat">f</div>
+  
+
+  <div class="emoji" id="whirlybat">f</div>
+  
+  
+
+    
+    
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+
+
+<figure>
+  <a href="https://millmint.net/" target="_blank" rel="noopener noreferrer">
+    
+  </a>
+</figure>
+    
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="title">
+                        <span>Issue 4 | August 2020</span>
+                        <span class="icon">🌼</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
+        <li><a href="#i-news--announcements">I. News &amp; Announcements</a></li>
+        <li><a href="#ii-tzipora-watch">II. Tzipora-watch</a></li>
+        <li><a href="#iii-vekllei-fact-of-the-month">III. Vekllei Fact of the Month</a></li>
+        <li><a href="#iv-wordbook">IV. WordBook</a></li>
+        <li><a href="#v-the-bulletin">V. The Bulletin</a>
+          <ul>
+            <li><a href="#absolute-grotesque">Absolute Grotesque</a></li>
+            <li><a href="#2000-members-wow">2,000 members! WOW!</a></li>
+            <li><a href="#absolute-quiet">Absolute Quiet</a></li>
+            <li><a href="#rural-newda-in-rural-vekllei">Rural Newda in Rural Vekllei</a></li>
+            <li><a href="#the-thousand-year-old-girl">The Thousand-Year-Old Girl</a></li>
+            <li><a href="#the-31st-century--vekllei-throughout-our-solar-system">The 31st Century — Vekllei throughout our Solar System</a></li>
+          </ul>
+        </li>
+        <li><a href="#vi-the-post-office">VI. The Post Office</a>
+          <ul>
+            <li><a href="#not-a-particularly-environmentalist-bunch-veklleis-feminist-natureculture-new">Not a Particularly Environmentalist Bunch: Vekllei’s Feminist Natureculture [NEW]</a></li>
+          </ul>
+        </li>
+        <li><a href="#vii-gallery">VII. Gallery</a>
+          <ul>
+            <li><a href="#postcard-1--tzipora-in-vekllei-national-dress">Postcard 1 — Tzipora in Vekllei National Dress</a></li>
+            <li><a href="#postcard-2--baron-ayn-moise-cobian-and-tzipora">Postcard 2 — Baron, Ayn, Moise, Cobian and Tzipora</a></li>
+            <li><a href="#postcard-3--tzipora-the-school-librarian">Postcard 3 — Tzipora the School Librarian</a></li>
+            <li><a href="#postcard-4--cobian-sleeps-over">Postcard 4 — Cobian Sleeps Over</a></li>
+            <li><a href="#postcard-5--cobian-catches-a-ride-home">Postcard 5 — Cobian Catches a Ride Home</a></li>
+            <li><a href="#postcard-6--spring-cleaning-at-the-desmoisnes-household">Postcard 6 — Spring Cleaning at the Desmoisnes Household</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<details class="mobile toc">
+  <summary>
+    <span class="navicon">📑</span>Table of Contents
+  </summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#from-the-editor"><strong>From the Editor</strong></a></li>
+        <li><a href="#i-news--announcements">I. News &amp; Announcements</a></li>
+        <li><a href="#ii-tzipora-watch">II. Tzipora-watch</a></li>
+        <li><a href="#iii-vekllei-fact-of-the-month">III. Vekllei Fact of the Month</a></li>
+        <li><a href="#iv-wordbook">IV. WordBook</a></li>
+        <li><a href="#v-the-bulletin">V. The Bulletin</a>
+          <ul>
+            <li><a href="#absolute-grotesque">Absolute Grotesque</a></li>
+            <li><a href="#2000-members-wow">2,000 members! WOW!</a></li>
+            <li><a href="#absolute-quiet">Absolute Quiet</a></li>
+            <li><a href="#rural-newda-in-rural-vekllei">Rural Newda in Rural Vekllei</a></li>
+            <li><a href="#the-thousand-year-old-girl">The Thousand-Year-Old Girl</a></li>
+            <li><a href="#the-31st-century--vekllei-throughout-our-solar-system">The 31st Century — Vekllei throughout our Solar System</a></li>
+          </ul>
+        </li>
+        <li><a href="#vi-the-post-office">VI. The Post Office</a>
+          <ul>
+            <li><a href="#not-a-particularly-environmentalist-bunch-veklleis-feminist-natureculture-new">Not a Particularly Environmentalist Bunch: Vekllei’s Feminist Natureculture [NEW]</a></li>
+          </ul>
+        </li>
+        <li><a href="#vii-gallery">VII. Gallery</a>
+          <ul>
+            <li><a href="#postcard-1--tzipora-in-vekllei-national-dress">Postcard 1 — Tzipora in Vekllei National Dress</a></li>
+            <li><a href="#postcard-2--baron-ayn-moise-cobian-and-tzipora">Postcard 2 — Baron, Ayn, Moise, Cobian and Tzipora</a></li>
+            <li><a href="#postcard-3--tzipora-the-school-librarian">Postcard 3 — Tzipora the School Librarian</a></li>
+            <li><a href="#postcard-4--cobian-sleeps-over">Postcard 4 — Cobian Sleeps Over</a></li>
+            <li><a href="#postcard-5--cobian-catches-a-ride-home">Postcard 5 — Cobian Catches a Ride Home</a></li>
+            <li><a href="#postcard-6--spring-cleaning-at-the-desmoisnes-household">Postcard 6 — Spring Cleaning at the Desmoisnes Household</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</details>
+
+
+
+    
+
+<article class="autonumber"  autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <h2 id="from-the-editor">
+  <strong>From the Editor</strong>
+  <a class="anchor" href="#from-the-editor">#</a>
+</h2>
+<p>Welcome to the fourth issue of The <em>Atlantic</em>. Good posts this month. Bit of a smorgasbord, with stories covering all sorts of things. Most importantly, as was mentioned last month: <strong>I want to start a comic.</strong></p>
+<p>How do you go about starting a comic? I don’t think there’s much of a trick to it, as a first-timer — you just have to ’start’. It’s difficult for me, not just because I’m still learning to draw, but also because a comic in the Vekllei format should help the utopian ’social dream’ of the project — that’s what the “author” category of posts means. So a comic would not just have to tell an exciting story with a linear plot and action — it would have to be immersive; a guide to the world; something you could revisit time and time again without needing to follow a linear story. Figuring out how to do that is complicated. I’ll set aside some time in September to start exploring this concept seriously.</p>
+<p>I’d also like to do a short animation/music video for a bit of fun. 80s technopunk vapourwave irony aesthetics are last year — what about a bit of postwar austerity to anticipate the coming global recession? Forget bright-coloured sneakers and Windows 98 interfaces — how about some council housing and cardigans?</p>
+<p>I guess we’ll have to wait and see.</p>
+<p>Thanks for reading, and I&rsquo;d also like to thank the contributor to this edition, Bike (Milky), for their wonderful essay on Vekllei ecofeminism. It’s an excellent read — check it out below. If you would like to contribute to The Atlantic with writing, art or reviews relevant to the spirit of petticoat ideology, please contact Hobart at <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a> before the <strong>30th of September.</strong></p>
+<p>Thank you for supporting Vekllei, and best wishes.</p>
+<p>Hobart Phillips
+<strong>Enjoy — 楽しんで</strong></p>
+<hr>
+<h2 id="i-news--announcements">
+  I. News &amp; Announcements
+  <a class="anchor" href="#i-news--announcements">#</a>
+</h2>
+<ol>
+<li>I’ve gone back to work at the news organ I used to work at — I might have a little less time, but I’ll have a little more money, and that’s nice. Hoping to draw more in September, riding off the fun I had in August.</li>
+<li>The wiki (called Zelda Wiki — good luck buying any domain with the word “Zelda” in it) is coming along well. Rather than writing every article in advance — a leviathan task — I’m preparing a few intro  covering the country of Vekllei and the characters of my story. It’s live now — but good luck finding the URL for it. It’ll be done before the end of the year, but it’s not nearly finished yet.</li>
+<li>The post “Absolute Quiet” really took off on reddit and netted me nearly another 1,000 subscribers on r/vekllei. Awesome! It’s not hard to cross-post work and it pays off, especially as I get better. This piece worked out really well — if only I could paint cities as nicely. That’s a long-term ambition, unfortunately.</li>
+<li>The website is “functional” in big scare-quotes. It’s just a blog replicating reddit posts for now — that’ll change once the wiki is complete and accessible. The parallax isn’t cropped properly on mobile and there’s a few errors with icons loading in, but it’s better than the broken hub with no content that was there before.</li>
+<li>As a reminder, <a href="https://www.millmint.net">www.millmint.net</a> and <a href="https://www.vekllei.com">www.vekllei.com</a> now redirect to <a href="https://www.millmint.studio">www.millmint.studio</a>!</li>
+</ol>
+<hr>
+<h2 id="ii-tzipora-watch">
+  II. Tzipora-watch
+  <a class="anchor" href="#ii-tzipora-watch">#</a>
+</h2>
+<p>In August of 2067, Tzipora wrote to the office of the Sun-Cola Beverage Company professing a love of their soda. The letter was so heartfelt and congratulatory that the chief operations officer invited her to tour their bottling plant in Demon, during which she met several of the staff responsible for her favourite flavours. They sent her home with a basketful of Sun-Cola merchandise and a wristwatch shaped like a bottle cap that still works to this day. Tzipora made a habit of writing to her favourite companies, and as a result has visited a lot of places of industry the ordinary person might never think to go.</p>
+<hr>
+<h2 id="iii-vekllei-fact-of-the-month">
+  III. Vekllei Fact of the Month
+  <a class="anchor" href="#iii-vekllei-fact-of-the-month">#</a>
+</h2>
+<p>Despite the prevalence of nuclear power in Vekllei, over 60 per cent of the country’s civil power is produced by geothermal and hydroelectric power stations. This is in part a result of <em>Upen</em>’s intuitive emphasis on renewable local resources (not just for sustainability, but for deep integration and dependence with the physical landscape), but also because much of Vekllei’s nuclear power is sold abroad via undersea powerlines in Europe and the United States, to supplement ageing fission plants.</p>
+<hr>
+<h2 id="iv-wordbook">
+  IV. WordBook
+  <a class="anchor" href="#iv-wordbook">#</a>
+</h2>
+<p><strong>Endoanotetmouisa</strong> — translates literally as “Princess belonging to the Earth,” often mistranslated as “Princess of the Earth”. A highly uncomfortable nickname given to Tzipora in a news article written about her, shortly after her first mainstream appearance — a student documentary about building her house in Montre-Lola. Her interviews in the film sparked widespread interest in the girl, both for her medical condition and her extraordinary childhood, and so she spent much of the summer of 2083 in the Azores trying avoid this nickname.</p>
+<hr>
+<h2 id="v-the-bulletin">
+  V. The Bulletin
+  <a class="anchor" href="#v-the-bulletin">#</a>
+</h2>
+<h3 id="absolute-grotesque">
+  Absolute Grotesque
+  <a class="anchor" href="#absolute-grotesque">#</a>
+</h3>
+<p><strong>📖 Published 31st August 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/ijxvzu/absolute_grotesque/">Read here</a>.</p>
+<p><figure>
+  <a href="/images/images/warmap.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<blockquote>
+<p>On the morning of the second day, I watched a fly crawl across the cheek of the middle-aged woman, probably an office worker, lying next to me. It moved up her cheekbone to her temple, stopping now and then to rub its front legs as though performing a ritual.
+A jagged tear ran down the leg of her dark blue work trousers, but the white calf it revealed was miraculously unscathed. The woman lay still. Probably dead, I assumed. After a while, the fly got on to her eyelid. Suddenly, she reached up and brushed it away, opening the eye. There was still a moist light inside.</p>
+</blockquote>
+<p><strong>From <em>Insects</em>, by Seirai Yūichi</strong></p>
+<blockquote>
+<p>By chance, the glass paperweight had survived. When her in-laws’ house had burnt down in Yokohama, the paperweight was among those things that she’d frantically stuffed into an emergency bag, and now it was her only souvenir of life in her girlhood home.</p>
+</blockquote>
+<blockquote>
+<p>From evening on, in the alley, she could hear the strange cries of the neighbourhood girls. Rumour had it that they could make a thousand yen in a single night. Now and then she would find herself holding the forty-sen paperweight she had bought after ten days of indecision when she was these girls’ age, and as she studied the sweet little dog in relief, she would realise with a shock that there was not a single dog left in the whole burnt-out neighbourhood.</p>
+</blockquote>
+<p><strong>From <em>The Silver Fifty-Sen Pieces</em>, by Kawabata Yasunari</strong></p>
+<p><strong>On the 14th of August 2111</strong>, the Atomic War began in a Chinese submarine in the South Pacific, and ended six hours later. The war marks the single greatest loss of life in human history and would disrupt human life on Earth in previously unimaginable ways — consumer society bottomed out, the world became small, the Earth grew cold, and a new chapter in human history was opened.</p>
+<p>This political map marks the territories of Earth as they stand five years on, in 2116. There are fewer countries in the world today than in any other point in human history, in part because the catastrophic reduction in human population — some 520-600 millions in the first year — has emptied out countries and rendered others uninhabitable. Many of these territories here are disputed and, in some cases, autonomous — for simplicity, they are presented as they are recognised by the U.N.
+The map also presents a long-exposure view of the war as it happened, and its remaining fallout currents today. Red dots mark significant nuclear detonations on August 14th. Yellow dots mark surface warfare in some capacity. Red trails mark missile flight, reduced in number here by strict denuclearisation treaties of the decades previous. Yellow trails mark the flight paths of atomic bombers, both supersonic and subsonic. This map does not record failed launches, intercepted missiles or downed aircraft.</p>
+<p>Fighting was arranged along political axes — namely Western (U.S., U.K., West Germany &amp; N.A.T.O. members), Warsaw Pact (U.S.S.R., Cuba, Egypt), East Asian (China &amp; Korea), and non-aligned (Vekllei, France, Brazil). The war experience was unique to each country — Vekllei exchanged warheads and bombs with China but not Warsaw countries, the U.S.S.R. exchanged with both Western and East Asian members, and Brazil fought a catastrophic war against both Soviet and American territories. The immediate aftermath saw a quiet Earth, much of it scorched. Temperatures dropped by 10 degrees centigrade for the first six months, and slowly warmed as debris cleared in the following years. Wide-scale firestorms were tempered by rains that followed the war shortly.</p>
+<p>Some 274 millions of the dead are accounted for in China, where in 2116 the cities still lie in rot, swollen with corpses; heavy with miasma; concrete dams bleached and cracked; the wood all burned up; the rivers warped and quiet; dead fish along them; a surfaced water main weeping blood; harsh asbestine whistling; railcars in a ditch; sloughing skin; tremors; smoke with no fires; confused wandering; bleeding from the inside; families-as-sand; sand-as-trinitite.</p>
+<p>Exchanges were confused, helter-skelter, and the combatants rattle off like a death snare. The U.S.S.R., the U.S., France, and Vekllei all exchanged death with China.</p>
+<p>It would take more than mere annihilation to extinguish the P.R.C., but the toll was nauseating. Beijing and Shanghai were simply disappeared; there was nothing where there once was. The fistfuls of rebar and concrete amidst glassy, ossified landscape were heaped into direct administration of the U.N. The following year, 40-120 million more Chinese would succumb to the greatest famine in the history of the world. Of course, in the U.N., there was good argument for the nuclear retaliation — China launched first; why should money and food go to the perpetrator of the vastest disaster in human history? One can’t help but wonder if the life of an Oriental coolie wells fewer tears than his equivalent in Paris. There are not enough flowers in the world to pay tribute to the dead of China, who were simply dispensed with in European memory and subsumed in part by the United Nations. The communist party would continue to control the vast interior, divided into two states by ethnography, where 1949 seemed closer than ever. Necrotic politics are legitimised in the land of the dead.
+Soon, we saw the consolidation of nation-states into geographic regions with a disregard for ethnography not seen since the colonial years. This was met with violent resistance in some places — in others, locals capitulated to the extraordinary hyperreality of the postwar world.</p>
+<p>The United Nations was quickly catapulted into the status of a de facto administrative world government in a last-ditch attempt to ‘freeze time’ as it were, in order to provide the superpowers time to recover from the scope of immediate devastation and prevent humanity from entering a long period of decline. This involved the moving of soldiers on a scale unseen since the World Wars, as U.N. international brigades propped up vulnerable, scorched territories in Central/Western Europe and Asia. The immediate peace of the first days after the war was ruthlessly enforced — and strategic opportunism was threatened to meet indiscriminate violence and U.N.-sanctioned nuclear retaliation. There was some belief that the status quo could carry on. So troops of non-combatant countries were supplied, and in some cases press-ganged, into this global mission.</p>
+<p>The battered United States, acknowledging its ‘century of decline’, found itself consolidating control over its urban, though devastated, coasts. The awkward appellation &ldquo;Dallas America&rdquo; was used as a colloquial shorthand for a disputed territory that insisted on referring to itself as the legitimate United States. The name was only superseded by the ridiculous &ldquo;United Nations Heartlands of the United States,&rdquo; the Aid Region of the U.S. interior that had collapsed in the days after the war. This was buffered by the Mojave and Great Lakes Special Administrative Regions, federal territories that contained war industry and nuclear infrastructure that propped up the precarious coasts. Despite efforts to revive agriculture in the scorched U.N. Heartlands U.S., starvation was met with martial law along the coasts the following year.</p>
+<p>The U.N. was granted temporary, direct control over several collapsed territories that had either succumbed to nuclear fire or had caved to anarchy in the weeks and months after. In some cases, like the U.N. regions in Hawaii, Jerusalem and the Central Europe International War Government, these behaved as states in themselves, administrated directly by the United Nations Mission for War Recovery. In others, they were merely named as such with the vague promise of future aid. U.N. Cuba and U.N. Taiwan were such examples, in which devastation had been so catastrophic that little remained to govern, and the local population was mostly left to anarchy. In general, there were great inequalities in how the U.N. chose to dedicate resources, largely informed by its largest nation-states and political interests.</p>
+<p>There are thousands of stories from communities and territories across the world directly impacted by the war — from the atomic bombing of Sydney to the catastrophic reactor meltdowns of Brazil’s south. The war was unprecedented in scale and devastation. This map reveals little of the profoundly human tragedy that was brought about, nor does it invoke the difficult existential artefacts that are still being reckoned with. Perhaps humans are just animals after all — destined to die out the way so many have in this age. Most tragic was not the colossal scale of death, or the collapse and pain that followed, but the upending of domestic society into violence, in which people of consumer society — the middle class — found themselves with not much at all, thrust into a world of chaos and suffering in which all prior epistemologies evaporated. Like the flash of blue light that preceded the roar, it was the stuff in supermarkets and department stores that marked the absolute grotesqueing of life in the new age.</p>
+<hr>
+<h3 id="2000-members-wow">
+  2,000 members! WOW!
+  <a class="anchor" href="#2000-members-wow">#</a>
+</h3>
+<p><strong>📖 Published 27th August 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/ih3yvf/2000_members_wow/">Read here</a>.</p>
+<p><figure>
+  <a href="/images/images/sailorzelda.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<p>Hello,</p>
+<p>I’m Hobart. I’ve been working on this project for a while now. It doesn’t really have a purpose or an end goal — I just want to draw and write about nice things, and I’m learning a lot on the way.
+Welcome to everyone new here. I don’t really have anything to sell, I’d just like to thank you for tuning in and checking Vekllei out.</p>
+<p>I’ve drawn Tzipora here as a sort of Sailor Moon knock-off. Good show that. The Japanese intro is very nostalgic, I’d love to do a little animated short in that style.</p>
+<p>I post about twice a week. I do a bit of everything — machines, maps, characters, landscapes, architecture, etc. I’m truly a master of none.</p>
+<p>You can come join the Discord if you’d like — it’s just a quiet community to share interests and talk: discord.gg/dCE6vSU</p>
+<p>Otherwise, I’ll keep doing what I’m doing and you can keep liking my stuff (please). If you have any questions about the project, or just want to introduce yourselves, here’s a good place to do it!
+Thank you kindly to all commenters, readers and friends of the project, whether you’ve been here for years or for six hours — it’s very special to have so many people interested in work that’s so close to my heart.</p>
+<p>Keep on keeping on,</p>
+<p>Hobart</p>
+<hr>
+<h3 id="absolute-quiet">
+  Absolute Quiet
+  <a class="anchor" href="#absolute-quiet">#</a>
+</h3>
+<p><strong>📖 Published 24th August 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/if77nc/absolute_quiet/">Read here</a>.</p>
+<p><figure>
+  <a href="/images/images/missile.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<p><strong>There were plumes in the sky</strong>, sent from bunkers buried deep in the well of the Earth, killing with switches. Vekllei went to war, and so Tzipora went to war with it.</p>
+<p>The throbbing machinery of another world began turning, and anyone who saw the bomb would hear it. Passing seconds dislocated and caught heartbeats. The plumes were pretty. It was such a shame, those plumes. It was a quiet afternoon in the flower-tundras.</p>
+<p>There was an absolute quiet among the grasses, and peace in her heart. She had work to do. She was a warden, after all — and she’d done a good job spotting the missile before the sirens caught up. In truth, any devastation seemed incomprehensible. The flower-tundra would last forever. But that was her job, and she had to do it.</p>
+<p>She left her bucket by the freshwater creek, intending to retrieve it a while later. The drinking water tasted better up here. She turned from the plume and followed the moss path out of the flower-tundra. Her village was before her.</p>
+<p>So ended the old ways and so started the new.</p>
+<hr>
+<h3 id="rural-newda-in-rural-vekllei">
+  Rural Newda in Rural Vekllei
+  <a class="anchor" href="#rural-newda-in-rural-vekllei">#</a>
+</h3>
+<p><strong>📖 Published 17th August 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/iavx9l/rural_newda_in_rural_vekllei/">Read here</a>.</p>
+<p><figure>
+  <a href="/images/images/house.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<p><em>New gouache brushes, this painting was done on a single layer. turned out pretty good. more paintings to come.</em></p>
+<p><a href="https://www.reddit.com/r/vekllei/comments/ed8zwv/life_and_death_in_vekllei_apartment_ideology_or/">Newda is Vekllei’s national architectural ideology</a>, applied flexibly in a range of modernist styles developed domestically in her architecture schools. Broadly, Newda buildings emphasise distinction from the surrounding landscape (called Dumousiantopet, or ‘beautiful and seperate’), natural decay, and honesty in material and construction. Vekllei’s great Parliament House is Newda; as are the little rural homes found in the mountains inland in Vekllei.</p>
+<p>Tzipora’s house in the village of Montre-Lola (<a href="/images/railmap.jpg">as depicted on the map here</a>) is built in what Vekllei calls “Azores revivalism”, a Newda style heavily influenced by the stripped deco and streamline moderne buildings of a century prior. It is part of a constant conversation Newda holds with its past, as both a deeply modernist, progressive school and one bound up in the wider aesthetic and cultural traditions of Upen, the spiritualism of Vekllei.</p>
+<p>Her house is small, but appears larger due to the layout of the structure. A small sleeping loft sits atop the living, bathing and cooking areas of the home, and opens out into a private rooftop garden. The utilities tower also hides a small staircase leading to the roof, which is also accessible for outdoor recreation. Her home stands amidst the farmland of Montre-Lola, and very near the library and primary school where she works. Her property is marked at its end by a creek that runs into the Dentre River. She has a vegetable garden in her backyard, and shares her paddocks with her neighbours for grazing periodically throughout the year.</p>
+<p>Her house was erected in gratitude by her neighbours out of prefab components, and assisted by a “construction line,” — a temporary rail line in which goods are delivered and cranes are supported, minimising the need for lorries. Houses of this type and period are rarely seen in agricultural settings in other countries, but in Vekllei, where Landscape has been abolished, there might as well be no difference between a building suitable for the cosmopolitan, coastal cities and a dwelling for a farmer-girl.</p>
+<hr>
+<h3 id="the-thousand-year-old-girl">
+  The Thousand-Year-Old Girl
+  <a class="anchor" href="#the-thousand-year-old-girl">#</a>
+</h3>
+<p><strong>📖 Published 12th August 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/i7tl9c/the_thousandyearold_girl/">Read here</a>.</p>
+<p><figure>
+  <a href="/images/images/gregori.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<p><strong>The concept of living forever</strong> jumps out at people uncomfortable with their own existence. There is a contemplative instinct among educated people that — if they could simply will themselves into a state of self-actualisation — death would only be an obstacle to greatness.</p>
+<p>As Tzipora found out quickly, the opposite was true — death and temporality were wells of meaning against which all great people, beauty, and human constructions were cast.</p>
+<p>Tzipora Desmoisnes is what is known as a Gregori Baby, a catch-all term for a unique genetic condition that has seemingly produced a variety of miracle children appropriate for the frothing futurism of the atomic age — boys and girls who, suspended in the purity and good-naturedness of childhood — live forever.</p>
+<p>There is no single “Gregori Baby” — each is unique, and Tzipora is the 13th to have been recognised overall. The phrase is a shortening of Gregori-Heitzfeld syndrome, a stand-in for medical information that isn’t there. The first, Gregori Hordiyenko, was born in 2024. He was healthy, and died of unrelated causes in his 20s. Tzipora, at 13th, continues to live to this day and is the oldest person on Earth.</p>
+<p>There is a disturbing trend among the Gregori children, first heralded as miracles and symptoms of the space age, to deteriorate medically as more are born. The culprit is the malfunctioning of telomeres in their DNA — the source of their longevity — which regularly produce devastating chromosomal disorders, including Trisomy 13 &amp; 18, killing most “ageless children” before their third birthday. Those that survive are often victims of a severe anaphylaxis caused by a hyperactive immune system — rendering many of them permanently sickly. Others find themselves unageing, but continue to grow — reaching as tall as 2.5m before their bodies give out from exhaustion and osteoporosis.</p>
+<p>So what is Gregori syndrome? What does your average (healthy) Gregori baby look like? Their genetic miracle is linked to the structures of the body that activate at puberty, and so girls vary between 11-16 years of age at onset depending on many factors that affect their development. Boys tend to be a little younger, from 8-14. Between the two, girls tend to be more stable, and all but two of the supercentenarian Gregori children are female.</p>
+<p>Among girls, they are prepubescent and generally stop ageing on the eve of menarche, or their first period. In Tzipora’s case, her body is estimated to be 13 years and 11 months old. Unlike many Gregori children, Tzipora lives in a wealthy country and has volunteered for extensive research into her genetic makeup, meaning that much of early medical documentation around Gregori-Heitzfeld syndrome was received directly from her case.</p>
+<p>Most obvious is that, at a foundational level, her cells are similar in function to unipotent stem cells, and have been since hormones at the end of thelarche suspended her ageing. This change has occurred somewhere in her DNA — exactly where is unknown — but the end result is that, unlike regular progenitor cells that make up most adult bodies, the building blocks of her body are capable of cell-renewal. Her telomeres, the endcaps of chromosomal DNA in mammals, are undamaged. And so there is an amazing shift in her basic human structure — in which human cell lineage, which usually ends in a mature cell incapable of division, is caught and rearranged. With this considered, it is no wonder that Gregori children suffer from such catastrophic chromosomal instability, and why healthy ageless babies are a rarity. Her body is not exactly a “body of stem cells,” but for their function in a healthy Gregori child, they might as well be.</p>
+<p>So it is that nothing about Tzipora is changing. She suffers from pains in her legs often — called growing pains, although they are not from growing — and her cells continue to replenish, albeit at a rate 1.25 times that of normal people. She is, in essence, “growing” as any other premenarchal girl would, but she is not getting bigger or becoming older.</p>
+<p>Tzipora is blessed with an adult life in Vekllei, where the “Child” does not exist as it does in the West, and her individual freedoms are far-ranging. She may smoke, and drink, and has held many different jobs in her life. She holds two doctorates in English and Vekllei Literature. She is obviously sterile — even if she were to somehow “age out” of prepubescence into pubescence and receive the required hormones, she simply lacks the genetic code to reproduce — but raises many children through her active participation in village life and her roles as Montre-Lola’s municipal and school librarian.</p>
+<p>In other countries, with coded roles for children, their problems are much greater. Unable to form adult relationships and often incapable of finding work, many work in entertainment or fall into poverty as they outlive their friends and parents. Socially ostracised and forever young, many are victims of superstition and fear. As the pattern of Gregori children indicates an increase in mortality, even as more are born, their appearance is both a miracle and a tragedy — ageing not through mitosis but through weathering the societies in which they live.</p>
+<hr>
+<h3 id="the-31st-century--vekllei-throughout-our-solar-system">
+  The 31st Century — Vekllei throughout our Solar System
+  <a class="anchor" href="#the-31st-century--vekllei-throughout-our-solar-system">#</a>
+</h3>
+<p><strong>📖 Published 9th August 2020 |</strong>
+<a href="https://www.reddit.com/r/vekllei/comments/i6528h/the_31st_century_vekllei_throughout_our_solar/">Read here</a>.</p>
+<p><figure>
+  <a href="/images/images/apricot.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<p><strong>We’ve spent a lot of time in the 21st century</strong> — but Tzipora is biologically immortal. Where does she go from here? Well, let’s enjoy a small glimpse at that future together, by winding the clock forward one thousand years.</p>
+<p>By 3076, our Solar System is a pleasant place to be. Most of the planets we once gazed at from afar are now habitable and lived on. The Great Epoch of Rest has begun.</p>
+<p>There is no great interstellar empire, no rise and fall of spacefaring supernations — a Vekllei way of life is now lived out in multicultural, prosperous clusters of people across our Solar System. The ordinary person is afforded incredible freedoms previously reserved for science fiction through the accessibility of personal light spacecraft, translated literally as “boats”.</p>
+<p>This here is the M-7000 APRICOT, manufactured by the Government Aerospace Factories (GAF) of Vekllei. Many companies are contracted by the GAF, including <a style="color: rgb(53, 156, 103)" href="/general-reactor/"><span class="fi fi-min-general-reactor fis"></span> General Reactor</a>, to whom this boat lends most of its flight control systems and all of its power plant. It is a light, personal boat for women built in 2807, making it relatively unique in both its 28th century design language and its gendered marketing. While the personal boat market was growing rapidly by this time, the vast majority of owners and pilots were men. The APRICOT set out to change that, and Tzipora, the world’s oldest living person with a youthful face, was among the first to demonstrate the accessibility and freedoms of space travel for women and girls in the personal boat market. It was her first boat, and despite its orientation for women it was christened with a male name: BARON.</p>
+<p>It is a comfortable and pleasant craft that can be lived in for extended periods of time. Tzipora has done just that, travelling to stars in search of water-planets with Micronesian archipelagos, where she likes to spend most of her time. Its glass roof across the entire accessible cabin, including bubbled cockpit, gives it breathtaking visibility in the depths of space and the most scenic of planets alike. Like almost all spacecraft, it is unarmed, save for the pacifying “jazz” electric canon, named for its firing sound reminiscent of a double bass strum.</p>
+<p>When she tires of being alone, she returns to her hometown of Montre-Lola in Vekllei frequently. Boats are usually parked at off-world stations, preserving the aerospace and quiet of the Solar System.
+Light speed is exceeded through superluminal travel. So-called black boxes require extraordinarily precise programming, since superluminal travel is in all ways but name time travel, and the universe does not tolerate time travel. Coordinates calculated in the universal pyramid system by a pyramid computer ensure that a vessel arrives when it arrives, so to speak. The alternative is going nowhere at all — there is no in-between.</p>
+<p>Superluminal systems are affected by gravity, so any person looking to exceed the speed of light and subsequently visit other stars must take the highways beyond our home system’s planetary orbit and launch into so-called free-travel from there. There are only a handful of these highways — the solar system is very, very large, and human construction is very, very small.</p>
+<p>There was an instinct among many people that human progress would naturally scale exponentially — these were extrapolated from the remarkable progress in the lifetime of Tzipora’s parents and grandparents, who saw canvas aircraft in their childhood advance to the landing of a man on the moon, and again in her own exaggerated lifetime, in which the provinciality of her youth has simultaneously seen an expansion and exploitation of the planets in our native solar system.</p>
+<p>This curve of progress was not to be, however — and it also explains why we had such trouble meeting aliens in the first place. Part of it was simply that there are very few worlds with water that also formed earthlike landmasses nearby — there are many aliens, and Tzipora has seen many herself, but most of them are fish and fish-adjacent. The second is that, if there is civilised life out there, it has most probably encountered the same engineering truths that humanity did, in our great interstellar project of the last thousand years. Namely that, all accounted for, there is no use for wasteful megastructures when a small one will do. People are having less children — on Mars, Mercury and Neptune, the population is actually shrinking. What good is the so-called “ocean liner of the stars,” with a capacity of millions? There are around 12 billion people across the solar system today. Maybe another 8 billion in the Ala system. Maybe a few millions more who have simply given up society for scattered stars in our neighbourhood.</p>
+<p>It is likely that if any other civilised races exist, they are simply of our scale, or have destroyed themselves completely in the reckless pursuit of expansion. Humanity is lucky not to count themselves among them.</p>
+<p>The APRICOT is one of many models produced by Vekllei’s Government Aerospace Factories. It is now possible for the ordinary person to explore distant stars for themselves, granting freedoms unimaginable in a previous age. Such is life in the Great Epoch of Rest.</p>
+<hr>
+<h2 id="vi-the-post-office">
+  VI. The Post Office
+  <a class="anchor" href="#vi-the-post-office">#</a>
+</h2>
+<h3 id="not-a-particularly-environmentalist-bunch-veklleis-feminist-natureculture-new">
+  Not a Particularly Environmentalist Bunch: Vekllei’s Feminist Natureculture [NEW]
+  <a class="anchor" href="#not-a-particularly-environmentalist-bunch-veklleis-feminist-natureculture-new">#</a>
+</h3>
+<p><strong>BY MILKY#0144</strong></p>
+<p><em>All direct quotes are from Melon’s Reddit posts or saved from his previous website.</em></p>
+<p>Think about nature. Picture it in your mind. What do you see? Are there any buildings? Do you see your friends, or any people at all? What adjectives might you use to describe it? How do you interact with nature in your mind?</p>
+<p>There is a divide between human society and what is considered ‘nature’ – landscapes, national parks or forests, beaches, mountain trails, campgrounds&hellip; Nature is often seen as a place you visit and a place you come home from. A temporary escape from societal woes. A vacation spot; perhaps someplace nostalgic. A special area, with boundaries and signs and info centers, that should be protected. It has also been seen as something owed to humans – wilderness to be tamed and dominated, or land to be cleared, excavated, drilled, and paved for capitalist human use.</p>
+<p>Traditional environmental ethics heavily involves romantic, heroic, and nurturing narratives in regard to the relationship among humans, nonhuman animals, and this ‘nature.’ Empathy, care, and connection have been key in ecofeminist discourse on environmentalism and nonhuman animal rights. These values are traditionally feminine, and environmentalism is often seen as feminine as a result. Terms like treehugger exemplify the feminine care given by environmentalists. Another term, ‘soy boy,’ does not necessarily point to environmentalists, but ‘soy’ being a feminine quality implies alternatives to animal products being something only for women.</p>
+<p>Parallel to environmentalism being a feminine work, nature is often coded as female. Mother Nature nurtures living beings, feeding plants and animals alike. Western romantic authors wrote comparisons between women and nature and were inspired by both alike. They are something beautiful to look at and something to find inspiration in. They are pure and untouched until man/humans tame and mold them.</p>
+<p>“Vekllei is a fundamentally female country. This is what petticoat society means.” This does not mean that the feminised, pure, idealised nature persists. Take our protagonist Tzipora for example. She is female, yet not an idealised maternal woman that could possibly be confused for a Mother Nature figure. She is an eternal child, neither pure or innocent, nor in need of care and protection. If we consider the following quote, however, we can see how Tzipora’s situation reflects or is reflected in Vekllei’s unique environmentalist situation: “Vekllei is not alienated from its landscape but exists very much within it. Vekllei people do not consider themselves different from nature &ndash; they exist alongside everything else in the landscape. Their environment is not exploited, and so its protection is not necessitated through its abstraction and alienation, of which environmentalism is a symptom (as a reaction to exploitation).” Though Tzipora is very different from the rest of her community, she is not alienated from those around her. She is enmeshed in Vekllei’s culture and society and dutifully participates in school and work. She is inseparable from her environment.</p>
+<p>In fact, “Vekllei has abolished landscape, deconstructing its vicious abstractionism.” In Vekllei, nature is not seen as ‘other’ or as romantically female, and this binary of human/nature has been removed. Of course, it is impossible to abolish landscape and our artist would not paint and describe such rich landscapes if they no longer existed. Paintings of Vekllei often depict Zelda and co., concrete buildings, and railways contrasted with the country’s rolling hills, grassy plains, and volcanic rock. The combination of humans and both their built and ‘natural’ environs is what makes up the Vekllei landscape, as there is no separation in Vekllei between nature and society. Everything in each painting is the natural landscape of Vekllei.</p>
+<p>So, what has been abolished is the idea that nature is another place, something separate than the culture of Vekllei. In the 2020 Vekllei Handbook, MelonKony writes: “We are not a particularly environmentalist bunch, since we&rsquo;re not alienated from our land, and we’re certainly not sentimental, but we do understand the relationship our lives have with our surrounds, and the utility and protection of nature is important to us as a lifestyle and a spiritual tenant of Upen.”</p>
+<p>If the respectful utility and protection of nature is important, wouldn’t such a way of living with nature, being human as part of the natural world, lead to environmentalism? Not necessarily. “Nature is a fellow social organ, like society or family, and so Vekllei is not ‘environmentalist’ in the Western idea of the word but instead makes use of and protects its natural environment for the benefit of both themselves and the land.”</p>
+<p>Think now about what surrounds you. The air, your room, your home, your town, and beyond. When you think about what is important to you about the natural world, imagine what your Ghibli/Tintin landscape would look like. Don’t forget to include the buildings and people in your orbit. There is no real boundary between you and the community you live and work in and the larger “natural world.” It is all part of the natural world. No need to call yourself particularly environmentalist even if you care about the world around you. You are still just as enmeshed with nature as our Vekllei friends are.</p>
+<hr>
+<h2 id="vii-gallery">
+  VII. Gallery
+  <a class="anchor" href="#vii-gallery">#</a>
+</h2>
+<p><strong>Warning: this gallery includes the postcards distributed to patrons.</strong> If you’re a patron and have not yet received your postcards, you might want to wait until they’ve arrived.</p>
+<p>This month’s sketches, presented without context or or standards of quality. Contact Hobart at <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a> for full-res versions of any images received in this bulletin.</p>
+<h3 id="postcard-1--tzipora-in-vekllei-national-dress">
+  Postcard 1 — Tzipora in Vekllei National Dress
+  <a class="anchor" href="#postcard-1--tzipora-in-vekllei-national-dress">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/postcards/1.png"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<h3 id="postcard-2--baron-ayn-moise-cobian-and-tzipora">
+  Postcard 2 — Baron, Ayn, Moise, Cobian and Tzipora
+  <a class="anchor" href="#postcard-2--baron-ayn-moise-cobian-and-tzipora">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/postcards/2.png"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<h3 id="postcard-3--tzipora-the-school-librarian">
+  Postcard 3 — Tzipora the School Librarian
+  <a class="anchor" href="#postcard-3--tzipora-the-school-librarian">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/postcards/3.png"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<h3 id="postcard-4--cobian-sleeps-over">
+  Postcard 4 — Cobian Sleeps Over
+  <a class="anchor" href="#postcard-4--cobian-sleeps-over">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/postcards/4.png"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<h3 id="postcard-5--cobian-catches-a-ride-home">
+  Postcard 5 — Cobian Catches a Ride Home
+  <a class="anchor" href="#postcard-5--cobian-catches-a-ride-home">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/postcards/5.png"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<h3 id="postcard-6--spring-cleaning-at-the-desmoisnes-household">
+  Postcard 6 — Spring Cleaning at the Desmoisnes Household
+  <a class="anchor" href="#postcard-6--spring-cleaning-at-the-desmoisnes-household">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/postcards/6.png"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+
+  </a>
+
+
+  
+   
+</figure></p>
+<hr>
+<h4 id="posts-this-month-6">
+  POSTS THIS MONTH: 6
+  <a class="anchor" href="#posts-this-month-6">#</a>
+</h4>
+<h4 id="posts-last-month-6">
+  POSTS LAST MONTH: 6
+  <a class="anchor" href="#posts-last-month-6">#</a>
+</h4>
+<p><em>Published by MillMint Press. Copyright 2020. To stop receiving these emails send UNSUBSCRIBE to <a href="mailto:melonkony@icloud.com">melonkony@icloud.com</a>.</em></p>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="https://millmint.net/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/millmint/">MillMint</a>
+</li>
+
+
+<li
+>
+    <a href="">Bulletin</a>
+</li>
+
+
+<li
+>
+    <a href="https://millmint.net/millmint/bulletin/2020/">The Atlantic Bulletin Archive</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="https://millmint.net/millmint/bulletin/2020/4/">Issue 4 | August 2020</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 16/05/2024</span>
+    <span class="pill">
+      <div class="pill-category">millmint</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Issue 4 | August 2020</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
+</body>
+
+</html>
