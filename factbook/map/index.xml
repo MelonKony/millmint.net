@@ -17,5 +17,23 @@
 	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/map/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Route Map</title>
+	  <link>https://millmint.net/factbook/map/route-map/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/map/route-map/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>

@@ -5107,6 +5107,33 @@ This was a hard month, evidenced in part by the smaller number of posts. Persona
 	</item>
 	
 	<item>
+	  <title>Scouts Learning to Shoot</title>
+	  <link>https://millmint.net/stories/scouts/</link>
+	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/scouts/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Scouts learning to shoot feat. Kefra, from the excellent @choitukaee It&rsquo;s not unusual for Vekllei scouts to learn to shoot. They learn for combat, not for sport, and often practice shooting standing and with irons.
+Not all scouts learn to shoot, just as not all conscripts go and fight.
+Instead, casual familiarity with firearms bolsters a general confidence in their independence from Europe and the Americas, and indicates the principles of their free and self-managing localism.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/scouts.jpg"/> <blockquote class="note caption">
+  <span class="text">Scouts learning to shoot feat. Kefra, from the excellent <a href="https://x.com/choitukaee">@choitukaee</a></span>
+</blockquote>
+
+<p>It&rsquo;s not unusual for <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> scouts to learn to shoot. They learn for combat, not for sport, and often practice shooting standing and with irons.</p>
+<p>Not all scouts learn to shoot, just as not all conscripts go and fight.</p>
+<p>Instead, casual familiarity with firearms bolsters a general confidence in their independence from Europe and the Americas, and indicates the principles of their free and self-managing localism.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Canteen Wine</title>
 	  <link>https://millmint.net/stories/canteen-wine/</link>
 	  <pubDate>Thu, 16 May 2024 08:00:00 EST</pubDate>
@@ -21633,8 +21660,10 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </details>
 <details>
 <summary>Missile Fleet</summary>
-* 2 Arsenal Ships
-* 6 Ballistic Missile Submarines
+<ul>
+<li>2 Arsenal Ships</li>
+<li>6 Ballistic Missile Submarines</li>
+</ul>
 </details>
 </details>
 <details>
@@ -21676,9 +21705,9 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 <summary>Coastal Artillery Service</summary>
 <p>The Coastal Artillery Service provides coastal fortification and defence for Vekllei republics, including counter-battery fire, raiding, and ship boarding.</p>
 </details>
-<h3 id="span-classnaviconspan-aeronautical--space-services">
-  <span class="navicon">✈️</span> Aeronautical &amp; Space Services
-  <a class="anchor" href="#span-classnaviconspan-aeronautical--space-services">#</a>
+<h3 id="span-classnaviconspan-aeronautical--astronautical-services">
+  <span class="navicon">✈️</span> Aeronautical &amp; Astronautical Services
+  <a class="anchor" href="#span-classnaviconspan-aeronautical--astronautical-services">#</a>
 </h3>
 <p>The Aeronautical &amp; Space Services include the air supremacy, interception and defence elements, as well as services to supply and equip them. They also consist of the missile and air detection elements of the armed forces.</p>
 <details>
@@ -21744,6 +21773,13 @@ The No. 5 Aeromarine Wing provides equipment and crew for the Commonwealth Fleet
 The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime Service</a>.
 <ul>
 <li>No. 38-41 Marine Squadrons</li>
+</ul>
+</li>
+<li><strong>No. 10 Bombing Wing</strong>
+<br>
+The No. 10 Bombing Wing comprises the strategic bombing aircraft in Vekllei.
+<ul>
+<li>No. 42-45 Bombing Squadrons</li>
 </ul>
 </li>
 </ul>
@@ -21821,6 +21857,11 @@ The Aerorifles are the aircraft and crew component of an interarmes air-mobile p
 <li>210 No. 8 Casemate Atomic Fighters</li>
 <li>33 No. 7 Demon Atomic Fighters</li>
 </ul>
+<p><strong>Bombers</strong></p>
+<ul>
+<li>22 Strategic Bombers</li>
+<li>16 Medium Bombers</li>
+</ul>
 <p><strong>Maritime and Patrol Aircraft</strong></p>
 <ul>
 <li>16 Long Range Search &amp; Rescue Turboprop Aircraft</li>
@@ -21876,11 +21917,11 @@ The No. 1 Air Artillery Regiment</li>
   <summary>Air Artillery Service Equipment</summary>
 <p><strong>Missile Systems</strong></p>
 <ul>
-<li>25 Truck</li>
+<li>25 No. 8 Javelin (Truck)</li>
 <li>25 Truck</li>
 <li>15 Trailer</li>
 <li>1200 missile platform</li>
-<li>12 Tracker Carriers</li>
+<li>12 Tracked Carriers</li>
 </ul>
 <p><strong>Man-Portable &amp; AA Guns</strong></p>
 <ul>
@@ -21911,6 +21952,22 @@ The No. 1 Air Artillery Regiment</li>
 </details>
 <details>
 <summary>Missiles Service</summary>
+<p>The <strong>Missiles Service</strong> is the tactical and strategic missile defence organisation of the military. They operate mostly from ground sites across the country, located mostly on isolated islands or in the Arctic. They also operate some rail-mounted launch systems that are stationed deep inside tunnels.</p>
+<details>
+<summary>Missiles Service Equipment</summary>
+<p><strong>Ballistic Missiles</strong></p>
+<ul>
+<li>Estimated 16 No. 3 ICBMs</li>
+<li>Estimated 40 No. 6 IRBMs</li>
+<li>Estimated 26 No. 6 SRBMs</li>
+<li>Estimated 100 No. 2 SLAM Cruise Missiles</li>
+</ul>
+<p><strong>Trucks &amp; Cars</strong></p>
+<ul>
+<li>80 Multi-Purpose Utility Vehicle</li>
+<li>12 Military Truck</li>
+</ul>
+</details>
 </details>
 <h3 id="span-classnaviconspan-land-and-army-services">
   <span class="navicon">🗡️</span> Land and Army Services
@@ -21919,12 +21976,14 @@ The No. 1 Air Artillery Regiment</li>
 <details>
 <summary>Territorial Service</summary>
 <p>The Vekllei <strong>Territorial Service</strong> is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the <a href="/factbook/society/state/government/ministries/defence/military/#commonwealth-guard">Commonwealth Guard</a> and are federalised the same way, but are distinguished by their professional service and expeditionary posture.</p>
-<p>At full strength in its current organisation it has</p>
+<p>In Vekllei, military units are roughly organised as &lsquo;regiments&rsquo; of 1,000 men and &lsquo;sections&rsquo; of 100.</p>
 <p><strong>Organisation</strong></p>
+<p>Vekllei has a professional combat army of around 45,000 soldiers, 6,000 of which are commandos that suit its expeditionary and interventionist strategic posture.</p>
+<p>Including the Guards and Popular Guards, which serve roles as reservists and partisan militias respectively, that number exceeds a million during wartime.</p>
 <details>
   <summary>Commonwealth Rifles</summary>
-<p>Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. Rifles are mechanised with armoured cars.</p>
-<p>Policy is to have a standing army 50,000 strong, but the 26th-50th Rifles regiments are activated as they are combat-ready, and so the 50th and 49th are often deactivated between training.</p>
+<p>Rifles regiments consist of 1,000 men, and can be assembled into larger divisional units. Regiment numbers are administrative only and so can change, and regiments are identified with inherited names with honours instead. All Rifles servicemen are also part of a Guards regiment as per the Vekllei federal militia system. Rifles are mechanised with armoured cars.</p>
+<p>Policy is to have a standing army 35,000 strong, but Rifles regiments are activated as they are combat-ready, and so the 19th and 20th are often deactivated between training.</p>
 <ul>
 <li><strong>Rifles Regiments</strong>
 <ul>
@@ -21934,95 +21993,79 @@ The No. 1 Air Artillery Regiment</li>
 <li><strong>Aerorifles Regiments</strong>
 <ul>
 <li>21st-24th Aerorifles Regiments</li>
-<li>25th-32nd Marine Rifles Regiments</li>
 </ul>
 </li>
-<li><strong>Rifles Regiments</strong>
+<li><strong>Marine Rifles Regiments</strong>
 <ul>
-<li>33rd-48th Rifles Regiments</li>
+<li>25th-32nd Marine Rifles Regiments</li>
 </ul>
 </li>
 <li><strong>Special Warfare Regiments</strong>
 <ul>
-<li>49th Chemical Regiment</li>
-<li>50th Nuclear Regiment</li>
+<li>33rd Chemical Regiment</li>
+<li>34th Nuclear Regiment</li>
 </ul>
 </li>
 <li><strong>Armoured Rifles Regiments</strong>
 <br>
-The Armoured Rifles are mechanised with infantry fighting vehicles and tracked APCs and function as shock infantry.
+The Armoured Rifles are mechanised with infantry fighting vehicles and function as shock infantry.
 <ul>
-<li>51st-52nd Armoured Rifles Regiments</li>
-</ul>
-</li>
-</ul>
-</details>
-<details>
-  <summary>Commonwealth Guards</summary>
-<p>The Commonwealth Guard is the national militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.</p>
-<h6 id="1st-6th-regiments">
-  1st-6th Regiments
-  <a class="anchor" href="#1st-6th-regiments">#</a>
-</h6>
-<ul>
-<li><strong>Democracy &amp; Civic Regiments</strong>
-<ul>
-<li>Civil Affairs Regiments</li>
-<li>Military Police Regiments</li>
-<li>Military Intelligence Regiments</li>
+<li>35th-36th Armoured Rifles Regiments</li>
 </ul>
 </li>
 </ul>
 </details>
 <details>
   <summary>Commonwealth Commandos</summary>
+<p>Commandos in Vekllei are highly trained, professional soldiers with an expeditionary character. While often trained for remote and tactical combat, they are also commonly used to lead interarmes services that include regular rifle infantry.</p>
+<p>The 1st-3rd commandos include regional special forces sections for polar, equatorial and lunar warfare. The 6th specialises in unconventional and psychological warfare.</p>
 <ul>
-<li><strong>Commando Regiments</strong>
+<li><strong>Commandos Regiments</strong>
 <ul>
-<li>1st-5th Commandos Regiments</li>
-<li>6th-7th Airborne Commandos Regiments</li>
-<li>8th-9th Marine Commandos Regiments</li>
-<li>10th Special Activities Regiment</li>
-</ul>
-</li>
-<li><strong>Regional Special Forces Regiments</strong>
-<ul>
-<li>11th Arctic Regiment</li>
-<li>12th North Atlantic Regiment</li>
-<li>13th Africa Regiment</li>
-<li>14-16th Equatorial Regiments</li>
-<li>17th Antarctic Regiment</li>
-<li>18th Lunar Regiment</li>
-</ul>
-</li>
-<li><strong>Guards</strong>
-<ul>
-<li>19th-22nd Commmonwealth Guards Regiments</li>
-</ul>
-</li>
-<li><strong>Armoured Regiments</strong>
-<ul>
-<li>23rd-25th Armoured Regiments</li>
-</ul>
-</li>
-<li><strong>Artillery</strong>
-<ul>
-<li>25th-32nd Cannons Regiments</li>
-</ul>
-</li>
-<li><strong>Special Forces</strong>
-<ul>
-<li>Psychological Warfare Regiments</li>
-<li>Space Operations Regiments</li>
+<li>1st-3rd Commandos Regiments</li>
+<li>4th Airborne Commandos Regiment</li>
+<li>5th Marine Commandos Regiment</li>
+<li>6th Special Activities Regiment</li>
 </ul>
 </li>
 </ul>
 </details>
 <details>
-  <summary>Strategic Security Service</summary>
+  <summary>Commonwealth Javelins</summary>
+<p>Javelin regiments are the Vekllei name for armoured units, and represent the bulk main battle tank force. They are designed to operate with rifles regiments in interarmes formations.</p>
+<p><strong>Javelin Regiments</strong></p>
+<ul>
+<li>1st-2nd Javelin Regiments</li>
+<li>3rd Javelin Scouts Regiment</li>
+</ul>
 </details>
 <details>
-<summary>Patrol Service</summary>
+  <summary>Commonwealth Guards</summary>
+<p>The Commonwealth Guard is the federal militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.</p>
+<p>Guards units are numbered in context to their home <a href="/republics/">republic</a>, i.e. <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> has Guards regiments numbering 1st-12th.</p>
+</details>
+<details>
+  <summary>Commonwealth Popular Guards</summary>
+<p>The Popular Guards are the volunteer militia groups found across the country. They reflect the Vekllei concept of the citizen-soldier, and are distinct from regular guards/reservists by their level of training and organisation. They are strictly volunteer, and are raised and organised by gendarmes of the <a style="color: var(--color-defence)" href="/police-of-the-parliament/"><span class="fi fi-min-parliament-police fis"></span> Police of the Parliament</a>. They number perhaps a million if mobilised totally, and would function as a saboteur and partisan force in the event of war.</p>
+</details>
+<details>
+  <summary>Commonwealth Security Service</summary>
+<p>The Commonwealth Security Service is the military police of the territorial service, and primarily provides base security, military intelligence and policing for enlisted servicemen.</p>
+<p><strong>Security Service Regiments</strong></p>
+<ul>
+<li>1st-4th Security Regiments</li>
+<li>5th-6th Strategic Security Regiments</li>
+<li>7th Security Intelligence Regiment</li>
+</ul>
+</details>
+<details>
+<summary>Commonwealth Patrol Service</summary>
+<p>The Patrol Service is the armed border guard of Vekllei. While all Vekllei borders are found at sea and involve the Littoral Service, the Patrol Service provides onshore security and policing.</p>
+<p>Although the service is organised into regiments, their formations are better reflected by their regional sections.</p>
+<p><strong>Patrol Service Regiments</strong></p>
+<ul>
+<li>1st-8th Patrol Regiments</li>
+</ul>
 </details>
 <p><strong>Equipment</strong></p>
 <details>
@@ -22067,7 +22110,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and tracked A
   <a class="anchor" href="#trucks--cars">#</a>
 </h5>
 <ul>
-<li>2,500 Multi-Purpose Utility Vehicle</li>
+<li>3,600 Multi-Purpose Utility Vehicle</li>
 <li>3,560 Military Truck</li>
 <li>30 High-Mobility Transporters</li>
 </ul>
@@ -26056,11 +26099,15 @@ A minister leaders a ministry and reports to a public servant.]]>
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Part of the industry series of articles Commonwealth Airways State Corporation of Vekllei Parent Ministry of the Commons Bureau Bureau of Aerospace Industry Airline Headquarters Oslola Founded 1923, as Commonwealth Royal Airways Employees 23,600 Traded as CMA Accounted Revenue AK ✾ 25.2 billion S.c.L. Commonwealth Airways (formerly Commonwealth Royal Airways) is the flag carrier of Vekllei and its largest airline. It is a government-owned corporation jointly owned by the Bureau of Aerospace, and operates most of the country&rsquo;s civil air infrastructure.]]>
+	  <![CDATA[Part of the industry series of articles See the Commonwealth Airways Route Map Commonwealth Airways State Corporation of Vekllei Parent Ministry of the Commons Bureau Bureau of Aerospace Industry Airline Headquarters Oslola Founded 1923, as Commonwealth Royal Airways Employees 23,600 Traded as CMA Accounted Revenue AK ✾ 25.2 billion S.c.L. Commonwealth Airways (formerly Commonwealth Royal Airways) is the flag carrier of Vekllei and its largest airline. It is a government-owned corporation jointly owned by the Bureau of Aerospace, and operates most of the country&rsquo;s civil air infrastructure.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> <blockquote class="note series">
+	 	<![CDATA[<img src="/svg/maps/route-map.png"/> <blockquote class="note series">
   <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note series">
+  <span class="text">See the <a href="/route-map/">Commonwealth Airways Route Map</a></span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
@@ -35261,6 +35308,24 @@ Diagram of the a Polis administration and its structure There are a few criteria
 </ul>
 </details>
 ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Route Map</title>
+	  <link>https://millmint.net/factbook/map/route-map/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/map/route-map/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
   	</content:encoded>
 	</item>
 	

@@ -18,6 +18,33 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Scouts Learning to Shoot</title>
+	  <link>https://millmint.net/stories/scouts/</link>
+	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/stories/scouts/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Scouts learning to shoot feat. Kefra, from the excellent @choitukaee It&rsquo;s not unusual for Vekllei scouts to learn to shoot. They learn for combat, not for sport, and often practice shooting standing and with irons.
+Not all scouts learn to shoot, just as not all conscripts go and fight.
+Instead, casual familiarity with firearms bolsters a general confidence in their independence from Europe and the Americas, and indicates the principles of their free and self-managing localism.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/scouts.jpg"/> <blockquote class="note caption">
+  <span class="text">Scouts learning to shoot feat. Kefra, from the excellent <a href="https://x.com/choitukaee">@choitukaee</a></span>
+</blockquote>
+
+<p>It&rsquo;s not unusual for <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> scouts to learn to shoot. They learn for combat, not for sport, and often practice shooting standing and with irons.</p>
+<p>Not all scouts learn to shoot, just as not all conscripts go and fight.</p>
+<p>Instead, casual familiarity with firearms bolsters a general confidence in their independence from Europe and the Americas, and indicates the principles of their free and self-managing localism.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Teabag</title>
 	  <link>https://millmint.net/stories/teabag/</link>
 	  <pubDate>Sat, 04 May 2024 08:00:00 EST</pubDate>
