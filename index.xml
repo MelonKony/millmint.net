@@ -19986,55 +19986,6 @@ The International Youth Meet is a games hosted biannually. Tzipora is representi
 	</item>
 	
 	<item>
-	  <title></title>
-	  <link>https://millmint.net/maps/horizon/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/maps/horizon/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[<!DOCTYPE html> ]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> <!DOCTYPE html>
-<html = style="height: 100%;">
-  <head>
-	<title>Horizon Map</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
-	<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
-  </head>
-  
-  <body style="height: 100%;margin: 0;" class="show-all-images">
-	<div id="map" style="width: 100%; height: 100%; background: #000000;"></div>
-	<script type="text/javascript">
-  //Creating the Map
-	var map = L.map('map').setView([0, 0], 0);
-	L.tileLayer('map/{z}/{x}/{y}.png', {
-	  continuousWorld: false,
-	  noWrap: true,  
-	  minZoom: 0,
-	  maxZoom: 10,
-	}).addTo(map);
-  //Coordinate Finder
-	var marker = L.marker([0, 0], {
-	  draggable: true,
-	}).addTo(map);
-	marker.bindPopup('LatLng Marker').openPopup();
-	marker.on('dragend', function(e) {
-	  marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
-	});
-  //Markers
-	</script>
-  </body>
-</html>]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>72 Hours</title>
 	  <link>https://millmint.net/snapshots/72-hours/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -21989,6 +21940,24 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 </ol>
 </div>
 ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Ascension Map</title>
+	  <link>https://millmint.net/factbook/maps/ascension/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/maps/ascension/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
   	</content:encoded>
 	</item>
 	
@@ -25836,6 +25805,24 @@ A minister leaders a ministry and reports to a public servant.]]>
 <p>It operates adjacent to but independently from the <a style="color: rgb(247, 85, 85)" href="/GAF/"><span class="fi fi-min-gaf fis"></span> Government Aircraft Factories</a>, and is centralised around federal plants in <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and <a style="color: rgb(215, 18, 45)" href="/kairi/"><span class="fi fi-kairi"></span> Kairi</a> rather than devolved among many <a href="/republics/">republics</a>. It conducts advanced research into emerging aircraft technologies with a primarily military mission. It is the preferred contractor of the Air Service.</p>
 <p>It trades on the <a style="color: rgb(2, 121, 190)" href="/commsec/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a> as CAC, and is the eleventh largest aircraft manufacturer in the world by market cap.</p>
 ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Commonwealth AirlinesRoute Map</title>
+	  <link>https://millmint.net/factbook/maps/route-map/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/maps/route-map/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
   	</content:encoded>
 	</item>
 	
@@ -35031,24 +35018,6 @@ Diagram of the a Polis administration and its structure There are a few criteria
 	</item>
 	
 	<item>
-	  <title>Route Map</title>
-	  <link>https://millmint.net/factbook/map/route-map/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>https://millmint.net/factbook/map/route-map/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>Rum Republic</title>
 	  <link>https://millmint.net/factbook/world/vekllei/lucaya/rum/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -38046,6 +38015,24 @@ The groups, known as WAGs, are formed by a general call for volunteers in munici
 </ul>
 <p>WAGs are commonplace in Vekllei society and one of the purer expressions of the culture of mutual obligation in their communities. Volunteers are highly respected, and participation (known as being &ldquo;on the WAG&rdquo;) can benefit social standing and opportunities for employment. Any Vekllei person can petition the creation of a Work Action Group by submitting a notice to the <a style="color: var(--color-labour)" href="/ministry-of-labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a>, or their municipality.</p>
 ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>World Map</title>
+	  <link>https://millmint.net/factbook/maps/world/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>https://millmint.net/factbook/maps/world/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
   	</content:encoded>
 	</item>
 	

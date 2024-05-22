@@ -28,7 +28,7 @@
     <link rel="shortcut icon" href='https://millmint.net/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title> - MillMint</title>
+    <title>Commonwealth AirlinesRoute Map - MillMint</title>
 
     
 
@@ -44,19 +44,21 @@
 
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content=" &middot; MillMint" />
+    <meta property="og:title" content="Commonwealth AirlinesRoute Map &middot; MillMint" />
     <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
     <meta property="og:site_name" content="MillMint" />
-    <meta property="og:url" content="https://millmint.net/maps/horizon/" />
+    <meta property="og:url" content="https://millmint.net/factbook/maps/route-map/" />
     <meta property="og:locale" content="en">
     
     <script defer src="/flexsearch.min.js"></script>
-    <script defer src="/en.search.min.d12fc5178edff05742f104fe6b8289315dbf65130f10faefeb311afdea931e09.js" integrity="sha256-0S/FF47f8FdC8QT&#43;a4KJMV2/ZRMPEPrv6zEa/eqTHgk=" crossorigin="anonymous"></script>
+    <script defer src="/en.search.min.0dd1da3eecc308f1e291ae24ac8ac7df7114de6812c0ebe84d24f3281c9d098e.js" integrity="sha256-DdHaPuzDCPHika4krIrH33EU3mgSwOvoTSTzKBydCY4=" crossorigin="anonymous"></script>
     
 
-    </head><body  class="show-all-images">
-    <main>
-        <article class="notebook">
+    </head><link rel="stylesheet" href="https://unpkg.com/iv-viewer/dist/iv-viewer.css">
+
+<body data-color="blue"  class="show-all-images">
+  <main>
+    <div class="map-nav">
 
 <header>
     <div class="brand">
@@ -64,10 +66,6 @@
         <a class="emoji" id="whirlybat" href="/">-millmint</a>
     </div>
 
-    
-    <button id="toc-button" class="navbutton">
-        <span class="navicon">📑</span>
-    </button>
     
 
     <button id="theme-button" class="navbutton">
@@ -91,7 +89,7 @@
                   
                     <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
                   
-                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
                     
                        <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
                     
@@ -99,7 +97,7 @@
     
         <li>
             
-                <a href="/factbook/map/" class="menu-link"><span class="navicon">🗺️</span>Map</a>
+                <div class="menu-link"><span class="navicon">🗺️</span>Map</div>
             
         </li>
     
@@ -419,215 +417,10 @@
 
   checkNewStories()
 </script>
-<section class="page">    
-    <header class="info">
-  <h1 class="title"></h1>
-  <div class="date" style="margin-right: .25rem;"></div>
-  
-  <div class="meta">
-    <span class="icon" style="line-height: 1.2;"></span>
-    <div class="headcrumbs">
-      
-      <ul>
-  
-  
-	
-  
-	
-  
-  <li class="headcrumbs hidden">
-		<a href="/">
-			Home</a>
-  </li>
-
-  
-  <li class="headcrumbs ">
-		<a href="/maps/">
-			Maps</a>
-  </li>
-
-  
-  <li class="headcrumbs hidden">
-		<a href="/maps/horizon/">
-			maps</a>
-  </li>
-
-</ul>
-
-      
-    </div>
-    <div class="article-category">MillMint</div>
-    
-  </div>
-  
-  
-
-  
-  
-  
-
-    
-    
-</header>
-
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
-
-
-<figure>
-  <a href="https://millmint.net/" target="_blank" rel="noopener noreferrer">
-    
-  </a>
-</figure>
-    
-
-<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
-    <div class="desktop-toc-wrapper">
-        <div class="desktop-toc">
-            <details class="dropdown" open=true>
-                <summary>
-                    <a href="#" class="title">
-                        <span></span>
-                        <span class="icon"></span>
-                    </a>
-                </summary>
-            
-            </details>
-        </div>
-    </div>
 </div>
 
-
-
-
-
-
-<details class="mobile toc">
-  <summary>
-    <span class="navicon">📑</span>Table of Contents
-  </summary>
-    
-</details>
-
-
-
-    
-
-<article class="autonumber"  autonumbering>
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-    
-    <!DOCTYPE html>
-<html = style="height: 100%;">
-  <head>
-	<title>Horizon Map</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
-	<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
-  </head>
-  
-  <body style="height: 100%;margin: 0;" class="show-all-images">
-	<div id="map" style="width: 100%; height: 100%; background: #000000;"></div>
-	<script type="text/javascript">
-  //Creating the Map
-	var map = L.map('map').setView([0, 0], 0);
-	L.tileLayer('map/{z}/{x}/{y}.png', {
-	  continuousWorld: false,
-	  noWrap: true,  
-	  minZoom: 0,
-	  maxZoom: 10,
-	}).addTo(map);
-  //Coordinate Finder
-	var marker = L.marker([0, 0], {
-	  draggable: true,
-	}).addTo(map);
-	marker.bindPopup('LatLng Marker').openPopup();
-	marker.on('dragend', function(e) {
-	  marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
-	});
-  //Markers
-	</script>
-  </body>
-</html>
-</article>
-            </section><footer>
-  
-  
-  
-  
-  
-
-  
-
-  <ul  class="breadcrumbs">
-    
-
-
-
-
-
-<li
->
-    <a href="https://millmint.net/">Home</a>
-</li>
-
-
-<li
->
-    <a href="https://millmint.net/maps/">Maps</a>
-</li>
-
-
-<li
- class="active">
-    <a href="https://millmint.net/maps/horizon/"></a>
-</li>
-
-</ul>
-
-
-
-  
-
-
-  <div class="footer">
-    <span class="smalldate">Edited 16/05/2024</span>
-    <span class="pill">
-      <div class="pill-category">maps</div>
-      <div class="pill-icon">🟪</div>
-      <div class="pill-title"></div>
-    </span>
-
-    
-    <div class="redditlink">
-      
-    </div>
-  </div>
-
-  <br>
-
-  
-  <div class="copyright">
-    Copyright © 2017-2024 Studio MillMint
-  </div>
-  
-</footer></article>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
-    </main>
+      <img id="image" src="/svg/maps/route-map.png" data-high-res-src="/svg/maps/route-map.png" />
+  </main>
 
 
 
@@ -641,5 +434,95 @@
     
     <script defer src="/js/millmint.min.fae8037125e2ed1a2bd02e96f6bab0bbc38e26edca4fe6bf429e88224f75723a.js"></script>
 </body>
+
+
+<script src="https://unpkg.com/iv-viewer/dist/iv-viewer.js"></script>
+
+<script type="module">
+  const image = document.querySelector('#image');
+  const viewer = new ImageViewer(image, {maxZoom: 1000, refreshOnResize: false}); 
+</script>
+
+<style>
+  body {
+    background-color: rgb(226 243 253);
+  }
+
+  main {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .iv-snap-image-wrap {
+    width: 100%;
+  }
+
+  .iv-image-view {
+    background: #e2f3fd;
+    padding: .5rem var(--body-background);
+  }
+
+  img.iv-snap-image {
+    margin-top: 0;
+    margin-bottom: 0;
+    visibility: visible !important;
+    width: 100% !important;
+    height: 75px !important;
+  }
+
+  .iv-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 100vh;
+    width: 100vw;  
+    margin-left: calc((100% - 100vw) / 2);   
+  }
+
+  .iv-snap-view {
+      width: 150px;
+      height: 60px;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      border: none;
+      background: black;
+      z-index: 100;
+      box-sizing: content-box;
+      transition: opacity ease 400ms;
+      opacity: 0!important;  
+  }
+
+  .iv-zoom-slider {
+      width: 100%;
+      box-sizing: content-box;
+      border: none;
+      background: rgba(0, 0, 0, 0.3);
+      height: 15px;
+      position: absolute;
+      top: 67px;
+      left: 0;
+  }
+
+  main {
+    position: relative;
+    z-index: 1;
+  }
+
+  .map-nav {
+    margin-top: 1rem;
+    outline: 15px solid var(--body-background);
+    background: var(--body-background);
+    border-radius: .25rem;
+  }
+
+  #notice {
+    margin: 1rem 0 0 0;
+    display: flex;
+    align-items: center;
+  }
+
+</style>
 
 </html>
