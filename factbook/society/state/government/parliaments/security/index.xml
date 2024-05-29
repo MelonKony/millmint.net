@@ -28,14 +28,14 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Noshem is part of the Parliament of Security The Commonwealth Military Command (CMC) is the unifying command organisation for the Armed Forces, responsible ultimately for facilitating Commonwealth control of the armed forces. While republics retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in Vekllei. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a de facto command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.]]>
+	  <![CDATA[Noshem is part of the Security Parliament The Commonwealth Military Command (CMC) is the unifying command organisation for the Armed Forces of Vekllei, responsible ultimately for facilitating Commonwealth control of the armed forces. While republics retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in Vekllei. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a de facto command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></span>
+  <span class="text">Noshem is part of the <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/"><span class=""></span> Security Parliament</a></span>
 </blockquote>
 
-<p>The <em>Commonwealth Military Command</em> (CMC) is the unifying command organisation for the <a style="color: var(--color-defence)" href="/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>, responsible ultimately for facilitating Commonwealth control of the armed forces. While <a href="/republics/">republics</a> retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a <em>de facto</em> command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.</p>
+<p>The <em>Commonwealth Military Command</em> (CMC) is the unifying command organisation for the <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/military/"><span class="fi fi-min-defence fis"></span> Armed Forces of Vekllei</a>, responsible ultimately for facilitating Commonwealth control of the armed forces. While <a href="/republics/">republics</a> retain direct command over the armed forces, defence activities are in practice federalised by default under Commonwealth control, and so the CMC is the primary military command in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. In principle, the CMC accommodates open communication between the Armed Forces and the Commonwealth, but more commonly acts as a <em>de facto</em> command organisation for broad military arrangements outside of direct military administration like defence policy, strategic planning, military infrastructure and logistics, and communications.</p>
 <p>Commonwealth member-states usually maintain their own <a href="/factbook/society/state/government/interior/defence/">defence ministries</a>, and the CMC aims to standardise and consolidate defensive strength across the Commonwealth. It is made up of the following departments.</p>
 <ul>
 <li><strong>General Council</strong>: CMC administration and parliament liaison.</li>
@@ -175,10 +175,10 @@ var random = Math.floor(Math.random() * $('.level').length);
 $('.level').hide().eq(random).show();
 </script>
 <blockquote class="note series">
-  <span class="text">Noshem is part of the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></span>
+  <span class="text">Noshem is part of the <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/"><span class=""></span> Security Parliament</a></span>
 </blockquote>
 
-<p>The <span class="fi fi-min-noshem fis"></span> <strong>Commonwealth Intelligence Service</strong> (<em>National Intelligence</em>, or <em>Noshem</em>) is the secret service of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It is organised into 40 semiautonomous outlines, which each may operate several offices. Noshem&rsquo;s sophisticated intelligence network and broad mandate contribute to its legendary reputation abroad, and conspiracies of its presence in almost every country.</p>
+<p>The <span class="fi fi-min-noshem fis"></span> <strong>Commonwealth Intelligence Service</strong> (<em>National Intelligence</em>, or <em>Noshem</em>) is the secret service of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and the Commonwealth’s primary covert intelligence apparatus abroad. It is concerned with intelligence-gathering, surveillance and operations external to the Commonwealth. It is organised into 40 semiautonomous outlines, which each may operate several offices. Noshem&rsquo;s sophisticated intelligence network and broad mandate contribute to its legendary reputation abroad, and conspiracies of its presence in almost every country.</p>
 <p>Noshem is unique in its broad recruitment of foreigners, many of whom are promised citizenship and residency in Vekllei. Many Noshem outlines recruit locally, and manage foreign assets through Vekllei-born supervisors.</p>
 <blockquote class="note panel">
   <span class="text"><h2 id="executive-council">
@@ -186,9 +186,9 @@ $('.level').hide().eq(random).show();
   <a class="anchor" href="#executive-council">#</a>
 </h2>
 <ul>
-<li><strong>The <a style="color: var(--color-millmint)" href="/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a></strong>, <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></li>
-<li><strong>Senior Minister</strong>, <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></li>
-<li><strong>Intelligence Director</strong>, <a style="color: var(--color-security)" href="/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a>
+<li><strong>The <a class="slink" style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/directory/"><span class=""></span> Directory</a></strong>, <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></li>
+<li><strong>Senior Minister</strong>, <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/"><span class=""></span> Security Parliament</a></li>
+<li><strong>Intelligence Director</strong>, <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/noshem/"><span class=""></span> Noshem</a>
 <ul>
 <li>Senior Analyst
 <ul>
@@ -199,7 +199,7 @@ $('.level').hide().eq(random).show();
 <li>Secretary for Control Authority</li>
 </ul>
 </li>
-<li><strong>Senior Analyst</strong>, <a style="color: var(--color-defence)" href="/defence-imagery-establishment/"><span class="fi fi-min-defence fis"></span> Defence Imagery Establishment</a></li>
+<li><strong>Senior Analyst</strong>, <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/die/"><span class="fi fi-min-defence fis"></span> Defence Imagery Establishment</a></li>
 </ul>
 </span>
 </blockquote>
@@ -261,7 +261,7 @@ $('.level').hide().eq(random).show();
 </h2>
 <ul>
 <li>
-<p><strong>Home Office (HO/NI)</strong>: The <em>Home Office</em> at <em>National Intelligence</em> (HO/NI) is the domestic intelligence organisation of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, including the Home Islands.</p>
+<p><strong>Home Office (HO/NI)</strong>: The <em>Home Office</em> at <em>National Intelligence</em> (HO/NI) is the domestic intelligence organisation of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, including the Home Islands.</p>
 <ul>
 <li><strong>Section 1 <em>Atlantique</em></strong>: Administration and recruitment.</li>
 <li><strong>Section 2 <em>Bohs</em></strong>: Organisation security and democracy-advocate.</li>

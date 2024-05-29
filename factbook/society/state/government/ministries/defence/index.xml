@@ -40,7 +40,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
   Overview
   <a class="anchor" href="#overview">#</a>
 </h2>
-<p>The <span class="fi fi-min-defence fis"></span> <strong>Armed Forces of the Commonwealth</strong> are the military of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and a constituent armed component of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. They comprise the combined armed services of the country, as well as capabilities for public emergencies, law enforcement and civil defence.</p>
+<p>The <span class="fi fi-min-defence fis"></span> <strong>Armed Forces of the Commonwealth</strong> are the military of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and a constituent armed component of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. They comprise the combined armed services of the country, as well as capabilities for public emergencies, law enforcement and civil defence.</p>
 <p>Unlike common practice overseas, Vekllei does not have seperate military branches, and instead administers all aspects of defence as a single armed organisation originating as part of the navy, a term which is still used generally to describe all military services. As a union of island communities, the Vekllei Navy is its historic and contemporary primary means of defence, and Vekllei doctrine favours an integrated command. As such, all air and land warfare is conducted as part of the Navy under a unified defence command.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <p>Because all services operate within the Navy, different roles are organised into different services. For example, the traditional surface navy of the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime Service</a> does not operate its own seaborne aviation, since all aircraft are part of the Navy&rsquo;s <a href="/factbook/society/state/government/ministries/defence/military/#air-service">Air Service</a>. In this context, &ldquo;Navy&rdquo; is a synonym for &ldquo;Military&rdquo; in Vekllei, and equipment, signage and vehicles are marked as such.</p>
 <h2 id="vekllei-armed-services">
@@ -65,7 +65,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 <p>The <strong>Maritime Service</strong> (the <strong>Navy</strong> or <em>Navy of the Public</em>) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines. It comprises three fleets and an auxiliary service, that functions similarly to a republican or federal militia.</p>
 <details>
 <summary>Commonwealth Fleet</summary>
-<p>The Commonwealth Fleet (<em>Sovereign/Federal Fleet</em>) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country&rsquo;s central corridor, a triangular area with points in <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, <a style="color: rgb(33, 131, 67)" href="/verde/"><span class="fi fi-verde"></span> Verde</a> and <a style="color: rgb(69, 81, 202)" href="/summers/"><span class="fi fi-summers"></span></span> Summers</a></p>
+<p>The Commonwealth Fleet (<em>Sovereign/Federal Fleet</em>) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country&rsquo;s central corridor, a triangular area with points in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, <a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/verde/"><span class="fi fi-verde"></span> Verde Republic</a> and </p>
 <ul>
 <li>5 Aircraft Carriers
 <ul>
@@ -223,7 +223,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 <p>The Aeronautical &amp; Space Services include the air supremacy, interception and defence elements, as well as services to supply and equip them. They also consist of the missile and air detection elements of the armed forces.</p>
 <details>
 <summary>Air Service</summary>
-<p>The <strong>Air Service</strong> conducts aerial warfare in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It consists of three commands that specialise in different aspects of air support and supremacy. The Air Service is also a major contributor to other services, since marine and territorial doctrines depend heavily on the air service for their combat capability, combat support, transport, logistics and reconnaissance.</p>
+<p>The <strong>Air Service</strong> conducts aerial warfare in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It consists of three commands that specialise in different aspects of air support and supremacy. The Air Service is also a major contributor to other services, since marine and territorial doctrines depend heavily on the air service for their combat capability, combat support, transport, logistics and reconnaissance.</p>
 <p>Vekllei has a rapid air-mobile posture across its armed forces, which is facilitated by the relative size and availability of its air service. It is also the only service in which women are a majority of participants in combat, since female pilots contribute just over 52% of its servicemen.</p>
 <p><strong>Structure</strong></p>
 <p>There are three commands in the Air Service, which in the secular Vekllei tradition have specific and exclusive functions. The Air Combat Command comprises all primary offensive squadrons including fighters, helicopters and scouts. The Air Auxiliary Command comprises miscellaneous aviation including search and rescue, training and replenishment. The Air Transport Command provides transport for both logistics and combat organisations.</p>
@@ -414,7 +414,7 @@ The Aerorifles are the aircraft and crew component of an interarmes air-mobile p
 </details>
 <details>
 <summary>Air Artillery Service</summary>
-<p>The Air Artillery Service provides air defence in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It operates a variety of emplacements and point defences as part of Vekllei concentric air defence doctrine, but its primary force consists of mobile anti-air and flak systems.</p>
+<p>The Air Artillery Service provides air defence in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It operates a variety of emplacements and point defences as part of Vekllei concentric air defence doctrine, but its primary force consists of mobile anti-air and flak systems.</p>
 <details>
   <summary>Air Artillery Command Structure</summary>
 <p>The <em>Air Artillery Command</em> (ATC) consists of</p>
@@ -553,11 +553,11 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 <details>
   <summary>Commonwealth Guards</summary>
 <p>The Commonwealth Guard is the federal militia and primary reserve force of the Territorial Services. It is federalised by default, and contributes its servicemen for the Rifles and other territorial regiments. As such, all Territorial servicemen are part of a Commonwealth Guards regiment, but in regular service are assigned to active units in other services. Only reservists, trainees and officers remained attached to the Guard while it is federalised.</p>
-<p>Guards units are numbered in context to their home <a href="/republics/">republic</a>, i.e. <a style="color: rgb(88, 90, 190)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a> has Guards regiments numbering 1st-12th.</p>
+<p>Guards units are numbered in context to their home <a href="/republics/">republic</a>, i.e. <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> has Guards regiments numbering 1st-12th.</p>
 </details>
 <details>
   <summary>Commonwealth Popular Guards</summary>
-<p>The Popular Guards are the volunteer militia groups found across the country. They reflect the Vekllei concept of the citizen-soldier, and are distinct from regular guards/reservists by their level of training and organisation. They are strictly volunteer, and are raised and organised by gendarmes of the <a style="color: var(--color-defence)" href="/police-of-the-parliament/"><span class="fi fi-min-parliament-police fis"></span> Police of the Parliament</a>. They number perhaps a million if mobilised totally, and would function as a saboteur and partisan force in the event of war.</p>
+<p>The Popular Guards are the volunteer militia groups found across the country. They reflect the Vekllei concept of the citizen-soldier, and are distinct from regular guards/reservists by their level of training and organisation. They are strictly volunteer, and are raised and organised by gendarmes of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/police-of-the-parliament/"><span class="fi fi-min-defence fis"></span> Police of the Parliament</a>. They number perhaps a million if mobilised totally, and would function as a saboteur and partisan force in the event of war.</p>
 </details>
 <details>
   <summary>Commonwealth Security Service</summary>
@@ -565,7 +565,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 <p><strong>Security Service Regiments</strong></p>
 <ul>
 <li>1st Parliamentary Security Regiment</li>
-<li>2nd Industrial Security Regiment, <a style="color: var(--color-lightandwater)" href="/ministry-of-light-and-water/"><span class="fi fi-min-light-and-water fis"></span> Ministry of Light & Water</a></li>
+<li>2nd Industrial Security Regiment, <a class="slink"  style="color: var(--color-lightandwater); background: color-mix(in srgb, var(--color-lightandwater) 10%, transparent);" href="/factbook/society/state/government/ministries/light-and-water/"><span class="fi fi-min-light-and-water fis"></span> Ministry of Light &amp; Water</a></li>
 <li>3rd-4th Security Regiments</li>
 <li>5th-6th Strategic Security Regiments</li>
 <li>7th Security Intelligence Regiment</li>
@@ -733,7 +733,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
+  <span class="text">This bureau is part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <p>The <em>Bureau of Supply</em> is a specialised defence organ that coordinates supply and logistics for the Crown Armed Forces and security services of Vekllei, including its policing and intelligence services. The Bureau of Supply also administrates the network of Crown Ordnance Factories and the production and acquisition of aircraft and vehicles. It is not responsible for strategic decisions about the make and type of supply, only the facilitation and distribution of the purchase.</p>
@@ -756,7 +756,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
+  <span class="text">This bureau is part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <p>The <em>Armed Forces of Vekllei</em>, arranged under the COSMOKOS ministry, are unusual in that they do not have control directly over troops or equipment. The actual armed forces of Vekllei, known as the <a href="/factbook/society/state/palace/military/">Crown Armed Forces</a>, are a sovereign feature of the country and as such are placed under direct supervision of the <a href="/factbook/society/state/palace/">Palace of Vekllei</a> &ndash; seperate from the Vekllei and Commonwealth governments.</p>
@@ -807,23 +807,23 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	
 	<item>
 	  <title>Defence Imagery Establishment</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/cie/</link>
+	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/die/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/cie/</guid>
+	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/die/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[This bureau is part of the Ministry of Defence The Defence Imagery Establishment provides geospatial and topographic intelligence to Vekllei and its intelligence community, including the Armed Forces. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.]]>
+	  <![CDATA[This bureau is part of the Ministry of Defence The Defence Imagery Establishment provides geospatial and topographic intelligence to Vekllei and its intelligence community, including the Armed Forces of Vekllei. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">This bureau is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
+  <span class="text">This bureau is part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
-<p>The <span class="fi fi-min-defence fis"></span> <strong>Defence Imagery Establishment</strong> provides geospatial and topographic intelligence to <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its intelligence community, including the <a style="color: var(--color-defence)" href="/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.</p>
+<p>The <span class="fi fi-min-defence fis"></span> <strong>Defence Imagery Establishment</strong> provides geospatial and topographic intelligence to <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its intelligence community, including the <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/military/"><span class="fi fi-min-defence fis"></span> Armed Forces of Vekllei</a>. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.</p>
 ]]>
   	</content:encoded>
 	</item>
@@ -844,10 +844,10 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">DSRE is part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
+  <span class="text">DSRE is part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a> and <a class="slink" style="color: rgb(0, 155, 113); background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);" href="/factbook/society/state/government/ministries/commonwealth/siro/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
-<p>The <span class="fi fi-min-dsre fis"></span> <strong>Commonwealth Defence Science Research Establishment</strong> (DSRE) is a research organisation of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. It is a part of <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a> and is the primary government military research organisation in <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is also the largest constituent research establishment of <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a>, and has nearly 25,000 employees across many offices, research complexes, and secure facilities.</p>
+<p>The <span class="fi fi-min-dsre fis"></span> <strong>Commonwealth Defence Science Research Establishment</strong> (DSRE) is a research organisation of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. It is a part of <a class="slink" style="color: rgb(0, 155, 113); background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);" href="/factbook/society/state/government/ministries/commonwealth/siro/"><span class="fi fi-min-siro fis"></span> SIRO</a> and is the primary government military research organisation in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is also the largest constituent research establishment of <a class="slink" style="color: rgb(0, 155, 113); background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);" href="/factbook/society/state/government/ministries/commonwealth/siro/"><span class="fi fi-min-siro fis"></span> SIRO</a>, and has nearly 25,000 employees across many offices, research complexes, and secure facilities.</p>
 <p>The DSRE has extensive connections throughout the Commonwealth defence industry, and regularly collaborates with industry here and abroad. It is a major contributor to Vekllei sciences and several DSRE inventions have trickled down to the public, including the permanent pleat and instaskin.</p>
 <blockquote class="note panel">
   <span class="text"><h2 id="executive-council">
@@ -855,17 +855,17 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
   <a class="anchor" href="#executive-council">#</a>
 </h2>
 <ul>
-<li><strong>Director</strong>, <a style="color: var(--color-defence)" href="/DSRE/"><span class="fi fi-min-dsre fis"></span> DSRE</a>
+<li><strong>Director</strong>, <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/dsre/"><span class="fi fi-min-dsre fis"></span> DSRE</a>
 <ul>
 <li>Chief Defence Scientist</li>
 <li>Officer for Strategic Policy</li>
 <li>Secretary for Ordnance</li>
 </ul>
 </li>
-<li><strong>Secretary for Procurement</strong>, <a style="color: var(--color-defence)" href="/bureau-of-supply/"><span class="fi fi-min-defence fis"></span> Bureau of Supply</a></li>
+<li><strong>Secretary for Procurement</strong>, <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/bureau-of-supply/"><span class="fi fi-min-defence fis"></span> Bureau of Supply</a></li>
 <li><strong>Chairman</strong>, DSRE Industry Board</li>
 <li><strong>Director</strong>, Defence Research Intelligence Establishment</li>
-<li><strong>Director</strong>, <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></li>
+<li><strong>Director</strong>, <a class="slink" style="color: rgb(0, 155, 113); background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);" href="/factbook/society/state/government/ministries/commonwealth/siro/"><span class="fi fi-min-siro fis"></span> SIRO</a></li>
 </ul>
 </span>
 </blockquote>
@@ -956,7 +956,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 </h2>
 <ul>
 <li><strong>DSRE Industry Board</strong>: Partner representatives from industry for public-private research.</li>
-<li><strong>Defence Research Intelligence Establishment</strong>: Counter-espionage organisation joined with the <a style="color: var(--color-security)" href="/opsec/"><span class="fi fi-min-security fis"></span> Parliament of Security</a></li>
+<li><strong>Defence Research Intelligence Establishment</strong>: Counter-espionage organisation joined with the <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/"><span class=""></span> Security Parliament</a></li>
 </ul>
 </span>
 </blockquote>
@@ -980,7 +980,7 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">The Police of the Parliament are part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
+  <span class="text">The Police of the Parliament are part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <blockquote class="note link">
@@ -1085,7 +1085,7 @@ Municipal (public) vs Commonwealth (parliament) police.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">The Police of the Public are part of the <a style="color: var(--color-defence)" href="/ministry-of-defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
+  <span class="text">The Police of the Public are part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
 <blockquote class="note link">

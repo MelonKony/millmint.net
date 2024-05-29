@@ -28,14 +28,14 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[MSRE is part of the Parliament of Health and SIRO The Commonwealth Medical Science Research Establishment (MSRE) is a research organisation of the Parliament of Health.]]>
+	  <![CDATA[MSRE is part of the Health Parliament and SIRO The Commonwealth Medical Science Research Establishment (MSRE) is a research organisation of the Health Parliament.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">MSRE is part of the <a style="color: var(--color-health)" href="/helsec/"><span class="fi fi-min-health fis"></span> Parliament of Health</a> and <a style="color: rgb(0, 155, 113)" href="/SIRO/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
+  <span class="text">MSRE is part of the <a class="slink"  style="color: var(--color-health); background: color-mix(in srgb, var(--color-health) 10%, transparent);" href="/factbook/society/state/government/parliaments/health/"><span class=""></span> Health Parliament</a> and <a class="slink" style="color: rgb(0, 155, 113); background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);" href="/factbook/society/state/government/ministries/commonwealth/siro/"><span class="fi fi-min-siro fis"></span> SIRO</a></span>
 </blockquote>
 
-<p>The <span class="fi fi-min-health fis"></span> <strong>Commonwealth Medical Science Research Establishment</strong> (MSRE) is a research organisation of the  <a style="color: var(--color-health)" href="/helsec/"><span class="fi fi-min-health fis"></span> Parliament of Health</a>.</p>
+<p>The <span class="fi fi-min-health fis"></span> <strong>Commonwealth Medical Science Research Establishment</strong> (MSRE) is a research organisation of the  <a class="slink"  style="color: var(--color-health); background: color-mix(in srgb, var(--color-health) 10%, transparent);" href="/factbook/society/state/government/parliaments/health/"><span class=""></span> Health Parliament</a>.</p>
 ]]>
   	</content:encoded>
 	</item>
