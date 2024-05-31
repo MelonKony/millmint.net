@@ -32,7 +32,7 @@
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">Helvasia is part of the <a class="slink" style="color: rgb(); background: color-mix(in srgb, rgb() 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic</a></span>
+  <span class="text">Helvasia is part of the <a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic</a></span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
