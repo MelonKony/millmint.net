@@ -126,60 +126,6 @@
 	</item>
 	
 	<item>
-	  <title>Isuri</title>
-	  <link>/characters/isuri/</link>
-	  <pubDate>Fri, 05 Jan 2024 08:00:00 EST</pubDate>
-	  
-	  <guid>/characters/isuri/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Yo</title>
-	  <link>/characters/yo/</link>
-	  <pubDate>Sun, 03 Dec 2023 08:00:00 EST</pubDate>
-	  
-	  <guid>/characters/yo/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Kowalczyk</title>
-	  <link>/characters/kowalczyk/</link>
-	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
-	  
-	  <guid>/characters/kowalczyk/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>Nincic</title>
 	  <link>/characters/nincic/</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
@@ -629,6 +575,50 @@ She is sensitive and diplomatic, and is well-liked for her sense of justice and 
 	</item>
 	
 	<item>
+	  <title>Isuri</title>
+	  <link>/characters/isuri/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/isuri/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Isuri is a student who lives in Mira, and works at United Grocers. She has no idea what she&rsquo;s going to do with her life. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note gray">
+  <span class="text">Isuri is a student who lives in Mira, and works at <a class="slink" style="color: rgb(98, 186, 85); background: color-mix(in srgb, rgb(98, 186, 85) 10%, transparent);" href="/factbook/society/industry/municipal/united-grocers/"><span class="fi fi-min-united-grocers fis"></span> United Grocers</a>. She has no idea what she&rsquo;s going to do with her life.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Kowalczyk</title>
+	  <link>/characters/kowalczyk/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/kowalczyk/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Simon Kowalczyk is Tzipora&rsquo;s civics teacher. She gets along with him well. He might have a crush on Ms Nincic. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note gray">
+  <span class="text">Simon Kowalczyk is Tzipora&rsquo;s civics teacher. She gets along with him well. He might have a crush on <a href="/characters/nincic/">Ms Nincic</a>.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Lin Zhi</title>
 	  <link>/characters/zhi/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -745,6 +735,28 @@ Though born to Vekllei parents, she was raised overseas in Colombia and was late
 <p>She is a Catholic, but has a confrontational relationship with God and only attends mass on holidays, and usually prays to Mary instead. She also has Jewish ancestry and observes some Jewish holidays and traditions while living with Baron.</p>
 <p>Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many people that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.</p>
 </details>]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Yo</title>
+	  <link>/characters/yo/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/yo/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Yo Queismesnah is Cobian&rsquo;s older brother. He&rsquo;s moved out of home and spends most of his time travelling and partying. He now lives in the Cama Republic. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note gray">
+  <span class="text">Yo Queismesnah is <a href="/characters/cobian/">Cobian&rsquo;s</a> older brother. He&rsquo;s moved out of home and spends most of his time travelling and partying. He now lives in the <a class="slink" style="color: rgb(2, 123, 93); background: color-mix(in srgb, rgb(2, 123, 93) 10%, transparent);" href="/factbook/world/vekllei/kalina/cama/"><span class="fi fi-gd"></span> Cama Republic</a>.</span>
+</blockquote>
+
+]]>
   	</content:encoded>
 	</item>
 	
