@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ayn</title>
-	<link>https://millmint.net/characters/ayn/</link>
+	<link>/characters/ayn/</link>
 	<description>Recent content in Ayn </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/ayn/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/ayn/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Family</title>
-	  <link>https://millmint.net/stories/family/</link>
+	  <link>/stories/family/</link>
 	  <pubDate>Thu, 14 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/family/</guid>
+	  <guid>/stories/family/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -41,10 +41,10 @@
 	
 	<item>
 	  <title>Vekllei 2024</title>
-	  <link>https://millmint.net/stories/2024/</link>
+	  <link>/stories/2024/</link>
 	  <pubDate>Mon, 01 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2024/</guid>
+	  <guid>/stories/2024/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -63,10 +63,10 @@
 	
 	<item>
 	  <title>Christmas Lamb</title>
-	  <link>https://millmint.net/stories/christmas-lamb/</link>
+	  <link>/stories/christmas-lamb/</link>
 	  <pubDate>Thu, 28 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-lamb/</guid>
+	  <guid>/stories/christmas-lamb/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -85,10 +85,10 @@
 	
 	<item>
 	  <title>Personal Defence</title>
-	  <link>https://millmint.net/stories/pdw/</link>
+	  <link>/stories/pdw/</link>
 	  <pubDate>Tue, 05 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/pdw/</guid>
+	  <guid>/stories/pdw/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -115,10 +115,10 @@ Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a dome
 	
 	<item>
 	  <title>Heatwave</title>
-	  <link>https://millmint.net/stories/heatwave/</link>
+	  <link>/stories/heatwave/</link>
 	  <pubDate>Wed, 06 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/heatwave/</guid>
+	  <guid>/stories/heatwave/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -138,10 +138,10 @@ Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a dome
 	
 	<item>
 	  <title>The Analyst</title>
-	  <link>https://millmint.net/stories/analyst/</link>
+	  <link>/stories/analyst/</link>
 	  <pubDate>Fri, 02 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/analyst/</guid>
+	  <guid>/stories/analyst/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -167,10 +167,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Happy New Year</title>
-	  <link>https://millmint.net/stories/2022/</link>
+	  <link>/stories/2022/</link>
 	  <pubDate>Sat, 01 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2022/</guid>
+	  <guid>/stories/2022/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -190,10 +190,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Generations</title>
-	  <link>https://millmint.net/stories/cyclical/</link>
+	  <link>/stories/cyclical/</link>
 	  <pubDate>Wed, 09 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cyclical/</guid>
+	  <guid>/stories/cyclical/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -217,10 +217,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Vekllei&#39;s New-Age Women</title>
-	  <link>https://millmint.net/stories/women/</link>
+	  <link>/stories/women/</link>
 	  <pubDate>Thu, 01 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/women/</guid>
+	  <guid>/stories/women/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -280,10 +280,10 @@ When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreig
 	
 	<item>
 	  <title>A New Year</title>
-	  <link>https://millmint.net/stories/rocket/</link>
+	  <link>/stories/rocket/</link>
 	  <pubDate>Tue, 05 Jan 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rocket/</guid>
+	  <guid>/stories/rocket/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -311,10 +311,10 @@ When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreig
 	
 	<item>
 	  <title>A Most Beautiful Woman</title>
-	  <link>https://millmint.net/stories/beautiful-woman/</link>
+	  <link>/stories/beautiful-woman/</link>
 	  <pubDate>Fri, 12 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/beautiful-woman/</guid>
+	  <guid>/stories/beautiful-woman/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -340,10 +340,10 @@ It wasn’t just her features or figure that captured Tzipora’s attention — 
 	
 	<item>
 	  <title>Introducing Ayn</title>
-	  <link>https://millmint.net/stories/ayn/</link>
+	  <link>/stories/ayn/</link>
 	  <pubDate>Sat, 14 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ayn/</guid>
+	  <guid>/stories/ayn/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -365,10 +365,10 @@ It wasn’t just her features or figure that captured Tzipora’s attention — 
 	
 	<item>
 	  <title>A Brief Introduction to Vekllei</title>
-	  <link>https://millmint.net/stories/an-introduction/</link>
+	  <link>/stories/an-introduction/</link>
 	  <pubDate>Tue, 03 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/an-introduction/</guid>
+	  <guid>/stories/an-introduction/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -409,10 +409,10 @@ In fact, Vekllei is not a particularly challenging idea.]]>
 	
 	<item>
 	  <title>The participatory economy of Vekllei</title>
-	  <link>https://millmint.net/stories/participatory-economy/</link>
+	  <link>/stories/participatory-economy/</link>
 	  <pubDate>Tue, 07 May 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/participatory-economy/</guid>
+	  <guid>/stories/participatory-economy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

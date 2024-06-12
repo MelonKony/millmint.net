@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Introduction</title>
-	<link>https://millmint.net/sitetag/introduction/</link>
+	<link>/sitetag/introduction/</link>
 	<description>Recent content in Introduction </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/introduction/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/sitetag/introduction/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Boroughs</title>
-	  <link>https://millmint.net/factbook/world/boroughs/</link>
+	  <link>/factbook/world/boroughs/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/</guid>
+	  <guid>/factbook/world/boroughs/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

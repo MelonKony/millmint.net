@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Essays</title>
-	<link>https://millmint.net/millmint/essays/</link>
+	<link>/millmint/essays/</link>
 	<description>Recent content in Essays </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/essays/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/millmint/essays/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Ghibli</title>
-	  <link>https://millmint.net/millmint/essays/ghibli/</link>
+	  <link>/millmint/essays/ghibli/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/ghibli/</guid>
+	  <guid>/millmint/essays/ghibli/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -908,10 +908,10 @@ This thesis was completed in partial fulfillment of Bachelor of Media (Honours).
 	
 	<item>
 	  <title>On Moneylessness</title>
-	  <link>https://millmint.net/millmint/essays/moneylessness/</link>
+	  <link>/millmint/essays/moneylessness/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/moneylessness/</guid>
+	  <guid>/millmint/essays/moneylessness/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1045,10 +1045,10 @@ This essay was written in December 2021. <a href="/posts/2021-12-09-moneylessnes
 	
 	<item>
 	  <title>Hong Kong</title>
-	  <link>https://millmint.net/millmint/essays/hongkong/</link>
+	  <link>/millmint/essays/hongkong/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/hongkong/</guid>
+	  <guid>/millmint/essays/hongkong/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1081,10 +1081,10 @@ This article was <strong>originally published</strong> in <strong>October 2019</
 	
 	<item>
 	  <title>A Cashless Tokyo</title>
-	  <link>https://millmint.net/millmint/essays/tokyo/</link>
+	  <link>/millmint/essays/tokyo/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/tokyo/</guid>
+	  <guid>/millmint/essays/tokyo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1139,10 +1139,10 @@ This article was <strong>originally published</strong> in <strong>December 2018<
 	
 	<item>
 	  <title>A Social Economy</title>
-	  <link>https://millmint.net/millmint/essays/social-economy/</link>
+	  <link>/millmint/essays/social-economy/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/social-economy/</guid>
+	  <guid>/millmint/essays/social-economy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1347,10 +1347,10 @@ This project is grounded in the real world, and so it attempts to answer real-wo
 	
 	<item>
 	  <title>The West Coast of Tasmania</title>
-	  <link>https://millmint.net/millmint/essays/west/</link>
+	  <link>/millmint/essays/west/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/west/</guid>
+	  <guid>/millmint/essays/west/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1800,10 +1800,10 @@ These photos were taken across two trips to the West Coast of Tasmania. The firs
 	
 	<item>
 	  <title>Utopie Concrète</title>
-	  <link>https://millmint.net/millmint/essays/utopie/</link>
+	  <link>/millmint/essays/utopie/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/utopie/</guid>
+	  <guid>/millmint/essays/utopie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1868,10 +1868,10 @@ This essay was written in June 2021. <a href="/posts/2021-06-26-utopie">Click he
 	
 	<item>
 	  <title>Waugh</title>
-	  <link>https://millmint.net/millmint/essays/waugh/</link>
+	  <link>/millmint/essays/waugh/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/waugh/</guid>
+	  <guid>/millmint/essays/waugh/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Horizon</title>
-	<link>https://millmint.net/categories/horizon/</link>
+	<link>/categories/horizon/</link>
 	<description>Recent content in Horizon </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Thu, 15 Sep 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/horizon/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/horizon/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Lola, Borough of Genesis</title>
-	  <link>https://millmint.net/stories/lola/</link>
+	  <link>/stories/lola/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lola/</guid>
+	  <guid>/stories/lola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -97,10 +97,10 @@
 	
 	<item>
 	  <title>Story Trailer</title>
-	  <link>https://millmint.net/stories/trailer/</link>
+	  <link>/stories/trailer/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trailer/</guid>
+	  <guid>/stories/trailer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -119,10 +119,10 @@
 	
 	<item>
 	  <title>Stories from the Horizon</title>
-	  <link>https://millmint.net/stories/horizon/</link>
+	  <link>/stories/horizon/</link>
 	  <pubDate>Thu, 01 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/horizon/</guid>
+	  <guid>/stories/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

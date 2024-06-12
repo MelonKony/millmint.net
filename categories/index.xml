@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Categories</title>
-	<link>https://millmint.net/categories/</link>
+	<link>/categories/</link>
 	<description>Recent content in Categories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sun, 19 May 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Sketch</title>
-	  <link>https://millmint.net/categories/sketch/</link>
+	  <link>/categories/sketch/</link>
 	  <pubDate>Sun, 19 May 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/sketch/</guid>
+	  <guid>/categories/sketch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -38,10 +38,10 @@
 	
 	<item>
 	  <title>Story</title>
-	  <link>https://millmint.net/categories/story/</link>
+	  <link>/categories/story/</link>
 	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/story/</guid>
+	  <guid>/categories/story/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -56,10 +56,10 @@
 	
 	<item>
 	  <title>Commission</title>
-	  <link>https://millmint.net/categories/commission/</link>
+	  <link>/categories/commission/</link>
 	  <pubDate>Thu, 04 Apr 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/commission/</guid>
+	  <guid>/categories/commission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -74,10 +74,10 @@
 	
 	<item>
 	  <title>Comic</title>
-	  <link>https://millmint.net/categories/comic/</link>
+	  <link>/categories/comic/</link>
 	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/comic/</guid>
+	  <guid>/categories/comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -92,10 +92,10 @@
 	
 	<item>
 	  <title>Characters</title>
-	  <link>https://millmint.net/categories/characters/</link>
+	  <link>/categories/characters/</link>
 	  <pubDate>Mon, 31 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/characters/</guid>
+	  <guid>/categories/characters/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -110,10 +110,10 @@
 	
 	<item>
 	  <title>Landscape</title>
-	  <link>https://millmint.net/categories/landscape/</link>
+	  <link>/categories/landscape/</link>
 	  <pubDate>Mon, 31 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/landscape/</guid>
+	  <guid>/categories/landscape/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -128,10 +128,10 @@
 	
 	<item>
 	  <title>Character</title>
-	  <link>https://millmint.net/categories/character/</link>
+	  <link>/categories/character/</link>
 	  <pubDate>Mon, 10 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/character/</guid>
+	  <guid>/categories/character/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -146,10 +146,10 @@
 	
 	<item>
 	  <title>Author</title>
-	  <link>https://millmint.net/categories/author/</link>
+	  <link>/categories/author/</link>
 	  <pubDate>Fri, 14 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/author/</guid>
+	  <guid>/categories/author/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -164,10 +164,10 @@
 	
 	<item>
 	  <title>Horizon</title>
-	  <link>https://millmint.net/categories/horizon/</link>
+	  <link>/categories/horizon/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/horizon/</guid>
+	  <guid>/categories/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -182,10 +182,10 @@
 	
 	<item>
 	  <title>Archive</title>
-	  <link>https://millmint.net/categories/archive/</link>
+	  <link>/categories/archive/</link>
 	  <pubDate>Mon, 05 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/archive/</guid>
+	  <guid>/categories/archive/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -200,10 +200,10 @@
 	
 	<item>
 	  <title>Bulletin</title>
-	  <link>https://millmint.net/categories/bulletin/</link>
+	  <link>/categories/bulletin/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/bulletin/</guid>
+	  <guid>/categories/bulletin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -218,10 +218,10 @@
 	
 	<item>
 	  <title>Commonwealth</title>
-	  <link>https://millmint.net/categories/commonwealth/</link>
+	  <link>/categories/commonwealth/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/commonwealth/</guid>
+	  <guid>/categories/commonwealth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -236,10 +236,10 @@
 	
 	<item>
 	  <title>Documents</title>
-	  <link>https://millmint.net/categories/documents/</link>
+	  <link>/categories/documents/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/documents/</guid>
+	  <guid>/categories/documents/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -254,10 +254,10 @@
 	
 	<item>
 	  <title>Intro</title>
-	  <link>https://millmint.net/categories/intro/</link>
+	  <link>/categories/intro/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/intro/</guid>
+	  <guid>/categories/intro/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -272,10 +272,10 @@
 	
 	<item>
 	  <title>News</title>
-	  <link>https://millmint.net/categories/news/</link>
+	  <link>/categories/news/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/news/</guid>
+	  <guid>/categories/news/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -290,10 +290,10 @@
 	
 	<item>
 	  <title>Society</title>
-	  <link>https://millmint.net/categories/society/</link>
+	  <link>/categories/society/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/categories/society/</guid>
+	  <guid>/categories/society/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

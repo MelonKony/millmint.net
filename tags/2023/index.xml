@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>2023</title>
-	<link>https://millmint.net/tags/2023/</link>
+	<link>/tags/2023/</link>
 	<description>Recent content in 2023 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Fri, 29 Dec 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/2023/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Just Tzipora</title>
-	  <link>https://millmint.net/stories/frog-girl/</link>
+	  <link>/stories/frog-girl/</link>
 	  <pubDate>Fri, 29 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/frog-girl/</guid>
+	  <guid>/stories/frog-girl/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -42,10 +42,10 @@
 	
 	<item>
 	  <title>Christmas Lamb</title>
-	  <link>https://millmint.net/stories/christmas-lamb/</link>
+	  <link>/stories/christmas-lamb/</link>
 	  <pubDate>Thu, 28 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-lamb/</guid>
+	  <guid>/stories/christmas-lamb/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -64,10 +64,10 @@
 	
 	<item>
 	  <title>Starched</title>
-	  <link>https://millmint.net/stories/starched/</link>
+	  <link>/stories/starched/</link>
 	  <pubDate>Sun, 24 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/starched/</guid>
+	  <guid>/stories/starched/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -86,10 +86,10 @@
 	
 	<item>
 	  <title>Novel</title>
-	  <link>https://millmint.net/stories/novel/</link>
+	  <link>/stories/novel/</link>
 	  <pubDate>Sat, 23 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/novel/</guid>
+	  <guid>/stories/novel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -108,10 +108,10 @@
 	
 	<item>
 	  <title>Nabbed</title>
-	  <link>https://millmint.net/stories/nabbed/</link>
+	  <link>/stories/nabbed/</link>
 	  <pubDate>Fri, 22 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/nabbed/</guid>
+	  <guid>/stories/nabbed/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -142,10 +142,10 @@ Their police reflects this; local cops have broad informal powers unthinkable ov
 	
 	<item>
 	  <title>Helijets</title>
-	  <link>https://millmint.net/stories/helijets/</link>
+	  <link>/stories/helijets/</link>
 	  <pubDate>Mon, 11 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/helijets/</guid>
+	  <guid>/stories/helijets/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -188,10 +188,10 @@ The No. 5 &ldquo;Hera&rdquo; is a versatile jet with five light engines suitable
 	
 	<item>
 	  <title>Commission</title>
-	  <link>https://millmint.net/stories/commission-by-lecanard/</link>
+	  <link>/stories/commission-by-lecanard/</link>
 	  <pubDate>Sat, 09 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/commission-by-lecanard/</guid>
+	  <guid>/stories/commission-by-lecanard/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -213,10 +213,10 @@ Very happy with the outcome, please give him your business if you want a nice pi
 	
 	<item>
 	  <title>Sausage Roll</title>
-	  <link>https://millmint.net/stories/sausage-roll/</link>
+	  <link>/stories/sausage-roll/</link>
 	  <pubDate>Thu, 07 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sausage-roll/</guid>
+	  <guid>/stories/sausage-roll/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -236,10 +236,10 @@ Very happy with the outcome, please give him your business if you want a nice pi
 	
 	<item>
 	  <title>Personal Defence</title>
-	  <link>https://millmint.net/stories/pdw/</link>
+	  <link>/stories/pdw/</link>
 	  <pubDate>Tue, 05 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/pdw/</guid>
+	  <guid>/stories/pdw/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -266,10 +266,10 @@ Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a dome
 	
 	<item>
 	  <title>Ready to Dance</title>
-	  <link>https://millmint.net/stories/lounge/</link>
+	  <link>/stories/lounge/</link>
 	  <pubDate>Sun, 03 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lounge/</guid>
+	  <guid>/stories/lounge/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -289,10 +289,10 @@ Although her weapon is obviously inspired by the uzi, it&rsquo;s actually a dome
 	
 	<item>
 	  <title>The Montevideo</title>
-	  <link>https://millmint.net/stories/frigate/</link>
+	  <link>/stories/frigate/</link>
 	  <pubDate>Thu, 30 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/frigate/</guid>
+	  <guid>/stories/frigate/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -315,10 +315,10 @@ The Aurora-class has a huge internal magazine stocked with missiles that can kil
 	
 	<item>
 	  <title>Waiting in the Hall</title>
-	  <link>https://millmint.net/stories/waiting-in-the-hall/</link>
+	  <link>/stories/waiting-in-the-hall/</link>
 	  <pubDate>Tue, 28 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/waiting-in-the-hall/</guid>
+	  <guid>/stories/waiting-in-the-hall/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -338,10 +338,10 @@ The Aurora-class has a huge internal magazine stocked with missiles that can kil
 	
 	<item>
 	  <title>1,000 on X</title>
-	  <link>https://millmint.net/stories/1000-on-x/</link>
+	  <link>/stories/1000-on-x/</link>
 	  <pubDate>Sun, 26 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/1000-on-x/</guid>
+	  <guid>/stories/1000-on-x/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -360,10 +360,10 @@ The Aurora-class has a huge internal magazine stocked with missiles that can kil
 	
 	<item>
 	  <title>Naval Commando</title>
-	  <link>https://millmint.net/stories/commando/</link>
+	  <link>/stories/commando/</link>
 	  <pubDate>Sat, 25 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/commando/</guid>
+	  <guid>/stories/commando/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -395,10 +395,10 @@ Their white helmets are for visibility in case they go overboard; camouflage is 
 	
 	<item>
 	  <title>Homeroom</title>
-	  <link>https://millmint.net/stories/homeroom/</link>
+	  <link>/stories/homeroom/</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/homeroom/</guid>
+	  <guid>/stories/homeroom/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -422,10 +422,10 @@ Her chemistry teacher is Ms Zora Ninčić, charming eligible bachelorette and lo
 	
 	<item>
 	  <title>Officebound</title>
-	  <link>https://millmint.net/stories/office/</link>
+	  <link>/stories/office/</link>
 	  <pubDate>Thu, 16 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/office/</guid>
+	  <guid>/stories/office/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -450,10 +450,10 @@ For men, a &ldquo;suit&rdquo; means a garment cut from the same cloth and a neck
 	
 	<item>
 	  <title>Warm Singapore Evening</title>
-	  <link>https://millmint.net/stories/south-east-asia/</link>
+	  <link>/stories/south-east-asia/</link>
 	  <pubDate>Thu, 09 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/south-east-asia/</guid>
+	  <guid>/stories/south-east-asia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -473,10 +473,10 @@ For men, a &ldquo;suit&rdquo; means a garment cut from the same cloth and a neck
 	
 	<item>
 	  <title>Oslolan Uniform</title>
-	  <link>https://millmint.net/stories/oslolan-uniform/</link>
+	  <link>/stories/oslolan-uniform/</link>
 	  <pubDate>Mon, 06 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/oslolan-uniform/</guid>
+	  <guid>/stories/oslolan-uniform/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -498,10 +498,10 @@ Almost all of them, from the Falklands Republic to the Bahamas to Iceland, wear 
 	
 	<item>
 	  <title>Fighters</title>
-	  <link>https://millmint.net/stories/fighter-tundra/</link>
+	  <link>/stories/fighter-tundra/</link>
 	  <pubDate>Wed, 01 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fighter-tundra/</guid>
+	  <guid>/stories/fighter-tundra/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -520,10 +520,10 @@ Almost all of them, from the Falklands Republic to the Bahamas to Iceland, wear 
 	
 	<item>
 	  <title>Barracks Dress</title>
-	  <link>https://millmint.net/stories/barracks-dress/</link>
+	  <link>/stories/barracks-dress/</link>
 	  <pubDate>Tue, 31 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/barracks-dress/</guid>
+	  <guid>/stories/barracks-dress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -549,10 +549,10 @@ She wears a gi (a ceremonial Oslolan pleat), her sabre (all infantry are trained
 	
 	<item>
 	  <title>The Congo Regiment</title>
-	  <link>https://millmint.net/stories/congo-regiment/</link>
+	  <link>/stories/congo-regiment/</link>
 	  <pubDate>Mon, 30 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/congo-regiment/</guid>
+	  <guid>/stories/congo-regiment/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -570,10 +570,10 @@ The volunteers are a Vekllei initiative to support the Red Cross in north-east C
 	
 	<item>
 	  <title>New Brushes</title>
-	  <link>https://millmint.net/stories/new-brushes/</link>
+	  <link>/stories/new-brushes/</link>
 	  <pubDate>Sun, 29 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/new-brushes/</guid>
+	  <guid>/stories/new-brushes/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -597,10 +597,10 @@ These kind of complex histories are very common in the Commonwealth, which is na
 	
 	<item>
 	  <title>The Exchange Student</title>
-	  <link>https://millmint.net/stories/exchange-student/</link>
+	  <link>/stories/exchange-student/</link>
 	  <pubDate>Fri, 27 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/exchange-student/</guid>
+	  <guid>/stories/exchange-student/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -619,10 +619,10 @@ These kind of complex histories are very common in the Commonwealth, which is na
 	
 	<item>
 	  <title>Tzipora&#39;s Purse</title>
-	  <link>https://millmint.net/stories/purse/</link>
+	  <link>/stories/purse/</link>
 	  <pubDate>Wed, 25 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/purse/</guid>
+	  <guid>/stories/purse/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -664,10 +664,10 @@ Perhaps most visible in Vekllei society is the &ldquo;company purse,&rdquo; a qu
 	
 	<item>
 	  <title>Raincoats</title>
-	  <link>https://millmint.net/stories/raincoats/</link>
+	  <link>/stories/raincoats/</link>
 	  <pubDate>Tue, 24 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/raincoats/</guid>
+	  <guid>/stories/raincoats/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -691,10 +691,10 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	
 	<item>
 	  <title>Futility</title>
-	  <link>https://millmint.net/stories/futility/</link>
+	  <link>/stories/futility/</link>
 	  <pubDate>Sat, 21 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/futility/</guid>
+	  <guid>/stories/futility/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -713,10 +713,10 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	
 	<item>
 	  <title>Southbound Express</title>
-	  <link>https://millmint.net/stories/115/</link>
+	  <link>/stories/115/</link>
 	  <pubDate>Fri, 20 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/115/</guid>
+	  <guid>/stories/115/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -735,10 +735,10 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	
 	<item>
 	  <title>Weird Energy</title>
-	  <link>https://millmint.net/stories/weird-energy/</link>
+	  <link>/stories/weird-energy/</link>
 	  <pubDate>Wed, 18 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/weird-energy/</guid>
+	  <guid>/stories/weird-energy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -758,10 +758,10 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	
 	<item>
 	  <title>A Civil Servant</title>
-	  <link>https://millmint.net/stories/a-civil-servant/</link>
+	  <link>/stories/a-civil-servant/</link>
 	  <pubDate>Mon, 16 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/a-civil-servant/</guid>
+	  <guid>/stories/a-civil-servant/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -784,10 +784,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>A Social Economy</title>
-	  <link>https://millmint.net/stories/a-social-economy/</link>
+	  <link>/stories/a-social-economy/</link>
 	  <pubDate>Thu, 12 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/a-social-economy/</guid>
+	  <guid>/stories/a-social-economy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -812,10 +812,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>Tolerance Comic</title>
-	  <link>https://millmint.net/stories/tolerance/</link>
+	  <link>/stories/tolerance/</link>
 	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tolerance/</guid>
+	  <guid>/stories/tolerance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -867,10 +867,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>Seinfeld</title>
-	  <link>https://millmint.net/stories/seinfeld/</link>
+	  <link>/stories/seinfeld/</link>
 	  <pubDate>Sat, 07 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/seinfeld/</guid>
+	  <guid>/stories/seinfeld/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -889,10 +889,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>Grocer Girls</title>
-	  <link>https://millmint.net/stories/grocer-girls/</link>
+	  <link>/stories/grocer-girls/</link>
 	  <pubDate>Tue, 03 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/grocer-girls/</guid>
+	  <guid>/stories/grocer-girls/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -915,10 +915,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>Tzipora &amp; Cobian</title>
-	  <link>https://millmint.net/stories/tzipora-and-cobian/</link>
+	  <link>/stories/tzipora-and-cobian/</link>
 	  <pubDate>Fri, 29 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora-and-cobian/</guid>
+	  <guid>/stories/tzipora-and-cobian/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -937,10 +937,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>Drip</title>
-	  <link>https://millmint.net/stories/drip/</link>
+	  <link>/stories/drip/</link>
 	  <pubDate>Tue, 19 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/drip/</guid>
+	  <guid>/stories/drip/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -959,10 +959,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>The Veletian Chiton</title>
-	  <link>https://millmint.net/stories/national-dress/</link>
+	  <link>/stories/national-dress/</link>
 	  <pubDate>Mon, 18 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/national-dress/</guid>
+	  <guid>/stories/national-dress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -986,10 +986,10 @@ Some women in clerical positions can even get away with clean tennis shoes, whic
 	
 	<item>
 	  <title>The Trick of Disaster</title>
-	  <link>https://millmint.net/stories/trick-of-disaster/</link>
+	  <link>/stories/trick-of-disaster/</link>
 	  <pubDate>Tue, 12 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trick-of-disaster/</guid>
+	  <guid>/stories/trick-of-disaster/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1057,10 +1057,10 @@ Is it strange I should change? I don&rsquo;t know, why don&rsquo;t you ask her?<
 	
 	<item>
 	  <title>Ham Comic</title>
-	  <link>https://millmint.net/stories/ham-comic/</link>
+	  <link>/stories/ham-comic/</link>
 	  <pubDate>Mon, 11 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ham-comic/</guid>
+	  <guid>/stories/ham-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1112,10 +1112,10 @@ Is it strange I should change? I don&rsquo;t know, why don&rsquo;t you ask her?<
 	
 	<item>
 	  <title>Airships for Tomorrow</title>
-	  <link>https://millmint.net/stories/atlantic-airship/</link>
+	  <link>/stories/atlantic-airship/</link>
 	  <pubDate>Sun, 10 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/atlantic-airship/</guid>
+	  <guid>/stories/atlantic-airship/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1139,10 +1139,10 @@ In Vekllei, all passenger airships are operated by Commonwealth Airways.]]>
 	
 	<item>
 	  <title>Police Livery</title>
-	  <link>https://millmint.net/stories/police-livery/</link>
+	  <link>/stories/police-livery/</link>
 	  <pubDate>Thu, 07 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police-livery/</guid>
+	  <guid>/stories/police-livery/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1162,10 +1162,10 @@ In Vekllei, all passenger airships are operated by Commonwealth Airways.]]>
 	
 	<item>
 	  <title>Heatwave</title>
-	  <link>https://millmint.net/stories/heatwave/</link>
+	  <link>/stories/heatwave/</link>
 	  <pubDate>Wed, 06 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/heatwave/</guid>
+	  <guid>/stories/heatwave/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1185,10 +1185,10 @@ In Vekllei, all passenger airships are operated by Commonwealth Airways.]]>
 	
 	<item>
 	  <title>Commonwealth Police</title>
-	  <link>https://millmint.net/stories/commonwealth-police/</link>
+	  <link>/stories/commonwealth-police/</link>
 	  <pubDate>Tue, 05 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/commonwealth-police/</guid>
+	  <guid>/stories/commonwealth-police/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1216,10 +1216,10 @@ Left: Police of the Public, which are municipal police. They spend a lot of time
 	
 	<item>
 	  <title>Slip</title>
-	  <link>https://millmint.net/stories/slip/</link>
+	  <link>/stories/slip/</link>
 	  <pubDate>Sun, 03 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/slip/</guid>
+	  <guid>/stories/slip/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1238,10 +1238,10 @@ Left: Police of the Public, which are municipal police. They spend a lot of time
 	
 	<item>
 	  <title>Mira Uniform</title>
-	  <link>https://millmint.net/stories/isuri/</link>
+	  <link>/stories/isuri/</link>
 	  <pubDate>Sat, 02 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/isuri/</guid>
+	  <guid>/stories/isuri/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1264,10 +1264,10 @@ Isuri (right) was born on Mira to Sinhalese parents and Catia (left) is also Mir
 	
 	<item>
 	  <title>Sabae-chan</title>
-	  <link>https://millmint.net/stories/sabae/</link>
+	  <link>/stories/sabae/</link>
 	  <pubDate>Fri, 01 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sabae/</guid>
+	  <guid>/stories/sabae/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1441,10 +1441,10 @@ Her name is Sabae-chan, and was created by @unagiPost. &ldquo;Sabae&rdquo; is a 
 	
 	<item>
 	  <title>Drinks</title>
-	  <link>https://millmint.net/stories/work-drinks/</link>
+	  <link>/stories/work-drinks/</link>
 	  <pubDate>Sun, 27 Aug 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/work-drinks/</guid>
+	  <guid>/stories/work-drinks/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1471,10 +1471,10 @@ Cobian is a ward nurse at Seispri Hospital in the nuclear medicine wing.]]>
 	
 	<item>
 	  <title>Scrap</title>
-	  <link>https://millmint.net/stories/scrap/</link>
+	  <link>/stories/scrap/</link>
 	  <pubDate>Fri, 25 Aug 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/scrap/</guid>
+	  <guid>/stories/scrap/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1493,10 +1493,10 @@ Cobian is a ward nurse at Seispri Hospital in the nuclear medicine wing.]]>
 	
 	<item>
 	  <title>Picture of Integration</title>
-	  <link>https://millmint.net/stories/integration/</link>
+	  <link>/stories/integration/</link>
 	  <pubDate>Mon, 31 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/integration/</guid>
+	  <guid>/stories/integration/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1522,10 +1522,10 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	
 	<item>
 	  <title>Streets of Seispri</title>
-	  <link>https://millmint.net/stories/seispri/</link>
+	  <link>/stories/seispri/</link>
 	  <pubDate>Mon, 31 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/seispri/</guid>
+	  <guid>/stories/seispri/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1548,10 +1548,10 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 	
 	<item>
 	  <title>Good Morning</title>
-	  <link>https://millmint.net/stories/good-morning/</link>
+	  <link>/stories/good-morning/</link>
 	  <pubDate>Sat, 29 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/good-morning/</guid>
+	  <guid>/stories/good-morning/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1570,10 +1570,10 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 	
 	<item>
 	  <title>Station Girls</title>
-	  <link>https://millmint.net/stories/station-girls/</link>
+	  <link>/stories/station-girls/</link>
 	  <pubDate>Sat, 29 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/station-girls/</guid>
+	  <guid>/stories/station-girls/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1627,10 +1627,10 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 	
 	<item>
 	  <title>Jump Comic</title>
-	  <link>https://millmint.net/stories/jump-comic/</link>
+	  <link>/stories/jump-comic/</link>
 	  <pubDate>Wed, 26 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jump-comic/</guid>
+	  <guid>/stories/jump-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1793,10 +1793,10 @@ It used to be an upmarket neighbourhood, prior to the Atomic War in 1995. Today 
 	
 	<item>
 	  <title>Miss Colombia</title>
-	  <link>https://millmint.net/stories/miss-colombia/</link>
+	  <link>/stories/miss-colombia/</link>
 	  <pubDate>Mon, 10 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/miss-colombia/</guid>
+	  <guid>/stories/miss-colombia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1822,10 +1822,10 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	
 	<item>
 	  <title>Cola Comic</title>
-	  <link>https://millmint.net/stories/cola/</link>
+	  <link>/stories/cola/</link>
 	  <pubDate>Thu, 06 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cola/</guid>
+	  <guid>/stories/cola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1988,10 +1988,10 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	
 	<item>
 	  <title>Portrait for Nico</title>
-	  <link>https://millmint.net/stories/nico/</link>
+	  <link>/stories/nico/</link>
 	  <pubDate>Mon, 03 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/nico/</guid>
+	  <guid>/stories/nico/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2010,10 +2010,10 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	
 	<item>
 	  <title>Portrait</title>
-	  <link>https://millmint.net/stories/portrait/</link>
+	  <link>/stories/portrait/</link>
 	  <pubDate>Fri, 23 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/portrait/</guid>
+	  <guid>/stories/portrait/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2032,10 +2032,10 @@ To clarify, when we talk about dressing people 'basically the same,' we do not i
 	
 	<item>
 	  <title>The Dunes</title>
-	  <link>https://millmint.net/stories/dune/</link>
+	  <link>/stories/dune/</link>
 	  <pubDate>Wed, 21 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dune/</guid>
+	  <guid>/stories/dune/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2059,10 +2059,10 @@ The dunes also have a very important role in Oslolan mythology, as the birthplac
 	
 	<item>
 	  <title>Weirdo</title>
-	  <link>https://millmint.net/stories/weirdo/</link>
+	  <link>/stories/weirdo/</link>
 	  <pubDate>Fri, 16 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/weirdo/</guid>
+	  <guid>/stories/weirdo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2081,10 +2081,10 @@ The dunes also have a very important role in Oslolan mythology, as the birthplac
 	
 	<item>
 	  <title>Friends</title>
-	  <link>https://millmint.net/stories/friends-draft/</link>
+	  <link>/stories/friends-draft/</link>
 	  <pubDate>Mon, 12 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/friends-draft/</guid>
+	  <guid>/stories/friends-draft/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2110,10 +2110,10 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	
 	<item>
 	  <title>The News</title>
-	  <link>https://millmint.net/stories/news/</link>
+	  <link>/stories/news/</link>
 	  <pubDate>Sun, 11 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/news/</guid>
+	  <guid>/stories/news/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2132,10 +2132,10 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	
 	<item>
 	  <title>Tzipora&#39;s New Look</title>
-	  <link>https://millmint.net/stories/sack/</link>
+	  <link>/stories/sack/</link>
 	  <pubDate>Fri, 09 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sack/</guid>
+	  <guid>/stories/sack/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2155,10 +2155,10 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	
 	<item>
 	  <title>Saba Island Sneakers</title>
-	  <link>https://millmint.net/stories/sneakers/</link>
+	  <link>/stories/sneakers/</link>
 	  <pubDate>Thu, 08 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sneakers/</guid>
+	  <guid>/stories/sneakers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2180,10 +2180,10 @@ The shoes are knockoff Vekllei anarchocommunist Stan Smiths.]]>
 	
 	<item>
 	  <title>Sulking</title>
-	  <link>https://millmint.net/stories/sulk/</link>
+	  <link>/stories/sulk/</link>
 	  <pubDate>Mon, 05 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sulk/</guid>
+	  <guid>/stories/sulk/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2202,10 +2202,10 @@ The shoes are knockoff Vekllei anarchocommunist Stan Smiths.]]>
 	
 	<item>
 	  <title>Anarchist Trams</title>
-	  <link>https://millmint.net/stories/trams/</link>
+	  <link>/stories/trams/</link>
 	  <pubDate>Sat, 03 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trams/</guid>
+	  <guid>/stories/trams/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2224,10 +2224,10 @@ The shoes are knockoff Vekllei anarchocommunist Stan Smiths.]]>
 	
 	<item>
 	  <title>The Analyst</title>
-	  <link>https://millmint.net/stories/analyst/</link>
+	  <link>/stories/analyst/</link>
 	  <pubDate>Fri, 02 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/analyst/</guid>
+	  <guid>/stories/analyst/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2253,10 +2253,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Hardware</title>
-	  <link>https://millmint.net/stories/hardware/</link>
+	  <link>/stories/hardware/</link>
 	  <pubDate>Tue, 16 May 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hardware/</guid>
+	  <guid>/stories/hardware/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2275,10 +2275,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Downpour</title>
-	  <link>https://millmint.net/stories/downpour/</link>
+	  <link>/stories/downpour/</link>
 	  <pubDate>Tue, 02 May 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/downpour/</guid>
+	  <guid>/stories/downpour/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2297,10 +2297,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Natural Corners</title>
-	  <link>https://millmint.net/stories/corner/</link>
+	  <link>/stories/corner/</link>
 	  <pubDate>Sun, 30 Apr 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/corner/</guid>
+	  <guid>/stories/corner/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2319,10 +2319,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Tzipora, the Wanderer</title>
-	  <link>https://millmint.net/stories/field-portrait/</link>
+	  <link>/stories/field-portrait/</link>
 	  <pubDate>Mon, 24 Apr 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/field-portrait/</guid>
+	  <guid>/stories/field-portrait/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2341,10 +2341,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Atomic Main Battle Tank</title>
-	  <link>https://millmint.net/stories/tank/</link>
+	  <link>/stories/tank/</link>
 	  <pubDate>Tue, 18 Apr 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tank/</guid>
+	  <guid>/stories/tank/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2368,10 +2368,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>General Infantry</title>
-	  <link>https://millmint.net/stories/infantry/</link>
+	  <link>/stories/infantry/</link>
 	  <pubDate>Fri, 31 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/infantry/</guid>
+	  <guid>/stories/infantry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2460,10 +2460,10 @@ Ribbon bar featuring the Order of Veletia and the National Service Medal.]]>
 	
 	<item>
 	  <title>Short</title>
-	  <link>https://millmint.net/stories/short/</link>
+	  <link>/stories/short/</link>
 	  <pubDate>Wed, 22 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/short/</guid>
+	  <guid>/stories/short/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2485,10 +2485,10 @@ Tzipora doesn&rsquo;t mix with her crowd much, and doesn&rsquo;t really know muc
 	
 	<item>
 	  <title>Grey on the Mind</title>
-	  <link>https://millmint.net/stories/grey/</link>
+	  <link>/stories/grey/</link>
 	  <pubDate>Sun, 19 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/grey/</guid>
+	  <guid>/stories/grey/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2508,10 +2508,10 @@ Tzipora doesn&rsquo;t mix with her crowd much, and doesn&rsquo;t really know muc
 	
 	<item>
 	  <title>Hats</title>
-	  <link>https://millmint.net/stories/hats/</link>
+	  <link>/stories/hats/</link>
 	  <pubDate>Sat, 18 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hats/</guid>
+	  <guid>/stories/hats/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2530,10 +2530,10 @@ Tzipora doesn&rsquo;t mix with her crowd much, and doesn&rsquo;t really know muc
 	
 	<item>
 	  <title>On the Stair</title>
-	  <link>https://millmint.net/stories/stair/</link>
+	  <link>/stories/stair/</link>
 	  <pubDate>Thu, 16 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/stair/</guid>
+	  <guid>/stories/stair/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2553,10 +2553,10 @@ Tzipora doesn&rsquo;t mix with her crowd much, and doesn&rsquo;t really know muc
 	
 	<item>
 	  <title>Sketch of Coretti Adoula</title>
-	  <link>https://millmint.net/stories/coretti/</link>
+	  <link>/stories/coretti/</link>
 	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/coretti/</guid>
+	  <guid>/stories/coretti/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2617,10 +2617,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>The Vekllei Jeep</title>
-	  <link>https://millmint.net/stories/jeep/</link>
+	  <link>/stories/jeep/</link>
 	  <pubDate>Tue, 14 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jeep/</guid>
+	  <guid>/stories/jeep/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2652,10 +2652,10 @@ It is a medium-wheelbase1 utility vehicle with a naturally aspirated 6-cylinder,
 	
 	<item>
 	  <title>Zelda</title>
-	  <link>https://millmint.net/stories/tzipora/</link>
+	  <link>/stories/tzipora/</link>
 	  <pubDate>Tue, 14 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora/</guid>
+	  <guid>/stories/tzipora/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2674,10 +2674,10 @@ It is a medium-wheelbase1 utility vehicle with a naturally aspirated 6-cylinder,
 	
 	<item>
 	  <title>Health Vekllei</title>
-	  <link>https://millmint.net/stories/health/</link>
+	  <link>/stories/health/</link>
 	  <pubDate>Sat, 11 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/health/</guid>
+	  <guid>/stories/health/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2700,10 +2700,10 @@ There is no cost to any treatment in the Vekllei healthcare system, and it cover
 	
 	<item>
 	  <title>Dapper Soldier</title>
-	  <link>https://millmint.net/stories/soldier/</link>
+	  <link>/stories/soldier/</link>
 	  <pubDate>Wed, 01 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/soldier/</guid>
+	  <guid>/stories/soldier/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2729,10 +2729,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Revised Mail Uniform</title>
-	  <link>https://millmint.net/stories/mail-revised/</link>
+	  <link>/stories/mail-revised/</link>
 	  <pubDate>Tue, 28 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mail-revised/</guid>
+	  <guid>/stories/mail-revised/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2751,10 +2751,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Caught</title>
-	  <link>https://millmint.net/stories/caught/</link>
+	  <link>/stories/caught/</link>
 	  <pubDate>Sat, 25 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/caught/</guid>
+	  <guid>/stories/caught/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2773,10 +2773,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Sand</title>
-	  <link>https://millmint.net/stories/sand/</link>
+	  <link>/stories/sand/</link>
 	  <pubDate>Fri, 24 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sand/</guid>
+	  <guid>/stories/sand/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2795,10 +2795,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>America, 2059</title>
-	  <link>https://millmint.net/stories/hispanic/</link>
+	  <link>/stories/hispanic/</link>
 	  <pubDate>Tue, 21 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hispanic/</guid>
+	  <guid>/stories/hispanic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2821,10 +2821,10 @@ The Dallas Administration, which was at this point calling itself the American W
 	
 	<item>
 	  <title>A Government Jet</title>
-	  <link>https://millmint.net/stories/state-jet/</link>
+	  <link>/stories/state-jet/</link>
 	  <pubDate>Thu, 16 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/state-jet/</guid>
+	  <guid>/stories/state-jet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2844,10 +2844,10 @@ The humility of person, however, does not mean the humility of state.]]>
 	
 	<item>
 	  <title>New Ruins</title>
-	  <link>https://millmint.net/stories/ruins/</link>
+	  <link>/stories/ruins/</link>
 	  <pubDate>Wed, 15 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ruins/</guid>
+	  <guid>/stories/ruins/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2865,10 +2865,10 @@ You were not supposed to play in the ruins because of residual radiation. That&r
 	
 	<item>
 	  <title>Sketch for a Friend</title>
-	  <link>https://millmint.net/stories/neko/</link>
+	  <link>/stories/neko/</link>
 	  <pubDate>Tue, 31 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/neko/</guid>
+	  <guid>/stories/neko/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2887,10 +2887,10 @@ You were not supposed to play in the ruins because of residual radiation. That&r
 	
 	<item>
 	  <title>Constable Zelda</title>
-	  <link>https://millmint.net/stories/constable/</link>
+	  <link>/stories/constable/</link>
 	  <pubDate>Fri, 27 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/constable/</guid>
+	  <guid>/stories/constable/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2909,10 +2909,10 @@ You were not supposed to play in the ruins because of residual radiation. That&r
 	
 	<item>
 	  <title>All That Glitters</title>
-	  <link>https://millmint.net/stories/gold/</link>
+	  <link>/stories/gold/</link>
 	  <pubDate>Thu, 26 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gold/</guid>
+	  <guid>/stories/gold/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2931,10 +2931,10 @@ You were not supposed to play in the ruins because of residual radiation. That&r
 	
 	<item>
 	  <title>The Veranda</title>
-	  <link>https://millmint.net/stories/veranda/</link>
+	  <link>/stories/veranda/</link>
 	  <pubDate>Fri, 06 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/veranda/</guid>
+	  <guid>/stories/veranda/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2953,10 +2953,10 @@ You were not supposed to play in the ruins because of residual radiation. That&r
 	
 	<item>
 	  <title>Department Commerce</title>
-	  <link>https://millmint.net/stories/department/</link>
+	  <link>/stories/department/</link>
 	  <pubDate>Tue, 03 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/department/</guid>
+	  <guid>/stories/department/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2984,10 +2984,10 @@ These planned production mechanisms facilitate the reliable overproduction of es
 	
 	<item>
 	  <title>The Prime Minister(s)</title>
-	  <link>https://millmint.net/stories/ministers/</link>
+	  <link>/stories/ministers/</link>
 	  <pubDate>Sun, 01 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ministers/</guid>
+	  <guid>/stories/ministers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3006,10 +3006,10 @@ These planned production mechanisms facilitate the reliable overproduction of es
 	
 	<item>
 	  <title>The Look</title>
-	  <link>https://millmint.net/stories/the-look/</link>
+	  <link>/stories/the-look/</link>
 	  <pubDate>Fri, 09 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/the-look/</guid>
+	  <guid>/stories/the-look/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Willy</title>
-	<link>https://millmint.net/characters/willy/</link>
+	<link>/characters/willy/</link>
 	<description>Recent content in Willy </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 01 Nov 2021 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/willy/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/willy/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>30 Minutes to Midnight</title>
-	  <link>https://millmint.net/stories/party/</link>
+	  <link>/stories/party/</link>
 	  <pubDate>Mon, 01 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/party/</guid>
+	  <guid>/stories/party/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -48,10 +48,10 @@
 	
 	<item>
 	  <title>AB/NI’s Spectres of Violence</title>
-	  <link>https://millmint.net/stories/spectre/</link>
+	  <link>/stories/spectre/</link>
 	  <pubDate>Mon, 20 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spectre/</guid>
+	  <guid>/stories/spectre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

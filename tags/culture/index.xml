@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Culture</title>
-	<link>https://millmint.net/tags/culture/</link>
+	<link>/tags/culture/</link>
 	<description>Recent content in Culture </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/culture/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Language</title>
-	  <link>https://millmint.net/factbook/society/culture/language/</link>
+	  <link>/factbook/society/culture/language/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/language/</guid>
+	  <guid>/factbook/society/culture/language/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -578,10 +578,10 @@
 	
 	<item>
 	  <title>Metaphysics</title>
-	  <link>https://millmint.net/factbook/society/culture/metaphysics/</link>
+	  <link>/factbook/society/culture/metaphysics/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/metaphysics/</guid>
+	  <guid>/factbook/society/culture/metaphysics/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -645,10 +645,10 @@
 	
 	<item>
 	  <title>Religion</title>
-	  <link>https://millmint.net/factbook/society/culture/religion/</link>
+	  <link>/factbook/society/culture/religion/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/religion/</guid>
+	  <guid>/factbook/society/culture/religion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

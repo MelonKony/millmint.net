@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>2018</title>
-	<link>https://millmint.net/tags/2018/</link>
+	<link>/tags/2018/</link>
 	<description>Recent content in 2018 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 31 Dec 2018 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/2018/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>On Childhood and Modernity</title>
-	  <link>https://millmint.net/stories/fight/</link>
+	  <link>/stories/fight/</link>
 	  <pubDate>Mon, 31 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fight/</guid>
+	  <guid>/stories/fight/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -57,10 +57,10 @@
 	
 	<item>
 	  <title>Merry Christmas everyone (plus a little Christmas story)</title>
-	  <link>https://millmint.net/stories/christmas-2018/</link>
+	  <link>/stories/christmas-2018/</link>
 	  <pubDate>Sun, 23 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-2018/</guid>
+	  <guid>/stories/christmas-2018/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -106,10 +106,10 @@
 	
 	<item>
 	  <title>The Suburban Constabulary</title>
-	  <link>https://millmint.net/stories/motorbike/</link>
+	  <link>/stories/motorbike/</link>
 	  <pubDate>Sun, 23 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/motorbike/</guid>
+	  <guid>/stories/motorbike/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -131,10 +131,10 @@
 	
 	<item>
 	  <title>The Valley of the Dead</title>
-	  <link>https://millmint.net/stories/valley-of-the-dead/</link>
+	  <link>/stories/valley-of-the-dead/</link>
 	  <pubDate>Mon, 17 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/valley-of-the-dead/</guid>
+	  <guid>/stories/valley-of-the-dead/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -154,10 +154,10 @@
 	
 	<item>
 	  <title>The Cosmojet</title>
-	  <link>https://millmint.net/stories/cosmojet/</link>
+	  <link>/stories/cosmojet/</link>
 	  <pubDate>Fri, 14 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cosmojet/</guid>
+	  <guid>/stories/cosmojet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -185,10 +185,10 @@ And that was the whole point. The first Ramoin-Dupont fighter was always about m
 	
 	<item>
 	  <title>Metro Days</title>
-	  <link>https://millmint.net/stories/metro-days/</link>
+	  <link>/stories/metro-days/</link>
 	  <pubDate>Tue, 11 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/metro-days/</guid>
+	  <guid>/stories/metro-days/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -204,10 +204,10 @@ And that was the whole point. The first Ramoin-Dupont fighter was always about m
 	
 	<item>
 	  <title>The Flower Tundra</title>
-	  <link>https://millmint.net/stories/flower-tundra/</link>
+	  <link>/stories/flower-tundra/</link>
 	  <pubDate>Mon, 10 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/flower-tundra/</guid>
+	  <guid>/stories/flower-tundra/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -230,10 +230,10 @@ And that was the whole point. The first Ramoin-Dupont fighter was always about m
 	
 	<item>
 	  <title>Rural Trains</title>
-	  <link>https://millmint.net/stories/rural-trains/</link>
+	  <link>/stories/rural-trains/</link>
 	  <pubDate>Wed, 05 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rural-trains/</guid>
+	  <guid>/stories/rural-trains/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -251,10 +251,10 @@ Vekllei has a lot of mountains and a lot of trains.]]>
 	
 	<item>
 	  <title>Koka parks &amp; municipal recreation</title>
-	  <link>https://millmint.net/stories/koka-parks/</link>
+	  <link>/stories/koka-parks/</link>
 	  <pubDate>Tue, 04 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/koka-parks/</guid>
+	  <guid>/stories/koka-parks/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -278,10 +278,10 @@ Koka is the Vekllei word for forest (ka), combined with a prefixtual particle th
 	
 	<item>
 	  <title>The guilt dies with her</title>
-	  <link>https://millmint.net/stories/guilt/</link>
+	  <link>/stories/guilt/</link>
 	  <pubDate>Fri, 16 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/guilt/</guid>
+	  <guid>/stories/guilt/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -305,10 +305,10 @@ Once her lover had left her, and her presence began to irritate the small group,
 	
 	<item>
 	  <title>Happy Summer Everyone</title>
-	  <link>https://millmint.net/stories/summer/</link>
+	  <link>/stories/summer/</link>
 	  <pubDate>Mon, 05 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/summer/</guid>
+	  <guid>/stories/summer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -328,10 +328,10 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	
 	<item>
 	  <title>Talking about Girl Scouts and Child Soldiers</title>
-	  <link>https://millmint.net/stories/scout/</link>
+	  <link>/stories/scout/</link>
 	  <pubDate>Sun, 04 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/scout/</guid>
+	  <guid>/stories/scout/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -365,10 +365,10 @@ The Girl Guides of the U.S. now boast catalogues of several hundred pages, selli
 	
 	<item>
 	  <title>The Stewards of the Earth</title>
-	  <link>https://millmint.net/stories/stewards/</link>
+	  <link>/stories/stewards/</link>
 	  <pubDate>Tue, 30 Oct 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/stewards/</guid>
+	  <guid>/stories/stewards/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -406,10 +406,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>Let’s look at military fashion, because why not?</title>
-	  <link>https://millmint.net/stories/military-fashion/</link>
+	  <link>/stories/military-fashion/</link>
 	  <pubDate>Mon, 22 Oct 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/military-fashion/</guid>
+	  <guid>/stories/military-fashion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -433,10 +433,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>The Collapse of the South</title>
-	  <link>https://millmint.net/stories/collapse/</link>
+	  <link>/stories/collapse/</link>
 	  <pubDate>Fri, 05 Oct 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/collapse/</guid>
+	  <guid>/stories/collapse/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -458,10 +458,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>real sadboi posting hours</title>
-	  <link>https://millmint.net/stories/sadboi/</link>
+	  <link>/stories/sadboi/</link>
 	  <pubDate>Sat, 29 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sadboi/</guid>
+	  <guid>/stories/sadboi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -479,10 +479,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>School uniforms for girls</title>
-	  <link>https://millmint.net/stories/old-uniforms/</link>
+	  <link>/stories/old-uniforms/</link>
 	  <pubDate>Tue, 25 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/old-uniforms/</guid>
+	  <guid>/stories/old-uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -505,10 +505,10 @@ Year-round, all students wear a school armband with their year and class embroid
 	
 	<item>
 	  <title>Some notes on the end of the world</title>
-	  <link>https://millmint.net/stories/end-game/</link>
+	  <link>/stories/end-game/</link>
 	  <pubDate>Wed, 19 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/end-game/</guid>
+	  <guid>/stories/end-game/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -533,10 +533,10 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 	
 	<item>
 	  <title>KID COMIX</title>
-	  <link>https://millmint.net/stories/comix/</link>
+	  <link>/stories/comix/</link>
 	  <pubDate>Tue, 11 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/comix/</guid>
+	  <guid>/stories/comix/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -560,10 +560,10 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 	
 	<item>
 	  <title>Masculinity &amp; Fatherhood in Vekllei</title>
-	  <link>https://millmint.net/stories/masculinity/</link>
+	  <link>/stories/masculinity/</link>
 	  <pubDate>Fri, 07 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/masculinity/</guid>
+	  <guid>/stories/masculinity/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -588,10 +588,10 @@ Vekllei is a country at odds with itself. On one hand, it is universal in its po
 	
 	<item>
 	  <title>The Vekllei Grocery Economy</title>
-	  <link>https://millmint.net/stories/shot/</link>
+	  <link>/stories/shot/</link>
 	  <pubDate>Thu, 06 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shot/</guid>
+	  <guid>/stories/shot/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -626,10 +626,10 @@ The light burst like a gunshot and she leapt to her feet. Down the aisle she saw
 	
 	<item>
 	  <title>summer nerds reading comix</title>
-	  <link>https://millmint.net/stories/princes-of-the-earth/</link>
+	  <link>/stories/princes-of-the-earth/</link>
 	  <pubDate>Wed, 29 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
+	  <guid>/stories/princes-of-the-earth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -645,10 +645,10 @@ The light burst like a gunshot and she leapt to her feet. Down the aisle she saw
 	
 	<item>
 	  <title>big mood right now</title>
-	  <link>https://millmint.net/stories/mood/</link>
+	  <link>/stories/mood/</link>
 	  <pubDate>Tue, 28 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mood/</guid>
+	  <guid>/stories/mood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -664,10 +664,10 @@ The light burst like a gunshot and she leapt to her feet. Down the aisle she saw
 	
 	<item>
 	  <title>The Constabulary</title>
-	  <link>https://millmint.net/stories/police-uniforms/</link>
+	  <link>/stories/police-uniforms/</link>
 	  <pubDate>Thu, 23 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police-uniforms/</guid>
+	  <guid>/stories/police-uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -695,10 +695,10 @@ Business and manufacturing are divided into two arenas in Vekllei:]]>
 	
 	<item>
 	  <title>All-weather combat for the Atomic Age</title>
-	  <link>https://millmint.net/stories/troops/</link>
+	  <link>/stories/troops/</link>
 	  <pubDate>Mon, 20 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/troops/</guid>
+	  <guid>/stories/troops/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -722,10 +722,10 @@ We have seen this manifest in many ways; ICBMs are just one example. Warfare in 
 	
 	<item>
 	  <title>This is Blood Worship</title>
-	  <link>https://millmint.net/stories/blood/</link>
+	  <link>/stories/blood/</link>
 	  <pubDate>Sun, 19 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blood/</guid>
+	  <guid>/stories/blood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -757,10 +757,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>Old, dead demons still wander the countryside</title>
-	  <link>https://millmint.net/stories/demons/</link>
+	  <link>/stories/demons/</link>
 	  <pubDate>Thu, 16 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/demons/</guid>
+	  <guid>/stories/demons/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -787,10 +787,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>The Country of Vekllei</title>
-	  <link>https://millmint.net/stories/tourist-map/</link>
+	  <link>/stories/tourist-map/</link>
 	  <pubDate>Wed, 15 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tourist-map/</guid>
+	  <guid>/stories/tourist-map/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -814,10 +814,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>Tzipora&#39;s Portrait</title>
-	  <link>https://millmint.net/stories/tzipora-portrait/</link>
+	  <link>/stories/tzipora-portrait/</link>
 	  <pubDate>Wed, 08 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora-portrait/</guid>
+	  <guid>/stories/tzipora-portrait/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -833,10 +833,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>Announcing the Princess of the Earth</title>
-	  <link>https://millmint.net/stories/princes-of-the-earth/</link>
+	  <link>/stories/princes-of-the-earth/</link>
 	  <pubDate>Wed, 01 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
+	  <guid>/stories/princes-of-the-earth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -858,10 +858,10 @@ There are many Gregori children alive today, and we have seen the miracle of the
 	
 	<item>
 	  <title>Valleys of Vekllei</title>
-	  <link>https://millmint.net/stories/valleys/</link>
+	  <link>/stories/valleys/</link>
 	  <pubDate>Sat, 28 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/valleys/</guid>
+	  <guid>/stories/valleys/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -886,10 +886,10 @@ There are many Gregori children alive today, and we have seen the miracle of the
 	
 	<item>
 	  <title>Hot summer rain on a beach of black sand -- Iceland in 2127</title>
-	  <link>https://millmint.net/stories/black-sand/</link>
+	  <link>/stories/black-sand/</link>
 	  <pubDate>Fri, 20 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/black-sand/</guid>
+	  <guid>/stories/black-sand/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -913,10 +913,10 @@ There are many Gregori children alive today, and we have seen the miracle of the
 	
 	<item>
 	  <title>winter love &#43; puffin / feat. Tzipora &amp; Akiko</title>
-	  <link>https://millmint.net/stories/puffin-love/</link>
+	  <link>/stories/puffin-love/</link>
 	  <pubDate>Thu, 19 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin-love/</guid>
+	  <guid>/stories/puffin-love/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -934,10 +934,10 @@ That&rsquo;s the sentiment of the phrase, but in Vekllei &lsquo;The puffin flies
 	
 	<item>
 	  <title>Navy in Vekllei</title>
-	  <link>https://millmint.net/stories/salvo/</link>
+	  <link>/stories/salvo/</link>
 	  <pubDate>Sun, 15 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/salvo/</guid>
+	  <guid>/stories/salvo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -961,10 +961,10 @@ The most recent stock of Navy ships are all named after women’s clothes, to em
 	
 	<item>
 	  <title>What will become of the Gregori Children?</title>
-	  <link>https://millmint.net/stories/floating/</link>
+	  <link>/stories/floating/</link>
 	  <pubDate>Tue, 10 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/floating/</guid>
+	  <guid>/stories/floating/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1003,10 +1003,10 @@ Gregori Regenerative Syndrome is a developmental phenomenon that afflicts childr
 	
 	<item>
 	  <title>Life in Vekllei</title>
-	  <link>https://millmint.net/stories/apartment-living/</link>
+	  <link>/stories/apartment-living/</link>
 	  <pubDate>Fri, 29 Jun 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/apartment-living/</guid>
+	  <guid>/stories/apartment-living/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1030,10 +1030,10 @@ When I die, it will be in Vekllei. The food is good, the women are beautiful —
 	
 	<item>
 	  <title>Blood Names</title>
-	  <link>https://millmint.net/stories/blood-names/</link>
+	  <link>/stories/blood-names/</link>
 	  <pubDate>Thu, 14 Jun 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blood-names/</guid>
+	  <guid>/stories/blood-names/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1059,10 +1059,10 @@ When I die, it will be in Vekllei. The food is good, the women are beautiful —
 	
 	<item>
 	  <title>The dress code for talking to spirits</title>
-	  <link>https://millmint.net/stories/dress-code/</link>
+	  <link>/stories/dress-code/</link>
 	  <pubDate>Thu, 24 May 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dress-code/</guid>
+	  <guid>/stories/dress-code/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1085,10 +1085,10 @@ Ceremonial dress is simple to describe, but complex to assemble. The shape and f
 	
 	<item>
 	  <title>Police in Vekllei</title>
-	  <link>https://millmint.net/stories/police-car/</link>
+	  <link>/stories/police-car/</link>
 	  <pubDate>Fri, 18 May 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police-car/</guid>
+	  <guid>/stories/police-car/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1115,10 +1115,10 @@ Ceremonial dress is simple to describe, but complex to assemble. The shape and f
 	
 	<item>
 	  <title>How to Bow (and Fashion in Vekllei)</title>
-	  <link>https://millmint.net/stories/bowing/</link>
+	  <link>/stories/bowing/</link>
 	  <pubDate>Tue, 01 May 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bowing/</guid>
+	  <guid>/stories/bowing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1149,10 +1149,10 @@ First, Vekllei is extremely physical in its language. Not expressive, like how y
 	
 	<item>
 	  <title>Winter Clothing (and Womanhood in Vekllei)</title>
-	  <link>https://millmint.net/stories/winter-clothing/</link>
+	  <link>/stories/winter-clothing/</link>
 	  <pubDate>Mon, 16 Apr 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/winter-clothing/</guid>
+	  <guid>/stories/winter-clothing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1183,10 +1183,10 @@ Women in Vekllei usually wear skirts in winter. There are cultural and historica
 	
 	<item>
 	  <title>Rail-Launched Nuclear Missiles</title>
-	  <link>https://millmint.net/stories/missile-train/</link>
+	  <link>/stories/missile-train/</link>
 	  <pubDate>Mon, 09 Apr 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/missile-train/</guid>
+	  <guid>/stories/missile-train/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1205,10 +1205,10 @@ Women in Vekllei usually wear skirts in winter. There are cultural and historica
 	
 	<item>
 	  <title>Washing the Feet of the Enemy</title>
-	  <link>https://millmint.net/stories/penance/</link>
+	  <link>/stories/penance/</link>
 	  <pubDate>Fri, 06 Apr 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/penance/</guid>
+	  <guid>/stories/penance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1226,10 +1226,10 @@ Women in Vekllei usually wear skirts in winter. There are cultural and historica
 	
 	<item>
 	  <title>A Sketch of a Blood Spirit</title>
-	  <link>https://millmint.net/stories/demon-attack/</link>
+	  <link>/stories/demon-attack/</link>
 	  <pubDate>Sat, 03 Mar 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/demon-attack/</guid>
+	  <guid>/stories/demon-attack/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1250,10 +1250,10 @@ When the Princess of the Earth arrived, after the nuclear exchange between the U
 	
 	<item>
 	  <title>On the Concept of Childhood</title>
-	  <link>https://millmint.net/stories/gregori-children/</link>
+	  <link>/stories/gregori-children/</link>
 	  <pubDate>Fri, 23 Feb 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gregori-children/</guid>
+	  <guid>/stories/gregori-children/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1292,10 +1292,10 @@ From this viewpoint, it becomes clear that the grouping of children by age in th
 	
 	<item>
 	  <title>The Bridging of Worlds Ritual</title>
-	  <link>https://millmint.net/stories/bridging/</link>
+	  <link>/stories/bridging/</link>
 	  <pubDate>Thu, 25 Jan 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bridging/</guid>
+	  <guid>/stories/bridging/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1326,10 +1326,10 @@ From this viewpoint, it becomes clear that the grouping of children by age in th
 	
 	<item>
 	  <title>Anarchy in Cherry, Nevada</title>
-	  <link>https://millmint.net/stories/anarchist/</link>
+	  <link>/stories/anarchist/</link>
 	  <pubDate>Mon, 15 Jan 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/anarchist/</guid>
+	  <guid>/stories/anarchist/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

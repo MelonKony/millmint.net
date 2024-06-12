@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Lin Zhi</title>
-	<link>https://millmint.net/characters/zhi/</link>
+	<link>/characters/zhi/</link>
 	<description>Recent content in Lin Zhi </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/zhi/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/zhi/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bald</title>
-	  <link>https://millmint.net/stories/bald/</link>
+	  <link>/stories/bald/</link>
 	  <pubDate>Thu, 15 Feb 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bald/</guid>
+	  <guid>/stories/bald/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -46,10 +46,10 @@ Tzipora is her only real friend because Tzipora is invariably attracted to outca
 	
 	<item>
 	  <title>Drinks</title>
-	  <link>https://millmint.net/stories/work-drinks/</link>
+	  <link>/stories/work-drinks/</link>
 	  <pubDate>Sun, 27 Aug 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/work-drinks/</guid>
+	  <guid>/stories/work-drinks/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -76,10 +76,10 @@ Cobian is a ward nurse at Seispri Hospital in the nuclear medicine wing.]]>
 	
 	<item>
 	  <title>Picture of Integration</title>
-	  <link>https://millmint.net/stories/integration/</link>
+	  <link>/stories/integration/</link>
 	  <pubDate>Mon, 31 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/integration/</guid>
+	  <guid>/stories/integration/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -105,10 +105,10 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	
 	<item>
 	  <title>The Dunes</title>
-	  <link>https://millmint.net/stories/dune/</link>
+	  <link>/stories/dune/</link>
 	  <pubDate>Wed, 21 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dune/</guid>
+	  <guid>/stories/dune/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -132,10 +132,10 @@ The dunes also have a very important role in Oslolan mythology, as the birthplac
 	
 	<item>
 	  <title>Friends</title>
-	  <link>https://millmint.net/stories/friends-draft/</link>
+	  <link>/stories/friends-draft/</link>
 	  <pubDate>Mon, 12 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/friends-draft/</guid>
+	  <guid>/stories/friends-draft/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -161,10 +161,10 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	
 	<item>
 	  <title>Sketch of Coretti Adoula</title>
-	  <link>https://millmint.net/stories/coretti/</link>
+	  <link>/stories/coretti/</link>
 	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/coretti/</guid>
+	  <guid>/stories/coretti/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -225,10 +225,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Tannin Rivers</title>
-	  <link>https://millmint.net/stories/tannin/</link>
+	  <link>/stories/tannin/</link>
 	  <pubDate>Sat, 31 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tannin/</guid>
+	  <guid>/stories/tannin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -250,10 +250,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Café Diplomacy</title>
-	  <link>https://millmint.net/stories/vista/</link>
+	  <link>/stories/vista/</link>
 	  <pubDate>Tue, 12 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vista/</guid>
+	  <guid>/stories/vista/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -271,10 +271,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>All Chapels for All Women</title>
-	  <link>https://millmint.net/stories/chapel/</link>
+	  <link>/stories/chapel/</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/chapel/</guid>
+	  <guid>/stories/chapel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -313,10 +313,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	
 	<item>
 	  <title>Socialism, Backwards</title>
-	  <link>https://millmint.net/stories/socialism/</link>
+	  <link>/stories/socialism/</link>
 	  <pubDate>Sat, 20 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/socialism/</guid>
+	  <guid>/stories/socialism/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -339,10 +339,10 @@ Vekllei maintains it is not ideological; it is in fact very ideological — you 
 	
 	<item>
 	  <title>A New Generation</title>
-	  <link>https://millmint.net/stories/new-generation/</link>
+	  <link>/stories/new-generation/</link>
 	  <pubDate>Sat, 21 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/new-generation/</guid>
+	  <guid>/stories/new-generation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -364,10 +364,10 @@ Some Marxist continental intellectual had said something a half-century ago abou
 	
 	<item>
 	  <title>Vekllei&#39;s New-Age Women</title>
-	  <link>https://millmint.net/stories/women/</link>
+	  <link>/stories/women/</link>
 	  <pubDate>Thu, 01 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/women/</guid>
+	  <guid>/stories/women/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -427,10 +427,10 @@ When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreig
 	
 	<item>
 	  <title>Justice</title>
-	  <link>https://millmint.net/stories/justice/</link>
+	  <link>/stories/justice/</link>
 	  <pubDate>Mon, 01 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/justice/</guid>
+	  <guid>/stories/justice/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

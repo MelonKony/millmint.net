@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ministry of Foreign Affairs</title>
-	<link>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/</link>
+	<link>/factbook/society/state/government/ministries/foreign-affairs/</link>
 	<description>Recent content in Ministry of Foreign Affairs </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/state/government/ministries/foreign-affairs/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureau of Communications</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-communications/</link>
+	  <link>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-communications/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-communications/</guid>
+	  <guid>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-communications/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -41,10 +41,10 @@
 	
 	<item>
 	  <title>Bureau of Home Affairs</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-home-affairs/</link>
+	  <link>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-home-affairs/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-home-affairs/</guid>
+	  <guid>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-home-affairs/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -75,10 +75,10 @@
 	
 	<item>
 	  <title>Bureau of International Missions</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-international-missions/</link>
+	  <link>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-international-missions/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-international-missions/</guid>
+	  <guid>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-international-missions/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -104,10 +104,10 @@ Prepare bulletins from Parliamentary and Secretarial notes on foreign affairs Fo
 	
 	<item>
 	  <title>Bureau of State</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-state/</link>
+	  <link>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-state/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/foreign-affairs/bureau-of-state/</guid>
+	  <guid>/factbook/society/state/government/ministries/foreign-affairs/bureau-of-state/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

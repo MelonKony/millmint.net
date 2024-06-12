@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>2022</title>
-	<link>https://millmint.net/tags/2022/</link>
+	<link>/tags/2022/</link>
 	<description>Recent content in 2022 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 31 Dec 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/2022/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Tannin Rivers</title>
-	  <link>https://millmint.net/stories/tannin/</link>
+	  <link>/stories/tannin/</link>
 	  <pubDate>Sat, 31 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tannin/</guid>
+	  <guid>/stories/tannin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -45,10 +45,10 @@
 	
 	<item>
 	  <title>Sepia Interests</title>
-	  <link>https://millmint.net/stories/sepia/</link>
+	  <link>/stories/sepia/</link>
 	  <pubDate>Fri, 23 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sepia/</guid>
+	  <guid>/stories/sepia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -75,10 +75,10 @@
 	
 	<item>
 	  <title>The Friend</title>
-	  <link>https://millmint.net/stories/friend/</link>
+	  <link>/stories/friend/</link>
 	  <pubDate>Sat, 10 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/friend/</guid>
+	  <guid>/stories/friend/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -97,10 +97,10 @@
 	
 	<item>
 	  <title>Silica Rivers</title>
-	  <link>https://millmint.net/stories/silica/</link>
+	  <link>/stories/silica/</link>
 	  <pubDate>Fri, 02 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/silica/</guid>
+	  <guid>/stories/silica/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -118,10 +118,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>Sleep</title>
-	  <link>https://millmint.net/stories/sleep/</link>
+	  <link>/stories/sleep/</link>
 	  <pubDate>Wed, 30 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sleep/</guid>
+	  <guid>/stories/sleep/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -140,10 +140,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>Poofy Hair</title>
-	  <link>https://millmint.net/stories/poof/</link>
+	  <link>/stories/poof/</link>
 	  <pubDate>Tue, 29 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/poof/</guid>
+	  <guid>/stories/poof/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -162,10 +162,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>Teachers</title>
-	  <link>https://millmint.net/stories/teachers/</link>
+	  <link>/stories/teachers/</link>
 	  <pubDate>Wed, 09 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/teachers/</guid>
+	  <guid>/stories/teachers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -192,10 +192,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>Tee Shirt</title>
-	  <link>https://millmint.net/stories/teeshirt/</link>
+	  <link>/stories/teeshirt/</link>
 	  <pubDate>Sat, 29 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/teeshirt/</guid>
+	  <guid>/stories/teeshirt/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -214,10 +214,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>The Riot</title>
-	  <link>https://millmint.net/stories/watch/</link>
+	  <link>/stories/watch/</link>
 	  <pubDate>Wed, 26 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/watch/</guid>
+	  <guid>/stories/watch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -236,10 +236,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>Caribbean Uniforms</title>
-	  <link>https://millmint.net/stories/caribbean-uniform/</link>
+	  <link>/stories/caribbean-uniform/</link>
 	  <pubDate>Mon, 17 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/caribbean-uniform/</guid>
+	  <guid>/stories/caribbean-uniform/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -269,10 +269,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>Five Years</title>
-	  <link>https://millmint.net/stories/five-years/</link>
+	  <link>/stories/five-years/</link>
 	  <pubDate>Fri, 14 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/five-years/</guid>
+	  <guid>/stories/five-years/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -323,10 +323,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>The Rifles Section</title>
-	  <link>https://millmint.net/stories/rifles/</link>
+	  <link>/stories/rifles/</link>
 	  <pubDate>Wed, 05 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rifles/</guid>
+	  <guid>/stories/rifles/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -383,10 +383,10 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 	
 	<item>
 	  <title>Off Again</title>
-	  <link>https://millmint.net/stories/uk/</link>
+	  <link>/stories/uk/</link>
 	  <pubDate>Thu, 29 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uk/</guid>
+	  <guid>/stories/uk/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -409,10 +409,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>The Scouts</title>
-	  <link>https://millmint.net/stories/puffin/</link>
+	  <link>/stories/puffin/</link>
 	  <pubDate>Tue, 20 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin/</guid>
+	  <guid>/stories/puffin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -472,10 +472,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Lola, Borough of Genesis</title>
-	  <link>https://millmint.net/stories/lola/</link>
+	  <link>/stories/lola/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lola/</guid>
+	  <guid>/stories/lola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -549,10 +549,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Story Trailer</title>
-	  <link>https://millmint.net/stories/trailer/</link>
+	  <link>/stories/trailer/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trailer/</guid>
+	  <guid>/stories/trailer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -571,10 +571,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Stories from the Horizon</title>
-	  <link>https://millmint.net/stories/horizon/</link>
+	  <link>/stories/horizon/</link>
 	  <pubDate>Thu, 01 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/horizon/</guid>
+	  <guid>/stories/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -604,10 +604,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>The Crown and the Gi</title>
-	  <link>https://millmint.net/stories/crown/</link>
+	  <link>/stories/crown/</link>
 	  <pubDate>Sat, 06 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/crown/</guid>
+	  <guid>/stories/crown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -643,10 +643,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Caught Sketching</title>
-	  <link>https://millmint.net/stories/sketching/</link>
+	  <link>/stories/sketching/</link>
 	  <pubDate>Fri, 05 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sketching/</guid>
+	  <guid>/stories/sketching/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -665,10 +665,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Waiting for a Movie</title>
-	  <link>https://millmint.net/stories/movie/</link>
+	  <link>/stories/movie/</link>
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/movie/</guid>
+	  <guid>/stories/movie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -731,10 +731,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>School Cape</title>
-	  <link>https://millmint.net/stories/cape/</link>
+	  <link>/stories/cape/</link>
 	  <pubDate>Fri, 22 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cape/</guid>
+	  <guid>/stories/cape/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -761,10 +761,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Little Hyderabad</title>
-	  <link>https://millmint.net/stories/hyderabad/</link>
+	  <link>/stories/hyderabad/</link>
 	  <pubDate>Thu, 21 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hyderabad/</guid>
+	  <guid>/stories/hyderabad/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -808,10 +808,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Café Diplomacy</title>
-	  <link>https://millmint.net/stories/vista/</link>
+	  <link>/stories/vista/</link>
 	  <pubDate>Tue, 12 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vista/</guid>
+	  <guid>/stories/vista/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -829,10 +829,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>A Vekllei Spaceship</title>
-	  <link>https://millmint.net/stories/lightbulb/</link>
+	  <link>/stories/lightbulb/</link>
 	  <pubDate>Mon, 30 May 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lightbulb/</guid>
+	  <guid>/stories/lightbulb/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -866,10 +866,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>The Municipal</title>
-	  <link>https://millmint.net/stories/municipal/</link>
+	  <link>/stories/municipal/</link>
 	  <pubDate>Sun, 08 May 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/municipal/</guid>
+	  <guid>/stories/municipal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -917,10 +917,10 @@ In Vekllei, the word municipolis refers to]]>
 	
 	<item>
 	  <title>Panaderas</title>
-	  <link>https://millmint.net/stories/panaderas/</link>
+	  <link>/stories/panaderas/</link>
 	  <pubDate>Mon, 02 May 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/panaderas/</guid>
+	  <guid>/stories/panaderas/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -949,10 +949,10 @@ la harina va subiendo y el pan barato</p>
 	
 	<item>
 	  <title>Towers in the Park</title>
-	  <link>https://millmint.net/stories/towers/</link>
+	  <link>/stories/towers/</link>
 	  <pubDate>Sun, 24 Apr 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/towers/</guid>
+	  <guid>/stories/towers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -977,10 +977,10 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	
 	<item>
 	  <title>Transmission Towers</title>
-	  <link>https://millmint.net/stories/transmission/</link>
+	  <link>/stories/transmission/</link>
 	  <pubDate>Wed, 23 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/transmission/</guid>
+	  <guid>/stories/transmission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -998,10 +998,10 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	
 	<item>
 	  <title>Contrails</title>
-	  <link>https://millmint.net/stories/contrails/</link>
+	  <link>/stories/contrails/</link>
 	  <pubDate>Thu, 17 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/contrails/</guid>
+	  <guid>/stories/contrails/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1020,10 +1020,10 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 	
 	<item>
 	  <title>In-Between Stations</title>
-	  <link>https://millmint.net/stories/liminal/</link>
+	  <link>/stories/liminal/</link>
 	  <pubDate>Wed, 16 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/liminal/</guid>
+	  <guid>/stories/liminal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1046,10 +1046,10 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 	
 	<item>
 	  <title>Lunch in the Park</title>
-	  <link>https://millmint.net/stories/wine/</link>
+	  <link>/stories/wine/</link>
 	  <pubDate>Tue, 15 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/wine/</guid>
+	  <guid>/stories/wine/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1067,10 +1067,10 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	
 	<item>
 	  <title>Kicking the Habit, Pt. 1 of 12</title>
-	  <link>https://millmint.net/stories/habit/</link>
+	  <link>/stories/habit/</link>
 	  <pubDate>Mon, 14 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/habit/</guid>
+	  <guid>/stories/habit/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1089,10 +1089,10 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	
 	<item>
 	  <title>School Lunch</title>
-	  <link>https://millmint.net/stories/lunch/</link>
+	  <link>/stories/lunch/</link>
 	  <pubDate>Sun, 13 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lunch/</guid>
+	  <guid>/stories/lunch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1136,10 +1136,10 @@ Food unable to be grown for the house is usually obtained from grocers. Those gr
 	
 	<item>
 	  <title>All Chapels for All Women</title>
-	  <link>https://millmint.net/stories/chapel/</link>
+	  <link>/stories/chapel/</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/chapel/</guid>
+	  <guid>/stories/chapel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1178,10 +1178,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	
 	<item>
 	  <title>Private Fantasy</title>
-	  <link>https://millmint.net/stories/drawing/</link>
+	  <link>/stories/drawing/</link>
 	  <pubDate>Mon, 14 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/drawing/</guid>
+	  <guid>/stories/drawing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1217,10 +1217,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	
 	<item>
 	  <title>New Rivers of the Atlantic</title>
-	  <link>https://millmint.net/stories/rivers/</link>
+	  <link>/stories/rivers/</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rivers/</guid>
+	  <guid>/stories/rivers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1245,10 +1245,10 @@ Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we k
 	
 	<item>
 	  <title>Changes to the Patreon</title>
-	  <link>https://millmint.net/stories/reading/</link>
+	  <link>/stories/reading/</link>
 	  <pubDate>Wed, 12 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/reading/</guid>
+	  <guid>/stories/reading/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1285,10 +1285,10 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	
 	<item>
 	  <title>Policing Anarchy</title>
-	  <link>https://millmint.net/stories/police/</link>
+	  <link>/stories/police/</link>
 	  <pubDate>Tue, 11 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police/</guid>
+	  <guid>/stories/police/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1333,10 +1333,10 @@ Vekllei has three police forces, one for each of its features as a country.]]>
 	
 	<item>
 	  <title>100 Days of Vekllei</title>
-	  <link>https://millmint.net/stories/showa/</link>
+	  <link>/stories/showa/</link>
 	  <pubDate>Mon, 03 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/showa/</guid>
+	  <guid>/stories/showa/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1372,10 +1372,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>Happy New Year</title>
-	  <link>https://millmint.net/stories/2022/</link>
+	  <link>/stories/2022/</link>
 	  <pubDate>Sat, 01 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2022/</guid>
+	  <guid>/stories/2022/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

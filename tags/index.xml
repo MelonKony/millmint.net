@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Tags</title>
-	<link>https://millmint.net/tags/</link>
+	<link>/tags/</link>
 	<description>Recent content in Tags </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sun, 19 May 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>2024</title>
-	  <link>https://millmint.net/tags/2024/</link>
+	  <link>/tags/2024/</link>
 	  <pubDate>Sun, 19 May 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2024/</guid>
+	  <guid>/tags/2024/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -38,10 +38,10 @@
 	
 	<item>
 	  <title>Fish</title>
-	  <link>https://millmint.net/tags/fish/</link>
+	  <link>/tags/fish/</link>
 	  <pubDate>Sun, 14 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/fish/</guid>
+	  <guid>/tags/fish/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -56,10 +56,10 @@
 	
 	<item>
 	  <title>2023</title>
-	  <link>https://millmint.net/tags/2023/</link>
+	  <link>/tags/2023/</link>
 	  <pubDate>Fri, 29 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2023/</guid>
+	  <guid>/tags/2023/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -74,10 +74,10 @@
 	
 	<item>
 	  <title>Sketch</title>
-	  <link>https://millmint.net/tags/sketch/</link>
+	  <link>/tags/sketch/</link>
 	  <pubDate>Tue, 14 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/sketch/</guid>
+	  <guid>/tags/sketch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -92,10 +92,10 @@
 	
 	<item>
 	  <title>Post</title>
-	  <link>https://millmint.net/tags/post/</link>
+	  <link>/tags/post/</link>
 	  <pubDate>Tue, 03 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/post/</guid>
+	  <guid>/tags/post/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -110,10 +110,10 @@
 	
 	<item>
 	  <title>2022</title>
-	  <link>https://millmint.net/tags/2022/</link>
+	  <link>/tags/2022/</link>
 	  <pubDate>Sat, 31 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2022/</guid>
+	  <guid>/tags/2022/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -128,10 +128,10 @@
 	
 	<item>
 	  <title>2021</title>
-	  <link>https://millmint.net/tags/2021/</link>
+	  <link>/tags/2021/</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2021/</guid>
+	  <guid>/tags/2021/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -146,10 +146,10 @@
 	
 	<item>
 	  <title>Art Trade</title>
-	  <link>https://millmint.net/tags/art-trade/</link>
+	  <link>/tags/art-trade/</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/art-trade/</guid>
+	  <guid>/tags/art-trade/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -164,10 +164,10 @@
 	
 	<item>
 	  <title>Update</title>
-	  <link>https://millmint.net/tags/update/</link>
+	  <link>/tags/update/</link>
 	  <pubDate>Wed, 30 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/update/</guid>
+	  <guid>/tags/update/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -182,10 +182,10 @@
 	
 	<item>
 	  <title>2020</title>
-	  <link>https://millmint.net/tags/2020/</link>
+	  <link>/tags/2020/</link>
 	  <pubDate>Wed, 30 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2020/</guid>
+	  <guid>/tags/2020/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -200,10 +200,10 @@
 	
 	<item>
 	  <title>Pachinki</title>
-	  <link>https://millmint.net/tags/pachinki/</link>
+	  <link>/tags/pachinki/</link>
 	  <pubDate>Sat, 26 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/pachinki/</guid>
+	  <guid>/tags/pachinki/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -218,10 +218,10 @@
 	
 	<item>
 	  <title>Guide</title>
-	  <link>https://millmint.net/tags/guide/</link>
+	  <link>/tags/guide/</link>
 	  <pubDate>Sat, 14 Nov 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/guide/</guid>
+	  <guid>/tags/guide/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -236,10 +236,10 @@
 	
 	<item>
 	  <title>2019</title>
-	  <link>https://millmint.net/tags/2019/</link>
+	  <link>/tags/2019/</link>
 	  <pubDate>Thu, 26 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2019/</guid>
+	  <guid>/tags/2019/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -254,10 +254,10 @@
 	
 	<item>
 	  <title>2018</title>
-	  <link>https://millmint.net/tags/2018/</link>
+	  <link>/tags/2018/</link>
 	  <pubDate>Mon, 31 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2018/</guid>
+	  <guid>/tags/2018/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -272,10 +272,10 @@
 	
 	<item>
 	  <title>2017</title>
-	  <link>https://millmint.net/tags/2017/</link>
+	  <link>/tags/2017/</link>
 	  <pubDate>Tue, 12 Dec 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/2017/</guid>
+	  <guid>/tags/2017/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -290,10 +290,10 @@
 	
 	<item>
 	  <title>Borough</title>
-	  <link>https://millmint.net/tags/borough/</link>
+	  <link>/tags/borough/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/borough/</guid>
+	  <guid>/tags/borough/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -308,10 +308,10 @@
 	
 	<item>
 	  <title>Bulletin</title>
-	  <link>https://millmint.net/tags/bulletin/</link>
+	  <link>/tags/bulletin/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/bulletin/</guid>
+	  <guid>/tags/bulletin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -326,10 +326,10 @@
 	
 	<item>
 	  <title>Comic</title>
-	  <link>https://millmint.net/tags/comic/</link>
+	  <link>/tags/comic/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/comic/</guid>
+	  <guid>/tags/comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -344,10 +344,10 @@
 	
 	<item>
 	  <title>Culture</title>
-	  <link>https://millmint.net/tags/culture/</link>
+	  <link>/tags/culture/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/culture/</guid>
+	  <guid>/tags/culture/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -362,10 +362,10 @@
 	
 	<item>
 	  <title>Documents</title>
-	  <link>https://millmint.net/tags/documents/</link>
+	  <link>/tags/documents/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/documents/</guid>
+	  <guid>/tags/documents/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -380,10 +380,10 @@
 	
 	<item>
 	  <title>Essay</title>
-	  <link>https://millmint.net/tags/essay/</link>
+	  <link>/tags/essay/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/essay/</guid>
+	  <guid>/tags/essay/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -398,10 +398,10 @@
 	
 	<item>
 	  <title>Industry</title>
-	  <link>https://millmint.net/tags/industry/</link>
+	  <link>/tags/industry/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/industry/</guid>
+	  <guid>/tags/industry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -416,10 +416,10 @@
 	
 	<item>
 	  <title>State</title>
-	  <link>https://millmint.net/tags/state/</link>
+	  <link>/tags/state/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/state/</guid>
+	  <guid>/tags/state/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -434,10 +434,10 @@
 	
 	<item>
 	  <title>States</title>
-	  <link>https://millmint.net/tags/states/</link>
+	  <link>/tags/states/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/states/</guid>
+	  <guid>/tags/states/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -452,10 +452,10 @@
 	
 	<item>
 	  <title>Utopia</title>
-	  <link>https://millmint.net/tags/utopia/</link>
+	  <link>/tags/utopia/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/tags/utopia/</guid>
+	  <guid>/tags/utopia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

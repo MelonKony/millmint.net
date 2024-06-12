@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Characters</title>
-	<link>https://millmint.net/categories/characters/</link>
+	<link>/categories/characters/</link>
 	<description>Recent content in Characters </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 31 Jul 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/characters/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Picture of Integration</title>
-	  <link>https://millmint.net/stories/integration/</link>
+	  <link>/stories/integration/</link>
 	  <pubDate>Mon, 31 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/integration/</guid>
+	  <guid>/stories/integration/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -49,10 +49,10 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	
 	<item>
 	  <title>Portrait</title>
-	  <link>https://millmint.net/stories/portrait/</link>
+	  <link>/stories/portrait/</link>
 	  <pubDate>Fri, 23 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/portrait/</guid>
+	  <guid>/stories/portrait/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -71,10 +71,10 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	
 	<item>
 	  <title>Weirdo</title>
-	  <link>https://millmint.net/stories/weirdo/</link>
+	  <link>/stories/weirdo/</link>
 	  <pubDate>Fri, 16 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/weirdo/</guid>
+	  <guid>/stories/weirdo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -93,10 +93,10 @@ Lin Zhi was not a picture of integration; Lin Zhi was a black box.]]>
 	
 	<item>
 	  <title>Friends</title>
-	  <link>https://millmint.net/stories/friends-draft/</link>
+	  <link>/stories/friends-draft/</link>
 	  <pubDate>Mon, 12 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/friends-draft/</guid>
+	  <guid>/stories/friends-draft/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

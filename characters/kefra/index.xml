@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Kefra</title>
-	<link>https://millmint.net/characters/kefra/</link>
+	<link>/characters/kefra/</link>
 	<description>Recent content in Kefra </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 18 May 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/kefra/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/kefra/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Scouts Learning to Shoot</title>
-	  <link>https://millmint.net/stories/scouts/</link>
+	  <link>/stories/scouts/</link>
 	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/scouts/</guid>
+	  <guid>/stories/scouts/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

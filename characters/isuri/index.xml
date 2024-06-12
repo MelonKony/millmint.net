@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Isuri</title>
-	<link>https://millmint.net/characters/isuri/</link>
+	<link>/characters/isuri/</link>
 	<description>Recent content in Isuri </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Fri, 05 Jan 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/isuri/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/isuri/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Grocery Robot</title>
-	  <link>https://millmint.net/stories/grocery-robot/</link>
+	  <link>/stories/grocery-robot/</link>
 	  <pubDate>Fri, 05 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/grocery-robot/</guid>
+	  <guid>/stories/grocery-robot/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -45,10 +45,10 @@ This stock bot was built for United Grocers by National Machines to do the busyw
 	
 	<item>
 	  <title>Grocer Girls</title>
-	  <link>https://millmint.net/stories/grocer-girls/</link>
+	  <link>/stories/grocer-girls/</link>
 	  <pubDate>Tue, 03 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/grocer-girls/</guid>
+	  <guid>/stories/grocer-girls/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -71,10 +71,10 @@ This stock bot was built for United Grocers by National Machines to do the busyw
 	
 	<item>
 	  <title>Mira Uniform</title>
-	  <link>https://millmint.net/stories/isuri/</link>
+	  <link>/stories/isuri/</link>
 	  <pubDate>Sat, 02 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/isuri/</guid>
+	  <guid>/stories/isuri/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

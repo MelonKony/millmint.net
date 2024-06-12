@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Amka</title>
-	<link>https://millmint.net/characters/amka/</link>
+	<link>/characters/amka/</link>
 	<description>Recent content in Amka </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 30 Mar 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/amka/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/amka/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Magma</title>
-	  <link>https://millmint.net/stories/volcanology/</link>
+	  <link>/stories/volcanology/</link>
 	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/volcanology/</guid>
+	  <guid>/stories/volcanology/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

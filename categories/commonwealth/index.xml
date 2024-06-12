@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Commonwealth</title>
-	<link>https://millmint.net/categories/commonwealth/</link>
+	<link>/categories/commonwealth/</link>
 	<description>Recent content in Commonwealth </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/commonwealth/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/commonwealth/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Boroughs</title>
-	  <link>https://millmint.net/factbook/world/boroughs/</link>
+	  <link>/factbook/world/boroughs/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/</guid>
+	  <guid>/factbook/world/boroughs/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -352,10 +352,10 @@
 	
 	<item>
 	  <title>Eyri</title>
-	  <link>https://millmint.net/factbook/world/boroughs/eyri/</link>
+	  <link>/factbook/world/boroughs/eyri/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/eyri/</guid>
+	  <guid>/factbook/world/boroughs/eyri/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -411,10 +411,10 @@
 	
 	<item>
 	  <title>Mirah</title>
-	  <link>https://millmint.net/factbook/world/boroughs/mirah/</link>
+	  <link>/factbook/world/boroughs/mirah/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/mirah/</guid>
+	  <guid>/factbook/world/boroughs/mirah/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -468,10 +468,10 @@
 	
 	<item>
 	  <title>Miyatvousi</title>
-	  <link>https://millmint.net/factbook/world/boroughs/miyatvousi/</link>
+	  <link>/factbook/world/boroughs/miyatvousi/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/miyatvousi/</guid>
+	  <guid>/factbook/world/boroughs/miyatvousi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -565,10 +565,10 @@
 	
 	<item>
 	  <title>Troll</title>
-	  <link>https://millmint.net/factbook/world/boroughs/troll/</link>
+	  <link>/factbook/world/boroughs/troll/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/troll/</guid>
+	  <guid>/factbook/world/boroughs/troll/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -677,10 +677,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Voya Voya</title>
-	  <link>https://millmint.net/factbook/world/boroughs/voya-voya/</link>
+	  <link>/factbook/world/boroughs/voya-voya/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/voya-voya/</guid>
+	  <guid>/factbook/world/boroughs/voya-voya/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -784,10 +784,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Bakur</title>
-	  <link>https://millmint.net/factbook/world/boroughs/bakur/</link>
+	  <link>/factbook/world/boroughs/bakur/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/bakur/</guid>
+	  <guid>/factbook/world/boroughs/bakur/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -842,10 +842,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Holsyim</title>
-	  <link>https://millmint.net/factbook/world/boroughs/holsyim/</link>
+	  <link>/factbook/world/boroughs/holsyim/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/holsyim/</guid>
+	  <guid>/factbook/world/boroughs/holsyim/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -899,10 +899,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Krafla</title>
-	  <link>https://millmint.net/factbook/world/boroughs/krafla/</link>
+	  <link>/factbook/world/boroughs/krafla/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/krafla/</guid>
+	  <guid>/factbook/world/boroughs/krafla/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1054,10 +1054,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Lita</title>
-	  <link>https://millmint.net/factbook/world/boroughs/lita/</link>
+	  <link>/factbook/world/boroughs/lita/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/lita/</guid>
+	  <guid>/factbook/world/boroughs/lita/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1111,10 +1111,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Lola</title>
-	  <link>https://millmint.net/factbook/world/boroughs/lola/</link>
+	  <link>/factbook/world/boroughs/lola/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/lola/</guid>
+	  <guid>/factbook/world/boroughs/lola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1309,10 +1309,10 @@ Troll is sparsely-populated, and only includes the minor town of Troll and sever
 	
 	<item>
 	  <title>Moshel School</title>
-	  <link>https://millmint.net/factbook/world/places/moshel/</link>
+	  <link>/factbook/world/places/moshel/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/places/moshel/</guid>
+	  <guid>/factbook/world/places/moshel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1335,10 +1335,10 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
 	
 	<item>
 	  <title>Mumen</title>
-	  <link>https://millmint.net/factbook/world/boroughs/mumen/</link>
+	  <link>/factbook/world/boroughs/mumen/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/mumen/</guid>
+	  <guid>/factbook/world/boroughs/mumen/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1395,10 +1395,10 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
 	
 	<item>
 	  <title>Ou</title>
-	  <link>https://millmint.net/factbook/world/boroughs/ou/</link>
+	  <link>/factbook/world/boroughs/ou/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/ou/</guid>
+	  <guid>/factbook/world/boroughs/ou/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1518,10 +1518,10 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
 	
 	<item>
 	  <title>Pharos</title>
-	  <link>https://millmint.net/factbook/world/boroughs/pharos/</link>
+	  <link>/factbook/world/boroughs/pharos/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/pharos/</guid>
+	  <guid>/factbook/world/boroughs/pharos/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1749,10 +1749,10 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
 	
 	<item>
 	  <title>Santes</title>
-	  <link>https://millmint.net/factbook/world/boroughs/santes-borough/</link>
+	  <link>/factbook/world/boroughs/santes-borough/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/santes-borough/</guid>
+	  <guid>/factbook/world/boroughs/santes-borough/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1853,10 +1853,10 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
 	
 	<item>
 	  <title>Stories from the Horizon</title>
-	  <link>https://millmint.net/horizon/</link>
+	  <link>/horizon/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/horizon/</guid>
+	  <guid>/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1875,10 +1875,10 @@ As a Central School, Moshel St occupies a large grounds that are well-equipped w
 	
 	<item>
 	  <title>Timeline</title>
-	  <link>https://millmint.net/factbook/timeline/</link>
+	  <link>/factbook/timeline/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/timeline/</guid>
+	  <guid>/factbook/timeline/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2519,10 +2519,10 @@ Upen is being practiced 500BC Beginning of Oslolan Common Period 200 Beginning o
 	
 	<item>
 	  <title>Yana</title>
-	  <link>https://millmint.net/factbook/world/boroughs/yana/</link>
+	  <link>/factbook/world/boroughs/yana/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/world/boroughs/yana/</guid>
+	  <guid>/factbook/world/boroughs/yana/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

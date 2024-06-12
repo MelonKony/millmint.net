@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Pachinki</title>
-	<link>https://millmint.net/tags/pachinki/</link>
+	<link>/tags/pachinki/</link>
 	<description>Recent content in Pachinki </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 26 Dec 2020 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/pachinki/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/pachinki/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>A Tzipora Christmas Story</title>
-	  <link>https://millmint.net/stories/christmas-story/</link>
+	  <link>/stories/christmas-story/</link>
 	  <pubDate>Sat, 26 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-story/</guid>
+	  <guid>/stories/christmas-story/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -67,10 +67,10 @@ A chapter she wrote in late November one year resembled her idea of a Christmas 
 	
 	<item>
 	  <title>The Mountain Witches of Pachinki</title>
-	  <link>https://millmint.net/stories/witches/</link>
+	  <link>/stories/witches/</link>
 	  <pubDate>Sun, 06 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/witches/</guid>
+	  <guid>/stories/witches/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -98,10 +98,10 @@ The witches of Pachinki are an interesting affair — many books have been dedic
 	
 	<item>
 	  <title>The Teeth Regents</title>
-	  <link>https://millmint.net/stories/regent/</link>
+	  <link>/stories/regent/</link>
 	  <pubDate>Fri, 23 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/regent/</guid>
+	  <guid>/stories/regent/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -128,10 +128,10 @@ Three times a day his mouth had to be washed by palace maidens, and excess teeth
 	
 	<item>
 	  <title>The Littlest Goddess in Pachinki</title>
-	  <link>https://millmint.net/stories/goddess/</link>
+	  <link>/stories/goddess/</link>
 	  <pubDate>Sat, 06 Apr 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/goddess/</guid>
+	  <guid>/stories/goddess/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -163,10 +163,10 @@ Adult Palace Gods are almost entirely women, but birthrates of boys and girls ar
 	
 	<item>
 	  <title>A Mineral Lake starts absorbing Grief in Pachinki</title>
-	  <link>https://millmint.net/stories/mineral-lake/</link>
+	  <link>/stories/mineral-lake/</link>
 	  <pubDate>Sun, 31 Mar 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mineral-lake/</guid>
+	  <guid>/stories/mineral-lake/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -200,10 +200,10 @@ Adult Palace Gods are almost entirely women, but birthrates of boys and girls ar
 	
 	<item>
 	  <title>The Palace Gods attempt to retrieve their runaway child</title>
-	  <link>https://millmint.net/stories/palace/</link>
+	  <link>/stories/palace/</link>
 	  <pubDate>Mon, 11 Mar 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/palace/</guid>
+	  <guid>/stories/palace/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -248,10 +248,10 @@ A chill caught her skull and traced her veins to her stomach, where it seized up
 	
 	<item>
 	  <title>A gem girl shows off her enormous strength in Pachinki</title>
-	  <link>https://millmint.net/stories/gem/</link>
+	  <link>/stories/gem/</link>
 	  <pubDate>Sat, 16 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gem/</guid>
+	  <guid>/stories/gem/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

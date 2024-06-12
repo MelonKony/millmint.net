@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ministry of Light &amp; Water</title>
-	<link>https://millmint.net/factbook/society/state/government/ministries/light-and-water/</link>
+	<link>/factbook/society/state/government/ministries/light-and-water/</link>
 	<description>Recent content in Ministry of Light &amp; Water </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/light-and-water/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/state/government/ministries/light-and-water/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureau of Light</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/light-and-water/bureau-of-light/</link>
+	  <link>/factbook/society/state/government/ministries/light-and-water/bureau-of-light/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/light-and-water/bureau-of-light/</guid>
+	  <guid>/factbook/society/state/government/ministries/light-and-water/bureau-of-light/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -66,10 +66,10 @@
 	
 	<item>
 	  <title>Bureau of Water</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/light-and-water/bureau-of-water/</link>
+	  <link>/factbook/society/state/government/ministries/light-and-water/bureau-of-water/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/light-and-water/bureau-of-water/</guid>
+	  <guid>/factbook/society/state/government/ministries/light-and-water/bureau-of-water/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -91,10 +91,10 @@ In Oslola and Kala, most drinking water comes from fresh glacial runoff that req
 	
 	<item>
 	  <title>Emergency Light &amp; Water Authority</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/light-and-water/emergency-light-and-water-authority/</link>
+	  <link>/factbook/society/state/government/ministries/light-and-water/emergency-light-and-water-authority/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/light-and-water/emergency-light-and-water-authority/</guid>
+	  <guid>/factbook/society/state/government/ministries/light-and-water/emergency-light-and-water-authority/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -114,10 +114,10 @@ In Oslola and Kala, most drinking water comes from fresh glacial runoff that req
 	
 	<item>
 	  <title>NSRE</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/light-and-water/nsre/</link>
+	  <link>/factbook/society/state/government/ministries/light-and-water/nsre/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/light-and-water/nsre/</guid>
+	  <guid>/factbook/society/state/government/ministries/light-and-water/nsre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

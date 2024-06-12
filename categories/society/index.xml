@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Society</title>
-	<link>https://millmint.net/categories/society/</link>
+	<link>/categories/society/</link>
 	<description>Recent content in Society </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/society/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/society/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Bureaus</title>
-	  <link>https://millmint.net/factbook/society/industry/bureaus/</link>
+	  <link>/factbook/society/industry/bureaus/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/bureaus/</guid>
+	  <guid>/factbook/society/industry/bureaus/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -45,10 +45,10 @@ Bureaus typically consist of a general council, which organise votes from worker
 	
 	<item>
 	  <title>Consosva</title>
-	  <link>https://millmint.net/factbook/society/state/consosva/</link>
+	  <link>/factbook/society/state/consosva/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/consosva/</guid>
+	  <guid>/factbook/society/state/consosva/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -72,10 +72,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Corsosva</title>
-	  <link>https://millmint.net/factbook/society/state/corsosva/</link>
+	  <link>/factbook/society/state/corsosva/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/corsosva/</guid>
+	  <guid>/factbook/society/state/corsosva/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -96,10 +96,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Crown Industry</title>
-	  <link>https://millmint.net/factbook/society/industry/crown/</link>
+	  <link>/factbook/society/industry/crown/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/crown/</guid>
+	  <guid>/factbook/society/industry/crown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -118,10 +118,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Documents</title>
-	  <link>https://millmint.net/factbook/society/state/documents/</link>
+	  <link>/factbook/society/state/documents/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/documents/</guid>
+	  <guid>/factbook/society/state/documents/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -151,10 +151,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Espionage</title>
-	  <link>https://millmint.net/factbook/society/state/espionage/</link>
+	  <link>/factbook/society/state/espionage/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/espionage/</guid>
+	  <guid>/factbook/society/state/espionage/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -226,10 +226,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Finance</title>
-	  <link>https://millmint.net/factbook/society/state/finance/</link>
+	  <link>/factbook/society/state/finance/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/finance/</guid>
+	  <guid>/factbook/society/state/finance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -365,10 +365,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Industry</title>
-	  <link>https://millmint.net/factbook/society/industry/</link>
+	  <link>/factbook/society/industry/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/</guid>
+	  <guid>/factbook/society/industry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -387,10 +387,10 @@ Consosva is a legal obligation to register an occupation with your municipality,
 	
 	<item>
 	  <title>Interim Prosperity Government</title>
-	  <link>https://millmint.net/factbook/history/interim/</link>
+	  <link>/factbook/history/interim/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/history/interim/</guid>
+	  <guid>/factbook/history/interim/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -413,10 +413,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Language</title>
-	  <link>https://millmint.net/factbook/society/culture/language/</link>
+	  <link>/factbook/society/culture/language/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/language/</guid>
+	  <guid>/factbook/society/culture/language/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -972,10 +972,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Mail</title>
-	  <link>https://millmint.net/factbook/society/industry/crown/mail/</link>
+	  <link>/factbook/society/industry/crown/mail/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/crown/mail/</guid>
+	  <guid>/factbook/society/industry/crown/mail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1329,10 +1329,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Metaphysics</title>
-	  <link>https://millmint.net/factbook/society/culture/metaphysics/</link>
+	  <link>/factbook/society/culture/metaphysics/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/metaphysics/</guid>
+	  <guid>/factbook/society/culture/metaphysics/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1396,10 +1396,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Municipalities</title>
-	  <link>https://millmint.net/factbook/society/state/government/municipalities/</link>
+	  <link>/factbook/society/state/government/municipalities/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/municipalities/</guid>
+	  <guid>/factbook/society/state/government/municipalities/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1442,10 +1442,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Patreon</title>
-	  <link>https://millmint.net/millmint/patreon/</link>
+	  <link>/millmint/patreon/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/</guid>
+	  <guid>/millmint/patreon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1464,10 +1464,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Religion</title>
-	  <link>https://millmint.net/factbook/society/culture/religion/</link>
+	  <link>/factbook/society/culture/religion/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/religion/</guid>
+	  <guid>/factbook/society/culture/religion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1533,10 +1533,10 @@ Included was a majority female Council of Roses, many of whom were socialists op
 	
 	<item>
 	  <title>Sagas</title>
-	  <link>https://millmint.net/factbook/society/culture/sagas/</link>
+	  <link>/factbook/society/culture/sagas/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/sagas/</guid>
+	  <guid>/factbook/society/culture/sagas/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1570,10 +1570,10 @@ Sagas were consolidated into historical and thematic eras in the 14th Century du
 	
 	<item>
 	  <title>Technology</title>
-	  <link>https://millmint.net/factbook/society/technology/</link>
+	  <link>/factbook/society/technology/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/technology/</guid>
+	  <guid>/factbook/society/technology/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

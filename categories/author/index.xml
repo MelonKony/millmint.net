@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Author</title>
-	<link>https://millmint.net/categories/author/</link>
+	<link>/categories/author/</link>
 	<description>Recent content in Author </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Fri, 14 Oct 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/author/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/author/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Five Years</title>
-	  <link>https://millmint.net/stories/five-years/</link>
+	  <link>/stories/five-years/</link>
 	  <pubDate>Fri, 14 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/five-years/</guid>
+	  <guid>/stories/five-years/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -74,10 +74,10 @@
 	
 	<item>
 	  <title>Off Again</title>
-	  <link>https://millmint.net/stories/uk/</link>
+	  <link>/stories/uk/</link>
 	  <pubDate>Thu, 29 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uk/</guid>
+	  <guid>/stories/uk/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -100,10 +100,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>The Scouts</title>
-	  <link>https://millmint.net/stories/puffin/</link>
+	  <link>/stories/puffin/</link>
 	  <pubDate>Tue, 20 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin/</guid>
+	  <guid>/stories/puffin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -163,10 +163,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Story Trailer</title>
-	  <link>https://millmint.net/stories/trailer/</link>
+	  <link>/stories/trailer/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trailer/</guid>
+	  <guid>/stories/trailer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -185,10 +185,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Stories from the Horizon</title>
-	  <link>https://millmint.net/stories/horizon/</link>
+	  <link>/stories/horizon/</link>
 	  <pubDate>Thu, 01 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/horizon/</guid>
+	  <guid>/stories/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -218,10 +218,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Changes to the Patreon</title>
-	  <link>https://millmint.net/stories/reading/</link>
+	  <link>/stories/reading/</link>
 	  <pubDate>Wed, 12 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/reading/</guid>
+	  <guid>/stories/reading/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -258,10 +258,10 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	
 	<item>
 	  <title>100 Days of Vekllei</title>
-	  <link>https://millmint.net/stories/showa/</link>
+	  <link>/stories/showa/</link>
 	  <pubDate>Mon, 03 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/showa/</guid>
+	  <guid>/stories/showa/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -297,10 +297,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>Happy New Year</title>
-	  <link>https://millmint.net/stories/2022/</link>
+	  <link>/stories/2022/</link>
 	  <pubDate>Sat, 01 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2022/</guid>
+	  <guid>/stories/2022/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -320,10 +320,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>Meta Moments</title>
-	  <link>https://millmint.net/stories/meta/</link>
+	  <link>/stories/meta/</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/meta/</guid>
+	  <guid>/stories/meta/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -388,10 +388,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>Something New is on The Horizon</title>
-	  <link>https://millmint.net/stories/something-new/</link>
+	  <link>/stories/something-new/</link>
 	  <pubDate>Wed, 30 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/something-new/</guid>
+	  <guid>/stories/something-new/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -417,10 +417,10 @@ Hobart // MelonKony]]>
 	
 	<item>
 	  <title>Utopie ❦ Concrète</title>
-	  <link>https://millmint.net/stories/utopie/</link>
+	  <link>/stories/utopie/</link>
 	  <pubDate>Sat, 26 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/utopie/</guid>
+	  <guid>/stories/utopie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -471,10 +471,10 @@ Hobart // MelonKony]]>
 	
 	<item>
 	  <title>I have a very good website</title>
-	  <link>https://millmint.net/stories/website/</link>
+	  <link>/stories/website/</link>
 	  <pubDate>Mon, 14 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/website/</guid>
+	  <guid>/stories/website/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -500,10 +500,10 @@ Just look at the home page. Isn’t that the coolest shit you’ve ever seen? Yo
 	
 	<item>
 	  <title>The Sand Mage</title>
-	  <link>https://millmint.net/stories/sand-mage/</link>
+	  <link>/stories/sand-mage/</link>
 	  <pubDate>Fri, 19 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sand-mage/</guid>
+	  <guid>/stories/sand-mage/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -527,10 +527,10 @@ Canonically, Tzipora can’t swim, so she spends more time on the beach than in 
 	
 	<item>
 	  <title>3,000 MEMBERS!</title>
-	  <link>https://millmint.net/stories/3000/</link>
+	  <link>/stories/3000/</link>
 	  <pubDate>Tue, 09 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/3000/</guid>
+	  <guid>/stories/3000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -566,10 +566,10 @@ For those who are new, I encourage you to read the posts pinned to the top of th
 	
 	<item>
 	  <title>Little Bouncy Zelda — an animation diary</title>
-	  <link>https://millmint.net/stories/animation/</link>
+	  <link>/stories/animation/</link>
 	  <pubDate>Sun, 27 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/animation/</guid>
+	  <guid>/stories/animation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -596,10 +596,10 @@ It&rsquo;s difficult to grasp just how much work animation is until you try it. 
 	
 	<item>
 	  <title>2,000 members! WOW!</title>
-	  <link>https://millmint.net/stories/2000/</link>
+	  <link>/stories/2000/</link>
 	  <pubDate>Thu, 27 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2000/</guid>
+	  <guid>/stories/2000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -629,10 +629,10 @@ Thank you kindly to all commenters, readers and friends of the project, whether 
 	
 	<item>
 	  <title>What is This Project?</title>
-	  <link>https://millmint.net/stories/what-is-this-project/</link>
+	  <link>/stories/what-is-this-project/</link>
 	  <pubDate>Tue, 30 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/what-is-this-project/</guid>
+	  <guid>/stories/what-is-this-project/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -702,10 +702,10 @@ You can read more about Vekllei (the country) by clicking here.</p>
 	
 	<item>
 	  <title>Announcing Tzipo-stcards</title>
-	  <link>https://millmint.net/stories/postcards/</link>
+	  <link>/stories/postcards/</link>
 	  <pubDate>Wed, 13 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/postcards/</guid>
+	  <guid>/stories/postcards/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -747,10 +747,10 @@ I think about $20 over your pledge lifetime would cover print and shipping, thou
 	
 	<item>
 	  <title>Salad Time</title>
-	  <link>https://millmint.net/stories/salad/</link>
+	  <link>/stories/salad/</link>
 	  <pubDate>Tue, 11 Feb 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/salad/</guid>
+	  <guid>/stories/salad/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -775,10 +775,10 @@ In Zhu&rsquo;s homeland she suffers a meat-heavy diet, and Vekllei is the first 
 	
 	<item>
 	  <title>The Vekllei Timeline</title>
-	  <link>https://millmint.net/stories/timeline/</link>
+	  <link>/stories/timeline/</link>
 	  <pubDate>Wed, 05 Feb 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/timeline/</guid>
+	  <guid>/stories/timeline/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -805,10 +805,10 @@ For your convenience, I&rsquo;ve embedded links to the relevant posts in each ye
 	
 	<item>
 	  <title>Hobart and Tzipora are off to Japan</title>
-	  <link>https://millmint.net/stories/japan/</link>
+	  <link>/stories/japan/</link>
 	  <pubDate>Thu, 09 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/japan/</guid>
+	  <guid>/stories/japan/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -833,10 +833,10 @@ For your convenience, I&rsquo;ve embedded links to the relevant posts in each ye
 	
 	<item>
 	  <title>So long 2019, here&#39;s to 2020!</title>
-	  <link>https://millmint.net/stories/dance/</link>
+	  <link>/stories/dance/</link>
 	  <pubDate>Wed, 01 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dance/</guid>
+	  <guid>/stories/dance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -877,10 +877,10 @@ For your convenience, I&rsquo;ve embedded links to the relevant posts in each ye
 	
 	<item>
 	  <title>Merry Christmas</title>
-	  <link>https://millmint.net/stories/christmas-2019/</link>
+	  <link>/stories/christmas-2019/</link>
 	  <pubDate>Thu, 26 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-2019/</guid>
+	  <guid>/stories/christmas-2019/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -904,10 +904,10 @@ Hobart]]>
 	
 	<item>
 	  <title>Sneak Sneak</title>
-	  <link>https://millmint.net/stories/sneak/</link>
+	  <link>/stories/sneak/</link>
 	  <pubDate>Wed, 11 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sneak/</guid>
+	  <guid>/stories/sneak/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -940,10 +940,10 @@ Hobart]]>
 	
 	<item>
 	  <title>Blue Shoes</title>
-	  <link>https://millmint.net/stories/blue-shoes/</link>
+	  <link>/stories/blue-shoes/</link>
 	  <pubDate>Mon, 18 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blue-shoes/</guid>
+	  <guid>/stories/blue-shoes/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -965,10 +965,10 @@ You see, even today I&rsquo;m wildly jealous of the success of those slice-of-li
 	
 	<item>
 	  <title>From Beaches to Mountaintops</title>
-	  <link>https://millmint.net/stories/mountaintops/</link>
+	  <link>/stories/mountaintops/</link>
 	  <pubDate>Fri, 15 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mountaintops/</guid>
+	  <guid>/stories/mountaintops/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -985,10 +985,10 @@ You see, even today I&rsquo;m wildly jealous of the success of those slice-of-li
 	
 	<item>
 	  <title>Like Father, Like Daughter</title>
-	  <link>https://millmint.net/stories/beach/</link>
+	  <link>/stories/beach/</link>
 	  <pubDate>Sat, 09 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/beach/</guid>
+	  <guid>/stories/beach/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1008,10 +1008,10 @@ Baron doesn’t like the water, and getting him down to the sea at all was a tri
 	
 	<item>
 	  <title>… where did I leave all the uploads?</title>
-	  <link>https://millmint.net/stories/uploads/</link>
+	  <link>/stories/uploads/</link>
 	  <pubDate>Wed, 23 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uploads/</guid>
+	  <guid>/stories/uploads/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1036,10 +1036,10 @@ Starting from next week, several exciting projects are getting kicked into gear.
 	
 	<item>
 	  <title>A New Challenger Has Appeared!</title>
-	  <link>https://millmint.net/stories/challenger/</link>
+	  <link>/stories/challenger/</link>
 	  <pubDate>Sat, 19 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/challenger/</guid>
+	  <guid>/stories/challenger/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1058,10 +1058,10 @@ It’s a pleasure seeing such a unique style that’s really one of a kind in th
 	
 	<item>
 	  <title>500 SUBSCRIBERS</title>
-	  <link>https://millmint.net/stories/500/</link>
+	  <link>/stories/500/</link>
 	  <pubDate>Tue, 24 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/500/</guid>
+	  <guid>/stories/500/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1081,10 +1081,10 @@ Thanks for subscribing. I&rsquo;ve been pushing myself a bit too hard and my wri
 	
 	<item>
 	  <title>I like bread</title>
-	  <link>https://millmint.net/stories/bread/</link>
+	  <link>/stories/bread/</link>
 	  <pubDate>Mon, 09 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bread/</guid>
+	  <guid>/stories/bread/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1103,10 +1103,10 @@ I spend a lot of time thinking about what the hell I&rsquo;m doing with my life,
 	
 	<item>
 	  <title>A Brief Introduction to Vekllei</title>
-	  <link>https://millmint.net/stories/an-introduction/</link>
+	  <link>/stories/an-introduction/</link>
 	  <pubDate>Tue, 03 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/an-introduction/</guid>
+	  <guid>/stories/an-introduction/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1147,10 +1147,10 @@ In fact, Vekllei is not a particularly challenging idea.]]>
 	
 	<item>
 	  <title>What is Vekllei?</title>
-	  <link>https://millmint.net/stories/what-is-vekllei?/</link>
+	  <link>/stories/what-is-vekllei?/</link>
 	  <pubDate>Fri, 26 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/what-is-vekllei?/</guid>
+	  <guid>/stories/what-is-vekllei?/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

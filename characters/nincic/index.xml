@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Nincic</title>
-	<link>https://millmint.net/characters/nincic/</link>
+	<link>/characters/nincic/</link>
 	<description>Recent content in Nincic </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 21 Nov 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/nincic/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/nincic/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Homeroom</title>
-	  <link>https://millmint.net/stories/homeroom/</link>
+	  <link>/stories/homeroom/</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/homeroom/</guid>
+	  <guid>/stories/homeroom/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -47,10 +47,10 @@ Her chemistry teacher is Ms Zora Ninčić, charming eligible bachelorette and lo
 	
 	<item>
 	  <title>Teachers</title>
-	  <link>https://millmint.net/stories/teachers/</link>
+	  <link>/stories/teachers/</link>
 	  <pubDate>Wed, 09 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/teachers/</guid>
+	  <guid>/stories/teachers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

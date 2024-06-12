@@ -10,12 +10,12 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Stories from the Horizon</title>
-	<link>https://millmint.net/horizon/</link>
+	<link>/horizon/</link>
 	<description>Recent content in Stories from the Horizon </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/horizon/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/horizon/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

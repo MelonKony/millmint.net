@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Nico</title>
-	<link>https://millmint.net/characters/nico/</link>
+	<link>/characters/nico/</link>
 	<description>Recent content in Nico </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 03 Jul 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/nico/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/nico/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Portrait for Nico</title>
-	  <link>https://millmint.net/stories/nico/</link>
+	  <link>/stories/nico/</link>
 	  <pubDate>Mon, 03 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/nico/</guid>
+	  <guid>/stories/nico/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

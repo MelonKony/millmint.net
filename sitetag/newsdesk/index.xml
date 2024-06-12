@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Newsdesk</title>
-	<link>https://millmint.net/sitetag/newsdesk/</link>
+	<link>/sitetag/newsdesk/</link>
 	<description>Recent content in Newsdesk </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/sitetag/newsdesk/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/sitetag/newsdesk/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Letters</title>
-	  <link>https://millmint.net/millmint/patreon/letters/</link>
+	  <link>/millmint/patreon/letters/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/</guid>
+	  <guid>/millmint/patreon/letters/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -43,10 +43,10 @@ I occasionally publish letters to followers and patrons of the project to keep t
 	
 	<item>
 	  <title>Snapshots</title>
-	  <link>https://millmint.net/millmint/patreon/snapshots/</link>
+	  <link>/millmint/patreon/snapshots/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/snapshots/</guid>
+	  <guid>/millmint/patreon/snapshots/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

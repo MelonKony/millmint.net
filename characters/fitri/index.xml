@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Fitri</title>
-	<link>https://millmint.net/characters/fitri/</link>
+	<link>/characters/fitri/</link>
 	<description>Recent content in Fitri </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Wed, 22 Mar 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/fitri/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/fitri/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Short</title>
-	  <link>https://millmint.net/stories/short/</link>
+	  <link>/stories/short/</link>
 	  <pubDate>Wed, 22 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/short/</guid>
+	  <guid>/stories/short/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

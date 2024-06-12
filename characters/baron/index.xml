@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Baron</title>
-	<link>https://millmint.net/characters/baron/</link>
+	<link>/characters/baron/</link>
 	<description>Recent content in Baron </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/baron/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Killers</title>
-	  <link>https://millmint.net/stories/killers/</link>
+	  <link>/stories/killers/</link>
 	  <pubDate>Sat, 20 Apr 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/killers/</guid>
+	  <guid>/stories/killers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -44,10 +44,10 @@ She comes by his office sometimes after class and sits in the lobby with a comic
 	
 	<item>
 	  <title>Pistol</title>
-	  <link>https://millmint.net/stories/pistol/</link>
+	  <link>/stories/pistol/</link>
 	  <pubDate>Tue, 26 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/pistol/</guid>
+	  <guid>/stories/pistol/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -66,10 +66,10 @@ She comes by his office sometimes after class and sits in the lobby with a comic
 	
 	<item>
 	  <title>Family</title>
-	  <link>https://millmint.net/stories/family/</link>
+	  <link>/stories/family/</link>
 	  <pubDate>Thu, 14 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/family/</guid>
+	  <guid>/stories/family/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -88,10 +88,10 @@ She comes by his office sometimes after class and sits in the lobby with a comic
 	
 	<item>
 	  <title>Gravity</title>
-	  <link>https://millmint.net/stories/gravity/</link>
+	  <link>/stories/gravity/</link>
 	  <pubDate>Mon, 29 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gravity/</guid>
+	  <guid>/stories/gravity/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -116,10 +116,10 @@ Vekllei has nearly 70 republics and Vekllei people think of themselves as a unio
 	
 	<item>
 	  <title>Terminal</title>
-	  <link>https://millmint.net/stories/terminal/</link>
+	  <link>/stories/terminal/</link>
 	  <pubDate>Fri, 26 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/terminal/</guid>
+	  <guid>/stories/terminal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -142,10 +142,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Vekllei 2024</title>
-	  <link>https://millmint.net/stories/2024/</link>
+	  <link>/stories/2024/</link>
 	  <pubDate>Mon, 01 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2024/</guid>
+	  <guid>/stories/2024/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -164,10 +164,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Christmas Lamb</title>
-	  <link>https://millmint.net/stories/christmas-lamb/</link>
+	  <link>/stories/christmas-lamb/</link>
 	  <pubDate>Thu, 28 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-lamb/</guid>
+	  <guid>/stories/christmas-lamb/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -186,10 +186,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Warm Singapore Evening</title>
-	  <link>https://millmint.net/stories/south-east-asia/</link>
+	  <link>/stories/south-east-asia/</link>
 	  <pubDate>Thu, 09 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/south-east-asia/</guid>
+	  <guid>/stories/south-east-asia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -209,10 +209,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Ham Comic</title>
-	  <link>https://millmint.net/stories/ham-comic/</link>
+	  <link>/stories/ham-comic/</link>
 	  <pubDate>Mon, 11 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ham-comic/</guid>
+	  <guid>/stories/ham-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -264,10 +264,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Heatwave</title>
-	  <link>https://millmint.net/stories/heatwave/</link>
+	  <link>/stories/heatwave/</link>
 	  <pubDate>Wed, 06 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/heatwave/</guid>
+	  <guid>/stories/heatwave/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -287,10 +287,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>The News</title>
-	  <link>https://millmint.net/stories/news/</link>
+	  <link>/stories/news/</link>
 	  <pubDate>Sun, 11 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/news/</guid>
+	  <guid>/stories/news/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -309,10 +309,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>The Look</title>
-	  <link>https://millmint.net/stories/the-look/</link>
+	  <link>/stories/the-look/</link>
 	  <pubDate>Fri, 09 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/the-look/</guid>
+	  <guid>/stories/the-look/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -331,10 +331,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>The Riot</title>
-	  <link>https://millmint.net/stories/watch/</link>
+	  <link>/stories/watch/</link>
 	  <pubDate>Wed, 26 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/watch/</guid>
+	  <guid>/stories/watch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -353,10 +353,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Private Fantasy</title>
-	  <link>https://millmint.net/stories/drawing/</link>
+	  <link>/stories/drawing/</link>
 	  <pubDate>Mon, 14 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/drawing/</guid>
+	  <guid>/stories/drawing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -392,10 +392,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Happy New Year</title>
-	  <link>https://millmint.net/stories/2022/</link>
+	  <link>/stories/2022/</link>
 	  <pubDate>Sat, 01 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2022/</guid>
+	  <guid>/stories/2022/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -415,10 +415,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>The Best Years of Our Lives</title>
-	  <link>https://millmint.net/stories/years/</link>
+	  <link>/stories/years/</link>
 	  <pubDate>Thu, 04 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/years/</guid>
+	  <guid>/stories/years/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -437,10 +437,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>Roadside Picnic</title>
-	  <link>https://millmint.net/stories/picnic/</link>
+	  <link>/stories/picnic/</link>
 	  <pubDate>Wed, 15 Sep 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/picnic/</guid>
+	  <guid>/stories/picnic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -462,10 +462,10 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
 	
 	<item>
 	  <title>The Gun</title>
-	  <link>https://millmint.net/stories/gun/</link>
+	  <link>/stories/gun/</link>
 	  <pubDate>Wed, 25 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gun/</guid>
+	  <guid>/stories/gun/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -486,10 +486,10 @@ Tzipora was not a son but she was not unlike him.]]>
 	
 	<item>
 	  <title>Shabbat Shalom</title>
-	  <link>https://millmint.net/stories/shalom/</link>
+	  <link>/stories/shalom/</link>
 	  <pubDate>Mon, 07 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shalom/</guid>
+	  <guid>/stories/shalom/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -508,10 +508,10 @@ Baron was Jewish, but he didn’t practice much. He did, however, observe shabba
 	
 	<item>
 	  <title>Baron, the Father</title>
-	  <link>https://millmint.net/stories/father/</link>
+	  <link>/stories/father/</link>
 	  <pubDate>Wed, 30 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/father/</guid>
+	  <guid>/stories/father/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -543,10 +543,10 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	
 	<item>
 	  <title>AB/NI’s Spectres of Violence</title>
-	  <link>https://millmint.net/stories/spectre/</link>
+	  <link>/stories/spectre/</link>
 	  <pubDate>Mon, 20 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spectre/</guid>
+	  <guid>/stories/spectre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -580,10 +580,10 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	
 	<item>
 	  <title>Sneak Sneak</title>
-	  <link>https://millmint.net/stories/sneak/</link>
+	  <link>/stories/sneak/</link>
 	  <pubDate>Wed, 11 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sneak/</guid>
+	  <guid>/stories/sneak/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -616,10 +616,10 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	
 	<item>
 	  <title>Like Father, Like Daughter</title>
-	  <link>https://millmint.net/stories/beach/</link>
+	  <link>/stories/beach/</link>
 	  <pubDate>Sat, 09 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/beach/</guid>
+	  <guid>/stories/beach/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -639,10 +639,10 @@ Baron doesn’t like the water, and getting him down to the sea at all was a tri
 	
 	<item>
 	  <title>Tattoos of Violence on Quiet Men</title>
-	  <link>https://millmint.net/stories/tattoos/</link>
+	  <link>/stories/tattoos/</link>
 	  <pubDate>Mon, 14 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tattoos/</guid>
+	  <guid>/stories/tattoos/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -666,10 +666,10 @@ Baron rolled up his sleeves and laid them out for her. You could accuse him of m
 	
 	<item>
 	  <title>Big Mouth, Fat Lip</title>
-	  <link>https://millmint.net/stories/fat-lip/</link>
+	  <link>/stories/fat-lip/</link>
 	  <pubDate>Thu, 05 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fat-lip/</guid>
+	  <guid>/stories/fat-lip/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -688,10 +688,10 @@ Baron rolled up his sleeves and laid them out for her. You could accuse him of m
 	
 	<item>
 	  <title>The Cherry Car</title>
-	  <link>https://millmint.net/stories/cherry/</link>
+	  <link>/stories/cherry/</link>
 	  <pubDate>Sat, 17 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cherry/</guid>
+	  <guid>/stories/cherry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -714,10 +714,10 @@ No matter your intention, be it holiday or rediscovery, the very best of Vekllei
 	
 	<item>
 	  <title>Dad&#39;s Birthday</title>
-	  <link>https://millmint.net/stories/birthday/</link>
+	  <link>/stories/birthday/</link>
 	  <pubDate>Sat, 04 May 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/birthday/</guid>
+	  <guid>/stories/birthday/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -733,10 +733,10 @@ No matter your intention, be it holiday or rediscovery, the very best of Vekllei
 	
 	<item>
 	  <title>The Forgotten Generation</title>
-	  <link>https://millmint.net/stories/generations/</link>
+	  <link>/stories/generations/</link>
 	  <pubDate>Tue, 26 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/generations/</guid>
+	  <guid>/stories/generations/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -762,10 +762,10 @@ No matter your intention, be it holiday or rediscovery, the very best of Vekllei
 	
 	<item>
 	  <title>Merry Christmas everyone (plus a little Christmas story)</title>
-	  <link>https://millmint.net/stories/christmas-2018/</link>
+	  <link>/stories/christmas-2018/</link>
 	  <pubDate>Sun, 23 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-2018/</guid>
+	  <guid>/stories/christmas-2018/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -811,10 +811,10 @@ No matter your intention, be it holiday or rediscovery, the very best of Vekllei
 	
 	<item>
 	  <title>Blood Names</title>
-	  <link>https://millmint.net/stories/blood-names/</link>
+	  <link>/stories/blood-names/</link>
 	  <pubDate>Thu, 14 Jun 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blood-names/</guid>
+	  <guid>/stories/blood-names/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -840,10 +840,10 @@ No matter your intention, be it holiday or rediscovery, the very best of Vekllei
 	
 	<item>
 	  <title>Two Spies and a Vekllei Girl</title>
-	  <link>https://millmint.net/stories/spies/</link>
+	  <link>/stories/spies/</link>
 	  <pubDate>Thu, 19 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spies/</guid>
+	  <guid>/stories/spies/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

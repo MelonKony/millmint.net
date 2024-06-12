@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Moise</title>
-	<link>https://millmint.net/characters/moise/</link>
+	<link>/characters/moise/</link>
 	<description>Recent content in Moise </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/moise/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/moise/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>High-Speed Rail</title>
-	  <link>https://millmint.net/stories/high-speed-rail/</link>
+	  <link>/stories/high-speed-rail/</link>
 	  <pubDate>Wed, 03 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/high-speed-rail/</guid>
+	  <guid>/stories/high-speed-rail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -41,10 +41,10 @@
 	
 	<item>
 	  <title>Raincoats</title>
-	  <link>https://millmint.net/stories/raincoats/</link>
+	  <link>/stories/raincoats/</link>
 	  <pubDate>Tue, 24 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/raincoats/</guid>
+	  <guid>/stories/raincoats/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -68,10 +68,10 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	
 	<item>
 	  <title>A Social Economy</title>
-	  <link>https://millmint.net/stories/a-social-economy/</link>
+	  <link>/stories/a-social-economy/</link>
 	  <pubDate>Thu, 12 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/a-social-economy/</guid>
+	  <guid>/stories/a-social-economy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -96,10 +96,10 @@ Boys generally get a hoodless mackintosh-style raincoat and an umbrella. The gir
 	
 	<item>
 	  <title>Sketch of Coretti Adoula</title>
-	  <link>https://millmint.net/stories/coretti/</link>
+	  <link>/stories/coretti/</link>
 	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/coretti/</guid>
+	  <guid>/stories/coretti/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -160,10 +160,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Waiting for a Movie</title>
-	  <link>https://millmint.net/stories/movie/</link>
+	  <link>/stories/movie/</link>
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/movie/</guid>
+	  <guid>/stories/movie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -226,10 +226,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Café Diplomacy</title>
-	  <link>https://millmint.net/stories/vista/</link>
+	  <link>/stories/vista/</link>
 	  <pubDate>Tue, 12 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vista/</guid>
+	  <guid>/stories/vista/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -247,10 +247,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>In-Between Stations</title>
-	  <link>https://millmint.net/stories/liminal/</link>
+	  <link>/stories/liminal/</link>
 	  <pubDate>Wed, 16 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/liminal/</guid>
+	  <guid>/stories/liminal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -273,10 +273,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Meta Moments</title>
-	  <link>https://millmint.net/stories/meta/</link>
+	  <link>/stories/meta/</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/meta/</guid>
+	  <guid>/stories/meta/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -341,10 +341,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>30 Minutes to Midnight</title>
-	  <link>https://millmint.net/stories/party/</link>
+	  <link>/stories/party/</link>
 	  <pubDate>Mon, 01 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/party/</guid>
+	  <guid>/stories/party/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -369,10 +369,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>A New Generation</title>
-	  <link>https://millmint.net/stories/new-generation/</link>
+	  <link>/stories/new-generation/</link>
 	  <pubDate>Sat, 21 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/new-generation/</guid>
+	  <guid>/stories/new-generation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -394,10 +394,10 @@ Some Marxist continental intellectual had said something a half-century ago abou
 	
 	<item>
 	  <title>Gone Hollywood</title>
-	  <link>https://millmint.net/stories/hollywood/</link>
+	  <link>/stories/hollywood/</link>
 	  <pubDate>Mon, 24 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hollywood/</guid>
+	  <guid>/stories/hollywood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -423,10 +423,10 @@ Sulphur is everywhere in Vekllei — even in the cities, the drinking water smel
 	
 	<item>
 	  <title>Turning Things Around</title>
-	  <link>https://millmint.net/stories/around/</link>
+	  <link>/stories/around/</link>
 	  <pubDate>Sat, 20 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/around/</guid>
+	  <guid>/stories/around/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -454,10 +454,10 @@ Considering his bluntness and irritability, it was funny that he could only make
 	
 	<item>
 	  <title>How to Speak Vekllei</title>
-	  <link>https://millmint.net/stories/language/</link>
+	  <link>/stories/language/</link>
 	  <pubDate>Sat, 14 Nov 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/language/</guid>
+	  <guid>/stories/language/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -502,10 +502,10 @@ This post will briefly discuss some elements shown in this infographic, but a la
 	
 	<item>
 	  <title>Road Trip</title>
-	  <link>https://millmint.net/stories/road-trip/</link>
+	  <link>/stories/road-trip/</link>
 	  <pubDate>Fri, 11 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/road-trip/</guid>
+	  <guid>/stories/road-trip/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -527,10 +527,10 @@ This post will briefly discuss some elements shown in this infographic, but a la
 	
 	<item>
 	  <title>Uniforms in Vekllei</title>
-	  <link>https://millmint.net/stories/uniforms/</link>
+	  <link>/stories/uniforms/</link>
 	  <pubDate>Tue, 08 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uniforms/</guid>
+	  <guid>/stories/uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -560,10 +560,10 @@ As an addendum, although many readers find common ancestry with Japan in this pr
 	
 	<item>
 	  <title>Gentle Enthusiasm</title>
-	  <link>https://millmint.net/stories/enthusiasm/</link>
+	  <link>/stories/enthusiasm/</link>
 	  <pubDate>Thu, 23 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/enthusiasm/</guid>
+	  <guid>/stories/enthusiasm/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -583,10 +583,10 @@ It was a warm late summer and there was salt in the air. Pebbles made better swi
 	
 	<item>
 	  <title>So long 2019, here&#39;s to 2020!</title>
-	  <link>https://millmint.net/stories/dance/</link>
+	  <link>/stories/dance/</link>
 	  <pubDate>Wed, 01 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dance/</guid>
+	  <guid>/stories/dance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -627,10 +627,10 @@ It was a warm late summer and there was salt in the air. Pebbles made better swi
 	
 	<item>
 	  <title>1000 SUBSCRIBERS</title>
-	  <link>https://millmint.net/stories/1000/</link>
+	  <link>/stories/1000/</link>
 	  <pubDate>Sun, 10 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/1000/</guid>
+	  <guid>/stories/1000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -659,10 +659,10 @@ Seriously though, this whole renewal of the project through a subreddit (rather 
 	
 	<item>
 	  <title>The King</title>
-	  <link>https://millmint.net/stories/king/</link>
+	  <link>/stories/king/</link>
 	  <pubDate>Mon, 21 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/king/</guid>
+	  <guid>/stories/king/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -681,10 +681,10 @@ King had offended Zelda with an off-hand comment on her youthful appearance, and
 	
 	<item>
 	  <title>A Mafioso and His Witch</title>
-	  <link>https://millmint.net/stories/mafioso/</link>
+	  <link>/stories/mafioso/</link>
 	  <pubDate>Sat, 05 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mafioso/</guid>
+	  <guid>/stories/mafioso/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -721,10 +721,10 @@ However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my 
 	
 	<item>
 	  <title>Squish!</title>
-	  <link>https://millmint.net/stories/squish/</link>
+	  <link>/stories/squish/</link>
 	  <pubDate>Sun, 01 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/squish/</guid>
+	  <guid>/stories/squish/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -744,10 +744,10 @@ Moise has lost a lot of weight and has been blessed with a hefty frame befitting
 	
 	<item>
 	  <title>Introducing Moise</title>
-	  <link>https://millmint.net/stories/moise/</link>
+	  <link>/stories/moise/</link>
 	  <pubDate>Sun, 25 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moise/</guid>
+	  <guid>/stories/moise/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -770,10 +770,10 @@ Zelda quickly antagonised the boy by offering him to her own bullies.]]>
 	
 	<item>
 	  <title>Summer sex-ed</title>
-	  <link>https://millmint.net/stories/sex-ed/</link>
+	  <link>/stories/sex-ed/</link>
 	  <pubDate>Mon, 08 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sex-ed/</guid>
+	  <guid>/stories/sex-ed/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -793,10 +793,10 @@ Generally it&rsquo;s pretty traditional stuff supported by columns and fiction, 
 	
 	<item>
 	  <title>summer nerds reading comix</title>
-	  <link>https://millmint.net/stories/princes-of-the-earth/</link>
+	  <link>/stories/princes-of-the-earth/</link>
 	  <pubDate>Wed, 29 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
+	  <guid>/stories/princes-of-the-earth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

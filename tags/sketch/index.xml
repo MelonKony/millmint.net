@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Sketch</title>
-	<link>https://millmint.net/tags/sketch/</link>
+	<link>/tags/sketch/</link>
 	<description>Recent content in Sketch </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 14 Mar 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>The Vekllei Jeep</title>
-	  <link>https://millmint.net/stories/jeep/</link>
+	  <link>/stories/jeep/</link>
 	  <pubDate>Tue, 14 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jeep/</guid>
+	  <guid>/stories/jeep/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -55,10 +55,10 @@ It is a medium-wheelbase1 utility vehicle with a naturally aspirated 6-cylinder,
 	
 	<item>
 	  <title>Zelda</title>
-	  <link>https://millmint.net/stories/tzipora/</link>
+	  <link>/stories/tzipora/</link>
 	  <pubDate>Tue, 14 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora/</guid>
+	  <guid>/stories/tzipora/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -77,10 +77,10 @@ It is a medium-wheelbase1 utility vehicle with a naturally aspirated 6-cylinder,
 	
 	<item>
 	  <title>Health Vekllei</title>
-	  <link>https://millmint.net/stories/health/</link>
+	  <link>/stories/health/</link>
 	  <pubDate>Sat, 11 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/health/</guid>
+	  <guid>/stories/health/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -103,10 +103,10 @@ There is no cost to any treatment in the Vekllei healthcare system, and it cover
 	
 	<item>
 	  <title>Dapper Soldier</title>
-	  <link>https://millmint.net/stories/soldier/</link>
+	  <link>/stories/soldier/</link>
 	  <pubDate>Wed, 01 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/soldier/</guid>
+	  <guid>/stories/soldier/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -132,10 +132,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Revised Mail Uniform</title>
-	  <link>https://millmint.net/stories/mail-revised/</link>
+	  <link>/stories/mail-revised/</link>
 	  <pubDate>Tue, 28 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mail-revised/</guid>
+	  <guid>/stories/mail-revised/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -154,10 +154,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Caught</title>
-	  <link>https://millmint.net/stories/caught/</link>
+	  <link>/stories/caught/</link>
 	  <pubDate>Sat, 25 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/caught/</guid>
+	  <guid>/stories/caught/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -176,10 +176,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Sand</title>
-	  <link>https://millmint.net/stories/sand/</link>
+	  <link>/stories/sand/</link>
 	  <pubDate>Fri, 24 Feb 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sand/</guid>
+	  <guid>/stories/sand/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -198,10 +198,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Sketch for a Friend</title>
-	  <link>https://millmint.net/stories/neko/</link>
+	  <link>/stories/neko/</link>
 	  <pubDate>Tue, 31 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/neko/</guid>
+	  <guid>/stories/neko/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -220,10 +220,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Constable Zelda</title>
-	  <link>https://millmint.net/stories/constable/</link>
+	  <link>/stories/constable/</link>
 	  <pubDate>Fri, 27 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/constable/</guid>
+	  <guid>/stories/constable/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -242,10 +242,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>All That Glitters</title>
-	  <link>https://millmint.net/stories/gold/</link>
+	  <link>/stories/gold/</link>
 	  <pubDate>Thu, 26 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gold/</guid>
+	  <guid>/stories/gold/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -264,10 +264,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>The Veranda</title>
-	  <link>https://millmint.net/stories/veranda/</link>
+	  <link>/stories/veranda/</link>
 	  <pubDate>Fri, 06 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/veranda/</guid>
+	  <guid>/stories/veranda/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -286,10 +286,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>The Friend</title>
-	  <link>https://millmint.net/stories/friend/</link>
+	  <link>/stories/friend/</link>
 	  <pubDate>Sat, 10 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/friend/</guid>
+	  <guid>/stories/friend/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -308,10 +308,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>The Look</title>
-	  <link>https://millmint.net/stories/the-look/</link>
+	  <link>/stories/the-look/</link>
 	  <pubDate>Fri, 09 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/the-look/</guid>
+	  <guid>/stories/the-look/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -330,10 +330,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Sleep</title>
-	  <link>https://millmint.net/stories/sleep/</link>
+	  <link>/stories/sleep/</link>
 	  <pubDate>Wed, 30 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sleep/</guid>
+	  <guid>/stories/sleep/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -352,10 +352,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Poofy Hair</title>
-	  <link>https://millmint.net/stories/poof/</link>
+	  <link>/stories/poof/</link>
 	  <pubDate>Tue, 29 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/poof/</guid>
+	  <guid>/stories/poof/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -374,10 +374,10 @@ Yes, the Commonwealth Army is formally known as the Army of the Atlantic Crown. 
 	
 	<item>
 	  <title>Teachers</title>
-	  <link>https://millmint.net/stories/teachers/</link>
+	  <link>/stories/teachers/</link>
 	  <pubDate>Wed, 09 Nov 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/teachers/</guid>
+	  <guid>/stories/teachers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -404,10 +404,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>Tee Shirt</title>
-	  <link>https://millmint.net/stories/teeshirt/</link>
+	  <link>/stories/teeshirt/</link>
 	  <pubDate>Sat, 29 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/teeshirt/</guid>
+	  <guid>/stories/teeshirt/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -426,10 +426,10 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 	
 	<item>
 	  <title>Changes to the Patreon</title>
-	  <link>https://millmint.net/stories/reading/</link>
+	  <link>/stories/reading/</link>
 	  <pubDate>Wed, 12 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/reading/</guid>
+	  <guid>/stories/reading/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -466,10 +466,10 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	
 	<item>
 	  <title>Fruit Tingles</title>
-	  <link>https://millmint.net/stories/tingles/</link>
+	  <link>/stories/tingles/</link>
 	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tingles/</guid>
+	  <guid>/stories/tingles/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -491,10 +491,10 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	
 	<item>
 	  <title>Studio Zelda</title>
-	  <link>https://millmint.net/stories/studio-zelda/</link>
+	  <link>/stories/studio-zelda/</link>
 	  <pubDate>Sun, 26 Sep 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/studio-zelda/</guid>
+	  <guid>/stories/studio-zelda/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -513,10 +513,10 @@ From now on, patrons will only be charged on the release of a comic chapter.]]>
 	
 	<item>
 	  <title>Carry me! &gt;:(</title>
-	  <link>https://millmint.net/stories/carry/</link>
+	  <link>/stories/carry/</link>
 	  <pubDate>Mon, 05 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/carry/</guid>
+	  <guid>/stories/carry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -534,10 +534,10 @@ By me! @melon.kony or r/vekllei on reddit!]]>
 	
 	<item>
 	  <title>Shōwa memories</title>
-	  <link>https://millmint.net/stories/showa-memories/</link>
+	  <link>/stories/showa-memories/</link>
 	  <pubDate>Sun, 21 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/showa-memories/</guid>
+	  <guid>/stories/showa-memories/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -553,10 +553,10 @@ By me! @melon.kony or r/vekllei on reddit!]]>
 	
 	<item>
 	  <title>Summer sex-ed</title>
-	  <link>https://millmint.net/stories/sex-ed/</link>
+	  <link>/stories/sex-ed/</link>
 	  <pubDate>Mon, 08 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sex-ed/</guid>
+	  <guid>/stories/sex-ed/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -576,10 +576,10 @@ Generally it&rsquo;s pretty traditional stuff supported by columns and fiction, 
 	
 	<item>
 	  <title>The Principles of &#34;Human Decay&#34;</title>
-	  <link>https://millmint.net/stories/decay/</link>
+	  <link>/stories/decay/</link>
 	  <pubDate>Sun, 30 Jun 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/decay/</guid>
+	  <guid>/stories/decay/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -620,10 +620,10 @@ In Upen, the nondenominational animism of Vekllei, there is the living principle
 	
 	<item>
 	  <title>Much love to all of you</title>
-	  <link>https://millmint.net/stories/much-love/</link>
+	  <link>/stories/much-love/</link>
 	  <pubDate>Sun, 02 Jun 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/much-love/</guid>
+	  <guid>/stories/much-love/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -639,10 +639,10 @@ In Upen, the nondenominational animism of Vekllei, there is the living principle
 	
 	<item>
 	  <title>Air Raid</title>
-	  <link>https://millmint.net/stories/air-raid/</link>
+	  <link>/stories/air-raid/</link>
 	  <pubDate>Mon, 25 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/air-raid/</guid>
+	  <guid>/stories/air-raid/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -662,10 +662,10 @@ She carried debts of blood because of how she sold out her friends some years be
 	
 	<item>
 	  <title>One Long Moment</title>
-	  <link>https://millmint.net/stories/moment/</link>
+	  <link>/stories/moment/</link>
 	  <pubDate>Thu, 21 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moment/</guid>
+	  <guid>/stories/moment/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -683,10 +683,10 @@ Although the uniforms got heavier and the commutes longer, Zelda would always li
 	
 	<item>
 	  <title>Too Old for Sleepovers</title>
-	  <link>https://millmint.net/stories/sleepover/</link>
+	  <link>/stories/sleepover/</link>
 	  <pubDate>Wed, 06 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sleepover/</guid>
+	  <guid>/stories/sleepover/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -704,10 +704,10 @@ The question wasn’t phrased like that, but it was there.]]>
 	
 	<item>
 	  <title>A story of community policing and sweet militia</title>
-	  <link>https://millmint.net/stories/militia/</link>
+	  <link>/stories/militia/</link>
 	  <pubDate>Sun, 03 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/militia/</guid>
+	  <guid>/stories/militia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -732,10 +732,10 @@ So does it surprise anyone that the police are just as much caregivers as law en
 	
 	<item>
 	  <title>Look...!</title>
-	  <link>https://millmint.net/stories/rabbit/</link>
+	  <link>/stories/rabbit/</link>
 	  <pubDate>Sat, 02 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rabbit/</guid>
+	  <guid>/stories/rabbit/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -758,10 +758,10 @@ I&rsquo;ve been drawing a train for over two weeks now and I needed to draw some
 	
 	<item>
 	  <title>Metro Days</title>
-	  <link>https://millmint.net/stories/metro-days/</link>
+	  <link>/stories/metro-days/</link>
 	  <pubDate>Tue, 11 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/metro-days/</guid>
+	  <guid>/stories/metro-days/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -777,10 +777,10 @@ I&rsquo;ve been drawing a train for over two weeks now and I needed to draw some
 	
 	<item>
 	  <title>Rural Trains</title>
-	  <link>https://millmint.net/stories/rural-trains/</link>
+	  <link>/stories/rural-trains/</link>
 	  <pubDate>Wed, 05 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rural-trains/</guid>
+	  <guid>/stories/rural-trains/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -798,10 +798,10 @@ Vekllei has a lot of mountains and a lot of trains.]]>
 	
 	<item>
 	  <title>Happy Summer Everyone</title>
-	  <link>https://millmint.net/stories/summer/</link>
+	  <link>/stories/summer/</link>
 	  <pubDate>Mon, 05 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/summer/</guid>
+	  <guid>/stories/summer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -821,10 +821,10 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	
 	<item>
 	  <title>real sadboi posting hours</title>
-	  <link>https://millmint.net/stories/sadboi/</link>
+	  <link>/stories/sadboi/</link>
 	  <pubDate>Sat, 29 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sadboi/</guid>
+	  <guid>/stories/sadboi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -842,10 +842,10 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	
 	<item>
 	  <title>summer nerds reading comix</title>
-	  <link>https://millmint.net/stories/princes-of-the-earth/</link>
+	  <link>/stories/princes-of-the-earth/</link>
 	  <pubDate>Wed, 29 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
+	  <guid>/stories/princes-of-the-earth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -861,10 +861,10 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	
 	<item>
 	  <title>big mood right now</title>
-	  <link>https://millmint.net/stories/mood/</link>
+	  <link>/stories/mood/</link>
 	  <pubDate>Tue, 28 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mood/</guid>
+	  <guid>/stories/mood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -880,10 +880,10 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	
 	<item>
 	  <title>Tzipora&#39;s Portrait</title>
-	  <link>https://millmint.net/stories/tzipora-portrait/</link>
+	  <link>/stories/tzipora-portrait/</link>
 	  <pubDate>Wed, 08 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora-portrait/</guid>
+	  <guid>/stories/tzipora-portrait/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

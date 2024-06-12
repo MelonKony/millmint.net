@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Utopia</title>
-	<link>https://millmint.net/tags/utopia/</link>
+	<link>/tags/utopia/</link>
 	<description>Recent content in Utopia </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>FAQ</title>
-	  <link>https://millmint.net/intro/faq/</link>
+	  <link>/intro/faq/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/intro/faq/</guid>
+	  <guid>/intro/faq/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -216,10 +216,10 @@ I thought it was Hell.</p>
 	
 	<item>
 	  <title>Culture</title>
-	  <link>https://millmint.net/factbook/society/culture/</link>
+	  <link>/factbook/society/culture/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/culture/</guid>
+	  <guid>/factbook/society/culture/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -238,10 +238,10 @@ I thought it was Hell.</p>
 	
 	<item>
 	  <title>Essays</title>
-	  <link>https://millmint.net/millmint/essays/</link>
+	  <link>/millmint/essays/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/essays/</guid>
+	  <guid>/millmint/essays/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -260,10 +260,10 @@ I thought it was Hell.</p>
 	
 	<item>
 	  <title>MillMint</title>
-	  <link>https://millmint.net/millmint/</link>
+	  <link>/millmint/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/</guid>
+	  <guid>/millmint/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -282,10 +282,10 @@ I thought it was Hell.</p>
 	
 	<item>
 	  <title>Tzipora&#39;s Garden</title>
-	  <link>https://millmint.net/garden/</link>
+	  <link>/garden/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/garden/</guid>
+	  <guid>/garden/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

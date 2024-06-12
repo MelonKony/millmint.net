@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>State Industry</title>
-	<link>https://millmint.net/factbook/society/industry/state/</link>
+	<link>/factbook/society/industry/state/</link>
 	<description>Recent content in State Industry </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/state/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/industry/state/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Commonwealth Aircraft</title>
-	  <link>https://millmint.net/factbook/society/industry/state/cac/</link>
+	  <link>/factbook/society/industry/state/cac/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/cac/</guid>
+	  <guid>/factbook/society/industry/state/cac/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -173,10 +173,10 @@
 	
 	<item>
 	  <title>Commonwealth Airways</title>
-	  <link>https://millmint.net/factbook/society/industry/state/air/</link>
+	  <link>/factbook/society/industry/state/air/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/air/</guid>
+	  <guid>/factbook/society/industry/state/air/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -342,10 +342,10 @@
 	
 	<item>
 	  <title>Commonwealth Bank</title>
-	  <link>https://millmint.net/factbook/society/industry/state/commonwealth-bank/</link>
+	  <link>/factbook/society/industry/state/commonwealth-bank/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/commonwealth-bank/</guid>
+	  <guid>/factbook/society/industry/state/commonwealth-bank/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -546,10 +546,10 @@
 	
 	<item>
 	  <title>Commonwealth Lines</title>
-	  <link>https://millmint.net/factbook/society/industry/state/cl/</link>
+	  <link>/factbook/society/industry/state/cl/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/cl/</guid>
+	  <guid>/factbook/society/industry/state/cl/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -700,10 +700,10 @@
 	
 	<item>
 	  <title>Commonwealth Oil</title>
-	  <link>https://millmint.net/factbook/society/industry/state/oil/</link>
+	  <link>/factbook/society/industry/state/oil/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/oil/</guid>
+	  <guid>/factbook/society/industry/state/oil/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -855,10 +855,10 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 	<item>
 	  <title>Commonwealth Starlines</title>
-	  <link>https://millmint.net/factbook/society/industry/state/starlines/</link>
+	  <link>/factbook/society/industry/state/starlines/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/starlines/</guid>
+	  <guid>/factbook/society/industry/state/starlines/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1003,10 +1003,10 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 	<item>
 	  <title>Government Aircraft Factories</title>
-	  <link>https://millmint.net/factbook/society/industry/state/gaf/</link>
+	  <link>/factbook/society/industry/state/gaf/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/gaf/</guid>
+	  <guid>/factbook/society/industry/state/gaf/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1156,10 +1156,10 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 	<item>
 	  <title>National Construction House</title>
-	  <link>https://millmint.net/factbook/society/industry/state/nch/</link>
+	  <link>/factbook/society/industry/state/nch/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/nch/</guid>
+	  <guid>/factbook/society/industry/state/nch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1303,10 +1303,10 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 	<item>
 	  <title>Rail</title>
-	  <link>https://millmint.net/factbook/society/industry/state/rail/</link>
+	  <link>/factbook/society/industry/state/rail/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/rail/</guid>
+	  <guid>/factbook/society/industry/state/rail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1806,10 +1806,10 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 	<item>
 	  <title>Ratings Corporation</title>
-	  <link>https://millmint.net/factbook/society/industry/state/ratings/</link>
+	  <link>/factbook/society/industry/state/ratings/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/state/ratings/</guid>
+	  <guid>/factbook/society/industry/state/ratings/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

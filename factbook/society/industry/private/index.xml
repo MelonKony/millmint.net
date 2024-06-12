@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Private Industry</title>
-	<link>https://millmint.net/factbook/society/industry/private/</link>
+	<link>/factbook/society/industry/private/</link>
 	<description>Recent content in Private Industry </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/industry/private/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/industry/private/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Adelectrics</title>
-	  <link>https://millmint.net/factbook/society/industry/private/adelectrics/</link>
+	  <link>/factbook/society/industry/private/adelectrics/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/private/adelectrics/</guid>
+	  <guid>/factbook/society/industry/private/adelectrics/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -159,10 +159,10 @@ Adelectrics only designs and manufactures prototypes, and primarily licenses its
 	
 	<item>
 	  <title>Atlantic</title>
-	  <link>https://millmint.net/factbook/society/industry/private/atlantic-store/</link>
+	  <link>/factbook/society/industry/private/atlantic-store/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/private/atlantic-store/</guid>
+	  <guid>/factbook/society/industry/private/atlantic-store/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -307,10 +307,10 @@ Adelectrics only designs and manufactures prototypes, and primarily licenses its
 	
 	<item>
 	  <title>Cateral</title>
-	  <link>https://millmint.net/factbook/society/industry/private/cateral/</link>
+	  <link>/factbook/society/industry/private/cateral/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/private/cateral/</guid>
+	  <guid>/factbook/society/industry/private/cateral/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -450,10 +450,10 @@ Adelectrics only designs and manufactures prototypes, and primarily licenses its
 	
 	<item>
 	  <title>Gina</title>
-	  <link>https://millmint.net/factbook/society/industry/private/gina/</link>
+	  <link>/factbook/society/industry/private/gina/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/industry/private/gina/</guid>
+	  <guid>/factbook/society/industry/private/gina/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ministry of the Commons</title>
-	<link>https://millmint.net/factbook/society/state/government/ministries/commons/</link>
+	<link>/factbook/society/state/government/ministries/commons/</link>
 	<description>Recent content in Ministry of the Commons </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/commons/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/state/government/ministries/commons/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>ASRE</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/asre/</link>
+	  <link>/factbook/society/state/government/ministries/commons/asre/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/asre/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/asre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -42,10 +42,10 @@
 	
 	<item>
 	  <title>Bureau of Aerospace</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-aerospace/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -150,10 +150,10 @@
 	
 	<item>
 	  <title>Bureau of Housing</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-housing/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-housing/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-housing/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-housing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -257,10 +257,10 @@
 	
 	<item>
 	  <title>Bureau of Nature</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-oceans/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-oceans/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-oceans/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-oceans/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -279,10 +279,10 @@
 	
 	<item>
 	  <title>Bureau of Oceans</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-nature/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-nature/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-nature/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-nature/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -301,10 +301,10 @@
 	
 	<item>
 	  <title>Bureau of Public Works</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-public-works/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-public-works/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-public-works/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-public-works/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -393,10 +393,10 @@ The bureau also owns the National Construction House (NCH), the largest construc
 	
 	<item>
 	  <title>Bureau of Rail</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-rail/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-rail/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-rail/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-rail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -484,10 +484,10 @@ In addition to rail planning, safety and regulation, the bureau also controls Ra
 	
 	<item>
 	  <title>Bureau of Roads &amp; Paths</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-roads-and-paths/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-roads-and-paths/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-roads-and-paths/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-roads-and-paths/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -506,10 +506,10 @@ In addition to rail planning, safety and regulation, the bureau also controls Ra
 	
 	<item>
 	  <title>Bureau of Space</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-space/</link>
+	  <link>/factbook/society/state/government/ministries/commons/bureau-of-space/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/bureau-of-space/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/bureau-of-space/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -528,10 +528,10 @@ In addition to rail planning, safety and regulation, the bureau also controls Ra
 	
 	<item>
 	  <title>Housing Commission</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/housing-commission/</link>
+	  <link>/factbook/society/state/government/ministries/commons/housing-commission/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/housing-commission/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/housing-commission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -553,10 +553,10 @@ Although most Vekllei people own their homes, home-ownership varies across resid
 	
 	<item>
 	  <title>Transport Commission</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/transport-commission/</link>
+	  <link>/factbook/society/state/government/ministries/commons/transport-commission/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/transport-commission/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/transport-commission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -575,10 +575,10 @@ Although most Vekllei people own their homes, home-ownership varies across resid
 	
 	<item>
 	  <title>Transport Laboratories</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/commons/transport-laboratories/</link>
+	  <link>/factbook/society/state/government/ministries/commons/transport-laboratories/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/commons/transport-laboratories/</guid>
+	  <guid>/factbook/society/state/government/ministries/commons/transport-laboratories/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

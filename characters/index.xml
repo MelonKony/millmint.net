@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Characters</title>
-	<link>https://millmint.net/characters/</link>
+	<link>/characters/</link>
 	<description>Recent content in Characters </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Kefra</title>
-	  <link>https://millmint.net/characters/kefra/</link>
+	  <link>/characters/kefra/</link>
 	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/kefra/</guid>
+	  <guid>/characters/kefra/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -37,10 +37,10 @@
 	
 	<item>
 	  <title>Merce</title>
-	  <link>https://millmint.net/characters/merce/</link>
+	  <link>/characters/merce/</link>
 	  <pubDate>Mon, 22 Apr 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/merce/</guid>
+	  <guid>/characters/merce/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -55,10 +55,10 @@
 	
 	<item>
 	  <title>Amka</title>
-	  <link>https://millmint.net/characters/amka/</link>
+	  <link>/characters/amka/</link>
 	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/amka/</guid>
+	  <guid>/characters/amka/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -73,10 +73,10 @@
 	
 	<item>
 	  <title>Laura</title>
-	  <link>https://millmint.net/characters/laura/</link>
+	  <link>/characters/laura/</link>
 	  <pubDate>Tue, 23 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/laura/</guid>
+	  <guid>/characters/laura/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -91,10 +91,10 @@
 	
 	<item>
 	  <title>Astrid</title>
-	  <link>https://millmint.net/characters/astrid/</link>
+	  <link>/characters/astrid/</link>
 	  <pubDate>Fri, 19 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/astrid/</guid>
+	  <guid>/characters/astrid/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -109,10 +109,10 @@
 	
 	<item>
 	  <title>Catia</title>
-	  <link>https://millmint.net/characters/catia/</link>
+	  <link>/characters/catia/</link>
 	  <pubDate>Sat, 06 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/catia/</guid>
+	  <guid>/characters/catia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -127,10 +127,10 @@
 	
 	<item>
 	  <title>Isuri</title>
-	  <link>https://millmint.net/characters/isuri/</link>
+	  <link>/characters/isuri/</link>
 	  <pubDate>Fri, 05 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/isuri/</guid>
+	  <guid>/characters/isuri/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -145,10 +145,10 @@
 	
 	<item>
 	  <title>Yo</title>
-	  <link>https://millmint.net/characters/yo/</link>
+	  <link>/characters/yo/</link>
 	  <pubDate>Sun, 03 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/yo/</guid>
+	  <guid>/characters/yo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -163,10 +163,10 @@
 	
 	<item>
 	  <title>Kowalczyk</title>
-	  <link>https://millmint.net/characters/kowalczyk/</link>
+	  <link>/characters/kowalczyk/</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/kowalczyk/</guid>
+	  <guid>/characters/kowalczyk/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -181,10 +181,10 @@
 	
 	<item>
 	  <title>Nincic</title>
-	  <link>https://millmint.net/characters/nincic/</link>
+	  <link>/characters/nincic/</link>
 	  <pubDate>Tue, 21 Nov 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/nincic/</guid>
+	  <guid>/characters/nincic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -199,10 +199,10 @@
 	
 	<item>
 	  <title>Sabae</title>
-	  <link>https://millmint.net/characters/sabae/</link>
+	  <link>/characters/sabae/</link>
 	  <pubDate>Fri, 01 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/sabae/</guid>
+	  <guid>/characters/sabae/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -217,10 +217,10 @@
 	
 	<item>
 	  <title>Nico</title>
-	  <link>https://millmint.net/characters/nico/</link>
+	  <link>/characters/nico/</link>
 	  <pubDate>Mon, 03 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/nico/</guid>
+	  <guid>/characters/nico/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -235,10 +235,10 @@
 	
 	<item>
 	  <title>Ross</title>
-	  <link>https://millmint.net/characters/ross/</link>
+	  <link>/characters/ross/</link>
 	  <pubDate>Tue, 16 May 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/ross/</guid>
+	  <guid>/characters/ross/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -253,10 +253,10 @@
 	
 	<item>
 	  <title>Fitri</title>
-	  <link>https://millmint.net/characters/fitri/</link>
+	  <link>/characters/fitri/</link>
 	  <pubDate>Wed, 22 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/fitri/</guid>
+	  <guid>/characters/fitri/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -271,10 +271,10 @@
 	
 	<item>
 	  <title>Isabeau</title>
-	  <link>https://millmint.net/characters/isabeau/</link>
+	  <link>/characters/isabeau/</link>
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/isabeau/</guid>
+	  <guid>/characters/isabeau/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -289,10 +289,10 @@
 	
 	<item>
 	  <title>Maya</title>
-	  <link>https://millmint.net/characters/maya/</link>
+	  <link>/characters/maya/</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/maya/</guid>
+	  <guid>/characters/maya/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -307,10 +307,10 @@
 	
 	<item>
 	  <title>Penelope</title>
-	  <link>https://millmint.net/characters/penelope/</link>
+	  <link>/characters/penelope/</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/penelope/</guid>
+	  <guid>/characters/penelope/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -325,10 +325,10 @@
 	
 	<item>
 	  <title>Hitori</title>
-	  <link>https://millmint.net/characters/hitori/</link>
+	  <link>/characters/hitori/</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/hitori/</guid>
+	  <guid>/characters/hitori/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -343,10 +343,10 @@
 	
 	<item>
 	  <title>Sydney</title>
-	  <link>https://millmint.net/characters/sydney/</link>
+	  <link>/characters/sydney/</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/sydney/</guid>
+	  <guid>/characters/sydney/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -361,10 +361,10 @@
 	
 	<item>
 	  <title>Tzafi</title>
-	  <link>https://millmint.net/characters/tzafi/</link>
+	  <link>/characters/tzafi/</link>
 	  <pubDate>Tue, 11 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/tzafi/</guid>
+	  <guid>/characters/tzafi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -379,10 +379,10 @@
 	
 	<item>
 	  <title>Bez</title>
-	  <link>https://millmint.net/characters/bez/</link>
+	  <link>/characters/bez/</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/bez/</guid>
+	  <guid>/characters/bez/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -397,10 +397,10 @@
 	
 	<item>
 	  <title>Andre</title>
-	  <link>https://millmint.net/characters/andre/</link>
+	  <link>/characters/andre/</link>
 	  <pubDate>Sat, 18 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/andre/</guid>
+	  <guid>/characters/andre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -415,10 +415,10 @@
 	
 	<item>
 	  <title>Hen</title>
-	  <link>https://millmint.net/characters/hen/</link>
+	  <link>/characters/hen/</link>
 	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/hen/</guid>
+	  <guid>/characters/hen/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -433,10 +433,10 @@
 	
 	<item>
 	  <title>Willy</title>
-	  <link>https://millmint.net/characters/willy/</link>
+	  <link>/characters/willy/</link>
 	  <pubDate>Mon, 01 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/willy/</guid>
+	  <guid>/characters/willy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -451,10 +451,10 @@
 	
 	<item>
 	  <title>Aleph</title>
-	  <link>https://millmint.net/characters/aleph/</link>
+	  <link>/characters/aleph/</link>
 	  <pubDate>Tue, 01 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/aleph/</guid>
+	  <guid>/characters/aleph/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -469,10 +469,10 @@
 	
 	<item>
 	  <title>Ayn</title>
-	  <link>https://millmint.net/characters/ayn/</link>
+	  <link>/characters/ayn/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/ayn/</guid>
+	  <guid>/characters/ayn/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -524,10 +524,10 @@ img {
 	
 	<item>
 	  <title>Baron</title>
-	  <link>https://millmint.net/characters/baron/</link>
+	  <link>/characters/baron/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/baron/</guid>
+	  <guid>/characters/baron/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -580,10 +580,10 @@ img {
 	
 	<item>
 	  <title>Cobian</title>
-	  <link>https://millmint.net/characters/cobian/</link>
+	  <link>/characters/cobian/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/cobian/</guid>
+	  <guid>/characters/cobian/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -637,10 +637,10 @@ img {
 	
 	<item>
 	  <title>Coretti</title>
-	  <link>https://millmint.net/characters/coretti/</link>
+	  <link>/characters/coretti/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/coretti/</guid>
+	  <guid>/characters/coretti/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -693,10 +693,10 @@ img {
 	
 	<item>
 	  <title>Lin Zhi</title>
-	  <link>https://millmint.net/characters/zhi/</link>
+	  <link>/characters/zhi/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/zhi/</guid>
+	  <guid>/characters/zhi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -750,10 +750,10 @@ img {
 	
 	<item>
 	  <title>Moise</title>
-	  <link>https://millmint.net/characters/moise/</link>
+	  <link>/characters/moise/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/moise/</guid>
+	  <guid>/characters/moise/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -805,10 +805,10 @@ img {
 	
 	<item>
 	  <title>Tzipora</title>
-	  <link>https://millmint.net/characters/tzipora/</link>
+	  <link>/characters/tzipora/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/characters/tzipora/</guid>
+	  <guid>/characters/tzipora/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

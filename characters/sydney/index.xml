@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Sydney</title>
-	<link>https://millmint.net/characters/sydney/</link>
+	<link>/characters/sydney/</link>
 	<description>Recent content in Sydney </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 01 Feb 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/sydney/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/sydney/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>New Rivers of the Atlantic</title>
-	  <link>https://millmint.net/stories/rivers/</link>
+	  <link>/stories/rivers/</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rivers/</guid>
+	  <guid>/stories/rivers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -48,10 +48,10 @@ Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we k
 	
 	<item>
 	  <title>Fruit Tingles</title>
-	  <link>https://millmint.net/stories/tingles/</link>
+	  <link>/stories/tingles/</link>
 	  <pubDate>Sat, 27 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tingles/</guid>
+	  <guid>/stories/tingles/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

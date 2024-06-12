@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Letters</title>
-	<link>https://millmint.net/millmint/patreon/letters/</link>
+	<link>/millmint/patreon/letters/</link>
 	<description>Recent content in Letters </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/millmint/patreon/letters/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/millmint/patreon/letters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Nov 2020</title>
-	  <link>https://millmint.net/millmint/patreon/letters/2020/nov/</link>
+	  <link>/millmint/patreon/letters/2020/nov/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/2020/nov/</guid>
+	  <guid>/millmint/patreon/letters/2020/nov/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -69,10 +69,10 @@ I was hesitant to promise a timeframe for the comic draft, and for good reason.]
 	
 	<item>
 	  <title>Dec 2020</title>
-	  <link>https://millmint.net/millmint/patreon/letters/2020/dec/</link>
+	  <link>/millmint/patreon/letters/2020/dec/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/2020/dec/</guid>
+	  <guid>/millmint/patreon/letters/2020/dec/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -123,10 +123,10 @@ I won’t be mucking around on the website forever — trust me, I have no inten
 	
 	<item>
 	  <title>Jan 2021</title>
-	  <link>https://millmint.net/millmint/patreon/letters/2021/jan/</link>
+	  <link>/millmint/patreon/letters/2021/jan/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/2021/jan/</guid>
+	  <guid>/millmint/patreon/letters/2021/jan/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -172,10 +172,10 @@ The first chapter of the comic is sketched. You will see it on Monday (about two
 	
 	<item>
 	  <title>Feb 2021</title>
-	  <link>https://millmint.net/millmint/patreon/letters/2021/feb/</link>
+	  <link>/millmint/patreon/letters/2021/feb/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/2021/feb/</guid>
+	  <guid>/millmint/patreon/letters/2021/feb/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -227,10 +227,10 @@ You guys voted! Looks like our next themed ‘week’ (maybe fortnight) is Ocean
 	
 	<item>
 	  <title>May 2021</title>
-	  <link>https://millmint.net/millmint/patreon/letters/2021/may/</link>
+	  <link>/millmint/patreon/letters/2021/may/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/2021/may/</guid>
+	  <guid>/millmint/patreon/letters/2021/may/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -275,10 +275,10 @@ I&rsquo;ve had a couple things going on in my personal life, so I&rsquo;ve had t
 	
 	<item>
 	  <title>Jul 2021</title>
-	  <link>https://millmint.net/millmint/patreon/letters/2021/july/</link>
+	  <link>/millmint/patreon/letters/2021/july/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/millmint/patreon/letters/2021/july/</guid>
+	  <guid>/millmint/patreon/letters/2021/july/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Comic</title>
-	<link>https://millmint.net/categories/comic/</link>
+	<link>/categories/comic/</link>
 	<description>Recent content in Comic </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 09 Oct 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/categories/comic/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/comic/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Tolerance Comic</title>
-	  <link>https://millmint.net/stories/tolerance/</link>
+	  <link>/stories/tolerance/</link>
 	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tolerance/</guid>
+	  <guid>/stories/tolerance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -75,10 +75,10 @@
 	
 	<item>
 	  <title>Ham Comic</title>
-	  <link>https://millmint.net/stories/ham-comic/</link>
+	  <link>/stories/ham-comic/</link>
 	  <pubDate>Mon, 11 Sep 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ham-comic/</guid>
+	  <guid>/stories/ham-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -130,10 +130,10 @@
 	
 	<item>
 	  <title>Jump Comic</title>
-	  <link>https://millmint.net/stories/jump-comic/</link>
+	  <link>/stories/jump-comic/</link>
 	  <pubDate>Wed, 26 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jump-comic/</guid>
+	  <guid>/stories/jump-comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -296,10 +296,10 @@
 	
 	<item>
 	  <title>Cola Comic</title>
-	  <link>https://millmint.net/stories/cola/</link>
+	  <link>/stories/cola/</link>
 	  <pubDate>Thu, 06 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cola/</guid>
+	  <guid>/stories/cola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -462,10 +462,10 @@
 	
 	<item>
 	  <title>A Vekllei Comic</title>
-	  <link>https://millmint.net/stories/comic-update/</link>
+	  <link>/stories/comic-update/</link>
 	  <pubDate>Tue, 27 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/comic-update/</guid>
+	  <guid>/stories/comic-update/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

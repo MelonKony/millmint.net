@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Coretti</title>
-	<link>https://millmint.net/characters/coretti/</link>
+	<link>/characters/coretti/</link>
 	<description>Recent content in Coretti </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/coretti/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/coretti/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Radio</title>
-	  <link>https://millmint.net/stories/radio/</link>
+	  <link>/stories/radio/</link>
 	  <pubDate>Mon, 08 Apr 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/radio/</guid>
+	  <guid>/stories/radio/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -44,10 +44,10 @@
 	
 	<item>
 	  <title>A Vekllei Student</title>
-	  <link>https://millmint.net/stories/vekllei-student/</link>
+	  <link>/stories/vekllei-student/</link>
 	  <pubDate>Mon, 15 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vekllei-student/</guid>
+	  <guid>/stories/vekllei-student/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -66,10 +66,10 @@
 	
 	<item>
 	  <title>High-Speed Rail</title>
-	  <link>https://millmint.net/stories/high-speed-rail/</link>
+	  <link>/stories/high-speed-rail/</link>
 	  <pubDate>Wed, 03 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/high-speed-rail/</guid>
+	  <guid>/stories/high-speed-rail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -88,10 +88,10 @@
 	
 	<item>
 	  <title>Barracks Dress</title>
-	  <link>https://millmint.net/stories/barracks-dress/</link>
+	  <link>/stories/barracks-dress/</link>
 	  <pubDate>Tue, 31 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/barracks-dress/</guid>
+	  <guid>/stories/barracks-dress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -117,10 +117,10 @@ She wears a gi (a ceremonial Oslolan pleat), her sabre (all infantry are trained
 	
 	<item>
 	  <title>The Congo Regiment</title>
-	  <link>https://millmint.net/stories/congo-regiment/</link>
+	  <link>/stories/congo-regiment/</link>
 	  <pubDate>Mon, 30 Oct 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/congo-regiment/</guid>
+	  <guid>/stories/congo-regiment/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -138,10 +138,10 @@ The volunteers are a Vekllei initiative to support the Red Cross in north-east C
 	
 	<item>
 	  <title>Station Girls</title>
-	  <link>https://millmint.net/stories/station-girls/</link>
+	  <link>/stories/station-girls/</link>
 	  <pubDate>Sat, 29 Jul 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/station-girls/</guid>
+	  <guid>/stories/station-girls/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -195,10 +195,10 @@ The volunteers are a Vekllei initiative to support the Red Cross in north-east C
 	
 	<item>
 	  <title>Friends</title>
-	  <link>https://millmint.net/stories/friends-draft/</link>
+	  <link>/stories/friends-draft/</link>
 	  <pubDate>Mon, 12 Jun 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/friends-draft/</guid>
+	  <guid>/stories/friends-draft/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -224,10 +224,10 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	
 	<item>
 	  <title>General Infantry</title>
-	  <link>https://millmint.net/stories/infantry/</link>
+	  <link>/stories/infantry/</link>
 	  <pubDate>Fri, 31 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/infantry/</guid>
+	  <guid>/stories/infantry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -316,10 +316,10 @@ Coretti is Afro-Russian. Even though she was born in Congo (sometimes called Zai
 	
 	<item>
 	  <title>Sketch of Coretti Adoula</title>
-	  <link>https://millmint.net/stories/coretti/</link>
+	  <link>/stories/coretti/</link>
 	  <pubDate>Wed, 15 Mar 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/coretti/</guid>
+	  <guid>/stories/coretti/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -380,10 +380,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Café Diplomacy</title>
-	  <link>https://millmint.net/stories/vista/</link>
+	  <link>/stories/vista/</link>
 	  <pubDate>Tue, 12 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vista/</guid>
+	  <guid>/stories/vista/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -401,10 +401,10 @@ Here is her original sketch:]]>
 	
 	<item>
 	  <title>Towers in the Park</title>
-	  <link>https://millmint.net/stories/towers/</link>
+	  <link>/stories/towers/</link>
 	  <pubDate>Sun, 24 Apr 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/towers/</guid>
+	  <guid>/stories/towers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -429,10 +429,10 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	
 	<item>
 	  <title>Lunch in the Park</title>
-	  <link>https://millmint.net/stories/wine/</link>
+	  <link>/stories/wine/</link>
 	  <pubDate>Tue, 15 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/wine/</guid>
+	  <guid>/stories/wine/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -450,10 +450,10 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	
 	<item>
 	  <title>All Chapels for All Women</title>
-	  <link>https://millmint.net/stories/chapel/</link>
+	  <link>/stories/chapel/</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/chapel/</guid>
+	  <guid>/stories/chapel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -492,10 +492,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	
 	<item>
 	  <title>Vekllei Rumba</title>
-	  <link>https://millmint.net/stories/rumba/</link>
+	  <link>/stories/rumba/</link>
 	  <pubDate>Sat, 18 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rumba/</guid>
+	  <guid>/stories/rumba/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -516,10 +516,10 @@ Coretti was an Afro-Russian, but had lived in Vekllei since she was six. She spo
 	
 	<item>
 	  <title>A New Generation</title>
-	  <link>https://millmint.net/stories/new-generation/</link>
+	  <link>/stories/new-generation/</link>
 	  <pubDate>Sat, 21 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/new-generation/</guid>
+	  <guid>/stories/new-generation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -541,10 +541,10 @@ Some Marxist continental intellectual had said something a half-century ago abou
 	
 	<item>
 	  <title>Gone Hollywood</title>
-	  <link>https://millmint.net/stories/hollywood/</link>
+	  <link>/stories/hollywood/</link>
 	  <pubDate>Mon, 24 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hollywood/</guid>
+	  <guid>/stories/hollywood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -570,10 +570,10 @@ Sulphur is everywhere in Vekllei — even in the cities, the drinking water smel
 	
 	<item>
 	  <title>Vekllei&#39;s New-Age Women</title>
-	  <link>https://millmint.net/stories/women/</link>
+	  <link>/stories/women/</link>
 	  <pubDate>Thu, 01 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/women/</guid>
+	  <guid>/stories/women/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -633,10 +633,10 @@ When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreig
 	
 	<item>
 	  <title>Turning Things Around</title>
-	  <link>https://millmint.net/stories/around/</link>
+	  <link>/stories/around/</link>
 	  <pubDate>Sat, 20 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/around/</guid>
+	  <guid>/stories/around/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

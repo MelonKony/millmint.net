@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Merce</title>
-	<link>https://millmint.net/characters/merce/</link>
+	<link>/characters/merce/</link>
 	<description>Recent content in Merce </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Mon, 22 Apr 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/merce/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/merce/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Constable</title>
-	  <link>https://millmint.net/stories/merce/</link>
+	  <link>/stories/merce/</link>
 	  <pubDate>Mon, 22 Apr 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/merce/</guid>
+	  <guid>/stories/merce/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -47,10 +47,10 @@ She &lsquo;knows&rsquo; Tzipora well.]]>
 	
 	<item>
 	  <title>Chief Inspector</title>
-	  <link>https://millmint.net/stories/patrol/</link>
+	  <link>/stories/patrol/</link>
 	  <pubDate>Tue, 05 Mar 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/patrol/</guid>
+	  <guid>/stories/patrol/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -69,10 +69,10 @@ She &lsquo;knows&rsquo; Tzipora well.]]>
 	
 	<item>
 	  <title>Nabbed</title>
-	  <link>https://millmint.net/stories/nabbed/</link>
+	  <link>/stories/nabbed/</link>
 	  <pubDate>Fri, 22 Dec 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/nabbed/</guid>
+	  <guid>/stories/nabbed/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -103,10 +103,10 @@ Their police reflects this; local cops have broad informal powers unthinkable ov
 	
 	<item>
 	  <title>Towers in the Park</title>
-	  <link>https://millmint.net/stories/towers/</link>
+	  <link>/stories/towers/</link>
 	  <pubDate>Sun, 24 Apr 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/towers/</guid>
+	  <guid>/stories/towers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Ministry of Defence</title>
-	<link>https://millmint.net/factbook/society/state/government/ministries/defence/</link>
+	<link>/factbook/society/state/government/ministries/defence/</link>
 	<description>Recent content in Ministry of Defence </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/society/state/government/ministries/defence/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/state/government/ministries/defence/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Armed Forces of Vekllei</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/military/</link>
+	  <link>/factbook/society/state/government/ministries/defence/military/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/military/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/military/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -720,10 +720,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	
 	<item>
 	  <title>Bureau of Supply</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-supply/</link>
+	  <link>/factbook/society/state/government/ministries/defence/bureau-of-supply/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-supply/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/bureau-of-supply/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -743,10 +743,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	
 	<item>
 	  <title>Bureau of War</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-war/</link>
+	  <link>/factbook/society/state/government/ministries/defence/bureau-of-war/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/bureau-of-war/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/bureau-of-war/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -807,10 +807,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	
 	<item>
 	  <title>Defence Imagery Establishment</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/die/</link>
+	  <link>/factbook/society/state/government/ministries/defence/die/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/die/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/die/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -830,10 +830,10 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
 	
 	<item>
 	  <title>DSRE</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/dsre/</link>
+	  <link>/factbook/society/state/government/ministries/defence/dsre/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/dsre/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/dsre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -967,10 +967,10 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	
 	<item>
 	  <title>Police of the Parliament</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-parliament/</link>
+	  <link>/factbook/society/state/government/ministries/defence/police-of-the-parliament/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-parliament/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/police-of-the-parliament/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1071,10 +1071,10 @@ The DSRE has extensive connections throughout the Commonwealth defence industry,
 	
 	<item>
 	  <title>Police of the Public</title>
-	  <link>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-public/</link>
+	  <link>/factbook/society/state/government/ministries/defence/police-of-the-public/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/society/state/government/ministries/defence/police-of-the-public/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/police-of-the-public/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

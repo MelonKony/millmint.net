@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Tzafi</title>
-	<link>https://millmint.net/characters/tzafi/</link>
+	<link>/characters/tzafi/</link>
 	<description>Recent content in Tzafi </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 11 Jan 2022 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/tzafi/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/tzafi/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Policing Anarchy</title>
-	  <link>https://millmint.net/stories/police/</link>
+	  <link>/stories/police/</link>
 	  <pubDate>Tue, 11 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police/</guid>
+	  <guid>/stories/police/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -68,10 +68,10 @@ Vekllei has three police forces, one for each of its features as a country.]]>
 	
 	<item>
 	  <title>Station Logic</title>
-	  <link>https://millmint.net/stories/station-logic/</link>
+	  <link>/stories/station-logic/</link>
 	  <pubDate>Tue, 01 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/station-logic/</guid>
+	  <guid>/stories/station-logic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

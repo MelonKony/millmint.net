@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Update</title>
-	<link>https://millmint.net/tags/update/</link>
+	<link>/tags/update/</link>
 	<description>Recent content in Update </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Wed, 30 Jun 2021 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/update/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Something New is on The Horizon</title>
-	  <link>https://millmint.net/stories/something-new/</link>
+	  <link>/stories/something-new/</link>
 	  <pubDate>Wed, 30 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/something-new/</guid>
+	  <guid>/stories/something-new/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -49,10 +49,10 @@ Hobart // MelonKony]]>
 	
 	<item>
 	  <title>A Vekllei Comic</title>
-	  <link>https://millmint.net/stories/comic-update/</link>
+	  <link>/stories/comic-update/</link>
 	  <pubDate>Tue, 27 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/comic-update/</guid>
+	  <guid>/stories/comic-update/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -88,10 +88,10 @@ This is exciting, isn’t it? This is a new chapter for me as an artist. It’s 
 	
 	<item>
 	  <title>2,000 members! WOW!</title>
-	  <link>https://millmint.net/stories/2000/</link>
+	  <link>/stories/2000/</link>
 	  <pubDate>Thu, 27 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2000/</guid>
+	  <guid>/stories/2000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -121,10 +121,10 @@ Thank you kindly to all commenters, readers and friends of the project, whether 
 	
 	<item>
 	  <title>Announcing Tzipo-stcards</title>
-	  <link>https://millmint.net/stories/postcards/</link>
+	  <link>/stories/postcards/</link>
 	  <pubDate>Wed, 13 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/postcards/</guid>
+	  <guid>/stories/postcards/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -166,10 +166,10 @@ I think about $20 over your pledge lifetime would cover print and shipping, thou
 	
 	<item>
 	  <title>Hobart and Tzipora are off to Japan</title>
-	  <link>https://millmint.net/stories/japan/</link>
+	  <link>/stories/japan/</link>
 	  <pubDate>Thu, 09 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/japan/</guid>
+	  <guid>/stories/japan/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

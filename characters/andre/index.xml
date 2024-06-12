@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Andre</title>
-	<link>https://millmint.net/characters/andre/</link>
+	<link>/characters/andre/</link>
 	<description>Recent content in Andre </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Sat, 18 Dec 2021 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/andre/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/andre/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Vekllei Rumba</title>
-	  <link>https://millmint.net/stories/rumba/</link>
+	  <link>/stories/rumba/</link>
 	  <pubDate>Sat, 18 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rumba/</guid>
+	  <guid>/stories/rumba/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

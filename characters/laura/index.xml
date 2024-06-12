@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Laura</title>
-	<link>https://millmint.net/characters/laura/</link>
+	<link>/characters/laura/</link>
 	<description>Recent content in Laura </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 23 Jan 2024 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/characters/laura/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/laura/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Company Car</title>
-	  <link>https://millmint.net/stories/company-car/</link>
+	  <link>/stories/company-car/</link>
 	  <pubDate>Tue, 23 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/company-car/</guid>
+	  <guid>/stories/company-car/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -45,10 +45,10 @@ Because government cars are made to the same standard as police cruisers, they&r
 	
 	<item>
 	  <title>Inspectors</title>
-	  <link>https://millmint.net/stories/inspectors/</link>
+	  <link>/stories/inspectors/</link>
 	  <pubDate>Fri, 19 Jan 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/inspectors/</guid>
+	  <guid>/stories/inspectors/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

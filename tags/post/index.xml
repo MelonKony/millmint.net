@@ -10,20 +10,20 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Post</title>
-	<link>https://millmint.net/tags/post/</link>
+	<link>/tags/post/</link>
 	<description>Recent content in Post </description>
 	<generator>Hugo</generator>
 	<language>en</language>
 	<lastBuildDate>Tue, 03 Jan 2023 08:00:00 EST</lastBuildDate>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/tags/post/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Department Commerce</title>
-	  <link>https://millmint.net/stories/department/</link>
+	  <link>/stories/department/</link>
 	  <pubDate>Tue, 03 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/department/</guid>
+	  <guid>/stories/department/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -51,10 +51,10 @@ These planned production mechanisms facilitate the reliable overproduction of es
 	
 	<item>
 	  <title>The Prime Minister(s)</title>
-	  <link>https://millmint.net/stories/ministers/</link>
+	  <link>/stories/ministers/</link>
 	  <pubDate>Sun, 01 Jan 2023 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ministers/</guid>
+	  <guid>/stories/ministers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -73,10 +73,10 @@ These planned production mechanisms facilitate the reliable overproduction of es
 	
 	<item>
 	  <title>Tannin Rivers</title>
-	  <link>https://millmint.net/stories/tannin/</link>
+	  <link>/stories/tannin/</link>
 	  <pubDate>Sat, 31 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tannin/</guid>
+	  <guid>/stories/tannin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -98,10 +98,10 @@ These planned production mechanisms facilitate the reliable overproduction of es
 	
 	<item>
 	  <title>Sepia Interests</title>
-	  <link>https://millmint.net/stories/sepia/</link>
+	  <link>/stories/sepia/</link>
 	  <pubDate>Fri, 23 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sepia/</guid>
+	  <guid>/stories/sepia/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -128,10 +128,10 @@ These planned production mechanisms facilitate the reliable overproduction of es
 	
 	<item>
 	  <title>Silica Rivers</title>
-	  <link>https://millmint.net/stories/silica/</link>
+	  <link>/stories/silica/</link>
 	  <pubDate>Fri, 02 Dec 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/silica/</guid>
+	  <guid>/stories/silica/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -149,10 +149,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>The Riot</title>
-	  <link>https://millmint.net/stories/watch/</link>
+	  <link>/stories/watch/</link>
 	  <pubDate>Wed, 26 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/watch/</guid>
+	  <guid>/stories/watch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -171,10 +171,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>Caribbean Uniforms</title>
-	  <link>https://millmint.net/stories/caribbean-uniform/</link>
+	  <link>/stories/caribbean-uniform/</link>
 	  <pubDate>Mon, 17 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/caribbean-uniform/</guid>
+	  <guid>/stories/caribbean-uniform/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -204,10 +204,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>Five Years</title>
-	  <link>https://millmint.net/stories/five-years/</link>
+	  <link>/stories/five-years/</link>
 	  <pubDate>Fri, 14 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/five-years/</guid>
+	  <guid>/stories/five-years/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -258,10 +258,10 @@ The algae and silica in the water is good for your skin, and has antibacterial p
 	
 	<item>
 	  <title>The Rifles Section</title>
-	  <link>https://millmint.net/stories/rifles/</link>
+	  <link>/stories/rifles/</link>
 	  <pubDate>Wed, 05 Oct 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rifles/</guid>
+	  <guid>/stories/rifles/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -318,10 +318,10 @@ Like some other other Parliament Police (VENOPOR) sections, the Rifles are dress
 	
 	<item>
 	  <title>Off Again</title>
-	  <link>https://millmint.net/stories/uk/</link>
+	  <link>/stories/uk/</link>
 	  <pubDate>Thu, 29 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uk/</guid>
+	  <guid>/stories/uk/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -344,10 +344,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>The Scouts</title>
-	  <link>https://millmint.net/stories/puffin/</link>
+	  <link>/stories/puffin/</link>
 	  <pubDate>Tue, 20 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin/</guid>
+	  <guid>/stories/puffin/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -407,10 +407,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Lola, Borough of Genesis</title>
-	  <link>https://millmint.net/stories/lola/</link>
+	  <link>/stories/lola/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lola/</guid>
+	  <guid>/stories/lola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -484,10 +484,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Story Trailer</title>
-	  <link>https://millmint.net/stories/trailer/</link>
+	  <link>/stories/trailer/</link>
 	  <pubDate>Thu, 15 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trailer/</guid>
+	  <guid>/stories/trailer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -506,10 +506,10 @@ It is striking to me that the shitty drawing attached to that post was the last 
 	
 	<item>
 	  <title>Stories from the Horizon</title>
-	  <link>https://millmint.net/stories/horizon/</link>
+	  <link>/stories/horizon/</link>
 	  <pubDate>Thu, 01 Sep 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/horizon/</guid>
+	  <guid>/stories/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -539,10 +539,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>The Crown and the Gi</title>
-	  <link>https://millmint.net/stories/crown/</link>
+	  <link>/stories/crown/</link>
 	  <pubDate>Sat, 06 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/crown/</guid>
+	  <guid>/stories/crown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -578,10 +578,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Caught Sketching</title>
-	  <link>https://millmint.net/stories/sketching/</link>
+	  <link>/stories/sketching/</link>
 	  <pubDate>Fri, 05 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sketching/</guid>
+	  <guid>/stories/sketching/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -600,10 +600,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Waiting for a Movie</title>
-	  <link>https://millmint.net/stories/movie/</link>
+	  <link>/stories/movie/</link>
 	  <pubDate>Thu, 04 Aug 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/movie/</guid>
+	  <guid>/stories/movie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -666,10 +666,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>School Cape</title>
-	  <link>https://millmint.net/stories/cape/</link>
+	  <link>/stories/cape/</link>
 	  <pubDate>Fri, 22 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cape/</guid>
+	  <guid>/stories/cape/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -696,10 +696,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Little Hyderabad</title>
-	  <link>https://millmint.net/stories/hyderabad/</link>
+	  <link>/stories/hyderabad/</link>
 	  <pubDate>Thu, 21 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hyderabad/</guid>
+	  <guid>/stories/hyderabad/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -743,10 +743,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>Café Diplomacy</title>
-	  <link>https://millmint.net/stories/vista/</link>
+	  <link>/stories/vista/</link>
 	  <pubDate>Tue, 12 Jul 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vista/</guid>
+	  <guid>/stories/vista/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -764,10 +764,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>A Vekllei Spaceship</title>
-	  <link>https://millmint.net/stories/lightbulb/</link>
+	  <link>/stories/lightbulb/</link>
 	  <pubDate>Mon, 30 May 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lightbulb/</guid>
+	  <guid>/stories/lightbulb/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -801,10 +801,10 @@ I&rsquo;ve been working on this project for a while now, about five years counti
 	
 	<item>
 	  <title>The Municipal</title>
-	  <link>https://millmint.net/stories/municipal/</link>
+	  <link>/stories/municipal/</link>
 	  <pubDate>Sun, 08 May 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/municipal/</guid>
+	  <guid>/stories/municipal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -852,10 +852,10 @@ In Vekllei, the word municipolis refers to]]>
 	
 	<item>
 	  <title>Panaderas</title>
-	  <link>https://millmint.net/stories/panaderas/</link>
+	  <link>/stories/panaderas/</link>
 	  <pubDate>Mon, 02 May 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/panaderas/</guid>
+	  <guid>/stories/panaderas/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -884,10 +884,10 @@ la harina va subiendo y el pan barato</p>
 	
 	<item>
 	  <title>Towers in the Park</title>
-	  <link>https://millmint.net/stories/towers/</link>
+	  <link>/stories/towers/</link>
 	  <pubDate>Sun, 24 Apr 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/towers/</guid>
+	  <guid>/stories/towers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -912,10 +912,10 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	
 	<item>
 	  <title>Transmission Towers</title>
-	  <link>https://millmint.net/stories/transmission/</link>
+	  <link>/stories/transmission/</link>
 	  <pubDate>Wed, 23 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/transmission/</guid>
+	  <guid>/stories/transmission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -933,10 +933,10 @@ Growing up in postwar Vekllei, you develop an unusual esprit de corps which supe
 	
 	<item>
 	  <title>Contrails</title>
-	  <link>https://millmint.net/stories/contrails/</link>
+	  <link>/stories/contrails/</link>
 	  <pubDate>Thu, 17 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/contrails/</guid>
+	  <guid>/stories/contrails/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -955,10 +955,10 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 	
 	<item>
 	  <title>In-Between Stations</title>
-	  <link>https://millmint.net/stories/liminal/</link>
+	  <link>/stories/liminal/</link>
 	  <pubDate>Wed, 16 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/liminal/</guid>
+	  <guid>/stories/liminal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -981,10 +981,10 @@ Tzipora would look at the livery of the planes to figure out where they were goi
 	
 	<item>
 	  <title>Lunch in the Park</title>
-	  <link>https://millmint.net/stories/wine/</link>
+	  <link>/stories/wine/</link>
 	  <pubDate>Tue, 15 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/wine/</guid>
+	  <guid>/stories/wine/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1002,10 +1002,10 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	
 	<item>
 	  <title>Kicking the Habit, Pt. 1 of 12</title>
-	  <link>https://millmint.net/stories/habit/</link>
+	  <link>/stories/habit/</link>
 	  <pubDate>Mon, 14 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/habit/</guid>
+	  <guid>/stories/habit/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1024,10 +1024,10 @@ Tzipora liked the drowsy, warming feeling of it. She liked it so much that she k
 	
 	<item>
 	  <title>School Lunch</title>
-	  <link>https://millmint.net/stories/lunch/</link>
+	  <link>/stories/lunch/</link>
 	  <pubDate>Sun, 13 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lunch/</guid>
+	  <guid>/stories/lunch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1071,10 +1071,10 @@ Food unable to be grown for the house is usually obtained from grocers. Those gr
 	
 	<item>
 	  <title>All Chapels for All Women</title>
-	  <link>https://millmint.net/stories/chapel/</link>
+	  <link>/stories/chapel/</link>
 	  <pubDate>Wed, 09 Mar 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/chapel/</guid>
+	  <guid>/stories/chapel/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1113,10 +1113,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	
 	<item>
 	  <title>Private Fantasy</title>
-	  <link>https://millmint.net/stories/drawing/</link>
+	  <link>/stories/drawing/</link>
 	  <pubDate>Mon, 14 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/drawing/</guid>
+	  <guid>/stories/drawing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1152,10 +1152,10 @@ Hearts starve as well as bodies: Give us Bread, but give us Roses.</p>
 	
 	<item>
 	  <title>New Rivers of the Atlantic</title>
-	  <link>https://millmint.net/stories/rivers/</link>
+	  <link>/stories/rivers/</link>
 	  <pubDate>Tue, 01 Feb 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rivers/</guid>
+	  <guid>/stories/rivers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1180,10 +1180,10 @@ Sydney came from Kosava, an anarchist island commune in the Lesser Antilles we k
 	
 	<item>
 	  <title>Policing Anarchy</title>
-	  <link>https://millmint.net/stories/police/</link>
+	  <link>/stories/police/</link>
 	  <pubDate>Tue, 11 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police/</guid>
+	  <guid>/stories/police/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1228,10 +1228,10 @@ Vekllei has three police forces, one for each of its features as a country.]]>
 	
 	<item>
 	  <title>100 Days of Vekllei</title>
-	  <link>https://millmint.net/stories/showa/</link>
+	  <link>/stories/showa/</link>
 	  <pubDate>Mon, 03 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/showa/</guid>
+	  <guid>/stories/showa/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1267,10 +1267,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>Happy New Year</title>
-	  <link>https://millmint.net/stories/2022/</link>
+	  <link>/stories/2022/</link>
 	  <pubDate>Sat, 01 Jan 2022 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2022/</guid>
+	  <guid>/stories/2022/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1290,10 +1290,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>Meta Moments</title>
-	  <link>https://millmint.net/stories/meta/</link>
+	  <link>/stories/meta/</link>
 	  <pubDate>Wed, 29 Dec 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/meta/</guid>
+	  <guid>/stories/meta/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1358,10 +1358,10 @@ Posts you see, exploring Vekllei Articles on the website, including upcoming pag
 	
 	<item>
 	  <title>The Vekllei Coast Guard</title>
-	  <link>https://millmint.net/stories/coast-guard/</link>
+	  <link>/stories/coast-guard/</link>
 	  <pubDate>Sun, 14 Nov 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/coast-guard/</guid>
+	  <guid>/stories/coast-guard/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1381,10 +1381,10 @@ Most often, its duties are conventional — search and rescue, law enforcement, 
 	
 	<item>
 	  <title>The World’s Last Great Utopia</title>
-	  <link>https://millmint.net/stories/vekllei/</link>
+	  <link>/stories/vekllei/</link>
 	  <pubDate>Thu, 07 Oct 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vekllei/</guid>
+	  <guid>/stories/vekllei/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1410,10 +1410,10 @@ A map lays a framework to conceptualise what the lives of these people might loo
 	
 	<item>
 	  <title>Roadside Picnic</title>
-	  <link>https://millmint.net/stories/picnic/</link>
+	  <link>/stories/picnic/</link>
 	  <pubDate>Wed, 15 Sep 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/picnic/</guid>
+	  <guid>/stories/picnic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1435,10 +1435,10 @@ A map lays a framework to conceptualise what the lives of these people might loo
 	
 	<item>
 	  <title>Tzipora Meets a Spirit</title>
-	  <link>https://millmint.net/stories/spirit-meet/</link>
+	  <link>/stories/spirit-meet/</link>
 	  <pubDate>Sat, 11 Sep 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spirit-meet/</guid>
+	  <guid>/stories/spirit-meet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1466,10 +1466,10 @@ Vekllei people do not understand spirits; they will never understand spirits.]]>
 	
 	<item>
 	  <title>The Gun</title>
-	  <link>https://millmint.net/stories/gun/</link>
+	  <link>/stories/gun/</link>
 	  <pubDate>Wed, 25 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gun/</guid>
+	  <guid>/stories/gun/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1490,10 +1490,10 @@ Tzipora was not a son but she was not unlike him.]]>
 	
 	<item>
 	  <title>A New Generation</title>
-	  <link>https://millmint.net/stories/new-generation/</link>
+	  <link>/stories/new-generation/</link>
 	  <pubDate>Sat, 21 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/new-generation/</guid>
+	  <guid>/stories/new-generation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1515,10 +1515,10 @@ Some Marxist continental intellectual had said something a half-century ago abou
 	
 	<item>
 	  <title>June 21st, 2111</title>
-	  <link>https://millmint.net/stories/june/</link>
+	  <link>/stories/june/</link>
 	  <pubDate>Thu, 12 Aug 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/june/</guid>
+	  <guid>/stories/june/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1549,10 +1549,10 @@ THIS COUNTRY IS UNDER NUCLEAR ATTACK. STAY TUNED TO THIS WAVELENGTH AT 444 KHZ.<
 	
 	<item>
 	  <title>Anxiety, Utopia</title>
-	  <link>https://millmint.net/stories/anxiety/</link>
+	  <link>/stories/anxiety/</link>
 	  <pubDate>Tue, 27 Jul 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/anxiety/</guid>
+	  <guid>/stories/anxiety/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1579,10 +1579,10 @@ Landscape is all around us, all of the time.]]>
 	
 	<item>
 	  <title>Looking Good and Feeling Good</title>
-	  <link>https://millmint.net/stories/antifashion/</link>
+	  <link>/stories/antifashion/</link>
 	  <pubDate>Wed, 21 Jul 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/antifashion/</guid>
+	  <guid>/stories/antifashion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1606,10 +1606,10 @@ Up until her first steps inside the Cozetti Department Store in Vekllei, clothin
 	
 	<item>
 	  <title>Something New is on The Horizon</title>
-	  <link>https://millmint.net/stories/something-new/</link>
+	  <link>/stories/something-new/</link>
 	  <pubDate>Wed, 30 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/something-new/</guid>
+	  <guid>/stories/something-new/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1635,10 +1635,10 @@ Hobart // MelonKony]]>
 	
 	<item>
 	  <title>The Quality of Life Surveillance Commission</title>
-	  <link>https://millmint.net/stories/qlc/</link>
+	  <link>/stories/qlc/</link>
 	  <pubDate>Tue, 29 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/qlc/</guid>
+	  <guid>/stories/qlc/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1686,10 +1686,10 @@ Although Vekllei does not use money domestically, the country is bound by the Fl
 	
 	<item>
 	  <title>Utopie ❦ Concrète</title>
-	  <link>https://millmint.net/stories/utopie/</link>
+	  <link>/stories/utopie/</link>
 	  <pubDate>Sat, 26 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/utopie/</guid>
+	  <guid>/stories/utopie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1740,10 +1740,10 @@ Although Vekllei does not use money domestically, the country is bound by the Fl
 	
 	<item>
 	  <title>Compor, Vekllei&#39;s Special Police</title>
-	  <link>https://millmint.net/stories/compor/</link>
+	  <link>/stories/compor/</link>
 	  <pubDate>Wed, 23 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/compor/</guid>
+	  <guid>/stories/compor/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1769,10 +1769,10 @@ Although Vekllei does not use money domestically, the country is bound by the Fl
 	
 	<item>
 	  <title>Spiritful</title>
-	  <link>https://millmint.net/stories/spiritful/</link>
+	  <link>/stories/spiritful/</link>
 	  <pubDate>Sat, 19 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spiritful/</guid>
+	  <guid>/stories/spiritful/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1795,10 +1795,10 @@ Of course, humans are sentimental creatures, and they become attached to native 
 	
 	<item>
 	  <title>Wicket-Keeper</title>
-	  <link>https://millmint.net/stories/wickets/</link>
+	  <link>/stories/wickets/</link>
 	  <pubDate>Tue, 15 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/wickets/</guid>
+	  <guid>/stories/wickets/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1819,10 +1819,10 @@ In Vekllei, however, the sports were better. Instead of “gym class,” they ha
 	
 	<item>
 	  <title>I have a very good website</title>
-	  <link>https://millmint.net/stories/website/</link>
+	  <link>/stories/website/</link>
 	  <pubDate>Mon, 14 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/website/</guid>
+	  <guid>/stories/website/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1848,10 +1848,10 @@ Just look at the home page. Isn’t that the coolest shit you’ve ever seen? Yo
 	
 	<item>
 	  <title>Heavy Mist</title>
-	  <link>https://millmint.net/stories/mist/</link>
+	  <link>/stories/mist/</link>
 	  <pubDate>Fri, 11 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mist/</guid>
+	  <guid>/stories/mist/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1871,10 +1871,10 @@ Tzipora here wears rouisha, loose-fitting felt pants that have been worn in Vekl
 	
 	<item>
 	  <title>Generations</title>
-	  <link>https://millmint.net/stories/cyclical/</link>
+	  <link>/stories/cyclical/</link>
 	  <pubDate>Wed, 09 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cyclical/</guid>
+	  <guid>/stories/cyclical/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1898,10 +1898,10 @@ Tzipora here wears rouisha, loose-fitting felt pants that have been worn in Vekl
 	
 	<item>
 	  <title>Shabbat Shalom</title>
-	  <link>https://millmint.net/stories/shalom/</link>
+	  <link>/stories/shalom/</link>
 	  <pubDate>Mon, 07 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shalom/</guid>
+	  <guid>/stories/shalom/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1920,10 +1920,10 @@ Baron was Jewish, but he didn’t practice much. He did, however, observe shabba
 	
 	<item>
 	  <title>Standing Around at the Swimming Carnival</title>
-	  <link>https://millmint.net/stories/swimming-carnival/</link>
+	  <link>/stories/swimming-carnival/</link>
 	  <pubDate>Sat, 05 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/swimming-carnival/</guid>
+	  <guid>/stories/swimming-carnival/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1946,10 +1946,10 @@ There is a very tragic and pathetic self-consciousness that afflicts kids around
 	
 	<item>
 	  <title>Air Atomic</title>
-	  <link>https://millmint.net/stories/fighter/</link>
+	  <link>/stories/fighter/</link>
 	  <pubDate>Fri, 04 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fighter/</guid>
+	  <guid>/stories/fighter/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1971,10 +1971,10 @@ The Ramoin-Dupont Aircraft Company, with help from the research subsidiary of th
 	
 	<item>
 	  <title>VNR Orange</title>
-	  <link>https://millmint.net/stories/orange/</link>
+	  <link>/stories/orange/</link>
 	  <pubDate>Thu, 03 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/orange/</guid>
+	  <guid>/stories/orange/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -1992,10 +1992,10 @@ The Ramoin-Dupont Aircraft Company, with help from the research subsidiary of th
 	
 	<item>
 	  <title>Mossbound</title>
-	  <link>https://millmint.net/stories/mossbound/</link>
+	  <link>/stories/mossbound/</link>
 	  <pubDate>Wed, 02 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mossbound/</guid>
+	  <guid>/stories/mossbound/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2015,10 +2015,10 @@ The Ramoin-Dupont Aircraft Company, with help from the research subsidiary of th
 	
 	<item>
 	  <title>Station Logic</title>
-	  <link>https://millmint.net/stories/station-logic/</link>
+	  <link>/stories/station-logic/</link>
 	  <pubDate>Tue, 01 Jun 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/station-logic/</guid>
+	  <guid>/stories/station-logic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2036,10 +2036,10 @@ The Ramoin-Dupont Aircraft Company, with help from the research subsidiary of th
 	
 	<item>
 	  <title>How to Read Vekllei</title>
-	  <link>https://millmint.net/stories/topet/</link>
+	  <link>/stories/topet/</link>
 	  <pubDate>Mon, 31 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/topet/</guid>
+	  <guid>/stories/topet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2077,10 +2077,10 @@ The above article covers the language conceptually in pretty much all the detail
 	
 	<item>
 	  <title>Zelda&#39;s Guide to Living Forever</title>
-	  <link>https://millmint.net/stories/forever/</link>
+	  <link>/stories/forever/</link>
 	  <pubDate>Fri, 28 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/forever/</guid>
+	  <guid>/stories/forever/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2112,10 +2112,10 @@ All stories settle on remarkable people, and Tzipora — with or without her abs
 	
 	<item>
 	  <title>Gone Hollywood</title>
-	  <link>https://millmint.net/stories/hollywood/</link>
+	  <link>/stories/hollywood/</link>
 	  <pubDate>Mon, 24 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hollywood/</guid>
+	  <guid>/stories/hollywood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2141,10 +2141,10 @@ Sulphur is everywhere in Vekllei — even in the cities, the drinking water smel
 	
 	<item>
 	  <title>A Vekllei Breakfast</title>
-	  <link>https://millmint.net/stories/breakfast/</link>
+	  <link>/stories/breakfast/</link>
 	  <pubDate>Sun, 09 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/breakfast/</guid>
+	  <guid>/stories/breakfast/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2171,10 +2171,10 @@ Sulphur is everywhere in Vekllei — even in the cities, the drinking water smel
 	
 	<item>
 	  <title>Shrine-Minded Girls</title>
-	  <link>https://millmint.net/stories/shrine-minded/</link>
+	  <link>/stories/shrine-minded/</link>
 	  <pubDate>Thu, 06 May 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shrine-minded/</guid>
+	  <guid>/stories/shrine-minded/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2196,10 +2196,10 @@ This is the tiny village of Cult, which sits on the sparse tip of the Grimsy Fjo
 	
 	<item>
 	  <title>The People of Vekllei National Rail</title>
-	  <link>https://millmint.net/stories/vnr/</link>
+	  <link>/stories/vnr/</link>
 	  <pubDate>Sun, 25 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vnr/</guid>
+	  <guid>/stories/vnr/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2223,10 +2223,10 @@ Almost every Vekllei person rides a train each day, and that train is operated b
 	
 	<item>
 	  <title>Living Diplomacy</title>
-	  <link>https://millmint.net/stories/diplomacy/</link>
+	  <link>/stories/diplomacy/</link>
 	  <pubDate>Mon, 19 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/diplomacy/</guid>
+	  <guid>/stories/diplomacy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2253,10 +2253,10 @@ Almost every Vekllei person rides a train each day, and that train is operated b
 	
 	<item>
 	  <title>Saturday. Summer Rains.</title>
-	  <link>https://millmint.net/stories/cosy/</link>
+	  <link>/stories/cosy/</link>
 	  <pubDate>Mon, 12 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cosy/</guid>
+	  <guid>/stories/cosy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2275,10 +2275,10 @@ Almost every Vekllei person rides a train each day, and that train is operated b
 	
 	<item>
 	  <title>Gold Sappers</title>
-	  <link>https://millmint.net/stories/sappers/</link>
+	  <link>/stories/sappers/</link>
 	  <pubDate>Fri, 09 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sappers/</guid>
+	  <guid>/stories/sappers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2300,10 +2300,10 @@ Almost every Vekllei person rides a train each day, and that train is operated b
 	
 	<item>
 	  <title>Vekllei&#39;s New-Age Women</title>
-	  <link>https://millmint.net/stories/women/</link>
+	  <link>/stories/women/</link>
 	  <pubDate>Thu, 01 Apr 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/women/</guid>
+	  <guid>/stories/women/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2363,10 +2363,10 @@ When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreig
 	
 	<item>
 	  <title>City Rivers</title>
-	  <link>https://millmint.net/stories/city-rivers/</link>
+	  <link>/stories/city-rivers/</link>
 	  <pubDate>Sat, 27 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/city-rivers/</guid>
+	  <guid>/stories/city-rivers/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2399,10 +2399,10 @@ When Tzipora first arrived in Vekllei in 2063, she was traumatised by the foreig
 	
 	<item>
 	  <title>The Sand Mage</title>
-	  <link>https://millmint.net/stories/sand-mage/</link>
+	  <link>/stories/sand-mage/</link>
 	  <pubDate>Fri, 19 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sand-mage/</guid>
+	  <guid>/stories/sand-mage/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2426,10 +2426,10 @@ Canonically, Tzipora can’t swim, so she spends more time on the beach than in 
 	
 	<item>
 	  <title>Killing a Sea Serpent</title>
-	  <link>https://millmint.net/stories/serpent/</link>
+	  <link>/stories/serpent/</link>
 	  <pubDate>Wed, 17 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/serpent/</guid>
+	  <guid>/stories/serpent/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2457,10 +2457,10 @@ Canonically, Tzipora can’t swim, so she spends more time on the beach than in 
 	
 	<item>
 	  <title>Vekllei’s Sprawling Commonwealth</title>
-	  <link>https://millmint.net/stories/commonwealth/</link>
+	  <link>/stories/commonwealth/</link>
 	  <pubDate>Wed, 10 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/commonwealth/</guid>
+	  <guid>/stories/commonwealth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2495,10 +2495,10 @@ When we say “Vekllei,” we most often think of the Home Island, the city-stat
 	
 	<item>
 	  <title>The Marine Railway</title>
-	  <link>https://millmint.net/stories/marine-railway/</link>
+	  <link>/stories/marine-railway/</link>
 	  <pubDate>Sat, 06 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/marine-railway/</guid>
+	  <guid>/stories/marine-railway/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2530,10 +2530,10 @@ Although vessels described here are written with female pronouns as per Western 
 	
 	<item>
 	  <title>Justice</title>
-	  <link>https://millmint.net/stories/justice/</link>
+	  <link>/stories/justice/</link>
 	  <pubDate>Mon, 01 Mar 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/justice/</guid>
+	  <guid>/stories/justice/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2568,10 +2568,10 @@ Although vessels described here are written with female pronouns as per Western 
 	
 	<item>
 	  <title>Post is for People</title>
-	  <link>https://millmint.net/stories/pond/</link>
+	  <link>/stories/pond/</link>
 	  <pubDate>Mon, 22 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/pond/</guid>
+	  <guid>/stories/pond/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2591,10 +2591,10 @@ Although vessels described here are written with female pronouns as per Western 
 	
 	<item>
 	  <title>Turning Things Around</title>
-	  <link>https://millmint.net/stories/around/</link>
+	  <link>/stories/around/</link>
 	  <pubDate>Sat, 20 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/around/</guid>
+	  <guid>/stories/around/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2622,10 +2622,10 @@ Considering his bluntness and irritability, it was funny that he could only make
 	
 	<item>
 	  <title>Philately Foolery</title>
-	  <link>https://millmint.net/stories/stamps/</link>
+	  <link>/stories/stamps/</link>
 	  <pubDate>Tue, 16 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/stamps/</guid>
+	  <guid>/stories/stamps/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2674,10 +2674,10 @@ Domestic stamps have a coloured square, called a chromacode, used for sorting ma
 	
 	<item>
 	  <title>The Stamp Manufacturie</title>
-	  <link>https://millmint.net/stories/manufacturie/</link>
+	  <link>/stories/manufacturie/</link>
 	  <pubDate>Thu, 11 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/manufacturie/</guid>
+	  <guid>/stories/manufacturie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2703,10 +2703,10 @@ Domestic stamps have a coloured square, called a chromacode, used for sorting ma
 	
 	<item>
 	  <title>3,000 MEMBERS!</title>
-	  <link>https://millmint.net/stories/3000/</link>
+	  <link>/stories/3000/</link>
 	  <pubDate>Tue, 09 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/3000/</guid>
+	  <guid>/stories/3000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2742,10 +2742,10 @@ For those who are new, I encourage you to read the posts pinned to the top of th
 	
 	<item>
 	  <title>Racing the Post Office to the Station</title>
-	  <link>https://millmint.net/stories/mail-train/</link>
+	  <link>/stories/mail-train/</link>
 	  <pubDate>Fri, 05 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mail-train/</guid>
+	  <guid>/stories/mail-train/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2775,10 +2775,10 @@ A stab of panic shot through her as she woke, bleary-eyed and senseless, to the 
 	
 	<item>
 	  <title>The Fairie</title>
-	  <link>https://millmint.net/stories/fairie/</link>
+	  <link>/stories/fairie/</link>
 	  <pubDate>Wed, 03 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fairie/</guid>
+	  <guid>/stories/fairie/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2803,10 +2803,10 @@ A stab of panic shot through her as she woke, bleary-eyed and senseless, to the 
 	
 	<item>
 	  <title>The Postmistress of Vekllei</title>
-	  <link>https://millmint.net/stories/postmistress/</link>
+	  <link>/stories/postmistress/</link>
 	  <pubDate>Tue, 02 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/postmistress/</guid>
+	  <guid>/stories/postmistress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2830,10 +2830,10 @@ A stab of panic shot through her as she woke, bleary-eyed and senseless, to the 
 	
 	<item>
 	  <title>The Men and Women of the Royal Mail in Vekllei</title>
-	  <link>https://millmint.net/stories/mail/</link>
+	  <link>/stories/mail/</link>
 	  <pubDate>Mon, 01 Feb 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mail/</guid>
+	  <guid>/stories/mail/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2857,10 +2857,10 @@ A stab of panic shot through her as she woke, bleary-eyed and senseless, to the 
 	
 	<item>
 	  <title>The Puffling</title>
-	  <link>https://millmint.net/stories/puffling/</link>
+	  <link>/stories/puffling/</link>
 	  <pubDate>Wed, 27 Jan 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffling/</guid>
+	  <guid>/stories/puffling/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2881,10 +2881,10 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	
 	<item>
 	  <title>Moments in Love</title>
-	  <link>https://millmint.net/stories/moments-in-love/</link>
+	  <link>/stories/moments-in-love/</link>
 	  <pubDate>Sat, 23 Jan 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moments-in-love/</guid>
+	  <guid>/stories/moments-in-love/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2907,10 +2907,10 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	
 	<item>
 	  <title>Robots in Vekllei</title>
-	  <link>https://millmint.net/stories/robots/</link>
+	  <link>/stories/robots/</link>
 	  <pubDate>Mon, 11 Jan 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/robots/</guid>
+	  <guid>/stories/robots/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2935,10 +2935,10 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	
 	<item>
 	  <title>A New Year</title>
-	  <link>https://millmint.net/stories/rocket/</link>
+	  <link>/stories/rocket/</link>
 	  <pubDate>Tue, 05 Jan 2021 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rocket/</guid>
+	  <guid>/stories/rocket/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -2966,10 +2966,10 @@ The green and gold of the Puffin Scouts represent nature and living blood respec
 	
 	<item>
 	  <title>The Vekllei Army</title>
-	  <link>https://millmint.net/stories/army/</link>
+	  <link>/stories/army/</link>
 	  <pubDate>Wed, 30 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/army/</guid>
+	  <guid>/stories/army/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3018,10 +3018,10 @@ Since independence, a slate has been wiped clean, and a modern fighting force ha
 	
 	<item>
 	  <title>A Tzipora Christmas Story</title>
-	  <link>https://millmint.net/stories/christmas-story/</link>
+	  <link>/stories/christmas-story/</link>
 	  <pubDate>Sat, 26 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-story/</guid>
+	  <guid>/stories/christmas-story/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3065,10 +3065,10 @@ A chapter she wrote in late November one year resembled her idea of a Christmas 
 	
 	<item>
 	  <title>Full Heart</title>
-	  <link>https://millmint.net/stories/sundown/</link>
+	  <link>/stories/sundown/</link>
 	  <pubDate>Mon, 21 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sundown/</guid>
+	  <guid>/stories/sundown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3091,10 +3091,10 @@ Somehow, despite her new wealth, a panic had set in.]]>
 	
 	<item>
 	  <title>Bea and the Mosses</title>
-	  <link>https://millmint.net/stories/bea/</link>
+	  <link>/stories/bea/</link>
 	  <pubDate>Tue, 08 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bea/</guid>
+	  <guid>/stories/bea/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3115,10 +3115,10 @@ Somehow, despite her new wealth, a panic had set in.]]>
 	
 	<item>
 	  <title>Crown Land of No King</title>
-	  <link>https://millmint.net/stories/crown-land/</link>
+	  <link>/stories/crown-land/</link>
 	  <pubDate>Sat, 05 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/crown-land/</guid>
+	  <guid>/stories/crown-land/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3141,10 +3141,10 @@ Somehow, despite her new wealth, a panic had set in.]]>
 	
 	<item>
 	  <title>Coming to Grips</title>
-	  <link>https://millmint.net/stories/grips/</link>
+	  <link>/stories/grips/</link>
 	  <pubDate>Tue, 01 Dec 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/grips/</guid>
+	  <guid>/stories/grips/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3170,10 +3170,10 @@ She tried to open a jar the other day and started to cry when she couldn’t get
 	
 	<item>
 	  <title>Out of The Ground and Into The Light</title>
-	  <link>https://millmint.net/stories/city/</link>
+	  <link>/stories/city/</link>
 	  <pubDate>Sat, 28 Nov 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/city/</guid>
+	  <guid>/stories/city/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3235,10 +3235,10 @@ It is clear that in Vekllei democracy is a way of living more than it is a form 
 	
 	<item>
 	  <title>How to Speak Vekllei</title>
-	  <link>https://millmint.net/stories/language/</link>
+	  <link>/stories/language/</link>
 	  <pubDate>Sat, 14 Nov 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/language/</guid>
+	  <guid>/stories/language/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3283,10 +3283,10 @@ This post will briefly discuss some elements shown in this infographic, but a la
 	
 	<item>
 	  <title>21st Century Witch</title>
-	  <link>https://millmint.net/stories/witch/</link>
+	  <link>/stories/witch/</link>
 	  <pubDate>Mon, 09 Nov 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/witch/</guid>
+	  <guid>/stories/witch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3313,10 +3313,10 @@ The Demotic Meeting Hall was constructed twenty years prior as the main meeting 
 	
 	<item>
 	  <title>A Vekllei Comic</title>
-	  <link>https://millmint.net/stories/comic-update/</link>
+	  <link>/stories/comic-update/</link>
 	  <pubDate>Tue, 27 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/comic-update/</guid>
+	  <guid>/stories/comic-update/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3352,10 +3352,10 @@ This is exciting, isn’t it? This is a new chapter for me as an artist. It’s 
 	
 	<item>
 	  <title>All That’s Solid Melts into Zelda</title>
-	  <link>https://millmint.net/stories/melting/</link>
+	  <link>/stories/melting/</link>
 	  <pubDate>Sun, 18 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/melting/</guid>
+	  <guid>/stories/melting/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3385,10 +3385,10 @@ The wind had died and it seemed that she would follow it. Crazy shadows distorte
 	
 	<item>
 	  <title>Petrol Heaven — The Rohsm STR-750</title>
-	  <link>https://millmint.net/stories/auto/</link>
+	  <link>/stories/auto/</link>
 	  <pubDate>Tue, 13 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/auto/</guid>
+	  <guid>/stories/auto/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3413,10 +3413,10 @@ The wind had died and it seemed that she would follow it. Crazy shadows distorte
 	
 	<item>
 	  <title>Mittens and Metaphysic</title>
-	  <link>https://millmint.net/stories/metaphysic/</link>
+	  <link>/stories/metaphysic/</link>
 	  <pubDate>Sun, 11 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/metaphysic/</guid>
+	  <guid>/stories/metaphysic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3460,10 +3460,10 @@ Sundress Municipalism and how it works Macroeconomics and currency in a country 
 	
 	<item>
 	  <title>Atlantic Boredom</title>
-	  <link>https://millmint.net/stories/waterfront/</link>
+	  <link>/stories/waterfront/</link>
 	  <pubDate>Wed, 07 Oct 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/waterfront/</guid>
+	  <guid>/stories/waterfront/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3489,10 +3489,10 @@ Sundress Municipalism and how it works Macroeconomics and currency in a country 
 	
 	<item>
 	  <title>Baron, the Father</title>
-	  <link>https://millmint.net/stories/father/</link>
+	  <link>/stories/father/</link>
 	  <pubDate>Wed, 30 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/father/</guid>
+	  <guid>/stories/father/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3524,10 +3524,10 @@ Tzipora is his closest friend and daughter at the same time. She is a wholly ene
 	
 	<item>
 	  <title>Little Bouncy Zelda — an animation diary</title>
-	  <link>https://millmint.net/stories/animation/</link>
+	  <link>/stories/animation/</link>
 	  <pubDate>Sun, 27 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/animation/</guid>
+	  <guid>/stories/animation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3554,10 +3554,10 @@ It&rsquo;s difficult to grasp just how much work animation is until you try it. 
 	
 	<item>
 	  <title>Memory and Death in the Flower Tundra</title>
-	  <link>https://millmint.net/stories/death/</link>
+	  <link>/stories/death/</link>
 	  <pubDate>Sat, 19 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/death/</guid>
+	  <guid>/stories/death/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3581,10 +3581,10 @@ Her death deeply disturbed Tzipora, who was keenly aware of how sentimental peop
 	
 	<item>
 	  <title>Cobian and Zelda &#34;head-over-heels&#34;</title>
-	  <link>https://millmint.net/stories/heels/</link>
+	  <link>/stories/heels/</link>
 	  <pubDate>Thu, 17 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/heels/</guid>
+	  <guid>/stories/heels/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3604,10 +3604,10 @@ Her death deeply disturbed Tzipora, who was keenly aware of how sentimental peop
 	
 	<item>
 	  <title>Matchstick Girl</title>
-	  <link>https://millmint.net/stories/matchstick/</link>
+	  <link>/stories/matchstick/</link>
 	  <pubDate>Mon, 14 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/matchstick/</guid>
+	  <guid>/stories/matchstick/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3634,10 +3634,10 @@ They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora reg
 	
 	<item>
 	  <title>Road Trip</title>
-	  <link>https://millmint.net/stories/road-trip/</link>
+	  <link>/stories/road-trip/</link>
 	  <pubDate>Fri, 11 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/road-trip/</guid>
+	  <guid>/stories/road-trip/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3659,10 +3659,10 @@ They were in Callaisn (pronounced ka-lane), a borough of the capital Tzipora reg
 	
 	<item>
 	  <title>Uniforms in Vekllei</title>
-	  <link>https://millmint.net/stories/uniforms/</link>
+	  <link>/stories/uniforms/</link>
 	  <pubDate>Tue, 08 Sep 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uniforms/</guid>
+	  <guid>/stories/uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3692,10 +3692,10 @@ As an addendum, although many readers find common ancestry with Japan in this pr
 	
 	<item>
 	  <title>Absolute Grotesque</title>
-	  <link>https://millmint.net/stories/war-map/</link>
+	  <link>/stories/war-map/</link>
 	  <pubDate>Mon, 31 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/war-map/</guid>
+	  <guid>/stories/war-map/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3738,10 +3738,10 @@ Soon, we saw the consolidation of nation-states into geographic regions with a d
 	
 	<item>
 	  <title>2,000 members! WOW!</title>
-	  <link>https://millmint.net/stories/2000/</link>
+	  <link>/stories/2000/</link>
 	  <pubDate>Thu, 27 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/2000/</guid>
+	  <guid>/stories/2000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3771,10 +3771,10 @@ Thank you kindly to all commenters, readers and friends of the project, whether 
 	
 	<item>
 	  <title>Absolute Quiet</title>
-	  <link>https://millmint.net/stories/absolute-quiet/</link>
+	  <link>/stories/absolute-quiet/</link>
 	  <pubDate>Mon, 24 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/absolute-quiet/</guid>
+	  <guid>/stories/absolute-quiet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3799,10 +3799,10 @@ The throbbing machinery of another world began turning, and anyone who saw the b
 	
 	<item>
 	  <title>Rural Newda in Rural Vekllei</title>
-	  <link>https://millmint.net/stories/rural-newda/</link>
+	  <link>/stories/rural-newda/</link>
 	  <pubDate>Mon, 17 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rural-newda/</guid>
+	  <guid>/stories/rural-newda/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3825,10 +3825,10 @@ The throbbing machinery of another world began turning, and anyone who saw the b
 	
 	<item>
 	  <title>The Thousand-Year-Old Girl</title>
-	  <link>https://millmint.net/stories/gregori-heitzfeld/</link>
+	  <link>/stories/gregori-heitzfeld/</link>
 	  <pubDate>Wed, 12 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gregori-heitzfeld/</guid>
+	  <guid>/stories/gregori-heitzfeld/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3859,10 +3859,10 @@ As Tzipora found out quickly, the opposite was true — death and temporality we
 	
 	<item>
 	  <title>The 31st Century</title>
-	  <link>https://millmint.net/stories/apricot/</link>
+	  <link>/stories/apricot/</link>
 	  <pubDate>Sun, 09 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/apricot/</guid>
+	  <guid>/stories/apricot/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3898,10 +3898,10 @@ By 3076, our Solar System is a pleasant place to be. Most of the planets we once
 	
 	<item>
 	  <title>Meet Tzipora — concept panel for a Vekllei comic</title>
-	  <link>https://millmint.net/stories/tzipora-concept/</link>
+	  <link>/stories/tzipora-concept/</link>
 	  <pubDate>Sat, 01 Aug 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora-concept/</guid>
+	  <guid>/stories/tzipora-concept/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3930,10 +3930,10 @@ She has a lot of endearing characteristics that give great character to her mann
 	
 	<item>
 	  <title>Summer House in the Azores</title>
-	  <link>https://millmint.net/stories/summer-house/</link>
+	  <link>/stories/summer-house/</link>
 	  <pubDate>Tue, 28 Jul 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/summer-house/</guid>
+	  <guid>/stories/summer-house/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3955,10 +3955,10 @@ The Azores was Vekllei’s resort region, often called simply the “holiday isl
 	
 	<item>
 	  <title>Base Camp</title>
-	  <link>https://millmint.net/stories/base-camp/</link>
+	  <link>/stories/base-camp/</link>
 	  <pubDate>Tue, 21 Jul 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/base-camp/</guid>
+	  <guid>/stories/base-camp/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -3983,10 +3983,10 @@ The Krafla high-energy communications tower was visible from all over the region
 	
 	<item>
 	  <title>Tzipora’s ‘Every Day Carry’</title>
-	  <link>https://millmint.net/stories/edc/</link>
+	  <link>/stories/edc/</link>
 	  <pubDate>Mon, 20 Jul 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/edc/</guid>
+	  <guid>/stories/edc/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4017,10 +4017,10 @@ She was also naturally obsessive and material-oriented, keenly aware of the impo
 	
 	<item>
 	  <title>The Race for Inefficiency</title>
-	  <link>https://millmint.net/stories/inefficiency/</link>
+	  <link>/stories/inefficiency/</link>
 	  <pubDate>Mon, 13 Jul 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/inefficiency/</guid>
+	  <guid>/stories/inefficiency/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4109,10 +4109,10 @@ Overview of the Bureau System # There are many thousands of companies busy with 
 	
 	<item>
 	  <title>Police in Vekllei</title>
-	  <link>https://millmint.net/stories/policing/</link>
+	  <link>/stories/policing/</link>
 	  <pubDate>Wed, 08 Jul 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/policing/</guid>
+	  <guid>/stories/policing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4142,10 +4142,10 @@ Fedecenoayan porits (national police, or venopor) Comoisniyan denporitsa (local 
 	
 	<item>
 	  <title>What is This Project?</title>
-	  <link>https://millmint.net/stories/what-is-this-project/</link>
+	  <link>/stories/what-is-this-project/</link>
 	  <pubDate>Tue, 30 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/what-is-this-project/</guid>
+	  <guid>/stories/what-is-this-project/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4215,10 +4215,10 @@ You can read more about Vekllei (the country) by clicking here.</p>
 	
 	<item>
 	  <title>A Map of Vekllei</title>
-	  <link>https://millmint.net/stories/map-of-vekllei/</link>
+	  <link>/stories/map-of-vekllei/</link>
 	  <pubDate>Mon, 29 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/map-of-vekllei/</guid>
+	  <guid>/stories/map-of-vekllei/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4267,10 +4267,10 @@ The largest division of any portion of Vekllei land is the borough; a region of 
 	
 	<item>
 	  <title>The Vekllei Crown</title>
-	  <link>https://millmint.net/stories/currency/</link>
+	  <link>/stories/currency/</link>
 	  <pubDate>Mon, 29 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/currency/</guid>
+	  <guid>/stories/currency/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4300,10 +4300,10 @@ The largest division of any portion of Vekllei land is the borough; a region of 
 	
 	<item>
 	  <title>Village Map of Montre-Lola</title>
-	  <link>https://millmint.net/stories/montre-lola/</link>
+	  <link>/stories/montre-lola/</link>
 	  <pubDate>Mon, 29 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/montre-lola/</guid>
+	  <guid>/stories/montre-lola/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4329,10 +4329,10 @@ The largest division of any portion of Vekllei land is the borough; a region of 
 	
 	<item>
 	  <title>A Most Beautiful Woman</title>
-	  <link>https://millmint.net/stories/beautiful-woman/</link>
+	  <link>/stories/beautiful-woman/</link>
 	  <pubDate>Fri, 12 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/beautiful-woman/</guid>
+	  <guid>/stories/beautiful-woman/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4358,10 +4358,10 @@ It wasn’t just her features or figure that captured Tzipora’s attention — 
 	
 	<item>
 	  <title>The Oa-Class Battlecruiser</title>
-	  <link>https://millmint.net/stories/cruiser/</link>
+	  <link>/stories/cruiser/</link>
 	  <pubDate>Sat, 06 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cruiser/</guid>
+	  <guid>/stories/cruiser/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4389,10 +4389,10 @@ Where U.S. doctrine places carriers offensively in the structure of its ship-gro
 	
 	<item>
 	  <title>Canal Living</title>
-	  <link>https://millmint.net/stories/canal/</link>
+	  <link>/stories/canal/</link>
 	  <pubDate>Wed, 03 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/canal/</guid>
+	  <guid>/stories/canal/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4414,10 +4414,10 @@ Where U.S. doctrine places carriers offensively in the structure of its ship-gro
 	
 	<item>
 	  <title>Fission Cloud at Vekllei&#39;s 50th Anniversary</title>
-	  <link>https://millmint.net/stories/fission/</link>
+	  <link>/stories/fission/</link>
 	  <pubDate>Mon, 01 Jun 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fission/</guid>
+	  <guid>/stories/fission/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4443,10 +4443,10 @@ Where U.S. doctrine places carriers offensively in the structure of its ship-gro
 	
 	<item>
 	  <title>Hot Rain in the Arctic Circle</title>
-	  <link>https://millmint.net/stories/rain/</link>
+	  <link>/stories/rain/</link>
 	  <pubDate>Wed, 27 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rain/</guid>
+	  <guid>/stories/rain/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4486,10 +4486,10 @@ Five days prior, Baron hailed an EB/NI company car and it pulled up beside him. 
 	
 	<item>
 	  <title>The Last Train Out of Ada</title>
-	  <link>https://millmint.net/stories/missed-train/</link>
+	  <link>/stories/missed-train/</link>
 	  <pubDate>Thu, 21 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/missed-train/</guid>
+	  <guid>/stories/missed-train/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4512,10 +4512,10 @@ There was not much to say about this, between the two of them.]]>
 	
 	<item>
 	  <title>Winter Uniforms in Vekllei</title>
-	  <link>https://millmint.net/stories/winter-uniforms/</link>
+	  <link>/stories/winter-uniforms/</link>
 	  <pubDate>Sat, 16 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/winter-uniforms/</guid>
+	  <guid>/stories/winter-uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4541,10 +4541,10 @@ Still, by late October, the the earth is hard with cold and the days are short.]
 	
 	<item>
 	  <title>2031 Apartment Diagram</title>
-	  <link>https://millmint.net/stories/apartment-diagram/</link>
+	  <link>/stories/apartment-diagram/</link>
 	  <pubDate>Fri, 15 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/apartment-diagram/</guid>
+	  <guid>/stories/apartment-diagram/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4572,10 +4572,10 @@ Each January, the Colour Bureau of the Architecture Assembly announces the year�
 	
 	<item>
 	  <title>Announcing Tzipo-stcards</title>
-	  <link>https://millmint.net/stories/postcards/</link>
+	  <link>/stories/postcards/</link>
 	  <pubDate>Wed, 13 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/postcards/</guid>
+	  <guid>/stories/postcards/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4617,10 +4617,10 @@ I think about $20 over your pledge lifetime would cover print and shipping, thou
 	
 	<item>
 	  <title>Fiery Peaks</title>
-	  <link>https://millmint.net/stories/peaks/</link>
+	  <link>/stories/peaks/</link>
 	  <pubDate>Thu, 07 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/peaks/</guid>
+	  <guid>/stories/peaks/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4644,10 +4644,10 @@ At first she thought it might have come from Ada, since Boya Chemical had a larg
 	
 	<item>
 	  <title>The Chemical Feast</title>
-	  <link>https://millmint.net/stories/chemical-feast/</link>
+	  <link>/stories/chemical-feast/</link>
 	  <pubDate>Wed, 06 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/chemical-feast/</guid>
+	  <guid>/stories/chemical-feast/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4679,10 +4679,10 @@ Tzipora was, at the time, making her way on foot from Montre-Lola to Ada, which 
 	
 	<item>
 	  <title>The Trials of Cobian</title>
-	  <link>https://millmint.net/stories/trials/</link>
+	  <link>/stories/trials/</link>
 	  <pubDate>Sat, 02 May 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trials/</guid>
+	  <guid>/stories/trials/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4712,10 +4712,10 @@ Tzipora never considered herself particularly tragic. It seemed straightforward,
 	
 	<item>
 	  <title>Life in Montre-Lola</title>
-	  <link>https://millmint.net/stories/rural/</link>
+	  <link>/stories/rural/</link>
 	  <pubDate>Fri, 24 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rural/</guid>
+	  <guid>/stories/rural/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4742,10 +4742,10 @@ Out here, there was a very keen sense of place and purpose. “Landscape” was 
 	
 	<item>
 	  <title>Gentle Enthusiasm</title>
-	  <link>https://millmint.net/stories/enthusiasm/</link>
+	  <link>/stories/enthusiasm/</link>
 	  <pubDate>Thu, 23 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/enthusiasm/</guid>
+	  <guid>/stories/enthusiasm/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4765,10 +4765,10 @@ It was a warm late summer and there was salt in the air. Pebbles made better swi
 	
 	<item>
 	  <title>The Ou Hydroburo Office</title>
-	  <link>https://millmint.net/stories/hydro/</link>
+	  <link>/stories/hydro/</link>
 	  <pubDate>Tue, 21 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/hydro/</guid>
+	  <guid>/stories/hydro/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4791,10 +4791,10 @@ First, where the nature of fission demands operational stability and exceptional
 	
 	<item>
 	  <title>AB/NI’s Spectres of Violence</title>
-	  <link>https://millmint.net/stories/spectre/</link>
+	  <link>/stories/spectre/</link>
 	  <pubDate>Mon, 20 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spectre/</guid>
+	  <guid>/stories/spectre/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4828,10 +4828,10 @@ First, where the nature of fission demands operational stability and exceptional
 	
 	<item>
 	  <title>Ghosts of Taiwan in the Yana Lakehouse</title>
-	  <link>https://millmint.net/stories/lakehouse/</link>
+	  <link>/stories/lakehouse/</link>
 	  <pubDate>Sun, 05 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/lakehouse/</guid>
+	  <guid>/stories/lakehouse/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4860,10 +4860,10 @@ As part of the Birmingham Convention and the second round of the Commonwealth Wa
 	
 	<item>
 	  <title>Montre, City of Learning</title>
-	  <link>https://millmint.net/stories/learning/</link>
+	  <link>/stories/learning/</link>
 	  <pubDate>Fri, 03 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/learning/</guid>
+	  <guid>/stories/learning/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4885,10 +4885,10 @@ Among the most prolific creatures in Vekllei’s academic elite, including prest
 	
 	<item>
 	  <title>Ego Death and Upen&#39;s Spiritual Rebirth</title>
-	  <link>https://millmint.net/stories/ego/</link>
+	  <link>/stories/ego/</link>
 	  <pubDate>Wed, 01 Apr 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ego/</guid>
+	  <guid>/stories/ego/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4938,10 +4938,10 @@ Among the whitecap constellations]]>
 	
 	<item>
 	  <title>The Great Ro Highlands</title>
-	  <link>https://millmint.net/stories/highlands/</link>
+	  <link>/stories/highlands/</link>
 	  <pubDate>Wed, 11 Mar 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/highlands/</guid>
+	  <guid>/stories/highlands/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4970,10 +4970,10 @@ I post a lot of sketches to the Vekllei Discord, which is something between a fa
 	
 	<item>
 	  <title>Meet Cobian, a concept panel for a Vekllei comic</title>
-	  <link>https://millmint.net/stories/cobian-concept/</link>
+	  <link>/stories/cobian-concept/</link>
 	  <pubDate>Sun, 01 Mar 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cobian-concept/</guid>
+	  <guid>/stories/cobian-concept/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -4995,10 +4995,10 @@ That doesn&rsquo;t work so well in a comic with sequential panels, so I&rsquo;ve
 	
 	<item>
 	  <title>Tzipora, the Princess of the Earth</title>
-	  <link>https://millmint.net/stories/earth-princess/</link>
+	  <link>/stories/earth-princess/</link>
 	  <pubDate>Mon, 17 Feb 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/earth-princess/</guid>
+	  <guid>/stories/earth-princess/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5039,10 +5039,10 @@ Pictured above is Tzipora Desmoisnes, the Princess of the Earth and one of the m
 	
 	<item>
 	  <title>Salad Time</title>
-	  <link>https://millmint.net/stories/salad/</link>
+	  <link>/stories/salad/</link>
 	  <pubDate>Tue, 11 Feb 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/salad/</guid>
+	  <guid>/stories/salad/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5067,10 +5067,10 @@ In Zhu&rsquo;s homeland she suffers a meat-heavy diet, and Vekllei is the first 
 	
 	<item>
 	  <title>The Vekllei Timeline</title>
-	  <link>https://millmint.net/stories/timeline/</link>
+	  <link>/stories/timeline/</link>
 	  <pubDate>Wed, 05 Feb 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/timeline/</guid>
+	  <guid>/stories/timeline/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5097,10 +5097,10 @@ For your convenience, I&rsquo;ve embedded links to the relevant posts in each ye
 	
 	<item>
 	  <title>Face to Face with Immortality</title>
-	  <link>https://millmint.net/stories/immortality/</link>
+	  <link>/stories/immortality/</link>
 	  <pubDate>Fri, 31 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/immortality/</guid>
+	  <guid>/stories/immortality/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5130,10 +5130,10 @@ It was summer, and six days after Tzipora had arrived in Japan as a Gregori amba
 	
 	<item>
 	  <title>The Girls of the Last Carriage</title>
-	  <link>https://millmint.net/stories/carriage/</link>
+	  <link>/stories/carriage/</link>
 	  <pubDate>Mon, 27 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/carriage/</guid>
+	  <guid>/stories/carriage/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5156,10 +5156,10 @@ It was summer, and six days after Tzipora had arrived in Japan as a Gregori amba
 	
 	<item>
 	  <title>The Girl and the Sublime</title>
-	  <link>https://millmint.net/stories/sublime/</link>
+	  <link>/stories/sublime/</link>
 	  <pubDate>Sun, 19 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sublime/</guid>
+	  <guid>/stories/sublime/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5183,10 +5183,10 @@ It was summer, and six days after Tzipora had arrived in Japan as a Gregori amba
 	
 	<item>
 	  <title>Traditional Dress in Vekllei</title>
-	  <link>https://millmint.net/stories/dress/</link>
+	  <link>/stories/dress/</link>
 	  <pubDate>Sat, 11 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dress/</guid>
+	  <guid>/stories/dress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5226,10 +5226,10 @@ Vekllei is an ancient culture with many inherited and vestigial artefacts. Nowhe
 	
 	<item>
 	  <title>Hobart and Tzipora are off to Japan</title>
-	  <link>https://millmint.net/stories/japan/</link>
+	  <link>/stories/japan/</link>
 	  <pubDate>Thu, 09 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/japan/</guid>
+	  <guid>/stories/japan/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5254,10 +5254,10 @@ Vekllei is an ancient culture with many inherited and vestigial artefacts. Nowhe
 	
 	<item>
 	  <title>Valleys of the Wind</title>
-	  <link>https://millmint.net/stories/wind/</link>
+	  <link>/stories/wind/</link>
 	  <pubDate>Sat, 04 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/wind/</guid>
+	  <guid>/stories/wind/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5275,10 +5275,10 @@ It seemed an exaggeration to even call it a station, since the bare concrete sla
 	
 	<item>
 	  <title>So long 2019, here&#39;s to 2020!</title>
-	  <link>https://millmint.net/stories/dance/</link>
+	  <link>/stories/dance/</link>
 	  <pubDate>Wed, 01 Jan 2020 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dance/</guid>
+	  <guid>/stories/dance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5319,10 +5319,10 @@ It seemed an exaggeration to even call it a station, since the bare concrete sla
 	
 	<item>
 	  <title>Merry Christmas</title>
-	  <link>https://millmint.net/stories/christmas-2019/</link>
+	  <link>/stories/christmas-2019/</link>
 	  <pubDate>Thu, 26 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-2019/</guid>
+	  <guid>/stories/christmas-2019/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5346,10 +5346,10 @@ Hobart]]>
 	
 	<item>
 	  <title>A Kodak Moment by a Vekllei Geyser</title>
-	  <link>https://millmint.net/stories/geyser/</link>
+	  <link>/stories/geyser/</link>
 	  <pubDate>Mon, 23 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/geyser/</guid>
+	  <guid>/stories/geyser/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5372,10 +5372,10 @@ The heavy clouds above were children of early spring, but among the steam vents 
 	
 	<item>
 	  <title>Life and Death in Vekllei Apartment Ideology</title>
-	  <link>https://millmint.net/stories/apartment-ideology/</link>
+	  <link>/stories/apartment-ideology/</link>
 	  <pubDate>Fri, 20 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/apartment-ideology/</guid>
+	  <guid>/stories/apartment-ideology/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5426,10 +5426,10 @@ Finally, there is Baron&rsquo;s bedroom and study. Like his daughter, he is a cr
 	
 	<item>
 	  <title>A “Horizon Wing” Atomic Passenger Jet</title>
-	  <link>https://millmint.net/stories/jet/</link>
+	  <link>/stories/jet/</link>
 	  <pubDate>Thu, 12 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/jet/</guid>
+	  <guid>/stories/jet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5451,10 +5451,10 @@ Although the CN-1 Horizon Wing passenger jet was not a “flying wing,” that d
 	
 	<item>
 	  <title>Sneak Sneak</title>
-	  <link>https://millmint.net/stories/sneak/</link>
+	  <link>/stories/sneak/</link>
 	  <pubDate>Wed, 11 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sneak/</guid>
+	  <guid>/stories/sneak/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5487,10 +5487,10 @@ Although the CN-1 Horizon Wing passenger jet was not a “flying wing,” that d
 	
 	<item>
 	  <title>Inside VOA’s “Flying Wing” Atomic Passenger Jet</title>
-	  <link>https://millmint.net/stories/horizon/</link>
+	  <link>/stories/horizon/</link>
 	  <pubDate>Mon, 09 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/horizon/</guid>
+	  <guid>/stories/horizon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5514,10 +5514,10 @@ Although the CN-1 Horizon Wing passenger jet was not a “flying wing,” that d
 	
 	<item>
 	  <title>Wallabies of the Arctic</title>
-	  <link>https://millmint.net/stories/wallaby/</link>
+	  <link>/stories/wallaby/</link>
 	  <pubDate>Fri, 06 Dec 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/wallaby/</guid>
+	  <guid>/stories/wallaby/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5543,10 +5543,10 @@ Although the CN-1 Horizon Wing passenger jet was not a “flying wing,” that d
 	
 	<item>
 	  <title>Making Trouble</title>
-	  <link>https://millmint.net/stories/trouble/</link>
+	  <link>/stories/trouble/</link>
 	  <pubDate>Wed, 27 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/trouble/</guid>
+	  <guid>/stories/trouble/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5585,10 +5585,10 @@ Although the CN-1 Horizon Wing passenger jet was not a “flying wing,” that d
 	
 	<item>
 	  <title>Medicating despair in the pasture of plenty</title>
-	  <link>https://millmint.net/stories/despair/</link>
+	  <link>/stories/despair/</link>
 	  <pubDate>Tue, 26 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/despair/</guid>
+	  <guid>/stories/despair/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5621,10 +5621,10 @@ Although the CN-1 Horizon Wing passenger jet was not a “flying wing,” that d
 	
 	<item>
 	  <title>Ocean-liners of the Sky — Vacuum Dirigibles in Vekllei</title>
-	  <link>https://millmint.net/stories/airship/</link>
+	  <link>/stories/airship/</link>
 	  <pubDate>Sun, 24 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/airship/</guid>
+	  <guid>/stories/airship/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5651,10 +5651,10 @@ The Angel and Memory of the People of Vekllei is the largest and most recent of 
 	
 	<item>
 	  <title>Air Stewards in Vekllei</title>
-	  <link>https://millmint.net/stories/stewards/</link>
+	  <link>/stories/stewards/</link>
 	  <pubDate>Tue, 19 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/stewards/</guid>
+	  <guid>/stories/stewards/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5696,10 +5696,10 @@ The Angel and Memory of the People of Vekllei is the largest and most recent of 
 	
 	<item>
 	  <title>Blue Shoes</title>
-	  <link>https://millmint.net/stories/blue-shoes/</link>
+	  <link>/stories/blue-shoes/</link>
 	  <pubDate>Mon, 18 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blue-shoes/</guid>
+	  <guid>/stories/blue-shoes/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5721,10 +5721,10 @@ You see, even today I&rsquo;m wildly jealous of the success of those slice-of-li
 	
 	<item>
 	  <title>Ten corpses in the snow</title>
-	  <link>https://millmint.net/stories/coup/</link>
+	  <link>/stories/coup/</link>
 	  <pubDate>Sat, 16 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/coup/</guid>
+	  <guid>/stories/coup/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5752,10 +5752,10 @@ The partially buried remains of a U.S. Air Force passenger aircraft are the only
 	
 	<item>
 	  <title>From Beaches to Mountaintops</title>
-	  <link>https://millmint.net/stories/mountaintops/</link>
+	  <link>/stories/mountaintops/</link>
 	  <pubDate>Fri, 15 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mountaintops/</guid>
+	  <guid>/stories/mountaintops/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5772,10 +5772,10 @@ The partially buried remains of a U.S. Air Force passenger aircraft are the only
 	
 	<item>
 	  <title>1000 SUBSCRIBERS</title>
-	  <link>https://millmint.net/stories/1000/</link>
+	  <link>/stories/1000/</link>
 	  <pubDate>Sun, 10 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/1000/</guid>
+	  <guid>/stories/1000/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5804,10 +5804,10 @@ Seriously though, this whole renewal of the project through a subreddit (rather 
 	
 	<item>
 	  <title>Like Father, Like Daughter</title>
-	  <link>https://millmint.net/stories/beach/</link>
+	  <link>/stories/beach/</link>
 	  <pubDate>Sat, 09 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/beach/</guid>
+	  <guid>/stories/beach/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5827,10 +5827,10 @@ Baron doesn’t like the water, and getting him down to the sea at all was a tri
 	
 	<item>
 	  <title>A Jetport Guide shuffles Americans onto the airport maglevs</title>
-	  <link>https://millmint.net/stories/tourist/</link>
+	  <link>/stories/tourist/</link>
 	  <pubDate>Thu, 07 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tourist/</guid>
+	  <guid>/stories/tourist/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5852,10 +5852,10 @@ Baron doesn’t like the water, and getting him down to the sea at all was a tri
 	
 	<item>
 	  <title>A Vekllei Timetable</title>
-	  <link>https://millmint.net/stories/timetable/</link>
+	  <link>/stories/timetable/</link>
 	  <pubDate>Wed, 06 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/timetable/</guid>
+	  <guid>/stories/timetable/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5886,10 +5886,10 @@ Most students study about 3-5 days a week, depending on the taste of the student
 	
 	<item>
 	  <title>High-stakes air racing</title>
-	  <link>https://millmint.net/stories/racing/</link>
+	  <link>/stories/racing/</link>
 	  <pubDate>Sat, 02 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/racing/</guid>
+	  <guid>/stories/racing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5908,10 +5908,10 @@ Low-speed, high-maneuverability jets (manufactured by the likes of General React
 	
 	<item>
 	  <title>Schools in a Society Without Children</title>
-	  <link>https://millmint.net/stories/schools/</link>
+	  <link>/stories/schools/</link>
 	  <pubDate>Fri, 01 Nov 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/schools/</guid>
+	  <guid>/stories/schools/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5938,10 +5938,10 @@ When you get into the idea of it, “The Child” is a particularly unfortunate 
 	
 	<item>
 	  <title>Emotional Intelligence in the Epoch of Rest</title>
-	  <link>https://millmint.net/stories/emotional/</link>
+	  <link>/stories/emotional/</link>
 	  <pubDate>Fri, 25 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/emotional/</guid>
+	  <guid>/stories/emotional/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5968,10 +5968,10 @@ Tzipora and Cobian, pictured here, have very different stories but both have fel
 	
 	<item>
 	  <title>Boyhood Fashion in Vekllei&#39;s School Halls</title>
-	  <link>https://millmint.net/stories/school-fashion/</link>
+	  <link>/stories/school-fashion/</link>
 	  <pubDate>Thu, 24 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/school-fashion/</guid>
+	  <guid>/stories/school-fashion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -5995,10 +5995,10 @@ As much of Vekllei’s uniform ideology straddles complex (and often precipitous
 	
 	<item>
 	  <title>… where did I leave all the uploads?</title>
-	  <link>https://millmint.net/stories/uploads/</link>
+	  <link>/stories/uploads/</link>
 	  <pubDate>Wed, 23 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uploads/</guid>
+	  <guid>/stories/uploads/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6023,10 +6023,10 @@ Starting from next week, several exciting projects are getting kicked into gear.
 	
 	<item>
 	  <title>The King</title>
-	  <link>https://millmint.net/stories/king/</link>
+	  <link>/stories/king/</link>
 	  <pubDate>Mon, 21 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/king/</guid>
+	  <guid>/stories/king/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6045,10 +6045,10 @@ King had offended Zelda with an off-hand comment on her youthful appearance, and
 	
 	<item>
 	  <title>A New Challenger Has Appeared!</title>
-	  <link>https://millmint.net/stories/challenger/</link>
+	  <link>/stories/challenger/</link>
 	  <pubDate>Sat, 19 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/challenger/</guid>
+	  <guid>/stories/challenger/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6067,10 +6067,10 @@ It’s a pleasure seeing such a unique style that’s really one of a kind in th
 	
 	<item>
 	  <title>Uniform Ideology in the Arctic North</title>
-	  <link>https://millmint.net/stories/uniform-ideology/</link>
+	  <link>/stories/uniform-ideology/</link>
 	  <pubDate>Thu, 17 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/uniform-ideology/</guid>
+	  <guid>/stories/uniform-ideology/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6092,10 +6092,10 @@ Life in Vekllei is filled with uniforms for work and in study, for a various his
 	
 	<item>
 	  <title>Tattoos of Violence on Quiet Men</title>
-	  <link>https://millmint.net/stories/tattoos/</link>
+	  <link>/stories/tattoos/</link>
 	  <pubDate>Mon, 14 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tattoos/</guid>
+	  <guid>/stories/tattoos/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6119,10 +6119,10 @@ Baron rolled up his sleeves and laid them out for her. You could accuse him of m
 	
 	<item>
 	  <title>The Showdown</title>
-	  <link>https://millmint.net/stories/showdown/</link>
+	  <link>/stories/showdown/</link>
 	  <pubDate>Fri, 11 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/showdown/</guid>
+	  <guid>/stories/showdown/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6142,10 +6142,10 @@ In fact, in a country of plenty, there is not much to otherwise identify with. C
 	
 	<item>
 	  <title>The Mountain Witches of Pachinki</title>
-	  <link>https://millmint.net/stories/witches/</link>
+	  <link>/stories/witches/</link>
 	  <pubDate>Sun, 06 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/witches/</guid>
+	  <guid>/stories/witches/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6173,10 +6173,10 @@ The witches of Pachinki are an interesting affair — many books have been dedic
 	
 	<item>
 	  <title>A Mafioso and His Witch</title>
-	  <link>https://millmint.net/stories/mafioso/</link>
+	  <link>/stories/mafioso/</link>
 	  <pubDate>Sat, 05 Oct 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mafioso/</guid>
+	  <guid>/stories/mafioso/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6213,10 +6213,10 @@ However, I carry the ANZAC spirit deep within me, and I&rsquo;ve made use of my 
 	
 	<item>
 	  <title>The State of the Moon in 2078</title>
-	  <link>https://millmint.net/stories/moon/</link>
+	  <link>/stories/moon/</link>
 	  <pubDate>Sat, 28 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moon/</guid>
+	  <guid>/stories/moon/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6239,10 +6239,10 @@ Vekllei unequivocally won the space race. Not because it had the first man in sp
 	
 	<item>
 	  <title>Puffin Scouts</title>
-	  <link>https://millmint.net/stories/puffin-scouts/</link>
+	  <link>/stories/puffin-scouts/</link>
 	  <pubDate>Fri, 27 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin-scouts/</guid>
+	  <guid>/stories/puffin-scouts/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6277,10 +6277,10 @@ In Winter 2064, the changes made to the constitution of the Boy Scouts of Americ
 	
 	<item>
 	  <title>500 SUBSCRIBERS</title>
-	  <link>https://millmint.net/stories/500/</link>
+	  <link>/stories/500/</link>
 	  <pubDate>Tue, 24 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/500/</guid>
+	  <guid>/stories/500/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6300,10 +6300,10 @@ Thanks for subscribing. I&rsquo;ve been pushing myself a bit too hard and my wri
 	
 	<item>
 	  <title>Living in Tomorrow, Facing the Past</title>
-	  <link>https://millmint.net/stories/tomorrow/</link>
+	  <link>/stories/tomorrow/</link>
 	  <pubDate>Sun, 22 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tomorrow/</guid>
+	  <guid>/stories/tomorrow/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6323,10 +6323,10 @@ The Copette Science Basin and Rocket Factory launches sixteen rockets a day. Tho
 	
 	<item>
 	  <title>A space tourist contemplates her first moonwalk</title>
-	  <link>https://millmint.net/stories/moonwalk/</link>
+	  <link>/stories/moonwalk/</link>
 	  <pubDate>Sat, 21 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moonwalk/</guid>
+	  <guid>/stories/moonwalk/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6352,10 +6352,10 @@ Vekllei has put a great deal of effort into developing infrastructure for touris
 	
 	<item>
 	  <title>Holiday on the Moon</title>
-	  <link>https://millmint.net/stories/moon-holiday/</link>
+	  <link>/stories/moon-holiday/</link>
 	  <pubDate>Thu, 19 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moon-holiday/</guid>
+	  <guid>/stories/moon-holiday/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6387,10 +6387,10 @@ Like most Vekllei people, Tzipora has visited the moon. From Ground Control on E
 	
 	<item>
 	  <title>Puffin Attack</title>
-	  <link>https://millmint.net/stories/puffin-attack/</link>
+	  <link>/stories/puffin-attack/</link>
 	  <pubDate>Mon, 16 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin-attack/</guid>
+	  <guid>/stories/puffin-attack/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6406,10 +6406,10 @@ Like most Vekllei people, Tzipora has visited the moon. From Ground Control on E
 	
 	<item>
 	  <title>The Expo’74 Experimental Molten-Salt Peace Reactor</title>
-	  <link>https://millmint.net/stories/reactor/</link>
+	  <link>/stories/reactor/</link>
 	  <pubDate>Sun, 15 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/reactor/</guid>
+	  <guid>/stories/reactor/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6430,10 +6430,10 @@ Expo’74 was the 2074 World’s Fair, hosted in Vekllei for the first time in n
 	
 	<item>
 	  <title>Introducing Ayn</title>
-	  <link>https://millmint.net/stories/ayn/</link>
+	  <link>/stories/ayn/</link>
 	  <pubDate>Sat, 14 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ayn/</guid>
+	  <guid>/stories/ayn/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6455,10 +6455,10 @@ Expo’74 was the 2074 World’s Fair, hosted in Vekllei for the first time in n
 	
 	<item>
 	  <title>I like bread</title>
-	  <link>https://millmint.net/stories/bread/</link>
+	  <link>/stories/bread/</link>
 	  <pubDate>Mon, 09 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bread/</guid>
+	  <guid>/stories/bread/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6477,10 +6477,10 @@ I spend a lot of time thinking about what the hell I&rsquo;m doing with my life,
 	
 	<item>
 	  <title>The Face of War in the 21st Century</title>
-	  <link>https://millmint.net/stories/foreign-legion/</link>
+	  <link>/stories/foreign-legion/</link>
 	  <pubDate>Sun, 08 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/foreign-legion/</guid>
+	  <guid>/stories/foreign-legion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6506,10 +6506,10 @@ The Vekllei de ra Couismenan Desnepotet, or the Vekllei Foreign Army, is an excl
 	
 	<item>
 	  <title>Tesmosnen, the Festival of Fasting</title>
-	  <link>https://millmint.net/stories/fishing/</link>
+	  <link>/stories/fishing/</link>
 	  <pubDate>Sat, 07 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fishing/</guid>
+	  <guid>/stories/fishing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6529,10 +6529,10 @@ The Vekllei de ra Couismenan Desnepotet, or the Vekllei Foreign Army, is an excl
 	
 	<item>
 	  <title>A Most Complex Machine, the Autokinotheodolite</title>
-	  <link>https://millmint.net/stories/autokinetheodolite/</link>
+	  <link>/stories/autokinetheodolite/</link>
 	  <pubDate>Fri, 06 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/autokinetheodolite/</guid>
+	  <guid>/stories/autokinetheodolite/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6553,10 +6553,10 @@ Deep in the mountains around Montre, above a tangle of submerged forts and balli
 	
 	<item>
 	  <title>Big Mouth, Fat Lip</title>
-	  <link>https://millmint.net/stories/fat-lip/</link>
+	  <link>/stories/fat-lip/</link>
 	  <pubDate>Thu, 05 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fat-lip/</guid>
+	  <guid>/stories/fat-lip/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6575,10 +6575,10 @@ Deep in the mountains around Montre, above a tangle of submerged forts and balli
 	
 	<item>
 	  <title>The Mountain Railway</title>
-	  <link>https://millmint.net/stories/railway/</link>
+	  <link>/stories/railway/</link>
 	  <pubDate>Wed, 04 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/railway/</guid>
+	  <guid>/stories/railway/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6597,10 +6597,10 @@ This sprawling rail network is ubiquitous with the Vekllei landscape, where imag
 	
 	<item>
 	  <title>Lighter Than Her Shadow</title>
-	  <link>https://millmint.net/stories/shadow/</link>
+	  <link>/stories/shadow/</link>
 	  <pubDate>Tue, 03 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shadow/</guid>
+	  <guid>/stories/shadow/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6619,10 +6619,10 @@ This sprawling rail network is ubiquitous with the Vekllei landscape, where imag
 	
 	<item>
 	  <title>The Valley of Faith and Sorrow</title>
-	  <link>https://millmint.net/stories/valley-of-faith-and-sorrow/</link>
+	  <link>/stories/valley-of-faith-and-sorrow/</link>
 	  <pubDate>Mon, 02 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/valley-of-faith-and-sorrow/</guid>
+	  <guid>/stories/valley-of-faith-and-sorrow/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6647,10 +6647,10 @@ This sprawling rail network is ubiquitous with the Vekllei landscape, where imag
 	
 	<item>
 	  <title>Squish!</title>
-	  <link>https://millmint.net/stories/squish/</link>
+	  <link>/stories/squish/</link>
 	  <pubDate>Sun, 01 Sep 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/squish/</guid>
+	  <guid>/stories/squish/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6670,10 +6670,10 @@ Moise has lost a lot of weight and has been blessed with a hefty frame befitting
 	
 	<item>
 	  <title>The Noble Helijet</title>
-	  <link>https://millmint.net/stories/helijet/</link>
+	  <link>/stories/helijet/</link>
 	  <pubDate>Wed, 28 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/helijet/</guid>
+	  <guid>/stories/helijet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6699,10 +6699,10 @@ Clear skies Saturday allowed air rescue services from Montre to reinforce the ti
 	
 	<item>
 	  <title>Sweat and Ink in the Vekllei News Agency</title>
-	  <link>https://millmint.net/stories/vna/</link>
+	  <link>/stories/vna/</link>
 	  <pubDate>Tue, 27 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vna/</guid>
+	  <guid>/stories/vna/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6726,10 +6726,10 @@ Clear skies Saturday allowed air rescue services from Montre to reinforce the ti
 	
 	<item>
 	  <title>Introducing Moise</title>
-	  <link>https://millmint.net/stories/moise/</link>
+	  <link>/stories/moise/</link>
 	  <pubDate>Sun, 25 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/moise/</guid>
+	  <guid>/stories/moise/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6752,10 +6752,10 @@ Zelda quickly antagonised the boy by offering him to her own bullies.]]>
 	
 	<item>
 	  <title>The Teeth Regents</title>
-	  <link>https://millmint.net/stories/regent/</link>
+	  <link>/stories/regent/</link>
 	  <pubDate>Fri, 23 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/regent/</guid>
+	  <guid>/stories/regent/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6782,10 +6782,10 @@ Three times a day his mouth had to be washed by palace maidens, and excess teeth
 	
 	<item>
 	  <title>Zelda, the Vigilant</title>
-	  <link>https://millmint.net/stories/vigilant/</link>
+	  <link>/stories/vigilant/</link>
 	  <pubDate>Fri, 23 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vigilant/</guid>
+	  <guid>/stories/vigilant/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6801,10 +6801,10 @@ Three times a day his mouth had to be washed by palace maidens, and excess teeth
 	
 	<item>
 	  <title>Neighbourhood Cruiser</title>
-	  <link>https://millmint.net/stories/police-cruiser/</link>
+	  <link>/stories/police-cruiser/</link>
 	  <pubDate>Thu, 22 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police-cruiser/</guid>
+	  <guid>/stories/police-cruiser/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6824,10 +6824,10 @@ Municipal police, as distinct from Venrouiva police, appear in many different ro
 	
 	<item>
 	  <title>At peace, in dark</title>
-	  <link>https://millmint.net/stories/peace/</link>
+	  <link>/stories/peace/</link>
 	  <pubDate>Wed, 21 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/peace/</guid>
+	  <guid>/stories/peace/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6843,10 +6843,10 @@ Municipal police, as distinct from Venrouiva police, appear in many different ro
 	
 	<item>
 	  <title>Supermarkets in Vekllei</title>
-	  <link>https://millmint.net/stories/supermarket/</link>
+	  <link>/stories/supermarket/</link>
 	  <pubDate>Mon, 19 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/supermarket/</guid>
+	  <guid>/stories/supermarket/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6868,10 +6868,10 @@ Municipal police, as distinct from Venrouiva police, appear in many different ro
 	
 	<item>
 	  <title>Puffin Logic</title>
-	  <link>https://millmint.net/stories/puffin-logic/</link>
+	  <link>/stories/puffin-logic/</link>
 	  <pubDate>Sun, 18 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin-logic/</guid>
+	  <guid>/stories/puffin-logic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6889,10 +6889,10 @@ Time-lapse here.]]>
 	
 	<item>
 	  <title>The Cherry Car</title>
-	  <link>https://millmint.net/stories/cherry/</link>
+	  <link>/stories/cherry/</link>
 	  <pubDate>Sat, 17 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cherry/</guid>
+	  <guid>/stories/cherry/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6915,10 +6915,10 @@ No matter your intention, be it holiday or rediscovery, the very best of Vekllei
 	
 	<item>
 	  <title>The People of Vekllei’s Railway (plus Dog)</title>
-	  <link>https://millmint.net/stories/station-dog/</link>
+	  <link>/stories/station-dog/</link>
 	  <pubDate>Fri, 16 Aug 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/station-dog/</guid>
+	  <guid>/stories/station-dog/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6942,10 +6942,10 @@ Vekllei National Railways, or ‘VK Rail’ was the bastard of six major pre-war
 	
 	<item>
 	  <title>2nd Draft</title>
-	  <link>https://millmint.net/stories/draft/</link>
+	  <link>/stories/draft/</link>
 	  <pubDate>Wed, 31 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/draft/</guid>
+	  <guid>/stories/draft/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -6963,10 +6963,10 @@ Vekllei National Railways, or ‘VK Rail’ was the bastard of six major pre-war
 	
 	<item>
 	  <title>What is Vekllei?</title>
-	  <link>https://millmint.net/stories/what-is-vekllei?/</link>
+	  <link>/stories/what-is-vekllei?/</link>
 	  <pubDate>Fri, 26 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/what-is-vekllei?/</guid>
+	  <guid>/stories/what-is-vekllei?/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7021,10 +7021,10 @@ Author: for blog posts and articles on the Petticoat Project, utopian fiction, 
 	
 	<item>
 	  <title>Vekllei’s Elite Military Units</title>
-	  <link>https://millmint.net/stories/garden-corps/</link>
+	  <link>/stories/garden-corps/</link>
 	  <pubDate>Thu, 25 Jul 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/garden-corps/</guid>
+	  <guid>/stories/garden-corps/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7067,10 +7067,10 @@ On Tuesday, two casualties were reported among Vekllei’s Folifedestarmie 24th 
 	
 	<item>
 	  <title>Hot Summers in the Arctic (and Newda architecture)</title>
-	  <link>https://millmint.net/stories/newda/</link>
+	  <link>/stories/newda/</link>
 	  <pubDate>Tue, 18 Jun 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/newda/</guid>
+	  <guid>/stories/newda/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7097,10 +7097,10 @@ The Café Resmoiones approaches its hundredth birthday as the girls outside awai
 	
 	<item>
 	  <title>Absolute Grotesque</title>
-	  <link>https://millmint.net/stories/grotesque/</link>
+	  <link>/stories/grotesque/</link>
 	  <pubDate>Thu, 13 Jun 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/grotesque/</guid>
+	  <guid>/stories/grotesque/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7128,10 +7128,10 @@ The Café Resmoiones approaches its hundredth birthday as the girls outside awai
 	
 	<item>
 	  <title>Catching a steam locomotive to school</title>
-	  <link>https://millmint.net/stories/cab-forward/</link>
+	  <link>/stories/cab-forward/</link>
 	  <pubDate>Thu, 30 May 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cab-forward/</guid>
+	  <guid>/stories/cab-forward/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7156,10 +7156,10 @@ The Café Resmoiones approaches its hundredth birthday as the girls outside awai
 	
 	<item>
 	  <title>Meet Tzipora Desmoines</title>
-	  <link>https://millmint.net/stories/meet-tzipora/</link>
+	  <link>/stories/meet-tzipora/</link>
 	  <pubDate>Mon, 27 May 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/meet-tzipora/</guid>
+	  <guid>/stories/meet-tzipora/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7195,10 +7195,10 @@ Genetic Freak # Gregori babies, as they&rsquo;re called, suffer from Gregori-Hei
 	
 	<item>
 	  <title>The participatory economy of Vekllei</title>
-	  <link>https://millmint.net/stories/participatory-economy/</link>
+	  <link>/stories/participatory-economy/</link>
 	  <pubDate>Tue, 07 May 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/participatory-economy/</guid>
+	  <guid>/stories/participatory-economy/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7230,10 +7230,10 @@ Genetic Freak # Gregori babies, as they&rsquo;re called, suffer from Gregori-Hei
 	
 	<item>
 	  <title>Dad&#39;s Birthday</title>
-	  <link>https://millmint.net/stories/birthday/</link>
+	  <link>/stories/birthday/</link>
 	  <pubDate>Sat, 04 May 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/birthday/</guid>
+	  <guid>/stories/birthday/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7249,10 +7249,10 @@ Genetic Freak # Gregori babies, as they&rsquo;re called, suffer from Gregori-Hei
 	
 	<item>
 	  <title>The Littlest Goddess in Pachinki</title>
-	  <link>https://millmint.net/stories/goddess/</link>
+	  <link>/stories/goddess/</link>
 	  <pubDate>Sat, 06 Apr 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/goddess/</guid>
+	  <guid>/stories/goddess/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7284,10 +7284,10 @@ Adult Palace Gods are almost entirely women, but birthrates of boys and girls ar
 	
 	<item>
 	  <title>Young and Educated</title>
-	  <link>https://millmint.net/stories/educated/</link>
+	  <link>/stories/educated/</link>
 	  <pubDate>Tue, 02 Apr 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/educated/</guid>
+	  <guid>/stories/educated/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7303,10 +7303,10 @@ Adult Palace Gods are almost entirely women, but birthrates of boys and girls ar
 	
 	<item>
 	  <title>A Mineral Lake starts absorbing Grief in Pachinki</title>
-	  <link>https://millmint.net/stories/mineral-lake/</link>
+	  <link>/stories/mineral-lake/</link>
 	  <pubDate>Sun, 31 Mar 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mineral-lake/</guid>
+	  <guid>/stories/mineral-lake/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7340,10 +7340,10 @@ Adult Palace Gods are almost entirely women, but birthrates of boys and girls ar
 	
 	<item>
 	  <title>A Celebration of all Women across the World</title>
-	  <link>https://millmint.net/stories/parade/</link>
+	  <link>/stories/parade/</link>
 	  <pubDate>Mon, 25 Mar 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/parade/</guid>
+	  <guid>/stories/parade/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7367,10 +7367,10 @@ They walk in universal solidarity but not without local identity — women’s u
 	
 	<item>
 	  <title>The Palace Gods attempt to retrieve their runaway child</title>
-	  <link>https://millmint.net/stories/palace/</link>
+	  <link>/stories/palace/</link>
 	  <pubDate>Mon, 11 Mar 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/palace/</guid>
+	  <guid>/stories/palace/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7415,10 +7415,10 @@ A chill caught her skull and traced her veins to her stomach, where it seized up
 	
 	<item>
 	  <title>The Sugarhouse Mountain Fortress</title>
-	  <link>https://millmint.net/stories/fortress/</link>
+	  <link>/stories/fortress/</link>
 	  <pubDate>Sun, 10 Mar 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fortress/</guid>
+	  <guid>/stories/fortress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7446,10 +7446,10 @@ The Fort was not finished when the bombs fell, and it sat abandoned for a half-c
 	
 	<item>
 	  <title>The Forgotten Generation</title>
-	  <link>https://millmint.net/stories/generations/</link>
+	  <link>/stories/generations/</link>
 	  <pubDate>Tue, 26 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/generations/</guid>
+	  <guid>/stories/generations/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7475,10 +7475,10 @@ The Fort was not finished when the bombs fell, and it sat abandoned for a half-c
 	
 	<item>
 	  <title>A gem girl shows off her enormous strength in Pachinki</title>
-	  <link>https://millmint.net/stories/gem/</link>
+	  <link>/stories/gem/</link>
 	  <pubDate>Sat, 16 Feb 2019 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gem/</guid>
+	  <guid>/stories/gem/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7505,10 +7505,10 @@ Battered by gem storms, where holy winds pick up stones from the deserts and sca
 	
 	<item>
 	  <title>On Childhood and Modernity</title>
-	  <link>https://millmint.net/stories/fight/</link>
+	  <link>/stories/fight/</link>
 	  <pubDate>Mon, 31 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fight/</guid>
+	  <guid>/stories/fight/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7542,10 +7542,10 @@ Battered by gem storms, where holy winds pick up stones from the deserts and sca
 	
 	<item>
 	  <title>Merry Christmas everyone (plus a little Christmas story)</title>
-	  <link>https://millmint.net/stories/christmas-2018/</link>
+	  <link>/stories/christmas-2018/</link>
 	  <pubDate>Sun, 23 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/christmas-2018/</guid>
+	  <guid>/stories/christmas-2018/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7591,10 +7591,10 @@ Battered by gem storms, where holy winds pick up stones from the deserts and sca
 	
 	<item>
 	  <title>The Suburban Constabulary</title>
-	  <link>https://millmint.net/stories/motorbike/</link>
+	  <link>/stories/motorbike/</link>
 	  <pubDate>Sun, 23 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/motorbike/</guid>
+	  <guid>/stories/motorbike/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7616,10 +7616,10 @@ Battered by gem storms, where holy winds pick up stones from the deserts and sca
 	
 	<item>
 	  <title>The Valley of the Dead</title>
-	  <link>https://millmint.net/stories/valley-of-the-dead/</link>
+	  <link>/stories/valley-of-the-dead/</link>
 	  <pubDate>Mon, 17 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/valley-of-the-dead/</guid>
+	  <guid>/stories/valley-of-the-dead/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7639,10 +7639,10 @@ Battered by gem storms, where holy winds pick up stones from the deserts and sca
 	
 	<item>
 	  <title>The Cosmojet</title>
-	  <link>https://millmint.net/stories/cosmojet/</link>
+	  <link>/stories/cosmojet/</link>
 	  <pubDate>Fri, 14 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cosmojet/</guid>
+	  <guid>/stories/cosmojet/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7670,10 +7670,10 @@ And that was the whole point. The first Ramoin-Dupont fighter was always about m
 	
 	<item>
 	  <title>Metro Days</title>
-	  <link>https://millmint.net/stories/metro-days/</link>
+	  <link>/stories/metro-days/</link>
 	  <pubDate>Tue, 11 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/metro-days/</guid>
+	  <guid>/stories/metro-days/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7689,10 +7689,10 @@ And that was the whole point. The first Ramoin-Dupont fighter was always about m
 	
 	<item>
 	  <title>The Flower Tundra</title>
-	  <link>https://millmint.net/stories/flower-tundra/</link>
+	  <link>/stories/flower-tundra/</link>
 	  <pubDate>Mon, 10 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/flower-tundra/</guid>
+	  <guid>/stories/flower-tundra/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7715,10 +7715,10 @@ And that was the whole point. The first Ramoin-Dupont fighter was always about m
 	
 	<item>
 	  <title>Rural Trains</title>
-	  <link>https://millmint.net/stories/rural-trains/</link>
+	  <link>/stories/rural-trains/</link>
 	  <pubDate>Wed, 05 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/rural-trains/</guid>
+	  <guid>/stories/rural-trains/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7736,10 +7736,10 @@ Vekllei has a lot of mountains and a lot of trains.]]>
 	
 	<item>
 	  <title>Koka parks &amp; municipal recreation</title>
-	  <link>https://millmint.net/stories/koka-parks/</link>
+	  <link>/stories/koka-parks/</link>
 	  <pubDate>Tue, 04 Dec 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/koka-parks/</guid>
+	  <guid>/stories/koka-parks/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7763,10 +7763,10 @@ Koka is the Vekllei word for forest (ka), combined with a prefixtual particle th
 	
 	<item>
 	  <title>The guilt dies with her</title>
-	  <link>https://millmint.net/stories/guilt/</link>
+	  <link>/stories/guilt/</link>
 	  <pubDate>Fri, 16 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/guilt/</guid>
+	  <guid>/stories/guilt/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7790,10 +7790,10 @@ Once her lover had left her, and her presence began to irritate the small group,
 	
 	<item>
 	  <title>Happy Summer Everyone</title>
-	  <link>https://millmint.net/stories/summer/</link>
+	  <link>/stories/summer/</link>
 	  <pubDate>Mon, 05 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/summer/</guid>
+	  <guid>/stories/summer/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7813,10 +7813,10 @@ Vekllei gets warm in the summer, reaching heights of 30C occasionally. For a var
 	
 	<item>
 	  <title>Talking about Girl Scouts and Child Soldiers</title>
-	  <link>https://millmint.net/stories/scout/</link>
+	  <link>/stories/scout/</link>
 	  <pubDate>Sun, 04 Nov 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/scout/</guid>
+	  <guid>/stories/scout/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7850,10 +7850,10 @@ The Girl Guides of the U.S. now boast catalogues of several hundred pages, selli
 	
 	<item>
 	  <title>The Stewards of the Earth</title>
-	  <link>https://millmint.net/stories/stewards/</link>
+	  <link>/stories/stewards/</link>
 	  <pubDate>Tue, 30 Oct 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/stewards/</guid>
+	  <guid>/stories/stewards/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7891,10 +7891,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>Let’s look at military fashion, because why not?</title>
-	  <link>https://millmint.net/stories/military-fashion/</link>
+	  <link>/stories/military-fashion/</link>
 	  <pubDate>Mon, 22 Oct 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/military-fashion/</guid>
+	  <guid>/stories/military-fashion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7918,10 +7918,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>The Collapse of the South</title>
-	  <link>https://millmint.net/stories/collapse/</link>
+	  <link>/stories/collapse/</link>
 	  <pubDate>Fri, 05 Oct 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/collapse/</guid>
+	  <guid>/stories/collapse/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7943,10 +7943,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>real sadboi posting hours</title>
-	  <link>https://millmint.net/stories/sadboi/</link>
+	  <link>/stories/sadboi/</link>
 	  <pubDate>Sat, 29 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/sadboi/</guid>
+	  <guid>/stories/sadboi/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7964,10 +7964,10 @@ It works out that way because Upen is not an organised religion, and resembles m
 	
 	<item>
 	  <title>School uniforms for girls</title>
-	  <link>https://millmint.net/stories/old-uniforms/</link>
+	  <link>/stories/old-uniforms/</link>
 	  <pubDate>Tue, 25 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/old-uniforms/</guid>
+	  <guid>/stories/old-uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -7990,10 +7990,10 @@ Year-round, all students wear a school armband with their year and class embroid
 	
 	<item>
 	  <title>Some notes on the end of the world</title>
-	  <link>https://millmint.net/stories/end-game/</link>
+	  <link>/stories/end-game/</link>
 	  <pubDate>Wed, 19 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/end-game/</guid>
+	  <guid>/stories/end-game/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8018,10 +8018,10 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 	
 	<item>
 	  <title>KID COMIX</title>
-	  <link>https://millmint.net/stories/comix/</link>
+	  <link>/stories/comix/</link>
 	  <pubDate>Tue, 11 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/comix/</guid>
+	  <guid>/stories/comix/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8045,10 +8045,10 @@ This missile will strike Lanzhou, China. The larger cities, swollen with people,
 	
 	<item>
 	  <title>Masculinity &amp; Fatherhood in Vekllei</title>
-	  <link>https://millmint.net/stories/masculinity/</link>
+	  <link>/stories/masculinity/</link>
 	  <pubDate>Fri, 07 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/masculinity/</guid>
+	  <guid>/stories/masculinity/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8073,10 +8073,10 @@ Vekllei is a country at odds with itself. On one hand, it is universal in its po
 	
 	<item>
 	  <title>The Vekllei Grocery Economy</title>
-	  <link>https://millmint.net/stories/shot/</link>
+	  <link>/stories/shot/</link>
 	  <pubDate>Thu, 06 Sep 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/shot/</guid>
+	  <guid>/stories/shot/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8111,10 +8111,10 @@ The light burst like a gunshot and she leapt to her feet. Down the aisle she saw
 	
 	<item>
 	  <title>summer nerds reading comix</title>
-	  <link>https://millmint.net/stories/princes-of-the-earth/</link>
+	  <link>/stories/princes-of-the-earth/</link>
 	  <pubDate>Wed, 29 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
+	  <guid>/stories/princes-of-the-earth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8130,10 +8130,10 @@ The light burst like a gunshot and she leapt to her feet. Down the aisle she saw
 	
 	<item>
 	  <title>big mood right now</title>
-	  <link>https://millmint.net/stories/mood/</link>
+	  <link>/stories/mood/</link>
 	  <pubDate>Tue, 28 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/mood/</guid>
+	  <guid>/stories/mood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8149,10 +8149,10 @@ The light burst like a gunshot and she leapt to her feet. Down the aisle she saw
 	
 	<item>
 	  <title>The Constabulary</title>
-	  <link>https://millmint.net/stories/police-uniforms/</link>
+	  <link>/stories/police-uniforms/</link>
 	  <pubDate>Thu, 23 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police-uniforms/</guid>
+	  <guid>/stories/police-uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8180,10 +8180,10 @@ Business and manufacturing are divided into two arenas in Vekllei:]]>
 	
 	<item>
 	  <title>All-weather combat for the Atomic Age</title>
-	  <link>https://millmint.net/stories/troops/</link>
+	  <link>/stories/troops/</link>
 	  <pubDate>Mon, 20 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/troops/</guid>
+	  <guid>/stories/troops/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8207,10 +8207,10 @@ We have seen this manifest in many ways; ICBMs are just one example. Warfare in 
 	
 	<item>
 	  <title>This is Blood Worship</title>
-	  <link>https://millmint.net/stories/blood/</link>
+	  <link>/stories/blood/</link>
 	  <pubDate>Sun, 19 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blood/</guid>
+	  <guid>/stories/blood/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8242,10 +8242,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>Old, dead demons still wander the countryside</title>
-	  <link>https://millmint.net/stories/demons/</link>
+	  <link>/stories/demons/</link>
 	  <pubDate>Thu, 16 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/demons/</guid>
+	  <guid>/stories/demons/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8272,10 +8272,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>The Country of Vekllei</title>
-	  <link>https://millmint.net/stories/tourist-map/</link>
+	  <link>/stories/tourist-map/</link>
 	  <pubDate>Wed, 15 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tourist-map/</guid>
+	  <guid>/stories/tourist-map/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8299,10 +8299,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>Tzipora&#39;s Portrait</title>
-	  <link>https://millmint.net/stories/tzipora-portrait/</link>
+	  <link>/stories/tzipora-portrait/</link>
 	  <pubDate>Wed, 08 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/tzipora-portrait/</guid>
+	  <guid>/stories/tzipora-portrait/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8318,10 +8318,10 @@ Yet her fundamental human ritual has broken down.]]>
 	
 	<item>
 	  <title>Announcing the Princess of the Earth</title>
-	  <link>https://millmint.net/stories/princes-of-the-earth/</link>
+	  <link>/stories/princes-of-the-earth/</link>
 	  <pubDate>Wed, 01 Aug 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princes-of-the-earth/</guid>
+	  <guid>/stories/princes-of-the-earth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8343,10 +8343,10 @@ There are many Gregori children alive today, and we have seen the miracle of the
 	
 	<item>
 	  <title>Valleys of Vekllei</title>
-	  <link>https://millmint.net/stories/valleys/</link>
+	  <link>/stories/valleys/</link>
 	  <pubDate>Sat, 28 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/valleys/</guid>
+	  <guid>/stories/valleys/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8371,10 +8371,10 @@ There are many Gregori children alive today, and we have seen the miracle of the
 	
 	<item>
 	  <title>Hot summer rain on a beach of black sand -- Iceland in 2127</title>
-	  <link>https://millmint.net/stories/black-sand/</link>
+	  <link>/stories/black-sand/</link>
 	  <pubDate>Fri, 20 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/black-sand/</guid>
+	  <guid>/stories/black-sand/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8398,10 +8398,10 @@ There are many Gregori children alive today, and we have seen the miracle of the
 	
 	<item>
 	  <title>winter love &#43; puffin / feat. Tzipora &amp; Akiko</title>
-	  <link>https://millmint.net/stories/puffin-love/</link>
+	  <link>/stories/puffin-love/</link>
 	  <pubDate>Thu, 19 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/puffin-love/</guid>
+	  <guid>/stories/puffin-love/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8419,10 +8419,10 @@ That&rsquo;s the sentiment of the phrase, but in Vekllei &lsquo;The puffin flies
 	
 	<item>
 	  <title>Navy in Vekllei</title>
-	  <link>https://millmint.net/stories/salvo/</link>
+	  <link>/stories/salvo/</link>
 	  <pubDate>Sun, 15 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/salvo/</guid>
+	  <guid>/stories/salvo/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8446,10 +8446,10 @@ The most recent stock of Navy ships are all named after women’s clothes, to em
 	
 	<item>
 	  <title>What will become of the Gregori Children?</title>
-	  <link>https://millmint.net/stories/floating/</link>
+	  <link>/stories/floating/</link>
 	  <pubDate>Tue, 10 Jul 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/floating/</guid>
+	  <guid>/stories/floating/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8488,10 +8488,10 @@ Gregori Regenerative Syndrome is a developmental phenomenon that afflicts childr
 	
 	<item>
 	  <title>Life in Vekllei</title>
-	  <link>https://millmint.net/stories/apartment-living/</link>
+	  <link>/stories/apartment-living/</link>
 	  <pubDate>Fri, 29 Jun 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/apartment-living/</guid>
+	  <guid>/stories/apartment-living/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8515,10 +8515,10 @@ When I die, it will be in Vekllei. The food is good, the women are beautiful —
 	
 	<item>
 	  <title>Blood Names</title>
-	  <link>https://millmint.net/stories/blood-names/</link>
+	  <link>/stories/blood-names/</link>
 	  <pubDate>Thu, 14 Jun 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blood-names/</guid>
+	  <guid>/stories/blood-names/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8544,10 +8544,10 @@ When I die, it will be in Vekllei. The food is good, the women are beautiful —
 	
 	<item>
 	  <title>The dress code for talking to spirits</title>
-	  <link>https://millmint.net/stories/dress-code/</link>
+	  <link>/stories/dress-code/</link>
 	  <pubDate>Thu, 24 May 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/dress-code/</guid>
+	  <guid>/stories/dress-code/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8570,10 +8570,10 @@ Ceremonial dress is simple to describe, but complex to assemble. The shape and f
 	
 	<item>
 	  <title>Police in Vekllei</title>
-	  <link>https://millmint.net/stories/police-car/</link>
+	  <link>/stories/police-car/</link>
 	  <pubDate>Fri, 18 May 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/police-car/</guid>
+	  <guid>/stories/police-car/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8600,10 +8600,10 @@ Ceremonial dress is simple to describe, but complex to assemble. The shape and f
 	
 	<item>
 	  <title>How to Bow (and Fashion in Vekllei)</title>
-	  <link>https://millmint.net/stories/bowing/</link>
+	  <link>/stories/bowing/</link>
 	  <pubDate>Tue, 01 May 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bowing/</guid>
+	  <guid>/stories/bowing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8634,10 +8634,10 @@ First, Vekllei is extremely physical in its language. Not expressive, like how y
 	
 	<item>
 	  <title>Winter Clothing (and Womanhood in Vekllei)</title>
-	  <link>https://millmint.net/stories/winter-clothing/</link>
+	  <link>/stories/winter-clothing/</link>
 	  <pubDate>Mon, 16 Apr 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/winter-clothing/</guid>
+	  <guid>/stories/winter-clothing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8668,10 +8668,10 @@ Women in Vekllei usually wear skirts in winter. There are cultural and historica
 	
 	<item>
 	  <title>Rail-Launched Nuclear Missiles</title>
-	  <link>https://millmint.net/stories/missile-train/</link>
+	  <link>/stories/missile-train/</link>
 	  <pubDate>Mon, 09 Apr 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/missile-train/</guid>
+	  <guid>/stories/missile-train/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8690,10 +8690,10 @@ Women in Vekllei usually wear skirts in winter. There are cultural and historica
 	
 	<item>
 	  <title>Washing the Feet of the Enemy</title>
-	  <link>https://millmint.net/stories/penance/</link>
+	  <link>/stories/penance/</link>
 	  <pubDate>Fri, 06 Apr 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/penance/</guid>
+	  <guid>/stories/penance/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8711,10 +8711,10 @@ Women in Vekllei usually wear skirts in winter. There are cultural and historica
 	
 	<item>
 	  <title>A Sketch of a Blood Spirit</title>
-	  <link>https://millmint.net/stories/demon-attack/</link>
+	  <link>/stories/demon-attack/</link>
 	  <pubDate>Sat, 03 Mar 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/demon-attack/</guid>
+	  <guid>/stories/demon-attack/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8735,10 +8735,10 @@ When the Princess of the Earth arrived, after the nuclear exchange between the U
 	
 	<item>
 	  <title>On the Concept of Childhood</title>
-	  <link>https://millmint.net/stories/gregori-children/</link>
+	  <link>/stories/gregori-children/</link>
 	  <pubDate>Fri, 23 Feb 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/gregori-children/</guid>
+	  <guid>/stories/gregori-children/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8777,10 +8777,10 @@ From this viewpoint, it becomes clear that the grouping of children by age in th
 	
 	<item>
 	  <title>The Bridging of Worlds Ritual</title>
-	  <link>https://millmint.net/stories/bridging/</link>
+	  <link>/stories/bridging/</link>
 	  <pubDate>Thu, 25 Jan 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bridging/</guid>
+	  <guid>/stories/bridging/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8811,10 +8811,10 @@ From this viewpoint, it becomes clear that the grouping of children by age in th
 	
 	<item>
 	  <title>Anarchy in Cherry, Nevada</title>
-	  <link>https://millmint.net/stories/anarchist/</link>
+	  <link>/stories/anarchist/</link>
 	  <pubDate>Mon, 15 Jan 2018 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/anarchist/</guid>
+	  <guid>/stories/anarchist/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8835,10 +8835,10 @@ So she drapes herself in the anarchist flag and holds an ancient Mosin rifle she
 	
 	<item>
 	  <title>Girl Scouts Learn to Shoot in Vekllei</title>
-	  <link>https://millmint.net/stories/blossoms/</link>
+	  <link>/stories/blossoms/</link>
 	  <pubDate>Tue, 12 Dec 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/blossoms/</guid>
+	  <guid>/stories/blossoms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8858,10 +8858,10 @@ On the cusp of the teen years, they can also learn how to operate weapons, like 
 	
 	<item>
 	  <title>Radiation Poisoning in Domestic Vekllei</title>
-	  <link>https://millmint.net/stories/radiation/</link>
+	  <link>/stories/radiation/</link>
 	  <pubDate>Tue, 05 Dec 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/radiation/</guid>
+	  <guid>/stories/radiation/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8883,10 +8883,10 @@ On the cusp of the teen years, they can also learn how to operate weapons, like 
 	
 	<item>
 	  <title>Seaside in Vekllei</title>
-	  <link>https://millmint.net/stories/seaside/</link>
+	  <link>/stories/seaside/</link>
 	  <pubDate>Tue, 28 Nov 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/seaside/</guid>
+	  <guid>/stories/seaside/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8910,10 +8910,10 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	
 	<item>
 	  <title>Beat Cops in Vekllei</title>
-	  <link>https://millmint.net/stories/cop/</link>
+	  <link>/stories/cop/</link>
 	  <pubDate>Tue, 07 Nov 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/cop/</guid>
+	  <guid>/stories/cop/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8943,10 +8943,10 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	
 	<item>
 	  <title>The Princess of the Earth</title>
-	  <link>https://millmint.net/stories/princess/</link>
+	  <link>/stories/princess/</link>
 	  <pubDate>Tue, 24 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/princess/</guid>
+	  <guid>/stories/princess/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8970,10 +8970,10 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	
 	<item>
 	  <title>Two Spies and a Vekllei Girl</title>
-	  <link>https://millmint.net/stories/spies/</link>
+	  <link>/stories/spies/</link>
 	  <pubDate>Thu, 19 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spies/</guid>
+	  <guid>/stories/spies/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -8991,10 +8991,10 @@ Anchored far from the harbour is an enormous nuclear aircraft carrier. From the 
 	
 	<item>
 	  <title>Entering the Spirit World</title>
-	  <link>https://millmint.net/stories/spirit-world/</link>
+	  <link>/stories/spirit-world/</link>
 	  <pubDate>Sat, 14 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/spirit-world/</guid>
+	  <guid>/stories/spirit-world/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9018,10 +9018,10 @@ She saw the bones and knelt in front of them, laying some flowers out for it and
 	
 	<item>
 	  <title>The National Dress of Vekllei</title>
-	  <link>https://millmint.net/stories/vk-dress/</link>
+	  <link>/stories/vk-dress/</link>
 	  <pubDate>Fri, 13 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/vk-dress/</guid>
+	  <guid>/stories/vk-dress/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9042,10 +9042,10 @@ Lou and Mey here, two happy young things in love, are dressed up for the Nationa
 	
 	<item>
 	  <title>Watching the End of the World</title>
-	  <link>https://millmint.net/stories/missile/</link>
+	  <link>/stories/missile/</link>
 	  <pubDate>Thu, 12 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/missile/</guid>
+	  <guid>/stories/missile/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9067,10 +9067,10 @@ Lou and Mey here, two happy young things in love, are dressed up for the Nationa
 	
 	<item>
 	  <title>The Face of Human Extinction</title>
-	  <link>https://millmint.net/stories/face/</link>
+	  <link>/stories/face/</link>
 	  <pubDate>Mon, 09 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/face/</guid>
+	  <guid>/stories/face/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9090,10 +9090,10 @@ Lou and Mey here, two happy young things in love, are dressed up for the Nationa
 	
 	<item>
 	  <title>A Little Vekllei General Store</title>
-	  <link>https://millmint.net/stories/general-store/</link>
+	  <link>/stories/general-store/</link>
 	  <pubDate>Fri, 06 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/general-store/</guid>
+	  <guid>/stories/general-store/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9115,10 +9115,10 @@ Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced
 	
 	<item>
 	  <title>Pleading with Angels to Spare Humanity</title>
-	  <link>https://millmint.net/stories/pleading/</link>
+	  <link>/stories/pleading/</link>
 	  <pubDate>Mon, 02 Oct 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/pleading/</guid>
+	  <guid>/stories/pleading/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9139,10 +9139,10 @@ Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced
 	
 	<item>
 	  <title>Chemical Warfare in 2063</title>
-	  <link>https://millmint.net/stories/chemical-war/</link>
+	  <link>/stories/chemical-war/</link>
 	  <pubDate>Wed, 27 Sep 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/chemical-war/</guid>
+	  <guid>/stories/chemical-war/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9166,10 +9166,10 @@ Not in Lola. If you’re in Lola, you’re there to see the good stuff, produced
 	
 	<item>
 	  <title>Tzipora, the Undying Miracle Child</title>
-	  <link>https://millmint.net/stories/undying/</link>
+	  <link>/stories/undying/</link>
 	  <pubDate>Sun, 24 Sep 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/undying/</guid>
+	  <guid>/stories/undying/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9191,10 +9191,10 @@ She has a chronic sadness about her.]]>
 	
 	<item>
 	  <title>Tzipora Makes Friends with a Desert Spirit</title>
-	  <link>https://millmint.net/stories/desert-spirit/</link>
+	  <link>/stories/desert-spirit/</link>
 	  <pubDate>Thu, 21 Sep 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/desert-spirit/</guid>
+	  <guid>/stories/desert-spirit/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9218,10 +9218,10 @@ She has a chronic sadness about her.]]>
 	
 	<item>
 	  <title>Fashion in the Year 2063</title>
-	  <link>https://millmint.net/stories/fashion/</link>
+	  <link>/stories/fashion/</link>
 	  <pubDate>Tue, 19 Sep 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/fashion/</guid>
+	  <guid>/stories/fashion/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9254,10 +9254,10 @@ She has a chronic sadness about her.]]>
 	
 	<item>
 	  <title>Girl’s Life Saved by Veteran Hero in Day of Terror</title>
-	  <link>https://millmint.net/stories/terror/</link>
+	  <link>/stories/terror/</link>
 	  <pubDate>Sun, 10 Sep 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/terror/</guid>
+	  <guid>/stories/terror/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9277,10 +9277,10 @@ It was his daughter that he thought of as he powdered the wounds of the girl at 
 	
 	<item>
 	  <title>Tzipora, one of the children to stop ageing</title>
-	  <link>https://millmint.net/stories/ageing/</link>
+	  <link>/stories/ageing/</link>
 	  <pubDate>Mon, 04 Sep 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/ageing/</guid>
+	  <guid>/stories/ageing/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9301,10 +9301,10 @@ Let me know if you have any questions. I love to talk.</p>
 	
 	<item>
 	  <title>The Five Uniforms of Any Good Vekllei Girl</title>
-	  <link>https://millmint.net/stories/five-uniforms/</link>
+	  <link>/stories/five-uniforms/</link>
 	  <pubDate>Thu, 17 Aug 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/five-uniforms/</guid>
+	  <guid>/stories/five-uniforms/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9328,10 +9328,10 @@ The second is the uniform of the Vekllei Blossoms, equivalent to the Pioneers in
 	
 	<item>
 	  <title>Anti-bullying poster in the year 2063</title>
-	  <link>https://millmint.net/stories/bullying/</link>
+	  <link>/stories/bullying/</link>
 	  <pubDate>Thu, 10 Aug 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/bullying/</guid>
+	  <guid>/stories/bullying/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9349,10 +9349,10 @@ The second is the uniform of the Vekllei Blossoms, equivalent to the Pioneers in
 	
 	<item>
 	  <title>She stands in the harbour in national dress</title>
-	  <link>https://millmint.net/stories/in-the-harbour/</link>
+	  <link>/stories/in-the-harbour/</link>
 	  <pubDate>Wed, 19 Jul 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/in-the-harbour/</guid>
+	  <guid>/stories/in-the-harbour/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -9372,10 +9372,10 @@ Underneath her Lawtsk Ohma (an equivalent phrase might be &ldquo;Maiden’s Apro
 	
 	<item>
 	  <title>Tzipora has her photo taken at Youth Meet 2063</title>
-	  <link>https://millmint.net/stories/youth/</link>
+	  <link>/stories/youth/</link>
 	  <pubDate>Sat, 01 Jul 2017 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/stories/youth/</guid>
+	  <guid>/stories/youth/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

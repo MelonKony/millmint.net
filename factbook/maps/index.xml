@@ -10,19 +10,19 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
 	<title>Maps</title>
-	<link>https://millmint.net/factbook/maps/</link>
+	<link>/factbook/maps/</link>
 	<description>Recent content in Maps </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<webfeeds:icon>https://millmint.net//favicon.png</webfeeds:icon>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
-	<webfeeds:related layout="card" target="browser"/><atom:link href="https://millmint.net/factbook/maps/index.xml" rel="self" type="application/rss+xml" />
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/maps/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Ascension Map</title>
-	  <link>https://millmint.net/factbook/maps/ascension-map/</link>
+	  <link>/factbook/maps/ascension-map/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/maps/ascension-map/</guid>
+	  <guid>/factbook/maps/ascension-map/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -37,10 +37,10 @@
 	
 	<item>
 	  <title>Commonwealth Airlines Route Map</title>
-	  <link>https://millmint.net/factbook/maps/route-map/</link>
+	  <link>/factbook/maps/route-map/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/maps/route-map/</guid>
+	  <guid>/factbook/maps/route-map/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -55,10 +55,10 @@
 	
 	<item>
 	  <title>World Map</title>
-	  <link>https://millmint.net/factbook/maps/world/</link>
+	  <link>/factbook/maps/world/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>https://millmint.net/factbook/maps/world/</guid>
+	  <guid>/factbook/maps/world/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
