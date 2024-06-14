@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Aom</title>
+	<link>/characters/aom/</link>
+	<description>Recent content in Aom </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<lastBuildDate>Mon, 10 Jun 2024 08:00:00 EST</lastBuildDate>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/aom/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Clerk</title>
+	  <link>/stories/clerk/</link>
+	  <pubDate>Mon, 10 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/clerk/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Clerk sketch. I think she&rsquo;s Thai 🇹🇭 ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/clerk.jpg"/> <blockquote class="note caption">
+  <span class="text">Clerk sketch. I think she&rsquo;s Thai 🇹🇭</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

@@ -2239,14 +2239,9 @@ This is exciting, isn’t it? This is a new chapter for me as an artist. It’s 
       
       
       
-      
-
-      
-      
-      
 
       <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/auto_hufb96090f91ee94c5ce419f8c21616322_1405003_1500x0_resize_q90_h2_box.webp 3x, /images/auto_hufb96090f91ee94c5ce419f8c21616322_1405003_680x0_resize_q90_h2_box.webp 1x"
+        data-srcset="/images/auto_hufb96090f91ee94c5ce419f8c21616322_1405003_680x0_resize_q90_h2_box.webp 1x"
         src="/images/auto.jpg"alt="bulletin" 
         loading="lazy"
       />

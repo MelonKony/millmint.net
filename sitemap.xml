@@ -196,14 +196,109 @@
   
   
   
+  
+  
   <url>
-	<loc>/stories/hi-and-lo/</loc>
-	<lastmod>2024-05-21T12:58:25+10:00</lastmod>
+	<loc>/stories/sniff/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
   
   
+  
+  <url>
+	<loc>/characters/aom/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/clerk/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+	<loc>/stories/tank-engine/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+	<loc>/stories/her-best/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/froggy/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/characters/raul/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/ziggurat/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/offering/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/spicy-curry/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/industrial-security/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/teleswitch/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/the-cane/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/stories/hi-and-lo/</loc>
+	<lastmod>2024-05-21T12:58:25+10:00</lastmod>
+  </url>
   
   
   
@@ -218,8 +313,6 @@
 	<loc>/stories/scouts/</loc>
 	<lastmod>2024-05-19T17:17:41+10:00</lastmod>
   </url>
-  
-  
   
   
   
@@ -548,13 +641,6 @@
   
   
   <url>
-	<loc>/characters/laura/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
 	<loc>/stories/friends-photo/</loc>
 	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
   </url>
@@ -577,13 +663,6 @@
   
   <url>
 	<loc>/stories/grunt/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
-	<loc>/characters/astrid/</loc>
 	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
   </url>
   
@@ -954,8 +1033,6 @@
 	<loc>/stories/a-social-economy/</loc>
 	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
   </url>
-  
-  
   
   
   
@@ -3873,8 +3950,8 @@
   
   
   <url>
-	<loc>/snapshots/72-hours/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<loc>/fiction/72-hours/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -3930,7 +4007,7 @@
   
   <url>
 	<loc>/factbook/bulletin/alcohol/</loc>
-	<lastmod>2024-05-18T15:38:04+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -3986,7 +4063,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/ministries/defence/military/</loc>
-	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4008,6 +4085,13 @@
   <url>
 	<loc>/factbook/society/state/government/ministries/commons/asre/</loc>
 	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/characters/astrid/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4035,7 +4119,7 @@
   
   <url>
 	<loc>/factbook/bulletin/automatic-allocation/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4153,7 +4237,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/parliaments/health/bureau-of-health-services/</loc>
-	<lastmod>2024-06-08T17:35:50+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4251,14 +4335,14 @@
   
   <url>
 	<loc>/factbook/society/state/government/parliaments/health/bureau-of-public-health/</loc>
-	<lastmod>2024-06-08T17:35:50+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
   
   <url>
 	<loc>/factbook/society/state/government/ministries/commons/bureau-of-public-works/</loc>
-	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4535,7 +4619,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/parliaments/health/commonwealth-disease-authority/</loc>
-	<lastmod>2024-06-08T17:35:50+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4548,8 +4632,8 @@
   
   
   <url>
-	<loc>/factbook/society/state/government/parliaments/health/food-and-medicines-authority/</loc>
-	<lastmod>2024-06-08T17:35:50+10:00</lastmod>
+	<loc>/factbook/society/state/government/parliaments/health/commonwealth-food-and-medicines-authority/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4625,8 +4709,8 @@
   
   
   <url>
-	<loc>/factbook/society/state/government/parliaments/health/commonwealth-radiation-academy-copy/</loc>
-	<lastmod>2024-06-08T17:35:50+10:00</lastmod>
+	<loc>/factbook/society/state/government/parliaments/health/commonwealth-radiation-academy/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4745,7 +4829,7 @@
   
   <url>
 	<loc>/factbook/bulletin/courtesy/</loc>
-	<lastmod>2024-05-26T12:13:15+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4856,7 +4940,7 @@
   
   <url>
 	<loc>/factbook/society/state/education/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4913,6 +4997,13 @@
   
   
   <url>
+	<loc>/fiction/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
 	<loc>/factbook/society/state/finance/</loc>
 	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
   </url>
@@ -4949,7 +5040,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/</loc>
-	<lastmod>2024-06-13T00:51:14+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -4991,14 +5082,14 @@
   
   <url>
 	<loc>/factbook/society/state/government/parliaments/health/</loc>
-	<lastmod>2024-06-08T17:35:50+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
   
   <url>
 	<loc>/factbook/society/state/healthcare/</loc>
-	<lastmod>2024-05-31T11:34:58+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5100,7 +5191,7 @@
   
   <url>
 	<loc>/factbook/world/vekllei/kalina/kairi/</loc>
-	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5136,6 +5227,13 @@
   <url>
 	<loc>/factbook/world/countries/latin-africa/</loc>
 	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+	<loc>/characters/laura/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5211,8 +5309,8 @@
   
   
   <url>
-	<loc>/snapshots/sneakers/</loc>
-	<lastmod>2024-05-29T12:21:26+10:00</lastmod>
+	<loc>/fiction/sneakers/</loc>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5473,7 +5571,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/parliaments/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5515,7 +5613,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/ministries/defence/police-of-the-parliament/</loc>
-	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5646,13 +5744,6 @@
   
   
   <url>
-	<loc>/snapshots/</loc>
-	<lastmod>2024-05-29T12:21:26+10:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
 	<loc>/millmint/patreon/snapshots/</loc>
 	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
   </url>
@@ -5751,7 +5842,7 @@
   
   <url>
 	<loc>/factbook/bulletin/elsewhere/</loc>
-	<lastmod>2024-06-12T23:38:05+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   
@@ -5879,7 +5970,7 @@
   
   <url>
 	<loc>/factbook/bulletin/looks/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
   
   

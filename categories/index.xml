@@ -14,14 +14,14 @@
 	<description>Recent content in Categories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Sun, 19 May 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Sketch</title>
 	  <link>/categories/sketch/</link>
-	  <pubDate>Sun, 19 May 2024 08:00:00 EST</pubDate>
+	  <pubDate>Tue, 11 Jun 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>/categories/sketch/</guid>
 	  <author>
@@ -39,9 +39,27 @@
 	<item>
 	  <title>Story</title>
 	  <link>/categories/story/</link>
-	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
+	  <pubDate>Sun, 09 Jun 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>/categories/story/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Comic</title>
+	  <link>/categories/comic/</link>
+	  <pubDate>Sat, 08 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/categories/comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -60,24 +78,6 @@
 	  <pubDate>Thu, 04 Apr 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>/categories/commission/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Comic</title>
-	  <link>/categories/comic/</link>
-	  <pubDate>Mon, 09 Oct 2023 08:00:00 EST</pubDate>
-	  
-	  <guid>/categories/comic/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -18,6 +18,81 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Ziggurat</title>
+	  <link>/stories/ziggurat/</link>
+	  <pubDate>Tue, 04 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/ziggurat/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[feat. Baron and Detective Raul, from @Bluescat227 &ldquo;The Ziggurat&rdquo; is the part of Noshem where the intelligence and analyst clerks work. The building and mural is pretty typical of Vekllei civic monumentalism.
+Noshem is the Commonwealth Intelligence Service, a sprawling and well-resourced organisation with a reputation for deception and zealotry.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/ziggurat.jpg"/> <blockquote class="note caption">
+  <span class="text">feat. Baron and Detective Raul, from <a href="https://x.com/@bluescat227">@Bluescat227</a></span>
+</blockquote>
+
+<p>&ldquo;The Ziggurat&rdquo; is the part of <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a> where the intelligence and analyst clerks work. The building and mural is pretty typical of Vekllei civic monumentalism.</p>
+<p>Noshem is the Commonwealth Intelligence Service, a sprawling and well-resourced organisation with a reputation for deception and zealotry.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>The Cane</title>
+	  <link>/stories/the-cane/</link>
+	  <pubDate>Fri, 24 May 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/the-cane/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/comics/cane.jpg"/> <p><figure>
+  <a href="/images/comics/cane.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/comics/cane_hu3af426c164667474d93796b46aed2961_3008373_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/comics/cane.jpg"alt="comic page 1" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   
+</figure></p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Killers</title>
 	  <link>/stories/killers/</link>
 	  <pubDate>Sat, 20 Apr 2024 08:00:00 EST</pubDate>
@@ -240,14 +315,9 @@ Although the timing coincided with Tzipora&rsquo;s birthday, you can&rsquo;t tim
       
       
       
-      
-
-      
-      
-      
 
       <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_1500x0_resize_q90_h2_box.webp 3x, /images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_680x0_resize_q90_h2_box.webp 1x"
+        data-srcset="/images/comics/ham_hue64e7969f0ac0db4878bd796b49b23e3_2709100_680x0_resize_q90_h2_box.webp 1x"
         src="/images/comics/ham.jpg"alt="comic page 1" 
         loading="lazy"
       />

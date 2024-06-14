@@ -18,6 +18,42 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Aom</title>
+	  <link>/characters/aom/</link>
+	  <pubDate>Mon, 10 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/aom/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Raul</title>
+	  <link>/characters/raul/</link>
+	  <pubDate>Tue, 04 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/raul/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Kefra</title>
 	  <link>/characters/kefra/</link>
 	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
@@ -59,42 +95,6 @@
 	  <pubDate>Sat, 30 Mar 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>/characters/amka/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Laura</title>
-	  <link>/characters/laura/</link>
-	  <pubDate>Tue, 23 Jan 2024 08:00:00 EST</pubDate>
-	  
-	  <guid>/characters/laura/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Astrid</title>
-	  <link>/characters/astrid/</link>
-	  <pubDate>Fri, 19 Jan 2024 08:00:00 EST</pubDate>
-	  
-	  <guid>/characters/astrid/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -414,6 +414,28 @@
 	</item>
 	
 	<item>
+	  <title>Astrid</title>
+	  <link>/characters/astrid/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/astrid/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Astrid Beaufoy works for the Bureau of Housing with Laura. She loves her job. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note gray">
+  <span class="text">Astrid Beaufoy works for the <a class="slink" style="color: var(--color-commons); background: color-mix(in srgb, var(--color-commons) 10%, transparent);" href="/factbook/society/state/government/ministries/commons/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a> with <a href="/characters/laura/">Laura</a>. She loves her job.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Ayn</title>
 	  <link>/characters/ayn/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -612,6 +634,28 @@ She is sensitive and diplomatic, and is well-liked for her sense of justice and 
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note gray">
   <span class="text">Simon Kowalczyk is Tzipora&rsquo;s civics teacher. She gets along with him well. He might have a crush on <a href="/characters/nincic/">Ms Nincic</a>.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Laura</title>
+	  <link>/characters/laura/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/laura/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Laura Anderson works for the Bureau of Housing. She was previously studying chemistry, but dropped out. She does not like her job much, and her new coworker Astrid gets on her nerves.. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note gray">
+  <span class="text">Laura Anderson works for the <a class="slink" style="color: var(--color-commons); background: color-mix(in srgb, var(--color-commons) 10%, transparent);" href="/factbook/society/state/government/ministries/commons/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a>. She was previously studying chemistry, but dropped out. She does not like her job much, and her new coworker <a href="/characters/astrid/">Astrid</a> gets on her nerves..</span>
 </blockquote>
 
 ]]>

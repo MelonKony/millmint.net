@@ -61,14 +61,9 @@
       
       
       
-      
-
-      
-      
-      
 
       <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_1500x0_resize_q90_h2_box.webp 3x, /images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_680x0_resize_q90_h2_box.webp 1x"
+        data-srcset="/images/fanart/jm-1_hu850346ff3c65e6f2d47dcfedede2bc03_458993_680x0_resize_q90_h2_box.webp 1x"
         src="/images/fanart/jm-1.jpg"alt="smallimg" 
         loading="lazy"
       />

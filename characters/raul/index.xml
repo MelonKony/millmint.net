@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Raul</title>
+	<link>/characters/raul/</link>
+	<description>Recent content in Raul </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<lastBuildDate>Tue, 04 Jun 2024 08:00:00 EST</lastBuildDate>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/raul/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Ziggurat</title>
+	  <link>/stories/ziggurat/</link>
+	  <pubDate>Tue, 04 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/ziggurat/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[feat. Baron and Detective Raul, from @Bluescat227 &ldquo;The Ziggurat&rdquo; is the part of Noshem where the intelligence and analyst clerks work. The building and mural is pretty typical of Vekllei civic monumentalism.
+Noshem is the Commonwealth Intelligence Service, a sprawling and well-resourced organisation with a reputation for deception and zealotry.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/ziggurat.jpg"/> <blockquote class="note caption">
+  <span class="text">feat. Baron and Detective Raul, from <a href="https://x.com/@bluescat227">@Bluescat227</a></span>
+</blockquote>
+
+<p>&ldquo;The Ziggurat&rdquo; is the part of <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a> where the intelligence and analyst clerks work. The building and mural is pretty typical of Vekllei civic monumentalism.</p>
+<p>Noshem is the Commonwealth Intelligence Service, a sprawling and well-resourced organisation with a reputation for deception and zealotry.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>
