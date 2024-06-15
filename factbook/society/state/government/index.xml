@@ -165,6 +165,33 @@ The Directory consists of each Sorda representing a constituent, with observers 
 	</item>
 	
 	<item>
+	  <title>Government Bureaus</title>
+	  <link>/factbook/society/state/government/bureaus/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/state/government/bureaus/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the state series of articles A bureau is a statutory department of a ministry or ministerial parliament. They are professional, autonomous organisations run by a Director and staffed by civil servants.
+They are typically large organisations with various degrees of devolution, and often control constituent commissions, boards or corporations.
+Bureaus are organised into departments, which may comprise a number of offices. They are lead by an Executive Council, which typically includes a selection of staff from the Bureau as well as representatives from the ministry, industry or specific organisations from elsewhere in the Government.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/state/">state</a></em> series of articles</span>
+</blockquote>
+
+<p>A bureau is a statutory department of a <a href="/ministries/">ministry</a> or <a href="/parliaments/">ministerial parliament</a>. They are professional, autonomous organisations run by a Director and staffed by civil servants.</p>
+<p>They are typically large organisations with various degrees of devolution, and often control constituent commissions, boards or corporations.</p>
+<p>Bureaus are organised into departments, which may comprise a number of offices. They are lead by an Executive Council, which typically includes a selection of staff from the Bureau as well as representatives from the ministry, industry or specific organisations from elsewhere in the <a class="slink"  style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/"><span class="fi fi-min-vekllei fis"></span> Government</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Municipalities</title>
 	  <link>/factbook/society/state/government/municipalities/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>

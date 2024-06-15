@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Bureaus</title>
+	<link>/series/bureaus/</link>
+	<description>Recent content in Bureaus </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/series/bureaus/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Bureau of Hydrocarbons</title>
+	  <link>/factbook/society/state/government/ministries/industry/bureau-of-hydrocarbons/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/state/government/ministries/industry/bureau-of-hydrocarbons/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ This bureau is part of the Ministry of Industry ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">This bureau is part of the <a class="slink"  style="color: var(--color-industry); background: color-mix(in srgb, var(--color-industry) 10%, transparent);" href="/factbook/society/state/government/ministries/industry/"><span class="fi fi-min-industry fis"></span> Ministry of Industry</a></span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>
