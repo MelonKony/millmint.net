@@ -18,6 +18,31 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Island Hopper</title>
+	  <link>/stories/island-hopper/</link>
+	  <pubDate>Fri, 14 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/island-hopper/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[An Avia island-hopper Sunjet with an air-cooled reactor and a swing wing. These Avia Sunjets are manufactured by Government Aircraft Factories for Commonwealth Airways. They&rsquo;re perfect for island-hopping routes throughout the Vekllei Caribbean, because their swing-wing design allows them to land on shorter island runways.
+They are particularly beloved in Vekllei for their gorgeous sunroofs that line the roof of the cabin, which are UV-protected and able to change opacity.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/island-hopper.jpg"/> <blockquote class="note caption">
+  <span class="text">An Avia island-hopper Sunjet with an air-cooled reactor and a swing wing.</span>
+</blockquote>
+
+<p>These Avia Sunjets are manufactured by <a class="slink" style="color: rgb(247, 85, 85); background: color-mix(in srgb, rgb(247, 85, 85) 10%, transparent);" href="/factbook/society/industry/state/gaf/"><span class="fi fi-min-gaf fis"></span> Government Aircraft Factories</a> for <a class="slink" style="color: rgb(245, 60, 89); background: color-mix(in srgb, rgb(245, 60, 89) 10%, transparent);" href="/factbook/society/industry/state/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a>. They&rsquo;re perfect for island-hopping routes throughout the Vekllei Caribbean, because their swing-wing design allows them to land on shorter island runways.</p>
+<p>They are particularly beloved in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> for their gorgeous sunroofs that line the roof of the cabin, which are UV-protected and able to change opacity.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Sniff</title>
 	  <link>/stories/sniff/</link>
 	  <pubDate>Tue, 11 Jun 2024 08:00:00 EST</pubDate>

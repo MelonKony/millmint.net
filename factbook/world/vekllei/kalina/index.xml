@@ -65,6 +65,8 @@
 	
 
 	
+
+	
 	<tr>
 		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></td>
 	</tr>
@@ -161,6 +163,8 @@
 			<img src="/svg/flags/aloi.svg">
 		</td>
 	</tr>
+	
+
 	
 
 	
@@ -285,6 +289,8 @@ Aloubaera has a tropical climate cooled substantially by its exposure to the sea
 	
 
 	
+
+	
 	<tr>
 		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of <a style="color: var(--color-blue)" href="/kalina/"><span class="fi fi-kalina"></span> Commonwealth Kalina</a></td>
 	</tr>
@@ -380,6 +386,8 @@ Aloubaera has a tropical climate cooled substantially by its exposure to the sea
 			<img src="/svg/flags/anguilla.svg">
 		</td>
 	</tr>
+	
+
 	
 
 	
@@ -505,6 +513,16 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 
 	
+	<a src="/svg/maps/locator/bb.png">
+	<tr>
+		<td colspan="2">
+			<img src="/svg/maps/locator/bb.png">
+		</td>
+	</tr>
+	</a>
+	
+
+	
 
 	
 
@@ -619,6 +637,16 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	</tr>
 	
 
+	
+
+	
+	<a src="/svg/maps/locator/gr.png">
+	<tr>
+		<td colspan="2">
+			<img src="/svg/maps/locator/gr.png">
+		</td>
+	</tr>
+	</a>
 	
 
 	
@@ -760,6 +788,16 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	
 
 	
+	<a src="/svg/maps/locator/kairi.png">
+	<tr>
+		<td colspan="2">
+			<img src="/svg/maps/locator/kairi.png">
+		</td>
+	</tr>
+	</a>
+	
+
+	
 
 	
 
@@ -863,6 +901,16 @@ It comprises ten large islands in an archipelago extending eastwards of Puerto R
 	</tr>
 	
 
+	
+
+	
+	<a src="/svg/maps/locator/vg.png">
+	<tr>
+		<td colspan="2">
+			<img src="/svg/maps/locator/vg.png">
+		</td>
+	</tr>
+	</a>
 	
 
 	
