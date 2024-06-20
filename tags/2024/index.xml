@@ -14,10 +14,37 @@
 	<description>Recent content in 2024 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Fri, 14 Jun 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>School Photo</title>
+	  <link>/stories/school-photo/</link>
+	  <pubDate>Wed, 19 Jun 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/school-photo/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora&rsquo;s 2063 school photo. Yes, this is the 21st Century.
+The scarf around Tzipora&rsquo;s neck is a &ldquo;gi,&rdquo; a ceremonial pleat. It is usually worn draped over a skirt, as seen in many of my other pictures. It has magic runes stitched in it for luck, prosperity, whatever
+People from Oslola love swords, and having your photo taken with one isn&rsquo;t unusual. Other republics are not so obsessed.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/school-photo.jpg"/> <blockquote class="note caption">
+  <span class="text">Tzipora&rsquo;s 2063 school photo.</span>
+</blockquote>
+
+<p>Yes, this is the 21st Century.</p>
+<p>The scarf around Tzipora&rsquo;s neck is a &ldquo;gi,&rdquo; a ceremonial pleat. It is usually worn draped over a skirt, as seen in many of my other pictures. It has magic runes stitched in it for luck, prosperity, whatever</p>
+<p>People from <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> love swords, and having your photo taken with one isn&rsquo;t unusual. Other <a href="/republics/">republics</a> are not so obsessed.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Island Hopper</title>
 	  <link>/stories/island-hopper/</link>

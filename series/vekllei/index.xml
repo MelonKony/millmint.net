@@ -45,6 +45,11 @@
  		<img src="/svg/flags/4x3/gd.svg">
  		<img src="/svg/flags/4x3/kairi.svg">
  		<img src="/svg/flags/4x3/aloi.svg">
+ 		<img src="/svg/flags/4x3/habacoa.svg">
+ 		<img src="/svg/flags/4x3/bb.svg">
+ 		<img src="/svg/flags/4x3/ai.svg">
+ 		<img src="/svg/flags/4x3/antigua.svg">
+ 		<img src="/svg/flags/4x3/barbary.svg">
  		<img src="/svg/flags/4x3/vg.svg">
  		<img src="/svg/flags/4x3/rum.svg">
  		<img src="/svg/flags/4x3/fo.svg">
@@ -64,6 +69,11 @@
  		<img src="/svg/flags/4x3/gd.svg">
  		<img src="/svg/flags/4x3/kairi.svg">
  		<img src="/svg/flags/4x3/aloi.svg">
+ 		<img src="/svg/flags/4x3/habacoa.svg">
+ 		<img src="/svg/flags/4x3/bb.svg">
+ 		<img src="/svg/flags/4x3/ai.svg">
+ 		<img src="/svg/flags/4x3/antigua.svg">
+ 		<img src="/svg/flags/4x3/barbary.svg">
  		<img src="/svg/flags/4x3/vg.svg">
  		<img src="/svg/flags/4x3/rum.svg">
  		<img src="/svg/flags/4x3/fo.svg">
@@ -294,7 +304,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 <li>Mayaguana Republic (<em>Mayaguana</em>)</li>
 <li>Nema Republic (<em>New Providence</em>)</li>
 <li><a class="slink" style="color: rgb(57, 122, 205); background: color-mix(in srgb, rgb(57, 122, 205) 10%, transparent);" href="/factbook/world/vekllei/lucaya/rum/"><span class="fi fi-rum"></span> Rum</a> (<em>San Salvador &amp; Rum Cay</em>)</li>
-<li> (<em>Bermuda</em>)</li>
+<li><a class="slink" style="color: rgb(69, 81, 202); background: color-mix(in srgb, rgb(69, 81, 202) 10%, transparent);" href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a> (<em>Bermuda</em>)</li>
 <li>Yabaque Republic (<em>Acklins</em>)</li>
 <li>Yuma Republic (<em>Long Island</em>)</li>
 </ul>
@@ -306,9 +316,9 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 <li><a class="slink" style="color: rgb(48, 99, 172); background: color-mix(in srgb, rgb(48, 99, 172) 10%, transparent);" href="/factbook/world/vekllei/kalina/aloi/"><span class="fi fi-aloi"></span> Aloi</a> (<em>St Eustatius</em>)</li>
 <li><a class="slink" style="color: rgb(46, 114, 225); background: color-mix(in srgb, rgb(46, 114, 225) 10%, transparent);" href="/factbook/world/vekllei/kalina/aloubaera/"><span class="fi fi-aloubaera"></span> Aloubaera</a> (<em>Tobago</em>)</li>
 <li><a class="slink" style="color: rgb(249, 150, 50); background: color-mix(in srgb, rgb(249, 150, 50) 10%, transparent);" href="/factbook/world/vekllei/kalina/anguilla/"><span class="fi fi-ai"></span> Anguilla</a> (<em>Anguilla</em>)</li>
-<li>Antam Republic (<em>Antigua</em>)</li>
+<li><a class="slink" style="color: rgb(133, 122, 187); background: color-mix(in srgb, rgb(133, 122, 187) 10%, transparent);" href="/factbook/world/vekllei/kalina/antigua/"><span class="fi fi-antigua"></span> Antigua</a> (<em>Antigua</em>)</li>
 <li><a class="slink" style="color: rgb(255, 37, 37); background: color-mix(in srgb, rgb(255, 37, 37) 10%, transparent);" href="/factbook/world/vekllei/kalina/barbados/"><span class="fi fi-bb"></span> Barbados</a> (<em>Barbados</em>)</li>
-<li>Barbuda Republic (<em>Barbuda</em>)</li>
+<li><a class="slink" style="color: rgb(110, 110, 110); background: color-mix(in srgb, rgb(110, 110, 110) 10%, transparent);" href="/factbook/world/vekllei/kalina/barbary/"><span class="fi fi-barbary"></span> Barbary</a> (<em>Barbuda</em>)</li>
 <li><a class="slink" style="color: rgb(2, 123, 93); background: color-mix(in srgb, rgb(2, 123, 93) 10%, transparent);" href="/factbook/world/vekllei/kalina/cama/"><span class="fi fi-gd"></span> Cama</a> (<em>Grenada</em>)</li>
 <li>Karu Republic (<em>Guadeloupe</em>)</li>
 <li>Kabuli Republic (<em>Dominica</em>)</li>
