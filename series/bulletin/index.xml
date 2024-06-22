@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Bulletin</title>
+	<link>/series/bulletin/</link>
+	<description>Recent content in Bulletin </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/series/bulletin/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Accounted Revenue</title>
+	  <link>/factbook/bulletin/accounted-revenue/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/accounted-revenue/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Vekllei businesses that operate in domestic markets do not generally use money. This includes government corporations and departments. Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics. This is known as &ldquo;accounted revenue,&rdquo; and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values. Although Vekllei does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei businesses that operate in <a href="/factbook/society/state/finance/#domestic-markets">domestic markets</a> do not generally use money.</li>
+<li>This includes government corporations and departments.</li>
+<li>Despite this, Vekllei maintains a kind of commercial accounting that produces accurate, if fictional, revenues, expenditures and profit/loss metrics.</li>
+<li>This is known as &ldquo;accounted revenue,&rdquo; and is a shorthand for normal money-use on this site, but refers only to calculated theoretical values.</li>
+</ul></span>
+</blockquote>
+
+<p>Although <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> does not use money in domestic markets, it has a very sophisticated system of interlinked databases to monitor and record the economy. Physical product has a tangible presence and consequently a tangible cost, even if it not assigned a money-value. As such, Vekllei simply calculates the money-value of everything in its society, from homes to wages to toothbrushes, and uses those figures as a means to determine the health of its economy.</p>
+<p>How they arrive at these figures is complicated and detached from real-world money-value. The &ldquo;accounted value&rdquo; figure, as it is called, is a combination of labour-hours at a wage calculation, exchange rates, comparative pricing in major international currencies, and scarcity. To this end, the Commonwealth uses commercial accounting practices to target waste and maintain the <em>commons</em> moneyless system.</p>
+<p>&ldquo;Accounted value,&rdquo; or more specifically, &ldquo;accounted revenue&rdquo; is also used as a means of budgeting, especially for government departments. So even though Vekllei at face value appears to suppress ordinary money-value and by extension financialised markets, it is in fact deeply financialised and is closely monitored and controlled by the <a href="/ministry-of-commerce/">Ministries of Commerce</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Airline Travel</title>
+	  <link>/factbook/bulletin/airline-travel/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/airline-travel/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Most people in Vekllei do not use money and are essentially unbanked. This raises interesting problems of fairness in cases of scarcity. As a common example of how ticketing works in Vekllei, we can look to airlines and how they allocate seats. Air travel is generally accessible to ordinary Vekllei people. Commonwealth Airways helps connect the distant republics of Vekllei and emphasise their shared values.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Most people in Vekllei do not use money and are essentially unbanked. This raises interesting problems of fairness in cases of scarcity.</li>
+<li>As a common example of how ticketing works in Vekllei, we can look to airlines and how they allocate seats.</li>
+<li>Air travel is generally accessible to ordinary Vekllei people. Commonwealth Airways helps connect the distant republics of Vekllei and emphasise their shared values.</li>
+<li>Most flights use a simple 80/20 system, where 80% of seats are available six months out and 20% are allocated based on need.</li>
+</ul></span>
+</blockquote>
+
+<p>Almost every <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> person flies, and some fly frequently. The country is simply too big and its islands too disparate to commute by ship regularly. Almost always, they fly with <a class="slink" style="color: rgb(245, 60, 89); background: color-mix(in srgb, rgb(245, 60, 89) 10%, transparent);" href="/factbook/society/industry/state/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a>, their national airline, which does not charge a fare for the unmoneyed and unbanked Commonwealth population.</p>
+<p>The process for booking is this:</p>
+<ol>
+<li>Up to six months prior, seats on a flight are booked on a first-come, first-served basis. On most domestic routes, demand is usually well-calculated and it&rsquo;s usually pretty easy to get a seat. In the holiday months, international routes can be more competitive.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li>Some seats on the aircraft are reserved for priority transit. The number of seats reserved depends on the route and aircraft type, and ranges between 10-20%.</li>
+<li>Priority transit encompasses a range of travel, including emergency or well-founded reasons for travel like bereavement or medical fares, as well as important business and government seats. In Vekllei, &lsquo;business class&rsquo; is not a seperate class domestically but a special ticket.</li>
+<li>As the flight approaches, reserved seats are made available on a linear curve that depends on the route. There is always at least two reserved seats on a Commonwealth Airways flight right up until departure, which are sometimes used by air marshals or airline staff.</li>
+</ol>
+<p>Any Vekllei person can fly for any time &ndash; booking history is assigned to a customer number associated with a government ID. This information is centralised and used internally for research purposes. International routes serviced by Commonwealth Overseas Airways also take on international paying customers, who purchase from the same 80/20 pool of seats.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Due to shortages in seats during the holiday period, recreational travel in Vekllei has to be flexible. Companies are well aware of this state of affairs and most are required by law to allow employees to take their leave at any point during the year.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Alcohol</title>
+	  <link>/factbook/bulletin/alcohol/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/alcohol/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Vekllei people like alcohol, and in their society it is widely available at no cost. These facts set the country up for catastrophe: alcohol abuse is a social disease that destroys lives and deeply impacts communities. Consequently, its consumption as enabled by the system must also be curbed by the system. This is helped by considered policy, but the Vekllei government targets another aspect of control: culture.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei people like alcohol, and in their society it is widely available at no cost.</li>
+<li>These facts set the country up for catastrophe: alcohol abuse is a social disease that destroys lives and deeply impacts communities.</li>
+<li>Consequently, its consumption as enabled by the system must also be curbed by the system. This is helped by considered policy, but the Vekllei government targets another aspect of control: culture.</li>
+<li>As such, alcohol is an interesting case study in how the country attempts to encourage social behaviours more broadly.</li>
+</ul></span>
+</blockquote>
+
+<p><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> people, like many others around the world, like to drink. As a feature of their society and its <a href="/social-economy/">social economy</a>, alcohol is free and available. They drink often and socially, and wine, beer and spirits are an important lubricant of conversation and merryment around the country.</p>
+<p>Like any product of pleasure, however, unrestricted availability poses a grave danger to the health of their society. The dangers are straightforward &ndash; alcohol encourages all kinds of antisocial behaviours, and risks developing into chronic addiction that can ruin lives and destroy families. In this context, the tension between Vekllei&rsquo;s <em>laissez-faire</em> society and the common good are most pronounced, precisely because alcohol wears down the social norms that facilitate their close-knit and codependent way of life.</p>
+<p>The solution they practice is twofold:</p>
+<h2 id="control-through-policy">
+  Control through policy
+  <a class="anchor" href="#control-through-policy">#</a>
+</h2>
+<p>Vekllei has controls on both the supply and consumption of alcohol. Public drunkenness, as well as adjacent antisocial behaviours, are a crime with straightforward legal repercussions. Onetime drunkenness in the street might result in a few hours of community service.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Antisocial offences motivated by alcohol consumption carry weightier punishments. Repeat offending easily results in direct state intervention, and may manifest as time in rehabilitation centres or even compulsory clinics.</p>
+<p>Vekllei also has strict laws on the service of alcohol. It has to be provided by licensed establishments.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> These laws also dictate responsible provision of alcohol. It is illegal to:</p>
+<ul>
+<li>Permit drunkenness on the premises</li>
+<li>Serve alcohol to drunk people</li>
+<li>Allow people who are violent, quarrelsome, disorderly or behaving indecently on licensed premises</li>
+</ul>
+<p>While drinking at home is common and perfectly legal, offences committed in the home under the influence of alcohol aggravate legal sentencing dramatically. There is, in general, very little tolerance for antisocial behaviour under the influence of alcohol.</p>
+<h2 id="control-through-culture">
+  Control through culture
+  <a class="anchor" href="#control-through-culture">#</a>
+</h2>
+<p>Perhaps more important, and often overlooked, is the way Vekllei uses policy indirectly to influence drinking culture. These approaches are often unassuming, and lie outside the legal system. Despite its firm hand on the supply of alcohol, for example, Vekllei has no minimum drinking age at home.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> In fact, from fourteen years old, students may choose to have a small cup of red wine with their school meals.</p>
+<p>With guidance from government and industry, Vekllei society has attempted to minimise the harmful effects of binge drinking by, essentially, spreading out alcohol consumption throughout the day. Workplaces often serve aperitifs in the afternoon, and some wine with dinner is expected. Vekllei cuisine also pairs liqueurs with meals &ndash; it is not inappropriate or unusual to have enjoy alcohol in professional lunches, so long as you do not become drunk. People are expected to self-regulate, and those who don&rsquo;t (or cannot) run into trouble quickly.</p>
+<p>Consuming smaller amounts more commonly has been shown, in most cases, to provide better outcomes for both health and behaviour. Introducing moderation to teenagers through school has also helped reduce the rates of early binge drinking in the country.</p>
+<p>This is not to suggest that these two methods have resolved antisocial drinking or prevented alcoholism &ndash; this is not the case. Vekllei is a large and diverse country, and though its quality of life has improved dramatically, the control of access to alcohol is not perfect, nor would perfect control totally prevent the disease of alcoholism. Vekllei ranks 13th for alcohol consumption per capita, and tens of thousands of Vekllei people die a year drinking it. They are a country that likes to drink, and they have poorer health for it.</p>
+<p>What it does suggest, however, is the overall outline of Vekllei&rsquo;s approach to fostering a strong civic culture in their social economy. The whole system is predicated on it, because happy communities foster their own productivity and improvement. Their dual approach &ndash; reinforcement of good (or at least preferable) habits through culture and restriction of bad ones through law &ndash; is typical of the country&rsquo;s approach to social disease.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Community service in Vekllei is more or less equivalent to community service overseas. It is a light punishment, usually applied to misdemeanours and minor offences, that requires certain hours of work to alleviate the (usually antisocial) offence. The type of work required is scaled to the seriousness of the offence.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>In Vekllei, these are usually cafes, pubs, restaurants and bars, in that order of availability. Noncompliance with alcohol laws are a fast way to having your business shut down.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Although Vekllei has no minimum drinking age, no licensed establishments will serve people under 16 (and usually 18) years of age. In practice, most municipalities are self-regulating, and have their own laws around alcohol consumption. There are also laws against the provision of alcohol by adults to people underage.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Automatic Allocation</title>
+	  <link>/factbook/bulletin/automatic-allocation/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/automatic-allocation/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+In most economies, high rates of investment into production factors (infrastructure, talent, research &amp; development) produce high-value products that are able to provide returns. In Vekllei, however, expensive automatic machines (like robotics and schematic factories) are most often used to produce goods with little margin or trivial money-value. This represents an inversion of the economic logic of investment, revenues, and profit. The result, however, is that by subsidising the lives of their workforce at great deficit, Vekllei saves much more in its moneyless system by diminishing the greatest expense of most business &ndash; labour, and expertise.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>In most economies, high rates of investment into production factors (infrastructure, talent, research &amp; development) produce high-value products that are able to provide returns.</li>
+<li>In Vekllei, however, expensive automatic machines (like robotics and schematic factories) are most often used to produce goods with little margin or trivial money-value.</li>
+<li>This represents an inversion of the economic logic of investment, revenues, and profit.</li>
+<li>The result, however, is that by subsidising the lives of their workforce at great deficit, Vekllei saves much more in its moneyless system by diminishing the greatest expense of most business &ndash; labour, and expertise.</li>
+<li>This is how, despite running huge deficits of production, Vekllei remains economically competitive, and has <a href="/bulletin/productivity/">extremely high economic productivity</a>.</li>
+</ul></span>
+</blockquote>
+
+<p><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is known for its robotics and automatic systems, often controlled by computers. This is not because those things are unique to Vekllei &ndash; they are widely available overseas, and robots were invented in East Germany &ndash; but because they are so visible. Because of the value and fragility of robots, they are usually sequestered in sterile environments where they make economic sense. Robots are a tool of high-end manufacturing: fabricating cars, computers and medicines.</p>
+<p>This logic is intuitive to anyone. They are expensive, and on an industrial scale, require massive investment upfront. The price of labour in many contexts is much cheaper, and so the market naturally orders itself &ndash; high-end manufacturing uses robots to replace high-skill and error-prone labour, and low-end manufacturing (textiles, agriculture, construction) is performed by people.</p>
+<p>In Vekllei, however, this logic is inverted. Robots sweep streets, sort mail, manufacture clothes and perform, basically, menial work. This ironically contributes to their reputation as an advanced society &ndash; their robots are simply more visible because they are, wastefully in economic logic, on the street. That is not to say they don&rsquo;t also populate in high-end manufacturing, because they do, but just that there is also substantial investment in their use almost everywhere else.</p>
+<p>On its face, this practice runs a deficit that would bankrupt any system that tried to replicate it. Robots are expensive, technical, and fragile. But that assumes that Vekllei industrial manufacturing serves an economic purpose &ndash; it doesn&rsquo;t, at least directly.</p>
+<p>The Vekllei industrial economy, distinct from its moneyless <a href="/social-economy/"><em>commons</em></a>, exists to furnish a basic quality of life for its people, and facilitate the real high-value sectors of its social economy &ndash; human expertise. Vekllei people are not typically paid, and so incur a trivial expense on their market. They work for many reasons, many of which are intangible, but are all fundamentally guaranteed by the national investment in the automation of low-skill work. Their robots subsidise valuable human expertise, and valuable human expertise subsidise their robots in a symbiotic inversion of economic logic.</p>
+<p>Although described here as an inversion, in abstract it is actually straightforward &ndash; Vekllei automation produces dividends, just not directly. Their practice is simply obscured by the opacity and intricacy of their financial system, and is a good demonstration of why Vekllei&rsquo;s economic successes <a href="/bulletin/elsewhere/">have not been replicated elsewhere</a>. It is just too bizarre, too risky, and risks a total breakdown of society if the prerequisites of their social economic behaviour are not reproduced.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Bankruptcy in Vekllei</title>
+	  <link>/factbook/bulletin/bankruptcy/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/bankruptcy/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Large parts of the Vekllei economy are ostensibly owned by the Vekllei Government. Even though these companies are government-owned, they usually operate independently and some are profitable through foreign trade. While private companies in the domestic market can only effectively go &ldquo;bankrupt&rdquo; through prolonged labour shortages, government companies with accounted revenue can and do go bankrupt. The question then is how the Vekllei state handles bankruptcy of government-owned and major industrial firms, and to what it extent it allows ailing businesses to run at a loss.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Large parts of the Vekllei economy are ostensibly owned by the Vekllei <a class="slink"  style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/"><span class="fi fi-min-vekllei fis"></span> Government</a>.</li>
+<li>Even though these companies are <a href="/state-industry/">government-owned</a>, they usually operate independently and some are profitable through foreign trade.</li>
+<li>While private companies in the domestic market can only effectively go &ldquo;bankrupt&rdquo; through prolonged labour shortages, government companies with <a href="/bulletin/accounted-revenue/">accounted revenue</a> can and do go bankrupt.</li>
+<li>The question then is how the Vekllei state handles bankruptcy of government-owned and major industrial firms, and to what it extent it allows ailing businesses to run at a loss.</li>
+</ul></span>
+</blockquote>
+
+<p>The question of bankruptcy in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is hypothetical, since there is no legal mechanism for bankruptcy in court similar to other countries. Despite this, government-owned and public corporations interacting with foreign currencies have overt revenues and losses, and <a href="/bulletin/accounted-revenue/">accounted revenue</a> is used by the <a class="slink"  style="color: var(--color-commerce); background: color-mix(in srgb, var(--color-commerce) 10%, transparent);" href="/factbook/society/state/government/ministries/commerce/"><span class="fi fi-min-commerce fis"></span> Ministry of Commerce</a> to rate value and competitiveness.</p>
+<p>There are many kinds of businesses, government-owned and otherwise, that are informally allowed to run at a loss and have no expectation of turning a profit. Most of these lie exclusively within the Vekllei domestic market, where revenues and expenses are only theoretical. Others, like <a class="slink" style="color: rgb(245, 60, 89); background: color-mix(in srgb, rgb(245, 60, 89) 10%, transparent);" href="/factbook/society/industry/state/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a> are expected to minimise expense but could reliably expect to be subsidised in perpetuity. Most such <em>de facto</em> guaranteed corporations occupy monopoly status in their market.</p>
+<p>Others, however, operate competitively and consequently are expected to be able to fail. These include some government corporations, especially those that compete internationally. In this context, these corporations may be allowed to fail, which would look like this:</p>
+<blockquote class="note panel">
+  <span class="text"><ol>
+<li>Freezing of debt and revenues via a court injunction.</li>
+<li>Suspension of executive staff by executive council.</li>
+<li>Sacking of appropriate staff, particularly those in leadership positions, and replacement by interim staff via the executive council or internally.</li>
+<li>Restructuring of the company by a specialty firm, located in Vekllei or overseas, and operations reestablished by the executive council.</li>
+</ol>
+</span>
+</blockquote>
+
+<p>Executive councils in Vekllei are analogous to a corporate board overseas, and consist of persons mostly outside of the corporation. In the event the executive council is unable to assist or implicated in the bankruptcy, the <a class="slink" style="color: var(--color-commerce); background: color-mix(in srgb, var(--color-commerce) 10%, transparent);" href="/factbook/society/state/government/ministries/commerce/bureau-of-trade/"><span class="fi fi-min-commerce fis"></span> Bureau of Trade</a> can intervene and either reestablish or liquidate the company. Corporations may also be sold to foreign investors and jettisoned from the internal market entirely.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Courtesy</title>
+	  <link>/factbook/bulletin/courtesy/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/courtesy/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Some assume that an anarchist society operating within a social economy would radically change social norms of hierarchy, language and relations. In Vekllei, the results of its postwar changes are less clear. Some things are very different, but other customs and cultural behaviours are much the same. This often surprises foreigners whose expectations of Vekllei society are revolutionary rather than reformist. Whether Vekllei is best described as an anarchist society does not matter much to them.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Some assume that an anarchist society operating within a <a href="/social-economy/">social economy</a> would radically change social norms of hierarchy, language and relations.</li>
+<li>In <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, the results of its postwar changes are less clear. Some things are very different, but other customs and cultural behaviours are much the same.</li>
+<li>This often surprises foreigners whose expectations of Vekllei society are revolutionary rather than reformist.</li>
+</ul></span>
+</blockquote>
+
+<p>Whether <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is best described as an anarchist society does not matter much to them. They are living in the shadow of a gradual, managed revolution, and their lives have changed substantially. In such societies where the old has been rebuilt, it is common to expect dramatic reforms in status, language and customs. At its extreme, we might imagine the abolition of psycholinguistic concepts entirely, perhaps totally reimagining property, gender or race.</p>
+<p>What was not expected was that the transition to a social economy could actually reinforce customs, manners and courtesy. Far from hippy egalitarians, the ordinary Vekllei person is better characterised as polite, self-conscious, and modest. &lsquo;Sir&rsquo; and &lsquo;Madame&rsquo; are the default terms of address, and they are judgemental of behaviours they consider rude or unpleasant.</p>
+<p>Rather than abolishing the social expectations of hierarchical society, the social economy has reinforced them, since they are now the primary mechanism through which labour operates. It is both a cultural and economic phenomena in which labour requires respect and respect motivates labour. Both these concepts feed into status, which in one way or another motivates much of modern Vekllei life.</p>
+<p>This result should be anticipated by anyone paying close attention to how the Vekllei economy actually works. Rather than engaging with work in the cynical, transactional way volunteerism operates, Vekllei people engage with work in social forms, and so are engaging in a kind of &lsquo;play.&rsquo; This play is productive, a fact which does not delegitimise its status as a social activity on behalf of the labourer.</p>
+<p>This is why foreigners, expecting a Soviet welcome, are surprised to find Vekllei workers accomodating and even obsequious. In part, it is their nature as a trusting people in a generous society. But it is also a performance of their role in work, and from which they derive some measure of enjoyment. To the minority of people still employed in service roles in the country, it is good fun to play the role of a concierge or waiter competently; to participate in a complex and sophisticated ritual and succeed.</p>
+<p>They are not collectivists, as such. They have collectivist aspects of their society, but are basically individualists in typical western fashion. Instead, they expect to derive respect from their social relationships, and so customs that indicate respect are woven as deeply in their society as any other.</p>
+<p>For example, professional titles are often used in place of names (&lsquo;doctor,&rsquo; &lsquo;policewoman&rsquo;), and seniority is usually respected. Good manners are taught and expected in school. It is also emphasised through their modest manner of dress and prevalence of uniforms. Those mistaking these features as indicators of a collectivist culture are missing the point. These things indicate respect, the fundamental currency of a social economy.</p>
+<p>It would be wrong to overgeneralise the population of this diverse and free country. Vekllei is full of counterculturists and dissidents, and the country is famous for its meandering disdain for authority. Nonetheless, good manners learned in childhood are hard to forget, and so the overwhelming impression of the Vekllei person is not of an fanatical, reborn anarchist, but of normality and courtesy.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Foreign Policy</title>
+	  <link>/factbook/bulletin/foreign-policy/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/foreign-policy/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Vekllei has only 24 million people, equivalent roughly to Australia or Syria, but has many times the global influence of those countries. This is because of three factors: trade, cultural soft power, and foreign policy. Foreign Policy in Vekllei serves the interests of their state, but that does not mean that its efforts are entirely self-serving. Co-operation, collaboration and investment are the core principles of their approach.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei has only 24 million people, equivalent roughly to Australia or Syria, but has many times the global influence of those countries.</li>
+<li>This is because of three factors: trade, cultural soft power, and foreign policy.</li>
+<li>Foreign Policy in Vekllei serves the interests of their state, but that does not mean that its efforts are entirely self-serving. Co-operation, collaboration and investment are the core principles of their approach.</li>
+<li>In fact, their style of earnest and fair diplomacy has, in general, succeeded dramatically. Pragmatic and effective policy has guaranteed their voice in many parts of the world, which translates to political power.</li>
+<li>The results speak for themselves. As an example, Vekllei has closer diplomatic and economic ties to many former French colonies in West Africa than France itself.</li>
+</ul></span>
+</blockquote>
+
+<p>While <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> has tremendous wealth and cultural diversity that more or less guarantee a minimum presence in global diplomacy, foreign policy is an area of active investment and has been since independence. The <a class="slink"  style="color: var(--color-foreignaffairs); background: color-mix(in srgb, var(--color-foreignaffairs) 10%, transparent);" href="/factbook/society/state/government/ministries/foreign-affairs/"><span class="fi fi-min-foreign-affairs fis"></span> Ministry of Foreign Affairs</a> is among the largest and best-equipped devolved <a href="/ministries/">ministries</a>, and Vekllei has a diplomatic mission in nearly every country. These missions, comprising consulates, interest sites and embassies, are packed with diplomats and analysts familiar with the local territory, and are sometimes recruited from local professionals. This is, fundamentally, the distinguishing factor of Vekllei&rsquo;s outsized foreign influence: reliable and substantial investment.</p>
+<p>The Bureau of Economics of the Ministry of Foreign Affairs is a particularly keen outfit, taking on a variety of roles that may at times be generous, predatory or both. The people of the Bureau of Economics are not ideologues and they are not there to promote the <a href="/social-economy/"><em>commons</em></a>. In developed countries, they aid the interests of Vekllei business and trade. In others, they act as a channel for direct investment, nation-building and aid. None of it is given without thought, or for mere political purposes. They aim to establish a base of knowledge and influence, and use those things to build up the relationships and encourage improvements to standards of living overseas that advantage Vekllei&rsquo;s political and economic missions.</p>
+<p>These policies have no single coherent economic principles, but they do reflect Vekllei interests. Key concerns are education and healthcare, followed by cautious investment. In practice, this means financial investment where returns might be expected, whether political or financial, but also the export of specialists and experienced personnel. Vekllei is one of the largest exporters of medical aid in the world, and much of that comes directly in the form of qualified doctors and nurses who, as part of their training, spend time overseas. Teachers and education policy specialists also comprise a substantial part of donations.</p>
+<p>Physical aid makes sense to Vekllei, because it is a country of mostly physical (read: moneyless) economic activity, and the kinds of social relations their work depends on thrive in challenging environments overseas, especially where medicine and education are involved. It also allows the country to leverage its exceptionally (perhaps overly) educated population, and build goodwill across the many new countries of the 21st Century.</p>
+<p>Their practice is not without critics. Vekllei has fast-tracked citizenship lanes for educated people, and several governments have accused the country of contributing to local &lsquo;brain drain.&rsquo; And like all geopolitics, their generous foreign aid furthers their geopolitical interests in abstract. Vekllei is, after all, a non-aligned country and in some ways it is fighting the influence of both East and West.</p>
+<p>While Vekllei has a lower tolerance for brutal or antisocial regimes than the superpowers, the country has historically prioritised stability over revolution. It is also increasingly internationalist, and has intervened in humanitarian crises at the expense of the UN and aid organisations, who resent their cowboy approach to crisis management. Most famously, Vekllei raises &ldquo;volunteer brigades;&rdquo; the offer of direct intervention to any person that wants it, and equips and transports them. While this kind of interventionism has several success stories, including essentially preventing a genocide in <a class="slink" style="color: rgb(40, 151, 40); background: color-mix(in srgb, rgb(40, 151, 40) 10%, transparent);" href="/factbook/world/countries/latin-africa/"><span class="fi fi-laur"></span> Latin Africa</a>, it has also backfired dramatically, as in the case of the encircled volunteer battalion in Zaire.</p>
+<p>This kind of interventionism results in a dramatic foreign policy that contrasts (and undoubtedly infuriates) their own economic interests around the world. In developing countries, Vekllei can be a very powerful friend to have, and they are renowned for their generosity with aid and expertise. For example, the education system in Darfur was built almost entirely from the ground-up with a flood of Vekllei bureaucrats and teachers. They also provide technologies for manufacturing and extraction without protectionism. On the other hand, the country risks catastrophe and escalation in its stubborn interventionism in humanitarian outrages. It can also make emerging states wary about its impact on their fledgling sovereignty. This balance is a fine line to walk, and Vekllei is doing its best to walk it. Regardless of any single opinion however, their methods of diplomacy are striking, and reflect the tension between passionate volunteerism and calculated pragmatism in their society and government.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Government Ownership</title>
+	  <link>/factbook/bulletin/government-ownership/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/government-ownership/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Government-owned corporations (GOCs) are owned by the Vekllei government, which in practice often means each of the republics simultaneously. The share capital of GOCs is governed by preferred-privileged shares, which are available only to government ministries, departments and occasionally industry councils. Rather than consisting of thousands or millions of shares, GOCs have their share capital pegged to the number of relevant authorities (in most cases republic governments).]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li><a href="/state-industry/">Government-owned corporations</a> (GOCs) are owned by the Vekllei government, which in practice often means each of the republics simultaneously.</li>
+<li>The share capital of GOCs is governed by preferred-privileged shares, which are available only to government ministries, departments and occasionally industry councils.</li>
+<li>Rather than consisting of thousands or millions of shares, GOCs have their share capital pegged to the number of relevant authorities (in most cases republic governments).</li>
+<li>As such, nationalised corporations like <a href="/air/">Commonwealth Airways</a> have issued only 9 shares, each being owned by a republic&rsquo;s Ministry of Transport.</li>
+</ul></span>
+</blockquote>
+
+<p>The unusual ownership structure of Commonwealth GOCs<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> are a result of the federalised <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> system. While the commonwealth <a href="/councils/">councils</a> do own some corporations directly, the vast majority of Vekllei state-owned assets fall under the portfolio of the <a href="/ministries/">ministries</a> of constituent republics.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>Each republic has the same suite of ministries responsible for its own affairs. Because ministries in Vekllei are decentralised (but identical),<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> they own corporations that would be nationalised overseas jointly, as a means of representing one collective owner. This stake can be attributed a money-value but there is no legal mechanism for any one republic to exploit or leverage that value.</p>
+<p>There are generally three levels of government-owned corporation in Vekllei:</p>
+<ul>
+<li>Federalised corporations, owned by the Commonwealth government</li>
+<li>Nationalised corporations, owned jointly or singularly constituent republics</li>
+<li>Municipalised corporations, owned by a Polis, territory or municipality</li>
+</ul>
+<p>Issued preferred-privilege shares in the case of jointly-owned GOCs do confer limited voting rights. Jointly-owned GOCs have a governing council that helps unify the policy of the individual ministries. In most cases, these GOCs operate as independent businesses within the mandate of their governing portfolio, but ministries can call votes on policy in certain cases. In this sense, the ministerial councils operate similarly to a board of directors.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&lsquo;Government-owned corporation&rsquo; (GOC) is the preferred Vekllei term, and is interchangeable with state-owned or nationalised enterprise.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>A &lsquo;republic&rsquo; in Vekllei is similar to a state or canton overseas. They are not traditionally sovereign, but enjoy significant autonomy through standards established by the Commonwealth government.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Vekllei republics have the same set of ministries. These are functionally independent, but are also united into an organisation of mutual association called a Commonwealth Ministry, lead by a Commonwealth cabinet member. As such, the individual ministries of republics are called Republic Ministries.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Government Style</title>
+	  <link>/factbook/bulletin/consensus/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/consensus/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Vekllei is governed by an executive council of peers called the Directory. The directory is made up of Prime Ministers who are forbidden from participating in political parties, as part of Vekllei&rsquo;s nonpartisan democracy. The principles of consensus are important for the Vekllei style of governance, and contribute to the stability of the country. Although policy is fought over within executive bodies in Vekllei, the principles of consensus are that results should be respected and that it is important for the government to present a unified front.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei is governed by an executive council of peers called the <a class="slink" style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a>.</li>
+<li>The directory is made up of Prime Ministers who are forbidden from participating in political parties, as part of Vekllei&rsquo;s <em>nonpartisan democracy</em>.</li>
+<li>The principles of consensus are important for the Vekllei style of governance, and contribute to the stability of the country.</li>
+</ul></span>
+</blockquote>
+
+<p>Although policy is fought over within executive bodies in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, the principles of consensus are that results should be respected and that it is important for the government to present a unified front. These principles were founded in the far-ranging and diverse nature of the Commonwealth, in which irreconcilable disagreements threatened permanent political paralysis that would destabilise Vekllei&rsquo;s fledgling postwar democracy.</p>
+<p>Vekllei democracy is ostensibly <em>nonpartisan</em>, meaning that it does not have formal political parties. Instead, candidates for election present five policy points which they commit to represent in office.</p>
+<p>In practice, disagreement and consensus in Vekllei mimics the cascading federalism of its political system. There are many different levels of executive, and a single executive has multiple functions within the political framework. In each case, disagreement happens privately and consensus is presented publicly.</p>
+<p>For example, a <a class="slink"  style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/sorda/"><span class="fi fi-min-vekllei fis"></span> Sorda</a> is an office of two prime ministers, usually a man and a woman, representing a republic. The <a class="slink" style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a> is made up of eight Sorda. Individual PMs may disagree about an issue, but within the Directory they are expected to represent a single office and thus present a single point of view. The Directory itself, as part of the <a class="slink" style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/society/state/government/council/"><span class="fi fi-min-council fis"></span> Council</a> routinely has major political disagreements but presents policy as a unified government.</p>
+<p>This culture is a feature of Vekllei&rsquo;s council-based society, in which workplace democracy and recreational activities alike are often governed by multiple people. In this style of decision-making, factionalism and partisan behaviour have to be restrained to prevent the paralysis of the executive. As such, private disagreement and public consensus is a natural feature of this style of government.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>National Tour</title>
+	  <link>/factbook/bulletin/tour/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/tour/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Vekllei citizens who have completed four years of national service are entitled to a &lsquo;National Tour&rsquo;. This National Tour is traditionally a six-month cruise that visits all 68 republics that make up the Commonwealth. This tour spans the entire length and width of the Atlantic, reaching both poles. Since its introduction in 2040, it has become a ritual of citizenship, and has contributed significantly to the civic identity of Vekllei.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> citizens who have completed four years of <a href="/compulsory-service/">national service</a> are entitled to a &lsquo;National Tour&rsquo;.</li>
+<li>This National Tour is traditionally a six-month cruise that visits all 68 <a href="/republics/">republics</a> that make up the Commonwealth.</li>
+<li>This tour spans the entire length and width of the Atlantic, reaching both poles.</li>
+<li>Since its introduction in 2040, it has become a ritual of citizenship, and has contributed significantly to the civic identity of Vekllei.</li>
+</ul></span>
+</blockquote>
+
+<p>National Service, or &lsquo;compulsory service&rsquo; as it is commonly known, comprises four years of civic and military conscription in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is primarily a means of getting done what needs to be done, because labour in Vekllei is fickle, irregular and otherwise free.</p>
+<p>National Service requires four years from each person, between the ages of 18 and 32. In practice, most Vekllei people contribute it in a single block either after secondary school or after university. It is not always desirable, and Vekllei people don&rsquo;t desire it, but it has to be done.</p>
+<p>Recognising this sacrifice, the Vekllei government in 2040 made available sixteen cruise ships from <a class="slink" style="color: rgb(232, 163, 12); background: color-mix(in srgb, rgb(232, 163, 12) 10%, transparent);" href="/factbook/society/industry/state/commonwealth-lines/"><span class="fi fi-min-CL fis"></span> Commonwealth Lines</a> for a &lsquo;National Tour,&rsquo; a half-year holiday after the completion of National Service. It provides an opportunity to reward people for their contribution, but also offers a way to further unite the disparate Vekllei islands under a single civic identity. Passengers are known as being &lsquo;on their Tour.&rsquo;</p>
+<p>The National Tour departs from one of eight ports around the country, usually the largest in its respective regional commonwealth. For the next six months, the vessel will visit all 68 <a href="/constituents/">constituent republics</a> of Vekllei, allowing a shore day or two in each. Your port of departure is often located outside your home commonwealth, and so your fellow passengers are generally from all over the country.</p>
+<p>The Tour is a cause for celebration &ndash; drinking, dining, dancing and enjoying the full spectrum of Vekllei&rsquo;s unique cultures. It is an opportunity to enjoy high society &ndash; black tie dinners and balls &ndash; and earthier experiences like dance clubs and private parties. Life-long romance and heartbreak are common. Most walk away with a friend in every commonwealth.</p>
+<p>It is difficult to understate the success of these tours and their contribution to the Vekllei national identity. It is not just that they are great fun, but that they show Vekllei people their entire country and give them a sense of what their work contributes to, both during National Service and as private citizens. Many Vekllei people will tell you that their Tour is among their most treasured memories.</p>
+<p>While the Tour is most closely associated with a cruise, alternatives exist for the seasick and phobic. All people are entitled to six month&rsquo;s holiday if they cannot enjoy the cruise. Accomodations are made for domestic travel via aircraft or shorter sea excursions where necessary. The Tour is not just any holiday, however, and it is supposed to be a time of adventure and new experiences, reflecting the new chapter of their lives.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Natural Commodities</title>
+	  <link>/factbook/bulletin/natural-commodities/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/natural-commodities/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+With islands across most of the Atlantic, Vekllei has a huge exclusive economic zone and tremendous natural commodities. Vekllei minimises their use and export of these resources for reasons outside of simple environmentalism. The Vekllei position is that resources are a source of capital, not income, and consequently their expense should be minimised. This complements a broader view of natural and physical landscapes in the country, as a distinct sovereign entity seperate from civilisation.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>With islands across most of the Atlantic, Vekllei has a huge exclusive economic zone and tremendous natural commodities.</li>
+<li>Vekllei minimises their use and export of these resources for reasons outside of simple environmentalism.</li>
+<li>The Vekllei position is that resources are a source of capital, not income, and consequently their expense should be minimised.</li>
+<li>This complements a broader view of natural and physical landscapes in the country, as a distinct sovereign entity seperate from civilisation.</li>
+<li>Nonetheless, Vekllei exploits resources as any other country does, since it is necessary to service any kind of production. The difference is mostly in its perspective of natural commodities and minimisation of their use.</li>
+</ul></span>
+</blockquote>
+
+<p>Nature in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is not simply a place or vista undeveloped by civilisation, but a constant, unconscious and legitimate valuation of things not made by people. This means that <em>nature</em> and its sovereignty apply equally to the tropical paradises and stark volcanic landscapes of its island communities as it does to its buried and lifeless commodities, like resource deposits and soil. This bulletin focuses on the Vekllei approach to its natural commodities.</p>
+<p>A Vekllei economic valuation of nature recognises the money-value of crude oil and pristine white beaches, in the same way they recognise the store of value of dollars in a bank. This, and the labour of people, is the real wealth wealth of the world and its transformation into useful commodities makes up the majority of production. The distance between raw natural resource and shelf product is so great that the connection might seem abstract, or that its value derives mostly man-made techniques and machines shaping an otherwise valueless resource, but this is not fundamentally true &ndash; the majority of money-value in a product originates with the natural commodity and survives its transformation intact.</p>
+<p>The inversion here is <em>capital</em> and <em>income</em>. Where raw resources are treated as income overseas, they are treated as capital in Vekllei, and so their exploitation is seen as an expense. This is a philosophical difference as much as it is an economic one &ndash; Vekllei, like many countries, has just started to exploit asteroids in space for their metals and mineral deposits, which in the scale of the universe would seem to be an unlimited resource. But even in the face of this escape route from the rapidly depleting terrestrial resources on Earth, the Vekllei instinct is to understand natural commodities as a store of capital, not income, which in its logic is undoubtedly true &ndash; crude oil cannot be found on asteroids, and is depleting rapidly here.</p>
+<p>Of course, resources are necessary to service a quality of life, and so they are exploited in Vekllei as they are anywhere else &ndash; indeed, Vekllei is one of the major exporters of oil in the world thanks to its huge undersea deposits in the Arctic. The difference here is in its minimisation, and government anxiety, over their use as one would spending from their bank account. Expending capital is a necessary function to lubricate the economy and can generate income, but spending capital and treating is as income in itself is no way to run a business or an economy.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>One Person, One Factory</title>
+	  <link>/factbook/bulletin/lots/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/lots/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Automated small and medium-sized factories are called Lots in Vekllei. They are generally operated by a few people, or even a single person. Lots can develop their own production processes or (more commonly in certain industries) license them from the Commons Industrial Bureau. In most cases, these small factories are established by the municipality and then &ldquo;sold&rdquo; to individuals, usually with housing attached.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Automated small and medium-sized factories are called <em>Lots</em> in Vekllei. They are generally operated by a few people, or even a single person.</li>
+<li><em>Lots</em> can develop their own production processes or (more commonly in certain industries) license them from the Commons Industrial Bureau.</li>
+<li>In most cases, these small factories are established by the municipality and then &ldquo;sold&rdquo; to individuals, usually with housing attached. Existing enterprises in recently-federalised <a href="/polis/">republics</a> are also upgraded into <em>lots</em>.</li>
+<li>These sole-proprietor factory supervisors generally only have a few hours of work to do in the morning, unloading raw material from trains and calibrating the machines. The intensity of work varies greatly by industry.</li>
+<li>In the afternoon, the machines have to be checked and the goods are loaded into half-size rail sidings which feed into the main automatic freight system.</li>
+<li><em>Lots</em> are the foundation of Vekllei manufacturing.</li>
+</ul></span>
+</blockquote>
+
+<p>What sort of thing do <em>lots</em> produce? Small factories generally produce essential products that are ubiquitous, or otherwise specialty craft items.</p>
+<p>Examples of ubiquitous &ldquo;essential products&rdquo; include:</p>
+<ul>
+<li>Clothing items like underwear and shoes</li>
+<li>Stationary like paper and pencils</li>
+<li>Recycled construction materials like rebar</li>
+</ul>
+<p>And so on. Essential products are almost always produced on a licensed design &ndash; for example, <a href="/universal-cotton/">Universal Cotton</a> creates factory diagrams to produce cotton shirts of a certain specification. These diagrams are licensed through the Commons Industrial Bureau to allow factories all over the Commonwealth to produce identical shirts.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Examples of &ldquo;specialty craft items&rdquo; include:</p>
+<ul>
+<li>Industries with signature or unique product types, including coloured pencils and paints</li>
+<li>Enthusiast and hobbyist products like plastic moulds for model toys</li>
+<li>Artistic and design industries including specialty textiles and fabrics</li>
+</ul>
+<p>In each case, the <em>lot</em> does most of the work &lsquo;itself.&rsquo; Raw materials, some of which has been pulled from space in the miracle of 21st-Century resource exploitation, are sorted and delivered on half-size freight wagons everywhere in the country. Almost every <em>lot</em> has a rail siding for import and export.</p>
+<p>The primary role of the sole-proprietor is factory stewardship<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> and to improve the production processes. Labour-saving innovations are especially prized. Even though the factory may have been built and designed by the municipality or national government, it is now his factory and it is the responsibility of the proprietor to ensure smooth production and efficient operations.</p>
+<p>Since <em>lots</em> are part of the commons, they do not use commercial accounting.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Instead, they use commons <em>resource accounting</em>, which does not determine money value but labour value. So long as the steward is good at his job, the factory will be supplied with whatever it needs to assist its existing processes. In rare cases, a factory may even be expanded. In effect, small business is subsidised by the commercially-accounted and money-costed <a href="/bureaus/">bureaus</a>.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>A lot of Vekllei products are monopolised by a single design. There is a belief in the country, warranted or not, that at some point a well-made cotton shirt is good enough for a certain use, and so does not require fifteen competing designs to improve it. This applies particularly to simple consumer items like toothbrushes, underwear and notebooks. Consequently, &ldquo;staple goods&rdquo; might only have minor regional variations, since Vekllei&rsquo;s <em>commons</em> society requires the overproduction of simple, quality goods to furnish a standard of living.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Factory stewardship means to be the point of contact and representative of the <em>lot</em>, as well as the primary operator of its machines and processes. A steward is familiar with his factory and understands how to diagnose problems, which can be fixed by himself or outside specialists.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Large-scale enterprise in Vekllei uses <em>commercial accounting</em>, which uses costing exercises to determine a theoretical money-value and calculate efficiency. This is a concern for government budgets and large industry which interacts with foreign economies. In the commons, which is anarchic and does not use capital, <em>commercial accounting</em> is much rarer and is generally costed instead by <em>resource accounting</em>.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Productivity</title>
+	  <link>/factbook/bulletin/productivity/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/productivity/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Despite functional moneylessness for most people, the Vekllei economy is very large and trades with other countries. In this aspect, the Vekllei economy is easily evaluated and compared to moneyed markets overseas, and against which Vekllei ranks highly in economic productivity. This seems to run contrary to popular intuition, in which Vekllei&rsquo;s social, participatory labour should not outcompete powerful industrial American and European markets that have much higher GDPs.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Despite functional <a href="/social-economy/">moneylessness</a> for most people, the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> economy is very large and trades with other countries.</li>
+<li>In this aspect, the Vekllei economy is easily evaluated and compared to moneyed markets overseas, and against which Vekllei ranks highly in economic productivity.</li>
+<li>This seems to run contrary to popular intuition, in which Vekllei&rsquo;s social, participatory labour should not outcompete powerful industrial American and European markets that have much higher GDPs.</li>
+<li>Nonetheless, because of a variety of unique factors in the Vekllei market, productivity metrics remain among the highest in the world outside of the oil-rich and resource-extraction economies.</li>
+</ul></span>
+</blockquote>
+
+<blockquote class="note link">
+  <span class="text"><p><strong>Note</strong></p>
+<p>This bulletin highlights the <em>advantages</em> of the Vekllei system, i.e. its best-case scenario. There are in fact many inefficiencies and exceptions within Vekllei&rsquo;s intricate economic constellation of industry, barter, social labour and planned economics, but here we look only at explaining high productivity metrics in Vekllei.</p>
+</span>
+</blockquote>
+
+<p>Productivity is an equation that measures the ratio between input cost and output value of a product, which can be used to indicate efficiency, growth and competitiveness. In most countries, this is measured by the hours of labour required to produce it, since labour hours are both expensive and easy to track.</p>
+<p>In the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> system, however, labour-value measurement of productivity is incomplete. While labour is inversely much more valuable in a moneyless economy for its voluntary, participatory nature, labour-hours do not reflect a material expense (and therefore input ratio) in the Vekllei economy.</p>
+<p>The reason for this is straightforward &ndash; Vekllei in its domestic market does not use money, and therefore employees are not paid and do not impose a salary burden on a company. Their remuneration is more complicated and harder to quantify materially, and includes public-provided goods and services (education, housing, food) and social relationships and gifts.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>In material terms, the largest average expense of most Vekllei industries are <a href="/bulletin/natural-commodities/">raw commodities</a>, electricity, land use and imported technology that service the industrial economy. Consequently, productivity in Vekllei includes indexes of these factors, as a measurement of <em>total</em> or <em>multifactor</em> productivity.</p>
+<p>Core drivers of productivity in Vekllei are:</p>
+<blockquote class="note panel">
+  <span class="text"><ol>
+<li><strong>High public investment from autonomous but coordinated productivity drivers like governments and bureaux</strong>
+<br>
+The Vekllei economy is highly centralised in policy but devolved in structure, and there are clear lines of communication between municipal, republican, commonwealth and federal governments regarding opportunities for investment and improvement. Investment is spurred by the major firms of the Vekllei economy, some of which are <a href="/state-industry/">government-owned</a>. The country has historically high levels of public investment and the government plays a significant role in the economy.</li>
+<li><strong>Rapid advancement of labour-saving technologies like robotics and automatic factory schematics</strong>
+<br>
+The basic Vekllei standard of living is mostly the product of automatic factories. Food, housing, clothing, electricity and heat are produced by robots and universalised schematics. As a result, factory labour that is undesirable and difficult to compel without a wage incentive is mostly abolished in basic consumer products manufacturing.</li>
+<li><strong>Computerisation and centralisation of actionable data</strong>
+<br>
+The automation of industrial labour, alongside improvements in <a href="/computers/">computing</a> and data processing, provided new opportunities to not just index production but improve it. Regular production within the industrial economy (an important and distinct market seperate from the moneyless domestic economy) is not just <em>recorded</em> but in fact <em>initiated</em> by computers, eliminating some human oversight and also making much more efficient the planned elements of the Vekllei economic system common at the industrial scale.</li>
+<li><strong>High standards of education, job performance and innovation among its workforce</strong>
+<br>
+Vekllei has among the highest rates of teachers per capita in the world, and education is universal and free from kindergarten through university. For what they lack in consumer comforts &ndash; per the <a href="/social-economy/">social economy</a> &ndash; they are very well-educated, very healthy, and well fed. These securities pay huge dividends in the high-skill Vekllei economy. Furthermore, its huge immigrant population are mostly English-speaking and, thanks to <a href="/century-society/">Century Society laws</a>, often tertiary-educated, further adding economic value to the high-skill labour pool.</li>
+<li><strong>An advanced and high-skill economy that makes good use of labour</strong>
+<br>
+Much of the Vekllei economy is geared towards maintenance of their quality of life, which is mostly automatic. Beyond this concern, services, finance and high-value exports make up most of the economy, and are where the majority of Vekllei people work. Assisted by good education, short working weeks and material security, Vekllei workers are typically employed in work they enjoy and contribute to, trimming wage-incentivised dead weight from company employee rolls. This factor should be taken seriously in analysing productivity &ndash; most, though not all, Vekllei people self-select work for reasons that are not financial, which often positively influence the productivity of their labour.</li>
+</ol>
+</span>
+</blockquote>
+
+<p>This is a workforce that, without a compelling wage, rejects low-skill work.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> This further advantages Vekllei productivity by forcing the automation of factory labour (or simply disregarding it, as Vekllei does not have a consumer society) and pressuring labour into high-value industries in services, research, civil service and finance.</p>
+<p>This, in truth, is the core factor of high total productivity in Vekllei. It is not just that they work harder, faster, or with better technology, because these things are not really true. Instead, the Vekllei economy sheds inefficient work regularly in a means out of reach for other countries, because a low wage in a free market will always resurrect unproductive business practices.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Rather than simply <em>improving</em> productivity, Vekllei&rsquo;s unique economy <em>reduces</em> unproductivity, which is not quite the same thing.</p>
+<p>An example of this is the <a href="/millmint/essays/social-economy/#a-pyramid-of-bad-jobs">pyramid of bad jobs</a>, and the ways in which low-productivity labour is reduced through cascading solutions:</p>
+<ol>
+<li>It is improved</li>
+<li>It is rewarded</li>
+<li>It is shared</li>
+<li>It is automated</li>
+<li>It is conscripted</li>
+<li>It is done without</li>
+</ol>
+<p>Many such jobs are simply &ldquo;done without,&rdquo; which leaves Vekllei with an automated low-skill industrial market<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> and a top-heavy high-skill market that contributes most economic value, or GDP. In this context, in which their public investment and infrastructure drives people upward, it is no wonder that most other markets not based on raw commodity extraction are unable to compete with Vekllei in this metric.</p>
+<!--Regarding labour, the *social economy* is a shorthand for the realities of labour working in Vekllei. As a diverse and vast federal country, the practices and laws regarding labour vary between [republics](/republics/), but there common factors across them:
+
+<blockquote class="note panel">
+  <span class="text"><ol>
+<li>Social and voluntary remuneration</li>
+<li>Short working weeks</li>
+<li>Local and personal employment</li>
+<li>High-education and high-skill labour</li>
+<li>High-trust society</li>
+</ol>
+</span>
+</blockquote>
+-->
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Remuneration does exist in Vekllei, and is further complicated by special visa-holders and migrant workers who are indeed paid a real wage. For the most part, however, Vekllei citizens live insulated within a moneyless <a href="/social-economy/">social economy</a>, and their material remuneration is often little more than gifts, a uniform and some flowers on birthdays.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Vekllei people have many reasons for working, as discussed in the essay on their <a href="/social-economy/">social economy</a>. While these reasons are not usually altruistic, they are often positive for productivity, because their self-interest here makes them happier workers that have more to give in their role. These gains obviously do not apply for conscripted and other miscellaneous labour in the country.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Low wages in a free market breed inefficiency, because cheap human labour disincentivises contributing factors of productivity, like training workers, improving machinery and innovating production processes. In Vekllei, which lacks cheap labour altogether (somewhat counterintuitively, since labour has little material cost), incentives are aligned with the contributing factors of productivity.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>It is worth noting that even the low-skill industrial market, which manufactures most consumer products in Vekllei, is actually a high-skill labour market. It is dominated by engineers and industrial architects who maintain and improve factory robots and schematics, further emphasising the top-heavy skill market.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Standardisation</title>
+	  <link>/factbook/bulletin/standardisation/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/standardisation/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+In some aspects, the republics and island-states that make up Vekllei are decentralised and retain control over their own affairs. This is not the case for the visual identity of its institutions &ndash; the federal government retains significant control over how the Commonwealth looks and feels. This control is wide-ranging, and includes flags, government logos and shields, typefaces and document standards, and uniforms.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>In some aspects, the republics and island-states that make up Vekllei are decentralised and retain control over their own affairs.</li>
+<li>This is not the case for the visual identity of its institutions &ndash; the federal government retains significant control over how the Commonwealth looks and feels.</li>
+<li>This control is wide-ranging, and includes flags, government logos and shields, typefaces and document standards, and uniforms.</li>
+<li>This level of control is practically unseen even in unitary countries, and its public nature makes it very apparent in society.</li>
+<li>The Commonwealth understands the power of a strong visual identity and the importance it has in supporting <a href="/civic-commons/">civic commonhoods</a>.</li>
+</ul></span>
+</blockquote>
+
+<p>Upon acceding to the Commonwealth, swarms of federal officials will arrive in the new <a href="/constituents/">constituent</a> and develop a process for federalisation.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Their work includes critical changes including the revision of laws and the careful (and painful) restructuring of government to suit the Commonwealth. Other changes appear less material, but ultimately represent an essential feature of Commonwealth society: the standardisation of its systems.</p>
+<p>Design rules supreme in Vekllei government. It is a dictatorship of a single organisation &ndash; the Commonwealth Design Bureau of the Council of Home Affairs (CDB). The CDB has studios in every <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> republic, and draws its employees from industry. Rather than a traditional department, the CDB is better thought of as a council of specialists in industry, who volunteer their time to maintain the corporate image of the Vekllei state.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> To designers and architects, it is an irresistible opportunity.</p>
+<p>The axiom is this &ndash; if design matters, which it does, then the government should take seriously design as it does other aspects of government. It is not enough that design should simply be the paint used to dress up the work of government; it should be a core aspect of the Vekllei identity.</p>
+<p>This is especially true in the Vekllei Commonwealth, which is a unique country. It has no common landmass, language, race or culture. It is made up of many islands that have common values. As such, standardisation is a way of reinforcing those values, and making its islands seem geographically closer together than they are.</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>Rules of the Commonwealth Design Bureau</strong></p>
+<ol>
+<li>All work must be in good taste.</li>
+<li>Work must be universal within its scope.</li>
+</ol></span>
+</blockquote>
+
+<p>You can expect the same language of design used across all levels of Vekllei government, from its federal chambers in <a href="/comet/">Comet</a> to its <a href="/polis/">autonomous cities</a> and municipalities.</p>
+<p>In a country as diverse as Vekllei, standards need to be flexible. As such, aspects of dozens of local cultures are integrated into the design language of the Commonwealth, and standardised into systems that give the impression of localism while being part of a larger whole. Government shields, for example, maintain a common shape and palette of colours<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> while consisting of many types of imagery and graphics, drawn in a single style.</p>
+<p>This diversity-within-systems is apparent in other aspects of government too. New flags have unique colours and imagery, but are designed in relation to each other, retaining both an individual identity and their shared membership as part of a larger country. Uniforms of government, even within government schools, demonstrate common principles expressed in a shared design language that incorporate regional cultural elements.</p>
+<p>The effect is obvious and acclaimed. Despite Vekllei&rsquo;s political inscrutability to foreigners, its visual motifs are widely recognisable and the careful management of its visual design has given the Vekllei government a strong and unique identity domestically and overseas. This is also effective in design&rsquo;s essential function across its many republics, as it helps familiarise disparate peoples with their common government, and allows Vekllei people feel comfortable in others parts of the country. Standardisation in Vekllei is a tremendous success.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&lsquo;Federalisation&rsquo; is the term for integration of a new country into the Vekllei Commonwealth. It is a shorthand for all aspects of integration, including the construction of new buildings, ratification of new laws and accession to the <a href="/constitution/">Vekllei Constitution</a> and the restructuring of the government. It concludes the establishment of a commons and the abolishment of common money through a process of hyperinflation.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>The Commonwealth Design Bureau performs work only for government organisations. <a href="/assets/">State-owned enterprises</a> generally retain their own design systems as independent companies, or fuse aspects of systems as the situation requires.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>The &lsquo;Commonwealth Palette&rsquo; is a swatch of 80 colours used across almost all government design. They include both practical, political and cultural colours that draw semantic connections with real-world culture, like &lsquo;Kalina Blue&rsquo; for its Caribbean seas and &lsquo;Kalan Cream&rsquo; for its snow.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Technology</title>
+	  <link>/factbook/bulletin/technology/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/technology/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+Vekllei is a high-technology, high-productivity, high-education society. Large segments of its industry are partially or completely automatic thanks to the computerisation of data, planning, and mechanical labour. Thanks to the marriage of incentive and capability, Vekllei is among the most advanced technological societies in the world, and its quality of life is dependent on these advances. Nonetheless, Vekllei is not technocratic, and does not have utopian aspirations for its technology.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Vekllei is a high-technology, <a href="/bulletin/productivity">high-productivity</a>, high-education society.</li>
+<li>Large segments of its industry are partially or completely automatic thanks to the <a href="/computers/">computerisation</a> of data, planning, and mechanical labour.</li>
+<li>Thanks to the marriage of incentive and capability, Vekllei is among the most advanced technological societies in the world, and its quality of life is dependent on these advances.</li>
+<li>Nonetheless, Vekllei is not technocratic, and does not have utopian aspirations for its technology.</li>
+<li>Beneath the visible successes of technological progress, much of Vekllei society operates on technology, machines and systems that have been superseded or outdated.</li>
+<li>Consequently, Vekllei is best characterised as a high and low-technology society simultaneously, which speaks to their technological pragmatism, social beliefs and moral scientism.</li>
+</ul></span>
+</blockquote>
+
+<p>Make no mistake, this <a href="/bulletin/">bulletin</a> is not describing a society where technology is straightforwardly fairer and people sacrifice petty comforts for better communities. This is not the case, and the use of technology in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is much more complicated.</p>
+<p>Vekllei is famous for its technology around the world. In fact, owing to its cultural obscurity, Vekllei sciences have a quasi-mythical status in international competition. Routinely, the country contributes substantial advances in the nuclear, medicinal, material, and computer sciences. These breakthroughs leave impressions on foreigners and their press, since they are most visible in public life; in their cities, shops and communities.</p>
+<p>Under the surface, however, things are much more complicated. Unlike most foreign societies, where advances in industrial or military science often trickles down into the household, Vekllei homes are simple and uncomplicated. In fact, to an American or European, Vekllei households are technologically austere and even backwards. It is not uncommon, for example, for Vekllei people to wash their clothes by hand in a tub or carry them to a laundromat. They do not own computers, televisions or personal massagers.</p>
+<p>It is not accurate to describe Vekllei society as technocratic. Vekllei people are basically <em>social</em> utopians, not <em>techno</em> utopians,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and their use of technology reflects this. Instead, it is more accurate to describe Vekllei people as being fascinated by technology, which understood literally applies not just to cutting-edge nuclear engines and biosciences but to types of technology that are discarded elsewhere, including steam engines and propeller aircraft.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> This distinction is obvious when you spend time in Vekllei societies and notice that, despite sending tourists to the moon daily, they still operate steam locomotives on timetabled passenger service.</p>
+<blockquote class="note ">
+  <span class="text"><p><strong>Example</strong></p>
+<p>Vekllei operates some of the most advanced forms of transportation in the world, including the <em>Obsidia</em> series of super-conductive trainsets (maglevs) and commercial space aviation. These are highly visible, and make good press in Vekllei and overseas. But Vekllei is a nation of rail, and most of their rolling stock are simple electrified units that are not so different from the types made at the turn of the millennium, because they are reliable and do their job well.</p>
+<p>Even more dramatically, Vekllei still operates nearly a hundred steam locomotives in regular service across its republics. This is not simply for nostalgia or tourism, but because they are good engines that do their job well. In a social economy, the value of technology is determined socially, and steam locomotives are subsequently valuable here.</p>
+</span>
+</blockquote>
+
+<p>Technology in Vekllei is not just a question of efficiency or value but what people like. Human labour remains the most expensive aspect of their economy, and in a participatory economy there is no means to compel labour outside of <a href="/corsosva/">compulsory service</a>. Consequently, people have to like their tools and machines, and this paradigm is at odds with pure technocratic utopianism because it makes inefficient choices.</p>
+<p>A steam locomotive is slower, more labour-intensive and requires more maintenance than modern electric trainsets, but some people like them more so they put in the effort to use them. To that end, they do their job well, and represent a more holistic and personal use of technology determined by ordinary people.</p>
+<p>This is a fundamental aspect of Vekllei society &ndash; not just that the government should hand down tools and provisions through central resources in an egalitarian fashion, but instead be forced to preempt the whims of a population who are idle, curious, irregular and often motivated by abstract social reasons rather than economic or ideological logic. This is why, despite their standard of living being dependent on huge centralised resources and organisations, Vekllei remains a voluntarist and quasi-anarchist society &ndash; because while they often choose space travel over televisions, sometimes they&rsquo;ll choose steam trains over space travel.</p>
+<!--<a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is famous for its technology around the world. In fact, owing to its cultural obscurity and small, highly educated population, parts of Vekllei have a quasi-mythical status in international competition. Routinely, the country contributes substantial breakthroughs in the nuclear, medicinal, material, and computer sciences. These scientific breakthroughs are substantiated by the visibility of these advances in their infrastructure, where they are most accessible to foreigners.
+
+	Unlike most foreign societies, where advances in industrial or military sciences often trickle down into the household, Vekllei science trickles into their cities and neighbourhoods. In fact, to an American or European, Vekllei households are technologically austere and even backwards. It is not uncommon, for example, for Vekllei people to wash their clothes by hand in a tub or carry them to a laundromat.
+
+	Similarly, Vekllei does not have a consumer society and lacks a means of developing into one. Televisions and household appliances, as well as luxuries like fast fashion and foreign imports, are mostly out of reach. Instead, the kinds of technology Vekllei is famous for are more industrial and public:
+
+	* Computers, both in public, commerce and industry
+	* Transport, including maglevs and spaceships
+	* Robotics, including automatic factories and industrial droids
+
+	Measuring Vekllei technology should distinguish between consumer and public technology, because Vekllei ranks poorly on the former and exceptionally on the latter. This is not simply a feature of collectivism, or strict egalitarianism -- it a fact of the limitations of their [social economy](/social-economy/).--><div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The use of <em>utopia</em> here refers to the ultimate social dream of their society. Americans, for example, have a utopia made up of the individual, family, success via wealth or community, and duty. Vekllei has a <em>social</em> utopia made up of its systems, beliefs and systems of government rather than machines, robots and interstellar travel. This does not mean an opposition to technology, just describes which serves what.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>The opposite of <em>technocracy</em>, different from neutral and objective <em>technology</em>, is not backwardness and Luddism, but a belief in social relations i.e. democracy.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>The Commons Overseas</title>
+	  <link>/factbook/bulletin/elsewhere/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/elsewhere/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+The commons is a pretty remarkable thing. It has improved life satisfaction, productivity, and quality of life for people in Vekllei. The obvious question follows &ndash; if the commons is so great, why is it only found in Vekllei? If other countries are richer and more powerful, why have they not seized on these new developments? The answer is complicated, and just as the commons does not rely on the benevolent altruism of the Vekllei person, its exclusivity does not rely on a superior work ethic intrinsic to them either.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>The <a href="/social-economy/">commons</a> is a pretty remarkable thing. It has improved life satisfaction, productivity, and quality of life for people in Vekllei.</li>
+<li>The obvious question follows &ndash; if the <em>commons</em> is so great, why is it only found in Vekllei? If other countries are richer and more powerful, why have they not seized on these new developments?</li>
+<li>The answer is complicated, and just as the <em>commons</em> does not rely on the benevolent altruism of the Vekllei person, its exclusivity does not rely on a superior work ethic intrinsic to them either.</li>
+<li>Fundamentally, Vekllei&rsquo;s system is just too unusual, too culturally and geographically specific, too risky, and too imperfect to see much interest in adoption overseas.</li>
+</ul></span>
+</blockquote>
+
+<p>The obvious question is, if the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> <em>commons</em> is so great, why is it only found in Vekllei? The <em>commons</em>, as a reminder, is a moniker for Vekllei&rsquo;s domestic, consumer economy that does not use money in ordinary life. For most Vekllei people, this is the only economy they actually engage with in a domestic context. It is seperate from the industrial economy, through which international trade and most large enterprise is facilitated.</p>
+<p>Since its gradual, staged introduction throughout the 2010s and 2020s, the <em>commons</em> has been a radical achievement of postwar Vekllei society. Against all expectations, it has produced good outcomes for Vekllei people and continues to do so. They rank highly in <a href="/bulletin/productivity/">productivity</a>, happiness, education and overall life satisfaction, and it is has dramatically redetermined the function and mechanics of the economy.</p>
+<p>Vekllei&rsquo;s world in 2063 has plenty of radical, or at least ostensibly revolutionary, states. So why has the success of the Vekllei system, which has resemblance to many different kinds of progressive economic ideologies, not yet found traction in other countries?</p>
+<p>While there are a few key factors that have resulted in Vekllei being the only example of such a system in a world, it&rsquo;s important to acknowledge that Vekllei has had and continues to have influence on the political and economic thinking around the world. Although moneylessness has not been implemented in other countries, geographic neighbours like Cuba have worked closely with Vekllei to establish the Oceans Political Institute as part of an expression of interest in their system. As another example, Iberia&rsquo;s internal self-governing collectivities closely resemble aspects of the Vekllei <em>commons</em>.</p>
+<p>Nonetheless, there are good answers for why Vekllei remains unique among economic systems:</p>
+<blockquote class="note gray">
+  <span class="text"><ol>
+<li>There is little evidence that the <em>commons</em> would work at scale. Despite its geographic size, Vekllei has only 24 million people. It has major urban centres in Oslola and some islands in the Kalina island chain, and those cities have been dramatically adapted to suit their system. There is no reason to assume that what works on their islands might also work in a much larger, more populous, continental country.</li>
+<li>They have a very federal society with a strong, civic culture developed in a unique set of circumstances. These are not things you can simply develop in a five-year plan, or attempt to forge through control of media. Their social behaviours are also their economic ones, and so are much more vulnerable to changes in public sentiment or attitude.</li>
+<li>Vekllei is politically independent. Despite some similarities, Vekllei does not in rhetoric or appearance resemble a communist or anarchist society. There is no mention of Marx, class, or proletariat, and the foundations of Vekllei political economics were influenced by feminist anarchists, Georgists, libertarians and nationalists. Although the country does not resemble any single ideology, these left-of-field influences isolate (and insulate) it from straightforward characterisation in the cold war binary, and by extension has much less academic interest overseas.</li>
+<li>While Vekllei considers itself a western, democratic country, it does not resemble traditional capitalist liberalism, and elements of its economy, like dirigisme, are already common around the world. Consequently, Vekllei does not offer much insight into reform of these existing systems, and its greater achievements require much more revolutionary, foundational and unappealing changes to a country.</li>
+<li>Fundamentally, competing systems continue to &lsquo;work.&rsquo; The Soviet Union and China remain superpowers, and despite the troubles of the US, the Western powers remain economically and militarily powerful. From a certain perspective, there is nothing &lsquo;wrong&rsquo; with these systems insofar as they maintain their superpower status and continuous growth.</li>
+<li>The <em>commons</em> has straightforward concessions, and directs their quality of life. Despite its social achievements, Vekllei people are materially poorer than most other developed countries, if measured by the metrics of a consumer society.</li>
+<li>It is obvious to other countries that Vekllei is culturally obscure, and its social economy is built on core social factors that aren&rsquo;t easy to reproduce in economic planning. There is no straightforward solution or, for the reasons listed above, a serious desire to introduce aspects of its economy elsewhere. It has no special industrial or technological advantage. It is quite possible its introduction would destroy a country, since its only successful example developed in the aftermath of total devastation in the Atomic War.</li>
+</ol>
+</span>
+</blockquote>
+
+<p>While these reasons contribute to the obscurity of the <em>commons</em>, it is also true that it has been successfully implemented in many different societies &ndash; it&rsquo;s just that those societies now make up part of Vekllei, and their integration (known as &lsquo;federalisation&rsquo;) was directed by Vekllei. This exact process will be described in another bulletin, but its success contains insights for other emerging case studies, including potentially Cuba and Haiti. These are similarly radical societies with a restless island population, and so are primed for the kind of changes required to undertake such a dramatic reimagining of their economic system.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Why do Vekllei People Look Like That?</title>
+	  <link>/factbook/bulletin/looks/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/bulletin/looks/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the bulletin series of articles Summary
+A common question about Vekllei, particularly when associated with Oslola (née Iceland), is why they do not look like the common conception of Icelanders. The simple answer is that they are not typical Icelanders, and most native Oslolans are descended from either indigenous arctic peoples (which they call &ldquo;Algic&rdquo;) and Irish or Nordic settlers. In addition, in Oslola there are substantive populations of immigrants who come from all over the world.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>A common question about Vekllei, particularly when associated with <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> (<em>née</em> Iceland), is why they do not look like the common conception of Icelanders.</li>
+<li>The simple answer is that they are <em>not</em> typical Icelanders, and most native Oslolans are descended from either indigenous arctic peoples (which they call &ldquo;Algic&rdquo;) and Irish or Nordic settlers.</li>
+<li>In addition, in Oslola there are substantive populations of immigrants who come from all over the world.</li>
+<li>As such, it is not accurate to describe any one group of people as &ldquo;looking like&rdquo; an Oslolan, owing to their enduring diversity.</li>
+</ul></span>
+</blockquote>
+
+<p>The commonwealth called <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is a union of island communities, but when this project started it was centred on Iceland. Indeed, Vekllei originally referred only to &ldquo;Iceland,&rdquo; and its possessions across the Atlantic were an afterthought. The worldbuilding in this project is significantly more enlightened now, and Vekllei refers equally to a commonwealth of consenting island communities, but the main characters all still live in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>. Picking up on this, people often ask why some of them have Asian features or darker skin, and the answer is straightforward &ndash; this is not Iceland, it is Oslola, and so its history and demographics are different.</p>
+<p>Oslola has been inhabited for thousands of years, and was settled nearly simultaneously by indigenous arctic peoples (Algics) and Irish settlers. Not long after, a significant population of Nordic settlers accompanied them. This comprises, historically, the two main ethnic groups of Oslola. Algic peoples have light skin, dark hair, and asian features. Nordics, sometimes called Scandinavians, have northern European features and generally lighter hair colours.</p>
+<p>Of course, Oslola has undergone a series of catastrophic crises, and has changed very much in the last few hundred years. Between its colonial subjugation and its brutal civil war and atomic bombing, much of old Oslolan society &ndash; its monarchy, clan system and traditions, have been displaced by the internationalist and anarchistic Floral Period. It is now a deeply multiracial society, and is united sincerely by politics and belief as much as geography and race. To that end, it is not even accurate to characterise &ldquo;Oslolans&rdquo; (i.e. Algics and Nordics) as the primary ethnic group of Oslola. They are a majority statistically, but they live in a deeply multicultural society and that is apparent living there.</p>
+<p>Appended is a summarised table demonstrating the diversity across the Commonwealth, and their nominated ancestries of origin. A deeper breakdown can be found on the <a href="/demographics/">demographics</a> article.</p>
+<blockquote class="note advice">
+  <span class="text">Read more: <span class="smallicon">👨‍👩‍👧‍👦</span> <em><a href="/demographics/">Demographics of Vekllei</a></em></span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Major Ancestries of Vekllei</strong></p>
+<ul>
+<li>Oslolan (33%)</li>
+<li>UK &amp; Ireland (29.9%)</li>
+<li>Kalinago/Carib (9.5%)</li>
+<li>Black (8.6%)</li>
+<li>Commonwealth Asian (5.5%)</li>
+<li>Hispanic (4.4%)</li>
+<li>East Creole (4%)</li>
+<li>Portuguese (3.1%)</li>
+<li>Latin American (2.9%)</li>
+<li>Indian/Ceylonese (1.7%)</li>
+<li>French (1.6%)</li>
+<li>Southern European (1.5%)</li>
+<li>Slavic (1.3%)</li>
+<li>Others (1%)</li>
+</ul></span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

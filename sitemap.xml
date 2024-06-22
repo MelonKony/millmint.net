@@ -3993,7 +3993,7 @@
   
   <url>
 	<loc>/factbook/bulletin/accounted-revenue/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4007,7 +4007,7 @@
   
   <url>
 	<loc>/factbook/bulletin/airline-travel/</loc>
-	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4021,7 +4021,7 @@
   
   <url>
 	<loc>/factbook/bulletin/alcohol/</loc>
-	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4140,7 +4140,7 @@
   
   <url>
 	<loc>/factbook/bulletin/automatic-allocation/</loc>
-	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4161,7 +4161,7 @@
   
   <url>
 	<loc>/factbook/bulletin/bankruptcy/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4195,6 +4195,13 @@
   
   
   
+  
+  
+  
+  <url>
+	<loc>/series/bulletin/</loc>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
+  </url>
   
   
   
@@ -4660,13 +4667,6 @@
   
   
   <url>
-	<loc>/factbook/society/state/government/council/</loc>
-	<lastmod>2024-05-30T10:26:45+10:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
 	<loc>/factbook/society/state/government/parliaments/health/commonwealth-disease-authority/</loc>
 	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
   </url>
@@ -4709,8 +4709,8 @@
   
   
   <url>
-	<loc>/factbook/society/industry/state/cl/</loc>
-	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
+	<loc>/factbook/society/industry/state/commonwealth-lines/</loc>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4772,13 +4772,6 @@
   
   
   <url>
-	<loc>/factbook/society/state/government/senate/</loc>
-	<lastmod>2024-05-30T10:27:15+10:00</lastmod>
-  </url>
-  
-  
-  
-  <url>
 	<loc>/factbook/society/industry/state/starlines/</loc>
 	<lastmod>2024-05-29T21:14:13+10:00</lastmod>
   </url>
@@ -4822,7 +4815,7 @@
   
   <url>
 	<loc>/factbook/society/state/constituents/</loc>
-	<lastmod>2024-05-26T18:52:41+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -4863,6 +4856,13 @@
   
   
   <url>
+	<loc>/factbook/society/state/government/council/</loc>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
 	<loc>/factbook/history/rosecouncil/</loc>
 	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
   </url>
@@ -4878,7 +4878,7 @@
   
   <url>
 	<loc>/factbook/bulletin/courtesy/</loc>
-	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5061,7 +5061,7 @@
   
   <url>
 	<loc>/factbook/bulletin/foreign-policy/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5110,14 +5110,14 @@
   
   <url>
 	<loc>/factbook/bulletin/government-ownership/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
   
   <url>
 	<loc>/factbook/bulletin/consensus/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5541,7 +5541,7 @@
   
   <url>
 	<loc>/factbook/society/state/government/assembly/</loc>
-	<lastmod>2024-05-30T10:26:45+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5583,14 +5583,14 @@
   
   <url>
 	<loc>/factbook/bulletin/tour/</loc>
-	<lastmod>2024-05-18T15:38:04+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
   
   <url>
 	<loc>/factbook/bulletin/natural-commodities/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5620,7 +5620,7 @@
   
   <url>
 	<loc>/factbook/bulletin/lots/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5711,7 +5711,7 @@
   
   <url>
 	<loc>/factbook/bulletin/productivity/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5753,7 +5753,7 @@
   
   <url>
 	<loc>/factbook/society/state/republics/</loc>
-	<lastmod>2024-06-20T23:11:03+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5794,8 +5794,15 @@
   
   
   <url>
+	<loc>/factbook/society/state/government/senate/</loc>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
 	<loc>/series/</loc>
-	<lastmod>2024-06-20T23:11:03+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5846,7 +5853,7 @@
   
   <url>
 	<loc>/factbook/bulletin/standardisation/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5862,7 +5869,7 @@
   
   <url>
 	<loc>/factbook/society/industry/state/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5906,7 +5913,7 @@
   
   <url>
 	<loc>/factbook/bulletin/technology/</loc>
-	<lastmod>2024-05-16T19:08:54+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5927,7 +5934,7 @@
   
   <url>
 	<loc>/factbook/bulletin/elsewhere/</loc>
-	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -5941,7 +5948,7 @@
   
   <url>
 	<loc>/factbook/timeline/</loc>
-	<lastmod>2024-06-17T14:16:28+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -6013,14 +6020,14 @@
   
   <url>
 	<loc>/series/vekllei/</loc>
-	<lastmod>2024-06-20T23:11:03+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
   
   <url>
 	<loc>/factbook/world/vekllei/</loc>
-	<lastmod>2024-06-20T23:11:03+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   
@@ -6062,7 +6069,7 @@
   
   <url>
 	<loc>/factbook/bulletin/looks/</loc>
-	<lastmod>2024-06-14T19:38:39+10:00</lastmod>
+	<lastmod>2024-06-22T10:44:41+10:00</lastmod>
   </url>
   
   

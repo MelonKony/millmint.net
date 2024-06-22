@@ -1055,15 +1055,14 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Part of the state series of articles A Republic (Vekllei: Polis) is type of city-state that make up the country of Vekllei. They consist of island city-states known as Polisa which together form a constituent commonwealth. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.
-Diagram of the a Polis administration and its structure There are a few criteria separating Polisa from regular city councils.]]>
+	  <![CDATA[Part of the state series of articles A Constituent Republic is type of city-state that make up the country of Vekllei. They retain autonomy and devolved powers, but have acceded to the state of Vekllei and are part of that country. They are organised into constituent commonwealths, which serve as an intermediate level of administration between the federal and republican governments. The largest republics have millions of people; the smallest have only a few thousand.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
   <span class="text">Part of the <em><a href="/state/">state</a></em> series of articles</span>
 </blockquote>
 
-<p>A <strong>Republic</strong> (Vekllei: <em>Polis</em>) is type of city-state that make up the country of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. They consist of island city-states known as <em>Polisa</em> which together form a <a href="/constituents/">constituent commonwealth</a>. There are 66 republics in Vekllei that together form 8 commonwealths and the country of Vekllei.</p>
+<p>A <strong>Constituent Republic</strong> is type of city-state that make up the country of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. They retain autonomy and devolved powers, but have acceded to the state of Vekllei and are part of that country. They are organised into <a href="/constituents/">constituent commonwealths</a>, which serve as an intermediate level of administration between the federal and republican governments. The largest republics have millions of people; the smallest have only a few thousand.</p>
 <p><figure>
   <a href="/svg/diagrams/polis.png"
      target="_blank"
@@ -1096,7 +1095,7 @@ Diagram of the a Polis administration and its structure There are a few criteria
   
    <figcaption>Diagram of the a Polis administration and its structure</figcaption>
 </figure></p>
-<p>There are a few criteria separating Polisa from regular city councils. They are generally self-sufficient, and include surrounding areas capable of agriculture and industry. They also retain their own lower courts, and have a strengthened local government consisting of a popular assembly (the Municipal Assembly) and Ecclesia &ndash; special-purpose councils of important civic citizens and industrial representatives.</p>
+<p>There are a few criteria separating republics from regular local government. They are generally self-sufficient, and include surrounding areas capable of agriculture and industry. They also retain their own lower courts, and have a strengthened local democracy consisting of a popular assembly (the Municipal Assembly) and Ecclesia &ndash; special-purpose councils of important civic citizens and industrial representatives.</p>
 <details open>
 <summary>List of Vekllei Republics</summary>
 <ul>
@@ -1235,7 +1234,7 @@ Diagram of the a Polis administration and its structure There are a few criteria
 	  </author>
 	  <description>
 	  <![CDATA[Part of the state series of articles Territories, dependencies and autonomous regions are administrative areas of the Commonwealth that are not considered Constituent members. This is usually because they lack a large permanent population able to form its own Assembly, or otherwise form part of a special administrative territory that has been federalised.
-As non-constituents, they are unable to form Sords and have permanent observer status in the Commonwealth Council.]]>
+As non-constituents, they are unable to form Sords and have permanent observer status in the Council. These territories include:]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
@@ -1243,7 +1242,7 @@ As non-constituents, they are unable to form Sords and have permanent observer s
 </blockquote>
 
 <p>Territories, dependencies and autonomous regions are administrative areas of the Commonwealth that are not considered <a href="/constituents/">Constituent</a> members. This is usually because they lack a large permanent population able to form its own <a href="/assembly/">Assembly</a>, or otherwise form part of a special administrative territory that has been federalised.</p>
-<p>As non-constituents, they are unable to form Sords and have permanent observer status in the <a class="slink" style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/council/"><span class="fi fi-min-council fis"></span> Commonwealth Council</a>. These territories include:</p>
+<p>As non-constituents, they are unable to form Sords and have permanent observer status in the <a class="slink" style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/society/state/government/council/"><span class="fi fi-min-council fis"></span> Council</a>. These territories include:</p>
 <p><strong>Vekllei Federal Territories</strong></p>
 <ul>
 <li>Vekllei Antarctic Territories</li>
