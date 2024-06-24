@@ -28,7 +28,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Vekllei Commonwealth Sovereign Commonwealth of Atlantic Communities Anthem Advance, Vekllei Government Federal parliamentary directoral commonwealth Capital Comet Population 24,371,300 Area 2,386,688 km2 National Language English Vekllei is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,1 the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million.]]>
+	  <![CDATA[Vekllei Commonwealth Sovereign Commonwealth of Atlantic Communities Anthem Advance, Vekllei Government Federal parliamentary directoral commonwealth Capital Comet Population 24,371,300 Area 2,386,688 km² National Language English Vekllei is best conceptualised as a union of islands across the Atlantic Ocean. It is a commonwealth,1 the fourth in a series, and consists of many island republics that are connected by politics and prosperity, not geography or race. These islands range in size from the Selvas Islands of 160 people to the island of Oslola, of 8 million.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/>  <div class="slider">
@@ -39,7 +39,7 @@
  		<img src="/svg/flags/4x3/santes.svg">
  		<img src="/svg/flags/4x3/gs.svg">
  		<img src="/svg/flags/4x3/sj.svg">
- 		<img src="/svg/flags/4x3/verde.svg">
+ 		<img src="/svg/flags/4x3/costa-verde.svg">
  		<img src="/svg/flags/4x3/ms.svg">
  		<img src="/svg/flags/4x3/aloubaera.svg">
  		<img src="/svg/flags/4x3/gd.svg">
@@ -63,7 +63,7 @@
  		<img src="/svg/flags/4x3/santes.svg">
  		<img src="/svg/flags/4x3/gs.svg">
  		<img src="/svg/flags/4x3/sj.svg">
- 		<img src="/svg/flags/4x3/verde.svg">
+ 		<img src="/svg/flags/4x3/costa-verde.svg">
  		<img src="/svg/flags/4x3/ms.svg">
  		<img src="/svg/flags/4x3/aloubaera.svg">
  		<img src="/svg/flags/4x3/gd.svg">
@@ -119,6 +119,14 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Anthem</th>
 		<td>Advance, Vekllei</td>
@@ -149,7 +157,7 @@
 	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Area</th>
-		<td>2,386,688 km2</td>
+		<td>2,386,688 km²</td>
 	</tr>
 	
 
@@ -227,14 +235,14 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 <summary>List of Vekllei Commonwealths</summary>
 **Constituent Commonwealths of Vekllei**
 <ul>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic</a></li>
+<li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></li>
 <li>Commonwealth Antilles</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic</a></li>
+<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></li>
 <li>Commonwealth Atlantic</li>
 <li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/kalina/"><span class="fi fi-kalina"></span> Kalina</a></li>
 <li>Commonwealth Lucaya</li>
 <li>Commonwealth Verde</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic</a></li>
+<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></li>
 </ul>
 </details>
 <details closed>
@@ -250,7 +258,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic</a></strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></strong></p>
 <ul>
 <li><a class="slink" style="color: rgb(48, 106, 175); background: color-mix(in srgb, rgb(48, 106, 175) 10%, transparent);" href="/factbook/world/vekllei/antarctic/ascension/"><span class="fi fi-ac"></span> Ascension</a> (<em>Ascension</em>)</li>
 <li><a class="slink" style="color: rgb(60, 122, 184); background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);" href="/factbook/world/vekllei/antarctic/falklands/"><span class="fi fi-fk"></span> Falklands</a> (<em>Falklands</em>)</li>
@@ -287,7 +295,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 <li>Porto Santo Republic (<em>Porto Santo</em>)</li>
 <li>Terceira Republic (<em>Terceira Island</em>)</li>
 <li>Velas Republic (<em>Sao Jorge Island</em>)</li>
-<li><a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/verde/"><span class="fi fi-verde"></span> Verde</a> (<em>Sao Miguel Island</em>)</li>
+<li><a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/costa-verde/"><span class="fi fi-costa-verde"></span> Costa Verde</a> (<em>Sao Miguel Island</em>)</li>
 </ul>
 </li>
 <li>

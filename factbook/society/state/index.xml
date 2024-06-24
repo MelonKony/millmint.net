@@ -119,14 +119,14 @@ Constituent commonwealths have their own suite of ministries and a National Asse
 <blockquote class="note panel">
   <span class="text"><p><strong>Constituent Commonwealths of Vekllei</strong></p>
 <ul>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic</a></li>
+<li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></li>
 <li>Commonwealth Antilles</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic</a></li>
+<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></li>
 <li>Commonwealth Atlantic</li>
 <li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/kalina/"><span class="fi fi-kalina"></span> Kalina</a></li>
 <li>Commonwealth Lucaya</li>
 <li>Commonwealth Verde</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic</a></li>
+<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></li>
 </ul></span>
 </blockquote>
 
@@ -1109,7 +1109,7 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 </ul>
 </li>
 <li>
-<p><strong><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic</a></strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></strong></p>
 <ul>
 <li><a class="slink" style="color: rgb(48, 106, 175); background: color-mix(in srgb, rgb(48, 106, 175) 10%, transparent);" href="/factbook/world/vekllei/antarctic/ascension/"><span class="fi fi-ac"></span> Ascension</a> (<em>Ascension</em>)</li>
 <li><a class="slink" style="color: rgb(60, 122, 184); background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);" href="/factbook/world/vekllei/antarctic/falklands/"><span class="fi fi-fk"></span> Falklands</a> (<em>Falklands</em>)</li>
@@ -1146,7 +1146,7 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 <li>Porto Santo Republic (<em>Porto Santo</em>)</li>
 <li>Terceira Republic (<em>Terceira Island</em>)</li>
 <li>Velas Republic (<em>Sao Jorge Island</em>)</li>
-<li><a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/verde/"><span class="fi fi-verde"></span> Verde</a> (<em>Sao Miguel Island</em>)</li>
+<li><a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/costa-verde/"><span class="fi fi-costa-verde"></span> Costa Verde</a> (<em>Sao Miguel Island</em>)</li>
 </ul>
 </li>
 <li>
@@ -1161,7 +1161,7 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 <li>Inagua Republic (<em>Great Inagua</em>)</li>
 <li>Lucayoneque Republic (<em>Abaco Islands</em>)</li>
 <li>Mayaguana Republic (<em>Mayaguana</em>)</li>
-<li>Nema Republic (<em>New Providence</em>)</li>
+<li>Providence Republic (<em>New Providence</em>)</li>
 <li><a class="slink" style="color: rgb(57, 122, 205); background: color-mix(in srgb, rgb(57, 122, 205) 10%, transparent);" href="/factbook/world/vekllei/lucaya/rum/"><span class="fi fi-rum"></span> Rum</a> (<em>San Salvador &amp; Rum Cay</em>)</li>
 <li><a class="slink" style="color: rgb(69, 81, 202); background: color-mix(in srgb, rgb(69, 81, 202) 10%, transparent);" href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a> (<em>Bermuda</em>)</li>
 <li>Yabaque Republic (<em>Acklins</em>)</li>
@@ -1200,6 +1200,7 @@ Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-ve
 <li>Brava Republic (<em>Brava</em>)</li>
 <li>Covoada Republic (<em>Sao Nicolau</em>)</li>
 <li>Fogo Republic (<em>Fogo</em>)</li>
+<li>Java Republic (<em>Sao Tome</em>)</li>
 <li>Maio Republic (<em>Maio</em>)</li>
 <li>Moroços Republic (<em>Santo Antao</em>)</li>
 <li>Praia Republic (<em>Santiago</em>)</li>

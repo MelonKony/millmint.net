@@ -18,7 +18,7 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/series/commonwealth/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Antarctic</title>
+	  <title>Antarctic Commonwealth</title>
 	  <link>/factbook/world/vekllei/antarctic/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -28,7 +28,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Commonwealth Antarctica is a constituent of Vekllei Commonwealth Antarctica Regional Commonwealth of Vekllei Capital Helena Population 47,982 Area 16,493 km2 Commonwealth Antarctica (Vekllei Antarctica) is a constituent commonwealth of Vekllei, comprising largely isolated and scattered island republics in the south Atlantic and Antarctic oceans. It is the least-populated and least-developed of the regional commonwealths, and its republics are dependent on small trades, fishing, and Vekllei Commonwealth institutions like the military and civil service.]]>
+	  <![CDATA[Commonwealth Antarctica is a constituent of Vekllei Commonwealth Antarctica Regional Commonwealth of Vekllei Capital Helena Population 118,982 Area 16,493 km² Commonwealth Antarctica (Vekllei Antarctica) is a constituent commonwealth of Vekllei, comprising largely isolated and scattered island republics in the south Atlantic and Antarctic oceans. It is the least-populated and least-developed of the regional commonwealths, and its republics are dependent on small trades, fishing, and Vekllei Commonwealth institutions like the military and civil service.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
@@ -75,6 +75,14 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>
 		<td>Helena</td>
@@ -84,14 +92,14 @@
 	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Population</th>
-		<td>47,982</td>
+		<td>118,982</td>
 	</tr>
 	
 
 	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Area</th>
-		<td>16,493 km2</td>
+		<td>16,493 km²</td>
 	</tr>
 	
 
@@ -120,7 +128,110 @@
 	</item>
 	
 	<item>
-	  <title>Arctic</title>
+	  <title>Antilles Commonwealth</title>
+	  <link>/factbook/world/vekllei/antilles/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/world/vekllei/antilles/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The Antilles Commonwealth is a constituent of Vekllei Antilles Commonwealth Regional Commonwealth of Vekllei Population 1,196,151 Area 1,171 km² The Antilles Commonwealth (Vekllei Antilles) is a constituent commonwealth of Vekllei, comprising its islands in the Leeward Antilles. These include the &ldquo;ABC islands&rdquo; off the west coast of Venezuela, and the Caimanas in the West Caribbean Sea. All of them are densely-populated and highly industrialised, which facilitates their tradition as trading ports.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">The Antilles Commonwealth is a <a href="/constituents/">constituent</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/antilles.svg);"></span> Antilles Commonwealth</th>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/constituents/">Regional Commonwealth</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td colspan="2">
+			<img src="/svg/flags/antilles.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>1,196,151</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>1,171 km²</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-antilles"></span> <strong>Antilles Commonwealth</strong> (<em>Vekllei Antilles</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising its islands in the Leeward Antilles. These include the &ldquo;ABC islands&rdquo; off the west coast of Venezuela, and the Caimanas in the West Caribbean Sea. All of them are densely-populated and highly industrialised, which facilitates their tradition as trading ports. Unlike other parts of the Vekllei Antilles, the ABC islands have a dry climate and xeric landscape, giving them their characteristic desert appearance. The Caimanas, some ways to their north, are tropical coral islands.</p>
+<p>The Caimanas are a regional banking capital of Vekllei, and conduct strong trade with North and Central America.</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>Republics of Antilles Commonwealth</strong></p>
+<ul>
+<li>Aruba Republic</li>
+<li>Bonaire Republic</li>
+<li>Caimanas Republic</li>
+<li>Curaçao Republic</li>
+</ul></span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Arctic Commonwealth</title>
 	  <link>/factbook/world/vekllei/arctic/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -130,16 +241,16 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Commonwealth Antarctica is a constituent of Vekllei Commonwealth Arctic Regional Commonwealth of Vekllei Capital Canec Population 489,848 Area 2,228,131 km2 The Commonwealth Arctic (Vekllei Arctic) is a constituent commonwealth of Vekllei, comprising Kala and Helvasia, the two republics that lie in within the Arctic Circle. It is the largest Commonwealth by land area, but very little of it is habitable and the majority of the population live in a handful of major cities.]]>
+	  <![CDATA[The Arctic Commonwealth is a constituent of Vekllei Arctic Commonwealth Regional Commonwealth of Vekllei Capital Canec Population 514,848 Area 2,228,131 km² The Arctic Commonwealth (Vekllei Arctic) is a constituent commonwealth of Vekllei, comprising Kala and Helvasia, the two republics that lie in within the Arctic Circle. It is the largest Commonwealth by land area, but very little of it is habitable and the majority of the population live in a handful of major cities.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
-  <span class="text">Commonwealth Antarctica is a <a href="/constituents/">constituent</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+  <span class="text">The Arctic Commonwealth is a <a href="/constituents/">constituent</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
 </blockquote>
 
 <table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
 	<tr>
-		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/arctic.svg);"></span> Commonwealth Arctic</th>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/arctic.svg);"></span> Arctic Commonwealth</th>
 	</tr>
 
 	
@@ -177,6 +288,14 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>
 		<td>Canec</td>
@@ -186,14 +305,14 @@
 	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Population</th>
-		<td>489,848</td>
+		<td>514,848</td>
 	</tr>
 	
 
 	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Area</th>
-		<td>2,228,131 km2</td>
+		<td>2,228,131 km²</td>
 	</tr>
 	
 
@@ -203,7 +322,7 @@
 
 	
 </table>
-<p>The <span class="fi fi-arctic"></span> Commonwealth Arctic (<em>Vekllei Arctic</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising Kala and <a class="slink" style="color: rgb(219, 2, 3); background: color-mix(in srgb, rgb(219, 2, 3) 10%, transparent);" href="/factbook/world/vekllei/arctic/helvasia/"><span class="fi fi-sj"></span> Helvasia</a>, the two <a href="/republics/">republics</a> that lie in within the Arctic Circle. It is the largest Commonwealth by land area, but very little of it is habitable and the majority of the population live in a handful of major cities.</p>
+<p>The <span class="fi fi-arctic"></span> <strong>Arctic Commonwealth</strong> (<em>Vekllei Arctic</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising Kala and <a class="slink" style="color: rgb(219, 2, 3); background: color-mix(in srgb, rgb(219, 2, 3) 10%, transparent);" href="/factbook/world/vekllei/arctic/helvasia/"><span class="fi fi-sj"></span> Helvasia</a>, the two <a href="/republics/">republics</a> that lie in within the Arctic Circle. It is the largest Commonwealth by land area, but very little of it is habitable and the majority of the population live in a handful of major cities.</p>
 <p>The Commonwealth has a strong cultural association with indigenous Algic and Sami peoples, who make up the majority of the population in Kala and Helvasia respectively. In addition, many Oslolans, Scandinavians, and some equatorial and Antarctic Vekllei populations reside there.</p>
 <p>The majority of Kala and the entirety of <a class="slink" style="color: rgb(219, 2, 3); background: color-mix(in srgb, rgb(219, 2, 3) 10%, transparent);" href="/factbook/world/vekllei/arctic/helvasia/"><span class="fi fi-sj"></span> Helvasia</a> lie within the Arctic Circle, and are characterised by Arctic climates and extreme seasons, including midnight sun and polar nights. The Arctic Commonwealth contributes much of Vekllei&rsquo;s cold-weather and arctic expertise in research, industry, and military sectors. It is also the site of Polar University in Kala, the largest school within the Arctic Circle.</p>
 <p>The Commonwealth has economic zones that border Canada, Scandinavia and the Soviet Union, and competing claims over the resources in the Arctic are a source of diplomatic tension. The Maritime and Littoral Services have a half dozen icebreaking naval bases in the Arctic republics.</p>
@@ -212,6 +331,116 @@
 <ul>
 <li><a class="slink" style="color: rgb(219, 2, 3); background: color-mix(in srgb, rgb(219, 2, 3) 10%, transparent);" href="/factbook/world/vekllei/arctic/helvasia/"><span class="fi fi-sj"></span> Helvasia</a></li>
 <li>Kala</li>
+</ul></span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Atlantic</title>
+	  <link>/factbook/world/vekllei/atlantic/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/world/vekllei/atlantic/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Commonwealth Antarctica is a constituent of Vekllei Atlantic Commonwealth Regional Commonwealth of Vekllei Population 1,168,038 Area 3,088 km² The Atlantic Commonwealth (Vekllei Atlantic) is a constituent commonwealth of Vekllei, comprising formerly Portuguese territories in the eastern Atlantic around 1,400km west of the European continent. Its republics have a warm, oceanic climate and are characterised by conspicuous terrain and lush mountainsides. Many of them are actively volcanic.
+The majority of the Commonwealth&rsquo;s republics are clustered in the Azores archipelago, but also includes the islands of Mira and Porto Santo to their southeast.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">Commonwealth Antarctica is a <a href="/constituents/">constituent</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/atlantic.svg);"></span> Atlantic Commonwealth</th>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/constituents/">Regional Commonwealth</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td colspan="2">
+			<img src="/svg/flags/atlantic.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>1,168,038</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>3,088 km²</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-atlantic"></span> <strong>Atlantic Commonwealth</strong> (<em>Vekllei Atlantic</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising formerly Portuguese territories in the eastern Atlantic around 1,400km west of the European continent. Its republics have a warm, oceanic climate and are characterised by conspicuous terrain and lush mountainsides. Many of them are actively volcanic.</p>
+<p>The majority of the Commonwealth&rsquo;s republics are clustered in the Azores archipelago, but also includes the islands of Mira and Porto Santo to their southeast. Their unique history and geography give the Atlantic Commonwealth a distinctive culture, and has seen its population grow consistently since joining <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> in the postwar period.</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>Republics of the Atlantic Commonwealth</strong></p>
+<ul>
+<li>Fayal Republic</li>
+<li>Flores Republic</li>
+<li>Graciosa Republic</li>
+<li>Maria Republic</li>
+<li>Mira Republic</li>
+<li>Pico Republic</li>
+<li>Porto Santo Republic</li>
+<li>Terceira Republic</li>
+<li>Velas Republic</li>
+<li><a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/costa-verde/"><span class="fi fi-costa-verde"></span> Costa Verde</a></li>
 </ul></span>
 </blockquote>
 
@@ -230,7 +459,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Commonwealth Kalina is a constituent of Vekllei Commonwealth Kalina Regional Commonwealth of Vekllei Capital Kairi (administrative), Virgin (judicial), Lucia (legislative) Commonwealth Kalina (Vekllei Kalina) is a constituent commonwealth of Vekllei, comprising the entire Lesser Antilles island chain and a few adjacent islands. It contains 20 island republics. It is the second most-populous Commonwealth after Oslola, and is the most ethnically and linguistically diverse, owing to its colonial and industrial history.]]>
+	  <![CDATA[Commonwealth Kalina is a constituent of Vekllei Commonwealth Kalina Regional Commonwealth of Vekllei Capital Kairi (administrative), Virgin (judicial), Lucia (legislative) Population 9,515,983 Area 10,686 km² The Kalina Commonwealth (Vekllei Kalina) is a constituent commonwealth of Vekllei, comprising the entire Lesser Antilles island chain and a few adjacent islands. It contains 20 island republics that are densely populated and culturally diverse, and contribute much to Vekllei&rsquo;s overall population and industry. It is the second most-populous region after the Volcanic Commonwealth, and is the most ethnically and linguistically diverse, owing to its unique history.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
@@ -277,9 +506,31 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>
 		<td>Kairi (administrative), Virgin (judicial), Lucia (legislative)</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>9,515,983</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>10,686 km²</td>
 	</tr>
 	
 
@@ -288,12 +539,9 @@
 	
 
 	
-
-	
-
-	
 </table>
-<p>Commonwealth Kalina (<em>Vekllei Kalina</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising the entire Lesser Antilles island chain and a few adjacent islands. It contains 20 island <a href="/republics/">republics</a>. It is the second most-populous Commonwealth after Oslola, and is the most ethnically and linguistically diverse, owing to its colonial and industrial history.</p>
+<p>The <span class="fi fi-kalina"></span> <strong>Kalina Commonwealth</strong> (<em>Vekllei Kalina</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising the entire Lesser Antilles island chain and a few adjacent islands. It contains 20 island <a href="/republics/">republics</a> that are densely populated and culturally diverse, and contribute much to Vekllei&rsquo;s overall population and industry. It is the second most-populous region after the <a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a>, and is the most ethnically and linguistically diverse, owing to its unique history.</p>
+<p>Kalina&rsquo;s climate is tropical and warm, moderated by the sea. Most of its islands are exposed to strong Atlantic trade winds, and are threatened by hurricanes and volcanic activity. The Commonwealth&rsquo;s close geographic proximity to the Caribbean and Americas means it is a common point of migration into <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and the diversity between republics also indicates the diversity of their industry and services, which vary dramatically between islands.</p>
 <blockquote class="note panel">
   <span class="text"><p><strong>Republics of Commonwealth Kalina</strong></p>
 <ul>
@@ -325,7 +573,7 @@
 	</item>
 	
 	<item>
-	  <title>Lucaya</title>
+	  <title>Lucayan Commonwealth</title>
 	  <link>/factbook/world/vekllei/lucaya/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -335,20 +583,224 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[The Bahamas is a constituent commonwealth of the Vekllei The Bahamas is an island Commonwealth in eastern Vekllei, comprising thousands of islands in the Lucayan island chain and numerous other island republics and islets.]]>
+	  <![CDATA[The Bahamas is a constituent commonwealth of the Vekllei Lucayan Commonwealth Regional Commonwealth of Vekllei Capital Providence Population 1,345,567 Area 14,977 km² The Lucayan Commonwealth (Vekllei Lucaya) is a constituent commonwealth of Vekllei, comprising the Lucayan archipelago and the North Atlantic island of Summers. Neatly 700 islands make up its landmass, the majority of which fence the northwestern edge of the West Indies. They are almost all flat coral islands vulnerable to seasonal storms and hurricanes.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
   <span class="text">The Bahamas is a <a href="/constituents/">constituent commonwealth</a> of the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
 </blockquote>
 
-<p>The Bahamas is an island Commonwealth in eastern <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising thousands of islands in the Lucayan island chain and numerous other <a href="/republics/">island republics</a> and islets.</p>
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/lucaya.svg);"></span> Lucayan Commonwealth</th>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/constituents/">Regional Commonwealth</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td colspan="2">
+			<img src="/svg/flags/lucaya.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Capital</th>
+		<td>Providence</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>1,345,567</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>14,977 km²</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-lucaya"></span> <strong>Lucayan Commonwealth</strong> (<em>Vekllei Lucaya</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising the Lucayan archipelago and the North Atlantic island of <a class="slink" style="color: rgb(69, 81, 202); background: color-mix(in srgb, rgb(69, 81, 202) 10%, transparent);" href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a>. Neatly 700 islands make up its landmass, the majority of which fence the northwestern edge of the West Indies. They are almost all flat coral islands vulnerable to seasonal storms and hurricanes.</p>
+<p>The strategic position of the Lucayan archipelago as a gateway to the Caribbean Sea and Central America is reflected in its tumultuous and diverse history, throughout which it was mostly colonised by the British. It is particularly ethnically diverse for a Caribbean region, and in the postwar period has become a desirable place to live within <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> for its climate and lifestyle.</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>Republics of the Lucayan Commonwealth</strong></p>
+<ul>
+<li>Caicos Republic</li>
+<li>Cigateo Republic</li>
+<li>Curateo Republic</li>
+<li>Grand Bahama Republic</li>
+<li>Guanima Republic</li>
+<li><a class="slink" style="color: rgb(251, 99, 44); background: color-mix(in srgb, rgb(251, 99, 44) 10%, transparent);" href="/factbook/world/vekllei/lucaya/habacoa/"><span class="fi fi-habacoa"></span> Habacoa</a></li>
+<li>Inagua Republic</li>
+<li>Lucayoneque Republic</li>
+<li>Mayaguana Republic</li>
+<li>Providence Republic</li>
+<li><a class="slink" style="color: rgb(57, 122, 205); background: color-mix(in srgb, rgb(57, 122, 205) 10%, transparent);" href="/factbook/world/vekllei/lucaya/rum/"><span class="fi fi-rum"></span> Rum</a></li>
+<li><a class="slink" style="color: rgb(69, 81, 202); background: color-mix(in srgb, rgb(69, 81, 202) 10%, transparent);" href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a></li>
+<li>Yabaque Republic</li>
+<li>Yuma Republic</li>
+</ul></span>
+</blockquote>
+
 ]]>
   	</content:encoded>
 	</item>
 	
 	<item>
-	  <title>Volcanic</title>
+	  <title>Verde Commonwealth</title>
+	  <link>/factbook/world/vekllei/verde/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/world/vekllei/verde/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The Volcanic Commonwealth is a constituent of Vekllei Verde Commonwealth Regional Commonwealth of Vekllei Population 1,745,103 Area 5,005 km² The Verde Commonwealth (Vekllei Verde) is a constituent commonwealth of Vekllei, comprising the Cabo Verde archipelago and the islands of Principe and Java, located off the west coast of Africa. The Cabo Verde island group has a desert climate, while the others are maritime and tropical. All are volcanic or igneous, and share striking terrain that gives each republic a unique character.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src=""/> <blockquote class="note series">
+  <span class="text">The Volcanic Commonwealth is a <a href="/constituents/">constituent</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/verde.svg);"></span> Verde Commonwealth</th>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/constituents/">Regional Commonwealth</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td colspan="2">
+			<img src="/svg/flags/verde.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>1,745,103</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>5,005 km²</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-verde"></span> <strong>Verde Commonwealth</strong> (<em>Vekllei Verde</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising the Cabo Verde archipelago and the islands of Principe and Java, located off the west coast of Africa. The Cabo Verde island group has a desert climate, while the others are maritime and tropical. All are volcanic or igneous, and share striking terrain that gives each republic a unique character.</p>
+<p>Life in the Verde Commonwealth is mostly municipal, characterised by communal landownership and smallholding agriculture. The most populous republics are more diverse, and host substantial regional industries including port facilities, commodities refining and manufacturing.</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>Republics of the Verde Commonwealth</strong></p>
+<ul>
+<li>Boa Vista Republic</li>
+<li>Brava Republic</li>
+<li>Covoada Republic</li>
+<li>Fogo Republic</li>
+<li>Maio Republic</li>
+<li>Moroços Republic</li>
+<li>Praia Republic</li>
+<li>Principe Republic</li>
+<li>Sal Republic</li>
+<li>Viana Republic</li>
+</ul></span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Volcanic Commonwealth</title>
 	  <link>/factbook/world/vekllei/volcanic/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
@@ -358,16 +810,89 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[ The Volcanic Commonwealth is a constituent of Vekllei The Volcanic Commonwealth (Vekllei Volcanic) is an island Commonwealth in northern Vekllei, comprising the island of Oslola, its largest and most populous republic, as well as the republics of Demon and Aismious.
-Republics of the Volcanic Commonwealth
-Aismious Demon Oslola ]]>
+	  <![CDATA[The Volcanic Commonwealth is a constituent of Vekllei Volcanic Commonwealth Regional Commonwealth of Vekllei Capital Oslola Population 8,409,710 Area 104,895 km² The Volcanic Commonwealth (Vekllei Volcanic) is a constituent commonwealth of Vekllei, comprising the island of Oslola, its largest and most populous republic, as well as the North Atlantic republics of Demon and Aismious. They share a common Scandinavian cultural heritage, but differ dramatically in population, history and ethnic makeup.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src=""/> <blockquote class="note series">
   <span class="text">The Volcanic Commonwealth is a <a href="/constituents/">constituent</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
 </blockquote>
 
-<p>The Volcanic Commonwealth (<em>Vekllei Volcanic</em>) is an island Commonwealth in northern <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising the island of <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, its largest and most populous <a href="/republics/">republic</a>, as well as the republics of <a href="/demon/">Demon</a> and Aismious.</p>
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/volcanic.svg);"></span> Volcanic Commonwealth</th>
+	</tr>
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/constituents/">Regional Commonwealth</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td colspan="2">
+			<img src="/svg/flags/volcanic.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Capital</th>
+		<td>Oslola</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>8,409,710</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>104,895 km²</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-volcanic"></span> <strong>Volcanic Commonwealth</strong> (<em>Vekllei Volcanic</em>) is a <a href="/constituents/">constituent commonwealth</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, comprising the island of <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, its largest and most populous <a href="/republics/">republic</a>, as well as the North Atlantic republics of<a class="slink" style="color: rgb(229, 156, 54); background: color-mix(in srgb, rgb(229, 156, 54) 10%, transparent);" href="/factbook/world/vekllei/volcanic/demon/"><span class="fi fi-demon"></span> Demon</a> and <a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a>. They share a common Scandinavian cultural heritage, but differ dramatically in population, history and ethnic makeup. Oslola is Vekllei&rsquo;s largest single republic and its history contributed significantly to the formation of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It has a large, diverse population. Demon and Aismious have unique histories mostly seperate from Oslola, and their representation in the Volcanic Commonwealth reflect their common geographic interests.</p>
+<p>All republics of the Commonwealth receive midnight sun during portions of the year, and have similar subarctic and tundra climates. <a class="slink" style="color: rgb(229, 156, 54); background: color-mix(in srgb, rgb(229, 156, 54) 10%, transparent);" href="/factbook/world/vekllei/volcanic/demon/"><span class="fi fi-demon"></span> Demon</a> and <a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a> are mostly treeless, but <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> has substantial areas of cold-weather rainforest, and is warmed by ocean currents.</p>
 <blockquote class="note panel">
   <span class="text"><p><strong>Republics of the Volcanic Commonwealth</strong></p>
 <ul>
