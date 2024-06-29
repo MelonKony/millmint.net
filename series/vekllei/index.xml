@@ -239,15 +239,15 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 <ul>
 <li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a></li>
 <li>Commonwealth Antilles</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></li>
+<li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></li>
 <li>Commonwealth Atlantic</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/kalina/"><span class="fi fi-kalina"></span> Kalina</a></li>
+<li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/kalina/"><span class="fi fi-kalina"></span> Kalina Commonwealth</a></li>
 <li>Commonwealth Lucaya</li>
 <li>Commonwealth Verde</li>
-<li><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></li>
+<li><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></li>
 </ul>
 </details>
-<details closed>
+<details>
 <summary>List of Vekllei Republics</summary>
 <ul>
 <li>
@@ -270,7 +270,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong>Antilles Commonwealth</strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antilles/"><span class="fi fi-antilles"></span> Antilles Commonwealth</a></strong></p>
 <ul>
 <li>Aruba Republic (<em>Aruba</em>)</li>
 <li>Bonaire Republic (<em>Bonaire</em>)</li>
@@ -279,14 +279,14 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong>Arctic Commonwealth</strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/arctic/"><span class="fi fi-arctic"></span> Arctic Commonwealth</a></strong></p>
 <ul>
 <li><a class="slink" style="color: rgb(219, 2, 3); background: color-mix(in srgb, rgb(219, 2, 3) 10%, transparent);" href="/factbook/world/vekllei/arctic/helvasia/"><span class="fi fi-sj"></span> Helvasia</a> (<em>Svalbard</em>)</li>
 <li>Kala Republic (<em>Greenland</em>)</li>
 </ul>
 </li>
 <li>
-<p><strong>Atlantic Commonwealth</strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/atlantic/"><span class="fi fi-atlantic"></span> Atlantic Commonwealth</a></strong></p>
 <ul>
 <li>Fayal Republic (<em>Faial Island</em>)</li>
 <li>Flores Republic (<em>Flores Island</em>)</li>
@@ -301,18 +301,18 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong>Lucayan Commonwealth</strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/lucaya/"><span class="fi fi-lucaya"></span> Lucayan Commonwealth</a></strong></p>
 <ul>
 <li>Caicos Republic (<em>Turks &amp; Caicos</em>)</li>
 <li>Cigateo Republic (<em>Eleuthera</em>)</li>
 <li>Curateo Republic (<em>Great Exuma</em>)</li>
 <li>Grand Bahama Republic (<em>Grand Bahama</em>)</li>
 <li>Guanima Republic (<em>Cat Island</em>)</li>
-<li>Habacoa Republic (<em>Andros Islands</em>)</li>
+<li><a class="slink" style="color: rgb(251, 99, 44); background: color-mix(in srgb, rgb(251, 99, 44) 10%, transparent);" href="/factbook/world/vekllei/lucaya/habacoa/"><span class="fi fi-habacoa"></span> Habacoa</a> (<em>Andros Islands</em>)</li>
 <li>Inagua Republic (<em>Great Inagua</em>)</li>
 <li>Lucayoneque Republic (<em>Abaco Islands</em>)</li>
 <li>Mayaguana Republic (<em>Mayaguana</em>)</li>
-<li>Nema Republic (<em>New Providence</em>)</li>
+<li>Providence Republic (<em>New Providence</em>)</li>
 <li><a class="slink" style="color: rgb(57, 122, 205); background: color-mix(in srgb, rgb(57, 122, 205) 10%, transparent);" href="/factbook/world/vekllei/lucaya/rum/"><span class="fi fi-rum"></span> Rum</a> (<em>San Salvador &amp; Rum Cay</em>)</li>
 <li><a class="slink" style="color: rgb(69, 81, 202); background: color-mix(in srgb, rgb(69, 81, 202) 10%, transparent);" href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a> (<em>Bermuda</em>)</li>
 <li>Yabaque Republic (<em>Acklins</em>)</li>
@@ -320,7 +320,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong><a class="slink"  style="color: var(--color-blue); background: color-mix(in srgb, var(--color-blue) 10%, transparent);" href="/factbook/world/vekllei/kalina/"><span class="fi fi-kalina"></span> Kalina</a></strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/kalina/"><span class="fi fi-kalina"></span> Kalina Commonwealth</a></strong></p>
 <ul>
 <li><a class="slink" style="color: rgb(6, 136, 72); background: color-mix(in srgb, rgb(6, 136, 72) 10%, transparent);" href="/factbook/world/vekllei/kalina/allia/"><span class="fi fi-ms"></span> Allia</a> (<em>Montserrat</em>)</li>
 <li><a class="slink" style="color: rgb(48, 99, 172); background: color-mix(in srgb, rgb(48, 99, 172) 10%, transparent);" href="/factbook/world/vekllei/kalina/aloi/"><span class="fi fi-aloi"></span> Aloi</a> (<em>St Eustatius</em>)</li>
@@ -345,12 +345,13 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong>Verde Commonwealth</strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/verde/"><span class="fi fi-verde"></span> Verde Commonwealth</a></strong></p>
 <ul>
 <li>Boa Vista Republic (<em>Boa Vista</em>)</li>
 <li>Brava Republic (<em>Brava</em>)</li>
 <li>Covoada Republic (<em>Sao Nicolau</em>)</li>
 <li>Fogo Republic (<em>Fogo</em>)</li>
+<li><a class="slink" style="color: rgb(217, 20, 19); background: color-mix(in srgb, rgb(217, 20, 19) 10%, transparent);" href="/factbook/world/vekllei/verde/java/"><span class="fi fi-java"></span> Java</a> (<em>Sao Tome</em>)</li>
 <li>Maio Republic (<em>Maio</em>)</li>
 <li>Moroços Republic (<em>Santo Antao</em>)</li>
 <li>Praia Republic (<em>Santiago</em>)</li>
@@ -360,7 +361,7 @@ The Commonwealth of Oceans (Vekllei) was founded in 2017 after independence in 2
 </ul>
 </li>
 <li>
-<p><strong>Volcanic Commonwealth</strong></p>
+<p><strong><a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></strong></p>
 <ul>
 <li><a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a> (<em>Faroe</em>)</li>
 <li><a class="slink" style="color: rgb(229, 156, 54); background: color-mix(in srgb, rgb(229, 156, 54) 10%, transparent);" href="/factbook/world/vekllei/volcanic/demon/"><span class="fi fi-demon"></span> Demon</a> (<em>Jan Mayen</em>)</li>
