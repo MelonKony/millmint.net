@@ -1,0 +1,763 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Bureaucracy in Vekllei - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.e475a0198929c95d26340932caac09e3eecf9603f76492bde9d2c57fb16409b23367825ac5b751c27f2a8439cd9c20abfff14ca9c173a65e929e51926e809551.css" integrity="sha512-5HWgGYkpyV0mNAkyyqwJ4&#43;7PlgP3ZJK96dLFf7FkCbIzZ4JaxbdRwn8qhDnNnCCr//FMqcFzpl6SnlGSboCVUQ==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bureaucracy in Vekllei &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="/factbook/bulletin/bureaucracy/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.27fe6cd15ed3fe56d520e4f11e17ba571fc92755dcc8991fd3ee6e37c3a55461.js" ></script>
+    
+
+    
+    <script src="node_modules/zooming/build/zooming.min.js"></script>
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" aria-label="" maxlength="64" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+
+    
+</header>
+
+
+<nav><ul class="navbar left"><li class="navbar-item ">
+                  
+                    <a href="/intro/" class="menu-link"><span class="navicon">📔</span><span class="name">Intro</span></a>
+                  
+                </li><li class="navbar-item navbar-dropdown allow-hover insection">
+                    
+                       <a href="/factbook/" class="menu-link"><span class="navicon">📓</span><span class="name">Factbook</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/world/vekllei/" class="menu-link"><span class="navicon">🌹</span>Vekllei</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/antarctic/" class="menu-link"><span class="navicon">🐋</span>Antarctic Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/antilles/" class="menu-link"><span class="navicon">🌴</span>Antilles Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/arctic/" class="menu-link"><span class="navicon">❄️</span>Arctic Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/atlantic/" class="menu-link"><span class="navicon">🚢</span>Atlantic Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/kalina/" class="menu-link"><span class="navicon">🥥</span>Kalina Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/lucaya/" class="menu-link"><span class="navicon">🐠</span>Lucayan Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/verde/" class="menu-link"><span class="navicon">⛰️</span>Verde Commonwealth</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/world/vekllei/volcanic/" class="menu-link"><span class="navicon">🌋</span>Volcanic Commonwealth</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/maps/" class="menu-link"><span class="navicon">🗺️</span>Maps</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/maps/route-map/" class="menu-link"><span class="navicon">✈️</span>Air Route Map</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/maps/world/" class="menu-link"><span class="navicon">🌍</span>World Map</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/bulletin/" class="menu-link"><span class="navicon">🧾</span>Bulletin</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/characters/" class="menu-link"><span class="navicon">🎎</span>Characters</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/factbook/society/" class="menu-link"><span class="navicon">🏛</span>Society</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/factbook/society/state/" class="menu-link"><span class="navicon">🌸</span>State</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/industry/" class="menu-link"><span class="navicon">⚙️</span>Industry</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/society/technology/" class="menu-link"><span class="navicon">🧪</span>Technology</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/factbook/timeline/" class="menu-link"><span class="navicon">⏳</span>Timeline</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown allow-hover ">
+                    
+                       <a href="/millmint/" class="menu-link"><span class="navicon">📕</span><span class="name">MillMint</span></a>
+                    
+                    <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/about/" class="menu-link"><span class="navicon">🌐</span>About</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/dolls/" class="menu-link"><span class="navicon">🧍‍♀️</span>Dolls</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/commissions/" class="menu-link"><span class="navicon">✏️</span>Commissions</a>
+            
+        </li>
+    
+
+    
+        <li class="submenu allow-hover">
+            
+                <a href="/millmint/essays/" class="menu-link"><span class="navicon">📄</span>Essays</a>
+            
+            <ul class="menu-dropdown">
+    
+        <li>
+            
+                <a href="/millmint/essays/social-economy/" class="menu-link"><span class="navicon">💸</span>A Social Economy</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/ghibli/" class="menu-link"><span class="navicon">🫧</span>A Universal Nostalgia</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/utopie/" class="menu-link"><span class="navicon">☕️</span>Utopie Concrete</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/hongkong/" class="menu-link"><span class="navicon">☂️</span>Not Long in Hong Kong</a>
+            
+        </li>
+    
+
+    
+        <li>
+            
+                <a href="/millmint/essays/west/" class="menu-link"><span class="navicon">🏔️</span>The West Coast</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item ">
+                  
+                    <a href="/stories/" class="menu-link"><span class="navicon">📗</span><span class="name">Stories</span></a>
+                  
+                </li></ul>
+    <ul class="navbar right">
+        
+        <li class="navbar-item ">
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://x.com/vekllei" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li class="navbar-item ">
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="/stories/index.xml" type="application/rss+xml" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note panel" style="padding: .5rem;">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="/stories/school-photo/"><span class="navicon">📗</span>Story: <i>School Photo</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+  
+<header class="info">
+  <h1 class="title">Bureaucracy in Vekllei</h1>
+  <div class="date" style="margin-right: .25rem;">
+    </div>
+
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">🗄️</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/bulletin/">
+			Bulletin</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/bulletin/bureaucracy/">
+			Bureaucracy in Vekllei</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    
+    <div class="article-category">
+
+
+
+<a href="/bulletin/">Information Bulletin</a>
+
+
+
+</div>
+    
+  </div>
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+</header>
+
+
+<div data-page-color="255, 82, 141" style="display: none"></div>
+
+
+  <figure>
+  <a href="/" target="_blank" rel="noopener noreferrer">
+    
+  </a>
+</figure>
+
+
+
+
+
+
+
+<article autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/bulletin/">bulletin</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><p><strong>Summary</strong></p>
+<ul>
+<li>Large parts of the Vekllei economy are ostensibly owned by the Vekllei <a class="slink"  style="color: var(--color-millmint); background: color-mix(in srgb, var(--color-millmint) 10%, transparent);" href="/factbook/society/state/government/"><span class="fi fi-min-vekllei fis"></span> Government</a>.</li>
+<li>Even though these companies are <a href="/state-industry/">government-owned</a>, they usually operate independently and some are profitable through foreign trade.</li>
+<li>While private companies in the domestic market can only effectively go &ldquo;bankrupt&rdquo; through prolonged labour shortages, government companies with <a href="/bulletin/accounted-revenue/">accounted revenue</a> can and do go bankrupt.</li>
+<li>The question then is how the Vekllei state handles bankruptcy of government-owned and major industrial firms, and to what it extent it allows ailing businesses to run at a loss.</li>
+</ul></span>
+</blockquote>
+
+<p>It is easy to look at the dirigiste and intricate organisational diagrams of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> <a href="/government/">government</a> and <a href="/industry/">industry</a> and make assumptions about the bureaucratic nightmare it should be. Its neat and endless subdepartments fit that template well, right down to the names of ministerial departments: bureaus. But the truth is substantially more complicated, and Vekllei has a cultural and political priority towards efficient systems and outcomes.</p>
+<p>Rather than mountains of verbose, duplicate paperwork, Vekllei administration is characterised by social relations in the fashion of its broader economy. In fact, very few people in Vekllei write reports or policy at all &ndash; the vast majority are working with notes, blackboards, drawings and tables in their individual fashion, which are then consolidated into concise factsheets with the distilled information at the end of a project.</p>
+<p>Vekllei&rsquo;s obsessive and neat public administrative hierarchy is not a symptom of bloat, but of an interest in effective management and simplicity. The standardised system of names and departments within departments does not indicate a rigid web of oversight but of a standardised rendering of chaotic and diverse offices of specialists. The organisation of Vekllei government is better understood as a template of hundreds of specialist teams than as a pyramid of silos.</p>
+<p>Rather than a handcuffed behemoth, Vekllei public administration is a place of innovation. This should be not real surprise because Vekllei is a place of research above all else; improvement comes before material comforts. Progress and education are in practice the core ideals of Vekllei&rsquo;s society, and so too are they in their system of public administration.</p>
+<p>This culture of innovation is further intensified by their <a href="/social-economy/">social economy</a>, in which labour is self-selecting and most people are motivated by abstract rather than material interests. Clerical and administrative work are not done without some kind of motivation, and in Vekllei that morale is a critical aspect of their public administration. The result is that teams need to be small, frictionless, and their work needs to have meaning.</p>
+<p>If the concise factsheet is the foundation of their institutional knowledge, then the foundational unit of their administration is the <em>office</em>. In an <em>office</em>, which may comprise 10-100 people, everyone has the same and singular boss &ndash; the office head, who rules unilaterally. The appointment of an office head is often obvious, because they are usually the most experienced and by extension often the most long-serving member of that organisation.</p>
+<p>As an example, the Office of Migrant Housing<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> comprises 15 people at the federal level. It is lead unilaterally by the Officer for Migrant Housing, and each person there knows exactly what&rsquo;s going on and what they&rsquo;re working towards.</p>
+<blockquote class="note ">
+  <span class="text"><p><strong>Example</strong></p>
+<p>The Office of Migrant Housing was concerned about an influx of new citizens in <a class="slink" style="color: rgb(217, 20, 19); background: color-mix(in srgb, rgb(217, 20, 19) 10%, transparent);" href="/factbook/world/vekllei/verde/java/"><span class="fi fi-java"></span> Java</a> moving en masse to other parts of the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/verde/"><span class="fi fi-verde"></span> Verde Commonwealth</a> once the republic was fully federalised. This was a complicated project involving writing a policy factsheet for the regional Bureau of Housing and making arrangements for the construction of new residences as part of an existing renewal project.</p>
+<p>The project, including the necessary factsheets, planning, research and support was completed within six weeks, two weeks ahead of schedule. This case study demonstrates many aspects of a successful Vekllei office:</p>
+<ul>
+<li><strong>Decisions were made quickly by the office head.</strong> The Officer for Migrant Housing was the only line of reporting for staff, and gave yes-or-no answers when needed.</li>
+<li><strong>The office is responsible for its own procurement and logistics.</strong> Staff needed to travel to Verde for research and coordinate with local officers, and arranged the logistics of these trips without having to receive approval or support from higher administration.</li>
+<li><strong>Everyone knows what everyone is doing.</strong> The officer in charge of construction liaison was aware of the reluctance of locals from the officer for statistics. Everyone was aware of the health and timeline of the project. This information sharing was not through meetings &ndash; they just talked to each other.</li>
+<li><strong>Everyone has experience with the same kinds of work.</strong> Vekllei administrators are specialists, but they are expected to be familiar with all other branches of work, and won&rsquo;t expect promotion without having that broad background of experience. This means staff have a good feel for the quality of work and can contribute their own ideas to other specialisations.</li>
+<li><strong>Contractors are held to the same standard.</strong> Staff expect to have one contact with each partner organisation, and they expect that contact to be able to give them straightforward answers and permissions. Any effort to expand oversight or intervention on their end was handled by the office head.</li>
+<li><strong>Trust is given as trust is received.</strong> While offices expect to have their competence and autonomy respected, they provide similar independence to contractors and partners. In this case, outsourcing part of the housing plan to the local renewal project required relinquishing oversight from the office, but also allowed their partner teams to move quickly to provide what they needed.</li>
+</ul>
+</span>
+</blockquote>
+
+<p>In Vekllei, almost all organisations are administered as autonomous divisions of expertise, and in Vekllei&rsquo;s context it means a specific kind of structure. It reflects their high-trust society, which relies on enthusiasm and reciprocal effort to function.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>Some broad principles of Vekllei bureaucratic culture are as follows:</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>Principles of Vekllei Public Administration</strong></p>
+<ol>
+<li><strong>Independence:</strong> professionals doing good work, and who are expected to make advancements in their field, must be given trust at the expense of continuous information or control. This means independence for offices working within departments.</li>
+<li><strong>Talent is the foundation of effective work:</strong> if you give talented and motivated people space to pursue their project goals, leave them alone and let them do it. People should be retained and allowed to improve themselves, and long-term administration reaps much greater dividends.</li>
+<li><strong>Efficiency should be rewarded, not undermined:</strong> Promotions should go to supervisors that don&rsquo;t need to spend all their time supervising. Effective teams are working well, and should only recruit new staff as required.</li>
+<li><strong>All key knowledge should fit on a page:</strong> anything worth writing should be concise and straightforward. Policy should be able to be summarised and understood accurately in a single page.</li>
+<li><strong>Effective collaboration is spontaneous:</strong> there are very few weekly meetings in Vekllei. If everyone is aware of progress, as they should be, meetings will happen hourly and spontaneously.</li>
+<li><strong>Small offices means small partners</strong>: Although Vekllei offices routinely work on projects of national significance, their organisations only work with small, strong partner teams who can consolidate procurement and give simple answers.</li>
+</ol></span>
+</blockquote>
+
+<p>This independence does not work perfectly or suit all kinds of work, and leans heavily on the office head as a competent director. There are many cases where a bad office head can sink a staff, and social relationships have social consequences. Nonetheless, these autonomous units of expertise within their central structure are unique in 21st-century public administration, and gives their public service an agile, innovative and occasionally chaotic character.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The Office of Migrant Housing is part of the <em>Department of Community</em>, which is part of the <a class="slink" style="color: var(--color-commons); background: color-mix(in srgb, var(--color-commons) 10%, transparent);" href="/factbook/society/state/government/ministries/commons/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a> of the <a class="slink"  style="color: var(--color-commons); background: color-mix(in srgb, var(--color-commons) 10%, transparent);" href="/factbook/society/state/government/ministries/commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a>. While this hierarchy is sequential, it does not indicate bureaucracy &ndash; these different levels operate almost entirely independent of each other.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>This interest in efficiency and independence is not the same thing as strict careerism or workaholic culture, and their offices are informal and easygoing, so long as the work gets done at some point. Vekllei business is conducted as a social affair, punctuated by tea breaks and working lunches.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+<nav class="story">
+  <div class="next-post leftlink">
+    
+      <a class="link-reverse" href="/factbook/bulletin/bankruptcy/">← Bankruptcy in Vekllei</a>
+    
+  </div>
+  <div>
+    
+    
+  </div>
+  <div class="next-post rightlink">
+    
+      <a class="link-reverse" href="/factbook/bulletin/courtesy/">Courtesy →</a>
+    
+  </div>
+</nav>
+
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+<li
+>
+    <a href="/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="/factbook/bulletin/">Bulletin</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="/factbook/bulletin/bureaucracy/">Bureaucracy in Vekllei</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 30/06/2024</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Bureaucracy in Vekllei</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.80e03c770933525ae4e942d95d6640cadebbf85684610e2b31bcd9aecb6100fe.js"></script>
+</body>
+
+</html>
