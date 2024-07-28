@@ -19,10 +19,10 @@
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/state/government/ministries/defence/index.xml" rel="self" type="application/rss+xml" />
 	<item>
 	  <title>Armed Forces</title>
-	  <link>/factbook/society/state/government/ministries/defence/military/</link>
+	  <link>/factbook/society/state/government/ministries/defence/armed-forces/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>/factbook/society/state/government/ministries/defence/military/</guid>
+	  <guid>/factbook/society/state/government/ministries/defence/armed-forces/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -42,7 +42,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 </h2>
 <p>The <span class="fi fi-min-defence fis"></span> <strong>Armed Forces of the Commonwealth</strong> are the military of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>, and a constituent armed component of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a>. They comprise the combined armed services of the country, as well as capabilities for public emergencies, law enforcement and civil defence.</p>
 <p>Unlike common practice overseas, Vekllei does not have seperate military branches, and instead administers all aspects of defence as a single armed organisation originating as part of the navy, a term which is still used generally to describe all military services. As a union of island communities, the Vekllei Navy is its historic and contemporary primary means of defence, and Vekllei doctrine favours an integrated command. As such, all air and land warfare is conducted as part of the Navy under a unified defence command.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<p>Because all services operate within the Navy, different roles are organised into different services. For example, the traditional surface navy of the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime Service</a> does not operate its own seaborne aviation, since all aircraft are part of the Navy&rsquo;s <a href="/factbook/society/state/government/ministries/defence/military/#air-service">Air Service</a>. In this context, &ldquo;Navy&rdquo; is a synonym for &ldquo;Military&rdquo; in Vekllei, and equipment, signage and vehicles are marked as such.</p>
+<p>Because all services operate within the Navy, different roles are organised into different services. For example, the traditional surface navy of the <a href="/factbook/society/state/government/ministries/defence/armed-forces/#maritime-service">Maritime Service</a> does not operate its own seaborne aviation, since all aircraft are part of the Navy&rsquo;s <a href="/factbook/society/state/government/ministries/defence/armed-forces/#air-service">Air Service</a>. In this context, &ldquo;Navy&rdquo; is a synonym for &ldquo;Military&rdquo; in Vekllei, and equipment, signage and vehicles are marked as such.</p>
 <h2 id="vekllei-armed-services">
   Vekllei Armed Services
   <a class="anchor" href="#vekllei-armed-services">#</a>
@@ -65,7 +65,7 @@ Unlike common practice overseas, Vekllei does not have seperate military branche
 <p>The <strong>Maritime Service</strong> (the <strong>Navy</strong> or <em>Navy of the Public</em>) is the traditional naval warfare component of the Vekllei military and consists of its surface ships and submarines. It comprises three fleets and an auxiliary service, that functions similarly to a republican or federal militia.</p>
 <details>
 <summary>Commonwealth Fleet</summary>
-<p>The Commonwealth Fleet (<em>Sovereign/Federal Fleet</em>) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country&rsquo;s central corridor, a triangular area with points in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, <a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/costa-verde/"><span class="fi fi-costa-verde"></span> Costa Verde</a> and <a class="slink" style="color: rgb(69, 81, 202); background: color-mix(in srgb, rgb(69, 81, 202) 10%, transparent);" href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a></p>
+<p>The Commonwealth Fleet (<em>Sovereign/Federal Fleet</em>) of the Vekllei Maritime Service is the largest naval formation in Vekllei and is tasked with defence of the country&rsquo;s central corridor, a triangular area with points in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, <a class="slink" style="color: rgb(33, 131, 67); background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);" href="/factbook/world/vekllei/atlantic/costa-verde/"><span class="fi fi-costa-verde"></span> Costa Verde</a> and </p>
 <ul>
 <li>5 Aircraft Carriers
 <ul>
@@ -281,7 +281,7 @@ The No. 5 Aeromarine Wing provides equipment and crew for the Commonwealth Fleet
 </li>
 <li><strong>No. 9 Aeromarine Helicopters Wing</strong>
 <br>
-The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime Service</a>.
+The No. 9 MHW comprises the bulk of maritime rotary-wing and helijet aircraft, and are located across fleets and naval bases as required. Aeromarine squadrons may be subdivided into Aeromarine sections depending on the needs of the <a href="/factbook/society/state/government/ministries/defence/armed-forces/#maritime-service">Maritime Service</a>.
 <ul>
 <li>No. 38-41 Marine Squadrons</li>
 </ul>
@@ -301,7 +301,7 @@ The No. 10 Bombing Wing comprises the strategic bombing aircraft in Vekllei.
 <ul>
 <li><strong>No. 1 Aeroxiliary Wing</strong>
 <br>
-No. 1 AA Wing provides maritime patrol services to the Air Service as well as the <a href="/factbook/society/state/government/ministries/defence/military/#maritime-service">Maritime</a> and <a href="/factbook/society/state/government/ministries/defence/military/#littoral-service">Littoral</a> Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
+No. 1 AA Wing provides maritime patrol services to the Air Service as well as the <a href="/factbook/society/state/government/ministries/defence/armed-forces/#maritime-service">Maritime</a> and <a href="/factbook/society/state/government/ministries/defence/armed-forces/#littoral-service">Littoral</a> Services. No. 1 Squadron is assigned to the Commonwealth Fleet.
 <ul>
 <li>No. 1 Maritime Patrol Squadron <span class="hollowtag">Commonwealth Fleet</span></li>
 <li>No. 2 Search &amp; Rescue Squadron</li>
@@ -486,7 +486,7 @@ The No. 1 Air Artillery Regiment</li>
 </h3>
 <details>
 <summary>Territorial Service</summary>
-<p>The Vekllei <strong>Territorial Service</strong> is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the <a href="/factbook/society/state/government/ministries/defence/military/#commonwealth-guard">Commonwealth Guard</a> and are federalised the same way, but are distinguished by their professional service and expeditionary posture.</p>
+<p>The Vekllei <strong>Territorial Service</strong> is the closest component to a conventional army in the Vekllei armed forces, and comprises the majority of its professional fighting force. All Rifles regiments are trained as marine infantry, and Vekllei does not maintain dedicated marine regiments. All Territorial regiments are a part of the <a href="/factbook/society/state/government/ministries/defence/armed-forces/#commonwealth-guard">Commonwealth Guard</a> and are federalised the same way, but are distinguished by their professional service and expeditionary posture.</p>
 <p>In Vekllei, military units are roughly organised as &lsquo;regiments&rsquo; of 1,000 men and &lsquo;sections&rsquo; of 100.</p>
 <p><strong>Organisation</strong></p>
 <p>Vekllei has a professional combat army of around 45,000 soldiers, 6,000 of which are commandos that suit its expeditionary and interventionist strategic posture.</p>
@@ -823,7 +823,7 @@ The Armoured Rifles are mechanised with infantry fighting vehicles and function 
   <span class="text">This bureau is part of the <a class="slink"  style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/"><span class="fi fi-min-defence fis"></span> Ministry of Defence</a></span>
 </blockquote>
 
-<p>The <span class="fi fi-min-defence fis"></span> <strong>Defence Imagery Establishment</strong> provides geospatial and topographic intelligence to <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its intelligence community, including the <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/military/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.</p>
+<p>The <span class="fi fi-min-defence fis"></span> <strong>Defence Imagery Establishment</strong> provides geospatial and topographic intelligence to <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its intelligence community, including the <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>. It operates military satellites, reconnaissance aircraft and specialised information-gathering apparatus that contribute to a geospatial understanding of territories in Vekllei and abroad.</p>
 ]]>
   	</content:encoded>
 	</item>

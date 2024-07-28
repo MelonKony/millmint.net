@@ -18,6 +18,56 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Downriver</title>
+	  <link>/stories/downriver/</link>
+	  <pubDate>Mon, 15 Jul 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/downriver/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Listen with sound here. You can view an animated version with music by clicking here.
+The music is the beautiful &ldquo;Cais&rdquo; by Milton Nascimento.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/rain.jpg"/> <blockquote class="note caption">
+  <span class="text">Listen with sound <a href="/images/fullres/rain.mp4">here</a>.</span>
+</blockquote>
+
+<p>You can view an animated version with music <a href="/images/fullres/rain.mp4">by clicking here</a>.</p>
+<p>The music is the beautiful &ldquo;Cais&rdquo; by Milton Nascimento.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>They Like Each Other</title>
+	  <link>/stories/like-each-other/</link>
+	  <pubDate>Wed, 10 Jul 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/like-each-other/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Four jobs, four days a week. That mound of concrete in the back is Moshel St School.
+A lot of Oslolan civic architecture has a volcanic, mayan look to it. You can see a map of it here.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/comix.jpg"/> <blockquote class="note caption">
+  <span class="text">Four jobs, four days a week.</span>
+</blockquote>
+
+<p>That mound of concrete in the back is <a href="/moshel/">Moshel St School</a>.</p>
+<p>A lot of Oslolan civic architecture has a volcanic, mayan look to it. <a href="/stories/school-map/">You can see a map of it here</a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Her Best</title>
 	  <link>/stories/her-best/</link>
 	  <pubDate>Sat, 08 Jun 2024 08:00:00 EST</pubDate>

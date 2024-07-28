@@ -14,16 +14,16 @@
 	<description>Recent content in Categories </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Wed, 19 Jun 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Sun, 28 Jul 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
-	  <title>Sketch</title>
-	  <link>/categories/sketch/</link>
-	  <pubDate>Wed, 19 Jun 2024 08:00:00 EST</pubDate>
+	  <title>Story</title>
+	  <link>/categories/story/</link>
+	  <pubDate>Sun, 28 Jul 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>/categories/sketch/</guid>
+	  <guid>/categories/story/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -37,11 +37,11 @@
 	</item>
 	
 	<item>
-	  <title>Story</title>
-	  <link>/categories/story/</link>
-	  <pubDate>Sun, 09 Jun 2024 08:00:00 EST</pubDate>
+	  <title>Sketch</title>
+	  <link>/categories/sketch/</link>
+	  <pubDate>Fri, 14 Jun 2024 08:00:00 EST</pubDate>
 	  
-	  <guid>/categories/story/</guid>
+	  <guid>/categories/sketch/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
