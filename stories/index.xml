@@ -18,6 +18,28 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>The News</title>
+	  <link>/stories/the-news/</link>
+	  <pubDate>Mon, 29 Jul 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/the-news/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Saturday morning. Cobian doesn&rsquo;t care about the news. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/the-news.jpg"/> <blockquote class="note caption">
+  <span class="text">Saturday morning. <a class="slink"  style="color: var(--color-yellow); background: color-mix(in srgb, var(--color-yellow) 10%, transparent);" href="/characters/cobian/"><span class="fi fi-cobian fis"></span> Cobian</a> doesn&rsquo;t care about the news.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Fishgirl</title>
 	  <link>/stories/fishgirl/</link>
 	  <pubDate>Sun, 28 Jul 2024 08:00:00 EST</pubDate>
