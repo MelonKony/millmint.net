@@ -1,0 +1,1423 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Education in Vekllei - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.95f929fbc979a1567954fa30df7784fa5888943944668d615f2997e39ffcd58d2d0b58dc354c6e681b96f835f058f93ee933d2ba831013a9426ebf2843a85581.css" integrity="sha512-lfkp&#43;8l5oVZ5VPow33eE&#43;liIlDlEZo1hXymX45/81Y0tC1jcNUxuaBuW&#43;DXwWPk&#43;6TPSuoMQE6lCbr8oQ6hVgQ==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Education in Vekllei &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="/factbook/society/state/schools/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.4d025c12f6d278d6c54d0039448c2f0bbea1e0b6ca2dbed245d964d980e7f5e5.js" ></script>
+    
+
+    
+    <script src="node_modules/zooming/build/zooming.min.js"></script>
+
+    </head><body  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+    <button id="toc-button" class="navbutton">
+        <span class="navicon">📑</span>
+    </button>
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">💡</span>
+        <span id="light_mode_btn" class="navicon hidden button">💡</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" aria-label="" maxlength="64" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+
+    
+</header>
+
+
+<nav>
+    <ul class="navbar left">
+        <span class="navlink">
+            <a  href="/intro/">
+                <span class="navicon">📔</span>
+                <span class="name">Intro</span>
+            </a>
+              <div class="dropdown"><div class="bento">
+	<div class="box" one-third>
+		<a class="boxtitle" href="/intro/" millmint>
+			<span class="navicon">🧾</span>
+			<span class="name">Intro</span>
+		</a>
+		<div class="tray" millmint>
+			<li><a href="/intro/">
+				<span class="navicon">💸</span>
+				<span class="name">Intro</span></a>
+			</li>
+			<li><a href="/faq/">
+				<span class="navicon">📊</span>
+				<span class="name">FAQ</span></a>
+			</li>
+		</div>
+	</div>
+
+	<div class="box" two-thirds>
+		<a class="boxtitle" href="/bulletin/" millmint>
+			<span class="navicon">🧾</span>
+			<span class="name">Featured Bulletins (FAQ)</span>
+		</a>
+		<div class="tray" millmint>
+			<li><a href="/bulletin/alcohol/">
+				<span class="navicon">🍷</span>
+				<span class="name">Alcohol in Vekllei</span></a>
+			</li>
+			<li><a href="/bulletin/productivity/">
+				<span class="navicon">📊</span>
+				<span class="name">Economic Productivity in Vekllei</span></a>
+			</li>
+			<li><a href="/bulletin/looks/">
+				<span class="navicon">🫥</span>
+				<span class="name">Why do Vekllei People Look Like That?</span></a>
+			</li>
+			<a  href="/bulletin/"><button>
+				Read more...
+			</button></a>
+		</div>
+	</div>
+</div></div>
+          </span>
+
+      <span class="navlink">
+          <a  href="/factbook/">
+              <span class="navicon">📓</span>
+              <span class="name">Factbook</span>
+          </a>
+            <div class="dropdown"><div class="bento">
+	<div class="box" two-thirds>
+		<a class="boxtitle" href="/vekllei/" vekllei>
+			<span class="fi fi-com"></span>
+			<span class="name" vekllei>Vekllei</span></a><a href="/factbook/"><span> — Featured Articles</span></a>
+		<div class="tray" vekllei>
+			<li>
+				<a href="/state/">
+					<span class="navicon">🌸</span>
+					<span class="name">State:</span>
+				</a>
+				<a href="/education/"><i>
+						<span class="name">Education in Vekllei</span>
+					</i></a>
+			</li>
+			<li>
+				<a href="/culture/">
+					<span class="navicon">🏵️</span>
+					<span class="name">Culture:</span>
+				</a>
+				<a href="/veletia/"><i>
+						<span class="name">Veletia</span>
+					</i></a>
+			</li>
+			<li>
+				<a href="/technology/">
+					<span class="navicon">🧪</span>
+					<span class="name">Technology:</span>
+				</a>
+				<a href="/computers/"><i>
+						<span class="name">Computers in Vekllei</span>
+					</i></a>
+			</li>
+			<a  href="/factbook/"><button>
+				Read more...
+			</button></a>
+		</div>
+	</div>
+
+	<div class="box" one-third>
+		<a class="boxtitle" href="/maps/" blue>
+			<span class="navicon">🗺️</span>
+			<span class="name">Maps</span>
+		</a>
+		<div class="tray" blue>
+			<a href="/maps/world/">
+				<span class="navicon">🌎</span>
+				<span class="name">World Map</span>
+			</a>
+			<a href="/maps/route-map/">
+				<span class="navicon">✈️</span>
+				<span class="name">Route Map</span>
+			</a>
+		</div>
+		<div class="tray" brown>
+			<a href="/timeline/">
+				<span class="navicon">⏳</span>
+				<span class="name">Timeline</span>
+			</a>
+		</div>
+	</div>
+
+	<div class="box" full>
+		<a class="boxtitle" href="/republics/" green>
+			<span class="navicon">💮</span>
+			<span class="name">Vekllei Republics</span>
+		</a>
+		<div class="tray" green>
+			<a href="/aismious/">
+				<span class="fi fi-fo"></span>
+				<span class="name">Aismious</span>
+			</a>
+			<a href="/allia/">
+				<span class="fi fi-ms"></span>
+				<span class="name">Allia</span>
+			</a>
+			<a href="/aloi/">
+				<span class="fi fi-aloi"></span>
+				<span class="name">Aloi</span>
+			</a>
+			<a href="/aloubaera/">
+				<span class="fi fi-aloubaera"></span>
+				<span class="name">Aloubaera</span>
+			</a>
+			<a href="/anguilla/">
+				<span class="fi fi-ai"></span>
+				<span class="name">Anguilla</span>
+			</a>
+			<a href="/antigua/">
+				<span class="fi fi-antigua"></span>
+				<span class="name">Antigua</span>
+			</a>
+			<a href="/ascension/">
+				<span class="fi fi-ac"></span>
+				<span class="name">Ascension</span>
+			</a>
+			<a href="/barbados/">
+				<span class="fi fi-bb"></span>
+				<span class="name">Barbados</span>
+			</a>
+			<a href="/barbary/">
+				<span class="fi fi-barbary"></span>
+				<span class="name">Barbary</span>
+			</a>
+			<a href="/cama/">
+				<span class="fi fi-gd"></span>
+				<span class="name">Cama</span>
+			</a>
+			<a href="/costa-verde/">
+				<span class="fi fi-costa-verde"></span>
+				<span class="name">Costa Verde</span>
+			</a>
+			<a href="/demon/">
+				<span class="fi fi-demon"></span>
+				<span class="name">Demon</span>
+			</a>
+			<a href="/falklands/">
+				<span class="fi fi-fk"></span>
+				<span class="name">Falklands</span>
+			</a>
+			<a href="/habacoa/">
+				<span class="fi fi-habacoa"></span>
+				<span class="name">Habacoa</span>
+			</a>
+			<a href="/helena/">
+				<span class="fi fi-sh"></span>
+				<span class="name">Helena</span>
+			</a>
+			<a href="/helvasia/">
+				<span class="fi fi-sj"></span>
+				<span class="name">Helvasia</span>
+			</a>
+			<a href="/java/">
+				<span class="fi fi-java"></span>
+				<span class="name">Java</span>
+			</a>
+			<a href="/kairi/">
+				<span class="fi fi-kairi"></span>
+				<span class="name">Kairi</span>
+			</a>
+			<a href="/oslola/">
+				<span class="fi fi-oslola"></span>
+				<span class="name">Oslola</span>
+			</a>
+			<a href="/rum/">
+				<span class="fi fi-rum"></span>
+				<span class="name">Rum</span>
+			</a>
+			<a href="/santes/">
+				<span class="fi fi-santes"></span>
+				<span class="name">Santes</span>
+			</a>
+			<a href="/sude/">
+				<span class="fi fi-gs"></span>
+				<span class="name">Sude</span>
+			</a>
+			<a href="/virgin/">
+				<span class="fi fi-vg"></span>
+				<span class="name">Virgin</span>
+			</a>
+		</div>
+	</div>
+
+	<div class="box" half>
+		<a class="boxtitle" href="/constituents/" vekllei>
+			<span class="navicon">🏴</span>
+			<span class="name">Commonwealths</span>
+		</a>
+		<div class="tray" vekllei>
+			<a href="/antarctic/">
+				<span class="fi fi-antarctic"></span>
+				<span class="name">Antarctic</span>
+			</a>
+			<a href="/antilles/">
+				<span class="fi fi-antilles"></span>
+				<span class="name">Antilles</span>
+			</a>
+			<a href="/arctic/">
+				<span class="fi fi-arctic"></span>
+				<span class="name">Arctic</span>
+			</a>
+			<a href="/atlantic/">
+				<span class="fi fi-atlantic"></span>
+				<span class="name">Atlantic</span>
+			</a>
+			<a href="/kalina/">
+				<span class="fi fi-kalina"></span>
+				<span class="name">Kalina</span>
+			</a>
+			<a href="/lucaya/">
+				<span class="fi fi-lucaya"></span>
+				<span class="name">Lucaya</span>
+			</a>
+			<a href="/verde/">
+				<span class="fi fi-verde"></span>
+				<span class="name">Verde</span>
+			</a>
+			<a href="/volcanic/">
+				<span class="fi fi-volcanic"></span>
+				<span class="name">Volcanic</span>
+			</a>
+		</div>
+
+		<a class="boxtitle" href="/government/" millmint>
+			<span class="navicon">🌸</span>
+			<span class="name">Vekllei Government</span>
+		</a>
+		<div class="tray" millmint>
+			<a href="/parliaments/ " class="boxtitle">Commonwealth Parliaments</a>
+			<a href="/community/">
+				<span class="fi fi-min-community fis"></span>
+				<span class="name">Community</span>
+			</a>
+			<a href="/civic/">
+				<span class="fi fi-min-civic fis"></span>
+				<span class="name">Civic</span>
+			</a>
+			<a href="/democracy/">
+				<span class="fi fi-min-democracy fis"></span>
+				<span class="name">Democracy</span>
+			</a>
+			<a href="/health/">
+				<span class="fi fi-min-health fis"></span>
+				<span class="name">Health</span>
+			</a>
+			<a href="/edu/">
+				<span class="fi fi-min-education fis"></span>
+				<span class="name">Education</span>
+			</a>
+			<a href="/security/">
+				<span class="fi fi-min-security fis"></span>
+				<span class="name">Security</span>
+			</a>
+		</div>
+		<div class="tray" millmint>
+			<a href="/ministries/" class="boxtitle">Devolved Ministries</a>
+			<a href="/ministry-of-commerce/">
+				<span class="fi fi-min-commerce fis"></span>
+				<span class="name">Commerce</span>
+			</a>
+			<a href="/ministry-of-culture/">
+				<span class="fi fi-min-culture fis"></span>
+				<span class="name">Culture</span>
+			</a>
+			<a href="/ministry-of-defence/">
+				<span class="fi fi-min-defence fis"></span>
+				<span class="name">Defence</span>
+			</a>
+			<a href="/ministry-of-foreign-affairs/">
+				<span class="fi fi-min-foreign-affairs fis"></span>
+				<span class="name">Foreign Affairs</span>
+			</a>
+			<a href="/ministry-of-industry/">
+				<span class="fi fi-min-industry fis"></span>
+				<span class="name">Industry</span>
+			</a>
+			<a href="/ministry-of-labour/">
+				<span class="fi fi-min-labour fis"></span>
+				<span class="name">Labour</span>
+			</a>
+			<a href="/ministry-of-landscape/">
+				<span class="fi fi-min-landscape fis"></span>
+				<span class="name">Landscape</span>
+			</a>
+			<a href="/ministry-of-light-and-water/">
+				<span class="fi fi-min-light-and-water fis"></span>
+				<span class="name">Light & Water</span>
+			</a>
+			<a href="/ministry-of-the-commons/">
+				<span class="fi fi-min-commons fis"></span>
+				<span class="name">Commons</span>
+			</a>
+			<a href="/ministry-of-the-commonwealth/">
+				<span class="fi fi-min-commonwealth fis"></span>
+				<span class="name">Commonwealth</span>
+			</a>
+		</div>
+	</div>
+
+	<div class="box" half>
+		<a class="boxtitle" href="/industry/" purple>
+			<span class="navicon">⚙️</span>
+			<span class="name">Vekllei Industry</span>
+		</a>
+		<div class="tray" purple>
+			<a href="/private-industry/ " class="boxtitle">Private Industry</a>
+			<a href="/adelectrics/">
+				<span class="fi fi-min-adelectrics fis"></span>
+				<span class="name">Adelectrics</span>
+			</a>
+			<a href="/atlantic-store/">
+				<span class="fi fi-min-atlantic-store fis"></span>
+				<span class="name">Atlantic</span>
+			</a>
+			<a href="/cateral/">
+				<span class="fi fi-min-cateral fis"></span>
+				<span class="name">Cateral</span>
+			</a>
+			<a href="/gina/">
+				<span class="fi fi-min-gina fis"></span>
+				<span class="name">Gina</span>
+			</a>
+		</div>
+		<div class="tray" purple>
+			<li><a href="/municipal-industry/ " class="boxtitle">Municipal Industry</a></li>
+			<a href="/united-grocers/">
+				<span class="fi fi-min-united-grocers fis"></span>
+				<span class="name">United Grocers</span>
+			</a>
+		</div>
+		<div class="tray" purple>
+			<li><a href="/state-industry/ " class="boxtitle">State Industry</a></li>
+			<a href="/cac/">
+				<span class="fi fi-min-cac fis"></span>
+				<span class="name">CommAircraft</span>
+			</a>
+			<a href="/air/">
+				<span class="fi fi-min-air fis"></span>
+				<span class="name">CommAirways</span>
+			</a>
+			<a href="/commonwealth-bank/">
+				<span class="fi fi-min-combank fis"></span>
+				<span class="name">CommBank</span>
+			</a>
+			<a href="/commonwealth-lines/">
+				<span class="fi fi-min-CL fis"></span>
+				<span class="name">CommLines</span>
+			</a>
+			<a href="/oil/">
+				<span class="fi fi-min-oil fis"></span>
+				<span class="name">CommOil</span>
+			</a>
+			<a href="/starlines/">
+				<span class="fi fi-min-starlines fis"></span>
+				<span class="name">CommStarlines</span>
+			</a>
+			<a href="/cosma/">
+				<span class="fi fi-min-cosma fis"></span>
+				<span class="name">Cosma</span>
+			</a>
+			<a href="/gaf/">
+				<span class="fi fi-min-gaf fis"></span>
+				<span class="name">GAF</span>
+			</a>
+			<a href="/nch/">
+				<span class="fi fi-min-nch fis"></span>
+				<span class="name">NCH</span>
+			</a>
+			<a href="/post/">
+				<span class="fi fi-min-post fis"></span>
+				<span class="name">CommPost</span>
+			</a>
+			<a href="/rail/">
+				<span class="fi fi-min-rail fis"></span>
+				<span class="name">CommRail</span>
+			</a>
+			<a href="/ratings/">
+				<span class="fi fi-min-ratings fis"></span>
+				<span class="name">CRC</span>
+			</a>
+		</div>
+		<div class="tray" purple>
+			<li><a href="/bureaus/ " class="boxtitle">Bureau Industry</a></li>
+			<a href="/atlantis/">
+				<span class="fi fi-min-atlantis fis"></span>
+				<span class="name">Atlantis Company</span>
+			</a>
+			<a href="/general-reactor/">
+				<span class="fi fi-min-general-reactor fis"></span>
+				<span class="name">General Reactor</span>
+			</a>
+			<a href="/national-machines/">
+				<span class="fi fi-min-national-machines fis"></span>
+				<span class="name">National Machines</span>
+			</a>
+		</div>
+	</div>
+</div></div>
+        </span>
+
+      <span class="navlink">
+          <a  href="/millmint/">
+              <span class="navicon">📕</span>
+              <span class="name">MillMint</span>
+          </a>
+            <div class="dropdown"><div class="bento">
+	<div class="box" one-third>
+		<a class="boxtitle" href="/millmint/" brown>
+			<span class="navicon">🏡</span>
+			<span class="name">Studio MillMint</span>
+		</a>
+		<div class="tray" brown>
+			<a href="/about/">
+			<span class="navicon">🪺</span>
+			<span class="name">About</span>
+			</a>
+		</div>
+		<div class="tray" purple>
+			<a href="/millmint/dolls/">
+				<span class="navicon">🧍‍♀️</span>
+				<span class="name">Dolls</span>
+			</a>
+		</div>
+		<div class="tray" millmint>
+			<a href="/commissions/">
+				<span class="navicon">📓</span>
+				<span class="name">Commissions</span>
+			</a>
+		</div>
+	</div>
+
+	<div class="box" two-thirds>
+		<a class="boxtitle" href="/essays/" blue>
+			<span class="navicon">📄</span>
+			<span class="name">Featured Essays</span>
+		</a>
+		<div class="tray" blue>
+			<li><a href="/social-economy/">
+				<span class="navicon">💸</span>
+				<span class="name">A Social Economy</span></a>
+			</li>
+			<li><a href="/west/">
+				<span class="navicon">🏔️</span>
+				<span class="name">The West Coast of Tasmania</span></a>
+			</li>
+			<li><a href="/ghibli/">
+				<span class="navicon">🫧</span>
+				<span class="name">A Universal Nostalgia</span></a>
+			</li>
+			<a  href="/essays/"><button>
+				Read more...
+			</button></a>
+		</div>
+	</div>
+</div></div>
+        </span>
+
+        <span class="navlink">
+            <a  href="/stories/">
+                <span class="navicon">📗</span>
+                <span class="name">Stories</span>
+            </a>
+              <div class="dropdown"><div class="bento">
+	<div class="box" full>
+		<a class="boxtitle" href="/stories/" yellow>
+			<span class="navicon">📖</span>
+			<span class="name">Recent Stories...</span>
+		</a>
+		<div class="tray" yellow>
+			<a href="/characters/tzipora/">
+				<span class="fi fi-tzipora fis"></span>
+				<span class="name">Tzipora</span>
+			</a>
+			<a href="/characters/cobian/">
+				<span class="fi fi-cobian fis"></span>
+				<span class="name">Cobian</span>
+			</a>
+			<a href="/characters/baron/">
+				<span class="fi fi-baron fis"></span>
+				<span class="name">Baron</span>
+			</a>
+			<a href="/characters/ayn/">
+				<span class="fi fi-ayn fis"></span>
+				<span class="name">Ayn</span>
+			</a>
+			<a href="/characters/moise/">
+				<span class="fi fi-moise fis"></span>
+				<span class="name">Moise</span>
+			</a>
+			<a href="/characters/coretti/">
+				<span class="fi fi-coretti fis"></span>
+				<span class="name">Coretti</span>
+			</a>
+			<a href="/characters/zhi/">
+				<span class="fi fi-zhi fis"></span>
+				<span class="name">Zhi</span>
+			</a>
+		</div>
+	</div>
+
+	<div class="showcase" five>
+		
+		<div class="navcard">
+			<a href="/stories/the-news/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/the-news_hu20decb37e647bdb37b6efbee15f33768_2269198_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+		<div class="navcard">
+			<a href="/stories/fishgirl/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/fishgirl_hu6345e171067dd806c496e85f5e0fe9a8_1690788_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+		<div class="navcard">
+			<a href="/stories/olympiad/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/olympiad_hua9dd800224d89ddf30c97f673c397df7_10793285_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+		<div class="navcard">
+			<a href="/stories/jousting-jet/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/alert_hu7a1c0b312558f736c0461a38501a9ee5_2308016_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+		<div class="navcard">
+			<a href="/stories/downriver/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/rain_hu67f925a9aa59f6c1f76c83ffc6bc9064_2445035_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+	</div>
+
+	<div class="showcase" three>
+		
+		<div class="navcard">
+			<a href="/stories/the-news/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/the-news_hu20decb37e647bdb37b6efbee15f33768_2269198_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+		<div class="navcard">
+			<a href="/stories/fishgirl/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/fishgirl_hu6345e171067dd806c496e85f5e0fe9a8_1690788_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+		<div class="navcard">
+			<a href="/stories/olympiad/">
+				
+				<figure>
+					
+					
+					<img class="page" src="/images/fullres/olympiad_hua9dd800224d89ddf30c97f673c397df7_10793285_680x0_resize_q90_h2_box.webp" alt="">
+					
+					
+				</figure>
+			</a>
+		</div>
+		
+	</div>
+</div></div>
+          </span>
+    </ul>
+
+    
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin: .5rem 0 0 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note panel" style="padding: .5rem;">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="/stories/the-news/"><span class="navicon">📗</span>Story: <i>The News</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+  
+<header class="info">
+  <h1 class="title">Education in Vekllei</h1>
+  <div class="date" style="margin-right: .25rem;">
+    </div>
+
+  
+  <div class="meta">
+    <span class="icon" style="line-height: 1.2;">📚</span>
+    <div class="headcrumbs">
+      
+      <ul>
+  
+  
+	
+  
+	
+  
+	
+  
+	
+  
+  <li class="headcrumbs hidden">
+		<a href="/">
+			Home</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/">
+			Factbook</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/">
+			Society</a>
+  </li>
+
+  
+  <li class="headcrumbs ">
+		<a href="/factbook/society/state/">
+			State</a>
+  </li>
+
+  
+  <li class="headcrumbs hidden">
+		<a href="/factbook/society/state/schools/">
+			Education in Vekllei</a>
+  </li>
+
+</ul>
+
+      
+    </div>
+    
+    <div class="article-category">
+
+
+
+
+<a href="/society/">Fact Sheet</a>
+
+
+
+
+
+</div>
+    
+  </div>
+  
+
+  
+
+  
+  <img class="logo" alt="article logo" src="/svg/logos/education.svg"></img>
+  
+
+  
+
+  <img class="logo" alt="article logo" src="/svg/logos/education.svg"></img>
+  
+  
+
+  
+  
+</header>
+
+
+<div data-page-color="147, 71, 208" style="display: none"></div>
+
+
+  <figure>
+  <a href="/" target="_blank" rel="noopener noreferrer">
+    
+  </a>
+</figure>
+
+
+<div id="desktop-toc" class="desktop-toc-wrapper-wrapper">
+    <div class="desktop-toc-wrapper">
+        <div class="desktop-toc">
+            <details class="dropdown" open=true>
+                <summary>
+                    <a href="#" class="title">
+                        <span>Education in Vekllei</span>
+                        <span class="icon">📚</span>
+                    </a>
+                </summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#atlantic-model-of-education">Atlantic Model of Education</a></li>
+        <li><a href="#organisation">Organisation</a></li>
+        <li><a href="#education">Education</a>
+          <ul>
+            <li><a href="#compulsory-education">Compulsory Education</a></li>
+            <li><a href="#tertiary-education">Tertiary Education</a></li>
+          </ul>
+        </li>
+        <li><a href="#curriculum">Curriculum</a></li>
+        <li><a href="#uniform">Uniform</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </details>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<details class="mobile toc">
+  <summary>
+    <span class="navicon">📑</span>Table of Contents
+  </summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#atlantic-model-of-education">Atlantic Model of Education</a></li>
+        <li><a href="#organisation">Organisation</a></li>
+        <li><a href="#education">Education</a>
+          <ul>
+            <li><a href="#compulsory-education">Compulsory Education</a></li>
+            <li><a href="#tertiary-education">Tertiary Education</a></li>
+          </ul>
+        </li>
+        <li><a href="#curriculum">Curriculum</a></li>
+        <li><a href="#uniform">Uniform</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</details>
+
+
+
+
+<article autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <blockquote class="note series">
+  <span class="text">This article is about <a href="/vekllei/">Vekllei</a> society.</span>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p>Education in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is life-long, diverse, compulsory in childhood and free. Although there are many types of schooling across the country, compulsory education is characterised by a hybrid system provided in a national curriculum by the <a class="slink"  style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/"><span class="fi fi-min-education fis"></span> Education Parliament</a>.</p>
+<p>Education and schooling is an important part of Vekllei society, and its importance is indicated by its dedicated federal <a href="/parliaments/">parliament</a>. It has good outcomes for Vekllei people, and contributes to the country&rsquo;s reputation as among the most literate and learned societies in the world. It has several education institutions of renown, including Vekllei National University and the Commonwealth University of the West Indies. These outcomes have seen the Vekllei model of education replicated overseas, where it is known as the Atlantic Model.</p>
+<p>Government education in Vekllei is unusually diverse, and comprises basically all schooling, including school types that would typically be private or independent in other countries. Government, or &lsquo;public&rsquo; schools include religious, independent and alternative schools in addition to standard municipal schools. These alternatives are an effort by the government to anticipate cultural preferences, such as operating Christian or Islamic schools in religious <a href="/republics/">republics</a>. Nonetheless, schools in Vekllei are co-educational with very few exceptions.</p>
+<blockquote>
+<p>Education is a founding aspect of the 4th Commonwealth and is to be reaffirmed constantly and faithfully by all Parliaments and public servants, and to this end is to be provided for as a highest priority of the new Parliament.</p>
+</blockquote>
+<p>&ndash; <a href="/documents/">Document No. 7</a></p>
+<h2 id="atlantic-model-of-education">
+  Atlantic Model of Education
+  <a class="anchor" href="#atlantic-model-of-education">#</a>
+</h2>
+<p>The <em>Atlantic Model</em> is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including Ferrer and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.</p>
+<p>Vekllei schools, including universities, employ competency-based grading. This system uses scaffolded tasks to demonstrate competence in a subject, and students are often provided more than one chance to demonstrate their ability. This system has found general success across Vekllei, and it has raised academic standards and the quality of student participation. It has also reduced anxieties about examination and testing in the classroom, and contributes significantly to the wellbeing of Vekllei students. This system does not always accredit easily with systems outside of Vekllei, which can affect post-graduate opportunities.</p>
+<p>Although the Atlantic Model incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common <a href="/factbook/society/state/schools/#uniform">student uniform</a>, and address teachers by their surname.</p>
+<p>The distinguishing characteristics of the Atlantic Model are:</p>
+<blockquote class="note ">
+  <span class="text"><ul>
+<li>Mixed-age classrooms, mostly comprising an age difference of three years</li>
+<li>Emphasis of cleanliness, ordered spaces and natural light</li>
+<li>Democratic or student-led topics and activities</li>
+<li>Emphasis of personal responsibility, improvement, and discipline</li>
+<li>Free time for work and play</li>
+<li>Physical, experiential and practical learning</li>
+<li>Competency-based rather than graded assessment</li>
+<li>Emphasis on clubs, hobbies and extracurricular activities</li>
+<li>Shared burdens like cleaning and cooking</li>
+<li>Short classroom periods broken up by changes in location and subject</li>
+<li>Tracked subject streams</li>
+<li>Activities to improve school spirit and civic identity</li>
+<li>Emphasis of self-care, growth, emotional control and appearance</li>
+</ul>
+</span>
+</blockquote>
+
+<h2 id="organisation">
+  Organisation
+  <a class="anchor" href="#organisation">#</a>
+</h2>
+<blockquote class="note advice">
+  <span class="text">Download: <span class="smallicon">📄</span> <a href="/files/documents/7.pdf">Document No. 7.pdf</a></span>
+</blockquote>
+
+<p><figure>
+  <a href="/images/fullres/sami.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/fullres/sami_huca8c55ae4638d872aa9d3102ec88392d_1808585_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fullres/sami.jpg"alt="Image of Tzipora and Moise" title="The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | *[Sami](/stories/sami/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | <em><a href="/stories/sami/">Sami</a></em></figcaption>
+</figure></p>
+<p>Education in Vekllei has no fees, by nature of the <em>commons</em>, including at the secondary and tertiary level. It is funded and equipped by the <a class="slink" style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/bureau-of-public-education/"><span class="fi fi-min-education fis"></span> Bureau of Public Education</a>. The <a class="slink" style="color: rgb(34, 123, 231); background: color-mix(in srgb, rgb(34, 123, 231) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/cqc/"><span class="fi fi-min-cqc fis"></span> Curriculum &amp; Qualifications Council</a> establishes and supports the national curriculum.</p>
+<p>There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.</p>
+<details>
+<summary>State Schools</summary>
+<p>State schools (also <em>central</em> or <em>district schools</em>) are administered and funded directly by a <a href="/republics/">constituent republic</a> through the <a class="slink"  style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/"><span class="fi fi-min-education fis"></span> Education Parliament</a>, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from <a href="/factbook/society/state/schools/#preparatory-school">Prep</a> to Year 12 or 13.</p>
+</details>
+<details>
+<summary>Community Schools</summary>
+<p>Community schools (also <em>local schools</em>) are usually administered by a <a href="/municipalities/">municipality</a>, and are usually smaller than state schools. Although some community schools may combine primary and secondary schooling, most serve only primary education. Community schools may also refer to village schools, or community-run schools in the localist Vekllei tradition.</p>
+</details>
+<details>
+<summary>Studio & Technical Schools</summary>
+<p>Studio and technical schools typically refer to secondary schools that specialise in arts or vocational curriculums, as a means to fast-track gifted learning. These schools may offer boarding, as only a few studio and technical schools exist across the Commonwealth and smaller republics may send their students overseas to study there.</p>
+</details>
+<details>
+<summary>Faith Schools</summary>
+<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="/factbook/society/state/schools/#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
+</details>
+<details>
+<summary>Boarding Schools</summary>
+<p>Vekllei offers a handful of boarding schools, which are usually specialised institutions that may operate as orphanages or for international students. Some Vekllei boarding schools include aspects of democratic education.</p>
+</details>
+<h2 id="education">
+  Education
+  <a class="anchor" href="#education">#</a>
+</h2>
+<blockquote class="note advice">
+  <span class="text">Read more: <a class="slink"  style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/"><span class="fi fi-min-education fis"></span> Education Parliament</a></span>
+</blockquote>
+
+<p>Vekllei people are enrolled in 9 years of compulsory education. In addition, 3 years of pre-school and 3 years of senior secondary schooling are available but not compulsory.</p>
+<p>Compared to schooling overseas, Vekllei education places significant value on well-roundedness and practicable household and technical skills, as well as social behaviour. Subject-based streams for specialised learning are common, but the basic compulsory Vekllei curriculum emphasises non-academic subjects and structures pre-tertiary subjects as electives. Reinforcement and learning are lead by positive rather than negative means.</p>
+<p><figure>
+  <a href="/images/fullres/prairie.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/fullres/prairie_hu31f7cfd3774ee5f34e82cc57cf337f04_3183823_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fullres/prairie.jpg"alt="Image of Tzipora and Moise" title="Misty morning in front of the [Moshel St School](/moshel/) | *[A Social Economy](/stories/a-social-economy/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>Misty morning in front of the <a href="/moshel/">Moshel St School</a> | <em><a href="/stories/a-social-economy/">A Social Economy</a></em></figcaption>
+</figure></p>
+<p>Vekllei has a strong tradition of school clubs and social organisations, and these are considered essential aspects of Vekllei education. Clubs and associations are usually organised by student leadership, and offer opportunities in industry and tertiary study.</p>
+<p>Compulsory and tertiary education is free for all Vekllei people, permanent residents and foreign workers. Homeschooling is illegal except by those holding a teaching certificate, and is supervised by a local school which issues the child&rsquo;s diploma. In this context, homeschooling is almost nonexistent in the Commonwealth. About 15% of the Commonwealth Budget is allocated towards education.</p>
+<h3 id="compulsory-education">
+  Compulsory Education
+  <a class="anchor" href="#compulsory-education">#</a>
+</h3>
+<p>Vekllei offers preschooling from ages 3 onwards. Garden School, or kindergarten, is for 3 &amp; 4 year-olds in Vekllei, and assists with the transition from home to school, followed by preparatory school, or &lsquo;prep&rsquo;, which is the first year of compulsory primary education.</p>
+<p>Vekllei primary education consists of 7 years, starting with <a href="/factbook/society/state/schools/#preparatory-school">Prep</a> at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.</p>
+<p>The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.</p>
+<details open>
+  <summary>Vekllei Compulsory Schooling</summary>
+<ul>
+<li>Preschool
+<ul>
+<li>Nursery School</li>
+<li>Garden School</li>
+<li>Preparatory School</li>
+</ul>
+</li>
+<li>Primary School (Years 1-6)</li>
+<li>Secondary School (Years 7-10)</li>
+<li>College (Years 11-12)</li>
+</ul>
+</details>
+<h3 id="tertiary-education">
+  Tertiary Education
+  <a class="anchor" href="#tertiary-education">#</a>
+</h3>
+<p>The Commonwealth invests heavily in tertiary education as both a social good and a product marketable overseas. Vekllei universities rank highly abroad, and education as a service is a major export of Vekllei, and contributes to Vekllei&rsquo;s reputation as an international capital of finance and skilled labour.</p>
+<p>Universities in Vekllei offer places to students who have completed their Education Award and satisfy the prerequisites for their subject. These requirements differ between subjects, and usually include an interview with the admissions board.</p>
+<p>In order to study abroad, Vekllei students must be sponsored by a foreigner, receive a partial scholarship from an overseas university, or receive funding from their tertiary place of study. About one in four Vekllei students study overseas for some period of time.</p>
+<h2 id="curriculum">
+  Curriculum
+  <a class="anchor" href="#curriculum">#</a>
+</h2>
+<p>The national curriculum is the common programme of study in all Commonwealth schools, and determines standards of study across all education institutions.</p>
+<details open>
+  <summary>Atlantic Curriculum</summary>
+<ul>
+<li>Arts</li>
+<li>Vekllei Languages</li>
+<li>Foreign Languages</li>
+<li>Health and Physical Education</li>
+<li>Civic Sciences and Stewardship</li>
+<li>Economics and Business</li>
+<li>World Study</li>
+<li>Political Sciences and History</li>
+<li>Mathematics</li>
+<li>Material Sciences and Electronics</li>
+<li>Work Studies</li>
+</ul>
+</details>
+<h2 id="uniform">
+  Uniform
+  <a class="anchor" href="#uniform">#</a>
+</h2>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/stories/uniforms/">Uniforms in Vekllei</a></em></span>
+</blockquote>
+
+<p><figure>
+  <a href="/images/fullres/requests.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/fullres/requests_hu65afeb46cc233d747ccdfb5eeee63e35_3060052_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fullres/requests.jpg"alt="Illustration of different ways of wearing the same school uniform" title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>Examples of Vekllei school uniform and its functional diversity | <a href="/stories/new-generation/"><em>A New Generation</em></a></figcaption>
+</figure></p>
+<p>All schools in Vekllei share a common student uniform, which can also be worn by teachers and at university. The basic components are universal, but makes no requirements about hair, piercings or makeup. In addition, the basic uniform is often heavily accessorised with cultural elements approved by the school. These include elements like hats, belts, overskirt pleats, clothing items and armbands, but these are added to the existing uniform and do not typically modify the base components.</p>
+<p><figure>
+  <a href="/images/kalinauniform.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/kalinauniform_hu739145880bae53672acd3de20700a6a4_804201_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/kalinauniform.jpg"alt="Illustration Caribbean youths wearing school uniform" title="Examples of Caribbean Commonwealth school uniform featuring local dress. | [*Caribbean Uniforms*](/stories/caribbean-uniform/)" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>Examples of Caribbean Commonwealth school uniform featuring local dress. | <a href="/stories/caribbean-uniform/"><em>Caribbean Uniforms</em></a></figcaption>
+</figure></p>
+<p>The basic uniform is simple and purchased independently, usually from department stores. The only badged items are the tie and jewellery/pins. It is worn across all ages of schooling, including tertiary education and university, and by some teachers as well.</p>
+<table class="mc-table">
+<thead>
+<tr>
+<th></th>
+<th>Boys</th>
+<th>Girls</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Top</td>
+<td><ul> <li>White collared shirt, tucked shirttails</li> <li>Black school tie</li> <li>Navy cape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy blazer or sports jacket</li> </ul></td>
+<td><ul> <li>White blouse, tucked shirttails</li> <li>Black or red school tie or floral piece</li> <li>Navy cape, pettycape or mackintosh raincoat</li> <li>Navy jumper or sweater</li> <li>Navy pinafore or gymslip</li> </ul></td>
+</tr>
+<tr>
+<td>Bottom</td>
+<td><ul> <li>Navy trousers or shorts</li> <li>Dark or brown belt</li> </ul></td>
+<td><ul> <li>Navy skirt, shorts or trousers</li> <li>Dark or brown belt</li> </ul></td>
+</tr>
+<tr>
+<td>Shoes</td>
+<td><ul> <li>Dark or brown leather shoes</li> <li>White sneakers or tennis shoes</li> <li>Dark socks</li> </ul></td>
+<td><ul> <li>Dark or brown leather shoes</li> <li>White sneakers or tennis shoes</li><li>white socks</li> </ul></td>
+</tr>
+</tbody>
+</table>
+<p>The uniform system was created in 2015 by French migrant Charles-Édouard Laurent to be accessible and comfortable, and so that individual items could continue to be worn after schooling concluded. It is iconic overseas and well-regarded by most Vekllei students.</p>
+
+</article>
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+
+
+
+
+<li
+>
+    <a href="/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="/factbook/">Factbook</a>
+</li>
+
+
+<li
+>
+    <a href="/factbook/society/">Society</a>
+</li>
+
+
+<li
+>
+    <a href="/factbook/society/state/">State</a>
+</li>
+
+
+<li
+ class="active">
+    <a href="/factbook/society/state/schools/">Education in Vekllei</a>
+</li>
+
+</ul>
+
+
+
+  
+
+<div class="credit">
+  <i>Logo credit: Burton Kramer, 1981, for the Oak Sales Corporation.</i>
+</div>
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 02/08/2024</span>
+    <span class="pill">
+      <div class="pill-category">factbook</div>
+      <div class="pill-icon">🟪</div>
+      <div class="pill-title">Education in Vekllei</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.fd2744b8c3190e1da982538d1e1a533579db914f762f1a64c14cb0a5bccfb898.js"></script>
+</body>
+
+</html>

@@ -231,11 +231,11 @@ Constituent commonwealths have their own suite of ministries and a National Asse
 	</item>
 	
 	<item>
-	  <title>Education</title>
-	  <link>/factbook/society/state/education/</link>
+	  <title>Education in Vekllei</title>
+	  <link>/factbook/society/state/schools/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
-	  <guid>/factbook/society/state/education/</guid>
+	  <guid>/factbook/society/state/schools/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -264,8 +264,9 @@ Education and schooling is an important part of Vekllei society, and its importa
   Atlantic Model of Education
   <a class="anchor" href="#atlantic-model-of-education">#</a>
 </h2>
-<p>The <em>Atlantic Model</em> is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including progressive and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.</p>
-<p>Although this system incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common <a href="/factbook/society/state/education/#uniform">student uniform</a>, and address teachers by their surname.</p>
+<p>The <em>Atlantic Model</em> is the colloquial name for the Vekllei public education system. It is a hybridised model incorporating different influences, including Ferrer and Montessori methods. The Atlantic Model places greater emphasis on personal responsibility, constructivist learning and hobbyism. A distinguishing characteristic is its emphasis on synchronous authority, which protects certain student rights but retains the premise of the teacher as a classroom authority.</p>
+<p>Vekllei schools, including universities, employ competency-based grading. This system uses scaffolded tasks to demonstrate competence in a subject, and students are often provided more than one chance to demonstrate their ability. This system has found general success across Vekllei, and it has raised academic standards and the quality of student participation. It has also reduced anxieties about examination and testing in the classroom, and contributes significantly to the wellbeing of Vekllei students. This system does not always accredit easily with systems outside of Vekllei, which can affect post-graduate opportunities.</p>
+<p>Although the Atlantic Model incorporates progressive and alternative education methods, its structure deviates from trends common in those movements. Vekllei schools have traditional classrooms, a common <a href="/factbook/society/state/schools/#uniform">student uniform</a>, and address teachers by their surname.</p>
 <p>The distinguishing characteristics of the Atlantic Model are:</p>
 <blockquote class="note ">
   <span class="text"><ul>
@@ -274,6 +275,8 @@ Education and schooling is an important part of Vekllei society, and its importa
 <li>Democratic or student-led topics and activities</li>
 <li>Emphasis of personal responsibility, improvement, and discipline</li>
 <li>Free time for work and play</li>
+<li>Physical, experiential and practical learning</li>
+<li>Competency-based rather than graded assessment</li>
 <li>Emphasis on clubs, hobbies and extracurricular activities</li>
 <li>Shared burdens like cleaning and cooking</li>
 <li>Short classroom periods broken up by changes in location and subject</li>
@@ -324,11 +327,11 @@ Education and schooling is an important part of Vekllei society, and its importa
   
    <figcaption>The student uniform is heavily accessorised, and varies in detail to accomodate the culture of republics | <em><a href="/stories/sami/">Sami</a></em></figcaption>
 </figure></p>
-<p>Education in Vekllei has no fees, by nature of the <em>commons</em>, including at the secondary and tertiary level. It is funded and equipped by the <a class="slink"  style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/"><span class="fi fi-min-education fis"></span> Education Parliament</a>, which also establishes and supports the national curriculum.</p>
+<p>Education in Vekllei has no fees, by nature of the <em>commons</em>, including at the secondary and tertiary level. It is funded and equipped by the <a class="slink" style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/bureau-of-public-education/"><span class="fi fi-min-education fis"></span> Bureau of Public Education</a>. The <a class="slink" style="color: rgb(34, 123, 231); background: color-mix(in srgb, rgb(34, 123, 231) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/cqc/"><span class="fi fi-min-cqc fis"></span> Curriculum &amp; Qualifications Council</a> establishes and supports the national curriculum.</p>
 <p>There are many different types of school in Vekllei, but all are government-funded and adhere to the compulsory curriculum outlined by the Education Secretary. The national education uniform is compulsory for all students at both public and independent schools, and is voluntary at universities.</p>
 <details>
 <summary>State Schools</summary>
-<p>State schools (also <em>central</em> or <em>district schools</em>) are administered and funded directly by a <a href="/republics/">constituent republic</a> through the <a class="slink"  style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/"><span class="fi fi-min-education fis"></span> Education Parliament</a>, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from <a href="/factbook/society/state/education/#preparatory-school">Prep</a> to Year 12 or 13.</p>
+<p>State schools (also <em>central</em> or <em>district schools</em>) are administered and funded directly by a <a href="/republics/">constituent republic</a> through the <a class="slink"  style="color: var(--color-education); background: color-mix(in srgb, var(--color-education) 10%, transparent);" href="/factbook/society/state/government/parliaments/education/"><span class="fi fi-min-education fis"></span> Education Parliament</a>, and are common in cities and some high-density city-states. They are traditionally larger and better equipped, and usually provide for both primary and secondary schooling. In certain republics, state schools are also district colleges, meaning they serve students from <a href="/factbook/society/state/schools/#preparatory-school">Prep</a> to Year 12 or 13.</p>
 </details>
 <details>
 <summary>Community Schools</summary>
@@ -340,7 +343,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </details>
 <details>
 <summary>Faith Schools</summary>
-<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="/factbook/society/state/education/#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
+<p>Faith schools in Vekllei are affiliated with an approved religious organisation. The curriculum of faith schools have a religious character, usually Jewish or Roman Catholic. Faith schools are still required to adhere to the <a href="/factbook/society/state/schools/#curriculum">Commonwealth curriculum</a> as a minimum education standard. Faith Schools are also an exception to the universal coeducational system of the Commonwealth, since two schools in Oslola and one in the Kalina Isles are single-sex boarding schools.</p>
 </details>
 <details>
 <summary>Boarding Schools</summary>
@@ -395,7 +398,7 @@ Education and schooling is an important part of Vekllei society, and its importa
   <a class="anchor" href="#compulsory-education">#</a>
 </h3>
 <p>Vekllei offers preschooling from ages 3 onwards. Garden School, or kindergarten, is for 3 &amp; 4 year-olds in Vekllei, and assists with the transition from home to school, followed by preparatory school, or &lsquo;prep&rsquo;, which is the first year of compulsory primary education.</p>
-<p>Vekllei primary education consists of 7 years, starting with <a href="/factbook/society/state/education/#preparatory-school">Prep</a> at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.</p>
+<p>Vekllei primary education consists of 7 years, starting with <a href="/factbook/society/state/schools/#preparatory-school">Prep</a> at ages 5-6 and concluding with Year 6 at age 12. Secondary education lasts from years 7-12, and study until year 10 is compulsory.</p>
 <p>The final year of school in Vekllei usually includes a class trip overseas, traditionally to Europe or Asia, to celebrate graduation.</p>
 <details open>
   <summary>Vekllei Compulsory Schooling</summary>
@@ -449,7 +452,7 @@ Education and schooling is an important part of Vekllei society, and its importa
 </blockquote>
 
 <p><figure>
-  <a href="/images/generation.jpg"
+  <a href="/images/fullres/requests.jpg"
      target="_blank"
      rel="noopener noreferrer">
 
@@ -469,8 +472,8 @@ Education and schooling is an important part of Vekllei society, and its importa
       
 
       <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/generation_hubd5ad17f37aa25359269678537a51e1c_464338_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/generation.jpg"alt="Illustration of different ways of wearing the same school uniform" title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" 
+        data-srcset="/images/fullres/requests_hu65afeb46cc233d747ccdfb5eeee63e35_3060052_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fullres/requests.jpg"alt="Illustration of different ways of wearing the same school uniform" title="Examples of Vekllei school uniform and its functional diversity | [*A New Generation*](/stories/new-generation/)" 
         loading="lazy"
       />
 
