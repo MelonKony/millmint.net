@@ -1,0 +1,244 @@
+// millmint.net navbar
+// Made by Hobart
+
+    .bento {
+      @include text-sm;
+      @include my-4;
+      @include radius-base;
+      line-height: 1.25rem;
+      display: flex;
+      align-content: stretch;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      flex-grow: 4;
+
+      button {
+        @include font-color;
+        line-height: 1.6rem;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      a {
+        white-space: nowrap;
+        @include px-1;
+        @include py-2;
+      }
+
+      .whirlybats {
+        @include whirlybats;
+        font-size: 20px;
+        width: 10px;
+      }
+
+      .box {
+        @include padding-1;
+        align-content: stretch;
+        min-width: min-content;
+
+        .boxtitle {
+          @include font-color;
+          font-size: 16px;
+        }
+
+        button {
+          border: none;
+        }
+
+        .tray {
+          @include padding-2;
+          @include my-2;
+          @include radius-base;
+          list-style-type: none;
+          justify-content: space-between;
+          align-content: stretch;
+
+          a {
+            @include font-color;
+            @include font-normal;
+            @include px-1;
+            @include py-2;
+          }
+
+          .boxtitle {
+            padding-top: 0;
+            padding-bottom: .5rem;
+            line-height: 2rem;
+            font-size: 16px;
+            @include font-medium;
+          }
+        }
+      }
+
+      .box[full] {
+        width: 100%;
+      }
+
+      .box[half] {
+        @media only screen and (min-width: 600px) {
+          width: 48%;
+        }
+      }
+
+      .box[two-thirds] {
+        @media only screen and (min-width: 600px) {
+          width: 66%;
+        }
+      }
+
+      .box[one-third] {
+        @media only screen and (min-width: 600px) {
+          width: 30%;
+        }
+      }
+
+      .box {
+        @media only screen and (max-width: 600px) {
+          width: 100%;
+        }
+      }
+
+      .tray {
+        &[vekllei] {
+          background-color: rgba(54, 73, 187, 0.1);
+        }
+
+        &[yellow] {
+          background-color: rgba(234, 147, 101, 0.1);
+        }
+
+        &[purple] {
+          background-color: rgba(155, 67, 199, 0.1)
+        }
+
+        &[brown] {
+          background-color: rgba(162, 132, 94, 0.1)
+        }
+
+        &[blue] {
+          background-color: rgba(28, 123, 205, 0.1)
+        }
+
+        &[green] {
+          background-color: rgba(92, 185, 85, 0.1);
+        }
+
+        &[millmint] {
+          background-color: rgba(225, 28, 110, 0.1)
+        }
+      }
+
+      .boxtitle {
+        &[vekllei] {
+          color: var(--color-vekllei);
+        }
+
+        &[yellow] {
+          color: var(--color-yellow);
+        }
+
+        &[purple] {
+          color: var(--color-purple);
+        }
+
+        &[brown] {
+          color: var(--color-brown);
+        }
+
+        &[blue] {
+          color: var(--color-blue);
+        }
+
+        &[green] {
+          color: var(--color-green);
+        }
+
+        &[millmint] {
+          color: var(--color-millmint);
+        }
+      }
+    }
+
+    a {
+      @include secondary-color;
+
+      &:hover {
+        @include highlight;
+      }
+    }
+
+    li {
+      margin: 0!important;
+      padding: 2.5px;
+      list-style-type: none;
+    }
+
+// hide social icons on mobile
+
+@media only screen and (max-width: 555px) {
+  .right {
+    display: none !important;
+  }
+}
+
+.showcase {
+  @include padding-0;
+  display: none;
+  flex: 1;
+
+  .navcard {
+    @include mx-1;
+    @include radius-base;
+    height: auto;
+    overflow: hidden;
+    display: flex;
+    flex: 1;
+    justify-self: center;
+    align-self: center;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 2;
+    transition: ease 0.15s;
+
+    a {
+      padding: 0 !important;
+    }
+
+    &:hover {
+      @include drop-shadow;
+      transform: translateY(-0.25rem);
+    }
+
+    .name {
+      position: absolute;
+    }
+
+    figure {
+      margin: 0;
+    }
+
+    img {
+      @include margin-0;
+      @include padding-0;
+      display: block;
+      box-sizing: border-box;
+      transform: scale(1.1);
+      height: 150px;
+      object-fit: cover;
+    }
+  }
+}
+
+.showcase[five] {
+  @media only screen and (min-width: 600px) {
+    display: flex;
+  }
+}
+
+.showcase[three] {
+  @media only screen and (max-width: 600px) {
+    display: flex;
+  }
+}

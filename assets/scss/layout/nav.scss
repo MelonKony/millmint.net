@@ -23,11 +23,10 @@ nav {
       @include text-sm;
       @include font-medium;
       @include radius-base;
+      margin-right: .25rem;
       line-height: 1.25rem;
       display: block;
       padding: .25rem .5rem .25rem .25rem;
-      padding-bottom: .1rem;
-      border-bottom: 4px solid transparent;
       position: static;
       white-space: nowrap;
 
@@ -222,6 +221,7 @@ nav {
 
       &:hover {
         @include highlight;
+        text-decoration: none;
       }
     }
 
@@ -281,7 +281,7 @@ nav {
   border-radius: .075rem;
   margin-top: 2.5rem;
   box-sizing: border-box;
-  width: calc(100% - 3.5rem);
+  width: calc(100% - 3.8rem);
   /* Full width minus 2 times 1.5rem padding */
   z-index: 1;
   left: 50%;
@@ -340,6 +340,12 @@ nav {
       object-fit: cover;
     }
   }
+}
+
+.active {
+  @include highlight-background;
+  @include highlight-border;
+  color: var(--highlight);
 }
 
 .showcase[five] {

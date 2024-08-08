@@ -181,9 +181,9 @@
 	</item>
 	
 	<item>
-	  <title>Archive</title>
+	  <title>Archived Stories</title>
 	  <link>/categories/archive/</link>
-	  <pubDate>Mon, 05 Aug 2019 08:00:00 EST</pubDate>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
 	  
 	  <guid>/categories/archive/</guid>
 	  <author>
@@ -191,10 +191,13 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[]]>
+	  <![CDATA[The Archive comprises stories that no longer fit into the Vekllei canon as we understand it today. This project has changed shape over the years, and the sorts of things that make sense in its world has changed too.
+Early Vekllei was a very different type of story about a different kind of country. Consequently, older illustrations and stories may mislead or misinform readers.]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src=""/> ]]>
+	 	<![CDATA[<img src=""/> <p>The <strong>Archive</strong> comprises stories that no longer fit into the Vekllei canon as we understand it today. This project has changed shape over the years, and the sorts of things that make sense in its world has changed too.</p>
+<p>Early Vekllei was a very different type of story about a different kind of country. Consequently, older illustrations and stories may mislead or misinform readers.</p>
+]]>
   	</content:encoded>
 	</item>
 	
