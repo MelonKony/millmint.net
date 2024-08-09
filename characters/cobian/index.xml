@@ -18,6 +18,31 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>They Like to Dance</title>
+	  <link>/stories/they-like-to-dance/</link>
+	  <pubDate>Tue, 06 Aug 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/they-like-to-dance/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[They don&rsquo;t have dates, so they dance with each other. Cobian&rsquo;s &lsquo;Algic&rsquo; (Inuit) dress is like her version of a poodle skirt I guess. I was going for sock-hop look. Vekllei isn&rsquo;t a pastiche of the 50s, but it is crazy how much more people used to dance last century.
+Vekllei people love to dance.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/dance.jpg"/> <blockquote class="note caption">
+  <span class="text">They don&rsquo;t have dates, so they dance with each other.</span>
+</blockquote>
+
+<p><a class="slink"  style="color: var(--color-yellow); background: color-mix(in srgb, var(--color-yellow) 10%, transparent);" href="/characters/cobian/"><span class="fi fi-cobian fis"></span> Cobian</a>&rsquo;s &lsquo;Algic&rsquo; (Inuit) dress is like her version of a poodle skirt I guess. I was going for sock-hop look. Vekllei isn&rsquo;t a pastiche of the 50s, but it is crazy how much more people used to dance last century.</p>
+<p>Vekllei people love to dance.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>The News</title>
 	  <link>/stories/the-news/</link>
 	  <pubDate>Mon, 29 Jul 2024 08:00:00 EST</pubDate>

@@ -14,10 +14,57 @@
 	<description>Recent content in Sketch </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Mon, 29 Jul 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/categories/sketch/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Nice Cardigan</title>
+	  <link>/stories/cardigan/</link>
+	  <pubDate>Thu, 08 Aug 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/cardigan/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Nice cardigan, dumbass. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/cardigan.jpg"/> <blockquote class="note caption">
+  <span class="text">Nice cardigan, dumbass.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Whisper of the Heart</title>
+	  <link>/stories/woth/</link>
+	  <pubDate>Tue, 30 Jul 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/woth/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[I watched Whisper of the Heart again. Great movie. I found Whisper of the Heart (1995) kind of cathartic. I think it&rsquo;s a really beautiful story about creativity and what you should do with your life. The weird 90s Japanese post-recession vibe is very strong too.
+I wrote my thesis on spatiality in Studio Ghibli, which included visiting several locations that directly inspired the film. You can read that essay on this site here: A Universal Nostalgia.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="/images/fullres/woth.jpg"/> <blockquote class="note caption">
+  <span class="text">I watched <em>Whisper of the Heart</em> again. Great movie.</span>
+</blockquote>
+
+<p>I found <em>Whisper of the Heart</em> (1995) kind of cathartic. I think it&rsquo;s a really beautiful story about creativity and what you should do with your life. The weird 90s Japanese post-recession vibe is very strong too.</p>
+<p>I wrote my thesis on spatiality in Studio Ghibli, which included visiting several locations that directly inspired the film. You can read that essay on this site here: <a href="/ghibli/"><em>A Universal Nostalgia</em></a>.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>The News</title>
 	  <link>/stories/the-news/</link>
@@ -2020,7 +2067,7 @@ It&rsquo;s also an example of teachers wearing similar uniforms (in their case, 
 
 <p><strong>Fruit Tingles</strong> (<em>Fodsa Spas</em>) are a chalky sweet popular in Vekllei. They fizz in your mouth and come in several flavours. They&rsquo;re as popular today as they were a hundred and fifty years ago when they were first produced by Montre Confectionary in 1936.</p>
 <p>They&rsquo;re exported and enjoyed all over the commonwealth, from Kala to Kalina.</p>
-<p>Clockwise: <strong>Hen</strong>, from Kus (Kala), <strong>Bez</strong>, from Demon, <strong>Tzipora</strong>, from Seispri (Vekllei) and <strong>Sydney</strong>, from Montesur (Kalina).</p>
+<p>Clockwise: <strong>Hen</strong>, from Kus (<a class="slink" style="color: rgb(39, 126, 72); background: color-mix(in srgb, rgb(39, 126, 72) 10%, transparent);" href="/factbook/world/vekllei/arctic/kala/"><span class="fi fi-kala"></span> Kala</a>), <strong>Bez</strong>, from Demon, <strong>Tzipora</strong>, from Seispri (Vekllei) and <strong>Sydney</strong>, from Montesur (Kalina).</p>
 <!--Quita-->]]>
   	</content:encoded>
 	</item>
