@@ -14,10 +14,35 @@
 	<description>Recent content in 2024 </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Tue, 20 Aug 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Wed, 21 Aug 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Colleague</title>
+	  <link>/stories/colleague/</link>
+	  <pubDate>Wed, 21 Aug 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/colleague/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[A colleague that is very rude to you all the time but hangs around you anyway. She works for Common Gemstone, the Vekllei synthetic precious gems company. The company occasionally crashes the world gemstone market by flooding it with unlabelled synthetics because Vekllei makes just that many of them. Precious gems are widely available and they use them for all sorts of things.
+I&rsquo;ll do a full post on Common Gemstone because their history is very funny.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/colleague.jpg"/> <blockquote class="note caption">
+  <span class="text">A colleague that is very rude to you all the time but hangs around you anyway.</span>
+</blockquote>
+
+<p>She works for <a class="slink" style="color: rgb(243, 3, 89); background: color-mix(in srgb, rgb(243, 3, 89) 10%, transparent);" href="/factbook/society/industry/bureaus/common-gemstone/"><span class="fi fi-min-gemstone fis"></span> Common Gemstone</a>, the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> synthetic precious gems company. The company occasionally crashes the world gemstone market by flooding it with unlabelled synthetics because Vekllei makes just that many of them. Precious gems are widely available and they use them for all sorts of things.</p>
+<p>I&rsquo;ll do a full post on Common Gemstone because their history is very funny. It&rsquo;s like Thomas Moore&rsquo;s &ldquo;Utopia&rdquo; where the toilets are made out of gold, except it&rsquo;s a ruby pin Tzipora won for long jump at her school athletics carnival.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Don&#39;t Touch Her Maria</title>
 	  <link>/stories/mary/</link>

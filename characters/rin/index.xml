@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+	<title>Rin</title>
+	<link>/characters/rin/</link>
+	<description>Recent content in Rin </description>
+	<generator>Hugo</generator>
+	<language>en</language>
+	<lastBuildDate>Wed, 21 Aug 2024 08:00:00 EST</lastBuildDate>
+	<webfeeds:icon>//favicon.png</webfeeds:icon>
+	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
+	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/rin/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Colleague</title>
+	  <link>/stories/colleague/</link>
+	  <pubDate>Wed, 21 Aug 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/colleague/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[A colleague that is very rude to you all the time but hangs around you anyway. She works for Common Gemstone, the Vekllei synthetic precious gems company. The company occasionally crashes the world gemstone market by flooding it with unlabelled synthetics because Vekllei makes just that many of them. Precious gems are widely available and they use them for all sorts of things.
+I&rsquo;ll do a full post on Common Gemstone because their history is very funny.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/colleague.jpg"/> <blockquote class="note caption">
+  <span class="text">A colleague that is very rude to you all the time but hangs around you anyway.</span>
+</blockquote>
+
+<p>She works for <a class="slink" style="color: rgb(243, 3, 89); background: color-mix(in srgb, rgb(243, 3, 89) 10%, transparent);" href="/factbook/society/industry/bureaus/common-gemstone/"><span class="fi fi-min-gemstone fis"></span> Common Gemstone</a>, the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> synthetic precious gems company. The company occasionally crashes the world gemstone market by flooding it with unlabelled synthetics because Vekllei makes just that many of them. Precious gems are widely available and they use them for all sorts of things.</p>
+<p>I&rsquo;ll do a full post on Common Gemstone because their history is very funny. It&rsquo;s like Thomas Moore&rsquo;s &ldquo;Utopia&rdquo; where the toilets are made out of gold, except it&rsquo;s a ruby pin Tzipora won for long jump at her school athletics carnival.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+  </channel>
+</rss>

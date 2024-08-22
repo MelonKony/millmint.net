@@ -18,6 +18,24 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Rin</title>
+	  <link>/characters/rin/</link>
+	  <pubDate>Wed, 21 Aug 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/rin/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Aom</title>
 	  <link>/characters/aom/</link>
 	  <pubDate>Mon, 10 Jun 2024 08:00:00 EST</pubDate>
