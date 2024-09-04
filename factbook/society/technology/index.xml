@@ -18,6 +18,119 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/factbook/society/technology/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Assembly Language</title>
+	  <link>/factbook/society/technology/common-assembly-language/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/technology/common-assembly-language/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Common Assembly Language (commonly Assembly or COMAS) is the common low-level programming language of computers in Vekllei and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.
+Each command is represented by a unique sequence of balanced ternary digits called a trit.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <p><strong>Common Assembly Language</strong> (commonly <em>Assembly</em> or <em>COMAS</em>) is the common low-level programming language of <a href="/computers/">computers</a> in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.</p>
+<p>Each command is represented by a unique sequence of balanced ternary digits called a <em>trit</em>. The commands cover basic operation of a computer, including arithmetic, data allocation, control flow and logical operations. These trits represent one of three states, which in optical computing can be executed in parallel:</p>
+<ul>
+<li><code>+</code>: positive, otherwise represented as <code>+1</code></li>
+<li><code>o</code>: zero, otherwise represented as <code>0</code></li>
+<li><code>-</code>: negative, otherwise represented as <code>-1</code></li>
+</ul>
+<p>The following table lists the common commands of mnemonic Assembly and its equivalent machine-code representation as trits.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Assembly Command</strong></th>
+<th><strong>Mnemonic</strong></th>
+<th><strong>Trit Representation</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Add</strong></td>
+<td><code>ADD</code></td>
+<td><code>+++</code></td>
+</tr>
+<tr>
+<td><strong>Subtract</strong></td>
+<td><code>SUB</code></td>
+<td><code>---</code></td>
+</tr>
+<tr>
+<td><strong>Move</strong></td>
+<td><code>MOV</code></td>
+<td><code>+--</code></td>
+</tr>
+<tr>
+<td><strong>Load</strong></td>
+<td><code>LOD</code></td>
+<td><code>-+-</code></td>
+</tr>
+<tr>
+<td><strong>Store</strong></td>
+<td><code>STO</code></td>
+<td><code>--+</code></td>
+</tr>
+<tr>
+<td><strong>Jump</strong></td>
+<td><code>JMP</code></td>
+<td><code>+0+</code></td>
+</tr>
+<tr>
+<td><strong>Jump if Zero</strong></td>
+<td><code>JIZ</code></td>
+<td><code>0++</code></td>
+</tr>
+<tr>
+<td><strong>Jump if Negative</strong></td>
+<td><code>JIN</code></td>
+<td><code>0--</code></td>
+</tr>
+<tr>
+<td><strong>And</strong></td>
+<td><code>AND</code></td>
+<td><code>+-+</code></td>
+</tr>
+<tr>
+<td><strong>Or</strong></td>
+<td><code>OR</code></td>
+<td><code>0+0</code></td>
+</tr>
+<tr>
+<td><strong>Not</strong></td>
+<td><code>NOT</code></td>
+<td><code>0-0</code></td>
+</tr>
+<tr>
+<td><strong>Increment</strong></td>
+<td><code>INC</code></td>
+<td><code>00+</code></td>
+</tr>
+<tr>
+<td><strong>Decrement</strong></td>
+<td><code>DEC</code></td>
+<td><code>00-</code></td>
+</tr>
+<tr>
+<td><strong>Compare</strong></td>
+<td><code>CMP</code></td>
+<td><code>+0-</code></td>
+</tr>
+<tr>
+<td><strong>No Operation</strong></td>
+<td><code>NOP</code></td>
+<td><code>000</code></td>
+</tr>
+</tbody>
+</table>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Computers</title>
 	  <link>/factbook/society/technology/computers/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -51,7 +164,7 @@
 </h2>
 <p>There are two types of commercial computing in use in Vekllei.</p>
 <ul>
-<li><strong>Photo-Electric Computers</strong> (PEC), which are electric machines that are capable of parallel arithmetic and logical operations.</li>
+<li><strong>Photo-Electric Computers</strong> (PEC), which are electric machines that are capable of <a href="/factbook/society/technology/computers/#ternary-logic-systems">ternary</a> parallel arithmetic and logical operations.</li>
 <li><strong>Fabricated Live Robotics</strong>, which combine computers with synthetic biological components to unlock adaptive and sensory functions.</li>
 </ul>
 <p>Computing in Vekllei happens at a civic or industrial scale, and rarely interacts with individuals for personal purposes. Most ordinary Vekllei people interact with computers through work or in schools and libraries, where they serve data-lookup and communication purposes. Civilian life in Vekllei is decidedly analogue.</p>
@@ -59,15 +172,39 @@
   Photo-Electric Computing
   <a class="anchor" href="#photo-electric-computing">#</a>
 </h3>
+<blockquote class="note advice">
+  <span class="text">Read more: <a href="/photovolumes/"><em>Photovolumes</em></a></span>
+</blockquote>
+
 <p>All programmable Vekllei computers use photo-electric circuits<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> instead of electric transistors and semiconductors. In a Vekllei photo-electric computer, micro-lasers are produced by a wafer made up of mirrors and a cavity to perform digital computations. In place of silicon transistors are photonic crystals called <em>Syncretic Crystal Mechanisms</em>, which reflect light at different wavelengths and form an optical integrated circuit. Devices called spatial light modulators<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> moderate the intensity and phase of these light beams, which are stored as holograms within a crystal as a form of digital memory. These holographic crystals, called <em>Photovolumes</em>, are able to be written and read in parallel, allowing instant access to records in a networked computer system. Most computers contain a protected archive system that duplicates and write-protects data.</p>
 <p>Because photo-electric computers require large processing elements to facilitate nonlinear computing and its unique signal-processing devices, computers in Vekllei are heavily centralised and are not found in households. Most large industrial and commercial enterprises maintain a single room-sized &lsquo;Master Computer&rsquo; that networks satellite terminals concurrently. Some centralised industries consolidate master computers into a single photo-electric-robotic system (PER) called an Automatic Asset Command. Famous examples are the Automatic Train Control, which automates <a href="/factbook/society/industry/rail/">Vekllei National Rail</a> operations and programmes robots that can automate train service, and the Vekllei State Archives which maintain a written record of all items in several archival Photovolumes, managed by the Archival Master Computer.</p>
 <p>The size, speed and accessibility of data storage in Vekllei means that more data than ever is recorded and preserved, making Vekllei one of the most recorded societies in history. As the site of the Atlantic Telephone and Data Exchange, Vekllei also handles tremendous amounts of trans-Atlantic data regeneration and processing.</p>
+<h3 id="ternary-logic-systems">
+  Ternary Logic Systems
+  <a class="anchor" href="#ternary-logic-systems">#</a>
+</h3>
+<blockquote class="note advice">
+  <span class="text">Main article: <em><a href="/common-assembly-language/">Common Assembly Language</a></em></span>
+</blockquote>
+
+<p>Rather than binary logic, in which a state is interpreted as either true or false by a processor,  Vekllei computers use ternary logic. There are three digits that can represent a state, which are called a trit: as such, there are three trits in Vekllei.</p>
+<ul>
+<li><code>+</code>: positive, otherwise represented as <code>+1</code></li>
+<li><code>o</code>: zero, otherwise represented as <code>0</code></li>
+<li><code>-</code>: negative, otherwise represented as <code>-1</code></li>
+</ul>
+<p>Since Vekllei uses optical computers, its systems are naturally able to interpret three different states. In low-level programming, trits are assigned alphabetic mnemonics for basic functions. Some of these include:</p>
+<pre tabindex="0"><code>ADD → +++
+SUB → ---
+MOV → +--
+JMP → +0+
+</code></pre><p>Optical ternary computers allow simplified and parallel computing, and makes certain arithmetic operations more efficient (especially those involving negative numbers).</p>
 <h3 id="fabricated-live-robotics">
   Fabricated Live Robotics
   <a class="anchor" href="#fabricated-live-robotics">#</a>
 </h3>
-<blockquote class="note link">
-  <span class="text">✿ Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></span>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></span>
 </blockquote>
 
 <p>Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called <em>automasiosn</em> or &lsquo;automen,&rsquo; combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.</p>
@@ -97,6 +234,125 @@
 </li>
 </ol>
 </div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Photovolumes</title>
+	  <link>/factbook/society/technology/photovolumes/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/technology/photovolumes/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Computer data in Vekllei is stored in photorefractive crystals known as photovolumes. They are written to (data recorded) and read from (data retrieved) by lasers, which convert the information into electrical signals for use in a computer.
+Photovolumes are remarkable devices comprising many complex components. Since Vekllei computers do not use bitmapped screens, all graphics and images accessed electronically are effectively stored in miniature as holograms inscribed in crystals, called photocrystals.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <p>Computer data in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is stored in photorefractive crystals known as <em>photovolumes</em>. They are written to (data recorded) and read from (data retrieved) by lasers, which convert the information into electrical signals for use in a computer.</p>
+<p>Photovolumes are remarkable devices comprising many complex components. Since Vekllei computers do not use bitmapped screens, all graphics and images accessed electronically are effectively stored in miniature as holograms inscribed in crystals, called <em>photocrystals</em>. In addition to images, regular <a href="/factbook/society/technology/computers/#ternary-logic-systems/">ternary</a> data can be written and read in parallel, and together form the basic memory components of a Vekllei <a href="/computers/">computer</a>.</p>
+<h2 id="operation">
+  Operation
+  <a class="anchor" href="#operation">#</a>
+</h2>
+<p>Photovolumes can store all kinds of data encoded as light wavelengths, including images. It first has to be recorded (encoded) into a light pattern, usually by projecting the image onto a photosensitive material like laserfilm.</p>
+<p>This is done with a laser beam fired by a device called a <strong>light gun</strong>. It produces a laser that is split with a prism to form two distinct beams with different functions:</p>
+<ul>
+<li><strong>A signal beam</strong>, which is pointed at an object and shines at its surface. This light scatters around and carries information about the object, like its shape, texture and details. This laser shines between the object and the photocrystal recording medium.</li>
+<li><strong>A reference beam</strong>, which is pointed at the photocrystal. This is a clean, unaltered signal.</li>
+</ul>
+<p>When the two beams meet at a superposition, they interfere with each other, which is called an <strong>interference pattern</strong>. This pattern is a complex map of the image (or data) including its shape, texture and details. The pattern encodes the amplitude (brightness) and phase (wave shape) information of the object. This works like a pen and ink, with the <em>reference beam</em> providing a steady flow of unaltered ink and the <em>signal beam</em> shaping it.</p>
+<p><strong>Light interference</strong> occurs where the waves of both beams meet, creating bright spots. <strong>Dark interference</strong> occurs where the waves are misaligned, where the peaks of one amplitude meet the troughs of another, creating dark spots. These light and dark spots are known as <strong>constructive</strong> and <strong>destructive</strong> interference patterns respectively. These light and dark spots affect the photocrystal, and form a pattern that can be read back to reconstruct the data.</p>
+<p>In Vekllei, there are two main types of photocrystal in use in commercial photovolumes:</p>
+<blockquote class="note ">
+  <span class="text"><ul>
+<li><strong>Photorefractive photocrystals</strong> can be read and overwritten over and over again, making them useful to store data that needs to be updated, moved or deleted. There are two kinds of photorefractive photocrystal used in commercial photovolumes in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>:
+<ul>
+<li><em>Lithium Niobate</em> (LiNbO₃), which is more durable and well-suited for the nonlinear optical computing used in Vekllei thanks to its good piezoelectric and photoelectric properties.</li>
+<li><em>Barium Titanate</em> (BaTiO₃), which is more photorefractive and faster to read and write from, at the expense of durability. This is often used as a form of cache in large memory archives.</li>
+</ul>
+</li>
+<li><strong>Photopolymer photocrystals</strong> are written to once before hardening, permanently fixing the data patterns in place. In this state, it is able to be read over and over again. These photocrystals form the basis of Vekllei archive volumes, and will last a very long time. Once written to, however, they typically cannot be overwritten.</li>
+</ul>
+</span>
+</blockquote>
+
+<p>As the beams move across the surface of the photocrystal, they affect its physical properties. Depending on the type of crystal, constructive interference may affect its density, refraction index or its light absorption qualities. This occurs on a microscopic scale, in billionths of a meter.</p>
+<p>To retrieve the information, the <em>reference beam</em> is pointed at the crystal at the same angle and conditions. As it strikes the <em>interference pattern</em> it refracts the reference beam, which reconstructs the original signal beam&rsquo;s wavefront. This wavefront is fed into a photodetector, which translates the shape of the waves into ternary data that a computer can understand. Images signals are passed through directly, cached and positioned by metadata.</p>
+<h2 id="design">
+  Design
+  <a class="anchor" href="#design">#</a>
+</h2>
+<p>Vekllei commercial photovolumes are typically the size of a chocolate bar. They can interface with optical computers and are plugged in via a photovolume port, which contains the photodetector required to parse the wave data from a photocrystal.</p>
+<p>Inside a photovolume there is a <strong>head assembly</strong> consisting of a laser, beam splitters and mirror arrays to deflect the beams. There are also electrical components required to interface with a computer.</p>
+<p>The data in the drive is stored in trays, which contain crystal wafers derived from a larger crystal boule. These look like very thin disks, and have a large surface area to read and write data to. In most commercial photovolumes, there is a smaller tray called a <strong>cache</strong> that uses higher-performance crystal wafers for temporary storage to increase data retrieval speeds.</p>
+<h2 id="storage-information">
+  Storage Information
+  <a class="anchor" href="#storage-information">#</a>
+</h2>
+<p>In ternary computing, the smallest kind of data is called a <strong>trit</strong> &ndash; three values that make up a single character. Photovolumes store trits and physical images alongside each other to store useful data for <a href="/computers/">computers</a>.</p>
+<p>Scientific ternary units are represented as Metr, Gitr, Tetr and so on. In common use, an &lsquo;ah&rsquo; sound has been appended to most of the units to make them easier to pronounce.</p>
+<p>Photovolumes typically have a storage density ranging between 100-200 tetra per square inch. A typical commercial drive might have a storage capacity of 5,000 tetra, or 5 petra.</p>
+<table>
+<thead>
+<tr>
+<th>Unit</th>
+<th>Number of Trits</th>
+<th>Equivalent in Base-3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trit</td>
+<td>1</td>
+<td>3^0</td>
+</tr>
+<tr>
+<td>Kitra (Kit)</td>
+<td>1,024</td>
+<td>3^10</td>
+</tr>
+<tr>
+<td>Metra (Metr)</td>
+<td>1,048,576</td>
+<td>3^20</td>
+</tr>
+<tr>
+<td>Gitra (Gitr)</td>
+<td>1,073,741,824</td>
+<td>3^30</td>
+</tr>
+<tr>
+<td>Tetra (Tetr)</td>
+<td>1,099,511,627,776</td>
+<td>3^40</td>
+</tr>
+<tr>
+<td>Petra (Petr)</td>
+<td>1,125,899,906,842,624</td>
+<td>3^50</td>
+</tr>
+<tr>
+<td>Etra (Etr)</td>
+<td>1,152,921,504,606,846,976</td>
+<td>3^60</td>
+</tr>
+<tr>
+<td>Zetra (Zetr)</td>
+<td>1,180,591,620,717,411,303,424</td>
+<td>3^70</td>
+</tr>
+<tr>
+<td>Yotra (Yotr)</td>
+<td>1,208,925,819,614,629,174,706,176</td>
+<td>3^80</td>
+</tr>
+</tbody>
+</table>
 ]]>
   	</content:encoded>
 	</item>

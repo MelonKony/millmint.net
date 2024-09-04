@@ -23403,6 +23403,119 @@ Ascension is home to around 14,000 people, most of whom work for or are associat
 	</item>
 	
 	<item>
+	  <title>Assembly Language</title>
+	  <link>/factbook/society/technology/common-assembly-language/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/technology/common-assembly-language/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Common Assembly Language (commonly Assembly or COMAS) is the common low-level programming language of computers in Vekllei and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.
+Each command is represented by a unique sequence of balanced ternary digits called a trit.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <p><strong>Common Assembly Language</strong> (commonly <em>Assembly</em> or <em>COMAS</em>) is the common low-level programming language of <a href="/computers/">computers</a> in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and around the world. It was established by Bell Electric in 1977 and was developed from prior experimentation with machine code translation as early as the 1940s. It translates low-level instructions addressed to the processor of an optical-electric computer into an alphabet mnemonic system more easily understood by humans.</p>
+<p>Each command is represented by a unique sequence of balanced ternary digits called a <em>trit</em>. The commands cover basic operation of a computer, including arithmetic, data allocation, control flow and logical operations. These trits represent one of three states, which in optical computing can be executed in parallel:</p>
+<ul>
+<li><code>+</code>: positive, otherwise represented as <code>+1</code></li>
+<li><code>o</code>: zero, otherwise represented as <code>0</code></li>
+<li><code>-</code>: negative, otherwise represented as <code>-1</code></li>
+</ul>
+<p>The following table lists the common commands of mnemonic Assembly and its equivalent machine-code representation as trits.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Assembly Command</strong></th>
+<th><strong>Mnemonic</strong></th>
+<th><strong>Trit Representation</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Add</strong></td>
+<td><code>ADD</code></td>
+<td><code>+++</code></td>
+</tr>
+<tr>
+<td><strong>Subtract</strong></td>
+<td><code>SUB</code></td>
+<td><code>---</code></td>
+</tr>
+<tr>
+<td><strong>Move</strong></td>
+<td><code>MOV</code></td>
+<td><code>+--</code></td>
+</tr>
+<tr>
+<td><strong>Load</strong></td>
+<td><code>LOD</code></td>
+<td><code>-+-</code></td>
+</tr>
+<tr>
+<td><strong>Store</strong></td>
+<td><code>STO</code></td>
+<td><code>--+</code></td>
+</tr>
+<tr>
+<td><strong>Jump</strong></td>
+<td><code>JMP</code></td>
+<td><code>+0+</code></td>
+</tr>
+<tr>
+<td><strong>Jump if Zero</strong></td>
+<td><code>JIZ</code></td>
+<td><code>0++</code></td>
+</tr>
+<tr>
+<td><strong>Jump if Negative</strong></td>
+<td><code>JIN</code></td>
+<td><code>0--</code></td>
+</tr>
+<tr>
+<td><strong>And</strong></td>
+<td><code>AND</code></td>
+<td><code>+-+</code></td>
+</tr>
+<tr>
+<td><strong>Or</strong></td>
+<td><code>OR</code></td>
+<td><code>0+0</code></td>
+</tr>
+<tr>
+<td><strong>Not</strong></td>
+<td><code>NOT</code></td>
+<td><code>0-0</code></td>
+</tr>
+<tr>
+<td><strong>Increment</strong></td>
+<td><code>INC</code></td>
+<td><code>00+</code></td>
+</tr>
+<tr>
+<td><strong>Decrement</strong></td>
+<td><code>DEC</code></td>
+<td><code>00-</code></td>
+</tr>
+<tr>
+<td><strong>Compare</strong></td>
+<td><code>CMP</code></td>
+<td><code>+0-</code></td>
+</tr>
+<tr>
+<td><strong>No Operation</strong></td>
+<td><code>NOP</code></td>
+<td><code>000</code></td>
+</tr>
+</tbody>
+</table>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Atlantic</title>
 	  <link>/factbook/society/industry/private/atlantic-store/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -25981,7 +26094,7 @@ The bureau also owns the National Construction House (NCH), the largest construc
 	  </author>
 	  <description>
 	  <![CDATA[This bureau is part of the Ministry of the Commons The Bureau of Rail maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across Vekllei republics, it is among the largest of the transport bureaus.
-In addition to rail planning, safety and regulation, the bureau also controls Rail as an independent commission, for which it fulfils a general executive and advisory role.]]>
+In addition to rail planning, safety and regulation, the bureau also controls CommRail as an independent commission, for which it fulfils a general executive and advisory role.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
@@ -25989,7 +26102,7 @@ In addition to rail planning, safety and regulation, the bureau also controls Ra
 </blockquote>
 
 <p>The <span class="fi fi-min-commons fis"></span> <strong>Bureau of Rail</strong> maintains and regulates the rail industry in Vekllei. Because of the ubiquity and importance of rail across <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> <a href="/republics">republics</a>, it is among the largest of the transport bureaus.</p>
-<p>In addition to rail planning, safety and regulation, the bureau also controls <a class="slink" style="color: rgb(255, 86, 79); background: color-mix(in srgb, rgb(255, 86, 79) 10%, transparent);" href="/factbook/society/industry/state/rail/"><span class="fi fi-min-rail fis"></span> Rail</a> as an independent commission, for which it fulfils a general executive and advisory role.</p>
+<p>In addition to rail planning, safety and regulation, the bureau also controls <a class="slink" style="color: rgb(255, 86, 79); background: color-mix(in srgb, rgb(255, 86, 79) 10%, transparent);" href="/factbook/society/industry/state/rail/"><span class="fi fi-min-rail fis"></span> CommRail</a> as an independent commission, for which it fulfils a general executive and advisory role.</p>
 <p>Including VNR, the Bureau of Rail is consequently one of the largest rail transport organisations in the world, rivalling much larger countries with the density and ubiquity of Vekllei track. Almost every Vekllei republic maintains some kind of rail service, ranging from miniature trams and industrial sidings to bullet trains and maglevs.</p>
 <blockquote class="note panel">
   <span class="text"><h2 id="executive-council">
@@ -26050,7 +26163,7 @@ In addition to rail planning, safety and regulation, the bureau also controls Ra
   <a class="anchor" href="#boards--commissions">#</a>
 </h2>
 <ul>
-<li><strong><a class="slink" style="color: rgb(255, 86, 79); background: color-mix(in srgb, rgb(255, 86, 79) 10%, transparent);" href="/factbook/society/industry/state/rail/"><span class="fi fi-min-rail fis"></span> Rail</a></strong>: National rail company and service operator.</li>
+<li><strong><a class="slink" style="color: rgb(255, 86, 79); background: color-mix(in srgb, rgb(255, 86, 79) 10%, transparent);" href="/factbook/society/industry/state/rail/"><span class="fi fi-min-rail fis"></span> CommRail</a></strong>: National rail company and service operator.</li>
 <li><strong>Passenger Amenities Committee</strong>: Advisory board for passenger comfort and satisfaction.</li>
 </ul>
 </span>
@@ -29406,6 +29519,491 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	</item>
 	
 	<item>
+	  <title>Commonwealth Post</title>
+	  <link>/factbook/society/industry/state/post/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/industry/state/post/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the industry series of articles Overview # Commonwealth Post State Corporation of Vekllei Parent Ministry of Culture Bureau Bureau of Post & Telecommunications Industry Postal service Headquarters Oslola Founded 1422 Employees 58,200 Traded as GAF Accounted Revenue AK ✾ 44.6 billion S.c.L. The Commonwealth Postal Service (commonly known as Commonwealth Post or the Post) is the national postal carrier of Vekllei. It handles almost all postage in the country, and delivers nearly 50 million pieces of mail daily.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
+</blockquote>
+
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/post.svg);"></span> Commonwealth Post</th>
+	</tr>
+
+	
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="/svg/logos/post.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-culture)" href="/ministry-of-culture/"><span class="fi fi-min-culture fis"></span> Ministry of Culture</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-culture)" href="/bureau-of-post-and-telecommunications/"><span class="fi fi-min-culture fis"></span> Bureau of Post & Telecommunications</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Industry</th>
+		<td>Postal service</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Founded</th>
+		<td>1422</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Employees</th>
+		<td>58,200</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/commsec/">Traded as</a></th>
+		<td><span class="fi fi-min-commsec fis"></span> GAF</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;"><a href="/bulletin/accounted-revenue/">Accounted Revenue</a></th>
+		<td>AK ✾ 44.6 billion</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.c.L.</td>
+	</tr>
+	
+
+	
+
+	
+</table>
+<p>The <span class="fi fi-min-post fis"></span>  <strong>Commonwealth Postal Service</strong> (commonly known as <em>Commonwealth Post</em> or <em>the Post</em>) is the national postal carrier of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It handles almost all postage in the country, and delivers nearly 50 million pieces of mail daily. The Post is one of the oldest institutions of its kind in Vekllei, and its history can be traced to the founding of the Royal Mail Corporation in 1422 in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, when it served as a courier system between the Oslolan Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and was reformed in the postwar period to provide a variety of services available to all Commonwealth residents.</p>
+<p>Next to <a class="slink" style="color: rgb(245, 60, 89); background: color-mix(in srgb, rgb(245, 60, 89) 10%, transparent);" href="/factbook/society/industry/state/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a>, the Post is perhaps Vekllei&rsquo;s most visible organisation overseas. For many foreigners, Commonwealth Post cargo aircraft may be the closest they ever come to seeing the obscure Atlantic country for themselves. For Vekllei residents, the historic organisation is a living relic of the country&rsquo;s diverse and ancient history, and its evolution as a company reflects Vekllei&rsquo;s own development under the historic kingdoms, colonial occupation, and federal independence.</p>
+<p>Today, the Post is headquartered in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and Vekllei&rsquo;s General Post Office. There are over 6,400 post offices across Vekllei today, connecting all 68 of its far-flung <a href="/republics/">republics</a>. Oslola is also home to the <a class="slink" style="color: rgb(76, 146, 219); background: color-mix(in srgb, rgb(76, 146, 219) 10%, transparent);" href="/factbook/world/countries/un/"><span class="fi fi-un"></span> United Nations</a> Universal Postal Union, the body responsible for coordinating international postage.</p>
+<h2 id="history">
+  History
+  <a class="anchor" href="#history">#</a>
+</h2>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-02-01-mail/">The Men and Women of the Royal Mail in Vekllei</a></em></span>
+</blockquote>
+
+<p>Although most Vekllei republics have had independent or foreign postal services throughout their histories, the Post as a continuous institution was founded in 1422 by the Desimou VII, King of <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, in the late Period of Rest. During this time, the lords of Oslola had established significant mercantile holdings across the North Atlantic, and had developed reliable systems of trade throughout Ireland and <a class="slink" style="color: rgb(200, 16, 47); background: color-mix(in srgb, rgb(200, 16, 47) 10%, transparent);" href="/factbook/world/countries/denmark/"><span class="fi fi-dk"></span> Denmark</a>. The Royal Mail of Oslola was first established as a royal communications organ that sought to ensure stability of Desimou rule across its North Atlantic Empire. In this period, the Mail consisted of a handful of messengers attached to the feudal military apparatus of the Vekllei monarchy.</p>
+<p><figure>
+  <a href="/images/fairie.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/fairie_hu95b9c2141bdf0b9c20f506985de49298_280781_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/fairie.jpg"alt="Picture of mail seaplane" title="An MS Model 54-2 *Fairie*, used to deliver mail to Vekllei&#39;s islands and islets | *[The Fairie](/posts/2021-02-03-fairie/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>An MS Model 54-2 <em>Fairie</em>, used to deliver mail to Vekllei&rsquo;s islands and islets | <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em></figcaption>
+</figure></p>
+<p>The Royal Mail would not come to resemble a conventional civilian postal service until 1652, when the Kingdom expanded postal contracts to the privy councils of the <a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a> and <a class="slink" style="color: rgb(39, 126, 72); background: color-mix(in srgb, rgb(39, 126, 72) 10%, transparent);" href="/factbook/world/vekllei/arctic/kala/"><span class="fi fi-kala"></span> Kala</a> territories. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Oslolans, and the Mail came to resemble its contemporary mandate. During Oslola&rsquo;s colonisation as part of the British Atlantic Territories, it operated as the Royal Mail Service, a name it retained in independence.</p>
+<p>The Commonwealth Postal Service was established in 2015, at the founding of the 2nd Vekllei Federal Republic and 4th Commonwealth. It consolidated existing mail services across the republics, and replaced British services that operated during occupation. In 2017, the first year of independence, Mi Miou was elected as the world&rsquo;s first female Postmistress General. The postwar period of the Post has been marked by a rapid expansion of services in Vekllei and abroad. World Post, the international for-profit arm of the Post, was established in 2034.</p>
+<h3 id="structure">
+  Structure
+  <a class="anchor" href="#structure">#</a>
+</h3>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-02-02-postmistress/">The Postmistress of Vekllei</a></em></span>
+</blockquote>
+
+<p>Commonwealth Post is a constituent corporation of the , which is part of the federal <a class="slink"  style="color: var(--color-culture); background: color-mix(in srgb, var(--color-culture) 10%, transparent);" href="/factbook/society/state/government/ministries/culture/"><span class="fi fi-min-culture fis"></span> Ministry of Culture</a>. As is typical of state monopolies in Vekllei, the Post is vertically integrated, and the majority of its contract work is consolidated directly into its organisation.</p>
+<p>The Post has two offices of administration: the General Office and the Office of the Postmistress, which are responsible for daily operations and interdepartmental administration respectively.</p>
+<details open>
+<summary>Commonwealth Post</summary>
+<ul>
+<li><strong>Department of Postal Services</strong>
+<ul>
+<li>General Post Office
+<ul>
+<li>Office of Personnel</li>
+<li>Office of Policy &amp; Planning</li>
+</ul>
+</li>
+<li>Office of Postage</li>
+<li>Office of Special Postage</li>
+<li>Office of Financial Services</li>
+<li>Office of Parcel Services</li>
+<li>Commonwealth Postal Chapel</li>
+<li>Service Assurance Office</li>
+</ul>
+</li>
+<li><strong>Overseas Service Department</strong>
+<ul>
+<li>World Post Company</li>
+<li>Universal Express Company</li>
+</ul>
+</li>
+<li><strong>Department of Communications</strong>
+<ul>
+<li>Office of Research</li>
+<li>Commonwealth Post Press
+<ul>
+<li><em>Commonwealth Postal Bulletin</em></li>
+<li>Materials Manufacturie</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Department of Company Infrastructure</strong>
+<ul>
+<li>Office of Lines</li>
+<li>Office of Post Boxes</li>
+<li>Office of Vehicles</li>
+</ul>
+</li>
+<li><strong>Office of the Postmistress</strong>
+<ul>
+<li>Postal Commission</li>
+<li>General Inspectorate</li>
+<li>Post Democracy Office</li>
+</ul>
+</li>
+<li><strong>Postal Inspection Service</strong>
+<ul>
+<li>Postal Police Service</li>
+<li>Documents Laboratories</li>
+<li>Fingerprints Laboratories</li>
+<li>Chemistry Laboratories</li>
+<li>Biology Laboratories</li>
+</ul>
+</li>
+</ul>
+</details>
+<h2 id="services">
+  Services
+  <a class="anchor" href="#services">#</a>
+</h2>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em></span>
+</blockquote>
+
+<p>Commonwealth Post offers universal service to Vekllei people, delivering all postage anywhere in the world or, indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral territories. The Post&rsquo;s first lunar post office opened in 2059. In addition to its domestic monopoly, the Post contributes nearly VK❦ 2.6 trillion each year towards the Commonwealth Sovereign Wealth Corporation through its international postage and courier services abroad, under the name World Post.</p>
+<p><figure>
+  <a href="/images/stamps.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/stamps_hu6a8887bc74fe172cf9de627a9d39ccab_344846_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/stamps.jpg"alt="Picture of Tziopra with her stamp collection" title="[Tzipora](/characters/tzipora) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption><a href="/characters/tzipora/">Tzipora</a> arranges some of her favourite Vekllei stamps | <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em></figcaption>
+</figure></p>
+<h3 id="daily-service">
+  Daily Service
+  <a class="anchor" href="#daily-service">#</a>
+</h3>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-02-05-mailtrain/">Racing the Post Office to the Station</a></em></span>
+</blockquote>
+
+<p>The Post aims to provide next-day delivery during weekdays in zero-code (republic) regions. Overnight delivery is also generally available between larger Commonwealth <a href="/republics/">republics</a>. Most Lunar territories are available on Mondays and Fridays, and other territories are available according to the Post&rsquo;s region table.</p>
+<p>Although Vekllei people do not pay to post items, stamps are affixed with coloured squares called <em>chromacodes</em> which are used in the automatic sorting machines common in the country. International postage uses traditional stamps with price listed, and franking is used for tracking and identification.</p>
+<h3 id="special-delivery">
+  Special Delivery
+  <a class="anchor" href="#special-delivery">#</a>
+</h3>
+<p>Special, commercial and industrial postage is managed by the Office of Special Postage through certain sorting facilities and a dedicated postal network. Regular business post is funnelled through regular daily service, but hazardous, oversized and dangerous goods are accepted by special post offices able to accept them. The Post does not provide special services for regular residential or courier delivery.</p>
+<h3 id="international-service">
+  International Service
+  <a class="anchor" href="#international-service">#</a>
+</h3>
+<p>Commonwealth Post is best known overseas as the <strong>World Post</strong>, which offers services for foreign customers. Like domestic postal systems in other countries, the World Post offers flat rates for delivery anywhere in the world, priced according to size and weight. In addition, its sister company <strong>Universal Express</strong> offers next-day weekday delivery in certain markets. Most employees of the World Post and Universal Express are foreign workers paid a regular salary or banking labour-hours for immigration to Vekllei. Unlike domestic service, the World Post and Universal Express often use private courier contracts to fulfil orders.</p>
+<h3 id="finance">
+  Finance
+  <a class="anchor" href="#finance">#</a>
+</h3>
+<p>Postal banking is accessible via the <a class="slink" style="color: rgb(240, 93, 136); background: color-mix(in srgb, rgb(240, 93, 136) 10%, transparent);" href="/factbook/society/industry/state/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a> through the Post&rsquo;s Financial Services Office. These serve an important role in financial management for immigrant populations, facilitating money transfers and overseas accounting.</p>
+<h3 id="telecommunications">
+  Telecommunications
+  <a class="anchor" href="#telecommunications">#</a>
+</h3>
+<p><a class="slink" style="color: rgb(249, 63, 40); background: color-mix(in srgb, rgb(249, 63, 40) 10%, transparent);" href="/factbook/society/industry/state/cosma/"><span class="fi fi-min-cosma fis"></span> Cosma</a> is Vekllei&rsquo;s largest telecommunications company, and has deep ties to Commonwealth Post. It was founded as part of the Royal Mail in the 20th Century, but was spun off as an independent company upon the Post&rsquo;s reincorporation in 2015. They retain close corporate ties, and joint services like phone franking and dial-a-letter have demonstrated the value of close cooperation between the Vekllei postal and telecommunications industries.</p>
+<h2 id="operations">
+  Operations
+  <a class="anchor" href="#operations">#</a>
+</h2>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em></span>
+</blockquote>
+
+<p>In addition to being one of the oldest active postal organisations in the world, Commonwealth Post is among the busiest, since physical post has scarcely been displaced by the telephone in the country. Even without the Post&rsquo;s international services, domestic mail each day can exceed 12 million pieces &ndash; enough for 1 in 2 people, including commercial mail and periodicals.</p>
+<p><figure>
+  <a href="/images/manufacturie.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/manufacturie_hu59b1a1ddc9492e5eacf98ad3c9a36c31_354503_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/manufacturie.jpg"alt="Picture of mail-owned manufacturing plant" title="Outdoor view of the Post&#39;s stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>Outdoor view of the Post&rsquo;s stamp printing complex. | <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em></figcaption>
+</figure></p>
+<p>As is typical for <a href="/state-industry/">government-owned corporations</a> in Vekllei, the Post alleviates the pressure of daily service through its vertically-integrated infrastructure improved by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Post so visible in daily life, and contributes to its ongoing cultural relevance among Vekllei people.</p>
+<h3 id="staff">
+  Staff
+  <a class="anchor" href="#staff">#</a>
+</h3>
+<p><figure>
+  <a href="/images/sketches/post.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/sketches/post_hu563941aed291d51a3ead29dd477791ac_351079_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/sketches/post.jpg"alt="smallimg" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   
+</figure></p>
+<p>Commonwealth Post employs 58,200 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Post does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Most Vekllei people are served by post offices rather than home delivery.</p>
+<p>The majority of Post employees are involved in the running of the organisation &ndash; mostly as clerks, engineers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called &ldquo;posties&rdquo;. There are around 8,000 postal routes in the country.</p>
+<p>Although at first glance the number of automen dramatically exceeds demand, the total count is misleading &ndash; most automen with the company are integrated into the infrastructure of its sorting centres and post offices, and very few are traditionally autonomous robots commonly seen in public in Vekllei. Only about 8,000 automen are employed in physical mail delivery.</p>
+<p>There are 16,220 post boxes in Vekllei, which are iconic for their red and gold paint and intricate detailing.</p>
+<h3 id="fleet">
+  Fleet
+  <a class="anchor" href="#fleet">#</a>
+</h3>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em></span>
+</blockquote>
+
+<p>The unique challenges of Vekllei&rsquo;s disparate and diverse geography have necessitated a unique inventory of vehicles, some of which have became iconic in Vekllei and overseas. From bicycles to space planes, the Post&rsquo;s fleet of machines rivals postal services three times its size in diversity.</p>
+<details open>
+ <summary>The Royal Mail Fleet</summary>
+<ul>
+<li><strong>Postal Services</strong>
+<ul>
+<li>8,000 delivery automen</li>
+<li>5,200 motorcycles <em>(mostly Local Electric Model 15 &amp; Phantoms)</em></li>
+<li>2,400 bicycles</li>
+<li>2,000 automatic vans</li>
+<li>1,200 postal trucks</li>
+<li>31 postal boats <em>(MBR)</em></li>
+<li>20 postal flying boats <em>(Model 54 &ldquo;Fairie&rdquo;)</em></li>
+<li>36 postal helijets <em>(Model RM/Gisma &amp; Record types)</em></li>
+<li>24 postal trains <em>(RM Series/Series 225 EMU)</em></li>
+<li>80 postal trams <em>(Series T6)</em></li>
+<li>2 postal space planes <em>(G.A. Type 1)</em></li>
+<li>2 postal ships <em>(RMS</em> Atlantic <em>&amp;</em> Sunburst <em>)</em></li>
+</ul>
+</li>
+<li><strong>Overseas Services</strong>
+<ul>
+<li>World Post Company
+<ul>
+<li>250 mail trucks</li>
+<li>52 cargo jets <em>(Model RM/Type 56C)</em></li>
+<li>6 flying boats</li>
+</ul>
+</li>
+<li>Universal Express Company
+<ul>
+<li>4 cargo jets <em>(Model ERM/C.A. Type 6 supersonic)</em></li>
+<li>2 mail trucks</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Office of the Postmistress</strong>
+<ul>
+<li>1 executive mail train <em>(Series 4000 EMU)</em></li>
+</ul>
+</li>
+</ul>
+</details>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Commonwealth Public Press</title>
 	  <link>/factbook/society/state/government/ministries/commonwealth/commonwealth-public-press/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -29818,6 +30416,503 @@ Departments of the Treasury inform the monetary policy established by the Common
 	</item>
 	
 	<item>
+	  <title>CommRail</title>
+	  <link>/factbook/society/industry/state/rail/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/industry/state/rail/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Part of the industry series of articles This article discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei&rsquo;s state assets and powerful bureaus shape life in the country today.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/orange.jpg"/> <blockquote class="note series">
+  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><strong>This article</strong> discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei&rsquo;s state assets and powerful bureaus shape life in the country today.</span>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/rail.svg);"></span> Commonwealth National Rail</th>
+	</tr>
+
+	
+	<tr>
+		<td colspan="2">
+			<img style="height: 5rem; background: transparent;" src="/svg/logos/rail.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Parent</th>
+	<td><a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Bureau</th>
+	<td><a style="color: var(--color-commons)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Industry</th>
+		<td>Rail transport</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+	<td style="font-weight: 500; width: 50%;">Headquarters</th>
+	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Founded</th>
+		<td>1855, as the Pharos Rail Company</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Employees</th>
+		<td>65,240</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.A.</td>
+	</tr>
+	
+</table>
+<h2 id="overview">
+  Overview
+  <a class="anchor" href="#overview">#</a>
+</h2>
+<p><span class="fi fi-min-rail fis"></span> <strong>Commonwealth National Rail</strong> (CNR, or <em>CommRail</em>) is a catch-all trademark for national rail operators in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It commonly refers the hundreds of municipal transport companies operating under CommRail administration, which together make up a public monopoly on rail transport in the country.</p>
+<p>Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.</p>
+<p>Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the <a class="slink" style="color: var(--color-commons); background: color-mix(in srgb, var(--color-commons) 10%, transparent);" href="/factbook/society/state/government/ministries/commons/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a>.</p>
+<h3 id="introduction">
+  Introduction
+  <a class="anchor" href="#introduction">#</a>
+</h3>
+<p>Since nationalisation of the private Vekllei rail companies in 1925, the structure and reach of Vekllei National Rail has changed several times. Operated as a for-profit enterprise at a historical loss, the National Rail&rsquo;s history of service is reflected in the variety of trains and track gauges it maintains.</p>
+<p>Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island&rsquo;s history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.</p>
+<p><figure>
+  <a href="/images/railmap.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/railmap_hu222b08ad47ecef671ed1b6faddd45dcb_2288326_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/railmap.jpg"alt="Map of rail networks in Oslola" title="A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | <em><a href="/posts/2020-06-14-map/">100 Boroughs</a></em></figcaption>
+</figure></p>
+<p>Similarly, almost all freight is run along rails of varying gauges. These range from conventional freight trains at standard gauge, to municipal delivery trains at metre guage, and even narrow gauges for moving freight and equipment within large factory complexes. Most major stores and grocers are arranged along freight lines with dedicated sidings, or have their own narrow-gauge tracks dedicated to their use.</p>
+<p>Unusually, Vekllei National Rail is legally absolved of all non-rail transport, and possesses no busses or ferries for public use, which are operated and maintained by dedicated adjacent bureaus.</p>
+<h3 id="history">
+  History
+  <a class="anchor" href="#history">#</a>
+</h3>
+<p>Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company.</p>
+<p>The history of rail in Vekllei can be summarised in three key eras of development.</p>
+<blockquote>
+<ul>
+<li><strong>Early Development and expansion</strong>, from early service in 1855.</li>
+<li><strong>Late Junta/Prewar nationalisation</strong>, from nationalisation in 1925.</li>
+<li><strong>Postwar refounding and development</strong>, since independence in 2015.</li>
+</ul>
+</blockquote>
+<p>Since the foundation of VNR after nationalisation, rail in Vekllei has seen the scale of its passenger rail networks quadruple in size. It is internationally regarded for its safety and reliability.</p>
+<h4 id="early-development">
+  Early Development
+  <a class="anchor" href="#early-development">#</a>
+</h4>
+<p>The first railways in Vekllei developed alongside its ports, as Vekllei&rsquo;s position as an intermediary free port between Europe and the Americas rapidly developed Vekllei&rsquo;s industrial base. Although the earliest internal rail wagons were pulled by horses, primitive steam locomotives had modernised most ports by the early 19th Century.</p>
+<p>The first passenger rail line opened in 1855 between <a href="/factbook/landscape/boroughs/pharos/">Pharos</a> and the present-day borough of Little Vekllei to alleviate the expense of moving goods from the <a href="/factbook/landscape/boroughs/pharos/#port-of-pharos">Port of Pharos</a> to established settlement further inland. The original line was only a few kilometres long, but was extended in 1858 and again in 1872. By this time, several other lines had been established under private rail companies, including passenger services between Vekllei Proper and Little Vekllei, as well as the beginnings of the Montre-Vekllei Railroad.</p>
+<p>By the beginning of the 20th Century, Vekllei had a half-dozen major railroad companies, and dozens other limited/local services provided by private operators or their municipality. This saw a massive increase in both the movement of freight and ridership, and helped entrench Vekllei&rsquo;s position as a stopover port city for transatlantic freight and passage.</p>
+<h4 id="nationalisation">
+  Nationalisation
+  <a class="anchor" href="#nationalisation">#</a>
+</h4>
+<p>The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC).</p>
+<p>The centralisation of Vekllei rail accompanied standardisation of its commuter track gauge, which improved travel times across the country. The VNC period was characterised by reliable investment and a commitment to modernisation of rail in the country. By the late 20th Century, the Vekllei Metropolitan Underground was widely regarded as one of the most beautiful subway systems in the world.</p>
+<p>In the late 1980s, VNC started work on what would eventually become the Vekllei-Montre bullet train. The programme overran its cost estimates and was delayed several times, and was not completed until 2004, shortly before the Atomic War.</p>
+<h4 id="postwar-development">
+  Postwar Development
+  <a class="anchor" href="#postwar-development">#</a>
+</h4>
+<p>National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. The Floral Period has been marked by steady growth in ridership and the scale of its network. The organisation also invests heavily into the development of new locomotives and EMUs, culminating in 2047 with the announcement of the Vekllei East Coast Maglev Scheme, which are the fastest commuter trains in the world.</p>
+<p><figure>
+  <a href="/images/shrine-minded.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/shrine-minded_hue80a575b8021bcf65ad6e8ad74e21744_389737_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/shrine-minded.jpg"alt="Map of a train pulling into a windy coastal village" title="A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>A Lesvesn 59-Series EMU arrives in the village of Cult | <em><a href="/posts/2021-05-06-shrine-minded/">Shrine-Minded Girls</a></em></figcaption>
+</figure></p>
+<p>In 2055, VNR celebrated &ldquo;250 years of rail,&rdquo; and its livery and staff uniforms were overhauled to mark the occasion.</p>
+<p>Today, VNR represents the sole means of medium/long-distance transport for over 80% of Vekllei commuters, indicating its continuous status as a monopoly of travel, not just rail, in the country.</p>
+<h3 id="structure">
+  Structure
+  <a class="anchor" href="#structure">#</a>
+</h3>
+<p>Vekllei National Rail is an organ of the Transport Requisite of the Vekllei Government (A.r.R., or <em>requoisesiasn amourisocietie resmesnghet</em>) as several individual state requisite bureaus, which in turn are charged with different transport companies. Although its structure in Vekllei might be analogous to a government ministry abroad, it functions in practice more like a state-owned enterprise with private subsidiaries. It is not a state-run corporation, and maintains seperate accounting.</p>
+<p>Vekllei National Rail is administered through three State Requisites: the Vekllei National Rail itself including all regular operations and rail service, the National Rail Insurance Scheme which finances construction through Government White Bonds, and the Rail Safety Commission.</p>
+<details open>
+<summary>Organisational Chart of VNR</summary>
+<blockquote class="note panel">
+  <span class="text">Responsible to the <a href="/factbook/society/state/government/interior/transport/#national-railways-bureau">Railways Bureau</a> of the <a href="/factbook/society/state/government/interior/transport">Ministry of Transport</a></span>
+</blockquote>
+
+<ul>
+<li><strong>Vekllei National Rail</strong>
+<ul>
+<li>National Rail
+<ul>
+<li>Vekllei National Railways A.r.R.
+<ul>
+<li>VNR Atlantic</li>
+<li>VNR Kala</li>
+<li>VNR Overseas</li>
+</ul>
+</li>
+<li>Vekllei National Magways A.r.R.</li>
+<li>Vekllei Metro A.r.R.</li>
+<li>Government Railroads R.S.</li>
+<li>Vekllei Freight S.A.</li>
+</ul>
+</li>
+<li>Railway Police Office</li>
+<li>Office of Steam</li>
+<li>Office of Electrification</li>
+<li>Nuclear-Electric Rail Commission</li>
+<li>Private Railcar Commission</li>
+</ul>
+</li>
+<li><strong>Vekllei Industrial Rail</strong>
+<ul>
+<li>National Freight</li>
+<li><a href="/mail/">Royal Mail</a> Railway Holdings</li>
+</ul>
+</li>
+<li><strong>Railroad Democracy Hall</strong>
+<ul>
+<li>VK Rail Chapel</li>
+<li>Public Rail Chapel</li>
+</ul>
+</li>
+<li><strong>Vekllei National Rail Press Bureau</strong>
+<ul>
+<li><strong>Vekllei Rail Press</strong>
+<ul>
+<li><em>Vekllei Rail Transport Journal</em>
+<ul>
+<li><em>Locomotive</em> Magazine</li>
+</ul>
+</li>
+<li>Rail Periodicals Office</li>
+<li>Friends of Rail Office</li>
+</ul>
+</li>
+<li>Public Relations Office</li>
+<li>Industrial Relations Office</li>
+</ul>
+</li>
+<li><strong>Vekllei National Rail Municipal Land Company S.A.</strong></li>
+<li><strong>Vekllei National Rail Construction House</strong></li>
+<li><strong>Railway Laboratories of Vekllei</strong>
+<ul>
+<li>Senrouive House Office</li>
+<li>Company House Office</li>
+</ul>
+</li>
+<li><strong>National Rail Insurance Scheme A.r.R.</strong></li>
+<li><strong>Passenger Accounting</strong></li>
+<li><strong>Rail Democracy Office</strong></li>
+<li><strong>Rail Safety Commission</strong></li>
+<li><strong>Track Safety Vekllei</strong></li>
+<li><strong>Passenger Safety Vekllei</strong>
+<ul>
+<li>Platform Investigation Office</li>
+<li>Carriage Investigation Office</li>
+<li>Incident Investigation Office</li>
+</ul>
+</li>
+</ul>
+</details>
+<h2 id="service">
+  Service
+  <a class="anchor" href="#service">#</a>
+</h2>
+<blockquote class="note panel">
+  <span class="text"><strong>Since most Vekllei people</strong> catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated &ldquo;companies&rdquo; in Vekllei.</span>
+</blockquote>
+
+<p>Access to public transport is considered a &ldquo;critical luxury&rdquo; of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei&rsquo;s public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.</p>
+<p><figure>
+  <a href="/images/hollywood.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+
+      
+      
+      
+
+      <img class="rcf-image lazyload show-if-js"
+        data-srcset="/images/hollywood_hubffc61bf485072eb2f574de319100091_343421_680x0_resize_q90_h2_box.webp 1x"
+        src="/images/hollywood.jpg"alt="Image of kids making a film in front of a rail line and factory" title="A Mustard 56-Series passes a steam processing plant | *[Gone Hollywood](/stories/hollywood/)*" 
+        loading="lazy"
+      />
+
+      </a>
+
+
+  
+   <figcaption>A Mustard 56-Series passes a steam processing plant | <em><a href="/stories/hollywood/">Gone Hollywood</a></em></figcaption>
+</figure></p>
+<p>Rail transport contributes tremendously to the national culture and common affection for Vekllei&rsquo;s public institutions. It is also commonly percieved as a triumph of the postwar floral Period, despite rail history in Vekllei dating back hundreds of years prior. The ongoing expansion of the VNR network and renovation of stations and railhubs commands attention internationally, which is watching Vekllei celebrate its golden age of rail.</p>
+<h3 id="national-rail">
+  National Rail
+  <a class="anchor" href="#national-rail">#</a>
+</h3>
+<p>National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas <a class="slink" style="color: rgb(39, 126, 72); background: color-mix(in srgb, rgb(39, 126, 72) 10%, transparent);" href="/factbook/world/vekllei/arctic/kala/"><span class="fi fi-kala"></span> Kala</a> is served by VNR Overseas. The Home Islands house thousands of rural villages outside of urban metropolitan service, and Vekllei&rsquo;s dependence on rail transportatiion demands their inclusion in the VNR network. As such, almost every village in Vekllei has a rail line or interurban tramway, and villages as small as 20 persons see daily service to the capital.</p>
+<h3 id="metropolitan-service--subways">
+  Metropolitan Service &amp; Subways
+  <a class="anchor" href="#metropolitan-service--subways">#</a>
+</h3>
+<p>The majority of VNR&rsquo;s ~10,000 trains per day run in metro or subway services throughout Vekllei urban and interurban routes. These lines are primarily serviced by the EMU workhorses of the VNR fleet, particularly 56 and 59-Series trainsets. In urban centers, VNR service is frequent enough to be unscheduled, with trains arriving every other minute or so.</p>
+<p>The majority of Vekllei&rsquo;s underground metro network has been automated by Automatic Train Control, an industrial automan system that allows for driverless trains. Although still serviced by VNR platform staff with training to stop the train in emergencies, Vekllei&rsquo;s automatic metros are otherwise entirely driverless. VNR Overseas metros in Kala and the Kalina Isles retain drivers.</p>
+<h3 id="tramways">
+  Tramways
+  <a class="anchor" href="#tramways">#</a>
+</h3>
+<p>Vekllei operates a variety of trams and streetcars, including double-decker street-level units in the capital region and so-called &ldquo;fast trams&rdquo; (inter-urban cars) outside of the cities. Depending on the make and route of the tramway, they may be grade-seperated or integrated into streets. Their ubuquity in urban areas has caused observers to regard them as the principle method of transport in the country, second only to the bicycle.</p>
+<h3 id="freight">
+  Freight
+  <a class="anchor" href="#freight">#</a>
+</h3>
+<p>VNR&rsquo;s main freight lines run mostly on a seperate gauge and network, and are composed of several companies that operate regionally across a variety of locomotive types and industries. These include traditional freight locomotives and long/short cars, as well as freight trams and wagons used to transport goods around and between factories.</p>
+<h2 id="operations">
+  Operations
+  <a class="anchor" href="#operations">#</a>
+</h2>
+<blockquote class="note link">
+  <span class="text">✿ Read more: <em><a href="/posts/2021-06-01-station-logic/">Station Logic</a></em></span>
+</blockquote>
+
+<blockquote class="note panel">
+  <span class="text"><strong>VNR</strong> is typical of a &lsquo;great Vekllei bureau&rsquo; &ndash; it instills national pride, is well-run and maintained, and loses tremendous amounts of money. It is the crown jewel of Vekllei&rsquo;s insolvent organs, whose thin profit margins and charming inefficiencies are tolerated and even encouraged in this society which subsidises social benefit above all else.</span>
+</blockquote>
+
+<p>Nearly 17 million people per day commute via VNR&rsquo;s networks each day, making up a majority of the Vekllei population. In this sense, VNR&rsquo;s quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.</p>
+<p><figure>
+  <a href="/images/images/stationlogic.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      </a>
+
+
+  
+   
+</figure></p>
+<p>VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.</p>
+<p>Vekllei&rsquo;s stations are well-regarded for the beauty and decoration overseas. As part of the Millenia Rail campaign in the mid-21st Century, VNR initiated a dramatic overhaul of its passenger infrastructure, restoring heritage-listed station interiors and renovating much of the early postwar metro construction with murals, new lighting, enlarged caverns and shafts, and improved safety features. The cleanliness and safety of Vekllei National Railway is a great point of pride in the country, and in part justifies VNR&rsquo;s tremendous fiscal losses in daily operation.</p>
+<p>VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.</p>
+<h3 id="staff">
+  Staff
+  <a class="anchor" href="#staff">#</a>
+</h3>
+<p><figure>
+  <a href="/images/images/vnr.jpg"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      </a>
+
+
+  
+   
+</figure></p>
+<blockquote class="note link">
+  <span class="text">✿ Read more: <em><a href="/posts/2021-04-25-rail/">The People of Vekllei National Rail</a></em></span>
+</blockquote>
+
+<p>VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.</p>
+<p>The organisation is administered by the President of the Rail Central Office, which is responsible to the Transport Requisite and the Palace of Rail. VNR has a close relationship with bureau and petty-bureau coachbuilders, and wields considerable power in Vekllei&rsquo;s heavy industries as a major manufacturing partner.</p>
+<h3 id="fleet">
+  Fleet
+  <a class="anchor" href="#fleet">#</a>
+</h3>
+<blockquote class="note ">
+  <span class="text">✿ Download the <span class="smallicon">📄</span> <a href="/files/factbook/VNR-Rolling-Stock-Bulletin.pdf">VNR Rolling Stock List (PDF)</a></span>
+</blockquote>
+
+<p>Vekllei National Rail is perhaps unsurpassed in its variety of trainsets and their length of service. An unofficial policy of preservation has ensured that every unit type since the 1980s has seen an ongoing minor presence in current service. VNR rarely retires a trainset completely &ndash; in keeping with the contemporary cultural-political valuation of machines, a few units of each model are retained on various lines for their historical and technical significance. This includes steam locomotives, which continue to operate regular passengers service on some routes.</p>
+<p>The backbone of the contemporary Vekllei rail fleet is the Electric Multiple Units (EMUs), which are designated by their year of manufacture.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> In particular, the 56 and 59-Series trainsets make up the majority of EMUs in service today, as they exclusively populate primary commuter lines in Vekllei&rsquo;s southwest. VNR also retains Diesel Multiple Units (DMUs) in its long-haul cold-weather routes, particularly in the Afouisneh region and Kala.</p>
+<p>VNR pioneered super-conductive maglev transport for mass consumption, and its SC3 trainsets are the fastest in regular service in the world today, reaching nearly 750km/h in places. Its slowest locomotive, the T400 2-6-2 steam locomotive <em>Small Movements</em> built in 1928, averages just 30km/h on its tourist route in rural Krafla. VNR is also experimenting with nuclear-powered trainsets, but none have so far entered public testing.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Vekllei&rsquo;s &lsquo;war&rsquo; prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word for the Junta&rsquo;s society.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Community of Oceans</title>
 	  <link>/factbook/society/state/oceans-community/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -29902,7 +30997,7 @@ The role of the council is to draw islander and oceangoing nations closer togeth
 </h2>
 <p>There are two types of commercial computing in use in Vekllei.</p>
 <ul>
-<li><strong>Photo-Electric Computers</strong> (PEC), which are electric machines that are capable of parallel arithmetic and logical operations.</li>
+<li><strong>Photo-Electric Computers</strong> (PEC), which are electric machines that are capable of <a href="/factbook/society/technology/computers/#ternary-logic-systems">ternary</a> parallel arithmetic and logical operations.</li>
 <li><strong>Fabricated Live Robotics</strong>, which combine computers with synthetic biological components to unlock adaptive and sensory functions.</li>
 </ul>
 <p>Computing in Vekllei happens at a civic or industrial scale, and rarely interacts with individuals for personal purposes. Most ordinary Vekllei people interact with computers through work or in schools and libraries, where they serve data-lookup and communication purposes. Civilian life in Vekllei is decidedly analogue.</p>
@@ -29910,15 +31005,39 @@ The role of the council is to draw islander and oceangoing nations closer togeth
   Photo-Electric Computing
   <a class="anchor" href="#photo-electric-computing">#</a>
 </h3>
+<blockquote class="note advice">
+  <span class="text">Read more: <a href="/photovolumes/"><em>Photovolumes</em></a></span>
+</blockquote>
+
 <p>All programmable Vekllei computers use photo-electric circuits<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> instead of electric transistors and semiconductors. In a Vekllei photo-electric computer, micro-lasers are produced by a wafer made up of mirrors and a cavity to perform digital computations. In place of silicon transistors are photonic crystals called <em>Syncretic Crystal Mechanisms</em>, which reflect light at different wavelengths and form an optical integrated circuit. Devices called spatial light modulators<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> moderate the intensity and phase of these light beams, which are stored as holograms within a crystal as a form of digital memory. These holographic crystals, called <em>Photovolumes</em>, are able to be written and read in parallel, allowing instant access to records in a networked computer system. Most computers contain a protected archive system that duplicates and write-protects data.</p>
 <p>Because photo-electric computers require large processing elements to facilitate nonlinear computing and its unique signal-processing devices, computers in Vekllei are heavily centralised and are not found in households. Most large industrial and commercial enterprises maintain a single room-sized &lsquo;Master Computer&rsquo; that networks satellite terminals concurrently. Some centralised industries consolidate master computers into a single photo-electric-robotic system (PER) called an Automatic Asset Command. Famous examples are the Automatic Train Control, which automates <a href="/factbook/society/industry/rail/">Vekllei National Rail</a> operations and programmes robots that can automate train service, and the Vekllei State Archives which maintain a written record of all items in several archival Photovolumes, managed by the Archival Master Computer.</p>
 <p>The size, speed and accessibility of data storage in Vekllei means that more data than ever is recorded and preserved, making Vekllei one of the most recorded societies in history. As the site of the Atlantic Telephone and Data Exchange, Vekllei also handles tremendous amounts of trans-Atlantic data regeneration and processing.</p>
+<h3 id="ternary-logic-systems">
+  Ternary Logic Systems
+  <a class="anchor" href="#ternary-logic-systems">#</a>
+</h3>
+<blockquote class="note advice">
+  <span class="text">Main article: <em><a href="/common-assembly-language/">Common Assembly Language</a></em></span>
+</blockquote>
+
+<p>Rather than binary logic, in which a state is interpreted as either true or false by a processor,  Vekllei computers use ternary logic. There are three digits that can represent a state, which are called a trit: as such, there are three trits in Vekllei.</p>
+<ul>
+<li><code>+</code>: positive, otherwise represented as <code>+1</code></li>
+<li><code>o</code>: zero, otherwise represented as <code>0</code></li>
+<li><code>-</code>: negative, otherwise represented as <code>-1</code></li>
+</ul>
+<p>Since Vekllei uses optical computers, its systems are naturally able to interpret three different states. In low-level programming, trits are assigned alphabetic mnemonics for basic functions. Some of these include:</p>
+<pre tabindex="0"><code>ADD → +++
+SUB → ---
+MOV → +--
+JMP → +0+
+</code></pre><p>Optical ternary computers allow simplified and parallel computing, and makes certain arithmetic operations more efficient (especially those involving negative numbers).</p>
 <h3 id="fabricated-live-robotics">
   Fabricated Live Robotics
   <a class="anchor" href="#fabricated-live-robotics">#</a>
 </h3>
-<blockquote class="note link">
-  <span class="text">✿ Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></span>
+<blockquote class="note advice">
+  <span class="text">Read more: <em><a href="/posts/2021-01-11-automen/">Robots in Vekllei</a></em></span>
 </blockquote>
 
 <p>Although processing is usually offloaded to more powerful master computers, Vekllei makes extensive use of organic robotics to automate processes and functions where adaptivity to sensory input is required. These robots, called <em>automasiosn</em> or &lsquo;automen,&rsquo; combine fabricated organic brains with photo-electric circuits to create a programmable, adaptive robot.</p>
@@ -30906,7 +32025,7 @@ The practice was first observed in Algic sagas from the 9th Century, though its 
 <p><span class="fi fi-min-cosma fis"></span>  <strong>Commonwealth Telecom</strong> (better known by its trading name <em>Cosma</em>) is the national telecommunications provider in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It is responsible for providing connection and service to residential and public telephones in the country. It also develops a variety of consumer products including videophones, public phone booths, and personal phones.</p>
 <p>Cosma also maintains telecommunications infrastructure networks internationally through <strong>Cosma Overseas</strong>, including the Oslola-Europe undersea cables and their sister sets between Vekllei and North America. Much of the network dates back over a hundred years, since a shortage of modern personal telephones in Vekllei requires Cosma to maintain a wide variety of voltage and cable standards.</p>
 <p>Commercial, industrial and government telecommunications are managed by a seperate internal department called the <strong>Industrial Telecommunications Office</strong>.</p>
-<p>Cosma was founded as a department of the <a class="slink" style="color: rgb(255, 19, 35); background: color-mix(in srgb, rgb(255, 19, 35) 10%, transparent);" href="/factbook/society/industry/state/post/"><span class="fi fi-min-post fis"></span> Post</a> in 1926, but was spun off into its own company in the postwar period. Today, it serves nearly 22 million customers across Vekllei and abroad. It is headquartered in , which is also the site of the Transatlantic Interchange managed by the company.</p>
+<p>Cosma was founded as a department of the <a class="slink" style="color: rgb(255, 19, 35); background: color-mix(in srgb, rgb(255, 19, 35) 10%, transparent);" href="/factbook/society/industry/state/post/"><span class="fi fi-min-post fis"></span> Commonwealth Post</a> in 1926, but was spun off into its own company in the postwar period. Today, it serves nearly 22 million customers across Vekllei and abroad. It is headquartered in , which is also the site of the Transatlantic Interchange managed by the company.</p>
 ]]>
   	</content:encoded>
 	</item>
@@ -36805,7 +37924,7 @@ Automated small and medium-sized factories are called Lots in Vekllei. They are 
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Oslola is part of the Volcanic Commonwealth Oslola Republic Constituent Republic of Vekllei Part of the Volcanic Commonwealth Capital Oslola Population 8,331,426 Area 103,125 km² Languages Oslolan Algic, English, Oslolan Islandi Vekllei Accession 1836, as part of the British Atlantic Territories The Oslola Republic is a constituent republic of Vekllei in the North Atlantic Ocean. It is the most populous Vekllei republic, and is historically its centre of industry, education and administration.]]>
+	  <![CDATA[Oslola is part of the Volcanic Commonwealth Oslola Republic Constituent Republic of Vekllei Part of the Volcanic Commonwealth Capital Astrolola Population 8,331,426 Area 103,125 km² Languages Oslolan Algic, English, Oslolan Islandi Vekllei Accession 1836, as part of the British Atlantic Territories The Oslola Republic is a constituent republic of Vekllei in the North Atlantic Ocean. It is the most populous Vekllei republic, and is historically its centre of industry, education and administration.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
@@ -36874,7 +37993,7 @@ Automated small and medium-sized factories are called Lots in Vekllei. They are 
 	
 	<tr>
 		<td style="font-weight: 500; width: 50%;">Capital</th>
-		<td>Oslola</td>
+		<td>Astrolola</td>
 	</tr>
 	
 
@@ -37266,6 +38385,125 @@ Automated small and medium-sized factories are called Lots in Vekllei. They are 
 	</item>
 	
 	<item>
+	  <title>Photovolumes</title>
+	  <link>/factbook/society/technology/photovolumes/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/technology/photovolumes/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Computer data in Vekllei is stored in photorefractive crystals known as photovolumes. They are written to (data recorded) and read from (data retrieved) by lasers, which convert the information into electrical signals for use in a computer.
+Photovolumes are remarkable devices comprising many complex components. Since Vekllei computers do not use bitmapped screens, all graphics and images accessed electronically are effectively stored in miniature as holograms inscribed in crystals, called photocrystals.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <p>Computer data in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> is stored in photorefractive crystals known as <em>photovolumes</em>. They are written to (data recorded) and read from (data retrieved) by lasers, which convert the information into electrical signals for use in a computer.</p>
+<p>Photovolumes are remarkable devices comprising many complex components. Since Vekllei computers do not use bitmapped screens, all graphics and images accessed electronically are effectively stored in miniature as holograms inscribed in crystals, called <em>photocrystals</em>. In addition to images, regular <a href="/factbook/society/technology/computers/#ternary-logic-systems/">ternary</a> data can be written and read in parallel, and together form the basic memory components of a Vekllei <a href="/computers/">computer</a>.</p>
+<h2 id="operation">
+  Operation
+  <a class="anchor" href="#operation">#</a>
+</h2>
+<p>Photovolumes can store all kinds of data encoded as light wavelengths, including images. It first has to be recorded (encoded) into a light pattern, usually by projecting the image onto a photosensitive material like laserfilm.</p>
+<p>This is done with a laser beam fired by a device called a <strong>light gun</strong>. It produces a laser that is split with a prism to form two distinct beams with different functions:</p>
+<ul>
+<li><strong>A signal beam</strong>, which is pointed at an object and shines at its surface. This light scatters around and carries information about the object, like its shape, texture and details. This laser shines between the object and the photocrystal recording medium.</li>
+<li><strong>A reference beam</strong>, which is pointed at the photocrystal. This is a clean, unaltered signal.</li>
+</ul>
+<p>When the two beams meet at a superposition, they interfere with each other, which is called an <strong>interference pattern</strong>. This pattern is a complex map of the image (or data) including its shape, texture and details. The pattern encodes the amplitude (brightness) and phase (wave shape) information of the object. This works like a pen and ink, with the <em>reference beam</em> providing a steady flow of unaltered ink and the <em>signal beam</em> shaping it.</p>
+<p><strong>Light interference</strong> occurs where the waves of both beams meet, creating bright spots. <strong>Dark interference</strong> occurs where the waves are misaligned, where the peaks of one amplitude meet the troughs of another, creating dark spots. These light and dark spots are known as <strong>constructive</strong> and <strong>destructive</strong> interference patterns respectively. These light and dark spots affect the photocrystal, and form a pattern that can be read back to reconstruct the data.</p>
+<p>In Vekllei, there are two main types of photocrystal in use in commercial photovolumes:</p>
+<blockquote class="note ">
+  <span class="text"><ul>
+<li><strong>Photorefractive photocrystals</strong> can be read and overwritten over and over again, making them useful to store data that needs to be updated, moved or deleted. There are two kinds of photorefractive photocrystal used in commercial photovolumes in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>:
+<ul>
+<li><em>Lithium Niobate</em> (LiNbO₃), which is more durable and well-suited for the nonlinear optical computing used in Vekllei thanks to its good piezoelectric and photoelectric properties.</li>
+<li><em>Barium Titanate</em> (BaTiO₃), which is more photorefractive and faster to read and write from, at the expense of durability. This is often used as a form of cache in large memory archives.</li>
+</ul>
+</li>
+<li><strong>Photopolymer photocrystals</strong> are written to once before hardening, permanently fixing the data patterns in place. In this state, it is able to be read over and over again. These photocrystals form the basis of Vekllei archive volumes, and will last a very long time. Once written to, however, they typically cannot be overwritten.</li>
+</ul>
+</span>
+</blockquote>
+
+<p>As the beams move across the surface of the photocrystal, they affect its physical properties. Depending on the type of crystal, constructive interference may affect its density, refraction index or its light absorption qualities. This occurs on a microscopic scale, in billionths of a meter.</p>
+<p>To retrieve the information, the <em>reference beam</em> is pointed at the crystal at the same angle and conditions. As it strikes the <em>interference pattern</em> it refracts the reference beam, which reconstructs the original signal beam&rsquo;s wavefront. This wavefront is fed into a photodetector, which translates the shape of the waves into ternary data that a computer can understand. Images signals are passed through directly, cached and positioned by metadata.</p>
+<h2 id="design">
+  Design
+  <a class="anchor" href="#design">#</a>
+</h2>
+<p>Vekllei commercial photovolumes are typically the size of a chocolate bar. They can interface with optical computers and are plugged in via a photovolume port, which contains the photodetector required to parse the wave data from a photocrystal.</p>
+<p>Inside a photovolume there is a <strong>head assembly</strong> consisting of a laser, beam splitters and mirror arrays to deflect the beams. There are also electrical components required to interface with a computer.</p>
+<p>The data in the drive is stored in trays, which contain crystal wafers derived from a larger crystal boule. These look like very thin disks, and have a large surface area to read and write data to. In most commercial photovolumes, there is a smaller tray called a <strong>cache</strong> that uses higher-performance crystal wafers for temporary storage to increase data retrieval speeds.</p>
+<h2 id="storage-information">
+  Storage Information
+  <a class="anchor" href="#storage-information">#</a>
+</h2>
+<p>In ternary computing, the smallest kind of data is called a <strong>trit</strong> &ndash; three values that make up a single character. Photovolumes store trits and physical images alongside each other to store useful data for <a href="/computers/">computers</a>.</p>
+<p>Scientific ternary units are represented as Metr, Gitr, Tetr and so on. In common use, an &lsquo;ah&rsquo; sound has been appended to most of the units to make them easier to pronounce.</p>
+<p>Photovolumes typically have a storage density ranging between 100-200 tetra per square inch. A typical commercial drive might have a storage capacity of 5,000 tetra, or 5 petra.</p>
+<table>
+<thead>
+<tr>
+<th>Unit</th>
+<th>Number of Trits</th>
+<th>Equivalent in Base-3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trit</td>
+<td>1</td>
+<td>3^0</td>
+</tr>
+<tr>
+<td>Kitra (Kit)</td>
+<td>1,024</td>
+<td>3^10</td>
+</tr>
+<tr>
+<td>Metra (Metr)</td>
+<td>1,048,576</td>
+<td>3^20</td>
+</tr>
+<tr>
+<td>Gitra (Gitr)</td>
+<td>1,073,741,824</td>
+<td>3^30</td>
+</tr>
+<tr>
+<td>Tetra (Tetr)</td>
+<td>1,099,511,627,776</td>
+<td>3^40</td>
+</tr>
+<tr>
+<td>Petra (Petr)</td>
+<td>1,125,899,906,842,624</td>
+<td>3^50</td>
+</tr>
+<tr>
+<td>Etra (Etr)</td>
+<td>1,152,921,504,606,846,976</td>
+<td>3^60</td>
+</tr>
+<tr>
+<td>Zetra (Zetr)</td>
+<td>1,180,591,620,717,411,303,424</td>
+<td>3^70</td>
+</tr>
+<tr>
+<td>Yotra (Yotr)</td>
+<td>1,208,925,819,614,629,174,706,176</td>
+<td>3^80</td>
+</tr>
+</tbody>
+</table>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Police</title>
 	  <link>/factbook/society/state/police/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -37493,491 +38731,6 @@ Portugal was incorporated into Iberia following the Spanish invasion of Portugal
 	</item>
 	
 	<item>
-	  <title>Post</title>
-	  <link>/factbook/society/industry/state/post/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>/factbook/society/industry/state/post/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[Part of the industry series of articles Overview # Commonwealth Post State Corporation of Vekllei Parent Ministry of Culture Bureau Bureau of Post & Telecommunications Industry Postal service Headquarters Oslola Founded 1422 Employees 58,200 Traded as GAF Accounted Revenue AK ✾ 44.6 billion S.c.L. The Commonwealth Postal Service (commonly known as Commonwealth Post or the Post) is the national postal carrier of Vekllei. It handles almost all postage in the country, and delivers nearly 50 million pieces of mail daily.]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
-  <span class="text">Part of the <em><a href="/industry/">industry</a></em> series of articles</span>
-</blockquote>
-
-<h2 id="overview">
-  Overview
-  <a class="anchor" href="#overview">#</a>
-</h2>
-<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
-	<tr>
-		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/post.svg);"></span> Commonwealth Post</th>
-	</tr>
-
-	
-	<tr>
-		<td colspan="2">
-			<img style="height: 5rem; background: transparent;" src="/svg/logos/post.svg">
-		</td>
-	</tr>
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-	<td style="font-weight: 500; width: 50%;">Parent</th>
-	<td><a style="color: var(--color-culture)" href="/ministry-of-culture/"><span class="fi fi-min-culture fis"></span> Ministry of Culture</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-	<td style="font-weight: 500; width: 50%;">Bureau</th>
-	<td><a style="color: var(--color-culture)" href="/bureau-of-post-and-telecommunications/"><span class="fi fi-min-culture fis"></span> Bureau of Post & Telecommunications</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Industry</th>
-		<td>Postal service</td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-	<td style="font-weight: 500; width: 50%;">Headquarters</th>
-	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Founded</th>
-		<td>1422</td>
-	</tr>
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Employees</th>
-		<td>58,200</td>
-	</tr>
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;"><a href="/commsec/">Traded as</a></th>
-		<td><span class="fi fi-min-commsec fis"></span> GAF</td>
-	</tr>
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;"><a href="/bulletin/accounted-revenue/">Accounted Revenue</a></th>
-		<td>AK ✾ 44.6 billion</td>
-	</tr>
-	
-
-	
-	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.c.L.</td>
-	</tr>
-	
-
-	
-
-	
-</table>
-<p>The <span class="fi fi-min-post fis"></span>  <strong>Commonwealth Postal Service</strong> (commonly known as <em>Commonwealth Post</em> or <em>the Post</em>) is the national postal carrier of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. It handles almost all postage in the country, and delivers nearly 50 million pieces of mail daily. The Post is one of the oldest institutions of its kind in Vekllei, and its history can be traced to the founding of the Royal Mail Corporation in 1422 in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, when it served as a courier system between the Oslolan Kingdom and its largely mercenary military force. In 1742, it was formalised as a modern postal system available to the civilian public, and was reformed in the postwar period to provide a variety of services available to all Commonwealth residents.</p>
-<p>Next to <a class="slink" style="color: rgb(245, 60, 89); background: color-mix(in srgb, rgb(245, 60, 89) 10%, transparent);" href="/factbook/society/industry/state/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a>, the Post is perhaps Vekllei&rsquo;s most visible organisation overseas. For many foreigners, Commonwealth Post cargo aircraft may be the closest they ever come to seeing the obscure Atlantic country for themselves. For Vekllei residents, the historic organisation is a living relic of the country&rsquo;s diverse and ancient history, and its evolution as a company reflects Vekllei&rsquo;s own development under the historic kingdoms, colonial occupation, and federal independence.</p>
-<p>Today, the Post is headquartered in <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> across a dozen or so city blocks dedicated to administration, manufacturing, vehicle storage and Vekllei&rsquo;s General Post Office. There are over 6,400 post offices across Vekllei today, connecting all 68 of its far-flung <a href="/republics/">republics</a>. Oslola is also home to the <a class="slink" style="color: rgb(76, 146, 219); background: color-mix(in srgb, rgb(76, 146, 219) 10%, transparent);" href="/factbook/world/countries/un/"><span class="fi fi-un"></span> United Nations</a> Universal Postal Union, the body responsible for coordinating international postage.</p>
-<h2 id="history">
-  History
-  <a class="anchor" href="#history">#</a>
-</h2>
-<blockquote class="note advice">
-  <span class="text">Read more: <em><a href="/posts/2021-02-01-mail/">The Men and Women of the Royal Mail in Vekllei</a></em></span>
-</blockquote>
-
-<p>Although most Vekllei republics have had independent or foreign postal services throughout their histories, the Post as a continuous institution was founded in 1422 by the Desimou VII, King of <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, in the late Period of Rest. During this time, the lords of Oslola had established significant mercantile holdings across the North Atlantic, and had developed reliable systems of trade throughout Ireland and <a class="slink" style="color: rgb(200, 16, 47); background: color-mix(in srgb, rgb(200, 16, 47) 10%, transparent);" href="/factbook/world/countries/denmark/"><span class="fi fi-dk"></span> Denmark</a>. The Royal Mail of Oslola was first established as a royal communications organ that sought to ensure stability of Desimou rule across its North Atlantic Empire. In this period, the Mail consisted of a handful of messengers attached to the feudal military apparatus of the Vekllei monarchy.</p>
-<p><figure>
-  <a href="/images/fairie.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/fairie_hu95b9c2141bdf0b9c20f506985de49298_280781_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/fairie.jpg"alt="Picture of mail seaplane" title="An MS Model 54-2 *Fairie*, used to deliver mail to Vekllei&#39;s islands and islets | *[The Fairie](/posts/2021-02-03-fairie/)*" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   <figcaption>An MS Model 54-2 <em>Fairie</em>, used to deliver mail to Vekllei&rsquo;s islands and islets | <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em></figcaption>
-</figure></p>
-<p>The Royal Mail would not come to resemble a conventional civilian postal service until 1652, when the Kingdom expanded postal contracts to the privy councils of the <a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a> and <a class="slink" style="color: rgb(39, 126, 72); background: color-mix(in srgb, rgb(39, 126, 72) 10%, transparent);" href="/factbook/world/vekllei/arctic/kala/"><span class="fi fi-kala"></span> Kala</a> territories. It was not until nearly a century later, in 1742, that company services were opened to all land-owning Oslolans, and the Mail came to resemble its contemporary mandate. During Oslola&rsquo;s colonisation as part of the British Atlantic Territories, it operated as the Royal Mail Service, a name it retained in independence.</p>
-<p>The Commonwealth Postal Service was established in 2015, at the founding of the 2nd Vekllei Federal Republic and 4th Commonwealth. It consolidated existing mail services across the republics, and replaced British services that operated during occupation. In 2017, the first year of independence, Mi Miou was elected as the world&rsquo;s first female Postmistress General. The postwar period of the Post has been marked by a rapid expansion of services in Vekllei and abroad. World Post, the international for-profit arm of the Post, was established in 2034.</p>
-<h3 id="structure">
-  Structure
-  <a class="anchor" href="#structure">#</a>
-</h3>
-<blockquote class="note advice">
-  <span class="text">Read more: <em><a href="/posts/2021-02-02-postmistress/">The Postmistress of Vekllei</a></em></span>
-</blockquote>
-
-<p>Commonwealth Post is a constituent corporation of the , which is part of the federal <a class="slink"  style="color: var(--color-culture); background: color-mix(in srgb, var(--color-culture) 10%, transparent);" href="/factbook/society/state/government/ministries/culture/"><span class="fi fi-min-culture fis"></span> Ministry of Culture</a>. As is typical of state monopolies in Vekllei, the Post is vertically integrated, and the majority of its contract work is consolidated directly into its organisation.</p>
-<p>The Post has two offices of administration: the General Office and the Office of the Postmistress, which are responsible for daily operations and interdepartmental administration respectively.</p>
-<details open>
-<summary>Commonwealth Post</summary>
-<ul>
-<li><strong>Department of Postal Services</strong>
-<ul>
-<li>General Post Office
-<ul>
-<li>Office of Personnel</li>
-<li>Office of Policy &amp; Planning</li>
-</ul>
-</li>
-<li>Office of Postage</li>
-<li>Office of Special Postage</li>
-<li>Office of Financial Services</li>
-<li>Office of Parcel Services</li>
-<li>Commonwealth Postal Chapel</li>
-<li>Service Assurance Office</li>
-</ul>
-</li>
-<li><strong>Overseas Service Department</strong>
-<ul>
-<li>World Post Company</li>
-<li>Universal Express Company</li>
-</ul>
-</li>
-<li><strong>Department of Communications</strong>
-<ul>
-<li>Office of Research</li>
-<li>Commonwealth Post Press
-<ul>
-<li><em>Commonwealth Postal Bulletin</em></li>
-<li>Materials Manufacturie</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Department of Company Infrastructure</strong>
-<ul>
-<li>Office of Lines</li>
-<li>Office of Post Boxes</li>
-<li>Office of Vehicles</li>
-</ul>
-</li>
-<li><strong>Office of the Postmistress</strong>
-<ul>
-<li>Postal Commission</li>
-<li>General Inspectorate</li>
-<li>Post Democracy Office</li>
-</ul>
-</li>
-<li><strong>Postal Inspection Service</strong>
-<ul>
-<li>Postal Police Service</li>
-<li>Documents Laboratories</li>
-<li>Fingerprints Laboratories</li>
-<li>Chemistry Laboratories</li>
-<li>Biology Laboratories</li>
-</ul>
-</li>
-</ul>
-</details>
-<h2 id="services">
-  Services
-  <a class="anchor" href="#services">#</a>
-</h2>
-<blockquote class="note advice">
-  <span class="text">Read more: <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em></span>
-</blockquote>
-
-<p>Commonwealth Post offers universal service to Vekllei people, delivering all postage anywhere in the world or, indeed, beyond it. It maintains 6,424 post offices across Vekllei, including its antarctic and peripheral territories. The Post&rsquo;s first lunar post office opened in 2059. In addition to its domestic monopoly, the Post contributes nearly VK❦ 2.6 trillion each year towards the Commonwealth Sovereign Wealth Corporation through its international postage and courier services abroad, under the name World Post.</p>
-<p><figure>
-  <a href="/images/stamps.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/stamps_hu6a8887bc74fe172cf9de627a9d39ccab_344846_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/stamps.jpg"alt="Picture of Tziopra with her stamp collection" title="[Tzipora](/characters/tzipora) arranges some of her favourite Vekllei stamps | *[Philately Foolery](/posts/2021-02-16-stamps/)*" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   <figcaption><a href="/characters/tzipora/">Tzipora</a> arranges some of her favourite Vekllei stamps | <em><a href="/posts/2021-02-16-stamps/">Philately Foolery</a></em></figcaption>
-</figure></p>
-<h3 id="daily-service">
-  Daily Service
-  <a class="anchor" href="#daily-service">#</a>
-</h3>
-<blockquote class="note advice">
-  <span class="text">Read more: <em><a href="/posts/2021-02-05-mailtrain/">Racing the Post Office to the Station</a></em></span>
-</blockquote>
-
-<p>The Post aims to provide next-day delivery during weekdays in zero-code (republic) regions. Overnight delivery is also generally available between larger Commonwealth <a href="/republics/">republics</a>. Most Lunar territories are available on Mondays and Fridays, and other territories are available according to the Post&rsquo;s region table.</p>
-<p>Although Vekllei people do not pay to post items, stamps are affixed with coloured squares called <em>chromacodes</em> which are used in the automatic sorting machines common in the country. International postage uses traditional stamps with price listed, and franking is used for tracking and identification.</p>
-<h3 id="special-delivery">
-  Special Delivery
-  <a class="anchor" href="#special-delivery">#</a>
-</h3>
-<p>Special, commercial and industrial postage is managed by the Office of Special Postage through certain sorting facilities and a dedicated postal network. Regular business post is funnelled through regular daily service, but hazardous, oversized and dangerous goods are accepted by special post offices able to accept them. The Post does not provide special services for regular residential or courier delivery.</p>
-<h3 id="international-service">
-  International Service
-  <a class="anchor" href="#international-service">#</a>
-</h3>
-<p>Commonwealth Post is best known overseas as the <strong>World Post</strong>, which offers services for foreign customers. Like domestic postal systems in other countries, the World Post offers flat rates for delivery anywhere in the world, priced according to size and weight. In addition, its sister company <strong>Universal Express</strong> offers next-day weekday delivery in certain markets. Most employees of the World Post and Universal Express are foreign workers paid a regular salary or banking labour-hours for immigration to Vekllei. Unlike domestic service, the World Post and Universal Express often use private courier contracts to fulfil orders.</p>
-<h3 id="finance">
-  Finance
-  <a class="anchor" href="#finance">#</a>
-</h3>
-<p>Postal banking is accessible via the <a class="slink" style="color: rgb(240, 93, 136); background: color-mix(in srgb, rgb(240, 93, 136) 10%, transparent);" href="/factbook/society/industry/state/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a> through the Post&rsquo;s Financial Services Office. These serve an important role in financial management for immigrant populations, facilitating money transfers and overseas accounting.</p>
-<h3 id="telecommunications">
-  Telecommunications
-  <a class="anchor" href="#telecommunications">#</a>
-</h3>
-<p><a class="slink" style="color: rgb(249, 63, 40); background: color-mix(in srgb, rgb(249, 63, 40) 10%, transparent);" href="/factbook/society/industry/state/cosma/"><span class="fi fi-min-cosma fis"></span> Cosma</a> is Vekllei&rsquo;s largest telecommunications company, and has deep ties to Commonwealth Post. It was founded as part of the Royal Mail in the 20th Century, but was spun off as an independent company upon the Post&rsquo;s reincorporation in 2015. They retain close corporate ties, and joint services like phone franking and dial-a-letter have demonstrated the value of close cooperation between the Vekllei postal and telecommunications industries.</p>
-<h2 id="operations">
-  Operations
-  <a class="anchor" href="#operations">#</a>
-</h2>
-<blockquote class="note advice">
-  <span class="text">Read more: <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em></span>
-</blockquote>
-
-<p>In addition to being one of the oldest active postal organisations in the world, Commonwealth Post is among the busiest, since physical post has scarcely been displaced by the telephone in the country. Even without the Post&rsquo;s international services, domestic mail each day can exceed 12 million pieces &ndash; enough for 1 in 2 people, including commercial mail and periodicals.</p>
-<p><figure>
-  <a href="/images/manufacturie.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/manufacturie_hu59b1a1ddc9492e5eacf98ad3c9a36c31_354503_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/manufacturie.jpg"alt="Picture of mail-owned manufacturing plant" title="Outdoor view of the Post&#39;s stamp printing complex. | *[The Stamp Manufacturie](/posts/2021-02-11-manufacturie/)*" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   <figcaption>Outdoor view of the Post&rsquo;s stamp printing complex. | <em><a href="/posts/2021-02-11-manufacturie/">The Stamp Manufacturie</a></em></figcaption>
-</figure></p>
-<p>As is typical for <a href="/state-industry/">government-owned corporations</a> in Vekllei, the Post alleviates the pressure of daily service through its vertically-integrated infrastructure improved by automatic (automen vehicles) and permanent fixtures (pneumatic systems and automatic sorting/franking machines). It is precisely this commitment to infrastructure that makes the Post so visible in daily life, and contributes to its ongoing cultural relevance among Vekllei people.</p>
-<h3 id="staff">
-  Staff
-  <a class="anchor" href="#staff">#</a>
-</h3>
-<p><figure>
-  <a href="/images/sketches/post.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/sketches/post_hu563941aed291d51a3ead29dd477791ac_351079_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/sketches/post.jpg"alt="smallimg" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   
-</figure></p>
-<p>Commonwealth Post employs 58,200 people full-time across its various offices, and nearly 200,000 automen in various roles. Although the Post does retain a staff of postmen and couriers, most urban daily service is now provided by automatic vehicles and sorting, which account for nearly half of the total automen owned by the organisation. Most Vekllei people are served by post offices rather than home delivery.</p>
-<p>The majority of Post employees are involved in the running of the organisation &ndash; mostly as clerks, engineers, and administrators. Around 10,000 postmen are employed by the Mail in daily delivery, called &ldquo;posties&rdquo;. There are around 8,000 postal routes in the country.</p>
-<p>Although at first glance the number of automen dramatically exceeds demand, the total count is misleading &ndash; most automen with the company are integrated into the infrastructure of its sorting centres and post offices, and very few are traditionally autonomous robots commonly seen in public in Vekllei. Only about 8,000 automen are employed in physical mail delivery.</p>
-<p>There are 16,220 post boxes in Vekllei, which are iconic for their red and gold paint and intricate detailing.</p>
-<h3 id="fleet">
-  Fleet
-  <a class="anchor" href="#fleet">#</a>
-</h3>
-<blockquote class="note advice">
-  <span class="text">Read more: <em><a href="/posts/2021-02-03-fairie/">The Fairie</a></em></span>
-</blockquote>
-
-<p>The unique challenges of Vekllei&rsquo;s disparate and diverse geography have necessitated a unique inventory of vehicles, some of which have became iconic in Vekllei and overseas. From bicycles to space planes, the Post&rsquo;s fleet of machines rivals postal services three times its size in diversity.</p>
-<details open>
- <summary>The Royal Mail Fleet</summary>
-<ul>
-<li><strong>Postal Services</strong>
-<ul>
-<li>8,000 delivery automen</li>
-<li>5,200 motorcycles <em>(mostly Local Electric Model 15 &amp; Phantoms)</em></li>
-<li>2,400 bicycles</li>
-<li>2,000 automatic vans</li>
-<li>1,200 postal trucks</li>
-<li>31 postal boats <em>(MBR)</em></li>
-<li>20 postal flying boats <em>(Model 54 &ldquo;Fairie&rdquo;)</em></li>
-<li>36 postal helijets <em>(Model RM/Gisma &amp; Record types)</em></li>
-<li>24 postal trains <em>(RM Series/Series 225 EMU)</em></li>
-<li>80 postal trams <em>(Series T6)</em></li>
-<li>2 postal space planes <em>(G.A. Type 1)</em></li>
-<li>2 postal ships <em>(RMS</em> Atlantic <em>&amp;</em> Sunburst <em>)</em></li>
-</ul>
-</li>
-<li><strong>Overseas Services</strong>
-<ul>
-<li>World Post Company
-<ul>
-<li>250 mail trucks</li>
-<li>52 cargo jets <em>(Model RM/Type 56C)</em></li>
-<li>6 flying boats</li>
-</ul>
-</li>
-<li>Universal Express Company
-<ul>
-<li>4 cargo jets <em>(Model ERM/C.A. Type 6 supersonic)</em></li>
-<li>2 mail trucks</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Office of the Postmistress</strong>
-<ul>
-<li>1 executive mail train <em>(Series 4000 EMU)</em></li>
-</ul>
-</li>
-</ul>
-</details>
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
 	  <title>Productivity</title>
 	  <link>/factbook/bulletin/productivity/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -38141,502 +38894,6 @@ All real estate in Vekllei is negotiated, purchased and leased at a [municipal](
 As part of [Vekllei metaphysics](/metaphysics/), land has rights and owns itself. Human ownership is foremost a contract with the land, and the municipality is positioned as an intermediary. In practice, land ownership is portioned between different agents based on their relationship with the property. The municipality may retain a monopoly on real estate, but most Vekllei people own their residences. All residences are designed by architects, who are an essential agent of the municipality in Vekllei.
 
 Real estate is also used as [compensation](/news/essays/moneylessness/#why-do-vekllei-people-work). Doctors are usually housed close to their place of work in homes built for that purpose. Tenancy in Vekllei is generally of this type, where homes are tied to employment. In the Vekllei delicture system, longtime employees gradually wrest ownership away from the municipality, and homes are commonly gifted after ten or fifteen years of service.-->]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Rail</title>
-	  <link>/factbook/society/industry/state/rail/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>/factbook/society/industry/state/rail/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[This article is about Vekllei society This article discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei&rsquo;s state assets and powerful bureaus shape life in the country today.]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net/images/orange.jpg"/> <blockquote class="note series">
-  <span class="text">This article is about <a href="/factbook/vekllei"><strong>Vekllei</strong></a> society</span>
-</blockquote>
-
-<blockquote class="note panel">
-  <span class="text"><strong>This article</strong> discusses one of the most important and visible organisations in everyday Vekllei life: Vekllei National Rail. Vekllei is criss-crossed by hundreds of different rail lines of various gauges, grades, and purposes. In fact, it runs many lines at a total loss, often under capacity. To understand these inefficiencies is to understand why the National Rail exists, and to some extent, how Vekllei&rsquo;s state assets and powerful bureaus shape life in the country today.</span>
-</blockquote>
-
-<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
-	<tr>
-		<th colspan="2"><span class="fi" style="background-image: url(/svg/logos/rail.svg);"></span> Commonwealth National Rail</th>
-	</tr>
-
-	
-	<tr>
-		<td colspan="2">
-			<img style="height: 5rem; background: transparent;" src="/svg/logos/rail.svg">
-		</td>
-	</tr>
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/state-industry/">State Corporation</a> of <a href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-	<td style="font-weight: 500; width: 50%;">Parent</th>
-	<td><a style="color: var(--color-commons)" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis"></span> Ministry of the Commons</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-	<td style="font-weight: 500; width: 50%;">Bureau</th>
-	<td><a style="color: var(--color-commons)" href="/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Industry</th>
-		<td>Rail transport</td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-	<td style="font-weight: 500; width: 50%;">Headquarters</th>
-	<td><a style="color: rgb(38, 48, 132)" href="/oslola/"><span class="fi fi-oslola"></span> Oslola</a></td>
-	</tr>
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Founded</th>
-		<td>1855, as the Pharos Rail Company</td>
-	</tr>
-	
-
-	
-	<tr>
-		<td style="font-weight: 500; width: 50%;">Employees</th>
-		<td>65,240</td>
-	</tr>
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	<tr>
-		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"> S.A.</td>
-	</tr>
-	
-</table>
-<h2 id="overview">
-  Overview
-  <a class="anchor" href="#overview">#</a>
-</h2>
-<p><strong>Vekllei National Rail (VNR)</strong> is a catch-all term for bureau-backed, state-owned rail operators of Vekllei. In casual use, it refers to the Vekllei National Railway A.r.R. and its sister companies, like Vekllei Metro, which are structured within the service-oriented Railways Bureau. More precisely, Vekllei National Rail encompasses several different bureaus that operate, design, maintain and communicate rail service in the country, which itself is further included under the Transport Requisite of the Vekllei Government.</p>
-<p>Like most critical organisations of Vekllei, the structure and directorship of Vekllei National Rail is complex, but can be simplified by understanding that all rail transport in the country is ultimately the responsibility of an organisation called Vekllei National Rail, and it is towards this organ that this article is addressed. Today, the National Rail operates nearly 20,000km of track, indicating the density of the rail service it provides, and services nearly 20 million people each day through its network. It is administered and operated by the <a class="slink" style="color: var(--color-commons); background: color-mix(in srgb, var(--color-commons) 10%, transparent);" href="/factbook/society/state/government/ministries/commons/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a>.</p>
-<h3 id="introduction">
-  Introduction
-  <a class="anchor" href="#introduction">#</a>
-</h3>
-<p>Since nationalisation of the private Vekllei rail companies in 1925, the structure and reach of Vekllei National Rail has changed several times. Operated as a for-profit enterprise at a historical loss, the National Rail&rsquo;s history of service is reflected in the variety of trains and track gauges it maintains.</p>
-<p>Vekllei is unique in the density of its rail, a feature of deliberate postwar city planning and the Home Island&rsquo;s history as an industrial port city-state. Very few Vekllei people own automobiles, and trains remain by far the most common method of travel in the country. Because of this, the rail network in metropolitan areas is extraordinarily dense, and is designed to offer access to nearly every residence in urban areas. This fact also explains the presence of dedicated rail lines to small towns and villages that would otherwise not justify their maintenance. As visible on the map above, the passenger rail network in Vekllei is unsurpassed in its density, which contributes to the dependence Vekllei people have on their trains.</p>
-<p><figure>
-  <a href="/images/railmap.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/railmap_hu222b08ad47ecef671ed1b6faddd45dcb_2288326_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/railmap.jpg"alt="Map of rail networks in Oslola" title="A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | *[100 Boroughs](/posts/2020-06-14-map/)*" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   <figcaption>A map of the rail network and boroughs in Oslola, showcasing maglev (red), high-speed (yellow), regional (orange) and local (brown) lines | <em><a href="/posts/2020-06-14-map/">100 Boroughs</a></em></figcaption>
-</figure></p>
-<p>Similarly, almost all freight is run along rails of varying gauges. These range from conventional freight trains at standard gauge, to municipal delivery trains at metre guage, and even narrow gauges for moving freight and equipment within large factory complexes. Most major stores and grocers are arranged along freight lines with dedicated sidings, or have their own narrow-gauge tracks dedicated to their use.</p>
-<p>Unusually, Vekllei National Rail is legally absolved of all non-rail transport, and possesses no busses or ferries for public use, which are operated and maintained by dedicated adjacent bureaus.</p>
-<h3 id="history">
-  History
-  <a class="anchor" href="#history">#</a>
-</h3>
-<p>Although Vekllei has used wagonways since the 18th Century and developed horse-drawn railways for industrial transport in its ports, the first passenger rail line in Vekllei was founded in 1855 by the Pharos Rail Company.</p>
-<p>The history of rail in Vekllei can be summarised in three key eras of development.</p>
-<blockquote>
-<ul>
-<li><strong>Early Development and expansion</strong>, from early service in 1855.</li>
-<li><strong>Late Junta/Prewar nationalisation</strong>, from nationalisation in 1925.</li>
-<li><strong>Postwar refounding and development</strong>, since independence in 2015.</li>
-</ul>
-</blockquote>
-<p>Since the foundation of VNR after nationalisation, rail in Vekllei has seen the scale of its passenger rail networks quadruple in size. It is internationally regarded for its safety and reliability.</p>
-<h4 id="early-development">
-  Early Development
-  <a class="anchor" href="#early-development">#</a>
-</h4>
-<p>The first railways in Vekllei developed alongside its ports, as Vekllei&rsquo;s position as an intermediary free port between Europe and the Americas rapidly developed Vekllei&rsquo;s industrial base. Although the earliest internal rail wagons were pulled by horses, primitive steam locomotives had modernised most ports by the early 19th Century.</p>
-<p>The first passenger rail line opened in 1855 between <a href="/factbook/landscape/boroughs/pharos/">Pharos</a> and the present-day borough of Little Vekllei to alleviate the expense of moving goods from the <a href="/factbook/landscape/boroughs/pharos/#port-of-pharos">Port of Pharos</a> to established settlement further inland. The original line was only a few kilometres long, but was extended in 1858 and again in 1872. By this time, several other lines had been established under private rail companies, including passenger services between Vekllei Proper and Little Vekllei, as well as the beginnings of the Montre-Vekllei Railroad.</p>
-<p>By the beginning of the 20th Century, Vekllei had a half-dozen major railroad companies, and dozens other limited/local services provided by private operators or their municipality. This saw a massive increase in both the movement of freight and ridership, and helped entrench Vekllei&rsquo;s position as a stopover port city for transatlantic freight and passage.</p>
-<h4 id="nationalisation">
-  Nationalisation
-  <a class="anchor" href="#nationalisation">#</a>
-</h4>
-<p>The early 20th Century was marked by an exponential increase in ridership, which saw a proliferation of new railroads across the Home Islands. Metropolitan and suburban lines during this period were characterised by overcrowding, poor reliability and irregular service. These factors, in addition to the growing economic power of rail barons in the country, saw the Atlantic Junta (known as the Crown) move to nationalise all metropolitan and intercity passenger rail service in 1925 as the Vekllei National Rail Company (VNC).</p>
-<p>The centralisation of Vekllei rail accompanied standardisation of its commuter track gauge, which improved travel times across the country. The VNC period was characterised by reliable investment and a commitment to modernisation of rail in the country. By the late 20th Century, the Vekllei Metropolitan Underground was widely regarded as one of the most beautiful subway systems in the world.</p>
-<p>In the late 1980s, VNC started work on what would eventually become the Vekllei-Montre bullet train. The programme overran its cost estimates and was delayed several times, and was not completed until 2004, shortly before the Atomic War.</p>
-<h4 id="postwar-development">
-  Postwar Development
-  <a class="anchor" href="#postwar-development">#</a>
-</h4>
-<p>National Rail Company assets that had been operated by the occupation Vekllei Provisional Government were transferred to the Vekllei Interim Government in 2015 and reestablished as Vekllei National Rail (VNR) in 2018. The Floral Period has been marked by steady growth in ridership and the scale of its network. The organisation also invests heavily into the development of new locomotives and EMUs, culminating in 2047 with the announcement of the Vekllei East Coast Maglev Scheme, which are the fastest commuter trains in the world.</p>
-<p><figure>
-  <a href="/images/shrine-minded.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/shrine-minded_hue80a575b8021bcf65ad6e8ad74e21744_389737_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/shrine-minded.jpg"alt="Map of a train pulling into a windy coastal village" title="A Lesvesn 59-Series EMU arrives in the village of Cult | *[Shrine-Minded Girls](/posts/2021-05-06-shrine-minded/)*" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   <figcaption>A Lesvesn 59-Series EMU arrives in the village of Cult | <em><a href="/posts/2021-05-06-shrine-minded/">Shrine-Minded Girls</a></em></figcaption>
-</figure></p>
-<p>In 2055, VNR celebrated &ldquo;250 years of rail,&rdquo; and its livery and staff uniforms were overhauled to mark the occasion.</p>
-<p>Today, VNR represents the sole means of medium/long-distance transport for over 80% of Vekllei commuters, indicating its continuous status as a monopoly of travel, not just rail, in the country.</p>
-<h3 id="structure">
-  Structure
-  <a class="anchor" href="#structure">#</a>
-</h3>
-<p>Vekllei National Rail is an organ of the Transport Requisite of the Vekllei Government (A.r.R., or <em>requoisesiasn amourisocietie resmesnghet</em>) as several individual state requisite bureaus, which in turn are charged with different transport companies. Although its structure in Vekllei might be analogous to a government ministry abroad, it functions in practice more like a state-owned enterprise with private subsidiaries. It is not a state-run corporation, and maintains seperate accounting.</p>
-<p>Vekllei National Rail is administered through three State Requisites: the Vekllei National Rail itself including all regular operations and rail service, the National Rail Insurance Scheme which finances construction through Government White Bonds, and the Rail Safety Commission.</p>
-<details open>
-<summary>Organisational Chart of VNR</summary>
-<blockquote class="note ">
-  <span class="text">Responsible to the <a href="/factbook/society/state/government/interior/transport/#national-railways-bureau">Railways Bureau</a> of the <a href="/factbook/society/state/government/interior/transport">Ministry of Transport</a></span>
-</blockquote>
-
-<ul>
-<li><strong>Vekllei National Rail</strong>
-<ul>
-<li>National Rail
-<ul>
-<li>Vekllei National Railways A.r.R.
-<ul>
-<li>VNR Atlantic</li>
-<li>VNR Kala</li>
-<li>VNR Overseas</li>
-</ul>
-</li>
-<li>Vekllei National Magways A.r.R.</li>
-<li>Vekllei Metro A.r.R.</li>
-<li>Government Railroads R.S.</li>
-<li>Vekllei Freight S.A.</li>
-</ul>
-</li>
-<li>Railway Police Office</li>
-<li>Office of Steam</li>
-<li>Office of Electrification</li>
-<li>Nuclear-Electric Rail Commission</li>
-<li>Private Railcar Commission</li>
-</ul>
-</li>
-<li><strong>Vekllei Industrial Rail</strong>
-<ul>
-<li>National Freight</li>
-<li><a href="/mail/">Royal Mail</a> Railway Holdings</li>
-</ul>
-</li>
-<li><strong>Railroad Democracy Hall</strong>
-<ul>
-<li>VK Rail Chapel</li>
-<li>Public Rail Chapel</li>
-</ul>
-</li>
-<li><strong>Vekllei National Rail Press Bureau</strong>
-<ul>
-<li><strong>Vekllei Rail Press</strong>
-<ul>
-<li><em>Vekllei Rail Transport Journal</em>
-<ul>
-<li><em>Locomotive</em> Magazine</li>
-</ul>
-</li>
-<li>Rail Periodicals Office</li>
-<li>Friends of Rail Office</li>
-</ul>
-</li>
-<li>Public Relations Office</li>
-<li>Industrial Relations Office</li>
-</ul>
-</li>
-<li><strong>Vekllei National Rail Municipal Land Company S.A.</strong></li>
-<li><strong>Vekllei National Rail Construction House</strong></li>
-<li><strong>Railway Laboratories of Vekllei</strong>
-<ul>
-<li>Senrouive House Office</li>
-<li>Company House Office</li>
-</ul>
-</li>
-<li><strong>National Rail Insurance Scheme A.r.R.</strong></li>
-<li><strong>Passenger Accounting</strong></li>
-<li><strong>Rail Democracy Office</strong></li>
-<li><strong>Rail Safety Commission</strong></li>
-<li><strong>Track Safety Vekllei</strong></li>
-<li><strong>Passenger Safety Vekllei</strong>
-<ul>
-<li>Platform Investigation Office</li>
-<li>Carriage Investigation Office</li>
-<li>Incident Investigation Office</li>
-</ul>
-</li>
-</ul>
-</details>
-<h2 id="service">
-  Service
-  <a class="anchor" href="#service">#</a>
-</h2>
-<blockquote class="note panel">
-  <span class="text"><strong>Since most Vekllei people</strong> catch a train each day, VNR is a uniquely intimate and treasured organ of the Vekllei state. It is somehow exempted from the public apathy and resentment of bureaucracy that targets other monopolies of the Vekllei state, and is routinely regarded as among the most beloved and appreciated &ldquo;companies&rdquo; in Vekllei.</span>
-</blockquote>
-
-<p>Access to public transport is considered a &ldquo;critical luxury&rdquo; of the Vekllei state (the Vekllei turn-of-phrase for essential state services) and, by extension, the functioning of its society. By design, it makes no profit, and is subsidised entirely by the Transport Requisite of the Vekllei Government and various independent transport bureaus for the benefit of any Vekllei person. Even prior to the war and investment of the Floral Period, Vekllei&rsquo;s public transport was widely regarded as among the finest of any network in the world thanks to its impeccable safety record, timeliness, and comprehensive coverage.</p>
-<p><figure>
-  <a href="/images/hollywood.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      
-      
-      
-      
-
-      
-      
-      
-
-      <img class="rcf-image lazyload show-if-js"
-        data-srcset="/images/hollywood_hubffc61bf485072eb2f574de319100091_343421_680x0_resize_q90_h2_box.webp 1x"
-        src="/images/hollywood.jpg"alt="Image of kids making a film in front of a rail line and factory" title="A Mustard 56-Series passes a steam processing plant | *[Gone Hollywood](/stories/hollywood/)*" 
-        loading="lazy"
-      />
-
-      </a>
-
-
-  
-   <figcaption>A Mustard 56-Series passes a steam processing plant | <em><a href="/stories/hollywood/">Gone Hollywood</a></em></figcaption>
-</figure></p>
-<p>Rail transport contributes tremendously to the national culture and common affection for Vekllei&rsquo;s public institutions. It is also commonly percieved as a triumph of the postwar floral Period, despite rail history in Vekllei dating back hundreds of years prior. The ongoing expansion of the VNR network and renovation of stations and railhubs commands attention internationally, which is watching Vekllei celebrate its golden age of rail.</p>
-<h3 id="national-rail">
-  National Rail
-  <a class="anchor" href="#national-rail">#</a>
-</h3>
-<p>National rail access is generally provided directly by Vekllei National Railway A.r.R. through a branch office dependent on the location. The Home Islands are served by VNR Atlantic, whereas <a class="slink" style="color: rgb(39, 126, 72); background: color-mix(in srgb, rgb(39, 126, 72) 10%, transparent);" href="/factbook/world/vekllei/arctic/kala/"><span class="fi fi-kala"></span> Kala</a> is served by VNR Overseas. The Home Islands house thousands of rural villages outside of urban metropolitan service, and Vekllei&rsquo;s dependence on rail transportatiion demands their inclusion in the VNR network. As such, almost every village in Vekllei has a rail line or interurban tramway, and villages as small as 20 persons see daily service to the capital.</p>
-<h3 id="metropolitan-service--subways">
-  Metropolitan Service &amp; Subways
-  <a class="anchor" href="#metropolitan-service--subways">#</a>
-</h3>
-<p>The majority of VNR&rsquo;s ~10,000 trains per day run in metro or subway services throughout Vekllei urban and interurban routes. These lines are primarily serviced by the EMU workhorses of the VNR fleet, particularly 56 and 59-Series trainsets. In urban centers, VNR service is frequent enough to be unscheduled, with trains arriving every other minute or so.</p>
-<p>The majority of Vekllei&rsquo;s underground metro network has been automated by Automatic Train Control, an industrial automan system that allows for driverless trains. Although still serviced by VNR platform staff with training to stop the train in emergencies, Vekllei&rsquo;s automatic metros are otherwise entirely driverless. VNR Overseas metros in Kala and the Kalina Isles retain drivers.</p>
-<h3 id="tramways">
-  Tramways
-  <a class="anchor" href="#tramways">#</a>
-</h3>
-<p>Vekllei operates a variety of trams and streetcars, including double-decker street-level units in the capital region and so-called &ldquo;fast trams&rdquo; (inter-urban cars) outside of the cities. Depending on the make and route of the tramway, they may be grade-seperated or integrated into streets. Their ubuquity in urban areas has caused observers to regard them as the principle method of transport in the country, second only to the bicycle.</p>
-<h3 id="freight">
-  Freight
-  <a class="anchor" href="#freight">#</a>
-</h3>
-<p>VNR&rsquo;s main freight lines run mostly on a seperate gauge and network, and are composed of several companies that operate regionally across a variety of locomotive types and industries. These include traditional freight locomotives and long/short cars, as well as freight trams and wagons used to transport goods around and between factories.</p>
-<h2 id="operations">
-  Operations
-  <a class="anchor" href="#operations">#</a>
-</h2>
-<blockquote class="note link">
-  <span class="text">✿ Read more: <em><a href="/posts/2021-06-01-station-logic/">Station Logic</a></em></span>
-</blockquote>
-
-<blockquote class="note panel">
-  <span class="text"><strong>VNR</strong> is typical of a &lsquo;great Vekllei bureau&rsquo; &ndash; it instills national pride, is well-run and maintained, and loses tremendous amounts of money. It is the crown jewel of Vekllei&rsquo;s insolvent organs, whose thin profit margins and charming inefficiencies are tolerated and even encouraged in this society which subsidises social benefit above all else.</span>
-</blockquote>
-
-<p>Nearly 17 million people per day commute via VNR&rsquo;s networks each day, making up a majority of the Vekllei population. In this sense, VNR&rsquo;s quality of operations affects the Vekllei person more than the quality of their government. In addition to commuter service, VNR automatic freight transit systems are the lifeblood of all industry and commerce in the country, and are regulated directly as a state requisite for their critical importance to the functioning of Vekllei society.</p>
-<p><figure>
-  <a href="/images/images/stationlogic.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      </a>
-
-
-  
-   
-</figure></p>
-<p>VNR operates 2,114 stations across the Home Islands, which vary from uncovered concrete platforms to tremendous terminus complexes that cover multiple city blocks. The largest station in the country, Vekllei Central, sees over 1 million people per day pass through its gates.</p>
-<p>Vekllei&rsquo;s stations are well-regarded for the beauty and decoration overseas. As part of the Millenia Rail campaign in the mid-21st Century, VNR initiated a dramatic overhaul of its passenger infrastructure, restoring heritage-listed station interiors and renovating much of the early postwar metro construction with murals, new lighting, enlarged caverns and shafts, and improved safety features. The cleanliness and safety of Vekllei National Railway is a great point of pride in the country, and in part justifies VNR&rsquo;s tremendous fiscal losses in daily operation.</p>
-<p>VNR services are mostly unticketed, and as a Vekllei industry, are free to ride.</p>
-<h3 id="staff">
-  Staff
-  <a class="anchor" href="#staff">#</a>
-</h3>
-<p><figure>
-  <a href="/images/images/vnr.jpg"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    
-    
-    
-    
-    
-
-      </a>
-
-
-  
-   
-</figure></p>
-<blockquote class="note link">
-  <span class="text">✿ Read more: <em><a href="/posts/2021-04-25-rail/">The People of Vekllei National Rail</a></em></span>
-</blockquote>
-
-<p>VNR employs 65,240 people, which include roles ranging from locomotive engineers and platform staff to editors of rail enthusiast periodicals. It is also one of the largest employers of 12-16 year olds in the country, via its Station Apprentice programme, unique among organisations of its size.</p>
-<p>The organisation is administered by the President of the Rail Central Office, which is responsible to the Transport Requisite and the Palace of Rail. VNR has a close relationship with bureau and petty-bureau coachbuilders, and wields considerable power in Vekllei&rsquo;s heavy industries as a major manufacturing partner.</p>
-<h3 id="fleet">
-  Fleet
-  <a class="anchor" href="#fleet">#</a>
-</h3>
-<blockquote class="note ">
-  <span class="text">✿ Download the <span class="smallicon">📄</span> <a href="/files/factbook/VNR-Rolling-Stock-Bulletin.pdf">VNR Rolling Stock List (PDF)</a></span>
-</blockquote>
-
-<p>Vekllei National Rail is perhaps unsurpassed in its variety of trainsets and their length of service. An unofficial policy of preservation has ensured that every unit type since the 1980s has seen an ongoing minor presence in current service. VNR rarely retires a trainset completely &ndash; in keeping with the contemporary cultural-political valuation of machines, a few units of each model are retained on various lines for their historical and technical significance. This includes steam locomotives, which continue to operate regular passengers service on some routes.</p>
-<p>The backbone of the contemporary Vekllei rail fleet is the Electric Multiple Units (EMUs), which are designated by their year of manufacture.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> In particular, the 56 and 59-Series trainsets make up the majority of EMUs in service today, as they exclusively populate primary commuter lines in Vekllei&rsquo;s southwest. VNR also retains Diesel Multiple Units (DMUs) in its long-haul cold-weather routes, particularly in the Afouisneh region and Kala.</p>
-<p>VNR pioneered super-conductive maglev transport for mass consumption, and its SC3 trainsets are the fastest in regular service in the world today, reaching nearly 750km/h in places. Its slowest locomotive, the T400 2-6-2 steam locomotive <em>Small Movements</em> built in 1928, averages just 30km/h on its tourist route in rural Krafla. VNR is also experimenting with nuclear-powered trainsets, but none have so far entered public testing.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Vekllei&rsquo;s &lsquo;war&rsquo; prefix is used as a designation for pre-war railcars and locomotives, transliterated from the native word for the Junta&rsquo;s society.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-]]>
   	</content:encoded>
 	</item>
 	
@@ -40561,7 +40818,7 @@ Upen is being practiced 500BC Beginning of Oslolan Common Period 200 Beginning o
 		<li>
 			<b>1422</b>
 			<span class="event">
-				The Royal Mail Service, predecessor to the <a class="slink" style="color: rgb(255, 19, 35); background: color-mix(in srgb, rgb(255, 19, 35) 10%, transparent);" href="/factbook/society/industry/state/post/"><span class="fi fi-min-post fis"></span> Post</a>, is founded in Oslola.
+				The Royal Mail Service, predecessor to the <a class="slink" style="color: rgb(255, 19, 35); background: color-mix(in srgb, rgb(255, 19, 35) 10%, transparent);" href="/factbook/society/industry/state/post/"><span class="fi fi-min-post fis"></span> Commonwealth Post</a>, is founded in Oslola.
 			</span>
 		</li>
 		<li>
