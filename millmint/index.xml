@@ -28,7 +28,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[✿ For common questions about me or my work, please visit the FAQ. Hello, I&rsquo;m Hobart. I&rsquo;m an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.
+	  <![CDATA[For common questions about me or my work, please visit the FAQ. Hello, I&rsquo;m Hobart. I&rsquo;m an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.
 Vekllei has existed in some form since I was a kid, but I started working on it properly in 2017.
 You can follow my progress on this project on X.]]>
 	  </description>
@@ -53,8 +53,8 @@ You can follow my progress on this project on X.]]>
 </figure>
 </div>
 -->
-<blockquote class="note ">
-  <span class="text">✿ For common questions about me or my work, please visit the <a href="/intro/faq/">FAQ</a>.</span>
+<blockquote class="note advice">
+  <span class="text">For common questions about me or my work, please visit the <a href="/intro/faq/">FAQ</a>.</span>
 </blockquote>
 
 <p><strong>Hello, <a href="/images/images/mastheads/author.png">I&rsquo;m Hobart</a></strong>. I&rsquo;m an Australian illustrator and writer living and working in Tasmania. I like machines, midcentury design and visiting new places. I studied as a journalist, but now work in illustration.</p>
@@ -351,6 +351,64 @@ You can follow my progress on this project on X.]]>
 * Risotto (sorry)
 * Emirates (the airline)
 -->]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>About this Site</title>
+	  <link>/millmint/website/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/millmint/website/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[I&rsquo;ve had quite a few questions about this site, how it was built, and how you can build one too. This page is all about millmint.net.
+Spec Sheet:
+Built with HUGO static site generator Inspired by (and previously used) the Monochrome theme Built with assistance from Ben R.R. and Jip for all the cool javascript bits I can&rsquo;t do Hosted with Cloudflare Pages This website is the product of a lot of work from myself and helpful friends of the project, and hosts a complete archive of Vekllei artwork, articles about their society, and miscellaneous essays and games.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/greek.jpg"/> <p>I&rsquo;ve had quite a few questions about this site, how it was built, and how you can build one too. This page is all about millmint.net.</p>
+<blockquote class="note ">
+  <span class="text"><p><strong>Spec Sheet</strong>:</p>
+<ul>
+<li>Built with <a href="/https://gohugo.io/">HUGO</a> static site generator</li>
+<li>Inspired by (and previously used) the <a href="https://github.com/kaiiiz/hugo-theme-monochrome">Monochrome theme</a></li>
+<li>Built with assistance from Ben R.R. and <a href="https://jipfr.nl">Jip</a> for all the cool javascript bits I can&rsquo;t do</li>
+<li>Hosted with <a href="https://pages.cloudflare.com">Cloudflare Pages</a></li>
+</ul></span>
+</blockquote>
+
+<p>This website is the product of a lot of work from myself and helpful friends of the project, and hosts a complete archive of Vekllei artwork, articles about their society, and miscellaneous essays and games. It has a lot of unique features and designs developed by myself and friends.</p>
+<ul>
+<li>
+<p>This site uses the <a href="/https://gohugo.io/">HUGO</a> static site generator, which turns markdown files (basically text files) into HTML, and lets you add website features like navigation menus and search through snippets of code called <code>layouts</code>.</p>
+</li>
+<li>
+<p>This website was originally based on the excellent <a href="https://github.com/kaiiiz/hugo-theme-monochrome">Monochrome theme</a> by <a href="https://github.com/kaiiiz">Kaiiiz</a>, and retains its basic layout and feel, though the codebase is now unique.</p>
+</li>
+<li>
+<p>The style and feel of the site was created by me iteratively over several years, and some of its ideas (like the story pages that change colour depending on their featured image, the <a href="/dolls/">dolls</a> game and countless other little javascript features) were implemented with assistance from longtime friend of the project <a href="https://jipfr.nl">Jip</a>. Ben R. R. contributed the code for the website&rsquo;s parallax animations on the <a href="/">homepage</a> and <a href="/intro/">intro</a>.</p>
+</li>
+<li>
+<p>The animated icons on some pages (like this one, found in the header) are the <a href="https://whirlybirdie.com">Whirlybats</a> animated font by <a href="https://alextomlinson.com">Alex Tomlinson</a>.</p>
+</li>
+<li>
+<p>You can find the source code to the website <a href="https://github.com/melonkony/millmint">here</a>. You are welcome to browse and take inspiration from it, though please note that code contributed by others (usually marked) may have rights reserved.</p>
+</li>
+<li>
+<p>Images are processed automatically by HUGO into webp thumbnails and used in context appropriately.</p>
+</li>
+<li>
+<p>You can always contact me through my socials if you have questions about specific features on this site.</p>
+</li>
+<li>
+<p>Other than the domain name (registered with Cloudflare) this website doesn&rsquo;t cost me a cent to run. Hurrah for free services!</p>
+</li>
+</ul>
+]]>
   	</content:encoded>
 	</item>
 	
