@@ -18,6 +18,90 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Spring</title>
+	  <link>/stories/spring/</link>
+	  <pubDate>Sat, 21 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/spring/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Tzipora can&rsquo;t swim, but she can float around in a silica pond. The hot springs are like a 15 min walk from school. If you skip first period and get there around 10am you can have the entire forest to yourself.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/spring.jpg"/> <blockquote class="note caption">
+  <span class="text">Tzipora can&rsquo;t swim, but she can float around in a silica pond.</span>
+</blockquote>
+
+<p>The hot springs are like a 15 min walk from <a href="/moshel/">school</a>. If you skip first period and get there around 10am you can have the entire forest to yourself.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Thoughts</title>
+	  <link>/stories/fission-thoughts/</link>
+	  <pubDate>Thu, 19 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/fission-thoughts/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ &ldquo;Troubles go over Tzipora like water over a river stone&rdquo; ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/thoughts.jpg"/> <blockquote class="note caption">
+  <span class="text">&ldquo;Troubles go over Tzipora like water over a river stone&rdquo;</span>
+</blockquote>
+
+<p><figure>
+  <a href="/images/fullres/thoughts-2.png/"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    
+    
+    
+    
+    
+
+      </a>
+
+
+  
+   
+</figure></p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Bench Girls</title>
+	  <link>/stories/bench/</link>
+	  <pubDate>Mon, 02 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/bench/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ thinkin bout the mongols in their prime, and how now they&rsquo;re just a little soviet republic&hellip; shits crazy ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/bench.jpg"/> <blockquote class="note caption">
+  <span class="text">thinkin bout the mongols in their prime, and how now they&rsquo;re just a little soviet republic&hellip; shits crazy</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>They Like to Dance</title>
 	  <link>/stories/they-like-to-dance/</link>
 	  <pubDate>Tue, 06 Aug 2024 08:00:00 EST</pubDate>

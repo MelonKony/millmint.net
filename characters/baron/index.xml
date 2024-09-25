@@ -18,6 +18,40 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Medals</title>
+	  <link>/stories/medals/</link>
+	  <pubDate>Mon, 16 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/medals/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Commonwealth (Vekllei) medals and accoutrement Baron is Tzipora&rsquo;s adoptive father. She knew him as a Noshem intelligence agent but she knew he had been a soldier with the Territorial Services before that.
+He didn&rsquo;t hide his service but he didn&rsquo;t talk about it either. He was a very moderate person.
+The Bread and Sword
+The &ldquo;bread and sword&rdquo; indicates a volunteer. It comes from Vekllei politics and their weird transnational regime-pilled anarchism &ldquo;delivering justice by bread or sword&rdquo;]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/medals.jpg"/> <blockquote class="note caption">
+  <span class="text">Commonwealth (Vekllei) medals and accoutrement</span>
+</blockquote>
+
+<p>Baron is Tzipora&rsquo;s adoptive father. She knew him as a <a class="slink"  style="color: var(--color-security); background: color-mix(in srgb, var(--color-security) 10%, transparent);" href="/factbook/society/state/government/parliaments/security/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a> intelligence agent but she knew he had been a soldier with the <a class="slink"  style="color: var(--color-land); background: color-mix(in srgb, var(--color-land) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/armed-forces/territorial/"><span class="fi fi-min-land fis"></span> Territorial Services</a> before that.</p>
+<p>He didn&rsquo;t hide his service but he didn&rsquo;t talk about it either. He was a very moderate person.</p>
+<blockquote class="note panel">
+  <span class="text"><p><strong>The Bread and Sword</strong></p>
+<p>The &ldquo;bread and sword&rdquo; indicates a volunteer. It comes from Vekllei politics and their weird transnational regime-pilled anarchism &ldquo;delivering justice by bread or sword&rdquo;</p>
+<p>It&rsquo;s also a symbol more generally for Vekllei&rsquo;s <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>.</p>
+</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Ziggurat</title>
 	  <link>/stories/ziggurat/</link>
 	  <pubDate>Tue, 04 Jun 2024 08:00:00 EST</pubDate>

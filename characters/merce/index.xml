@@ -14,10 +14,35 @@
 	<description>Recent content in Merce </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Mon, 22 Apr 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Mon, 23 Sep 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/merce/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Constable</title>
+	  <link>/stories/police-constable/</link>
+	  <pubDate>Mon, 23 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/police-constable/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Police constable ready to go. Most types of police in Vekllei carry swords (in the fashion of a blunt sabre like the one above) though you can choose to take an extendable baton or more commonly both.
+The sabres have a powerful intimidation effect that a taser or baton doesn’t, which can be very useful.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/police-constable.jpg"/> <blockquote class="note caption">
+  <span class="text">Police constable ready to go.</span>
+</blockquote>
+
+<p>Most types of police in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> carry swords (in the fashion of a blunt sabre like the one above) though you can choose to take an extendable baton or more commonly both.</p>
+<p>The sabres have a powerful intimidation effect that a taser or baton doesn’t, which can be very useful.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Constable</title>
 	  <link>/stories/merce/</link>

@@ -18,6 +18,50 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/tags/utopia/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Culture</title>
+	  <link>/factbook/society/culture/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/culture/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ /factbook/ is the wiki of Vekllei, its Commonwealth, and the features of its society. It also includes articles on the characters I draw regularly. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note panel">
+  <span class="text"><a href="/factbook/"><strong>/factbook/</strong></a> is the wiki of <a href="/factbook/vekllei">Vekllei</a>, its Commonwealth, and the features of its society. It also includes articles on the <a href="/characters/">characters</a> I draw regularly.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Essays</title>
+	  <link>/millmint/essays/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/millmint/essays/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[/Essays/ holds an archive of the things that I (Hobart) have written over the years. I have a background in journalism and media criticism, which doesn&rsquo;t bode well for the quality of the essays linked below. My favourites are Not Long in Hong Kong, an angry reflection on my time in Hong Kong, and A Universal Nostalgia, my honours thesis on utopian spatiality in the films of Studio Ghibli &ndash; mostly used as evidence of my love of Ghibli.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note panel">
+  <span class="text"><a href="/essays/"><strong>/Essays/</strong></a> holds an archive of the things that I (<a href="/about/">Hobart</a>) have written over the years. I have a background in journalism and media criticism, which doesn&rsquo;t bode well for the quality of the essays linked below. My favourites are <a href="/hong-kong/"><em>Not Long in Hong Kong</em></a>, an angry reflection on my time in Hong Kong, and <a href="/ghibli/"><em>A Universal Nostalgia</em></a>, my honours thesis on utopian spatiality in the films of Studio Ghibli &ndash; mostly used as evidence of my love of Ghibli.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>FAQ</title>
 	  <link>/intro/faq/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -33,7 +77,7 @@ So this is Utopia,
 Is it? Well — I beg your pardon;]]>
 	  </description>
 	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net/images/drawing.jpg"/> <h2 id="this-is-the-epoch-of-rest">
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/railfan.jpg"/> <h2 id="this-is-the-epoch-of-rest">
   This is the Epoch of Rest
   <a class="anchor" href="#this-is-the-epoch-of-rest">#</a>
 </h2>
@@ -68,8 +112,8 @@ I thought it was Hell.</p>
   What is Vekllei?
   <a class="anchor" href="#what-is-vekllei">#</a>
 </h2>
-<blockquote class="note millmint">
-  <span class="text">✿ Main article: <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
+<blockquote class="note advice">
+  <span class="text">Main article: <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></span>
 </blockquote>
 
 <blockquote>
@@ -210,50 +254,6 @@ I thought it was Hell.</p>
 </li>
 </ol>
 </div>
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Culture</title>
-	  <link>/factbook/society/culture/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>/factbook/society/culture/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[ /factbook/ is the wiki of Vekllei, its Commonwealth, and the features of its society. It also includes articles on the characters I draw regularly. ]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note panel">
-  <span class="text"><a href="/factbook/"><strong>/factbook/</strong></a> is the wiki of <a href="/factbook/vekllei">Vekllei</a>, its Commonwealth, and the features of its society. It also includes articles on the <a href="/characters/">characters</a> I draw regularly.</span>
-</blockquote>
-
-]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Essays</title>
-	  <link>/millmint/essays/</link>
-	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
-	  
-	  <guid>/millmint/essays/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[/Essays/ holds an archive of the things that I (Hobart) have written over the years. I have a background in journalism and media criticism, which doesn&rsquo;t bode well for the quality of the essays linked below. My favourites are Not Long in Hong Kong, an angry reflection on my time in Hong Kong, and A Universal Nostalgia, my honours thesis on utopian spatiality in the films of Studio Ghibli &ndash; mostly used as evidence of my love of Ghibli.]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note panel">
-  <span class="text"><a href="/essays/"><strong>/Essays/</strong></a> holds an archive of the things that I (<a href="/about/">Hobart</a>) have written over the years. I have a background in journalism and media criticism, which doesn&rsquo;t bode well for the quality of the essays linked below. My favourites are <a href="/hong-kong/"><em>Not Long in Hong Kong</em></a>, an angry reflection on my time in Hong Kong, and <a href="/ghibli/"><em>A Universal Nostalgia</em></a>, my honours thesis on utopian spatiality in the films of Studio Ghibli &ndash; mostly used as evidence of my love of Ghibli.</span>
-</blockquote>
-
 ]]>
   	</content:encoded>
 	</item>

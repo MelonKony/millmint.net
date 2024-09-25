@@ -28,7 +28,7 @@
 		  <uri>https://millmint.net/</uri>
 	  </author>
 	  <description>
-	  <![CDATA[Aismious is part of the Volcanic Commonwealth Aismious Republic Constituent Republic of Vekllei Part of the Volcanic Commonwealth Capital Thor&#39;s Harbour Population 64,337 Area 1,393 km² Languages Aismious, English Vekllei Accession 1836, as part of the British Atlantic Territories The Aismious Republic is a constituent republic of Vekllei in the North Atlantic Ocean. It comprises a group of 17 inhabited islands between Oslola and the Shetland Islands of the United Kingdom, as well as numerous islets and reefs.]]>
+	  <![CDATA[Aismious is part of the Volcanic Commonwealth Aismious Republic Constituent Republic of Vekllei Part of the Volcanic Commonwealth Capital Thor&#39;s Harbour Population 64,337 Area 1,393 km² Languages Aismious, English Vekllei Accession 1836, as part of the British Atlantic Territories The Aismious Republic is a constituent republic of Vekllei in the North Atlantic Ocean. It comprises a group of 17 inhabited islands between Oslola and Hetland, as well as numerous islets and reefs.]]>
 	  </description>
 	 <content:encoded>
 	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
@@ -123,7 +123,7 @@
 	</tr>
 	
 </table>
-<p>The <span class="fi fi-fo"></span> <strong>Aismious Republic</strong> is a <a href="/republics/">constituent republic</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> in the North Atlantic Ocean. It comprises a group of 17 inhabited islands between <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and the Shetland Islands of the <a class="slink" style="color: rgb(200, 16, 47); background: color-mix(in srgb, rgb(200, 16, 47) 10%, transparent);" href="/factbook/world/countries/uk/"><span class="fi fi-gb"></span> United Kingdom</a>, as well as numerous islets and reefs. The people there are mostly of Celtic-Scandinavian stock descended from Irish settlers and Norsemen. The republic is known for its conspicuous and perpendicular cliffs and flat summits, and its gothic medieval cathedral in the village of Magnus.</p>
+<p>The <span class="fi fi-fo"></span> <strong>Aismious Republic</strong> is a <a href="/republics/">constituent republic</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> in the North Atlantic Ocean. It comprises a group of 17 inhabited islands between <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> and <a class="slink" style="color: rgb(249, 150, 51); background: color-mix(in srgb, rgb(249, 150, 51) 10%, transparent);" href="/factbook/world/vekllei/volcanic/hetland/"><span class="fi fi-hetland"></span> Hetland</a>, as well as numerous islets and reefs. The people there are mostly of Celtic-Scandinavian stock descended from Irish settlers and Norsemen. The republic is known for its conspicuous and perpendicular cliffs and flat summits, and its gothic medieval cathedral in the village of Magnus.</p>
 <p>About a third of the population live in the capital and largest city, Thor&rsquo;s Harbour. The remainder live in small communities scattered across the islands, which are characterised by fjords, river valleys and dramatic volcanic terrain. The climate is mild, though rain and fog is common. Treeless, mossy and without indigenous land mammals or reptiles, the Aismious Islands have a stark, volcanic appearance similar to <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>.</p>
 <p>The economy remains dependent on cod fishing and raising livestock, though undersea oil drilling has recently begun and attracted investment in the capital. The islanders have a strong tradition of oral storytelling and history, which have carried stories for over a thousand years. Islanders speak Aismious, a language similar to Scandi-Oslolan with Celtic elements.</p>
 <p>The islands are serviced by hydrofoils and an water airport in the capital, as well as trams between the larger settlements.</p>
@@ -747,7 +747,7 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 <ul>
 <li><strong>Commonwealth National University of the West Indies</strong>: Historic and thriving main campus of Kalina&rsquo;s oldest university, second only to Vekllei National University in its size.</li>
 <li><strong>Universal Cotton Plant of the West Indies</strong>: Large textiles manufacturer that produces much of Vekllei&rsquo;s clothing output in the Kalina region.</li>
-<li><strong>Naval Station Antigua</strong>: Large naval service base and dockyard, and home of the Kalina Auxiliary Fleet.</li>
+<li><strong><a class="slink"  style="color: var(--color-marine); background: color-mix(in srgb, var(--color-marine) 10%, transparent);" href="/factbook/world/places/ns-antigua/"><span class="fi fi-min-marine fis"></span> Naval Station Antigua</a></strong>: Large naval service base and dockyard, and home of the Kalina Auxiliary Fleet.</li>
 <li><strong>Commonwealth Industrial Caribbean Bank</strong>: Modernist bank headquarters that regularly hosts visitors from the US and Central America.</li>
 <li><strong>Antigua Recreational Grounds</strong>: Large cricket stadium and host of the North Kalina Regional Cup.</li>
 <li><strong>Dickenson Bay</strong>: Beautiful white beach with old-fashioned promenade and arcade.</li>
@@ -2019,6 +2019,134 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 	</item>
 	
 	<item>
+	  <title>Hetland</title>
+	  <link>/factbook/world/vekllei/volcanic/hetland/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/world/vekllei/volcanic/hetland/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Hetland is part of the Volcanic Commonwealth Hetland Republic Constituent Republic of Vekllei Part of the Volcanic Commonwealth Capital Lerwick Population 26,400 Area 1,467 km² Languages Commonwealth Celtic, English Vekllei Accession 1836, as part of the British Atlantic Territories The Hetland Republic is a constituent republic of Vekllei in the North Atlantic Ocean. It comprises a group of about 100 islands east of the Vekllei republic of Aismious between Norway and Scotland, though only a couple dozen of them are inhabited.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
+  <span class="text">Hetland is part of the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></span>
+</blockquote>
+
+<table class="infobox" style="float: right; border-radius: .25rem; padding: .25rem;">
+	<tr>
+		<th colspan="2"><span class="fi" style="background-image: url(/svg/flags/4x3/hetland.svg);"></span> Hetland Republic</th>
+	</tr>
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2"><a href="/republics/">Constituent Republic</a> of <a style="color: var(--color-vekllei)" href="/vekllei/"><span class="fi fi-com"></span> Vekllei</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td colspan="2">
+			<img src="/svg/flags/hetland.svg">
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="background-color: var(--highlight-background); text-align: center" colspan="2">Part of the <a style="color: var(--color-blue)" href="/volcanic/"><span class="fi fi-volcanic"></span> Volcanic Commonwealth</a></td>
+	</tr>
+	
+
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Capital</th>
+		<td>Lerwick</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Population</th>
+		<td>26,400</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Area</th>
+		<td>1,467 km²</td>
+	</tr>
+	
+
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Languages</th>
+		<td>Commonwealth Celtic, English</td>
+	</tr>
+	
+
+	
+	<tr>
+		<td style="font-weight: 500; width: 50%;">Vekllei Accession</th>
+		<td>1836, as part of the British Atlantic Territories</td>
+	</tr>
+	
+</table>
+<p>The <span class="fi fi-hetland"></span> <strong>Hetland Republic</strong> is a <a href="/republics/">constituent republic</a> of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> in the North Atlantic Ocean. It comprises a group of about 100 islands east of the Vekllei republic of <a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a> between Norway and Scotland, though only a couple dozen of them are inhabited. They are skirted by rich undersea oil deposits which form the economic basis of the their economy, and its windswept and mostly treeless islands are famous for the quality of their wool.</p>
+<p>Most Hetlanders live in Lerwick, the capital and largest city located on the island of Mainland. Historically, Hetland has been influenced by both Celtic and Norse cultures. First settled by the Norse in the 8th and 9th centuries, the islands were part of the Kingdom of Norway until they were transferred to the North Sea Kingdom in the 16th century. Throughout Norse settlement, an influx of Celtic settlers from Ireland and West Scotland influenced culture on the islands. This dual heritage is still visible today in the local dialect, place names, and traditions. One of the most famous cultural events is the Up Helly Aa festival, a Viking-inspired celebration featuring torch-lit processions and the burning of a galley, held annually in Lerwick.</p>
+<p>Economically, the islands have traditionally depended on fishing, crofting (small-scale farming), and knitwear, particularly their famous Fair Isle sweaters. In recent decades, oil extraction from the North Sea has been exploited by <a class="slink" style="color: rgb(219, 37, 21); background: color-mix(in srgb, rgb(219, 37, 21) 10%, transparent);" href="/factbook/society/industry/state/oil/"><span class="fi fi-min-oil fis"></span> Commonwealth Oil</a>, bringing considerable development to the region. The Hetlands are also a popular tourist destination for Vekllei people because of their proximity to the British Isles, natural beauty, birdwatching opportunities, and rich archaeological sites. These include Jarlshof, which provide evidence for 4,000 years of human history on the islands.</p>
+<p>Despite their isolation, the Hetlands are well-connected to both <a class="slink" style="color: rgb(67, 101, 187); background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);" href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a> and <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a> by hydrofoil and air services. The islands maintain a strong sense of community and cultural identity, embracing both their Celtic and Norse legacies while adapting to modern challenges. Their recent prosperity and discovery of oil under the North Sea has brought it into economic conflict with the <a class="slink" style="color: rgb(200, 16, 47); background: color-mix(in srgb, rgb(200, 16, 47) 10%, transparent);" href="/factbook/world/countries/uk/"><span class="fi fi-gb"></span> United Kingdom</a>, and the <a class="slink" style="color: var(--color-defence); background: color-mix(in srgb, var(--color-defence) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a> maintains Air Station Hetland on Mainland.</p>
+<details open>
+<summary>Points of Interest</summary>
+<ul>
+<li><strong>Jarlshof</strong>: An archaeological site spanning 4,000 years, with remnants from the Bronze Age, Viking, and medieval periods.</li>
+<li><strong>Sumburgh Head Lighthouse</strong>: A historic lighthouse offering views of seabirds like puffins and dramatic coastal scenery.</li>
+<li><strong>Lerwick</strong>: The capital with charming streets Nordic-style streets, the Hetland National Museum, and a busy waterfront.</li>
+<li><strong>Fair Isle</strong>: Renowned for its knitwear and as a top destination for birdwatchers.</li>
+<li><strong>St Ninian’s Isle</strong>: A tombolo beach connecting to a small isle, known for scenic walks and archaeological finds.</li>
+<li><strong>Sullom Voe Oil Refinery</strong>: One of Vekllei’s largest oil refineries, and an important fixture in the Hetland economy.</li>
+<li><strong>Lerwick Harbour</strong>: Key for fishing, freight, oil transport, and cruise ship docking.</li>
+<li><strong>Scatsta Federal Airport &amp; Air Station</strong>: Important industrial and military airport.</li>
+<li><strong>Hetland Fission Power Plant</strong>: <a class="slink" style="color: rgb(53, 156, 103); background: color-mix(in srgb, rgb(53, 156, 103) 10%, transparent);" href="/factbook/society/industry/bureaus/general-reactor/"><span class="fi fi-min-general-reactor fis"></span> General Reactor</a> plant on Mainland, one of the handful of remaining fission plants in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></li>
+</ul>
+</details>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Java</title>
 	  <link>/factbook/world/vekllei/verde/java/</link>
 	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
@@ -2143,7 +2271,7 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 <ul>
 <li><strong>Obo National Park</strong>: Large national park within Java&rsquo;s interior, most famous for the bizarre needlelike volcanic formation known as Great Dog.</li>
 <li><strong>National Equatorial Monument</strong>: Monument and public park marking the site of the equator.</li>
-<li><strong>East Vekllei Naval Station</strong>: Major navy dock and shipyard.</li>
+<li><strong><a class="slink"  style="color: var(--color-marine); background: color-mix(in srgb, var(--color-marine) 10%, transparent);" href="/factbook/world/places/ns-java/"><span class="fi fi-min-marine fis"></span> Naval Station Java</a></strong>: Major navy dock and shipyard.</li>
 <li><strong>Java Colonial Museum</strong>: Intimate and comprehensive museum of Java&rsquo;s colonial history under Portuguese rule.</li>
 <li><strong>Government Coffee Plantation</strong>: An historic coffee plantation dating back centuries, now under new management.</li>
 </ul>
@@ -2875,7 +3003,7 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 <p>The <span class="fi fi-gs"></span> <strong>Sude Republic</strong> is a <a href="/republics/">constituent republic</a> in the Southern Atlantic Ocean, and part of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/antarctic/"><span class="fi fi-antarctic"></span> Antarctic Commonwealth</a>. Its closest neighbour is the <a class="slink" style="color: rgb(60, 122, 184); background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);" href="/factbook/world/vekllei/antarctic/falklands/"><span class="fi fi-fk"></span> Falklands</a>, which lies 1,300km northwest of the island group. It is a cold, barren territory with permanent snow across much of its land area, and is home to a few thousand people, hardy grasses, and introduced reindeer. It comprises the island of Georgia, where nearly all of its people live, and the Candlemas island chain to its south of around 11 islands.</p>
 <p>Historically the main island of Georgia was used by the British and Norwegians as stations for whaling and blubber rendering, and most of these former stations form the core of the seven towns on the most populous island of Georgia. The capital, Godthul, was originally a Norwegian station founded in the early 20th Century, but whales have not been hunted around Sude for over a hundred years and their populations are in recovery.</p>
 <p>Georgia has a mountainous interior consisting of stepped flats and windswept, barren peaks. It is a breeding ground for fur seals and king penguins, which can occasionally cause trouble near human settlements. The Candlemas islands are almost entirely uninhabited except for a weather and scientific station on Thule Island, and are prone to strong earthquakes. The climate there is characterised by long, cold winters and cool summers, with weather that changes quickly.</p>
-<p>Georgia has a good port in its capital, and serves as a staging point for antarctic expeditions in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. Seven towns, mostly based at former whaling stations, serve the Sudenese population, which are linked by trams. The population are hardy, descended from British and Norwegian whalers as well as settlers from the <a class="slink" style="color: rgb(60, 122, 184); background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);" href="/factbook/world/vekllei/antarctic/falklands/"><span class="fi fi-fk"></span> Falklands</a>. They have a close-knit, communal society dependent on fishing and government interest in the antarctic.</p>
+<p>Georgia has a good port in its capital, and serves as a staging point for antarctic expeditions in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a>. The port in Godthul is also home to <a class="slink"  style="color: var(--color-marine); background: color-mix(in srgb, var(--color-marine) 10%, transparent);" href="/factbook/world/places/ns-sude/"><span class="fi fi-min-marine fis"></span> Naval Station Sude</a>, a naval base for both military and littoral service vessels. Seven towns, mostly based at former whaling stations, serve the Sudenese population, which are linked by trams. The population are hardy, descended from British and Norwegian whalers as well as settlers from the <a class="slink" style="color: rgb(60, 122, 184); background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);" href="/factbook/world/vekllei/antarctic/falklands/"><span class="fi fi-fk"></span> Falklands</a>. They have a close-knit, communal society dependent on fishing and government interest in the antarctic.</p>
 ]]>
   	</content:encoded>
 	</item>

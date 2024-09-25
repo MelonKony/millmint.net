@@ -18,11 +18,47 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Merce</title>
+	  <link>/characters/merce/</link>
+	  <pubDate>Mon, 23 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/merce/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Rin</title>
 	  <link>/characters/rin/</link>
-	  <pubDate>Wed, 21 Aug 2024 08:00:00 EST</pubDate>
+	  <pubDate>Thu, 12 Sep 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>/characters/rin/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> ]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Nerd-Girl</title>
+	  <link>/characters/nerd-girl/</link>
+	  <pubDate>Tue, 10 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/characters/nerd-girl/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>
@@ -77,24 +113,6 @@
 	  <pubDate>Sat, 18 May 2024 08:00:00 EST</pubDate>
 	  
 	  <guid>/characters/kefra/</guid>
-	  <author>
-		  <name>MillMint</name>
-		  <uri>https://millmint.net/</uri>
-	  </author>
-	  <description>
-	  <![CDATA[]]>
-	  </description>
-	 <content:encoded>
-	 	<![CDATA[<img src="https://millmint.net"/> ]]>
-  	</content:encoded>
-	</item>
-	
-	<item>
-	  <title>Merce</title>
-	  <link>/characters/merce/</link>
-	  <pubDate>Mon, 22 Apr 2024 08:00:00 EST</pubDate>
-	  
-	  <guid>/characters/merce/</guid>
 	  <author>
 		  <name>MillMint</name>
 		  <uri>https://millmint.net/</uri>

@@ -14,10 +14,33 @@
 	<description>Recent content in Rin </description>
 	<generator>Hugo</generator>
 	<language>en</language>
-	<lastBuildDate>Wed, 21 Aug 2024 08:00:00 EST</lastBuildDate>
+	<lastBuildDate>Thu, 12 Sep 2024 08:00:00 EST</lastBuildDate>
 	<webfeeds:icon>//favicon.png</webfeeds:icon>
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/rin/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+	  <title>Her Day Off</title>
+	  <link>/stories/dropout/</link>
+	  <pubDate>Thu, 12 Sep 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/dropout/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[She wears a men&rsquo;s suit to work. Last seen here. Rude coworker on her day off. She is 33 years old, doesn&rsquo;t have a boyfriend and is still a gemstone clerk. Her mum calls her twice a week about both.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/dropout.jpg"/> <blockquote class="note caption">
+  <span class="text">She wears a men&rsquo;s suit to work. <a href="/stories/colleague/">Last seen here.</a></span>
+</blockquote>
+
+<p>Rude coworker on her day off. She is 33 years old, doesn&rsquo;t have a boyfriend and is still a gemstone clerk. Her mum calls her twice a week about both.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
 	<item>
 	  <title>Colleague</title>
 	  <link>/stories/colleague/</link>

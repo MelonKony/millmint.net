@@ -633,7 +633,7 @@ background: color-mix(in srgb, var(--color-landscape) 10%, transparent);
 <ul>
 <li><strong>Commonwealth National University of the West Indies</strong>: Historic and thriving main campus of Kalina&rsquo;s oldest university, second only to Vekllei National University in its size.</li>
 <li><strong>Universal Cotton Plant of the West Indies</strong>: Large textiles manufacturer that produces much of Vekllei&rsquo;s clothing output in the Kalina region.</li>
-<li><strong>Naval Station Antigua</strong>: Large naval service base and dockyard, and home of the Kalina Auxiliary Fleet.</li>
+<li><strong><a class="slink"  style="color: var(--color-marine); background: color-mix(in srgb, var(--color-marine) 10%, transparent);" href="/factbook/world/places/ns-antigua/"><span class="fi fi-min-marine fis"></span> Naval Station Antigua</a></strong>: Large naval service base and dockyard, and home of the Kalina Auxiliary Fleet.</li>
 <li><strong>Commonwealth Industrial Caribbean Bank</strong>: Modernist bank headquarters that regularly hosts visitors from the US and Central America.</li>
 <li><strong>Antigua Recreational Grounds</strong>: Large cricket stadium and host of the North Kalina Regional Cup.</li>
 <li><strong>Dickenson Bay</strong>: Beautiful white beach with old-fashioned promenade and arcade.</li>
