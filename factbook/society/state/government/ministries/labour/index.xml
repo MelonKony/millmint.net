@@ -61,5 +61,27 @@
   	</content:encoded>
 	</item>
 	
+	<item>
+	  <title>Commonwealth Employment Register</title>
+	  <link>/factbook/society/state/government/ministries/labour/commonwealth-employment-register/</link>
+	  <pubDate>Mon, 01 Jan 0001 08:00:00 EST</pubDate>
+	  
+	  <guid>/factbook/society/state/government/ministries/labour/commonwealth-employment-register/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ The CER is part of the Ministry of Labour ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net"/> <blockquote class="note series">
+  <span class="text">The CER is part of the <a class="slink"  style="color: var(--color-labour); background: color-mix(in srgb, var(--color-labour) 10%, transparent);" href="/factbook/society/state/government/ministries/labour/"><span class="fi fi-min-labour fis"></span> Ministry of Labour</a></span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
   </channel>
 </rss>
