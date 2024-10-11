@@ -18,6 +18,94 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/tzipora/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Moron</title>
+	  <link>/stories/moron/</link>
+	  <pubDate>Wed, 09 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/moron/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Moron. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/moron.jpg"/> <blockquote class="note caption">
+  <span class="text">Moron.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Fireworks</title>
+	  <link>/stories/fireworks/</link>
+	  <pubDate>Mon, 07 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/fireworks/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A school medic who sometimes fights her patients. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/fireworks.jpg"/> <blockquote class="note caption">
+  <span class="text">A school medic who sometimes fights her patients.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Medic</title>
+	  <link>/stories/medic/</link>
+	  <pubDate>Sun, 06 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/medic/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A school medic who sometimes fights her patients. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/medic.jpg"/> <blockquote class="note caption">
+  <span class="text">A school medic who sometimes fights her patients.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Coast Guard</title>
+	  <link>/stories/washed-ashore/</link>
+	  <pubDate>Thu, 03 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/washed-ashore/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ The coast guard has arrived. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/coastguard.jpg"/> <blockquote class="note caption">
+  <span class="text">The coast guard has arrived.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Lighter</title>
 	  <link>/stories/lighter/</link>
 	  <pubDate>Tue, 24 Sep 2024 08:00:00 EST</pubDate>

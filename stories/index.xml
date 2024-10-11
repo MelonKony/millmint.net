@@ -18,6 +18,164 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Moron</title>
+	  <link>/stories/moron/</link>
+	  <pubDate>Wed, 09 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/moron/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Moron. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/moron.jpg"/> <blockquote class="note caption">
+  <span class="text">Moron.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Academic</title>
+	  <link>/stories/academic/</link>
+	  <pubDate>Tue, 08 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/academic/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Similar to this student uniform I drew a while back. The kinds of silks seen here are worn in East Vekllei, which means the Verde Commonwealth. Linens are instead typically used in the West (the Vekllei Caribbean).]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/academic.jpg"/> <blockquote class="note caption">
+  <span class="text">Similar to <a href="/stories/levant/">this student uniform</a> I drew a while back.</span>
+</blockquote>
+
+<p>The kinds of silks seen here are worn in East Vekllei, which means the <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/verde/"><span class="fi fi-verde"></span> Verde Commonwealth</a>. Linens are instead typically used in the West (the Vekllei Caribbean).</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Fireworks</title>
+	  <link>/stories/fireworks/</link>
+	  <pubDate>Mon, 07 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/fireworks/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A school medic who sometimes fights her patients. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/fireworks.jpg"/> <blockquote class="note caption">
+  <span class="text">A school medic who sometimes fights her patients.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Platform Attendant</title>
+	  <link>/stories/platform/</link>
+	  <pubDate>Mon, 07 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/platform/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Platform attendant. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/platform.jpg"/> <blockquote class="note caption">
+  <span class="text">Platform attendant.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Medic</title>
+	  <link>/stories/medic/</link>
+	  <pubDate>Sun, 06 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/medic/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ A school medic who sometimes fights her patients. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/medic.jpg"/> <blockquote class="note caption">
+  <span class="text">A school medic who sometimes fights her patients.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Coast Guard</title>
+	  <link>/stories/washed-ashore/</link>
+	  <pubDate>Thu, 03 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/washed-ashore/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ The coast guard has arrived. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/coastguard.jpg"/> <blockquote class="note caption">
+  <span class="text">The coast guard has arrived.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Antigua</title>
+	  <link>/stories/antigua/</link>
+	  <pubDate>Tue, 01 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/antigua/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Catching the coastal tram in Antigua. Antigua is part of Vekllei, which spans pole to pole as a union of Atlantic and Caribbean communities.
+In the background, the Caribbea Cane sugar mill looms over the town. Antigua is one of the few places in the Lesser Antilles where sugar is still grown.]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/antigua.jpg"/> <blockquote class="note caption">
+  <span class="text">Catching the coastal tram in Antigua.</span>
+</blockquote>
+
+<p><a class="slink" style="color: rgb(133, 122, 187); background: color-mix(in srgb, rgb(133, 122, 187) 10%, transparent);" href="/factbook/world/vekllei/kalina/antigua/"><span class="fi fi-antigua"></span> Antigua</a> is part of Vekllei, which spans pole to pole as a union of Atlantic and Caribbean communities.</p>
+<p>In the background, the Caribbea Cane sugar mill looms over the town. Antigua is one of the few places in the Lesser Antilles where sugar is still grown.</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Lighter</title>
 	  <link>/stories/lighter/</link>
 	  <pubDate>Tue, 24 Sep 2024 08:00:00 EST</pubDate>
