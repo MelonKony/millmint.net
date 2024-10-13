@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    
+    <script>
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Tzipora - MillMint</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="Hobart Phillips" />
+    
+
+    <link rel="stylesheet" href="/style.min.e430aa85fffc0d95a0f17412fbedbdb61b7ea623239228a670075f242e3c5e080ece7d9f30b80a91e744077cce53a9883a317fb7c6869ca7d1c1a3e189976248.css" integrity="sha512-5DCqhf/8DZWg8XQS&#43;&#43;29tht&#43;piMjkiimcAdfJC48XggOzn2fMLgKkedEB3zOU6mIOjF/t8aGnKfRwaPhiZdiSA==">
+
+
+
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tzipora &middot; MillMint" />
+    <meta property="og:description" content="The home of Vekllei. Retro worldbuilding, with good intentions." />
+    <meta property="og:site_name" content="MillMint" />
+    <meta property="og:url" content="/characters/tzipora/" />
+    <meta property="og:locale" content="en">
+    
+    <script defer src="/flexsearch.min.js"></script>
+    <script defer src="/en.search.min.90861388655d10672eb80ab004b96f973e8b534b8bfab94d3a54656caf13a127.js" ></script>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script>
+
+    <style>
+        html {
+            visibility: visible;
+            opacity: 1;
+        }
+    </style>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <script defer src="/js/millmint.min.30f86c1ddefea241b78cbdbeb5c9c4f76a08d4c726fd91bbe0a82575a6fcb789.js"></script>
+</head>
+
+<body data-color="yellow"  class="show-all-images">
+    <main>
+        <article class="notebook">
+
+<header>
+    <div class="brand">
+        <a class="name" href="/">MillMint</a>
+        <a class="emoji" id="whirlybat" href="/">-millmint</a>
+    </div>
+
+    
+
+    <button id="theme-button" class="navbutton">
+        <span id="dark_mode_btn" class="navicon hidden button">🌒</span>
+        <span id="light_mode_btn" class="navicon hidden button">☀️</span>
+    </button>
+
+    
+    
+   <div class="search">
+     <input type="text" id="search-input" placeholder="Search" aria-label="" maxlength="64" data-hotkeys="s/" />
+     <div class="search-spinner hidden"></div>
+     <ul id="search-results"></ul>
+   </div>
+
+
+    
+</header>
+
+
+<nav>
+    <ul class="navbar left">
+           
+
+           
+           
+
+           <span class="navlink "> <a href="/intro/"><span class="navicon">📔</span> Intro</a></span>
+           
+
+           <span class="navlink "> <a href="/factbook/"><span class="navicon">📓</span> Factbook</a></span>
+           
+
+           <span class="navlink "> <a href="/millmint/"><span class="navicon">📕</span> MillMint</a></span>
+           
+
+           <span class="navlink "> <a href="/stories/"><span class="navicon">📗</span> Stories</a></span>
+           
+    </ul>
+
+    <ul class="navbar right">
+        
+        <li>
+            <svg class="navicon"xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Patreon" href="https://www.patreon.com/vekllei" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M512 194.8c0 101.3-82.4 183.8-183.8 183.8-101.7 0-184.4-82.4-184.4-183.8 0-101.6 82.7-184.3 184.4-184.3C429.6 10.5 512 93.2 512 194.8zM0 501.5h90v-491H0v491z"/>
+            </svg>
+        </li>
+        <li>
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Discord" href="https://discord.gg/dCE6vSU" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"/>
+            </svg>
+        </li>
+        <li>
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Visit the MillMint Twitter" href="https://x.com/vekllei" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+            </svg>
+        </li>
+        <li>
+            <svg class="navicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <style>
+                path {
+                    color: var(--color-gray);
+                }
+            </style>
+            <a aria-label="Subscribe to the MillMint RSS feed" href="/stories/index.xml" type="application/rss+xml" target="_blank"
+             rel="noopener noreferrer">>
+            <path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/>
+            </svg>
+        </li>
+      </ul>
+</nav>
+
+    <style>
+  .close-btn {
+    color: var(--highlight);
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: auto;
+  }
+
+  #notice {
+    margin: .5rem 0 0 0;
+    display: flex;
+    align-items: center;
+    display: none;
+  }
+
+  .close-btn:hover {
+    opacity: .5;
+  }
+
+  span.new-tag {
+    margin-right: 5px;
+    line-height: .8rem;
+  }
+  span.nav-tag {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    span.nav-tag {
+      display: none;
+    }
+  }
+</style>
+
+
+<blockquote id="notice" class="note panel" style="padding: .5rem;">
+  
+  <span class="tag new-tag">NEW</span> <a
+    style="white-space: nowrap; overflow:hidden;" href="/stories/moron/"><span class="navicon">📗</span>Story: <i>Moron</i></a>
+  <span id="close-btn" class="navicon close-btn">❌</span>
+</blockquote>
+
+
+<script>
+  
+  
+
+  function checkNewStories() {
+    const notice = document.querySelector("#notice");
+    const storiesLink = document.querySelector(`.menu-link[href="/stories/"]`);
+
+    const noticesSeen = JSON.parse(localStorage.getItem("noticesSeen") || "[]");
+    const noticesVisited = JSON.parse(localStorage.getItem("noticesVisited") || "[]");
+    const currentNoticeHref = notice.querySelector("a").href
+
+    if(location.pathname.startsWith('/stories/')) {
+      
+      noticesVisited.push(currentNoticeHref);
+      localStorage.setItem("noticesVisited", JSON.stringify(noticesVisited))
+    }
+
+    if(!noticesVisited.includes(currentNoticeHref)) {
+      
+      const newTag = document.createElement("span");
+      newTag.classList.add("tag", "new-tag", "nav-tag");
+      newTag.textContent = "NEW";
+
+      storiesLink.insertBefore(newTag, storiesLink.children[2])
+    }
+
+    if(noticesSeen.includes(currentNoticeHref)) {
+      
+      notice.style.display = "none";
+    }
+
+    
+    notice.querySelector("#close-btn").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+    
+    notice.querySelector("#notice a").addEventListener("click", () => {
+      noticesSeen.push(currentNoticeHref);
+      localStorage.setItem("noticesSeen", JSON.stringify(noticesSeen))
+      notice.style.display = "none";
+    })
+  }
+
+  checkNewStories()
+</script>
+<section class="page">
+<h1 class="title">Tzipora</h1>
+<a href="/characters/"><button>← Back to Characters</button></a>
+
+<article class="content" style="margin-top: 0;">
+		
+  
+<header class="info">
+  <h1 class="title"></h1>
+  <div class="date" style="margin-right: .25rem;">
+    </div>
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+</header>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
+  
+
+  <figure>
+  <a href="/" target="_blank" rel="noopener noreferrer">
+    
+  </a>
+</figure>
+
+
+
+
+
+
+
+<article autonumbering>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+    <p><strong>Tzipora</strong> <em>lo Ula de Helette</em> <strong>Azela</strong>, often called <strong>Zelda</strong> by her friends, is the main character of this project. She was born in 2047 in Colombia, but lives in <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> with <a href="/characters/baron/">Baron</a>.</p>
+<p>Though born to Vekllei parents, she was raised overseas in Colombia and was later educated in the United States. Since her arrival in Vekllei, she has returned to school and has formed sincere and close friendships, stabilising the more neurotic and anxious parts of her personality.</p>
+<details>
+<summary>Factsheet</summary>
+<ul>
+<li><strong><span class="navicon">💬</span> Name</strong>: Tzipora &ldquo;Zelda&rdquo; Azela</li>
+<li><strong><span class="navicon">💼</span> Occupation</strong>: Student</li>
+<li><strong><span class="navicon">🏠</span> Residence</strong>: Seispri, Borough of Lola, <a class="slink" style="color: rgb(88, 90, 190); background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);" href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>, <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a></li>
+<li><strong><span class="navicon">🔄</span> Age</strong>: 16</li>
+</ul>
+</details>
+<details>
+<summary>Appearance</summary>
+<p>Tzipora is blue-eyed and black-haired of mixed Gitana (Spanish Roma) and Ashkenazic heritage. She has a round head and a big smile, and is naturally athletic. She has dry, wiry hair that she parts in the middle. She speaks Oslolan serviceably, but prefers to communicate in English and has a Latin American accent.</p>
+<p>She dresses in internationalist styles and has maintained a consistent taste throughout her life. She has a preference for loose-fitting clothing some would characterise as scruffy. She is most commonly seen in soft cotton shirts, shorts or dresses, uneven socks and flat shoes or sandals.</p>
+</details>
+<details>
+<summary>Personality</summary>
+<p>Tzipora is nonconformist by way of ignorance or obstinance depending on the occasion.</p>
+<p>She is paranoid and conservative, good-natured and austere, with a moral outlook bound by her deepest anxieties and obsessions. She can be thoughtful and astute, and is fascinated with objects and their history. She has many collections of many things she’s found.</p>
+<p>She is a Catholic, but has a confrontational relationship with God and only attends mass on holidays, and usually prays to Mary instead. She also has Jewish ancestry and observes some Jewish holidays and traditions while living with Baron.</p>
+<p>Tzipora may be intense and inward-facing, but she can also be disarmingly charming and self-deprecating. She has a good sense of humour. There are not many people that can so easily reconcile the contradictions between the peculiar and the healthy, the eccentric and the friendly, and the violent and the domestic. That’s part of her character — an essence of being that radiates decency, good taste and a respect for the spirit of all things.</p>
+</details>
+</article>
+
+	<div class="postcard-layout">
+		<ul class="postcard-grid">
+			
+			
+			<li class="card" href="/stories/fishgirl/">
+				<a href="/stories/fishgirl/">
+					<div class="postcard-meta">
+						<div class="title">Fishgirl
+							<div data-card-color="222, 124, 121"></div>
+							
+						</div>
+						<div class="date">2024/07/28</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/fishgirl_hu6345e171067dd806c496e85f5e0fe9a8_1690788_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/downriver/">
+				<a href="/stories/downriver/">
+					<div class="postcard-meta">
+						<div class="title">Downriver
+							<div data-card-color="106, 115, 124"></div>
+							
+						</div>
+						<div class="date">2024/07/15</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/rain_hu67f925a9aa59f6c1f76c83ffc6bc9064_2445035_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/comedian/">
+				<a href="/stories/comedian/">
+					<div class="postcard-meta">
+						<div class="title">The Comedian
+							<div data-card-color="101, 85, 80"></div>
+							
+						</div>
+						<div class="date">2024/07/14</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/comedian_huda3d275a9ee64fc5ce3f0852352178bd_2963493_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/like-each-other/">
+				<a href="/stories/like-each-other/">
+					<div class="postcard-meta">
+						<div class="title">They Like Each Other
+							<div data-card-color="95, 121, 54"></div>
+							
+						</div>
+						<div class="date">2024/07/10</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/comix_hu2355b4933bef6a6a04e1d8a2063eed93_2402154_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/school-photo/">
+				<a href="/stories/school-photo/">
+					<div class="postcard-meta">
+						<div class="title">School Photo
+							<div data-card-color="114, 51, 42"></div>
+							
+						</div>
+						<div class="date">2024/06/19</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/school-photo_hubab0e8ab1a7ee1464703b53c30a65ca7_1934200_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/sniff/">
+				<a href="/stories/sniff/">
+					<div class="postcard-meta">
+						<div class="title">Sniff
+							<div data-card-color="115, 102, 133"></div>
+							
+						</div>
+						<div class="date">2024/06/11</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/sniff_huf82ac12822e4c5bbcfb225f82435db50_1103581_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/tank-engine/">
+				<a href="/stories/tank-engine/">
+					<div class="postcard-meta">
+						<div class="title">Tank Engine
+							<div data-card-color="240, 95, 90"></div>
+							
+						</div>
+						<div class="date">2024/06/09</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/railfan_hu933c68ef21c2957cac4fff8196aa4b42_2238992_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/her-best/">
+				<a href="/stories/her-best/">
+					<div class="postcard-meta">
+						<div class="title">Her Best
+							<div data-card-color="199, 177, 86"></div>
+							
+						</div>
+						<div class="date">2024/06/08</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/comics/best_hueb05952b2c6e15f7c9a9674d2c61d2e6_2884963_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/froggy/">
+				<a href="/stories/froggy/">
+					<div class="postcard-meta">
+						<div class="title">Froggy
+							<div data-card-color="210, 109, 40"></div>
+							
+						</div>
+						<div class="date">2024/06/05</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/froggy_hu536a789c522a566a81eaf03b4b2e223f_1133635_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+			<li class="card" href="/stories/offering/">
+				<a href="/stories/offering/">
+					<div class="postcard-meta">
+						<div class="title">The Offering
+							<div data-card-color="132, 174, 200"></div>
+							
+						</div>
+						<div class="date">2024/06/03</div>
+					</div>
+					<div class="postcard-image no-link">
+						<figure>
+	
+	
+	<img class="page" src="/images/fullres/offering_hu1e6179151549fdb45fedcd4161896c26_1534039_680x0_resize_q90_h2_box.webp" alt="">
+	
+	
+</figure>
+					</div>
+				</a>
+			</li>
+			
+		</ul>
+		
+	</div>
+</article>
+
+
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/characters/tzipora/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/page/2/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/page/4/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/characters/tzipora/page/40/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+
+
+            </section><footer>
+  
+  
+  
+  
+  
+
+  
+
+  <ul  class="breadcrumbs">
+    
+
+
+
+
+
+<li
+>
+    <a href="/">Home</a>
+</li>
+
+
+<li
+>
+    <a href="/characters/">Characters</a>
+</li>
+
+
+<li
+ >
+    <a href="/characters/tzipora/">Tzipora</a>
+</li>
+
+</ul>
+
+
+
+  
+
+
+  <div class="footer">
+    <span class="smalldate">Edited 14/10/2024</span>
+    <span class="pill">
+      <div class="pill-category">characters</div>
+      <div class="pill-icon"></div>
+      <div class="pill-title">Tzipora</div>
+    </span>
+
+    
+    <div class="redditlink">
+      
+    </div>
+  </div>
+
+  <br>
+
+  
+  <div class="copyright">
+    Copyright © 2017-2024 Studio MillMint
+  </div>
+  
+</footer></article>
+    </main>
+</body>
+
+</html>

@@ -35,9 +35,9 @@
 
     
     <meta name="author" content="Hobart Phillips" />
-    <meta name="robots" content="noindex">
+    
 
-    <link rel="stylesheet" href="/style.min.4bb9aea712a4114da6d260ebe1f33e7f62fc968c59d1ba641af2325950ad7a236a061a24fa2043b1eb8a2c6c30c4de58c98976e1614bca4b55dffc7b69869b79.css" integrity="sha512-S7mupxKkEU2m0mDr4fM&#43;f2L8loxZ0bpkGvIyWVCteiNqBhok&#43;iBDseuKLGwwxN5YyYl24WFLyktV3/x7aYabeQ==">
+    <link rel="stylesheet" href="/style.min.e430aa85fffc0d95a0f17412fbedbdb61b7ea623239228a670075f242e3c5e080ece7d9f30b80a91e744077cce53a9883a317fb7c6869ca7d1c1a3e189976248.css" integrity="sha512-5DCqhf/8DZWg8XQS&#43;&#43;29tht&#43;piMjkiimcAdfJC48XggOzn2fMLgKkedEB3zOU6mIOjF/t8aGnKfRwaPhiZdiSA==">
 
 
 
@@ -50,9 +50,10 @@
     <meta property="og:locale" content="en">
     
     <script defer src="/flexsearch.min.js"></script>
-    <script defer src="/en.search.min.2970e343e7acf42f8bf8d573d7e5b46a4509b03de3225bc2da47a79f9af676f7.js" ></script>
+    <script defer src="/en.search.min.90861388655d10672eb80ab004b96f973e8b534b8bfab94d3a54656caf13a127.js" ></script>
     
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js"></script>
     <script type="text/javascript" src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
     <script type="text/javascript" src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script>
 
@@ -300,7 +301,7 @@
 
 
 
-<article autonumbering>
+<article>
 
 
 
@@ -319,497 +320,1195 @@
 
     
     <style>
-	header.info {
-		height: 2.5rem;
-	}
+  header.info {
+	height: 2.5rem;
+  }
 </style>
-<blockquote class="note ">
-  <span class="text"><span class="navicon">📓</span> <strong>Factbook</strong> is the encyclopaedia of <a class="slink"  style="color: var(--color-vekllei); background: color-mix(in srgb, var(--color-vekllei) 10%, transparent);" href="/factbook/world/vekllei/"><span class="fi fi-com"></span> Vekllei</a> and its society. You can learn more about the country, see the <a href="/map">world map</a> or visit the <a href="/timeline/">timeline</a>.</span>
-</blockquote>
+<div class="factbook">
 
- <div class="slider">
-	<div class="slide-track">
-		<img src="/svg/flags/4x3/ac.svg">
-		<img src="/svg/flags/4x3/fk.svg">
-		<img src="/svg/flags/4x3/sh.svg">
-		<img src="/svg/flags/4x3/java.svg">
-		<img src="/svg/flags/4x3/santes.svg">
-		<img src="/svg/flags/4x3/gs.svg">
-		<img src="/svg/flags/4x3/sj.svg">
-		<img src="/svg/flags/4x3/costa-verde.svg">
-		<img src="/svg/flags/4x3/ms.svg">
-		<img src="/svg/flags/4x3/aloubaera.svg">
-		<img src="/svg/flags/4x3/gd.svg">
-		<img src="/svg/flags/4x3/kairi.svg">
-		<img src="/svg/flags/4x3/kala.svg">
-		<img src="/svg/flags/4x3/aloi.svg">
-		<img src="/svg/flags/4x3/habacoa.svg">
-		<img src="/svg/flags/4x3/bb.svg">
-		<img src="/svg/flags/4x3/ai.svg">
-		<img src="/svg/flags/4x3/antigua.svg">
-		<img src="/svg/flags/4x3/barbary.svg">
-		<img src="/svg/flags/4x3/vg.svg">
-		<img src="/svg/flags/4x3/rum.svg">
-		<img src="/svg/flags/4x3/fo.svg">
-		<img src="/svg/flags/4x3/demon.svg">
-		<img src="/svg/flags/4x3/oslola.svg">
-	</div>
-	<div class="slide-track">
-		<img src="/svg/flags/4x3/ac.svg">
-		<img src="/svg/flags/4x3/fk.svg">
-		<img src="/svg/flags/4x3/sh.svg">
-		<img src="/svg/flags/4x3/java.svg">
-		<img src="/svg/flags/4x3/santes.svg">
-		<img src="/svg/flags/4x3/gs.svg">
-		<img src="/svg/flags/4x3/sj.svg">
-		<img src="/svg/flags/4x3/costa-verde.svg">
-		<img src="/svg/flags/4x3/ms.svg">
-		<img src="/svg/flags/4x3/aloubaera.svg">
-		<img src="/svg/flags/4x3/gd.svg">
-		<img src="/svg/flags/4x3/kairi.svg">
-		<img src="/svg/flags/4x3/kala.svg">
-		<img src="/svg/flags/4x3/aloi.svg">
-		<img src="/svg/flags/4x3/habacoa.svg">
-		<img src="/svg/flags/4x3/bb.svg">
-		<img src="/svg/flags/4x3/ai.svg">
-		<img src="/svg/flags/4x3/antigua.svg">
-		<img src="/svg/flags/4x3/barbary.svg">
-		<img src="/svg/flags/4x3/vg.svg">
-		<img src="/svg/flags/4x3/rum.svg">
-		<img src="/svg/flags/4x3/fo.svg">
-		<img src="/svg/flags/4x3/demon.svg">
-		<img src="/svg/flags/4x3/oslola.svg">
+<div class="factbook-intro">
+
+
+<link rel="stylesheet" href="/css/parallax/volcanic.css">
+<script>
+  function resizeIframe(obj) {
+	obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
+
+<div id="animation-images">
+	  <img id="falling-1" class="asset" src="/images/mastheads/parallax/hills/1.png" />
+	  <img id="falling-2" class="asset" src="/images/mastheads/parallax/hills/2.png" />
+	  <img id="falling-3" class="asset" src="/images/mastheads/parallax/hills/3.png" />
+	  <img id="falling-4" class="asset" src="/images/mastheads/parallax/hills/4.png" />
+	  <img id="falling-5" class="asset" src="/images/mastheads/parallax/hills/5.png" />
+	  <img id="falling-6" class="asset" src="/images/mastheads/parallax/hills/6.png" />
+	  <img id="falling-7" class="asset" src="/images/mastheads/parallax/hills/7.png" />
+	  <img id="falling-8" class="asset" src="/images/mastheads/parallax/hills/8.png" />
+  </div>
+  <canvas id="HeaderCanvas" class="edge-to-edge hug-top" width="3996" height="1212"></canvas>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+
+<script src="/js/parallax-hills/hills-engine.js"></script>
+<script src="/js/parallax-hills/parallax-hills.js"></script><div class="factbook-intro factbook-text" style="background: transparent;">
+		<b>Welcome.</b> May this document serve a useful purpose to you, as you learn more about this remarkable country. Use it as a reference for when you need it.
 	</div>
 </div>
 
-
-<div class="bento">
-	<div class="box" one-third>
-		<a class="boxtitle" href="/intro/" millmint>
-			<span class="navicon">🧾</span>
-			<span class="name">Intro</span>
-		</a>
-		<div class="tray" millmint>
-			<li><a href="/intro/">
-				<span class="navicon">💸</span>
-				<span class="name">Intro</span></a>
-			</li>
-			<li><a href="/faq/">
-				<span class="navicon">📊</span>
-				<span class="name">FAQ</span></a>
-			</li>
+	<div class="bento">
+		<div class="box" one-third>
+			<a class="boxtitle" href="/millmint/" vekllei>
+				<span class="navicon">📓</span>
+				<span class="name">To start</span>
+			</a>
+			<div class="tray" vekllei>
+				<a href="/vekllei/">
+					<span class="fi fi-com"></span>
+					<span class="name"> Vekllei</span>
+				</a>
+			</div>
+			<div class="tray" blue>
+				<a href="/maps/world/">
+					<span class="navicon">🌎</span>
+					<span class="name">World Map</span>
+				</a>
+			</div>
+			<div class="tray" brown>
+				<a href="/timeline/">
+					<span class="navicon">⏳</span>
+					<span class="name">Timeline</span>
+				</a>
+			</div>
 		</div>
-	</div>
 
-	<div class="box" two-thirds>
-		<a class="boxtitle" href="/bulletin/" millmint>
-			<span class="navicon">🧾</span>
-			<span class="name">Featured Bulletins (FAQ)</span>
-		</a>
-		<div class="tray" millmint>
-			<li><a href="/bulletin/alcohol/">
-				<span class="navicon">🍷</span>
-				<span class="name">Alcohol in Vekllei</span></a>
-			</li>
-			<li><a href="/bulletin/productivity/">
-				<span class="navicon">📊</span>
-				<span class="name">Economic Productivity in Vekllei</span></a>
-			</li>
-			<li><a href="/bulletin/looks/">
-				<span class="navicon">🫥</span>
-				<span class="name">Why do Vekllei People Look Like That?</span></a>
-			</li>
-			<a  href="/bulletin/"><button>
-				Read more...
-			</button></a>
-		</div>
-	</div>
-</div>
-<div class="bento">
-	<div class="box" two-thirds>
-		<a class="boxtitle" href="/vekllei/" vekllei>
-			<span class="fi fi-com"></span>
-			<span class="name" vekllei>Vekllei</span></a><a href="/factbook/"><span> — Featured Articles</span></a>
-		<div class="tray" vekllei>
-			<div>
-				<a href="/state/">
-					<span class="navicon">🌸</span>
-					<span class="name">State:</span>
-				</a>
-				<a href="/education/"><i>
-						<span class="name">Education in Vekllei</span>
-					</i></a>
+		<div class="box" two-thirds>
+			<a class="boxtitle" href="/log/" millmint>
+				<span class="navicon">📋</span>
+				<span class="name">Recent Updates</span>
+			</a>
+			<div class="tray" millmint>
+					<ul>
+						
+					  <li>
+						  <a href="/millmint/log/">
+						   <span class="icon" style="line-height: 1.2;">📋</span> Update Log</a>
+					  </li>
+					
+					  <li>
+						  <a href="/factbook/society/state/consosva/">
+						   <span class="icon" style="line-height: 1.2;">⏳</span> Consosva</a>
+					  </li>
+					
+					  <li>
+						  <a href="/factbook/society/state/oceans-community/">
+						   <span class="icon" style="line-height: 1.2;">🏵️</span> COMOC</a>
+					  </li>
+					
+					</ul>
+				<a  href="/log/"><button>
+					Read more...
+				</button></a>
 			</div>
-			<div>
-				<a href="/culture/">
-					<span class="navicon">🏵️</span>
-					<span class="name">Culture:</span>
-				</a>
-				<a href="/veletia/"><i>
-						<span class="name">Veletia</span>
-					</i></a>
-			</div>
-			<div>
-				<a href="/technology/">
-					<span class="navicon">🧪</span>
-					<span class="name">Technology:</span>
-				</a>
-				<a href="/computers/"><i>
-						<span class="name">Computers in Vekllei</span>
-					</i></a>
-			</div>
-			<a  href="/factbook/"><button>
-				Read more...
-			</button></a>
 		</div>
 	</div>
 
-	<div class="box" one-third>
-		<a class="boxtitle" href="/maps/" blue>
-			<span class="navicon">🗺️</span>
-			<span class="name">Maps</span>
-		</a>
-		<div class="tray" blue>
-			<a href="/maps/world/">
-				<span class="navicon">🌎</span>
-				<span class="name">World Map</span>
+	<div class="bento">
+		<div class="box" full>
+			<a class="boxtitle" href="/stories/" yellow>
+				<span class="navicon">📖</span>
+				<span class="name">Recent Stories</span>
 			</a>
-			<a href="/maps/route-map/">
-				<span class="navicon">✈️</span>
-				<span class="name">Route Map</span>
-			</a>
+			<div class="tray" yellow>
+				<a href="/characters/tzipora/">
+					<span class="fi fi-tzipora fis"></span>
+					<span class="name">Tzipora</span>
+				</a>
+				<a href="/characters/cobian/">
+					<span class="fi fi-cobian fis"></span>
+					<span class="name">Cobian</span>
+				</a>
+				<a href="/characters/baron/">
+					<span class="fi fi-baron fis"></span>
+					<span class="name">Baron</span>
+				</a>
+				<a href="/characters/ayn/">
+					<span class="fi fi-ayn fis"></span>
+					<span class="name">Ayn</span>
+				</a>
+				<a href="/characters/moise/">
+					<span class="fi fi-moise fis"></span>
+					<span class="name">Moise</span>
+				</a>
+				<a href="/characters/coretti/">
+					<span class="fi fi-coretti fis"></span>
+					<span class="name">Coretti</span>
+				</a>
+				<a href="/characters/zhi/">
+					<span class="fi fi-zhi fis"></span>
+					<span class="name">Zhi</span>
+				</a>
+				<a href="/characters/">
+					<span class="name" style="color: var(--color-yellow);">More Characters →</span>
+				</a>
+			</div>
 		</div>
-		<div class="tray" brown>
-			<a href="/timeline/">
-				<span class="navicon">⏳</span>
-				<span class="name">Timeline</span>
-			</a>
-		</div>
-	</div>
 
 	<div class="box" full>
-		<a class="boxtitle" href="/republics/" green>
-			<span class="navicon">💮</span>
-			<span class="name">Vekllei Republics</span>
-		</a>
-		<div class="tray" green>
-			<a href="/aismious/">
-				<span class="fi fi-fo"></span>
-				<span class="name">Aismious</span>
-			</a>
-			<a href="/allia/">
-				<span class="fi fi-ms"></span>
-				<span class="name">Allia</span>
-			</a>
-			<a href="/aloi/">
-				<span class="fi fi-aloi"></span>
-				<span class="name">Aloi</span>
-			</a>
-			<a href="/aloubaera/">
-				<span class="fi fi-aloubaera"></span>
-				<span class="name">Aloubaera</span>
-			</a>
-			<a href="/anguilla/">
-				<span class="fi fi-ai"></span>
-				<span class="name">Anguilla</span>
-			</a>
-			<a href="/antigua/">
-				<span class="fi fi-antigua"></span>
-				<span class="name">Antigua</span>
-			</a>
-			<a href="/ascension/">
-				<span class="fi fi-ac"></span>
-				<span class="name">Ascension</span>
-			</a>
-			<a href="/barbados/">
-				<span class="fi fi-bb"></span>
-				<span class="name">Barbados</span>
-			</a>
-			<a href="/barbary/">
-				<span class="fi fi-barbary"></span>
-				<span class="name">Barbary</span>
-			</a>
-			<a href="/cama/">
-				<span class="fi fi-gd"></span>
-				<span class="name">Cama</span>
-			</a>
-			<a href="/costa-verde/">
-				<span class="fi fi-costa-verde"></span>
-				<span class="name">Costa Verde</span>
-			</a>
-			<a href="/demon/">
-				<span class="fi fi-demon"></span>
-				<span class="name">Demon</span>
-			</a>
-			<a href="/falklands/">
-				<span class="fi fi-fk"></span>
-				<span class="name">Falklands</span>
-			</a>
-			<a href="/habacoa/">
-				<span class="fi fi-habacoa"></span>
-				<span class="name">Habacoa</span>
-			</a>
-			<a href="/helena/">
-				<span class="fi fi-sh"></span>
-				<span class="name">Helena</span>
-			</a>
-			<a href="/helvasia/">
-				<span class="fi fi-sj"></span>
-				<span class="name">Helvasia</span>
-			</a>
-			<a href="/hetland/">
-				<span class="fi fi-hetland"></span>
-				<span class="name">Hetland</span>
-			</a>
-			<a href="/java/">
-				<span class="fi fi-java"></span>
-				<span class="name">Java</span>
-			</a>
-			<a href="/kairi/">
-				<span class="fi fi-kairi"></span>
-				<span class="name">Kairi</span>
-			</a>
-			<a href="/kala/">
-				<span class="fi fi-kala"></span>
-				<span class="name">Kala</span>
-			</a>
-			<a href="/oslola/">
-				<span class="fi fi-oslola"></span>
-				<span class="name">Oslola</span>
-			</a>
-			<a href="/rum/">
-				<span class="fi fi-rum"></span>
-				<span class="name">Rum</span>
-			</a>
-			<a href="/santes/">
-				<span class="fi fi-santes"></span>
-				<span class="name">Santes</span>
-			</a>
-			<a href="/sude/">
-				<span class="fi fi-gs"></span>
-				<span class="name">Sude</span>
-			</a>
-			<a href="/virgin/">
-				<span class="fi fi-vg"></span>
-				<span class="name">Virgin</span>
-			</a>
+		<div class="showcase" five>
+			
+			<div class="navcard">
+				<a href="/stories/moron/">
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/moron_huf651c5591a8f2cabc2ad4a730dc83f6d_2888436_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+			<div class="navcard">
+				<a href="/stories/academic/">
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/academic_hu6ad00b67dd858d6cfdea3a49c41ed1be_1676771_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+			<div class="navcard">
+				<a href="/stories/fireworks/">
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/fireworks_hu2b66b1b6dfbed3ea2f1461aeff04e4c2_2658675_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+			<div class="navcard">
+				<a href="/stories/platform/">
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/platform_hu13662f944873e540eb486b0f00d0762f_1605637_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+			<div class="navcard">
+				<a href="/stories/medic/">
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/medic_hu881a6181ea92da1ab6c495328ea5ba75_1111783_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+		</div>
+
+		<div class="showcase" three>
+			
+			<div class="navcard">
+				<a href="/stories/moron/">
+					
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/moron_huf651c5591a8f2cabc2ad4a730dc83f6d_2888436_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+			<div class="navcard">
+				<a href="/stories/academic/">
+					
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/academic_hu6ad00b67dd858d6cfdea3a49c41ed1be_1676771_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+			<div class="navcard">
+				<a href="/stories/fireworks/">
+					
+					<figure>
+						
+						
+						<img class="page" src="/images/fullres/fireworks_hu2b66b1b6dfbed3ea2f1461aeff04e4c2_2658675_680x0_resize_q90_h2_box.webp" alt="">
+						
+						
+					</figure>
+				</a>
+			</div>
+			
+		</div>
+	</div>
+	</div>
+
+
+	<details class="section" open="true">
+		<summary><h3>Bulletins</h3></summary>
+
+	<p class="factbook-text">
+		Bulletins are short articles on Vekllei society. They answer some frequently asked questions, and touch on aspects of life that might not conform to a regular wiki article.
+	</p>
+
+	<div class="list">
+	<div class="factbook-bulletin-list">
+		<ul>
+		
+		<li><a class="slink"   style="color: rgb(170, 143, 31);
+		 background: color-mix(in srgb, rgb(170, 143, 31) 10%, transparent);"  href="/factbook/bulletin/accounted-revenue/"><span class=""></span> Accounted Revenue</a></li>
+		
+		<li><a class="slink"   style="color: rgb(184, 84, 168);
+		 background: color-mix(in srgb, rgb(184, 84, 168) 10%, transparent);"  href="/factbook/bulletin/airline-travel/"><span class=""></span> Airline Travel</a></li>
+		
+		<li><a class="slink"   style="color: rgb(222, 24, 87);
+		 background: color-mix(in srgb, rgb(222, 24, 87) 10%, transparent);"  href="/factbook/bulletin/alcohol/"><span class=""></span> Alcohol</a></li>
+		
+		<li><a class="slink"   style="color: rgb(110, 200, 134);
+		 background: color-mix(in srgb, rgb(110, 200, 134) 10%, transparent);"  href="/factbook/bulletin/automatic-allocation/"><span class=""></span> Automatic Allocation</a></li>
+		
+		<li><a class="slink"   style="color: rgb(203, 108, 164);
+		 background: color-mix(in srgb, rgb(203, 108, 164) 10%, transparent);"  href="/factbook/bulletin/bankruptcy/"><span class=""></span> Bankruptcy in Vekllei</a></li>
+		
+		<li><a class="slink"   style="color: rgb(255, 82, 141);
+		 background: color-mix(in srgb, rgb(255, 82, 141) 10%, transparent);"  href="/factbook/bulletin/bureaucracy/"><span class=""></span> Bureaucracy in Vekllei</a></li>
+		
+		<li><a class="slink"   style="color: rgb(187, 81, 227);
+		 background: color-mix(in srgb, rgb(187, 81, 227) 10%, transparent);"  href="/factbook/bulletin/courtesy/"><span class=""></span> Courtesy</a></li>
+		
+		<li><a class="slink"  style="
+		 color: var(--color-foreignaffairs);
+		 background: color-mix(in srgb, var(--color-foreignaffairs) 10%, transparent)"   href="/factbook/bulletin/foreign-policy/"><span class=""></span> Foreign Policy</a></li>
+		
+		<li><a class="slink"   style="color: rgb(238, 72, 155);
+		 background: color-mix(in srgb, rgb(238, 72, 155) 10%, transparent);"  href="/factbook/bulletin/government-ownership/"><span class=""></span> Government Ownership</a></li>
+		
+		<li><a class="slink"   style="color: rgb(117, 135, 218);
+		 background: color-mix(in srgb, rgb(117, 135, 218) 10%, transparent);"  href="/factbook/bulletin/consensus/"><span class=""></span> Government Style</a></li>
+		
+		<li><a class="slink"   style="color: rgb(88, 155, 204);
+		 background: color-mix(in srgb, rgb(88, 155, 204) 10%, transparent);"  href="/factbook/bulletin/tour/"><span class=""></span> National Tour</a></li>
+		
+		<li><a class="slink"   style="color: rgb(94, 194, 40);
+		 background: color-mix(in srgb, rgb(94, 194, 40) 10%, transparent);"  href="/factbook/bulletin/natural-commodities/"><span class=""></span> Natural Commodities</a></li>
+		
+		<li><a class="slink"   style="color: rgb(90, 193, 143);
+		 background: color-mix(in srgb, rgb(90, 193, 143) 10%, transparent);"  href="/factbook/bulletin/lots/"><span class=""></span> One Person, One Factory</a></li>
+		
+		<li><a class="slink"   style="color: rgb(184, 105, 17);
+		 background: color-mix(in srgb, rgb(184, 105, 17) 10%, transparent);"  href="/factbook/bulletin/productivity/"><span class=""></span> Productivity</a></li>
+		
+		<li><a class="slink"   style="color: rgb(236, 92, 27);
+		 background: color-mix(in srgb, rgb(236, 92, 27) 10%, transparent);"  href="/factbook/bulletin/standardisation/"><span class=""></span> Standardisation</a></li>
+		
+		<li><a class="slink"   style="color: rgb(86, 174, 200);
+		 background: color-mix(in srgb, rgb(86, 174, 200) 10%, transparent);"  href="/factbook/bulletin/technology/"><span class=""></span> Technology</a></li>
+		
+		<li><a class="slink"   style="color: rgb(200, 110, 189);
+		 background: color-mix(in srgb, rgb(200, 110, 189) 10%, transparent);"  href="/factbook/bulletin/elsewhere/"><span class=""></span> The Commons Overseas</a></li>
+		
+		<li><a class="slink"   style="color: rgb(57, 136, 170);
+		 background: color-mix(in srgb, rgb(57, 136, 170) 10%, transparent);"  href="/factbook/bulletin/looks/"><span class=""></span> Why do Vekllei People Look Like That?</a></li>
+		
+		</ul>
+	</div>
+	</div>
+	</details>
+
+	<details class="section" open="true">
+	<summary><h3>Territories & Constituents</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei spans pole to pole as a union of island communities. It is a unique federal country, with no direct precedent or comparison. It is made up of constituent republics organised into regional commonwealths.
+	</p>
+
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/antarctic/"><span class="fi fi-antarctic factbook-icon"></span> Antarctic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(48, 106, 175);
+			 background: color-mix(in srgb, rgb(48, 106, 175) 10%, transparent);"  href="/factbook/world/vekllei/antarctic/ascension/"><span class="fi fi-ac"></span> Ascension</a>
+			
+			<a class="slink"   style="color: rgb(60, 122, 184);
+			 background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);"  href="/factbook/world/vekllei/antarctic/falklands/"><span class="fi fi-fk"></span> Falklands</a>
+			
+			<a class="slink"   style="color: rgb(24, 117, 71);
+			 background: color-mix(in srgb, rgb(24, 117, 71) 10%, transparent);"  href="/factbook/world/vekllei/antarctic/helena/"><span class="fi fi-sh"></span> Helena</a>
+			
+			<a class="slink"   style="color: rgb(211, 45, 71);
+			 background: color-mix(in srgb, rgb(211, 45, 71) 10%, transparent);"  href="/factbook/world/vekllei/antarctic/santes/"><span class="fi fi-santes"></span> Santes</a>
+			
+			<a class="slink"   style="color: rgb(60, 122, 184);
+			 background: color-mix(in srgb, rgb(60, 122, 184) 10%, transparent);"  href="/factbook/world/vekllei/antarctic/sude/"><span class="fi fi-gs"></span> Sude</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/antilles/"><span class="fi fi-antilles factbook-icon"></span> Antilles Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/arctic/"><span class="fi fi-arctic factbook-icon"></span> Arctic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(219, 2, 3);
+			 background: color-mix(in srgb, rgb(219, 2, 3) 10%, transparent);"  href="/factbook/world/vekllei/arctic/helvasia/"><span class="fi fi-sj"></span> Helvasia</a>
+			
+			<a class="slink"   style="color: rgb(39, 126, 72);
+			 background: color-mix(in srgb, rgb(39, 126, 72) 10%, transparent);"  href="/factbook/world/vekllei/arctic/kala/"><span class="fi fi-kala"></span> Kala</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/atlantic/"><span class="fi fi-atlantic factbook-icon"></span> Atlantic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(33, 131, 67);
+			 background: color-mix(in srgb, rgb(33, 131, 67) 10%, transparent);"  href="/factbook/world/vekllei/atlantic/costa-verde/"><span class="fi fi-costa-verde"></span> Costa Verde</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/kalina/"><span class="fi fi-kalina factbook-icon"></span> Kalina Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(6, 136, 72);
+			 background: color-mix(in srgb, rgb(6, 136, 72) 10%, transparent);"  href="/factbook/world/vekllei/kalina/allia/"><span class="fi fi-ms"></span> Allia</a>
+			
+			<a class="slink"   style="color: rgb(48, 99, 172);
+			 background: color-mix(in srgb, rgb(48, 99, 172) 10%, transparent);"  href="/factbook/world/vekllei/kalina/aloi/"><span class="fi fi-aloi"></span> Aloi</a>
+			
+			<a class="slink"   style="color: rgb(46, 114, 225);
+			 background: color-mix(in srgb, rgb(46, 114, 225) 10%, transparent);"  href="/factbook/world/vekllei/kalina/aloubaera/"><span class="fi fi-aloubaera"></span> Aloubaera</a>
+			
+			<a class="slink"   style="color: rgb(249, 150, 50);
+			 background: color-mix(in srgb, rgb(249, 150, 50) 10%, transparent);"  href="/factbook/world/vekllei/kalina/anguilla/"><span class="fi fi-ai"></span> Anguilla</a>
+			
+			<a class="slink"   style="color: rgb(133, 122, 187);
+			 background: color-mix(in srgb, rgb(133, 122, 187) 10%, transparent);"  href="/factbook/world/vekllei/kalina/antigua/"><span class="fi fi-antigua"></span> Antigua</a>
+			
+			<a class="slink"   style="color: rgb(255, 37, 37);
+			 background: color-mix(in srgb, rgb(255, 37, 37) 10%, transparent);"  href="/factbook/world/vekllei/kalina/barbados/"><span class="fi fi-bb"></span> Barbados</a>
+			
+			<a class="slink"   style="color: rgb(110, 110, 110);
+			 background: color-mix(in srgb, rgb(110, 110, 110) 10%, transparent);"  href="/factbook/world/vekllei/kalina/barbary/"><span class="fi fi-barbary"></span> Barbary</a>
+			
+			<a class="slink"   style="color: rgb(2, 123, 93);
+			 background: color-mix(in srgb, rgb(2, 123, 93) 10%, transparent);"  href="/factbook/world/vekllei/kalina/cama/"><span class="fi fi-gd"></span> Cama</a>
+			
+			<a class="slink"   style="color: rgb(215, 18, 45);
+			 background: color-mix(in srgb, rgb(215, 18, 45) 10%, transparent);"  href="/factbook/world/vekllei/kalina/kairi/"><span class="fi fi-kairi"></span> Kairi</a>
+			
+			<a class="slink"   style="color: rgb(241, 112, 30);
+			 background: color-mix(in srgb, rgb(241, 112, 30) 10%, transparent);"  href="/factbook/world/vekllei/kalina/virgin/"><span class="fi fi-vg"></span> Virgin</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/lucaya/"><span class="fi fi-lucaya factbook-icon"></span> Lucayan Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(251, 99, 44);
+			 background: color-mix(in srgb, rgb(251, 99, 44) 10%, transparent);"  href="/factbook/world/vekllei/lucaya/habacoa/"><span class="fi fi-habacoa"></span> Habacoa</a>
+			
+			<a class="slink"   style="color: rgb(57, 122, 205);
+			 background: color-mix(in srgb, rgb(57, 122, 205) 10%, transparent);"  href="/factbook/world/vekllei/lucaya/rum/"><span class="fi fi-rum"></span> Rum</a>
+			
+			<a class="slink"   style="color: rgb(28, 101, 198);
+			 background: color-mix(in srgb, rgb(28, 101, 198) 10%, transparent);"  href="/factbook/world/vekllei/lucaya/summers/"><span class="fi fi-summers"></span> Summers</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/verde/"><span class="fi fi-verde factbook-icon"></span> Verde Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(217, 20, 19);
+			 background: color-mix(in srgb, rgb(217, 20, 19) 10%, transparent);"  href="/factbook/world/vekllei/verde/java/"><span class="fi fi-java"></span> Java</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-vekllei);" href="/volcanic/"><span class="fi fi-volcanic factbook-icon"></span> Volcanic Republics</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(67, 101, 187);
+				 background: color-mix(in srgb, rgb(67, 101, 187) 10%, transparent);"  href="/factbook/world/vekllei/volcanic/aismious/"><span class="fi fi-fo"></span> Aismious</a>
+			
+			<a class="slink"   style="color: rgb(229, 156, 54);
+				 background: color-mix(in srgb, rgb(229, 156, 54) 10%, transparent);"  href="/factbook/world/vekllei/volcanic/demon/"><span class="fi fi-demon"></span> Demon</a>
+			
+			<a class="slink"   style="color: rgb(249, 150, 51);
+				 background: color-mix(in srgb, rgb(249, 150, 51) 10%, transparent);"  href="/factbook/world/vekllei/volcanic/hetland/"><span class="fi fi-hetland"></span> Hetland</a>
+			
+			<a class="slink"   style="color: rgb(88, 90, 190);
+				 background: color-mix(in srgb, rgb(88, 90, 190) 10%, transparent);"  href="/factbook/world/vekllei/volcanic/oslola/"><span class="fi fi-oslola"></span> Oslola</a>
+			
+		</div>
+	</div>
+	</details>
+
+	<details class="section" open="true">
+	<summary><h3>Society</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei society is democratic, prosperous and diverse. It also has many unusual features that arise from its unique geography and political systems.
+	</p>
+
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a href="/state/">State</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(52, 95, 223);
+			 background: color-mix(in srgb, rgb(52, 95, 223) 10%, transparent);"  href="/factbook/society/state/oceans-community/"><span class="fi fi-comoc"></span> COMOC</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/consosva/"><span class=""></span> Consosva</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/constituents/"><span class=""></span> Constituents</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/corsosva/"><span class=""></span> Corsosva</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/documents/"><span class=""></span> Documents</a>
+			
+			<a class="slink"   style="color: rgb(147, 71, 208);
+			 background: color-mix(in srgb, rgb(147, 71, 208) 10%, transparent);"  href="/factbook/society/state/schools/"><span class="fi fi-min-schools fis"></span> Education in Vekllei</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/espionage/"><span class=""></span> Espionage</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/federalisation/"><span class=""></span> Federalisation</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/finance/"><span class=""></span> Finance</a>
+			
+			<a class="slink"   style="color: rgb(62, 158, 244);
+			 background: color-mix(in srgb, rgb(62, 158, 244) 10%, transparent);"  href="/factbook/society/state/free-nations/"><span class=""></span> Forum of Free Nations</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/"><span class="fi fi-min-vekllei fis"></span> Government</a>
+			
+			<a class="slink"   style="color: rgb(45, 122, 235);
+			 background: color-mix(in srgb, rgb(45, 122, 235) 10%, transparent);"  href="/factbook/society/state/healthcare/"><span class="fi fi-min-healthcare fis"></span> Healthcare in Vekllei</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/law/"><span class=""></span> Law</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/police/"><span class=""></span> Police</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/housing/"><span class=""></span> Property</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/republics/"><span class=""></span> Republics</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-pink);
+			 background: color-mix(in srgb, var(--color-pink) 10%, transparent)"   href="/factbook/society/state/territories/"><span class=""></span> Territories</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/wag/"><span class=""></span> Work Action Groups</a>
+			
 		</div>
 	</div>
 
-	<div class="box" half>
-		<a class="boxtitle" href="/constituents/" vekllei>
-			<span class="navicon">🏴</span>
-			<span class="name">Commonwealths</span>
-		</a>
-		<div class="tray" vekllei>
-			<a href="/antarctic/">
-				<span class="fi fi-antarctic"></span>
-				<span class="name">Antarctic</span>
-			</a>
-			<a href="/antilles/">
-				<span class="fi fi-antilles"></span>
-				<span class="name">Antilles</span>
-			</a>
-			<a href="/arctic/">
-				<span class="fi fi-arctic"></span>
-				<span class="name">Arctic</span>
-			</a>
-			<a href="/atlantic/">
-				<span class="fi fi-atlantic"></span>
-				<span class="name">Atlantic</span>
-			</a>
-			<a href="/kalina/">
-				<span class="fi fi-kalina"></span>
-				<span class="name">Kalina</span>
-			</a>
-			<a href="/lucaya/">
-				<span class="fi fi-lucaya"></span>
-				<span class="name">Lucaya</span>
-			</a>
-			<a href="/verde/">
-				<span class="fi fi-verde"></span>
-				<span class="name">Verde</span>
-			</a>
-			<a href="/volcanic/">
-				<span class="fi fi-volcanic"></span>
-				<span class="name">Volcanic</span>
-			</a>
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a href="/law">Law</a>
 		</div>
-
-		<a class="boxtitle" href="/government/" millmint>
-			<span class="navicon">🌸</span>
-			<span class="name">Vekllei Government</span>
-		</a>
-		<div class="tray" millmint>
-			<a href="/parliaments/ " class="boxtitle">Commonwealth Parliaments</a>
-			<a href="/community/">
-				<span class="fi fi-min-community fis"></span>
-				<span class="name">Community</span>
-			</a>
-			<a href="/civic/">
-				<span class="fi fi-min-civic fis"></span>
-				<span class="name">Civic</span>
-			</a>
-			<a href="/democracy/">
-				<span class="fi fi-min-democracy fis"></span>
-				<span class="name">Democracy</span>
-			</a>
-			<a href="/health/">
-				<span class="fi fi-min-health fis"></span>
-				<span class="name">Health</span>
-			</a>
-			<a href="/education-parliament/">
-				<span class="fi fi-min-education fis"></span>
-				<span class="name">Education</span>
-			</a>
-			<a href="/security/">
-				<span class="fi fi-min-security fis"></span>
-				<span class="name">Security</span>
-			</a>
-		</div>
-		<div class="tray" millmint>
-			<a href="/ministries/" class="boxtitle">Devolved Ministries</a>
-			<a href="/ministry-of-commerce/">
-				<span class="fi fi-min-commerce fis"></span>
-				<span class="name">Commerce</span>
-			</a>
-			<a href="/ministry-of-culture/">
-				<span class="fi fi-min-culture fis"></span>
-				<span class="name">Culture</span>
-			</a>
-			<a href="/ministry-of-defence/">
-				<span class="fi fi-min-defence fis"></span>
-				<span class="name">Defence</span>
-			</a>
-			<a href="/ministry-of-foreign-affairs/">
-				<span class="fi fi-min-foreign-affairs fis"></span>
-				<span class="name">Foreign Affairs</span>
-			</a>
-			<a href="/ministry-of-industry/">
-				<span class="fi fi-min-industry fis"></span>
-				<span class="name">Industry</span>
-			</a>
-			<a href="/ministry-of-labour/">
-				<span class="fi fi-min-labour fis"></span>
-				<span class="name">Labour</span>
-			</a>
-			<a href="/ministry-of-landscape/">
-				<span class="fi fi-min-landscape fis"></span>
-				<span class="name">Landscape</span>
-			</a>
-			<a href="/ministry-of-light-and-water/">
-				<span class="fi fi-min-light-and-water fis"></span>
-				<span class="name">Light & Water</span>
-			</a>
-			<a href="/ministry-of-the-commons/">
-				<span class="fi fi-min-commons fis"></span>
-				<span class="name">Commons</span>
-			</a>
-			<a href="/ministry-of-the-commonwealth/">
-				<span class="fi fi-min-commonwealth fis"></span>
-				<span class="name">Commonwealth</span>
-			</a>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/law/basic-laws/"><span class=""></span> Basic Laws</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/law/century-society/"><span class=""></span> Century Society</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/law/rights/"><span class=""></span> Civil Rights</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/law/constitution/"><span class=""></span> Constitution</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/law/deathpenalty/"><span class=""></span> Death Penalty in Vekllei</a>
+			
 		</div>
 	</div>
+	</details>
 
-	<div class="box" half>
-		<a class="boxtitle" href="/industry/" purple>
-			<span class="navicon">⚙️</span>
-			<span class="name">Vekllei Industry</span>
-		</a>
-		<div class="tray" purple>
-			<a href="/private-industry/ " class="boxtitle">Private Industry</a>
-			<a href="/adelectrics/">
-				<span class="fi fi-min-adelectrics fis"></span>
-				<span class="name">Adelectrics</span>
-			</a>
-			<a href="/atlantic-store/">
-				<span class="fi fi-min-atlantic-store fis"></span>
-				<span class="name">Atlantic</span>
-			</a>
-			<a href="/cateral/">
-				<span class="fi fi-min-cateral fis"></span>
-				<span class="name">Cateral</span>
-			</a>
-			<a href="/gina/">
-				<span class="fi fi-min-gina fis"></span>
-				<span class="name">Gina</span>
-			</a>
+	<details class="section" open="true">
+	<summary><h3>Government</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei government plays an important role in the lives of Vekllei people. It is both powerful and decentralised, and its network of parliaments, ministries and bureaux contribute substantially to the standard of living in the country.
+	</p>
+
+	<div class="list">
+		<div class="list-item" one-third millmint>
+			<a href="/government/">Structure of Government</a>
 		</div>
-		<div class="tray" purple>
-			<div><a href="/municipal-industry/ " class="boxtitle">Municipal Industry</a></div>
-			<a href="/united-grocers/">
-				<span class="fi fi-min-united-grocers fis"></span>
-				<span class="name">United Grocers</span>
-			</a>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/cabinet/"><span class="fi fi-min-vekllei fis"></span> Cabinet</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/civil-servants/"><span class=""></span> Civil Servants</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-vekllei);
+			 background: color-mix(in srgb, var(--color-vekllei) 10%, transparent)"   href="/factbook/society/state/government/council/"><span class="fi fi-min-council fis"></span> Council</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/directory/"><span class="fi fi-min-vekllei fis"></span> Directory</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/bureaus/"><span class=""></span> Government Bureaus</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/ministries/"><span class=""></span> Ministries</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/government/municipalities/"><span class=""></span> Municipalities</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/government/assembly/"><span class="fi fi-min-vekllei-purple fis"></span> National Assemblies</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/parliaments/"><span class=""></span> Parliaments</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/state/government/senate/"><span class="fi fi-min-vekllei-purple fis"></span> Senate</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-millmint);
+			 background: color-mix(in srgb, var(--color-millmint) 10%, transparent)"   href="/factbook/society/state/government/sorda/"><span class="fi fi-min-vekllei fis"></span> Sorda</a>
+			
 		</div>
-		<div class="tray" purple>
-			<div><a href="/state-industry/ " class="boxtitle">State Industry</a></div>
-			<a href="/cac/">
-				<span class="fi fi-min-cac fis"></span>
-				<span class="name">CommAircraft</span>
-			</a>
-			<a href="/air/">
-				<span class="fi fi-min-air fis"></span>
-				<span class="name">CommAirways</span>
-			</a>
-			<a href="/commonwealth-bank/">
-				<span class="fi fi-min-combank fis"></span>
-				<span class="name">CommBank</span>
-			</a>
-			<a href="/commonwealth-lines/">
-				<span class="fi fi-min-CL fis"></span>
-				<span class="name">CommLines</span>
-			</a>
-			<a href="/oil/">
-				<span class="fi fi-min-oil fis"></span>
-				<span class="name">CommOil</span>
-			</a>
-			<a href="/starlines/">
-				<span class="fi fi-min-starlines fis"></span>
-				<span class="name">CommStarlines</span>
-			</a>
-			<a href="/cosma/">
-				<span class="fi fi-min-cosma fis"></span>
-				<span class="name">Cosma</span>
-			</a>
-			<a href="/gaf/">
-				<span class="fi fi-min-gaf fis"></span>
-				<span class="name">GAF</span>
-			</a>
-			<a href="/nch/">
-				<span class="fi fi-min-nch fis"></span>
-				<span class="name">NCH</span>
-			</a>
-			<a href="/post/">
-				<span class="fi fi-min-post fis"></span>
-				<span class="name">CommPost</span>
-			</a>
-			<a href="/rail/">
-				<span class="fi fi-min-rail fis"></span>
-				<span class="name">CommRail</span>
-			</a>
-			<a href="/ratings/">
-				<span class="fi fi-min-ratings fis"></span>
-				<span class="name">CRC</span>
-			</a>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-commerce);" href="/ministry-of-commerce/"><span class="fi fi-min-commerce fis factbook-icon"></span> Ministry of Commerce</a>
 		</div>
-		<div class="tray" purple>
-			<div><a href="/bureaus/ " class="boxtitle">Bureau Industry</a></div>
-			<a href="/atlantis/">
-				<span class="fi fi-min-atlantis fis"></span>
-				<span class="name">Atlantis Company</span>
-			</a>
-			<a href="/general-reactor/">
-				<span class="fi fi-min-general-reactor fis"></span>
-				<span class="name">General Reactor</span>
-			</a>
-			<a href="/national-machines/">
-				<span class="fi fi-min-national-machines fis"></span>
-				<span class="name">National Machines</span>
-			</a>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-commerce);
+			 background: color-mix(in srgb, var(--color-commerce) 10%, transparent)"   href="/factbook/society/state/government/ministries/commerce/bureau-of-securities/"><span class="fi fi-min-commerce fis"></span> Bureau of Securities</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commerce);
+			 background: color-mix(in srgb, var(--color-commerce) 10%, transparent)"   href="/factbook/society/state/government/ministries/commerce/bureau-of-trade/"><span class="fi fi-min-commerce fis"></span> Bureau of Trade</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commerce);
+			 background: color-mix(in srgb, var(--color-commerce) 10%, transparent)"   href="/factbook/society/state/government/ministries/commerce/commonwealth-mint/"><span class="fi fi-min-commerce fis"></span> Commonwealth Mint</a>
+			
+			<a class="slink"   style="color: rgb(2, 121, 190);
+			 background: color-mix(in srgb, rgb(2, 121, 190) 10%, transparent);"  href="/factbook/society/state/government/ministries/commerce/commonwealth-securities-exchange/"><span class="fi fi-min-commsec fis"></span> Commonwealth Securities Exchange</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commerce);
+			 background: color-mix(in srgb, var(--color-commerce) 10%, transparent)"   href="/factbook/society/state/government/ministries/commerce/commonwealth-treasury/"><span class="fi fi-min-commerce fis"></span> Commonwealth Treasury</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-commons);" href="/ministry-of-the-commons/"><span class="fi fi-min-commons fis factbook-icon"></span> Ministry of the Commons</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/asre/"><span class="fi fi-min-asre fis"></span> ASRE</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-aerospace/"><span class="fi fi-min-commons fis"></span> Bureau of Aerospace</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-housing/"><span class="fi fi-min-commons fis"></span> Bureau of Housing</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-oceans/"><span class="fi fi-min-commons fis"></span> Bureau of Nature</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-nature/"><span class="fi fi-min-commons fis"></span> Bureau of Oceans</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-public-works/"><span class="fi fi-min-commons fis"></span> Bureau of Public Works</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-rail/"><span class="fi fi-min-commons fis"></span> Bureau of Rail</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-roads-and-paths/"><span class="fi fi-min-commons fis"></span> Bureau of Roads &amp; Paths</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commons);
+			 background: color-mix(in srgb, var(--color-commons) 10%, transparent)"   href="/factbook/society/state/government/ministries/commons/bureau-of-space/"><span class="fi fi-min-commons fis"></span> Bureau of Space</a>
+			
+			<a class="slink"   style="color: rgb(239, 91, 26);
+			 background: color-mix(in srgb, rgb(239, 91, 26) 10%, transparent);"  href="/factbook/society/state/government/ministries/commons/housing-commission/"><span class="fi fi-min-housing-commission fis"></span> Housing Commission</a>
+			
+			<a class="slink"   style="color: rgb(255, 86, 79);
+			 background: color-mix(in srgb, rgb(255, 86, 79) 10%, transparent);"  href="/factbook/society/state/government/ministries/commons/transport-commission/"><span class="fi fi-min-transport-commission fis"></span> Transport Commission</a>
+			
+			<a class="slink"   style="color: rgb(234, 29, 46);
+			 background: color-mix(in srgb, rgb(234, 29, 46) 10%, transparent);"  href="/factbook/society/state/government/ministries/commons/transport-laboratories/"><span class="fi fi-min-commons fis"></span> Transport Laboratories</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-commonwealth);" href="/ministry-of-the-commonwealth/"><span class="fi fi-min-commonwealth fis factbook-icon"></span> Ministry of the Commonwealth</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/bureau-of-accreditation/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Accreditation</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/bureau-of-commonwealth-corporations/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Commonwealth Corporations</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/bureau-of-policy-research/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Policy Research</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/bureau-of-standards/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Standards</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/bureau-of-statistics/"><span class="fi fi-min-commonwealth fis"></span> Bureau of Statistics</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/civil-service-academy/"><span class="fi fi-min-commonwealth fis"></span> Commonwealth Civil Service Academy</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/commonwealth-electoral-commission/"><span class="fi fi-min-commonwealth fis"></span> Commonwealth Electoral Commission</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-commonwealth);
+			 background: color-mix(in srgb, var(--color-commonwealth) 10%, transparent)"   href="/factbook/society/state/government/ministries/commonwealth/commonwealth-public-press/"><span class="fi fi-min-commonwealth fis"></span> Commonwealth Public Press</a>
+			
+			<a class="slink"   style="color: rgb(0, 155, 113);
+			 background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);"  href="/factbook/society/state/government/ministries/commonwealth/siro/"><span class="fi fi-min-siro fis"></span> SIRO</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-culture);" href="/ministry-of-culture/"><span class="fi fi-min-culture fis factbook-icon"></span> Ministry of Culture</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/bureau-of-commonwealth-affairs/"><span class="fi fi-min-culture fis"></span> Bureau of Commonwealth Affairs</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/bureau-of-post-and-telecommunications/"><span class="fi fi-min-culture fis"></span> Bureau of Post &amp; Telecommunications</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/bureau-of-press-and-news-media/"><span class="fi fi-min-culture fis"></span> Bureau of Press &amp; News Media</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/bureau-of-records-and-telegraphs/"><span class="fi fi-min-culture fis"></span> Bureau of Records &amp; Telegraphs</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/bureau-of-sport/"><span class="fi fi-min-culture fis"></span> Bureau of Sport</a>
+			
+			<a class="slink"   style="color: rgb(247, 93, 54);
+			 background: color-mix(in srgb, rgb(247, 93, 54) 10%, transparent);"  href="/factbook/society/state/government/ministries/culture/commonwealth-central-archives/"><span class="fi fi-min-archives fis"></span> Commonwealth Central Archives</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/commonwealth-media-authority/"><span class="fi fi-min-culture fis"></span> Commonwealth Media Authority</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/commonwealth-olympic-committee/"><span class="fi fi-min-culture fis"></span> Commonwealth Olympic Committee</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/national-arts-council/"><span class="fi fi-min-culture fis"></span> National Institute of Fine Arts</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/national-history-council/"><span class="fi fi-min-culture fis"></span> National Institute of History</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-culture);
+			 background: color-mix(in srgb, var(--color-culture) 10%, transparent)"   href="/factbook/society/state/government/ministries/culture/national-library/"><span class="fi fi-min-culture fis"></span> National Library</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-defence);" href="/ministry-of-defence/"><span class="fi fi-min-defence fis factbook-icon"></span> Ministry of Defence</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/armed-forces/"><span class="fi fi-min-defence fis"></span> Armed Forces</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/bureau-of-supply/"><span class="fi fi-min-defence fis"></span> Bureau of Supply</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/bureau-of-war/"><span class="fi fi-min-defence fis"></span> Bureau of War</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/die/"><span class="fi fi-min-defence fis"></span> Defence Imagery Establishment</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/dsre/"><span class="fi fi-min-dsre fis"></span> DSRE</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/police-of-the-parliament/"><span class="fi fi-min-defence fis"></span> Police of the Parliament</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-defence);
+			 background: color-mix(in srgb, var(--color-defence) 10%, transparent)"   href="/factbook/society/state/government/ministries/defence/police-of-the-public/"><span class="fi fi-min-defence fis"></span> Police of the Public</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-foreignaffairs);" href="/ministry-of-foreign-affairs/"><span class="fi fi-min-foreign-affairs fis factbook-icon"></span> Ministry of Foreign Affairs</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-foreignaffairs);
+			 background: color-mix(in srgb, var(--color-foreignaffairs) 10%, transparent)"   href="/factbook/society/state/government/ministries/foreign-affairs/bureau-of-communications/"><span class="fi fi-min-foreign-affairs fis"></span> Bureau of Communications</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-foreignaffairs);
+			 background: color-mix(in srgb, var(--color-foreignaffairs) 10%, transparent)"   href="/factbook/society/state/government/ministries/foreign-affairs/bureau-of-home-affairs/"><span class="fi fi-min-foreign-affairs fis"></span> Bureau of Home Affairs</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-foreignaffairs);
+			 background: color-mix(in srgb, var(--color-foreignaffairs) 10%, transparent)"   href="/factbook/society/state/government/ministries/foreign-affairs/bureau-of-international-missions/"><span class="fi fi-min-foreign-affairs fis"></span> Bureau of International Missions</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-foreignaffairs);
+			 background: color-mix(in srgb, var(--color-foreignaffairs) 10%, transparent)"   href="/factbook/society/state/government/ministries/foreign-affairs/bureau-of-state/"><span class="fi fi-min-foreign-affairs fis"></span> Bureau of State</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-industry);" href="/ministry-of-industry/"><span class="fi fi-min-industry fis factbook-icon"></span> Ministry of Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-industry);
+			 background: color-mix(in srgb, var(--color-industry) 10%, transparent)"   href="/factbook/society/state/government/ministries/industry/bureau-of-hydrocarbons/"><span class="fi fi-min-industry fis"></span> Bureau of Hydrocarbons</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-industry);
+			 background: color-mix(in srgb, var(--color-industry) 10%, transparent)"   href="/factbook/society/state/government/ministries/industry/bureau-of-production-surveillance/"><span class="fi fi-min-industry fis"></span> Bureau of Production Surveillance</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-industry);
+			 background: color-mix(in srgb, var(--color-industry) 10%, transparent)"   href="/factbook/society/state/government/ministries/industry/bureau-of-workers/"><span class="fi fi-min-industry fis"></span> Bureau of Workers</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-industry);
+			 background: color-mix(in srgb, var(--color-industry) 10%, transparent)"   href="/factbook/society/state/government/ministries/industry/csre/"><span class="fi fi-min-csre fis"></span> CSRE</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-labour);" href="/ministry-of-labour/"><span class="fi fi-min-labour fis factbook-icon"></span> Ministry of Labour</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-labour);
+			 background: color-mix(in srgb, var(--color-labour) 10%, transparent)"   style="color: rgb(155, 67, 199);
+			 background: color-mix(in srgb, rgb(155, 67, 199) 10%, transparent);"  href="/factbook/society/state/government/ministries/labour/bureau-of-chapels/"><span class="fi fi-min-labour fis"></span> Bureau of Chapels</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-labour);
+			 background: color-mix(in srgb, var(--color-labour) 10%, transparent)"   style="color: rgb(155, 67, 199);
+			 background: color-mix(in srgb, rgb(155, 67, 199) 10%, transparent);"  href="/factbook/society/state/government/ministries/labour/bureau-of-syndicates/"><span class="fi fi-min-labour fis"></span> Bureau of Syndicates</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-labour);
+			 background: color-mix(in srgb, var(--color-labour) 10%, transparent)"   href="/factbook/society/state/government/ministries/labour/commonwealth-employment-register/"><span class="fi fi-min-labour fis"></span> Commonwealth Employment Register</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-landscape);" href="/ministry-of-landscape/"><span class="fi fi-min-landscape fis factbook-icon"></span> Ministry of Landscape</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-landscape);
+			 background: color-mix(in srgb, var(--color-landscape) 10%, transparent)"   href="/factbook/society/state/government/ministries/landscape/bureau-of-agriculture/"><span class="fi fi-min-landscape fis"></span> Bureau of Agriculture</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-landscape);
+			 background: color-mix(in srgb, var(--color-landscape) 10%, transparent)"   href="/factbook/society/state/government/ministries/landscape/bureau-of-conservation/"><span class="fi fi-min-landscape fis"></span> Bureau of Conservation</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-landscape);
+			 background: color-mix(in srgb, var(--color-landscape) 10%, transparent)"   href="/factbook/society/state/government/ministries/landscape/bureau-of-materials/"><span class="fi fi-min-landscape fis"></span> Bureau of Materials</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-landscape);
+			 background: color-mix(in srgb, var(--color-landscape) 10%, transparent)"   href="/factbook/society/state/government/ministries/landscape/bureau-of-meteorology/"><span class="fi fi-min-landscape fis"></span> Bureau of Meteorology</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-landscape);
+			 background: color-mix(in srgb, var(--color-landscape) 10%, transparent)"   href="/factbook/society/state/government/ministries/landscape/lsre/"><span class="fi fi-min-lsre fis"></span> LSRE</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-lightandwater);" href="/ministry-of-light-and-water/"><span class="fi fi-min-light-and-water fis factbook-icon"></span> Ministry of Light &amp; Water</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-lightandwater);
+			 background: color-mix(in srgb, var(--color-lightandwater) 10%, transparent)"   href="/factbook/society/state/government/ministries/light-and-water/bureau-of-light/"><span class="fi fi-min-light-and-water fis"></span> Bureau of Light</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-lightandwater);
+			 background: color-mix(in srgb, var(--color-lightandwater) 10%, transparent)"   href="/factbook/society/state/government/ministries/light-and-water/bureau-of-water/"><span class="fi fi-min-light-and-water fis"></span> Bureau of Water</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-lightandwater);
+			 background: color-mix(in srgb, var(--color-lightandwater) 10%, transparent)"   href="/factbook/society/state/government/ministries/light-and-water/emergency-light-and-water-authority/"><span class="fi fi-min-light-and-water fis"></span> Emergency Light &amp; Water Authority</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-lightandwater);
+			 background: color-mix(in srgb, var(--color-lightandwater) 10%, transparent)"   href="/factbook/society/state/government/ministries/light-and-water/nsre/"><span class="fi fi-min-nsre fis"></span> NSRE</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-civic);" href="/civic/"><span class="fi fi-min-civic fis factbook-icon"></span> Parliament of State</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-community);" href="/community/"><span class="fi fi-min-community fis factbook-icon"></span> Parliament of Community</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-democracy);" href="/democracy/"><span class="fi fi-min-democracy fis factbook-icon"></span> Parliament of Democracy</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-education);" href="/education-parliament/"><span class="fi fi-min-education fis factbook-icon"></span> Parliament of Education</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-education);
+			 background: color-mix(in srgb, var(--color-education) 10%, transparent)"   href="/factbook/society/state/government/parliaments/education/bureau-of-public-education/"><span class="fi fi-min-education fis"></span> Bureau of Public Education</a>
+			
+			<a class="slink"   style="color: rgb(0, 155, 113);
+			 background: color-mix(in srgb, rgb(0, 155, 113) 10%, transparent);"  href="/factbook/society/state/government/parliaments/education/commonwealth-laboratories/"><span class="fi fi-min-commonwealth-labs fis"></span> Commonwealth Laboratories</a>
+			
+			<a class="slink"   style="color: rgb(34, 123, 231);
+			 background: color-mix(in srgb, rgb(34, 123, 231) 10%, transparent);"  href="/factbook/society/state/government/parliaments/education/cqc/"><span class="fi fi-min-cqc fis"></span> Curriculum &amp; Qualifications Council</a>
+			
+			<a class="slink"   style="color: rgb(2, 113, 182);
+			 background: color-mix(in srgb, rgb(2, 113, 182) 10%, transparent);"  href="/factbook/society/state/government/parliaments/education/nef/"><span class="fi fi-min-nef fis"></span> National Education Forum</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-health);" href="/health/"><span class="fi fi-min-health fis factbook-icon"></span> Parliament of Health</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/bureau-of-health-services/"><span class="fi fi-min-health fis"></span> Bureau of Health Services</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/bureau-of-public-health/"><span class="fi fi-min-health fis"></span> Bureau of Public Health</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/commonwealth-disease-authority/"><span class="fi fi-min-health fis"></span> Commonwealth Disease Authority</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/commonwealth-food-and-medicines-authority/"><span class="fi fi-min-health fis"></span> Commonwealth Food &amp; Medicines Authority</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/commonwealth-health-academy/"><span class="fi fi-min-health fis"></span> Commonwealth Health Academy</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/commonwealth-health-council/"><span class="fi fi-min-health fis"></span> Commonwealth Health Council</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/commonwealth-radiation-academy/"><span class="fi fi-min-health fis"></span> Commonwealth Radiation Authority</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/health-democracy-commission/"><span class="fi fi-min-health fis"></span> Health Democracy Commission</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-health);
+			 background: color-mix(in srgb, var(--color-health) 10%, transparent)"   href="/factbook/society/state/government/parliaments/health/msre/"><span class="fi fi-min-msre fis"></span> MSRE</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a style="color: var(--color-security);" href="/security/"><span class="fi fi-min-security fis factbook-icon"></span> Parliament of Security</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-security);
+			 background: color-mix(in srgb, var(--color-security) 10%, transparent)"   href="/factbook/society/state/government/parliaments/security/cmc/"><span class=""></span> Commonwealth Military Command</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-security);
+			 background: color-mix(in srgb, var(--color-security) 10%, transparent)"   href="/factbook/society/state/government/parliaments/security/noshem/"><span class="fi fi-min-noshem fis"></span> Noshem</a>
+			
+		</div>
+
+	</div>
+	</details>
+
+	<details class="section" open="true">
+	<summary><h3>Industry & Technology</h3></summary>
+
+	<p class="factbook-text">
+		Vekllei is an industrious, advanced country that produces much of what they need.
+	</p>
+
+	<div class="list">
+
+		<div class="list-item" one-third millmint>
+			<a href="/bureaus/">Bureaus</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(60, 120, 200);
+			 background: color-mix(in srgb, rgb(60, 120, 200) 10%, transparent);"  href="/factbook/society/industry/bureaus/atlantis/"><span class="fi fi-min-atlantis fis"></span> Atlantis</a>
+			
+			<a class="slink"   style="color: rgb(243, 3, 89);
+			 background: color-mix(in srgb, rgb(243, 3, 89) 10%, transparent);"  href="/factbook/society/industry/bureaus/common-gemstone/"><span class="fi fi-min-gemstone fis"></span> Common Gemstone</a>
+			
+			<a class="slink"   style="color: rgb(53, 156, 103);
+			 background: color-mix(in srgb, rgb(53, 156, 103) 10%, transparent);"  href="/factbook/society/industry/bureaus/general-reactor/"><span class="fi fi-min-general-reactor fis"></span> General Reactor</a>
+			
+			<a class="slink"   style="color: rgb(224, 40, 35);
+			 background: color-mix(in srgb, rgb(224, 40, 35) 10%, transparent);"  href="/factbook/society/industry/bureaus/national-machines/"><span class="fi fi-min-national-machines fis"></span> National Machines</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/municipal-industry/">Municipal Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(98, 186, 85);
+			 background: color-mix(in srgb, rgb(98, 186, 85) 10%, transparent);"  href="/factbook/society/industry/municipal/united-grocers/"><span class="fi fi-min-united-grocers fis"></span> United Grocers</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/private-industry/">Private Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(182, 34, 71);
+			 background: color-mix(in srgb, rgb(182, 34, 71) 10%, transparent);"  href="/factbook/society/industry/private/adelectrics/"><span class="fi fi-min-adelectrics fis"></span> Adelectrics</a>
+			
+			<a class="slink"   style="color: rgb(248, 69, 97);
+			 background: color-mix(in srgb, rgb(248, 69, 97) 10%, transparent);"  href="/factbook/society/industry/private/atlantic-store/"><span class="fi fi-min-atlantic-store fis"></span> Atlantic</a>
+			
+			<a class="slink"   style="color: rgb(237, 1, 0);
+			 background: color-mix(in srgb, rgb(237, 1, 0) 10%, transparent);"  href="/factbook/society/industry/private/cateral/"><span class="fi fi-min-cateral fis"></span> Cateral</a>
+			
+			<a class="slink"   style="color: rgb(203, 2, 0);
+			 background: color-mix(in srgb, rgb(203, 2, 0) 10%, transparent);"  href="/factbook/society/industry/private/gina/"><span class="fi fi-min-gina fis"></span> Gina</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/state-industry/">State Industry</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"   style="color: rgb(49, 80, 250);
+			 background: color-mix(in srgb, rgb(49, 80, 250) 10%, transparent);"  href="/factbook/society/industry/state/cac/"><span class="fi fi-min-cac fis"></span> Commonwealth Aircraft</a>
+			
+			<a class="slink"   style="color: rgb(245, 60, 89);
+			 background: color-mix(in srgb, rgb(245, 60, 89) 10%, transparent);"  href="/factbook/society/industry/state/air/"><span class="fi fi-min-air fis"></span> Commonwealth Airways</a>
+			
+			<a class="slink"   style="color: rgb(240, 93, 136);
+			 background: color-mix(in srgb, rgb(240, 93, 136) 10%, transparent);"  href="/factbook/society/industry/state/commonwealth-bank/"><span class="fi fi-min-combank fis"></span> Commonwealth Bank</a>
+			
+			<a class="slink"   style="color: rgb(232, 163, 12);
+			 background: color-mix(in srgb, rgb(232, 163, 12) 10%, transparent);"  href="/factbook/society/industry/state/commonwealth-lines/"><span class="fi fi-min-CL fis"></span> Commonwealth Lines</a>
+			
+			<a class="slink"   style="color: rgb(219, 37, 21);
+			 background: color-mix(in srgb, rgb(219, 37, 21) 10%, transparent);"  href="/factbook/society/industry/state/oil/"><span class="fi fi-min-oil fis"></span> Commonwealth Oil</a>
+			
+			<a class="slink"   style="color: rgb(255, 19, 35);
+			 background: color-mix(in srgb, rgb(255, 19, 35) 10%, transparent);"  href="/factbook/society/industry/state/post/"><span class="fi fi-min-post fis"></span> Commonwealth Post</a>
+			
+			<a class="slink"   style="color: rgb(44, 81, 177);
+			 background: color-mix(in srgb, rgb(44, 81, 177) 10%, transparent);"  href="/factbook/society/industry/state/starlines/"><span class="fi fi-min-starlines fis"></span> Commonwealth Starlines</a>
+			
+			<a class="slink"   style="color: rgb(255, 86, 79);
+			 background: color-mix(in srgb, rgb(255, 86, 79) 10%, transparent);"  href="/factbook/society/industry/state/rail/"><span class="fi fi-min-rail fis"></span> CommRail</a>
+			
+			<a class="slink"   style="color: rgb(249, 63, 40);
+			 background: color-mix(in srgb, rgb(249, 63, 40) 10%, transparent);"  href="/factbook/society/industry/state/cosma/"><span class="fi fi-min-cosma fis"></span> Cosma</a>
+			
+			<a class="slink"   style="color: rgb(247, 85, 85);
+			 background: color-mix(in srgb, rgb(247, 85, 85) 10%, transparent);"  href="/factbook/society/industry/state/gaf/"><span class="fi fi-min-gaf fis"></span> Government Aircraft Factories</a>
+			
+			<a class="slink"   style="color: rgb(232, 13, 64);
+			 background: color-mix(in srgb, rgb(232, 13, 64) 10%, transparent);"  href="/factbook/society/industry/state/nch/"><span class="fi fi-min-nch fis"></span> National Construction House</a>
+			
+			<a class="slink"   style="color: rgb(32, 97, 241);
+			 background: color-mix(in srgb, rgb(32, 97, 241) 10%, transparent);"  href="/factbook/society/industry/state/ratings/"><span class="fi fi-min-ratings fis"></span> Ratings Corporation</a>
+			
+		</div>
+
+		<div class="list-item" one-third millmint>
+			<a href="/technology/">Technology</a>
+		</div>
+		<div class="list-item" two-thirds>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/technology/common-assembly-language/"><span class=""></span> Assembly Language</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/technology/computers/"><span class=""></span> Computers</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/technology/nmpr/"><span class=""></span> Nuclear Marine Propulsion Reactor</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-purple);
+			 background: color-mix(in srgb, var(--color-purple) 10%, transparent)"   href="/factbook/society/technology/photovolumes/"><span class=""></span> Photovolumes</a>
+			
+			<a class="slink"  style="
+			 color: var(--color-marine);
+			 background: color-mix(in srgb, var(--color-marine) 10%, transparent)"   href="/factbook/society/technology/vessels/"><span class=""></span> Vessels</a>
+			
 		</div>
 	</div>
+	</details>
+
+
 </div>
 
 </article>
@@ -847,7 +1546,7 @@
 
 
   <div class="footer">
-    <span class="smalldate">Edited 11/10/2024</span>
+    <span class="smalldate">Edited 14/10/2024</span>
     <span class="pill">
       <div class="pill-category">factbook</div>
       <div class="pill-icon"></div>
