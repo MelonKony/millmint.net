@@ -18,6 +18,29 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/baron/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Father &amp; Daughter</title>
+	  <link>/stories/father-and-daughter/</link>
+	  <pubDate>Sun, 20 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/father-and-daughter/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The Director of the Internal Operations Command and his ethnically-ambiguous daughter (train enthusiast). Is she Indian? Spanish? Mapuche? Egyptian? Yiddish? Persian? Italian? Turkish? Lebanese? Mizrahi? Tamil? Mexican?]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/father-and-daughter.jpg"/> <blockquote class="note caption">
+  <span class="text">The Director of the Internal Operations Command and his ethnically-ambiguous daughter (train enthusiast).</span>
+</blockquote>
+
+<p>Is she Indian? Spanish? Mapuche? Egyptian? Yiddish? Persian? Italian? Turkish? Lebanese? Mizrahi? Tamil? Mexican?</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Medals</title>
 	  <link>/stories/medals/</link>
 	  <pubDate>Mon, 16 Sep 2024 08:00:00 EST</pubDate>

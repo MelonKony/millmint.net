@@ -18,6 +18,98 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/stories/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Father &amp; Daughter</title>
+	  <link>/stories/father-and-daughter/</link>
+	  <pubDate>Sun, 20 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/father-and-daughter/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[The Director of the Internal Operations Command and his ethnically-ambiguous daughter (train enthusiast). Is she Indian? Spanish? Mapuche? Egyptian? Yiddish? Persian? Italian? Turkish? Lebanese? Mizrahi? Tamil? Mexican?]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/father-and-daughter.jpg"/> <blockquote class="note caption">
+  <span class="text">The Director of the Internal Operations Command and his ethnically-ambiguous daughter (train enthusiast).</span>
+</blockquote>
+
+<p>Is she Indian? Spanish? Mapuche? Egyptian? Yiddish? Persian? Italian? Turkish? Lebanese? Mizrahi? Tamil? Mexican?</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Coastal Artillery</title>
+	  <link>/stories/coastal-artillery/</link>
+	  <pubDate>Fri, 18 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/coastal-artillery/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[Vekllei coastal artillery diagram, feat. a lot of missiles on rails. Rather than act as standalone bastions, these forts of the Marine Services dissuade naval invasions by forcing vessels and aircraft to engage them.
+Once close, an invading party can be surprised by bunkered missile launchers on sleds and nuclear-tipped missile trains sheltered beneath mountains. The guns are mostly for show; the carrier-killer missiles are the real deal]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/fort.jpg"/> <blockquote class="note caption">
+  <span class="text">Vekllei coastal artillery diagram, feat. a lot of missiles on rails.</span>
+</blockquote>
+
+<p>Rather than act as standalone bastions, these forts of the <a class="slink"  style="color: var(--color-marine); background: color-mix(in srgb, var(--color-marine) 10%, transparent);" href="/factbook/society/state/government/ministries/defence/armed-forces/marine/"><span class="fi fi-min-marine fis"></span> Marine Services</a> dissuade naval invasions by forcing vessels and aircraft to engage them.</p>
+<p>Once close, an invading party can be surprised by bunkered missile launchers on sleds and nuclear-tipped missile trains sheltered beneath mountains. The guns are mostly for show; the carrier-killer missiles are the real deal</p>
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Cobian</title>
+	  <link>/stories/bespectacled/</link>
+	  <pubDate>Thu, 17 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/bespectacled/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Cobian: the bespectacled, no-nonsense, well-dressed, stern-fringed, well-meaning, part-Inuit friend of Tzipora. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/cold-fish.jpg"/> <blockquote class="note caption">
+  <span class="text"><a class="slink"  style="color: var(--color-yellow); background: color-mix(in srgb, var(--color-yellow) 10%, transparent);" href="/characters/cobian/"><span class="fi fi-cobian fis"></span> Cobian</a>: the bespectacled, no-nonsense, well-dressed, stern-fringed, well-meaning, part-Inuit friend of Tzipora.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
+	  <title>Dark Energy</title>
+	  <link>/stories/dark-energy/</link>
+	  <pubDate>Tue, 15 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/dark-energy/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Dark Energy. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/energy.jpg"/> <blockquote class="note caption">
+  <span class="text">Dark Energy.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Moron</title>
 	  <link>/stories/moron/</link>
 	  <pubDate>Wed, 09 Oct 2024 08:00:00 EST</pubDate>

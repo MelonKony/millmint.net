@@ -18,6 +18,28 @@
 	<webfeeds:accentColor>DBEAFE</webfeeds:accentColor>
 	<webfeeds:related layout="card" target="browser"/><atom:link href="/characters/cobian/index.xml" rel="self" type="application/rss+xml" />
 	<item>
+	  <title>Cobian</title>
+	  <link>/stories/bespectacled/</link>
+	  <pubDate>Thu, 17 Oct 2024 08:00:00 EST</pubDate>
+	  
+	  <guid>/stories/bespectacled/</guid>
+	  <author>
+		  <name>MillMint</name>
+		  <uri>https://millmint.net/</uri>
+	  </author>
+	  <description>
+	  <![CDATA[ Cobian: the bespectacled, no-nonsense, well-dressed, stern-fringed, well-meaning, part-Inuit friend of Tzipora. ]]>
+	  </description>
+	 <content:encoded>
+	 	<![CDATA[<img src="https://millmint.net/images/fullres/cold-fish.jpg"/> <blockquote class="note caption">
+  <span class="text"><a class="slink"  style="color: var(--color-yellow); background: color-mix(in srgb, var(--color-yellow) 10%, transparent);" href="/characters/cobian/"><span class="fi fi-cobian fis"></span> Cobian</a>: the bespectacled, no-nonsense, well-dressed, stern-fringed, well-meaning, part-Inuit friend of Tzipora.</span>
+</blockquote>
+
+]]>
+  	</content:encoded>
+	</item>
+	
+	<item>
 	  <title>Moron</title>
 	  <link>/stories/moron/</link>
 	  <pubDate>Wed, 09 Oct 2024 08:00:00 EST</pubDate>
